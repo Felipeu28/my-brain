@@ -1,0 +1,16 @@
+# Teams auth — never commit credentials
+scripts/.teams_config.json
+scripts/.teams_token.json
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Obsidian workspace (local settings, not content)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Logs
+scripts/teams_log.txt
+*.log

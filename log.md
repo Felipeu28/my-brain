@@ -72,6 +72,43 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ---
 
+### [2026-04-11] Second Full Compilation — wiki/summaries + new concepts
+
+**Trigger:** Andres asked to build wiki/summaries/ for every raw file + concept pages for recurring themes + MEMORY.md.
+
+**Summaries created (11 — one per raw file):**
+- [[wiki/summaries/brain-guide]]
+- [[wiki/summaries/buda-hive-edc-2026-04-11]]
+- [[wiki/summaries/buda-hive-edc-2026-04-09]] (marked SUPERSEDED)
+- [[wiki/summaries/facebook-pages-2026-04-09]]
+- [[wiki/summaries/github-project-tracker]]
+- [[wiki/summaries/imessages-people-2026-04-09]]
+- [[wiki/summaries/know-me-extraction-prompts]]
+- [[wiki/summaries/moil-documents-2026-04-09]]
+- [[wiki/summaries/moilapp-website-2026-04-09]]
+- [[wiki/summaries/outlook-emails-2026-04-09]]
+- [[wiki/summaries/x-bookmarks-2026-04-11]]
+- [[wiki/summaries/x-bookmarks-2026-04-11-copy]]
+
+**New concept pages:**
+- [[wiki/concepts/brain-architecture]] — Andres's 5-layer pipeline
+- [[wiki/concepts/claude-code]] — Anthropic's CLI agent
+- [[wiki/concepts/claude-cowork]] — scheduled/background Claude workflows
+- [[wiki/concepts/openclaw-hermes]] — open-source parallel ecosystem
+- [[wiki/concepts/fantelo]] — Andres's parallel project
+- [[wiki/concepts/moil360]] — Moil's 30-day marketing engine brand
+- [[wiki/concepts/coffeespace]] — partnership ecosystem contact
+
+**New people pages:**
+- [[wiki/people/shay-foley]] — Johns Creek Chamber, deferred partnership
+- [[wiki/people/hazim-mohamad]] — CoffeeSpace outreach
+
+**Also updated:**
+- `index.md` — summaries section added, concept/people counts refreshed
+- `MEMORY.md` — new file capturing open actions from raw sources
+
+---
+
 ## How to add an entry
 
 Claude Code automatically appends to this file at the end of each `/kb compile` run. You do not need to edit this manually.

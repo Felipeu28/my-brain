@@ -44,7 +44,7 @@ knowledge-base/
 - [[wiki/moil/competitors]] — Competitor landscape + Moil's moat
 - [[wiki/moil/metrics]] — Single source of truth for all numbers
 
-### People (14 profiles)
+### People (16 profiles)
 - [[wiki/people/jennifer-storm]] — CEO Buda EDC, CampaignOS collaborator
 - [[wiki/people/joshua-edmond]] — HIVE co-coach, JuCoAI founder
 - [[wiki/people/jacquie-martinez]] — Buda EDC Asst. Director, HIVE manager
@@ -59,20 +59,43 @@ knowledge-base/
 - [[wiki/people/monica-davidson]] — Executive Director, Greater Buda Chamber of Commerce
 - [[wiki/people/rosemary-gamez]] — Staff, Greater Buda Chamber of Commerce
 - [[wiki/people/kim-dowers]] — Director of Ops & Programs, Queen Creek Chamber (AZ)
+- [[wiki/people/shay-foley]] — Johns Creek Chamber of Commerce, deferred AI-tools partnership
+- [[wiki/people/hazim-mohamad]] — CoffeeSpace outreach / ecosystem contact
 
-### Concepts (12 pages)
+### Concepts (19 pages)
 - [[wiki/concepts/buda-hive]] — Incubator program, cohort model, Moil integration
 - [[wiki/concepts/buda-edc]] — Buda Economic Development Corporation
 - [[wiki/concepts/aedo]] — IEDC accreditation Buda EDC is pursuing
 - [[wiki/concepts/campaignos]] — Jennifer Storm's political AI startup idea
-- [[wiki/concepts/content360]] — 30-day AI marketing engine (Moil360)
+- [[wiki/concepts/content360]] — 30-day AI marketing engine (feature)
+- [[wiki/concepts/moil360]] — Marketing-brand wrapping of Content360 (moilapp.com/marketing)
 - [[wiki/concepts/smart-hiring]] — 10+ platform hiring with AI candidate matching
 - [[wiki/concepts/llm-knowledge-bases]] — Karpathy's wiki pattern (what the Brain uses)
+- [[wiki/concepts/brain-architecture]] — Andres's 5-layer personal knowledge pipeline
+- [[wiki/concepts/claude-code]] — Anthropic's CLI agent (runtime for the Brain + dev)
+- [[wiki/concepts/claude-cowork]] — Scheduled/background Claude workflow platform
+- [[wiki/concepts/openclaw-hermes]] — Open-source parallel ecosystem (gstack, Superpowers, gbrain)
 - [[wiki/concepts/managed-agents]] — Claude Managed Agents (Apr 2026 launch)
 - [[wiki/concepts/ai-cold-outreach]] — AI-powered outbound playbooks
 - [[wiki/concepts/ai-video-tools]] — Seedance, HeyGen, Veo — 2026 landscape
 - [[wiki/concepts/buda-chamber]] — Greater Buda Chamber of Commerce, community partnership
 - [[wiki/concepts/queen-creek-chamber]] — Queen Creek AZ Chamber, first out-of-state partner
+- [[wiki/concepts/coffeespace]] — Talent/startup matching partnership lead
+- [[wiki/concepts/fantelo]] — Andres's parallel project (fantelo.com)
+
+### Summaries (one per raw source — 12 pages)
+- [[wiki/summaries/brain-guide]] — The Brain System 5-layer guide
+- [[wiki/summaries/buda-hive-edc-2026-04-11]] — Full intelligence on Buda HIVE (Apr 11)
+- [[wiki/summaries/buda-hive-edc-2026-04-09]] — Earlier Buda HIVE draft (SUPERSEDED)
+- [[wiki/summaries/facebook-pages-2026-04-09]] — AIbyAndres + MoilWorks FB pages
+- [[wiki/summaries/github-project-tracker]] — 48 repos across 3 orgs
+- [[wiki/summaries/imessages-people-2026-04-09]] — Relationship intelligence from iMessages
+- [[wiki/summaries/know-me-extraction-prompts]] — Interview prompts for Claude/ChatGPT/Grok
+- [[wiki/summaries/moil-documents-2026-04-09]] — Moil Enterprise business plan
+- [[wiki/summaries/moilapp-website-2026-04-09]] — moilapp.com canonical copy
+- [[wiki/summaries/outlook-emails-2026-04-09]] — Inbox digest Apr 9
+- [[wiki/summaries/x-bookmarks-2026-04-11]] — X bookmarks (114-item version)
+- [[wiki/summaries/x-bookmarks-2026-04-11-copy]] — X bookmarks (fuller 129-item version, preferred)
 
 ### Meetings
 - [[wiki/meetings/]] — (empty — awaiting first processed meeting)
@@ -98,9 +121,10 @@ knowledge-base/
 ---
 
 ## Stats
-- Total wiki pages: 32 (6 moil + 14 people + 12 concepts)
-- Sources ingested: 9 of 12 raw files (all raw files with substantive content)
-- Last ingestion: 2026-04-11
-- Non-ingestible raw files: brain-guide.md (meta-guide), know-me-extraction-prompts.md (tooling prompts)
-- Superseded: buda-hive-edc-2026-04-09.md (replaced by Apr 11 version)
-- Duplicate: x-bookmarks-2026-04-11.md (shorter version of "copy" file — consolidate)
+- Total wiki pages: **53** (6 moil + 16 people + 19 concepts + 12 summaries)
+- Sources ingested: **12 of 12** raw files (every raw file now has a summary page)
+- Last ingestion: 2026-04-11 (second full compilation)
+- Non-ingestible raw files as wiki content: brain-guide.md (meta-guide) and know-me-extraction-prompts.md (tooling) — both still have summary pages for reference
+- Superseded: buda-hive-edc-2026-04-09.md (replaced by Apr 11 version) — summary flagged SUPERSEDED
+- Duplicate: x-bookmarks-2026-04-11.md (114 items) vs "copy" variant (129 items, preferred for synthesis) — both summarized
+- Open actions tracked in: [[MEMORY]]
