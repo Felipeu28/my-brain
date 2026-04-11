@@ -3,7 +3,7 @@
 **Type:** concept
 **Last updated:** 2026-04-11
 **Source:** outlook-email-research-2026-04-11
-**Related:** [[wiki/concepts/buda-edc]], [[wiki/people/monica-davidson]], [[wiki/people/rosemary-gamez]], [[wiki/moil/gtm]]
+**Related:** [[wiki/orgs/buda-edc]], [[wiki/people/monica-davidson]], [[wiki/people/rosemary-gamez]], [[wiki/moil/gtm]]
 
 ---
 

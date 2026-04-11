@@ -97,7 +97,7 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 - [[wiki/concepts/openclaw-hermes]] — open-source parallel ecosystem
 - [[wiki/concepts/fantelo]] — Andres's parallel project
 - [[wiki/concepts/moil360]] — Moil's 30-day marketing engine brand
-- [[wiki/concepts/coffeespace]] — partnership ecosystem contact
+- [[wiki/orgs/coffeespace]] — partnership ecosystem contact
 
 **New people pages:**
 - [[wiki/people/shay-foley]] — Johns Creek Chamber, deferred partnership

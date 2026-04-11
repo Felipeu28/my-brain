@@ -26,5 +26,13 @@ Show me a summary of what you found and what you updated." \
 --allowedTools Bash,Write,Read
 
 echo ""
+echo "📦 Committing to GitHub..."
+cd "$BRAIN_DIR"
+git add .
+git commit -m "Teams pull — $(date +%Y-%m-%d)" || echo "Nothing new to commit."
+git push
+
+echo ""
 echo "✅ Done! Teams digest is in raw/teams-$TODAY.md"
 echo "   Brain files updated: Action-Tracker.md, Decision-Log.md, Memory.md"
+echo "   Changes pushed to GitHub: felipeu28/my-brain"

@@ -14,3 +14,9 @@ scripts/.teams_token.json
 # Logs
 scripts/teams_log.txt
 *.log
+
+# Quartz build output
+node_modules/
+.quartz-cache/
+public/
+.quartz_setup/
