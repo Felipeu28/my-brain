@@ -33,7 +33,7 @@ tags: [hub, person, seed]
 - [[people/inna-benyukhis]] — Inna Benyukhis
 - [[people/john-costilla]] — John Costilla
 - [[people/kim-dowers]] — Kim Dowers
-- [[people/mariana-rodriguez]] — Mariana Rodriguez
+- [[people/mariana-rodriguez|Mariana Rodriguez]] — Mariana Rodriguez
 - [[people/mark-polanco]] — Mark Polanco
 - [[people/megan-miller]] — Megan Miller
 - [[people/monica-davidson]] — Monica Davidson

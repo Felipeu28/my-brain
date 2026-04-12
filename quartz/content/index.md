@@ -20,11 +20,11 @@ date: 2026-04-12
 
 | Hub | What's inside |
 |-----|--------------|
-| [[wiki/moil/positioning\|🚀 Moil]] | Startup knowledge — positioning, ICP, GTM, metrics, competitors |
-| [[wiki/people/jennifer-storm\|🤝 People]] | Network contacts — clients, partners, community, advisors |
-| [[wiki/concepts/buda-hive\|💡 Concepts]] | Frameworks, mental models, domain knowledge |
-| [[wiki/orgs/buda-edc\|🏢 Orgs]] | Companies and organizations in the ecosystem |
-| [[wiki/summaries/brain-guide\|📄 Summaries]] | Digests of all raw sources |
+| [[wiki/moil/positioning|🚀 Moil]] | Startup knowledge — positioning, ICP, GTM, metrics, competitors |
+| [[wiki/people/jennifer-storm|🤝 People]] | Network contacts — clients, partners, community, advisors |
+| [[wiki/concepts/buda-hive|💡 Concepts]] | Frameworks, mental models, domain knowledge |
+| [[wiki/orgs/buda-edc|🏢 Orgs]] | Companies and organizations in the ecosystem |
+| [[wiki/summaries/brain-guide|📄 Summaries]] | Digests of all raw sources |
 
 </div>
 
@@ -45,7 +45,7 @@ date: 2026-04-12
 - [[wiki/people/casey-earley]] — Asst. to Jacquie, HIVE program support
 - [[wiki/people/inna-benyukhis]] — Long-time client and friend, CRM + Marketing Calendar projects
 - [[wiki/people/megan-miller]] — Active Moil customer, product feedback source
-- [[wiki/people/mariana-rodriguez]] — Andres's wife, business owner
+- [[wiki/people/mariana-rodriguez|Mariana Rodriguez]] — Andres's wife, business owner
 - [[wiki/people/john-costilla]] — Closest friend, community connector
 - [[wiki/people/mark-polanco]] — Business collaborator, Airtable project
 - [[wiki/people/daniel-guadiano]] — Warm lead, Astra Restaurant GM

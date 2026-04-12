@@ -14,7 +14,7 @@ date: 2026-04-11
 ---
 
 **Status:** 🔴 ASAP — needs to be completed
-**Client:** Ana — sister of [[people/mariana-rodriguez|Mariana Rodriguez]] (Andres's wife, "Brulli")
+**Client:** Ana — sister of [[wiki/people/mariana-rodriguez|Mariana Rodriguez]] (Andres's wife, "Brulli")
 **Relationship:** Family — sister-in-law's project
 
 ---
@@ -37,5 +37,5 @@ A project Andres is building for Ana, his sister-in-law (Mariana's sister). Busi
 
 ## Connections
 
-- [[people/mariana-rodriguez]] — Ana's sister (Andres's wife)
+- [[wiki/people/mariana-rodriguez|Mariana Rodriguez]] — Ana's sister (Andres's wife)
 - [[andres/index]] — Family project
