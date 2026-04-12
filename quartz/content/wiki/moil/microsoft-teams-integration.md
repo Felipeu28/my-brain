@@ -23,10 +23,10 @@ Integrate Moil with Microsoft Teams to **gather business data from where SMBs al
 
 | Data Type | Source in Teams | Use in Moil |
 |-----------|----------------|-------------|
-| Hiring requests / open roles | Channel messages, pinned posts | Pre-fill Smart Hiring job posts |
+| **Chats** — 1:1 and group messages | Chat threads | Surface hiring requests, workload signals, business context |
+| **Meetings** — scheduled + ad hoc | Calendar, Teams meetings list | Understand team cadence, project milestones, decision rhythm |
+| **Transcripts** — meeting recordings | Teams meeting transcriptions (auto-generated) | Extract decisions, action items, and open roles from spoken conversations |
 | Team size and structure | Member lists, org channels | Inform business plan headcount assumptions |
-| Meeting notes / decisions | Channel threads, meeting transcriptions | Feed into AI Business Coach context |
-| Project status / workload | Channel activity patterns | Inform scheduling and strategy recommendations |
 | Communication topics | Channel names, message themes | Enrich market research and content calendar angle |
 
 ---
@@ -47,10 +47,12 @@ This is a higher-signal data source than a web form for this specific ICP.
 ### Option A — Microsoft Graph API (Recommended)
 - Connect via OAuth 2.0 (employer grants Moil read access)
 - Pull data using [Microsoft Graph API](https://learn.microsoft.com/en-us/graph/api/overview) endpoints:
-  - `GET /teams/{id}/channels` — list channels
-  - `GET /teams/{id}/channels/{channelId}/messages` — read messages
+  - `GET /teams/{id}/channels/{channelId}/messages` — channel + chat messages
+  - `GET /chats/{id}/messages` — 1:1 and group chat messages
+  - `GET /me/onlineMeetings` — meeting list
+  - `GET /me/onlineMeetings/{meetingId}/transcripts` — meeting transcripts
   - `GET /teams/{id}/members` — team roster
-  - `GET /me/calendarView` — meeting data (if Calendar scope granted)
+  - `GET /me/calendarView` — calendar / scheduled meetings
 - Scope: read-only, employer-approved, revocable
 
 ### Option B — Teams Bot / App
