@@ -83,6 +83,7 @@ Andres runs an internal AI agent infrastructure that manages Moil's operations:
 | ZipRecruiter | Job board API | Candidate distribution |
 | Facebook Groups | Social API | Bilingual candidate reach |
 | Austin Jobs | Regional board | Local candidate distribution |
+| Microsoft Teams | 🔲 Pending — Graph API | Gather business data from employer Teams workspaces to enrich Business DNA |
 | Apollo.io | CRM enrichment | Lead prospecting and enrichment (via MCP in Brain) |
 | Supabase | BaaS | Auth, database, storage |
 | Vercel | Deployment | Hosting + CI/CD |

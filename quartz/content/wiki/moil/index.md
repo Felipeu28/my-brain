@@ -93,6 +93,7 @@ Moil is the AI co-founder for small businesses — one platform that does market
 | [[moil/customers]] | Full | Named customers, testimonials, aggregate metrics |
 | [[moil/team]] | Full | Founders, team structure, hiring triggers |
 | [[moil/tech-stack]] | Full | Frontend, backend, AI, integrations, GitHub orgs |
+| [[moil/microsoft-teams-integration]] | Pending | MS Teams data integration — Graph API approach, open tasks |
 
 ---
 
