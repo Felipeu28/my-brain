@@ -154,6 +154,31 @@ Source: [[wiki/summaries/teams-2026-04-12]]
 
 ---
 
+## 🔔 New from Run 3 meetings ingestion (2026-04-12) — 28 transcript files
+
+Source: [[raw/meetings/]] — Oct 2024–May 2025 transcript backfill
+
+### Enterprise / Customer follow-ups
+- [ ] **Tampa Bay prospect:** Zachary Barker disclosed city of Tampa Bay evaluating the platform. Track status — potential major enterprise deal. ([[wiki/meetings/2025-05-15-zachary-barker-wyatt-hook-enterprise]])
+- [ ] **API integration decision:** $4,250 one-time for integration APIs from Wyatt Hook's platform. Josh Edmond evaluating vs. HubSpot webhook approach. Was a decision made?
+- [ ] **Sandbox access:** Zachary requested sandbox re-enabled for Tampa Bay testing. Verify if provisioned. Contact: [[wiki/people/wyatt-hook]]
+
+### Product / Engineering
+- [ ] **Brave API for BPC:** Team agreed to adopt Brave Search API for real-time data in Business Plan Creator to reduce hallucination. Was this implemented? ([[wiki/meetings/2025-05-17-prompt-reviews-bpc-quality]])
+- [ ] **BPC competitor map:** Decision to move business location pin to competitor section and show actual competitors. Verify current state
+- [ ] **Azure directory fix:** Rodney Warner (Microsoft) identified tenant mismatch. Was the original directory restored? ([[wiki/meetings/2025-05-20-azure-resources-support-call]])
+
+### Partnerships (historical — verify status)
+- [ ] **TXOR recurring workshops:** Evangeline Sandoval agreed to set up recurring resume-building sessions (Nov 2024). Are these still running? ([[wiki/meetings/2024-11-13-txor-moil-partnership-call]])
+- [ ] **TXOR caseworker training:** Was formal caseworker training delivered? (proposed Nov 2024)
+- [ ] **Live hiring podcast:** Pitched to TXOR, EGBI, and Julian Sanchez in Oct-Nov 2024. Was any version launched?
+- [ ] **EGBI Echo Squad:** LinkedIn pod ran Nov 2024–Feb 2025. Did Andres continue LinkedIn engagement after it ended?
+- [ ] **Julian Sanchez FB Live:** Spanish banking+employment content planned for late Oct 2024. Was it executed?
+- [ ] **Councilman Velasquez / Vanessa Fuentes:** Both expressed support for hiring podcast. Any follow-up civic initiatives?
+- [ ] **Nvidia Inception credits:** 25 DLI training credits received Jan 2025. Were they used? Are they still available?
+
+---
+
 ## 🎯 Monthly — Brain System hygiene
 
 Source: [[wiki/summaries/brain-guide]] / [[wiki/concepts/brain-architecture]]

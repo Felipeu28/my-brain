@@ -22,7 +22,7 @@ echo ""
 echo "📦 Committing to GitHub..."
 git add .
 git commit -m "X bookmarks — $TODAY" || echo "Nothing new to commit."
-git push
+git push felipeu28 main
 
 echo ""
-echo "✅ Done! $LATEST committed and pushed to felipeu28/my-brain"
+echo "✅ Done! $LATEST committed and pushed (origin) → Vercel redeploy triggered"

@@ -138,7 +138,12 @@ Source: [[raw/meetings/]] — 25 meeting transcripts
 | Community workshops | Manos De Cristo June 2025 workshops (employment, business basics, AI) | Planned (Jun 2025) |
 | Social media automation | Auto-generate job post images on Grok when employer posts a job | In development |
 | GAHCC partnership | Monica Munoz Andry (CEO) + Enrique Castro (Dir. Membership) — GAHCC member + Ambassador; Univision/Caracol media pipeline via Enrique | Active (Oct 2024+) |
-| TXOR workshops | Zane Gibson contact; 30+ participants in Apr 22, 2025 virtual resume-building session | Active (Apr 2025) |
+| TXOR workshops | Evangeline Sandoval (Site Dir) + Zane Gibson; recurring resume-building + caseworker training; 30+ participants Apr 2025; federally mandated employment program | Active (Nov 2024+) |
+| EGBI Echo Squad (LinkedIn pod) | Monica Pena; <10 members; LinkedIn engagement pod Thu 9-10 AM; 4x impression boost | Active (Nov 2024–Feb 2025) |
+| Councilman Velasquez / Vanessa Fuentes | Austin political channel; both expressed support for hiring podcast; District 3 entry | Relationship (Nov 2024) |
+| Live hiring podcast concept | 5 businesses/week, industry-themed, on-the-spot hiring; pitched to TXOR, EGBI, Julian Sanchez | Concept (Oct–Nov 2024) |
+| Julian Sanchez Spanish content | FB/IG Live about banking + employment for Latinos; Breakout Media production | Concept (Oct 2024) |
+| Nvidia Inception Program | Accepted Jan 2025; $25K DLI credits; team training on GenAI/RAG | Active (Jan 2025) |
 | Hays CISD CTE channel | Rick Bough — August 2025 teacher PD workshop; CTE practicum students → blue-collar pipeline | Opportunity (Aug 2025) |
 | Buda restaurant pilot | Monica Davidson coordinating Main Street Pizza / Nate's / Munchaka → restaurant owners posting jobs | In progress (Mar 2025+) |
 | Spanish-language media | Daniela Castillo Cañavera (Univision/Caracol/RCN/Blue Radio) + Enrique Castro's "El Taco Financiero" podcast | Exploratory |

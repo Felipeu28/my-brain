@@ -65,6 +65,21 @@
 - Competitor map in wrong location (should be on competitor page)
 - Plan display after subscription purchase shows "upgrade" incorrectly
 
+**Quality Issues (from May 17 Prompt Review — [[wiki/meetings/2025-05-17-prompt-reviews-bpc-quality]]):**
+- Vague numbers / hallucinated statistics (no real data sources)
+- Generic customer personas (not grounded in business context)
+- Lack of citations for market claims
+- Financial section unreliable (no verification mechanism)
+- **Decision:** Adopt Brave Search API for real-time web data fetching to reduce hallucination
+- Map repurposed: business location pin moved to competitor map for actual competitive visualization
+
+**Enterprise API Integration (from May 15 call — [[wiki/meetings/2025-05-15-zachary-barker-wyatt-hook-enterprise]]):**
+- Portal white-label for EDC/city clients uses enrollment key system (single reusable key in URL)
+- API integration available at $4,250 one-time (may shift to subscription)
+- HubSpot scoring triggers automatic key delivery to qualified users
+- Tampa Bay evaluating the platform (large city prospect)
+- Sandbox environment available for testing without affecting production
+
 ---
 
 ## AI Interview Tool — Designed Spec
