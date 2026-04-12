@@ -2,5 +2,6 @@
   "buildCommand": "npx quartz build --directory quartz/content",
   "outputDirectory": "public",
   "installCommand": "npm ci",
-  "framework": null
+  "framework": null,
+  "trailingSlash": true
 }

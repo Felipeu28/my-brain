@@ -17,7 +17,7 @@ date: 2026-04-11
 
 | Name | Role | Notes |
 |------|------|-------|
-| [[andres/index\|Andres Urrego]] | Founder & CEO | Born Cali, Colombia. Based in Buda, TX. Former CRO at ImagineX, Enterprise Account Manager at Spectrum Enterprise, owner of ATX Property Restoration. Left corporate to bootstrap Moil in 2023. Latitud Fellow LF6. |
+| [[andres/index|Andres Urrego]] | Founder & CEO | Born Cali, Colombia. Based in Buda, TX. Former CRO at ImagineX, Enterprise Account Manager at Spectrum Enterprise, owner of ATX Property Restoration. Left corporate to bootstrap Moil in 2023. Latitud Fellow LF6. |
 
 ---
 
@@ -25,11 +25,11 @@ date: 2026-04-11
 
 | Name | Role | Profile |
 |------|------|---------|
-| [[andres/index\|Andres Urrego]] | Founder & CEO | Strategy, product, GTM, AI engineering |
-| [[people/jacob-oluwole\|Jacob Oluwole]] | Team Member | _Role TBD — fill in_ |
-| [[people/adeleke-tolulope\|Adeleke Tolulope]] | Team Member | _Role TBD — fill in_ |
-| [[people/taiwo-ola-bolagun\|Taiwo Ola Bolagun]] | Team Member | _Role TBD — fill in_ |
-| [[people/abiodun-adekanmi\|Abiodun Adekanmi]] | Team Member | _Role TBD — fill in_ |
+| [[andres/index|Andres Urrego]] | Founder & CEO | Strategy, product, GTM, AI engineering |
+| [[people/jacob-oluwole|Jacob Oluwole]] | Team Member | _Role TBD — fill in_ |
+| [[people/adeleke-tolulope|Adeleke Tolulope]] | Team Member | _Role TBD — fill in_ |
+| [[people/taiwo-ola-bolagun|Taiwo Ola Bolagun]] | Team Member | _Role TBD — fill in_ |
+| [[people/abiodun-adekanmi|Abiodun Adekanmi]] | Team Member | _Role TBD — fill in_ |
 
 > Next step: add each person's specific role, responsibilities, timezone, and communication channel.
 
