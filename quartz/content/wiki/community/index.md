@@ -32,4 +32,4 @@ Source: [[buda-hive-edc-2026-04-11]]
 
 ## Core Pages
 - [[community/latitud-lf6]] — Latitud LF6 cohort
-- [[community/buda-hive]] — Buda Hive community
+- [[wiki/concepts/buda-hive]] — Buda HIVE incubator program

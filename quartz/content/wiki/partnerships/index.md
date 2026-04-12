@@ -36,6 +36,6 @@ tags: [hub, moil, buda-hive, seed]
 - Andres offered to build MVP at near-zero cost
 
 ## Core Pages
-- [[partnerships/buda-hive-edc]] — Buda Hive EDC partnership
-- [[partnerships/jucoai]] — JucoAI partnership
-- [[partnerships/campaignos]] — CampaignOS partnership
+- [[wiki/concepts/buda-hive]] — Buda HIVE incubator program
+- [[partnerships/jucoai]] — JuCoAI partnership
+- [[wiki/concepts/campaignos]] — CampaignOS concept
