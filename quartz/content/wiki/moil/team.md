@@ -21,18 +21,17 @@ date: 2026-04-11
 
 ---
 
-## Team (Per Business Plan, March 2026)
+## Current Team (April 2026)
 
-The business plan describes a lean digital team model with plans to hire against revenue milestones:
+| Name | Role | Profile |
+|------|------|---------|
+| [[andres/index\|Andres Urrego]] | Founder & CEO | Strategy, product, GTM, AI engineering |
+| [[people/jacob-oluwole\|Jacob Oluwole]] | Team Member | _Role TBD — fill in_ |
+| [[people/adeleke-tolulope\|Adeleke Tolulope]] | Team Member | _Role TBD — fill in_ |
+| [[people/taiwo-ola-bolagun\|Taiwo Ola Bolagun]] | Team Member | _Role TBD — fill in_ |
+| [[people/abiodun-adekanmi\|Abiodun Adekanmi]] | Team Member | _Role TBD — fill in_ |
 
-| Role | Status | Notes |
-|------|--------|-------|
-| CEO (Andres) | Active | Full product, GTM, strategy, AI engineering |
-| Software Engineers | 3 planned | Building Moil-Code repos (24 active repos as of April 2026) |
-| Customer Success Manager | 1 planned | Plan states 1 CSM can support ~300 active users; target capacity ~1,200–1,500 at scale |
-| Content Strategist | 1 planned | For Content360 quality and editorial oversight |
-
-> Note: Actual current headcount beyond Andres is unconfirmed. The business plan lists targets; reality may differ. Update when confirmed.
+> Next step: add each person's specific role, responsibilities, timezone, and communication channel.
 
 ---
 
