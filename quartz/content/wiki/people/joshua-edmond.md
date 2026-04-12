@@ -1,6 +1,6 @@
 ---
 tags:
-  - graph/hub
+  - graph/spoke
   - person/partner
 ---
 # Joshua Edmond

@@ -3,7 +3,7 @@ name: people index
 description: Personal network — family, friends, customers, collaborators Andres actually talks to
 type: index
 tags:
-  - graph/spoke
+  - graph/leaf
 ---
 
 # People — Personal Network Index

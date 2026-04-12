@@ -1,6 +1,6 @@
 ---
 tags:
-  - graph/hub
+  - graph/spoke
   - person/team
 ---
 # Abiodun Adekanmi (Ablad)

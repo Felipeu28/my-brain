@@ -3,7 +3,7 @@ name: orgs index
 description: Index of customer, partner, and ecosystem organizations
 type: index
 tags:
-  - graph/spoke
+  - graph/leaf
 ---
 
 # Orgs — Customer, Partner, and Ecosystem Organizations

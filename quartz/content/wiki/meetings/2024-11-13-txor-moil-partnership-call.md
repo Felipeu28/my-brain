@@ -1,6 +1,6 @@
 ---
 tags:
-  - graph/spoke
+  - graph/leaf
 ---
 # TXOR — Moil Partnership Call
 

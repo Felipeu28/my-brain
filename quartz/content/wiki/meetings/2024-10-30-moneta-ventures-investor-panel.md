@@ -1,6 +1,6 @@
 ---
 tags:
-  - graph/spoke
+  - graph/leaf
 ---
 # Moneta Ventures Investor Panel — Capital Factory Event
 

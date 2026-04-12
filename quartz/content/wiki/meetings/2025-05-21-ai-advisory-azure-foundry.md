@@ -1,6 +1,6 @@
 ---
 tags:
-  - graph/spoke
+  - graph/leaf
 ---
 # Azure AI Activation Advisory — Paula Florez-Estrada Valverde
 

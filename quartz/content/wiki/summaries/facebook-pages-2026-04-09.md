@@ -3,7 +3,7 @@ name: facebook-pages summary
 description: Summary of AIbyAndres personal + MoilWorks business Facebook pages
 type: summary
 tags:
-  - graph/spoke
+  - graph/leaf
 ---
 
 # Summary — Facebook Pages: AIbyAndres & MoilWorks

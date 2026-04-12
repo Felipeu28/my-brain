@@ -1,6 +1,6 @@
 ---
 tags:
-  - graph/hub
+  - graph/spoke
 ---
 # AI-Powered Cold Outreach
 

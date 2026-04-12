@@ -3,7 +3,7 @@ name: outlook-emails summary
 description: Summary of Outlook email digest — Johns Creek Chamber, Astra Restaurant, CoffeeSpace, networking
 type: summary
 tags:
-  - graph/spoke
+  - graph/leaf
 ---
 
 # Summary — Outlook Email Digest (Apr 9, 2026)

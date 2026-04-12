@@ -1,6 +1,6 @@
 ---
 tags:
-  - graph/spoke
+  - graph/leaf
 ---
 # Monica Munoz Andry — GAHCC Partnership Meeting
 
