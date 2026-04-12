@@ -9,7 +9,7 @@ type: summary
 **Type:** summary
 **Last updated:** 2026-04-11
 **Source:** [[raw/imessages-people-2026-04-09.md]]
-**Related:** [[wiki/people/mariana-rodriguez]], [[wiki/people/john-costilla]], [[wiki/people/mark-polanco]], [[wiki/people/megan-miller]], [[wiki/people/travis-sutherland]], [[wiki/people/inna-benyukhis]]
+**Related:** [[mariana-rodriguez]], [[wiki/people/john-costilla]], [[wiki/people/mark-polanco]], [[wiki/people/megan-miller]], [[wiki/people/travis-sutherland]], [[wiki/people/inna-benyukhis]]
 
 ---
 

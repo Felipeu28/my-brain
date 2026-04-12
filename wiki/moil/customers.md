@@ -15,6 +15,8 @@
 | [[wiki/orgs/buda-edc|Buda EDC]] | B2G | Platform licenses for [[wiki/concepts/buda-hive|Buda HIVE]] cohorts | Emails | Recurring per-cohort revenue. Institutional credibility |
 | [[wiki/people/daniel-guadiano|Daniel Guadiano]] / Astra Restaurant | Warm lead | AI scheduling for restaurant ops | Outlook email | Met at Feb networking event. Phone: 210.978.4483 |
 | [[wiki/people/inna-benyukhis|Inna Benyukhis]] | Long-time client | CRM + Marketing Calendar (custom builds) | GitHub + iMessages | 2 repos in Moil-Landingpages. Open PR on Inna-CRM |
+| [[wiki/people/abel-esquivel-luna|Zachary Corporation (Abel Esquivel Luna)]] | Enterprise | Multi-city job posting; blue-collar hiring at scale | Meeting transcripts | First enterprise customer (signed Aug 2024). 80+ jobs active at peak. $699/yr deal. |
+| TXOR (Zane Gibson) | Community org partner | Virtual resume-building workshops for their clients | Meeting transcript | 30+ participants in Apr 22, 2025 session; login onboarding friction noted |
 
 ## Website Testimonials
 
@@ -49,8 +51,15 @@
 
 Currently Texas-heavy, especially Austin metro / Buda area. The [[wiki/concepts/buda-hive|Buda HIVE]] cohort model creates clusters of users in the Buda ecosystem. Geographic expansion is a 2027 objective.
 
+## Product Testimonials (Personal Use / Coaching)
+
+- **Dafne Gutierrez** — Former marketing collaborator; used resume builder with voice input in Feb 2025 job search coaching session. Strong positive reaction. See [[wiki/people/dafne-gutierrez]].
+- **Rick Bough** (Hays CISD) — Tried the resume builder live on the March 26, 2025 call; said he'd create his own resume that day. See [[wiki/people/rick-bough]].
+- **Daniela Castillo Cañavera** — Used the resume builder in Dec 2024; loved it. Considering equity partnership. See [[wiki/people/daniela-castillo-canavera]].
+
 ## What's Missing
 
-- No named Enterprise or Market Pro tier customers documented yet
+- No named Enterprise or Market Pro tier customers documented yet (Zachary is closest but labeled as a custom deal)
 - No case studies with before/after metrics (the HVAC example on the website is a hypothetical)
 - Customer churn data not captured — business plan targets 3% monthly churn by Year 3, currently estimated higher
+- Group onboarding UX has known friction (TXOR April 2025 session — login issues with 30+ participants at once)

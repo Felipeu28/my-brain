@@ -1,6 +1,6 @@
 # Moil Brain — Master Index
 
-**Last compiled:** 2026-04-11 · **Total wiki pages:** 67 · **Raw sources ingested:** 12/12
+**Last compiled:** 2026-04-12 (OneDrive full transcripts — Run 2) · **Total wiki pages:** ~170 · **Raw sources ingested:** 50/50
 
 > **New here?** Read [[wiki/README]] for the wiki design principles, then follow the links below.
 
@@ -21,13 +21,14 @@
 
 | Folder | Count | What's in it |
 |---|---|---|
-| [[wiki/moil/README\|moil/]] | 6 | Moil business — positioning, ICP, GTM, customers, competitors, metrics |
-| [[wiki/people/README\|people/]] | 16 | Personal network — family, friends, customers, collaborators |
-| [[wiki/minds/README\|minds/]] | 5 | Public AI thought leaders tracked from afar |
+| [[wiki/moil/README\|moil/]] | 7 | Moil business — positioning, ICP, GTM, customers, competitors, metrics, product roadmap |
+| [[wiki/people/README\|people/]] | 30 | Personal network — family, friends, customers, collaborators, team |
+| [[wiki/minds/README\|minds/]] | 10 | Public AI thought leaders tracked from afar |
 | [[wiki/orgs/README\|orgs/]] | 4 | Customer, partner, and prospect organizations |
-| [[wiki/concepts/README\|concepts/]] | 15 | Frameworks, mental models, products, programs |
+| [[wiki/concepts/README\|concepts/]] | 32 | Frameworks, mental models, products, programs |
 | [[wiki/radar/README\|radar/]] | 1 | Append-only changelogs for fast-moving topics |
-| [[wiki/summaries/README\|summaries/]] | 12 | One structured summary per raw source |
+| [[wiki/summaries/README\|summaries/]] | 16 | One structured summary per raw source |
+| [[wiki/meetings/README\|meetings/]] | 37 | Meeting records + async threads — decisions and action items |
 
 ---
 
@@ -40,6 +41,15 @@
 - [[wiki/concepts/managed-agents]] — Claude Managed Agents (13 inbound)
 - [[wiki/concepts/claude-code]] — Claude Code runtime (12 inbound)
 - [[wiki/summaries/buda-hive-edc-2026-04-11]] — Full Buda HIVE intelligence (11 inbound)
+- [[wiki/concepts/content-engine]] — AI content engine framework (new)
+- [[wiki/concepts/ai-org-design]] — AI-native org design (new — ties to Moil positioning)
+- [[wiki/concepts/linkedin-gtm]] — LinkedIn strategy + algorithm (new — gap in current GTM)
+- [[wiki/summaries/x-bookmarks-deep-compile-2026-04-12]] — Deep compile summary (new)
+- [[wiki/moil/product-roadmap]] — Full Moil product status, AI stack, feature specs (new)
+- [[wiki/meetings/2025-03-28-jacob-andres-pivot-ai-tools]] — The pivot declaration meeting (new)
+- [[wiki/meetings/2025-04-07-moil-marketing-call-toolbox-vision]] — Toolbox vision + interview tool design (new)
+- [[wiki/people/jacob-oluwole]] — Moil PM profile (new)
+- [[wiki/people/adeleke-tolulope]] — Lead AI engineer profile (new)
 
 ---
 
@@ -52,7 +62,6 @@
 
 ## 🗂️ Empty folders (reserved)
 
-- `wiki/meetings/` — awaiting first processed meeting transcript
 - `wiki/inbox/` — manual drop zone
 
 ---
@@ -70,17 +79,40 @@
 
 | Category | Count | Notes |
 |---|---|---|
-| Moil business | 6 | |
-| People (network) | 16 | |
-| Minds (thinkers) | 5 | New — will grow during weekly sweeps |
-| Orgs (customer/partner) | 4 | New — will grow with new partnerships |
-| Concepts | 15 | 7 Moil-world + 8 AI landscape |
-| Radar (changelogs) | 1 | Claude Code changelog seeded |
-| Summaries | 12 | One per raw source |
-| Folder READMEs | 8 | moil, people, minds, orgs, concepts, radar, summaries, wiki |
-| **Total wiki files** | **67** | |
-| Raw sources ingested | 12/12 | All summarized |
+| Moil business | 7 | product-roadmap, gtm, customers all updated with transcript intelligence |
+| People (network) | 30 | +8 from Run 2: rick-bough, paula-florez-estrada, abel-esquivel-luna, daniela-castillo-canavera, enrique-castro, dafne-gutierrez, david-levesque, zane-gibson |
+| Minds (thinkers) | 10 | from X bookmarks deep compile |
+| Orgs (customer/partner) | 4 | |
+| Concepts | 32 | |
+| Meetings | 37 | +15 from Run 2 (9 from Run 2 session 1 + 6 new this session) |
+| Radar (changelogs) | 1 | Claude Code changelog |
+| Summaries | 16 | |
+| Folder READMEs | 9 | |
+| **Total wiki files** | **~170** | +30 from Run 2 transcript ingestion |
+| Raw sources ingested | 50/50 | 25 Run 1 meeting notes + 25 Run 2 full transcripts |
+
+**OneDrive Full Transcripts ingestion completed 2026-04-12 (Run 2):**
+- 25 full transcript files processed (raw/meetings/transcript-* format)
+- 15 new `wiki/meetings/` pages created (9 high-value + 1 batch page for low-signal calls)
+- 8 new `wiki/people/` pages: [[wiki/people/rick-bough]], [[wiki/people/paula-florez-estrada]], [[wiki/people/abel-esquivel-luna]], [[wiki/people/daniela-castillo-canavera]], [[wiki/people/enrique-castro]], [[wiki/people/dafne-gutierrez]], [[wiki/people/david-levesque]], [[wiki/people/zane-gibson]]
+- Updated: [[wiki/moil/gtm]] (+11 new channels), [[wiki/moil/product-roadmap]] (Azure disaster, AI Foundry chatbot, BPC architecture), [[wiki/moil/customers]] (Zachary, TXOR, testimonials), [[wiki/people/monica-davidson]] (restaurant pilot + Crew Day)
+- Key intelligence: Azure account disaster (May 2025); AI Foundry chatbot as #1 AI priority; BPC 3-tier architecture; Zachary as enterprise anchor; GAHCC/Univision media pipeline; Hays CISD CTE channel (August 2025 PD); Hungry Hill Foundation lead
+- Note: `transcript-2024-10-03-team-meeting-october-2024.md` was a CONCATENATED file of Feb–May 2025 meetings (duplicates of Run 1 Gemini notes) — NOT an Oct 2024 meeting
+
+**OneDrive Meetings ingestion completed 2026-04-12 (Run 1):**
+- 25 meeting transcripts (Aug 2024–May 2025) — year of business context
+- 20 new `wiki/meetings/` pages created (one per unique meeting session)
+- 6 new `wiki/people/` pages: [[wiki/people/jacob-oluwole]], [[wiki/people/adeleke-tolulope]], [[wiki/people/abiodun-solomon]], [[wiki/people/taiwo-ola-balogun]], [[wiki/people/sebastian-oviedo]]
+- 1 new `wiki/moil/` page: [[wiki/moil/product-roadmap]]
+- Updated: [[wiki/moil/positioning]], [[wiki/moil/gtm]], [[MEMORY]]
+- Key intelligence: full Moil team roster confirmed; product pivot documented; Business Plan Creator + Interview Tool specs captured; Zachary Corp and Sakuri Corp as confirmed clients
+
+**Deep compile completed 2026-04-12:**
+- `raw/x-bookmarks-2026-04-11 copy.md` (129 items) — fully compiled into 16 concept pages + 5 minds pages
+- `raw/x-bookmarks-2026-04-11.md` (114 items) — cross-referenced; additional signal extracted
+
+**Teams ingestion completed 2026-04-12:**
+- `raw/teams-2026-04-12.md` (27 messages, 30-day window) — structural intelligence only (all messages were automated Workflows bot); created meetings/ folder with README + first meeting page; new concept: moil-team-ops
 
 **Known raw/ debts (untouchable per [[CLAUDE]]):**
 - `raw/buda-hive-edс-2026-04-09.md` — Cyrillic "с" in filename
-- `raw/x-bookmarks-2026-04-11 copy.md` vs sibling — the "copy" is the fuller 129-item version, preferred for synthesis

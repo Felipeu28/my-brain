@@ -11,7 +11,7 @@ type: index
 ---
 
 ## Family
-- [[wiki/people/mariana-rodriguez]] — Wife, business owner
+- [[mariana-rodriguez]] — Wife, business owner
 
 ## Close friends
 - [[wiki/people/john-costilla]] — Closest friend, community connector
@@ -34,6 +34,13 @@ type: index
 - [[wiki/people/rosemary-gamez]] — Staff, Greater Buda Chamber
 - [[wiki/people/kim-dowers]] — Director of Ops & Programs, Queen Creek Chamber (AZ)
 - [[wiki/people/shay-foley]] — Johns Creek Chamber (deferred partnership)
+
+## Moil Team (internal)
+- [[wiki/people/jacob-oluwole]] — Project Manager; present in every meeting; Moil's operational backbone
+- [[wiki/people/adeleke-tolulope]] — Lead AI/ML engineer (Steve); built OpenAI agent; fine-tuned DeepSeek
+- [[wiki/people/abiodun-solomon]] — UI/UX designer (Ablad); Figma; all product screens
+- [[wiki/people/taiwo-ola-balogun]] — Frontend engineer; Gemini for AI-assisted development
+- [[wiki/people/sebastian-oviedo]] — Marketing intern (HubSpot program, 4 weeks starting Apr 28, 2025)
 
 ## Ecosystem / exploratory
 - [[wiki/people/hazim-mohamad]] — CoffeeSpace outreach contact

@@ -18,12 +18,19 @@ type: index
 - Organizations → `wiki/orgs/`
 - Frameworks / mental models → `wiki/concepts/`
 
-## Seeded pages
+## Seeded pages — AI Lab Leaders
 - [[wiki/minds/dario-amodei]] — CEO, Anthropic
 - [[wiki/minds/sam-altman]] — CEO, OpenAI
 - [[wiki/minds/jensen-huang]] — CEO, NVIDIA
 - [[wiki/minds/elon-musk]] — xAI / Tesla / SpaceX / X owner
 - [[wiki/minds/andrej-karpathy]] — Origin of the Brain's LLM Knowledge Base pattern
+
+## Added 2026-04-12 — X Ecosystem Creators
+- [[wiki/minds/nick-spisak]] — @NickSpisak_, non-developer Claude educator (most bookmarked educator)
+- [[wiki/minds/corey-ganim]] — @coreyganim, SMB AI monetization (most bookmarked overall — 9+ posts)
+- [[wiki/minds/hooeem]] — @hooeem, full-course format AI guides (2.8M views)
+- [[wiki/minds/jack-dorsey]] — @jack, "From Hierarchy to Intelligence" + Goose
+- [[wiki/minds/farza-mohideen]] — @FarzaTV, Farzapedia + Clicky builder
 
 ## Template
 When adding a new mind, use this skeleton:

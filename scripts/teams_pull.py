@@ -54,10 +54,16 @@ def load_config():
 
 
 def get_token(config):
-    """Get access token via device code flow (first time) or from cache."""
+    """Get access token via device code flow (first time) or from disk cache."""
+    # Persist token cache to disk so automated runs don't re-auth
+    cache = msal.SerializableTokenCache()
+    if TOKEN_FILE.exists():
+        cache.deserialize(TOKEN_FILE.read_text())
+
     app = msal.PublicClientApplication(
         config["client_id"],
         authority=f"https://login.microsoftonline.com/{config['tenant_id']}",
+        token_cache=cache,
     )
 
     # Try cached token first
@@ -65,9 +71,12 @@ def get_token(config):
     if accounts:
         result = app.acquire_token_silent(SCOPES, account=accounts[0])
         if result and "access_token" in result:
+            # Save any refreshed token back to disk
+            if cache.has_state_changed:
+                TOKEN_FILE.write_text(cache.serialize())
             return result["access_token"]
 
-    # Device code flow — user visits URL and signs in
+    # Device code flow — user visits URL and signs in once
     flow = app.initiate_device_flow(scopes=SCOPES)
     if "user_code" not in flow:
         raise ValueError(f"Failed to create device flow: {flow}")
@@ -80,7 +89,9 @@ def get_token(config):
     if "access_token" not in result:
         raise ValueError(f"Auth failed: {result.get('error_description', result)}")
 
-    print("✅  Signed in successfully! Token cached for future runs.\n")
+    # Persist token to disk for all future runs
+    TOKEN_FILE.write_text(cache.serialize())
+    print("✅  Signed in successfully! Token saved — no future sign-in needed.\n")
     return result["access_token"]
 
 
@@ -110,12 +121,27 @@ class Graph:
         return self.get(f"/teams/{team_id}/channels")
 
     def get_messages(self, team_id, channel_id, since_days=7):
-        since = (datetime.now(timezone.utc) - timedelta(days=since_days)).isoformat()
+        # NOTE: Teams channel messages API does NOT support $filter on createdDateTime.
+        # Fetch recent messages and filter client-side instead.
+        since_dt = datetime.now(timezone.utc) - timedelta(days=since_days)
         messages = self.get(
             f"/teams/{team_id}/channels/{channel_id}/messages",
-            params={"$filter": f"createdDateTime ge {since}", "$top": 50},
+            params={"$top": 50},
         )
-        return [m for m in messages if m.get("messageType") == "message"]
+        # Client-side filter by date and message type
+        result = []
+        for m in messages:
+            if m.get("messageType") != "message":
+                continue
+            created = m.get("createdDateTime", "")
+            if created:
+                try:
+                    msg_dt = datetime.fromisoformat(created.replace("Z", "+00:00"))
+                    if msg_dt >= since_dt:
+                        result.append(m)
+                except ValueError:
+                    pass
+        return result
 
     def get_chat_messages(self, since_days=7):
         """Get 1:1 and group chat messages."""
@@ -149,9 +175,11 @@ def clean_body(body):
 
 
 def format_sender(msg):
-    sender = msg.get("from", {})
-    user = sender.get("user", {})
-    return user.get("displayName", "Unknown")
+    sender = msg.get("from") or {}
+    user = sender.get("user") or {}
+    application = sender.get("application") or {}
+    # Fall back to application name (bots) or "Unknown"
+    return user.get("displayName") or application.get("displayName") or "Unknown"
 
 
 def format_date(iso_str):
@@ -184,6 +212,10 @@ def build_markdown(graph, config, since_days):
 
     total_messages = 0
 
+    # ── Section 1: Team Channels ──────────────────────────────────────────────
+    lines.append("## Team Channels")
+    lines.append("")
+
     for team in teams:
         team_name = team["displayName"]
         team_id = team["id"]
@@ -195,7 +227,6 @@ def build_markdown(graph, config, since_days):
             ch_name = ch["displayName"]
             ch_id = ch["id"]
 
-            # Apply channel filter if configured
             if channel_filter and ch_name not in channel_filter:
                 continue
 
@@ -203,7 +234,7 @@ def build_markdown(graph, config, since_days):
                 messages = graph.get_messages(team_id, ch_id, since_days)
             except Exception as e:
                 if "403" in str(e) or "Forbidden" in str(e):
-                    continue  # skip channels we can't read
+                    continue
                 raise
 
             if not messages:
@@ -213,7 +244,7 @@ def build_markdown(graph, config, since_days):
             team_lines.append(f"### #{ch_name} ({len(messages)} messages)")
             team_lines.append("")
 
-            for msg in messages[-20:]:  # last 20 per channel
+            for msg in messages[-20:]:
                 sender = format_sender(msg)
                 date = format_date(msg.get("createdDateTime", ""))
                 body = clean_body(msg.get("body", {}))
@@ -224,14 +255,86 @@ def build_markdown(graph, config, since_days):
             team_lines.append("")
 
         if team_lines:
-            lines.append(f"## {team_name}")
+            lines.append(f"### Team: {team_name}")
             lines.append("")
             lines.extend(team_lines)
-            lines.append("---")
             lines.append("")
 
+    lines.append("---")
+    lines.append("")
+
+    # ── Section 2: Chats (1:1 and Group) ─────────────────────────────────────
+    lines.append("## Chats (1:1 and Group)")
+    lines.append("")
+
+    since_dt = datetime.now(timezone.utc) - timedelta(days=since_days)
+
+    try:
+        chats = graph.get("/me/chats?$expand=members&$top=50")
+        chat_count = 0
+
+        for chat in chats:
+            chat_id = chat.get("id", "")
+            chat_type = chat.get("chatType", "")
+            topic = chat.get("topic") or ""
+
+            # Derive chat label from members if no topic
+            members = chat.get("members", [])
+            member_names = [
+                m.get("displayName", "")
+                for m in members
+                if m.get("displayName") and "Andres" not in m.get("displayName", "")
+            ]
+            label = topic or (", ".join(member_names[:3]) if member_names else "Chat")
+            if chat_type == "oneOnOne":
+                label = f"1:1 with {member_names[0]}" if member_names else "1:1"
+
+            try:
+                msgs = graph.get(f"/me/chats/{chat_id}/messages?$top=30")
+            except Exception:
+                continue
+
+            # Filter to since_days window and exclude bot/system messages
+            human_msgs = []
+            for m in msgs:
+                if m.get("messageType") != "message":
+                    continue
+                created = m.get("createdDateTime", "")
+                try:
+                    msg_dt = datetime.fromisoformat(created.replace("Z", "+00:00"))
+                    if msg_dt < since_dt:
+                        continue
+                except ValueError:
+                    continue
+                body = clean_body(m.get("body", {}))
+                if not body:
+                    continue
+                human_msgs.append((format_sender(m), format_date(created), body))
+
+            if not human_msgs:
+                continue
+
+            chat_count += 1
+            total_messages += len(human_msgs)
+            lines.append(f"### {label} ({len(human_msgs)} messages)")
+            lines.append("")
+            for sender, date, body in human_msgs:
+                lines.append(f"- **{sender}** {date}: {body}")
+            lines.append("")
+
+        if chat_count == 0:
+            lines.append("_No chat messages in this window._")
+            lines.append("")
+
+    except Exception as e:
+        lines.append(f"_Chat pull error: {e}_")
+        lines.append("")
+
+    lines.append("---")
+    lines.append("")
+
     # Summary section
-    lines.insert(4, f"**Teams covered:** {len(teams)} | **Messages pulled:** {total_messages}")
+    lines.insert(4, f"**Teams covered:** {len(teams)} | **Total messages pulled:** {total_messages}")
     lines.insert(5, "")
 
     return "\n".join(lines), total_messages

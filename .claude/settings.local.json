@@ -6,7 +6,16 @@
       "Bash(ls -la *.md)",
       "Bash(sed -i '' -e 's#\\\\[\\\\[Annabella Urrego\\\\]\\\\]#*Annabella Urrego*#g' -e 's#\\\\[\\\\[Evaluna Urrego\\\\]\\\\]#*Evaluna Urrego*#g' wiki/people/mariana-rodriguez.md)",
       "Bash(sed -i '' -e 's#\\\\[\\\\[Content360\\\\]\\\\]#[[wiki/concepts/content360|Content360]]#g' wiki/concepts/ai-video-tools.md)",
-      "Bash(grep -rn '\\\\[\\\\[[A-Z][^]/|]*\\\\]\\\\]' wiki/ --include='*.md')"
+      "Bash(grep -rn '\\\\[\\\\[[A-Z][^]/|]*\\\\]\\\\]' wiki/ --include='*.md')",
+      "Bash(chmod +x \"/Users/jarvisurrego/My Brain/knowledge-base/scripts/import-email-2months.sh\")",
+      "Bash(bash \"/Users/jarvisurrego/My Brain/knowledge-base/scripts/import-email-2months.sh\")",
+      "Bash(m365 status:*)",
+      "Bash(m365 request:*)",
+      "Bash(python3 -c \"import sys,json; d=json.loads\\(sys.stdin.read\\(\\)\\); print\\(f'Count: {len\\(d.get\\(\\\\\"value\\\\\",d if isinstance\\(d,list\\) else []\\)\\)}'\\); [print\\(f'  {m.get\\(\\\\\"receivedDateTime\\\\\",\\\\\"?\\\\\"\\)[:10]} | {m.get\\(\\\\\"subject\\\\\",\\\\\"?\\\\\"\\)[:60]}'\\) for m in \\(d.get\\('value',d if isinstance\\(d,list\\) else []\\)\\)[:5]]\")",
+      "Bash(python3 -c ':*)",
+      "Bash(python3:*)",
+      "WebSearch",
+      "WebFetch(domain:hannahstulberg.substack.com)"
     ]
   }
 }

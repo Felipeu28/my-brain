@@ -30,9 +30,12 @@ type: mind
 2. His teaching style (small, readable, from-scratch) is a model for how Moil should explain itself.
 3. He often previews patterns 6-12 months before they go mainstream.
 
-## Recent signals (seed)
+## Recent signals
+
+- **Apr 4, 2026** — Follow-up post on improved LLM Knowledge Bases (6.4M views, 16K bookmarks) — responded to derivative implementations, shared refinements
 - **Apr 2, 2026** — "LLM Knowledge Bases" viral post (19.3M views, 100K bookmarks) → the origin signal for this Brain
-- **Apr 4, 2026** — Follow-up with improvements (6.4M views)
+- **Derivative wave:** Karpathy's Apr 2 post triggered @NickSpisak_ ("rebuilt in 20 minutes"), @FarzaTV (Farzapedia), @alliekmiller (Claudeopedia), @defileo ("have to be illegal" — 3.9M views), @aiedge_ (ultimate guide), @VibeMarketer_ (searchable wiki), and dozens of others — all within 1 week
+- **Obsidian as view layer:** His implementation specifically used Obsidian for navigation — this combination became the default recommendation across all derivative guides
 
 ## Where to follow
 - X: @karpathy

@@ -1,6 +1,6 @@
 # MEMORY — Open Actions & Live Commitments
 
-**Last updated:** 2026-04-11
+**Last updated:** 2026-04-12
 **Purpose:** Single source of truth for open action items extracted from ingested raw sources. Claude Code updates this file during ingestion runs.
 
 > For relationship and concept context, see [[index]]. For ingestion history, see [[log]].
@@ -68,6 +68,56 @@ Source: [[wiki/summaries/imessages-people-2026-04-09]]
 ### John Costilla — Apr 10 photo shoot
 Source: [[wiki/summaries/imessages-people-2026-04-09]]
 - [x] **Apr 10 · 10:15am** — Photos with John. ~~Presumed done~~ (today is Apr 11; verify + archive if complete)
+
+---
+
+## 🔔 New from meetings ingestion (2026-04-12) — 25 OneDrive transcripts
+
+Source: [[raw/meetings/]] — Aug 2024–May 2025 meeting recordings
+
+### Historical action items (may be complete — verify)
+
+**Product / Engineering**
+- [ ] Verify: Azure access issue for Adeleke resolved? (Andres submitted support case ~May 2025)
+- [ ] Verify: Job matching algorithm weighted update deployed to production? (Adeleke confirmed Apr 9)
+- [ ] Verify: Google → Microsoft migration completed? (Deadline was May 5, 2025)
+- [ ] Verify: HubSpot full access granted to Jacob after May 15, 2025?
+
+**Business Plan Creator bugs (from May 2025 — check current status)**
+- [ ] Customer persona pipeline fixed (personas passing to o3-mini)?
+- [ ] TAM/SAM calculation validated?
+- [ ] Competitor map moved to competitor section?
+- [ ] Cost structure personalization (dropdown) added?
+- [ ] Milestone completion/tracking added?
+- [ ] Plan display default fixed for subscribed users?
+
+**Interview Tool**
+- [ ] MVP development started? (Andres said to build without design first — May 2025)
+
+**Social Media Automation**
+- [ ] Auto-generate social post on job creation (Grok + template) — built?
+
+**Marketing**
+- [ ] Sebastian Oviedo 4-week marketing engagement completed? (Started Apr 28, 2025 — 4 weeks = ~May 26)
+- [ ] June 2025 Manos De Cristo workshops — delivered? (3 Fridays in June: 13, 20, 27)
+
+**Clients**
+- [ ] Sakuri Corporation — ALL Texas job listings organized by city and posted? (Jacob assigned)
+- [ ] Zachary / Great Construction Corp — account active and delivering job postings?
+
+**UTSA License Opportunity**
+- [ ] EDC contact intro to UTSA for Business Plan Creator license — followed up?
+
+**Team**
+- [ ] Family emergency — check in with Abiodun Solomon (Ablad) after hospital visit (Apr 2025)
+
+---
+
+## 🔔 New from Teams ingestion (2026-04-12)
+
+Source: [[wiki/summaries/teams-2026-04-12]]
+- [ ] **Future pull:** Request a new Teams export that includes human responses in `#attendance-n-break` and all project/team threads — this will unlock full Moil team roster + compliance patterns. Current pull only captured bot messages.
+- [ ] **Investigate `#Alerts` channel:** Had a header in the 30-day pull but zero messages. What is it used for? Could be critical operational alerts.
 
 ---
 

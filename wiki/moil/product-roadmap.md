@@ -1,0 +1,155 @@
+# Moil — Product Roadmap & Feature Status
+
+**Type:** moil-topic
+**Last updated:** 2026-04-12
+**Source:** [[raw/meetings/]] (25 meeting transcripts, Aug 2024–May 2025)
+**Related:** [[wiki/moil/positioning]], [[wiki/moil/gtm]], [[wiki/people/adeleke-tolulope]], [[wiki/people/jacob-oluwole]]
+
+---
+
+## AI Tech Stack (as of May 2025)
+
+| Function | Primary AI | Backup |
+|---|---|---|
+| Resume data extraction | Gemini | OpenAI |
+| Resume generation | DeepSeek | — |
+| Business plan generation | OpenAI Agent (custom) | — |
+| Business insights (market analysis) | o4-mini | — |
+| Business plan sections (detailed) | o3-mini | — |
+| AI image generation (marketing) | Grok | — |
+| Internal code generation | Fine-tuned DeepSeek R1 | — |
+
+---
+
+## Feature Status (as of May 2025)
+
+| Feature | Status | Notes |
+|---|---|---|
+| Resume Builder | ✅ Complete | 100% built on customer feedback |
+| Job Matching Algorithm | ✅ Improved | Weighted: recent experience → preference → skills |
+| Business Plan Creator | ✅ Mostly complete | OpenAI agent; section-by-section editing |
+| Business Insights | 🔧 In progress | o4-mini + o3-mini pipeline; several bugs to fix |
+| AI Interview Tool | 🔧 In design/dev | MVP approach; voice-only initially |
+| Business Registration Tool | 🔧 Planned | Andres building MVP |
+| Social Media Job Post Automation | 🔧 Planned | Auto-generate on job creation via Grok |
+| Mobile App | 📋 Deferred | Low priority; parallel workstream planned |
+| AI Marketplace | 💡 Concept | Adeleke's idea; approved in principle |
+| Profile Video Script Tool | 💡 Concept | AI writes script → candidate reads on camera |
+
+---
+
+## Business Plan Creator — Technical Architecture
+
+**Flow:**
+1. User answers 1 open-ended question ("Tell me about your business idea")
+2. o4-mini generates executive summary + customer targets
+3. o3-mini generates full business plan sections
+4. User edits section by section
+5. Final preview → Download as PDF or Word
+
+**Known Bugs (May 2025):**
+- Customer personas not always passed to o3-mini → inconsistency
+- TAM/SAM figures need validation
+- Left nav menu collapses when it should stay open
+- Competitor map in wrong location (should be on competitor page)
+- Plan display after subscription purchase shows "upgrade" incorrectly
+
+---
+
+## AI Interview Tool — Designed Spec
+
+- Voice-only initially (audio, not video)
+- Questions AI-generated from job title input (5-15 questions)
+- Candidate records answers → AI transcribes + analyzes
+- Analytics: keywords detected, strengths, red flags, confidence, clarity, overall match quality
+- Save up to 3 interviews per job title
+- Business can send voice interview requests to candidates
+- Blind hiring principle: skill before appearance
+- Development: MVP first, no design required (per Andres, May 2025)
+
+---
+
+## Business Insights — Designed Spec
+
+- Market size (TAM/SAM/SOM) — needs calculation fix
+- Customer personas (with AI-generated images)
+- Competitor map with location density (help decide where to open)
+- Industry trends
+- SWOT matrix
+- Cost structure (user-personalizable with dropdown)
+- Milestone tracking (mark complete → auto-generate next)
+- Initial capital allocation
+
+---
+
+## Internal AI Model (Custom DeepSeek R1)
+
+Built for code generation specific to Moil's codebase. Key learnings:
+- Dataset must include instruction + expected output (not just code)
+- Training phases: code generation → code review → file creation → pseudocode → dev environment setup
+- Frontend dataset being built by Taiwo in parallel with Adeleke's backend dataset
+
+---
+
+## Pricing (confirmed from meetings)
+
+| Plan | Price | Key Features |
+|---|---|---|
+| Starter | $15/mo | AI Coach, market research, 3 job posts/mo |
+| Professional | $25/mo | 10 job posts/mo, premium analytics |
+| Market Pro | $75/mo | Unlimited jobs + images, Content360, video credits |
+
+- Annual billing: up to 25% savings
+- Bi-weekly payment option requested by Andres (to be added)
+
+---
+
+---
+
+## Azure Infrastructure Notes
+
+### Azure Account Disaster (May 2025)
+
+During the Google Workspace → Microsoft 365 migration (~May 7, 2025), Moil's **entire Azure subscription/directory disappeared**. Impact:
+- Website fully down for ~1 week
+- Team could not push code changes
+- Azure AI Foundry inaccessible (no subscription showing in portal)
+- Azure credits still spending (servers still running) despite team lockout
+
+Paula Florez-Estrada (Azure AI Activation Advisor) escalated the support ticket. See [[wiki/meetings/2025-05-21-ai-advisory-azure-foundry]].
+
+### Azure AI Foundry — Chatbot as #1 AI Priority
+
+Paula introduced Moil to Azure AI Foundry (May 2025). Andres named the support chatbot as Moil's #1 AI priority:
+- RAG over all Moil product documentation
+- Answers customer support questions throughout the site
+- Fully owned by Moil; export via APIs/endpoints
+- Azure sponsorship credits applicable
+- Templates available for quick deployment
+
+### Azure Chat Integration (ACS) — Dec 2024 Plan
+
+Kranthi Kumar (Sonata Software / Microsoft Founders Hub) introduced Azure Communication Services for end-to-end chat + WhatsApp Business integration. See [[wiki/meetings/2024-12-03-technical-advisory-azure]].
+
+### Business Plan Creator Architecture (Mar 2025 Design Session)
+
+From the March 12, 2025 design session ([[wiki/meetings/2025-03-12-business-plan-creator-design]]):
+- **8 output sections**, **20-40 questions**, **3 tiers** (Idea/Plan/Grow)
+- Conversational UX mirrors the resume builder (voice/text input)
+- DeepSeek for analytical components; Gemini for market research
+- Pricing anchor: "$1,500 traditional → $100 with Moil"
+
+### MongoDB → Postgres Migration (Dec 2024)
+
+MongoDB Atlas was running $160/month. Team identified this as unsustainable; discussed Postgres migration for cost reduction. See [[wiki/meetings/2024-batch-low-signal-calls]].
+
+---
+
+## Connections
+
+- [[wiki/meetings/2025-03-28-jacob-andres-pivot-ai-tools]] — pivot declaration
+- [[wiki/meetings/2025-04-07-moil-marketing-call-toolbox-vision]] — toolbox vision
+- [[wiki/meetings/2025-05-16-team-meeting-platform-review]] — latest platform state
+- [[wiki/meetings/2025-05-21-ai-advisory-azure-foundry]] — Azure disaster + AI Foundry chatbot priority
+- [[wiki/meetings/2025-03-12-business-plan-creator-design]] — BPC architecture session
+- [[wiki/meetings/2024-12-03-technical-advisory-azure]] — Azure migration advisory (Kranthi Kumar)
