@@ -87,4 +87,3 @@ tags: [hub, personal, andres, evergreen]
 ## Core Pages
 - [[andres/decision-log]] — Running log of significant decisions
 - [[andres/goals-2026]] — Key goals for 2026
-- [[andres/reading-list]] — Books, articles, and resources

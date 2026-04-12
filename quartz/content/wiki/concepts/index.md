@@ -28,25 +28,27 @@ Frameworks, mental models, and domain knowledge.
 
 ---
 
-## Monthly Synthesis
-
-- [[synthesis-2026-04]] — April 2026: 114 X bookmarks analyzed
-
 ## Core Pages
-- [[concepts/aedo]] — Aedo
-- [[concepts/ai-cold-outreach]] — AI cold outreach strategies
-- [[concepts/ai-video-tools]] — AI video tools landscape
-- [[concepts/brain-architecture]] — Brain architecture
-- [[concepts/buda-hive]] — Buda Hive (concept)
-- [[concepts/campaignos]] — CampaignOS (concept)
-- [[concepts/claude-code]] — Claude Code
-- [[concepts/claude-cowork]] — Claude Cowork
-- [[concepts/content360]] — Content360
-- [[concepts/fantelo]] — Fantelo
-- [[concepts/llm-knowledge-bases]] — LLM knowledge bases
-- [[concepts/managed-agents]] — Managed agents
-- [[concepts/moil360]] — Moil360
-- [[concepts/openclaw-hermes]] — OpenClaw Hermes
-- [[concepts/smart-hiring]] — Smart hiring
-- [[concepts/ai-hiring]] — AI-driven hiring workflows
-- [[concepts/voice-first-ux]] — Voice-first UX patterns
+
+### Moil Product Modules
+- [[concepts/smart-hiring]] — AI-powered multi-platform hiring (Moil's flagship feature)
+- [[concepts/content360]] — 30-day AI marketing engine
+- [[concepts/moil360]] — Marketing-brand wrapping of Content360
+
+### AI & Agent Infrastructure
+- [[concepts/claude-code]] — Anthropic's CLI agent (runtime for the Brain + dev)
+- [[concepts/claude-cowork]] — Scheduled/background Claude workflow platform
+- [[concepts/managed-agents]] — Claude Managed Agents (Apr 2026 launch)
+- [[concepts/openclaw-hermes]] — Open-source parallel ecosystem (gstack, Superpowers, gbrain)
+- [[concepts/llm-knowledge-bases]] — Karpathy's wiki pattern (what the Brain uses)
+- [[concepts/brain-architecture]] — Andres's 5-layer personal knowledge pipeline
+
+### Business & GTM
+- [[concepts/ai-cold-outreach]] — AI-powered outbound playbooks
+- [[concepts/ai-video-tools]] — Seedance, HeyGen, Veo — 2026 landscape
+
+### Ecosystem & Programs
+- [[concepts/buda-hive]] — Incubator program, cohort model, Moil integration
+- [[concepts/aedo]] — IEDC accreditation Buda EDC is pursuing
+- [[concepts/campaignos]] — Political campaign AI platform (exploratory, with Jennifer Storm)
+- [[concepts/fantelo]] — Andres's parallel project (fantelo.com)
