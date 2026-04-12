@@ -1,6 +1,6 @@
 # Moil Brain — Master Index
 
-**Last compiled:** 2026-04-12 (OneDrive full transcripts — Run 2) · **Total wiki pages:** ~170 · **Raw sources ingested:** 50/50
+**Last compiled:** 2026-04-12 (Teams 415-message full ingestion) · **Total wiki pages:** ~172 · **Raw sources ingested:** 50/50
 
 > **New here?** Read [[wiki/README]] for the wiki design principles, then follow the links below.
 
@@ -28,7 +28,7 @@
 | [[wiki/concepts/README\|concepts/]] | 32 | Frameworks, mental models, products, programs |
 | [[wiki/radar/README\|radar/]] | 1 | Append-only changelogs for fast-moving topics |
 | [[wiki/summaries/README\|summaries/]] | 16 | One structured summary per raw source |
-| [[wiki/meetings/README\|meetings/]] | 37 | Meeting records + async threads — decisions and action items |
+| [[wiki/meetings/README\|meetings/]] | 39 | Meeting records + async threads — decisions and action items |
 
 ---
 
@@ -84,11 +84,11 @@
 | Minds (thinkers) | 10 | from X bookmarks deep compile |
 | Orgs (customer/partner) | 4 | |
 | Concepts | 32 | |
-| Meetings | 37 | +15 from Run 2 (9 from Run 2 session 1 + 6 new this session) |
+| Meetings | 39 | +2 from Teams full ingestion (Monday call + engineering sprint) |
 | Radar (changelogs) | 1 | Claude Code changelog |
 | Summaries | 16 | |
 | Folder READMEs | 9 | |
-| **Total wiki files** | **~170** | +30 from Run 2 transcript ingestion |
+| **Total wiki files** | **~172** | +2 meeting pages from Teams full ingestion |
 | Raw sources ingested | 50/50 | 25 Run 1 meeting notes + 25 Run 2 full transcripts |
 
 **OneDrive Full Transcripts ingestion completed 2026-04-12 (Run 2):**
@@ -111,8 +111,14 @@
 - `raw/x-bookmarks-2026-04-11 copy.md` (129 items) — fully compiled into 16 concept pages + 5 minds pages
 - `raw/x-bookmarks-2026-04-11.md` (114 items) — cross-referenced; additional signal extracted
 
-**Teams ingestion completed 2026-04-12:**
-- `raw/teams-2026-04-12.md` (27 messages, 30-day window) — structural intelligence only (all messages were automated Workflows bot); created meetings/ folder with README + first meeting page; new concept: moil-team-ops
+**Teams FULL ingestion completed 2026-04-12 (replaces prior 27-message bot-only pull):**
+- `raw/teams-2026-04-12.md` (415 messages, Apr 5–12 2026) — 1:1 chats + group chats + channel messages
+- VERY HIGH signal: 4 deals closed, 12+ Claude Code sessions documented, full engineering sprint captured
+- 2 new `wiki/meetings/` pages: [[wiki/meetings/2026-04-06-monday-collaboration-call]], [[wiki/meetings/2026-04-09-12-engineering-sprint]]
+- 7 `wiki/people/` pages updated: adeleke-tolulope, jacob-oluwole, taiwo-ola-balogun, abiodun-solomon, casey-earley, travis-sutherland, inna-benyukhis
+- 3 `wiki/moil/` pages updated: product-roadmap (AI stack now Apr 2026), gtm (7 new deals), customers (+8 new customers)
+- [[wiki/summaries/teams-2026-04-12]] completely rewritten with full 415-message intelligence
+- [[MEMORY]] updated with 25+ new action items across deals, engineering, content, team, and security
 
 **Known raw/ debts (untouchable per [[CLAUDE]]):**
 - `raw/buda-hive-edс-2026-04-09.md` — Cyrillic "с" in filename

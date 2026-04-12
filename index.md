@@ -88,7 +88,7 @@
 | Radar (changelogs) | 1 | Claude Code changelog |
 | Summaries | 16 | |
 | Folder READMEs | 9 | |
-| **Total wiki files** | **~170** | +30 from Run 2 transcript ingestion |
+| **Total wiki files** | **~172** | +2 meeting pages from Teams full ingestion |
 | Raw sources ingested | 50/50 | 25 Run 1 meeting notes + 25 Run 2 full transcripts |
 
 **OneDrive Full Transcripts ingestion completed 2026-04-12 (Run 2):**

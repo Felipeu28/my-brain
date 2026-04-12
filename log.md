@@ -304,6 +304,48 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ---
 
+### [2026-04-12] Microsoft Teams — Full 415-Message Ingestion (Apr 5–12, 2026)
+
+- **File:** raw/teams-2026-04-12.md (OVERWRITTEN — replaces prior 27-message bot-only version)
+- **Type:** team-communications (1:1 chats + group chats + channel messages)
+- **Messages:** 415 total across 12 threads (181 Andres-Adeleke, 79 Moil Team, 65 Andres-Taiwo, 38 Moil Marketing, 30 Andres-Jacob, 11 Andres-Casey, 3 Mark & Andres, 3 Attendance bot, 2 Landing Page Projects, 1 Monday Collaboration, 1 Eden Discovery, 1 Andres-Abiodun)
+
+**Pages created:**
+- [[wiki/meetings/2026-04-06-monday-collaboration-call]] — project alignment call; Planner board created; end-to-end integration push
+- [[wiki/meetings/2026-04-09-12-engineering-sprint]] — 4-day sprint: 12+ Claude Code sessions, model cost discovery, Business Coach redesign, PDF/PPT export
+
+**Pages updated (7 people):**
+- [[wiki/people/adeleke-tolulope]] — Apr 2026 sprint activity, model cost threads, FB login issue
+- [[wiki/people/jacob-oluwole]] — Planner board, customer onboarding, Inna content, power outage, $50 from Andres
+- [[wiki/people/taiwo-ola-balogun]] — Meridian full ownership, Stripe integration, credential access issues
+- [[wiki/people/abiodun-solomon]] ��� Name correction (Adekanmi not Solomon), content delivery batch, Moil 360 reviews doc
+- [[wiki/people/casey-earley]] — Moving to Buda (2051 Cambria, May 16)
+- [[wiki/people/travis-sutherland]] — Now a paying customer (travis@zoiwell.com, 1-year Moil 360 license)
+- [[wiki/people/inna-benyukhis]] — Content360 delivery client confirmed; May calendar pre-loaded; content loss incident
+
+**Pages updated (3 moil):**
+- [[wiki/moil/product-roadmap]] — AI tech stack updated to Apr 2026 (Gemini for images, Qwen paid tier, Grok 4.1 Fast discovery, GPT-5.4 cost spike); feature status refreshed (Business Coach live, Content360 selling, PDF/PPT export, Meridian, Voice Guide)
+- [[wiki/moil/gtm]] — 7 new deals documented (Connectex, Alloy, FitLogic, Travis, Jacob Centeno, jilledegs01, Siren Beauty); new channels (direct website builds, content-as-service, WhatsApp/Telegram)
+- [[wiki/moil/customers]] �� 8 new customer entries added to named customers table
+
+**Summary page:** [[wiki/summaries/teams-2026-04-12]] — completely rewritten from 27-message structural summary to full 415-message intelligence report
+
+**MEMORY updated:** 25+ new action items across 5 categories (deals, engineering, content, team management, credential security)
+
+**Key intelligence:**
+1. **Best month ever:** 4 deals closed in one week (Connectex, Meridian, Alloy closing, FitLogic hiring). Andres: "We are having the best month in our existence!!!"
+2. **Development workflow confirmed:** Andres prototypes in Claude Code → shares session link in Teams → Adeleke pulls to staging → tests → pushes to prod
+3. **OpenAI cost spike:** `gpt-4o` alias silently upgraded to `gpt-5_4-2026-03-05`. Grok 4.1 Fast ($0.20/$0.50) identified as 30x cheaper replacement
+4. **Business Coach redesigned:** Static 22-step wizard replaced with AI-guided onboarding that scrapes websites/PDFs
+5. **Abiodun name correction:** Teams shows "Abiodun Adekanmi" not "Abiodun Solomon"
+6. **Casey Earley moving to Buda** (May 16, 2026) — deepens HIVE relationship
+7. **Credential security risk:** Stripe keys, Supabase passwords, API keys shared in plaintext Teams chat
+8. **Team strain signals:** Jacob on 3 weeks of generator power; Taiwo blocked by credentials; Adeleke's FB account locked
+
+**Signal rating: VERY HIGH** — densest operational intelligence source in the Brain to date.
+
+---
+
 ## How to add an entry
 
 Claude Code automatically appends to this file at the end of each `/kb compile` run. You do not need to edit this manually.
