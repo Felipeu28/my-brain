@@ -41,16 +41,28 @@ Moil's architectural bet is that **business context, once captured, should power
 
 ```
 21 Questions (voice or text, EN/ES)
-         ↓
-   Business DNA Profile
-  /    |    |    |    \
-Market  Biz  Content  Hiring  24/7
-Rsrch  Plan   360    Smart   Coach
+                    ↓
+           Business DNA Profile
+  /      |      |      |      |      \
+Market   Biz  Content Hiring  Docs   24/7
+Rsrch   Plan   360   Smart  Images  Coach
+                            Video
+                            Audio
+                          Schedules
+                         Strategies
 ```
 
 Each module feeds the next. A market research report informs the business plan. The business plan shapes the content calendar topics. The content calendar positions the job postings. The hiring outcomes feed back into the coaching.
 
-This is **not** six separate features — it's one operating layer that happens to have six outputs.
+This is **not** twelve separate features — it's one operating layer with twelve outputs, built for the SMB owner who needs everything and can afford none of it separately.
+
+### Speed that changes the conversation
+
+Two numbers that matter in the sales pitch:
+- **2 minutes** to post a job across 10+ platforms
+- **10 minutes** to generate a 20–30 page market research report
+
+These aren't performance claims — they're positioning statements. No consultant, no agency, no competing tool delivers either of these at this speed and price.
 
 ---
 
@@ -69,13 +81,28 @@ The 21-question intake can be answered **by voice in English or Spanish**. This 
 | Dimension | Moil | Indeed | ChatGPT | Traditional Consultant |
 |-----------|------|--------|---------|----------------------|
 | Business context | Full DNA (21Q) | None | None | Partial |
-| Scope | Research + Plan + Marketing + Hiring + Coaching | Hiring only | Writing only | Project-specific |
+| Scope | Research + Plan + Marketing + Hiring + Docs + Images + Video + Audio + Coaching | Hiring only | Writing only | Project-specific |
 | Bilingual EN/ES | Native, every feature | Limited | Partial | Rare |
 | Price | $15–$75/mo | Pay-per-click | $20/mo | $5,000+/project |
 | Always-on | Yes (24/7 coach) | No | No | No |
 | Distribution | 10+ platforms auto | 1 platform | None | None |
+| Time to post job | ~2 minutes | ~15 min | N/A | N/A |
+| Time to market research | ~10 minutes | N/A | ~1 hour (manual) | Days/weeks |
 
-Moil's moat is not any individual feature — it is the **integration**. The business that answered 21 questions has context that flows across hiring, content, and planning in one session. No competitor offers this.
+Moil's moat is not any individual feature — it is the **integration**. The business that answered 21 questions has context that flows across hiring, content, planning, documents, and strategy in one session. No competitor offers this at this price point.
+
+### "SMB from day one" positioning
+
+Moil helps a small business owner from the moment they have an idea:
+- **Register** a business (entity guidance)
+- **Research** the market (10-min report)
+- **Plan** it (investor-ready business plan)
+- **Brand** it (Brand DNA system)
+- **Market** it (Content360 — 30-day calendar, images, video, audio)
+- **Hire** for it (Smart Hiring → 10+ platforms in 2 min)
+- **Run** it (strategies, schedules, documents, coaching)
+
+This is the full arc from zero to operating business — all under $75/month.
 
 ---
 
@@ -85,7 +112,7 @@ Moil's moat is not any individual feature — it is the **integration**. The bus
 
 Rationale: a business that has run market research OR posted a job OR generated a content calendar has experienced real value and is likely to pay. Activation depth predicts retention better than sign-ups.
 
-Secondary metrics: time-to-hire (target: 11 days, industry avg 32), content calendar completion rate (Content360 plans fully generated and downloaded), and 90-day employee retention (target: 91%).
+Secondary metrics: time-to-hire (target: 11 days, industry avg 32), content calendar completion rate (Content360 plans fully generated and downloaded), MRR growth (current: $45K, target: $100K+).
 
 ---
 

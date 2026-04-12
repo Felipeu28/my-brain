@@ -13,22 +13,28 @@ tags: [moil, growing]
 
 ## Revenue & Growth
 
-| Metric | Current (2026) | Target 2027 | Target 2028 |
-|--------|---------------|-------------|-------------|
-| Active paying customers | 500+ | 1,200–1,500 | 2,500–3,000 |
-| MRR | $6,000–$8,000 | $25,000–$33,000 | $62,500–$87,500 |
-| ARR | $72,000–$96,000 | $300,000–$400,000 | $750,000–$1,000,000 |
-| ARPU (annual) | $144–$192 | $200–$250 | $250–$330 |
-| Monthly churn | ~5% | 4% | 3% |
+| Metric | Value |
+|--------|-------|
+| MRR (starting point) | $700 |
+| MRR (current, April 2026) | $45,000 |
+| MRR target (2026) | $100,000+ |
+| Active paying customers | 500+ |
+| Monthly churn | ~5% |
+
+> Revenue grew from **$700 → $45,000 MRR** — targeting $100K+ MRR in 2026.
+
+## Platform Speed (Confirmed)
+
+| Action | Time |
+|--------|------|
+| Post a job | ~2 minutes |
+| Generate full market research report | ~10 minutes |
 
 ## Hiring Performance
 
 | Metric | Moil | Industry Average |
 |--------|------|-----------------|
-| Cost per hire | $850 | $2,400 |
 | Time to hire | 11 days | 32 days |
-| Interview success rate | 94% | — |
-| Employee retention (90 days) | 91% | — |
 | Bilingual candidate reach | 58% | 22% |
 | Candidate matching accuracy | 95% | — |
 | ATS pass rate (resumes) | 98% | — |

@@ -24,15 +24,14 @@ Moil is the AI co-founder for small businesses — one platform that does market
 | Candidates on platform | 50,000+ |
 | Jobs posted monthly | 5,000+ |
 | AI match accuracy | 95% |
-| Interview success rate | 94% |
-| Employee retention (90 days) | 91% |
 | Average time-to-hire | 11 days (vs. 32-day industry avg) |
-| Average cost per hire | $850 (vs. $2,400 industry avg) |
+| Time to post a job | ~2 minutes |
+| Time to generate market research | ~10 minutes |
 | Job boards posted to | 10+ |
 | Bilingual candidate reach | 58% (vs. 22% industry avg) |
 | Blog newsletter subscribers | 2,000+ |
-| MRR (estimated) | $6,000–$8,000 |
-| ARR (estimated) | $72,000–$96,000 |
+| MRR (current) | $45,000 → targeting $100K+ in 2026 |
+| MRR growth | $700 → $45,000 |
 
 ---
 
@@ -53,12 +52,16 @@ Moil is the AI co-founder for small businesses — one platform that does market
 | Module | What it does |
 |--------|-------------|
 | 21-Question Onboarding | Voice or text (EN/ES) — builds Business DNA that powers all modules |
-| Market Research | 20–30 page report from 8–10 real sources. TAM/SAM/SOM, competitive landscape, personas. |
+| Market Research | 20–30 page report in ~10 minutes from 8–10 real sources. TAM/SAM/SOM, competitive landscape, personas. |
 | Business Plan Generator | Investor-ready PDF with 5-year projections — one click |
 | Content360 | 30-day marketing calendar with AI images, AI video, hooks, captions, CTAs, hashtags |
-| Smart Hiring | Post once → auto-distribute to 10+ platforms → AI candidate matching |
-| 24/7 AI Business Coach | Strategy, cash flow, growth — context-aware, always on |
-| Document Creation | Business documents on demand |
+| Smart Hiring | Post once → auto-distribute to 10+ platforms → AI candidate matching (~2 min to post) |
+| AI Business Coach / Co-Founder | 24/7 strategy, cash flow, growth coaching — context-aware. Acts as a co-founder for SMBs from day one. |
+| Business Registration Guidance | Step-by-step help registering a business entity |
+| Document Creation | Business documents on demand (contracts, SOPs, proposals, etc.) |
+| AI Image Generation | On-brand visuals integrated into all outputs |
+| AI Video & Audio Creation | Video and audio content generation for marketing and training |
+| Strategy & Schedule Builder | Actionable strategies and operational schedules tailored to the business |
 | Brand DNA System | Visual + voice identity system integrated into all outputs |
 
 ---
