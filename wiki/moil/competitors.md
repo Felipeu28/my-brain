@@ -36,7 +36,7 @@
 1. **Integration depth** — competitors do one thing. Moil does hiring + marketing + planning + coaching in one session, all powered by the same business DNA from 21 questions.
 2. **Bilingual from day one** — no competitor has native EN/ES at every layer (voice input, content output, hiring network, coaching).
 3. **Price** — $15/mo makes the "should I try this?" decision trivial. Competitors are either free-but-generic (ChatGPT) or expensive-but-narrow (Indeed, consultants).
-4. **Community distribution** — the [[Buda HIVE]] / EDC model creates captive users at zero CAC. No competitor has this.
+4. **Community distribution** — the [[wiki/concepts/buda-hive|Buda HIVE]] / EDC model creates captive users at zero CAC. No competitor has this.
 
 ## Risk
 

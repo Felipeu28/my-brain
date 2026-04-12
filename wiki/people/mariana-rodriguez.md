@@ -12,7 +12,7 @@
 
 ## Family
 
-Mother to [[Annabella Urrego]] (older daughter, ~10-12) and [[Evaluna Urrego]] (younger daughter, ~5-7). Andres watches the girls in the afternoons while Mariana finishes business calls.
+Mother to *Annabella Urrego* (older daughter, ~10-12) and *Evaluna Urrego* (younger daughter, ~5-7). Andres watches the girls in the afternoons while Mariana finishes business calls.
 
 ## Personal
 

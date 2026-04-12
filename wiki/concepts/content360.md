@@ -11,7 +11,7 @@ Also called **Moil360** on social media.
 
 ## What It Is
 
-Content360 is [[Moil]]'s AI-powered 30-day marketing engine. After answering the 21 strategic questions, the platform generates a complete monthly content department:
+Content360 is [[wiki/moil/positioning|Moil]]'s AI-powered 30-day marketing engine. After answering the 21 strategic questions, the platform generates a complete monthly content department:
 
 - 30 days of researched topics
 - Tested hooks and full captions by content type

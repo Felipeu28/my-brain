@@ -14,7 +14,7 @@
 
 ## Relationship
 
-Warm lead — met at Buda Main Street networking event in February 2026. Inquired about how [[Moil]] AI could help his restaurant business, particularly with scheduling.
+Warm lead — met at Buda Main Street networking event in February 2026. Inquired about how [[wiki/moil/positioning|Moil]] AI could help his restaurant business, particularly with scheduling.
 
 ## Pain Point
 

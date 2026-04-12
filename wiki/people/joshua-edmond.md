@@ -14,7 +14,7 @@
 
 ## Relationship
 
-Co-coach and business partner. They jointly teach [[Buda HIVE]] cohorts as Incubator Strategists. Coordinate privately before submitting proposals to [[Jacquie Martinez]]. Friend beyond the work — Joshua went to New Orleans for a family emergency mid-proposal process and still coordinated with Andres.
+Co-coach and business partner. They jointly teach [[wiki/concepts/buda-hive|Buda HIVE]] cohorts as Incubator Strategists. Coordinate privately before submitting proposals to [[wiki/people/jacquie-martinez|Jacquie Martinez]]. Friend beyond the work — Joshua went to New Orleans for a family emergency mid-proposal process and still coordinated with Andres.
 
 ## Contract Structure
 
@@ -24,8 +24,8 @@ Separate but parallel consulting contracts: FAVE&SAVE LLC (Joshua) and Moil Ente
 
 - May 2025: Original Cohort 1 contracts submitted
 - Mar 18, 2026: Joshua sent joint proposal draft to Andres for review
-- Mar 25-26: Updated FAVE&SAVE contract submitted to [[Jacquie Martinez]]
-- Apr 14, 2026: Prep meeting at [[Buda HIVE]], 10:30am–12:00pm
+- Mar 25-26: Updated FAVE&SAVE contract submitted to [[wiki/people/jacquie-martinez|Jacquie Martinez]]
+- Apr 14, 2026: Prep meeting at [[wiki/concepts/buda-hive|Buda HIVE]], 10:30am–12:00pm
 - Sep 1, 2026: Training program creation deadline (per contract)
 
 ## Added Scope

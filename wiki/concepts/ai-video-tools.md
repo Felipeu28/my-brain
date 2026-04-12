@@ -18,7 +18,7 @@ AI video generation hit a major inflection point. Key developments from bookmark
 
 ## Why This Matters for Moil
 
-[[Content360]] already includes AI video for highest-impact days (5+ video days on Market Pro). As AI video costs drop ($0.05/sec from Google), Moil could:
+[[wiki/concepts/content360|Content360]] already includes AI video for highest-impact days (5+ video days on Market Pro). As AI video costs drop ($0.05/sec from Google), Moil could:
 
 1. Increase video credits across all tiers at minimal cost
 2. Offer character-consistent brand videos (HeyGen pattern)

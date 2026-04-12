@@ -11,7 +11,7 @@
 
 ## How She Uses Moil
 
-Megan uses [[Moil]] to post jobs and receive applications. She hired through moil.com — forwarded a screenshot of an applicant named Michelle who submitted via the site.
+Megan uses [[wiki/moil/positioning|Moil]] to post jobs and receive applications. She hired through moil.com — forwarded a screenshot of an applicant named Michelle who submitted via the site.
 
 ## Product Feedback (Critical)
 

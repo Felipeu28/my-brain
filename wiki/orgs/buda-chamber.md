@@ -9,7 +9,7 @@
 
 ## What It Is
 
-The Greater Buda Chamber of Commerce is the local business association for Buda, TX. Distinct from the [[Buda EDC]] (government economic development), the Chamber is a member-funded organization focused on networking, events, and business support.
+The Greater Buda Chamber of Commerce is the local business association for Buda, TX. Distinct from the [[wiki/orgs/buda-edc|Buda EDC]] (government economic development), the Chamber is a member-funded organization focused on networking, events, and business support.
 
 ## Key People
 

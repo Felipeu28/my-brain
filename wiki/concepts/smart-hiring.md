@@ -9,7 +9,7 @@
 
 ## What It Is
 
-Smart Hiring is [[Moil]]'s AI-powered recruitment feature. One job post, auto-distributed to 10+ platforms, with AI candidate matching.
+Smart Hiring is [[wiki/moil/positioning|Moil]]'s AI-powered recruitment feature. One job post, auto-distributed to 10+ platforms, with AI candidate matching.
 
 ## How It Works (4 Steps)
 
@@ -38,7 +38,7 @@ Smart Hiring is [[Moil]]'s AI-powered recruitment feature. One job post, auto-di
 
 ## Known Issues
 
-[[Megan Miller]] surfaced two UX gaps (April 2026):
+[[wiki/people/megan-miller|Megan Miller]] surfaced two UX gaps (April 2026):
 1. Applicant contact info (phone, email) not visible to employer after application
 2. Notification system unclear — employer doesn't know how to receive responses
 

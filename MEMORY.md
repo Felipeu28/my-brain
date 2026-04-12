@@ -1,9 +1,23 @@
 # MEMORY — Open Actions & Live Commitments
 
 **Last updated:** 2026-04-11
-**Purpose:** Single source of truth for open action items extracted from ingested raw sources. Claude Code updates this file during ingestion runs. Close items with `~~strikethrough~~` + date, then move to "Closed / Archive" after a week.
+**Purpose:** Single source of truth for open action items extracted from ingested raw sources. Claude Code updates this file during ingestion runs.
 
 > For relationship and concept context, see [[index]]. For ingestion history, see [[log]].
+
+---
+
+## 🧹 Review rhythm (keeps MEMORY.md from rotting)
+
+| Cadence | Action |
+|---|---|
+| **Weekly (Friday, 15 min)** | Walk through every `[ ]`. Strike `~~done~~` with date. Move items stale >2 weeks to "Closed / Archive". Add new actions from the week's iMessages/Outlook pulls. |
+| **Monthly (1st of month)** | Prune "Closed / Archive" — keep only items useful as precedent; delete the rest. Reconcile deferred items against the current week. |
+| **Quarterly** | Full audit: does every open item still matter? Kill anything that no longer serves a live goal. |
+
+**Hard rule:** if MEMORY.md exceeds 200 lines, pruning is overdue. Don't let it drift.
+
+**Closing an item:** use `~~strikethrough~~` + `(YYYY-MM-DD)` inline. After a week, move the whole bullet to "Closed / Archive". After a month, delete unless it's a useful precedent.
 
 ---
 
