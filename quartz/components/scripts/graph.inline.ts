@@ -70,7 +70,6 @@ type TweenNode = {
 
 async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   const slug = simplifySlug(fullSlug)
-  const visited = getVisited()
   removeAllChildren(graph)
 
   let {
@@ -193,15 +192,43 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     {} as Record<(typeof cssVars)[number], string>,
   )
 
+  // Hub color map — assign colors by wiki folder
+  const HUB_COLORS: Record<string, string> = {
+    andres:       "#6366f1",  // indigo — personal
+    moil:         "#0ea5e9",  // sky blue — startup
+    people:       "#10b981",  // emerald — people/network
+    clients:      "#f59e0b",  // amber — clients/revenue
+    projects:     "#8b5cf6",  // violet — projects
+    partnerships: "#ec4899",  // pink — partnerships
+    community:    "#14b8a6",  // teal — community
+    concepts:     "#f97316",  // orange — concepts/ideas
+    summaries:    "#94a3b8",  // slate — summaries
+    minds:        "#a855f7",  // purple — thinkers
+    orgs:         "#ef4444",  // red — organizations
+    radar:        "#84cc16",  // lime — radar/watchlist
+    raw:          "#374151",  // dark gray — raw inbox
+  }
+
+  function getHubColor(nodeSlug: string): string {
+    const parts = nodeSlug.split("/")
+    // wiki/moil/product-vision → "moil"
+    // wiki/andres/index → "andres"
+    if (parts[0] === "wiki" && parts.length > 1) {
+      return HUB_COLORS[parts[1]] ?? "#5c9cf5"
+    }
+    if (parts[0] === "raw") return HUB_COLORS["raw"]
+    return "#5c9cf5" // default blue
+  }
+
   // calculate color
   const color = (d: NodeData) => {
     const isCurrent = d.id === slug
     if (isCurrent) {
       return computedStyleMap["--secondary"]
-    } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
+    } else if (d.id.startsWith("tags/")) {
       return computedStyleMap["--tertiary"]
     } else {
-      return computedStyleMap["--gray"]
+      return getHubColor(d.id)
     }
   }
 
@@ -280,16 +307,28 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     const tweenGroup = new TweenGroup()
 
     const defaultScale = 1 / scale
-    const activeScale = defaultScale * 1.1
+    const activeScale = defaultScale * 1.2
     for (const n of nodeRenderData) {
       const nodeId = n.simulationData.id
 
       if (hoveredNodeId === nodeId) {
+        // hovered node: larger label, full opacity
         tweenGroup.add(
           new Tweened<Text>(n.label).to(
             {
               alpha: 1,
               scale: { x: activeScale, y: activeScale },
+            },
+            100,
+          ),
+        )
+      } else if (hoveredNodeId !== null && hoveredNeighbours.has(nodeId)) {
+        // direct neighbours: normal scale, visible
+        tweenGroup.add(
+          new Tweened<Text>(n.label).to(
+            {
+              alpha: 0.9,
+              scale: { x: defaultScale, y: defaultScale },
             },
             100,
           ),

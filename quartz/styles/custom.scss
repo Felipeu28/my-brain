@@ -1,3 +1,101 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+/* ========================================
+   BRAIN HOME PAGE
+   ======================================== */
+
+.brain-home {
+  max-width: 860px;
+}
+
+.brain-home h1 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  margin-bottom: 0.25rem;
+  background: linear-gradient(135deg, var(--secondary) 0%, #a855f7 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.brain-home blockquote {
+  border-left: 3px solid var(--secondary);
+  padding-left: 1rem;
+  font-style: italic;
+  color: var(--darkgray);
+  margin: 0.5rem 0 1.5rem;
+}
+
+.brain-search-hint {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: var(--lightgray);
+  border: 1px solid var(--gray);
+  border-radius: 8px;
+  padding: 0.5rem 1rem;
+  font-size: 0.85rem;
+  color: var(--darkgray);
+  margin-bottom: 2rem;
+}
+
+.brain-search-hint kbd {
+  background: var(--gray);
+  border-radius: 4px;
+  padding: 1px 6px;
+  font-size: 0.8rem;
+  font-family: var(--codeFont);
+  color: var(--dark);
+}
+
+/* Hub grid table styling */
+.hub-grid table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.hub-grid td {
+  padding: 0.6rem 0.8rem;
+  border-bottom: 1px solid var(--lightgray);
+  vertical-align: top;
+}
+
+.hub-grid tr:last-child td {
+  border-bottom: none;
+}
+
+.hub-grid td:first-child {
+  font-weight: 600;
+  white-space: nowrap;
+  width: 200px;
+}
+
+.hub-grid td:first-child a {
+  color: var(--secondary);
+}
+
+/* ========================================
+   GRAPH ENHANCEMENTS
+   ======================================== */
+
+.graph-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  padding: 0.5rem;
+  font-size: 0.75rem;
+}
+
+.graph-legend-item {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+}
+
+.graph-legend-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
