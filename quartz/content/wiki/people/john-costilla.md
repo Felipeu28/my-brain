@@ -13,7 +13,8 @@ date: 2026-04-11
 
 ---
 
-**Role:** Director of Marketing, Buda EDC (Economic Development Corporation)
+**Role:** Assistant Director – Marketing & Communications, Buda EDC (Economic Development Corporation)
+**Apollo ID:** 66f69aa913f07200018d8799 (has email + direct phone — enrich when needed)
 **Nickname Andres uses:** BBL · He calls Andres "Andrew"
 **Relationship:** Close personal friend, Moil champion, community ally — "familia" energy
 
@@ -21,7 +22,7 @@ date: 2026-04-11
 
 ## Who He Is
 
-John Costilla is the Director of Marketing at the **Buda Economic Development Corporation** — the organization that runs the Buda HIVE small business program and whose CEO is Jennifer Storm. In that role he shapes how Buda EDC communicates, promotes local businesses, and connects with the community.
+John Costilla is the **Assistant Director of Marketing & Communications** at the **Buda Economic Development Corporation** — the organization that runs the Buda HIVE small business program and whose CEO is Jennifer Storm. In that role he shapes how Buda EDC communicates, promotes local businesses, and connects with the community.
 
 He is also one of Andres's closest friends and one of the most vocal supporters of Moil and Andres personally.
 
@@ -45,7 +46,7 @@ John is not just a connection — he is a **Moil champion inside the EDC**:
 |--------|------|
 | Jennifer Storm | CEO, Buda EDC |
 | Jacquie Martinez | Asst. Director, HIVE program |
-| **John Costilla** | **Director of Marketing** |
+| **John Costilla** | **Asst. Director – Marketing & Communications** |
 
 The EDC is the institutional home of the Buda HIVE cohort program — the incubator where Andres has coached multiple cohorts, including Megan Miller and others.
 
