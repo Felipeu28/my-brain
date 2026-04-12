@@ -1,13 +1,9 @@
----
-tags: [concept, personal, growing]
----
-
 # LLM Knowledge Bases (Karpathy Pattern)
 
 **Type:** concept
-**Last updated:** 2026-04-11
+**Last updated:** 2026-04-12
 **Source:** [[raw/x-bookmarks-2026-04-11 copy]]
-**Related:** [[wiki/concepts/buda-hive]]
+**Related:** [[wiki/concepts/buda-hive]], [[wiki/concepts/obsidian]], [[wiki/concepts/brain-architecture]], [[wiki/minds/andrej-karpathy]]
 
 ---
 
@@ -37,6 +33,28 @@ A pattern originated by Andrej Karpathy (April 2026) for building persistent, LL
 - **@defileo** — "Claude + Obsidian have to be illegal" (3.9M views)
 - **@hooeem** — Full course on creating LLM knowledge bases
 
+## Obsidian as the View Layer
+
+The winning combination (multiple creators): Claude Code writes wiki, Obsidian browses it. Obsidian provides:
+- Graph view (visual relationship map)
+- Backlinks (see what links to any page)
+- Dataview plugin (query notes like a database)
+- iCloud sync (access on any device)
+
+See [[wiki/concepts/obsidian]] for implementation details.
+
+## The Personal Wikipedia Pattern (Farzapedia)
+@FarzaTV's "Farzapedia" — built from 2,500 diary/Notes/iMessage entries (1.7M views) — shows the most personal implementation: a life wiki, not just a business wiki. The Moil Brain could have personal + business layers in the same vault.
+
+## The "Claudeopedia" Derivatives (Apr 2026)
+Multiple implementations gained traction in the same week:
+- **@alliekmiller** "Claudeopedia" — Karpathy wiki + /last30days skill + /wiki skill (Claude Code native)
+- **@NickSpisak_** — "Rebuilt in 20 minutes" guide (2.2M views)
+- **@hooeem** — Full course on implementation
+- **@defileo** — "Claude + Obsidian have to be illegal" (3.9M views)
+- **@VibeMarketer_** — "I turned my brain into a searchable wiki with Claude Code"
+- **@aiedge_** — "Claude Code + Obsidian Ultimate Guide"
+
 ## Relevance to Moil Brain
 
-The Brain already follows this architecture. The gap has been that the compilation step wasn't running — raw files sat unprocessed. As of April 11, 2026, the first full compilation was done (7 sources → 13+ wiki pages). The weekly compile cron will keep it growing.
+The Brain already follows this architecture. As of April 12, 2026, the deep compile run processed 129 X bookmarks → 20+ new/updated wiki pages. The weekly compile cron will keep it growing. The next step is enabling Obsidian as the view layer for graph navigation.

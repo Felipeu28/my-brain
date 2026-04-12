@@ -1,7 +1,3 @@
----
-tags: [concept, moil, growing]
----
-
 # Moil — Competitor Landscape
 
 **Type:** moil-topic

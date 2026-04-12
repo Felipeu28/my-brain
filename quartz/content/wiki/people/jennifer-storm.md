@@ -1,7 +1,3 @@
----
-tags: [person, buda-hive, growing]
----
-
 # Jennifer Storm
 
 **Type:** person
@@ -18,7 +14,7 @@ tags: [person, buda-hive, growing]
 
 ## Relationship
 
-Key ally for [[wiki/moil/index|Moil]]. Collegial, warm, mutually supportive. Relationship goes back to at least **November 2025** — Jennifer shared an Innovation & Entrepreneurial Strategies Manual (CTED) with Andres and Jacquie on Nov 18, 2025. She has two email addresses: jennifer.storm@budaedc.com (work) and jennifer.stormx@gmail.com (personal — used for CampaignOS discussions). Jennifer is pursuing [[wiki/concepts/aedo|AEDO]] accreditation for Buda EDC — Andres wrote the community support letter (submitted April 10, 2026).
+Key ally for [[wiki/moil/positioning|Moil]]. Collegial, warm, mutually supportive. Relationship goes back to at least **November 2025** — Jennifer shared an Innovation & Entrepreneurial Strategies Manual (CTED) with Andres and Jacquie on Nov 18, 2025. She has two email addresses: jennifer.storm@budaedc.com (work) and jennifer.stormx@gmail.com (personal — used for CampaignOS discussions). Jennifer is pursuing [[wiki/concepts/aedo|AEDO]] accreditation for Buda EDC — Andres wrote the community support letter (submitted April 10, 2026).
 
 ## Active Threads
 

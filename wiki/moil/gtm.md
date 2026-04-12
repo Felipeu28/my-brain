@@ -1,8 +1,8 @@
 # Moil — Go-to-Market Motion
 
 **Type:** moil-topic
-**Last updated:** 2026-04-11
-**Source:** [[raw/moil-documents-2026-04-09]], [[raw/moilapp-website-2026-04-09]]
+**Last updated:** 2026-04-12
+**Source:** [[raw/moil-documents-2026-04-09]], [[raw/moilapp-website-2026-04-09]], [[raw/teams-2026-04-12]]
 **Related:** [[wiki/moil/positioning]], [[wiki/moil/icp]], [[wiki/concepts/buda-hive]], [[wiki/people/travis-sutherland]], [[wiki/people/daniel-guadiano]]
 
 ---
@@ -90,6 +90,31 @@ Average deal size: ~$300/year blended across tiers
 **Also:** 3 individual Content360 pitches to local Austin businesses (Wellness Space, La Pera Austin, CHG).
 
 Source: [[wiki/summaries/email-history-2026-04-12]]
+
+## April 2026 — Best Month Update (from Teams chats)
+
+**"We are having the best month in our existence!!!"** — Andres, Apr 9
+
+### Deals closed week of Apr 5–12:
+| Deal | Type | Revenue model | Status |
+|---|---|---|---|
+| Connectex | Client | Paid over 3 quarters | CLOSED Apr 9 |
+| Meridian | Client (event platform) | TBD | CLOSED Apr 9 |
+| Alloy (gym company) | Content360 client | Monthly content + Moil 360 license | CLOSING Apr 11 |
+| Travis / Zoiwell | Moil 360 license | 1-year license | Onboarded Apr 9 |
+| Jacob Centeno / Titan Tech Authority | $15/mo license | Starter plan | Onboarded Apr 8 |
+| jilledegs01 customer | Moil 360 license | TBD | Onboarded Apr 10 |
+| FitLogic | Hiring through Moil | Job posting revenue | Likely hiring Apr 12 |
+
+### New channels active:
+- **Direct website builds:** Andres building Vercel sites for customers (pure-serenity-green.vercel.app, siren-beauty.vercel.app) as a sales tool — customer loves it, converts to Moil 360
+- **Content delivery as service:** Ablad creates monthly content using Moil 360, team posts it — Alloy gym is first client on this model
+- **Buda community sharing restarted:** "Only Buda groups please" — targeted local distribution
+- **WhatsApp/Telegram:** Andres exploring connecting Business Coach to messaging platforms
+- **Daily video production:** Exploring AI video tools to produce video daily
+
+### Customer event (Sun show follow-up):
+- Email to attendees: "One of you won a free year of Moil 360" — gamification for engagement/conversion
 
 ## What's not working (or untested)
 

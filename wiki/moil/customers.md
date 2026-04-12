@@ -1,8 +1,8 @@
 # Moil — Customers & Social Proof
 
 **Type:** moil-topic
-**Last updated:** 2026-04-11
-**Source:** [[raw/moilapp-website-2026-04-09]], [[raw/imessages-people-2026-04-09]], [[raw/moil-documents-2026-04-09]]
+**Last updated:** 2026-04-12
+**Source:** [[raw/moilapp-website-2026-04-09]], [[raw/imessages-people-2026-04-09]], [[raw/moil-documents-2026-04-09]], [[raw/teams-2026-04-12]]
 **Related:** [[wiki/moil/icp]], [[wiki/moil/gtm]], [[wiki/concepts/smart-hiring]], [[wiki/concepts/buda-hive]]
 
 ---
@@ -46,6 +46,19 @@
 - 2,000+ blog newsletter subscribers
 - 16 reviews on Facebook (100% recommend)
 - 150+ companies hiring on platform
+
+## New Customers — April 2026 (from Teams chats, Apr 5–12)
+
+| Customer | Type | Contact | Product | Status |
+|---|---|---|---|---|
+| Connectex | Client deal | — | TBD | CLOSED Apr 9; invoiced, paid over 3 quarters |
+| Alloy (gym) | Content360 client | — | Monthly content creation + Moil 360 license | CLOSING Apr 11 |
+| FitLogic | Job posting client | — | Hiring through Moil | Active (Apr 12 — likely first hire + new job posted) |
+| Travis / Zoiwell | Moil 360 | travis@zoiwell.com | 1-year license | Onboarded Apr 9 |
+| Jacob Centeno / Titan Tech Authority | Starter plan | titantechauthority@gmail.com | $15/mo license | Onboarded Apr 8 |
+| jilledegs01 customer | Moil 360 | jilledegs01@gmail.com | License | Onboarded Apr 10 (loved pure-serenity-green site) |
+| Siren Beauty | Account setup | sirenbeautyandwellness@gmail.com | TBD | In progress |
+| Eden | Website discovery | — | Website build | Discovery call recorded Apr 8 |
 
 ## Customer Concentration
 

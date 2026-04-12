@@ -2,13 +2,12 @@
 name: claude-code-changelog
 description: Append-only changelog of Claude Code features, launches, and ecosystem shifts
 type: radar
-tags: [radar, concept, moil, growing]
 ---
 
 # Claude Code — Running Changelog
 
 **Type:** radar (append-only — newest on top)
-**Last updated:** 2026-04-11
+**Last updated:** 2026-04-12
 **Purpose:** A single place to see Claude Code's trajectory without rereading old bookmark digests. Updated during weekly X bookmark sweeps and whenever Anthropic ships.
 **Related:** [[wiki/concepts/claude-code]], [[wiki/minds/dario-amodei]], [[wiki/concepts/managed-agents]], [[wiki/concepts/claude-cowork]]
 
@@ -22,6 +21,14 @@ tags: [radar, concept, moil, growing]
 ---
 
 ## 2026-04
+
+### Apr 10 · Knowledge Management System in Claude Code (video)
+@alliekmiller published a video walkthrough of building a knowledge management system inside Claude Code — the Claudeopedia pattern with a visual demonstration. Validated that the wiki-in-Claude-Code approach is now mainstream.
+- Source: @alliekmiller
+
+### Apr 10 · "Top 1% Claude Users Set Up 8 Frameworks" (@rubenhassid)
+@rubenhassid's post framing that elite Claude users don't prompt — they set up 8 structural frameworks (CLAUDE.md, MEMORY.md, SOUL.md, skills/, hooks, design-system.md, etc.). Signals maturation from "use Claude as chatbot" to "build a Claude-powered operating system."
+- Source: @rubenhassid
 
 ### Apr 9 · Monitor tool
 Lets Claude create background scripts that wake the agent later. New primitive for long-running / scheduled work inside a single session.
@@ -70,9 +77,33 @@ Not a Claude Code feature — but the viral post that created the "Claudeopedia"
 
 ---
 
+### Apr 8 · Security risk — SSH/AWS/.env access
+@coreyganim (Apr 9-10): "Claude Code security in 60 seconds: Claude has full access to ~/.ssh/config" — reminder that by default Claude Code has read access to SSH keys, AWS credentials, and .env files. No new feature; awareness signal. Action: audit Claude Code permissions on Mac Mini M4.
+- Source: @coreyganim
+
+### Apr 8 · Build macOS Apps plugin for Codex (@Dimillian)
+@Dimillian introduced a plugin for building macOS apps with Codex from within Claude Code. Extends the dev toolchain into native Mac app territory.
+- Source: @Dimillian
+
+### Apr 5 · Claude Ads Skill (190 audit checks)
+`claude-ads` skill on GitHub (AgriciDaniel/claude-ads) — 190 automated Google Ads audit checks runnable as a Claude Code skill. Represents the "skills as professional services" pattern going mainstream.
+- Source: @ihtesham2005, @mikefutia
+
+---
+
+## 2026-03
+
+### Mar 30 · Stitch 2.0 by Google (design-to-code)
+Google Stitch 2.0 launched — "STOP asking Claude Code to design your apps" — positioned as the design layer that feeds Claude Code's build layer. Tutorial by @stitchbygoogle got 684K views.
+- Source: @PrajwalTomar_, @stitchbygoogle
+
+---
+
 ## Pending / watch list
 
-- **Claude Code security audit** — Andres's todo per [[Memory]]. What does Claude Code actually have access to on the Mac Mini M4?
+- **Claude Code security audit** — @coreyganim confirmed SSH/AWS/.env exposure. Andres should audit permissions on Mac Mini M4 before running autonomous agents. **Priority: HIGH.**
 - **Managed Agents pricing** — still unclear what the cost structure looks like at scale.
 - **Skills marketplace maturity** — claude-ads (190 checks), Google Ads audit, SEO audits all shipped privately. When does Anthropic formalize a skills marketplace?
 - **Codex + Claude Code convergence** — if the plugin deepens, is the "Claude vs OpenAI" binary even meaningful for coding agents?
+- **Stitch 2.0 integration** — should the Moil frontend use Stitch → Claude Code workflow for future UI changes?
+- **@_chenglou's "future of front-end" post** — 23.6M views, 62K bookmarks. Watch what paradigm emerges from this; could affect how Moil's UI should be built.

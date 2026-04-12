@@ -1,7 +1,3 @@
----
-tags: [concept, moil, evergreen]
----
-
 # Smart Hiring
 
 **Type:** concept
@@ -13,7 +9,7 @@ tags: [concept, moil, evergreen]
 
 ## What It Is
 
-Smart Hiring is [[wiki/moil/index|Moil]]'s AI-powered recruitment feature. One job post, auto-distributed to 10+ platforms, with AI candidate matching.
+Smart Hiring is [[wiki/moil/positioning|Moil]]'s AI-powered recruitment feature. One job post, auto-distributed to 10+ platforms, with AI candidate matching.
 
 ## How It Works (4 Steps)
 

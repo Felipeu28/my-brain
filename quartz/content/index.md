@@ -1,117 +1,118 @@
+# Moil Brain — Master Index
+
+**Last compiled:** 2026-04-12 (OneDrive full transcripts — Run 2) · **Total wiki pages:** ~170 · **Raw sources ingested:** 50/50
+
+> **New here?** Read [[wiki/README]] for the wiki design principles, then follow the links below.
+
 ---
-title: Andres Brain
-tags: [hub, personal]
-date: 2026-04-12
+
+## 📍 Start here
+
+| If you need... | Open |
+|---|---|
+| Open actions & deadlines | [[MEMORY]] |
+| Ingestion history | [[log]] |
+| Agent instructions | [[CLAUDE]] |
+| Wiki design rules | [[wiki/README]] |
+
 ---
 
-<div class="brain-home">
+## 📂 Folder indexes (read these, not raw file lists)
 
-# Andres Brain
+| Folder | Count | What's in it |
+|---|---|---|
+| [[wiki/moil/README\|moil/]] | 7 | Moil business — positioning, ICP, GTM, customers, competitors, metrics, product roadmap |
+| [[wiki/people/README\|people/]] | 30 | Personal network — family, friends, customers, collaborators, team |
+| [[wiki/minds/README\|minds/]] | 10 | Public AI thought leaders tracked from afar |
+| [[wiki/orgs/README\|orgs/]] | 4 | Customer, partner, and prospect organizations |
+| [[wiki/concepts/README\|concepts/]] | 32 | Frameworks, mental models, products, programs |
+| [[wiki/radar/README\|radar/]] | 1 | Append-only changelogs for fast-moving topics |
+| [[wiki/summaries/README\|summaries/]] | 16 | One structured summary per raw source |
+| [[wiki/meetings/README\|meetings/]] | 37 | Meeting records + async threads — decisions and action items |
 
-> A living knowledge base — Moil, AI, people, ideas, and everything in between.
+---
 
-<div class="brain-search-hint">
-Press <kbd>⌘K</kbd> to search · <kbd>G</kbd> to open the graph
-</div>
+## 🔥 Hottest pages (most-linked hubs — use as shortcuts)
 
-## Navigate by Hub
+- [[wiki/moil/gtm]] — Go-to-market motion (27 inbound)
+- [[wiki/concepts/buda-hive]] — Buda HIVE program (19 inbound)
+- [[wiki/moil/positioning]] — Moil positioning (17 inbound)
+- [[wiki/concepts/llm-knowledge-bases]] — Karpathy's wiki pattern (14 inbound)
+- [[wiki/concepts/managed-agents]] — Claude Managed Agents (13 inbound)
+- [[wiki/concepts/claude-code]] — Claude Code runtime (12 inbound)
+- [[wiki/summaries/buda-hive-edc-2026-04-11]] — Full Buda HIVE intelligence (11 inbound)
+- [[wiki/concepts/content-engine]] — AI content engine framework (new)
+- [[wiki/concepts/ai-org-design]] — AI-native org design (new — ties to Moil positioning)
+- [[wiki/concepts/linkedin-gtm]] — LinkedIn strategy + algorithm (new — gap in current GTM)
+- [[wiki/summaries/x-bookmarks-deep-compile-2026-04-12]] — Deep compile summary (new)
+- [[wiki/moil/product-roadmap]] — Full Moil product status, AI stack, feature specs (new)
+- [[wiki/meetings/2025-03-28-jacob-andres-pivot-ai-tools]] — The pivot declaration meeting (new)
+- [[wiki/meetings/2025-04-07-moil-marketing-call-toolbox-vision]] — Toolbox vision + interview tool design (new)
+- [[wiki/people/jacob-oluwole]] — Moil PM profile (new)
+- [[wiki/people/adeleke-tolulope]] — Lead AI engineer profile (new)
 
-<div class="hub-grid">
+---
 
-| Hub | What's inside |
-|-----|--------------|
-| [[wiki/moil/index|Moil]] | Startup knowledge — positioning, ICP, GTM, metrics, competitors |
-| [[wiki/people/index|People]] | Network contacts — clients, partners, community, advisors |
-| [[wiki/concepts/index|Concepts]] | Frameworks, mental models, domain knowledge |
-| [[wiki/orgs/index|Orgs]] | Companies and organizations in the ecosystem |
-| [[wiki/summaries/index|Summaries]] | Digests of all raw sources |
-| [[wiki/andres/index|Andres]] | Personal profile, goals, decision log |
-| [[wiki/partnerships/index|Partnerships]] | Strategic relationships driving Moil |
-| [[wiki/community/index|Community]] | Local ecosystem, HIVE, Latitud |
-| [[wiki/clients/index|Clients]] | Active client engagements |
-| [[wiki/projects/index|Projects]] | Engineering projects — production and experimental |
-| [[wiki/radar/index|Radar]] | Fast-moving changelogs (Claude Code, AI tools) |
-| [[wiki/minds/index|Minds]] | AI/tech thought leaders Andres studies |
+## 📤 Outputs
 
-</div>
+- [[outputs/briefing-2026-04-11]] — Initial briefing
+- [[outputs/synthesis-2026-04]] — April 2026 synthesis
 
-## Topic Index
+---
 
-### Moil (Business — 13 pages)
-- [[wiki/moil/positioning]] — One-line pitch, competitive alternatives, messaging hierarchy
-- [[wiki/moil/icp]] — Ideal customer profile, Apollo filters, anti-ICP
-- [[wiki/moil/gtm]] — Go-to-market motion, pricing, channels, experiments
-- [[wiki/moil/go-to-market]] — GTM summary layer
-- [[wiki/moil/customers]] — Named customers, testimonials, social proof
-- [[wiki/moil/competitors]] — Competitor landscape + Moil's moat
-- [[wiki/moil/competitive-landscape]] — Strategic competitive framing
-- [[wiki/moil/metrics]] — Single source of truth for all numbers
-- [[wiki/moil/product-vision]] — What Moil is building, voice-first rationale, roadmap
-- [[wiki/moil/team]] — Founders, team structure, hiring triggers
-- [[wiki/moil/tech-stack]] — Frontend, backend, AI, integrations
-- [[wiki/moil/microsoft-teams-integration]] — MS Teams Graph API integration
+## 🗂️ Empty folders (reserved)
 
-### People (25 profiles)
-- [[wiki/people/jennifer-storm]] — CEO Buda EDC, CampaignOS collaborator
-- [[wiki/people/joshua-edmond]] — HIVE co-coach, JuCoAI founder
-- [[wiki/people/jacquie-martinez]] — Buda EDC Asst. Director, HIVE manager
-- [[wiki/people/casey-earley]] — Asst. to Jacquie, HIVE program support
-- [[wiki/people/inna-benyukhis]] — Long-time client and friend, CRM + Marketing Calendar projects
-- [[wiki/people/megan-miller]] — Active Moil customer, product feedback source
-- [[wiki/people/mariana-rodriguez|Mariana Rodriguez]] — Andres's wife, business owner
-- [[wiki/people/john-costilla]] — Closest friend, community connector
-- [[wiki/people/mark-polanco]] — Business collaborator, Airtable project
-- [[wiki/people/daniel-guadiano]] — Warm lead, Astra Restaurant GM
-- [[wiki/people/travis-sutherland]] — Community organizer, Sun show events
-- [[wiki/people/monica-davidson]] — Executive Director, Greater Buda Chamber of Commerce
-- [[wiki/people/rosemary-gamez]] — Staff, Greater Buda Chamber of Commerce
-- [[wiki/people/kim-dowers]] — Director of Ops & Programs, Queen Creek Chamber (AZ)
-- [[wiki/people/shay-foley]] — Johns Creek Chamber of Commerce, deferred AI-tools partnership
-- [[wiki/people/hazim-mohamad]] — CoffeeSpace outreach / ecosystem contact
-- [[wiki/people/becky-torres]] — Moil customer via John Costilla connection
-- [[wiki/people/eden-martinez-nuovo]] — Moil customer
-- [[wiki/people/jill-degenhardt]] — Moil customer
-- [[wiki/people/jacob-oluwole]] — Moil team member
-- [[wiki/people/adeleke-tolulope]] — Moil team member
-- [[wiki/people/taiwo-ola-bolagun]] — Moil team member
-- [[wiki/people/abiodun-adekanmi]] — Moil team member
-- [[wiki/people/urbanozuela]] — Family project (Ana, Mariana's sister)
+- `wiki/inbox/` — manual drop zone
 
-### Concepts (16 pages)
-- [[wiki/concepts/buda-hive]] — Incubator program, cohort model, Moil integration
-- [[wiki/concepts/aedo]] — IEDC accreditation Buda EDC is pursuing
-- [[wiki/concepts/campaignos]] — Jennifer Storm's political AI startup idea
-- [[wiki/concepts/smart-hiring]] — 10+ platform hiring with AI candidate matching (Moil module)
-- [[wiki/concepts/content360]] — 30-day AI marketing engine (Moil module)
-- [[wiki/concepts/moil360]] — Marketing-brand wrapping of Content360
-- [[wiki/concepts/llm-knowledge-bases]] — Karpathy's wiki pattern (what the Brain uses)
-- [[wiki/concepts/brain-architecture]] — Andres's 5-layer personal knowledge pipeline
-- [[wiki/concepts/claude-code]] — Anthropic's CLI agent (runtime for the Brain + dev)
-- [[wiki/concepts/claude-cowork]] — Scheduled/background Claude workflow platform
-- [[wiki/concepts/openclaw-hermes]] — Open-source parallel ecosystem (gstack, Superpowers, gbrain)
-- [[wiki/concepts/managed-agents]] — Claude Managed Agents (Apr 2026 launch)
-- [[wiki/concepts/ai-cold-outreach]] — AI-powered outbound playbooks
-- [[wiki/concepts/ai-video-tools]] — Seedance, HeyGen, Veo — 2026 landscape
-- [[wiki/concepts/fantelo]] — Andres's parallel project (fantelo.com)
+---
 
-### Orgs (4 pages)
-- [[wiki/orgs/buda-edc]] — Buda Economic Development Corporation
-- [[wiki/orgs/buda-chamber]] — Greater Buda Chamber of Commerce
-- [[wiki/orgs/queen-creek-chamber]] — Queen Creek AZ Chamber, first out-of-state partner
-- [[wiki/orgs/coffeespace]] — Talent/startup matching partnership lead
+## How to navigate (the rules)
 
-## How Claude Navigates This Wiki
+1. **Read the folder README before the files.** Every folder has one. It's the 30-second orientation.
+2. **Never scan a whole folder.** Let the README route you.
+3. **Links are paths, not titles.** All wikilinks use `[[wiki/folder/slug|Display Label]]` form so grep works.
+4. **Two hops max** from this index to any answer. If you're clicking more, the structure needs a fix — log it in [[MEMORY]].
 
-1. Start here, follow hub links, open section index, read relevant child pages
-2. Use Search (`⌘K`) for specific names, topics, or concepts
-3. Use the Graph (`G`) to see connections and discover unexpected links
-4. `raw/` is the unprocessed inbox — process weekly into `wiki/`
+---
 
-## Vault Stats
+## Stats
 
-- **Hubs:** 12 topic clusters
-- **Total pages:** ~108 wiki pages across all hubs
-- **Sources ingested:** 12 of 12 raw files
-- **Last compiled:** April 12, 2026
+| Category | Count | Notes |
+|---|---|---|
+| Moil business | 7 | product-roadmap, gtm, customers all updated with transcript intelligence |
+| People (network) | 30 | +8 from Run 2: rick-bough, paula-florez-estrada, abel-esquivel-luna, daniela-castillo-canavera, enrique-castro, dafne-gutierrez, david-levesque, zane-gibson |
+| Minds (thinkers) | 10 | from X bookmarks deep compile |
+| Orgs (customer/partner) | 4 | |
+| Concepts | 32 | |
+| Meetings | 37 | +15 from Run 2 (9 from Run 2 session 1 + 6 new this session) |
+| Radar (changelogs) | 1 | Claude Code changelog |
+| Summaries | 16 | |
+| Folder READMEs | 9 | |
+| **Total wiki files** | **~170** | +30 from Run 2 transcript ingestion |
+| Raw sources ingested | 50/50 | 25 Run 1 meeting notes + 25 Run 2 full transcripts |
 
-</div>
+**OneDrive Full Transcripts ingestion completed 2026-04-12 (Run 2):**
+- 25 full transcript files processed (raw/meetings/transcript-* format)
+- 15 new `wiki/meetings/` pages created (9 high-value + 1 batch page for low-signal calls)
+- 8 new `wiki/people/` pages: [[wiki/people/rick-bough]], [[wiki/people/paula-florez-estrada]], [[wiki/people/abel-esquivel-luna]], [[wiki/people/daniela-castillo-canavera]], [[wiki/people/enrique-castro]], [[wiki/people/dafne-gutierrez]], [[wiki/people/david-levesque]], [[wiki/people/zane-gibson]]
+- Updated: [[wiki/moil/gtm]] (+11 new channels), [[wiki/moil/product-roadmap]] (Azure disaster, AI Foundry chatbot, BPC architecture), [[wiki/moil/customers]] (Zachary, TXOR, testimonials), [[wiki/people/monica-davidson]] (restaurant pilot + Crew Day)
+- Key intelligence: Azure account disaster (May 2025); AI Foundry chatbot as #1 AI priority; BPC 3-tier architecture; Zachary as enterprise anchor; GAHCC/Univision media pipeline; Hays CISD CTE channel (August 2025 PD); Hungry Hill Foundation lead
+- Note: `transcript-2024-10-03-team-meeting-october-2024.md` was a CONCATENATED file of Feb–May 2025 meetings (duplicates of Run 1 Gemini notes) — NOT an Oct 2024 meeting
+
+**OneDrive Meetings ingestion completed 2026-04-12 (Run 1):**
+- 25 meeting transcripts (Aug 2024–May 2025) — year of business context
+- 20 new `wiki/meetings/` pages created (one per unique meeting session)
+- 6 new `wiki/people/` pages: [[wiki/people/jacob-oluwole]], [[wiki/people/adeleke-tolulope]], [[wiki/people/abiodun-solomon]], [[wiki/people/taiwo-ola-balogun]], [[wiki/people/sebastian-oviedo]]
+- 1 new `wiki/moil/` page: [[wiki/moil/product-roadmap]]
+- Updated: [[wiki/moil/positioning]], [[wiki/moil/gtm]], [[MEMORY]]
+- Key intelligence: full Moil team roster confirmed; product pivot documented; Business Plan Creator + Interview Tool specs captured; Zachary Corp and Sakuri Corp as confirmed clients
+
+**Deep compile completed 2026-04-12:**
+- `raw/x-bookmarks-2026-04-11 copy.md` (129 items) — fully compiled into 16 concept pages + 5 minds pages
+- `raw/x-bookmarks-2026-04-11.md` (114 items) — cross-referenced; additional signal extracted
+
+**Teams ingestion completed 2026-04-12:**
+- `raw/teams-2026-04-12.md` (27 messages, 30-day window) — structural intelligence only (all messages were automated Workflows bot); created meetings/ folder with README + first meeting page; new concept: moil-team-ops
+
+**Known raw/ debts (untouchable per [[CLAUDE]]):**
+- `raw/buda-hive-edс-2026-04-09.md` — Cyrillic "с" in filename

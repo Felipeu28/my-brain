@@ -1,12 +1,8 @@
----
-tags: [concept, moil, growing]
----
-
 # Moil — Positioning
 
 **Type:** moil-topic
-**Last updated:** 2026-04-11
-**Source:** [[raw/moil-documents-2026-04-09]], [[raw/moilapp-website-2026-04-09]]
+**Last updated:** 2026-04-12
+**Source:** [[raw/moil-documents-2026-04-09]], [[raw/moilapp-website-2026-04-09]], [[raw/meetings/]] (25 meeting transcripts, Aug 2024–May 2025)
 **Related:** [[wiki/moil/icp]], [[wiki/moil/gtm]], [[wiki/concepts/buda-hive]]
 
 ---
@@ -64,8 +60,24 @@ What does the customer use today, before Moil?
 - "Enterprise-grade" — signals complexity and cost. Moil is deliberately simple.
 - "AI-first" — customers don't care about the tech. They care about saving time and money.
 
+## Product evolution (from meeting transcripts, 2024–2025)
+
+The pivot narrative from meetings is crucial for understanding the current product:
+
+1. **2024:** Job-matching platform + unlimited job posting ($699/yr). Core value: connecting blue-collar workers with employers.
+2. **Early 2025:** Resume builder completed. AI model fine-tuning underway. Signs up major clients (Zachary Corporation).
+3. **Mar 2025:** **Pivot declared** — from job-matching to a comprehensive "AI toolbox" for job seekers AND SMBs. "The market told us what to do."
+4. **Apr 2025:** Business Plan Creator MVP. AI Interview Tool designed. Resume builder complete.
+5. **May 2025:** Business Insights (market analysis, competitor maps, personas). OpenAI agent automates business plan generation. 5,000+ people helped.
+
+**New language (confirmed in meetings):**
+- "Offline workers" preferred over "blue collar" (broader appeal)
+- Brand voice: **"Empowerment through access"**
+- Moil as a "toolbox" and "AI co-pilot" for job seekers and SMBs
+- Cyclical product loop: Resume → Digital presence → Interview prep → Job search → Business tools
+
 ## Last reviewed
 
-- Date: 2026-04-11
-- By: Claude (compiled from business plan, website, and raw intel)
+- Date: 2026-04-12
+- By: Claude (compiled from business plan, website, raw intel, and 25 meeting transcripts)
 - Next review: 2026-07-01

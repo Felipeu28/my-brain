@@ -1,7 +1,3 @@
----
-tags: [person, seed]
----
-
 # Rosemary Gamez
 
 **Type:** person

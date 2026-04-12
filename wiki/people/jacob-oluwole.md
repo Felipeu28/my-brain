@@ -2,8 +2,8 @@
 
 **Type:** person
 **Last updated:** 2026-04-12
-**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/email-history-2months-2026-04-12]]
-**Related:** [[wiki/moil/positioning]], [[wiki/people/adeleke-tolulope]], [[wiki/people/abiodun-solomon]]
+**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/email-history-2months-2026-04-12]], [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026)
+**Related:** [[wiki/moil/positioning]], [[wiki/people/adeleke-tolulope]], [[wiki/people/abiodun-solomon]], [[wiki/people/taiwo-ola-balogun]]
 
 ---
 
@@ -45,8 +45,36 @@ Nigerian developer (based on name patterns and team context). Part of the origin
 
 Close — Andres trusts Jacob on operations, brings him into every strategic call. Andres pushes Jacob on speed and AI adoption. They have easy banter, Jacob uses "sir" and "All right, sir" in meetings.
 
+## April 2026 Activity (from Teams chats, Apr 5–12)
+
+**30 messages in 1:1 with Andres + 79 in Moil Team group.** Jacob remains the ops bridge between Andres and the team.
+
+### Operational work this week:
+- Created **Planner board** for all current projects with to-dos from Monday call (Apr 7). Asked team to use In Progress / In Review statuses
+- Tested Moil 360 and reported image generation failures
+- Sent email invites to new customers: Travis (zoiwell.com), Jacob Centeno (titantechauthority@gmail.com)
+- Assigned Moil 360 license to jilledegs01@gmail.com (new customer)
+- Managed FitLogic job posting — updated job type from part-time to part-time-to-full-time
+- Handled Inna content calendar: noticed content from Apr 1–8 disappeared after platform update, flagged CSV export process improvement
+- Wrote **Monday Collaboration meeting summary** — detailed project alignment call notes
+- Managed Siren Beauty account setup inquiry
+
+### Content/Marketing coordination:
+- Reviewed Abiodun's content batch (Inna + Moil) — praised quality
+- Flagged pricing inconsistency between Inna booking page and another source
+- Suggested CSV export before import for content calendar changes (process improvement)
+- Discussed religious holiday posting policy with Abiodun (Easter debate)
+
+### Personal context:
+- 3 weeks of power outages on his street due to damaged cable — running on generator fuel. Andres sent $50 for gas
+- Shared MavinRecords.com as design inspiration for a project
+- Expression: still uses "boss" and "sir"; "Well-done boss" after good news
+
+### Key quote:
+- On best month ever: "April off to a great start! Well-done boss"
+
 ## Gaps
 
-- Exact location unknown
+- Exact location: likely Nigeria (power outage context confirms)
 - Direct contact email/phone not in wiki yet
 - Compensation/contractor vs. employee status unknown

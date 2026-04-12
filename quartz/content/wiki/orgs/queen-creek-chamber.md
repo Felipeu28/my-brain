@@ -1,7 +1,3 @@
----
-tags: [company, consulting, seed]
----
-
 # Queen Creek Chamber of Commerce
 
 **Type:** concept

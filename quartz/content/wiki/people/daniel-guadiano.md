@@ -1,7 +1,3 @@
----
-tags: [person, moil, seed]
----
-
 # Daniel Guadiano
 
 **Type:** person
@@ -18,7 +14,7 @@ tags: [person, moil, seed]
 
 ## Relationship
 
-Warm lead — met at Buda Main Street networking event in February 2026. Inquired about how [[wiki/moil/index|Moil]] AI could help his restaurant business, particularly with scheduling.
+Warm lead — met at Buda Main Street networking event in February 2026. Inquired about how [[wiki/moil/positioning|Moil]] AI could help his restaurant business, particularly with scheduling.
 
 ## Pain Point
 

@@ -2,7 +2,6 @@
 name: x-bookmarks Apr 11 (short) summary
 description: Summary of X bookmarks digest — 114 items, 2-week window Mar 28 – Apr 10, 2026
 type: summary
-tags: [resource, personal, growing]
 ---
 
 # Summary — X Bookmarks Digest (Apr 11, 2026 — 114 items)

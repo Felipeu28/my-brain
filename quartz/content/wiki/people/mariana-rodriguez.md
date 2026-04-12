@@ -1,7 +1,3 @@
----
-tags: [person, moil, seed]
----
-
 # Mariana Rodriguez
 
 **Type:** person
@@ -11,14 +7,12 @@ tags: [person, moil, seed]
 
 ---
 
-**Nickname:** Brulli
-**Relationship:** Andres's wife. 
-**Sister:** Ana (Andres is providing feedback for the [[people/urbanozuela|Urbanozuela project]] for her)
-**Contact name:** Saved as "Mi Posa hermosa" 
+**Relationship:** Andres's wife. Business owner.
+**Contact name:** Saved as "Owner Mariana Rodriguez" in Andres's phone — the "Owner" prefix refers to her role as a business owner.
 
 ## Family
 
-Mother to Annabella Urrego (older daughter, 7) and Evaluna Urrego (younger daughter, 4). Andres watches the girls in the afternoons while Mariana finishes business calls sometimes 
+Mother to *Annabella Urrego* (older daughter, ~10-12) and *Evaluna Urrego* (younger daughter, ~5-7). Andres watches the girls in the afternoons while Mariana finishes business calls.
 
 ## Personal
 

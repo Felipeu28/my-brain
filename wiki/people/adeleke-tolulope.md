@@ -48,8 +48,36 @@ Nigerian developer (references to power outages, network changes in Lagos/Nigeri
 
 As of May 2025, Adeleke lost access to Azure resources for ~2 weeks. Andres submitted a support case.
 
+## April 2026 Activity (from Teams chats, Apr 5–12)
+
+**Most active team member** — 181 messages in 1:1 with Andres, the highest volume of any chat thread. This is the primary engineering communication channel.
+
+### Work completed this week:
+- Pushed multiple updates to staging for Content360 (Moil 360) and Business Coach
+- Fixed publish functionality bug (Monday Apr 7)
+- Fixed strategy document generation bug (validation error — strategy data not being sent to backend)
+- Pushed Business Coach updates to staging for testing
+- Fixed 503 image creation error in Moil 360 (resolved same night, Apr 10)
+- Monitoring Qwen model failures and coordinating model switches
+
+### Key technical threads:
+- **OpenAI cost spike:** Discovered that the `gpt-4o` alias silently upgraded to `gpt-5_4-2026-03-05` snapshot (March 5, 2026), causing unexpected billing. Andres investigating where GPT-5 is used.
+- **Grok 4.1 Fast identified** as breakout cost saver: $0.20/$0.50 with 2M context, 30x cheaper than current GPT-5.4 billing
+- **Qwen Turbo 3.5 exhausted free tier** — Andres moved to paid. Adeleke set reminders to monitor next Tuesday + Friday
+- **Model switching discussion:** Evaluating moving from Qwen to Gemini or xAI for speed; can't sacrifice speed even if cost is better
+- **Edge functions** pushed for performance improvement
+- **Facebook login issue:** Could not record app review video due to FB account sending login codes to mobile failing. Issue persisted Apr 7–8
+
+### Relationship with Andres:
+- "You the man! Get some rest" (Andres, 9:13 PM)
+- "AI at work!" (Adeleke, responding to Claude Code implementation)
+- Adeleke monitors Claude Code sessions Andres shares, reviews implementations, pulls code to staging
+- Adeleke said "AI is doing sh*t now, something that would have taken like 3-5 days" — genuine excitement about speed
+- Andres shares X/Twitter links for inspiration (AI video tools, etc.)
+
 ## Gaps
 
 - Full legal name vs. nickname (Steve) — Steve appears to be a team nickname
 - Exact location (likely Nigeria based on power outage context)
 - Compensation terms unknown
+- Facebook account access issue (Apr 7–8) — may still be unresolved

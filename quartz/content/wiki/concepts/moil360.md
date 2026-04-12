@@ -2,7 +2,6 @@
 name: moil360 concept
 description: Moil's 30-day AI marketing engine — product line distinct from Content360 feature name
 type: concept
-tags: [concept, moil, growing]
 ---
 
 # Moil360

@@ -1,7 +1,3 @@
----
-tags: [concept, buda-hive, growing]
----
-
 # Buda HIVE
 
 **Type:** concept
@@ -28,7 +24,7 @@ Cohort-based — groups of local entrepreneurs coached through curriculum by And
 
 ## Moil Integration
 
-[[wiki/orgs/buda-edc|Buda EDC]] purchases [[wiki/moil/index|Moil]] platform licenses → each cohort participant receives one license. This is a **B2G (business-to-government) recurring revenue** relationship. Entrepreneurs learn Moil during the incubator, creating loyal users who continue after graduation.
+[[wiki/orgs/buda-edc|Buda EDC]] purchases [[wiki/moil/positioning|Moil]] platform licenses → each cohort participant receives one license. This is a **B2G (business-to-government) recurring revenue** relationship. Entrepreneurs learn Moil during the incubator, creating loyal users who continue after graduation.
 
 ## Timeline
 

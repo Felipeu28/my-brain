@@ -2,7 +2,6 @@
 name: hazim-mohamad
 description: CoffeeSpace outreach contact — partnership/integration lead
 type: person
-tags: [person, seed]
 ---
 
 # Hazim Mohamad

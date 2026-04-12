@@ -1,7 +1,3 @@
----
-tags: [company, buda-hive, growing]
----
-
 # Buda EDC
 
 **Type:** concept
@@ -24,7 +20,7 @@ The Buda EDC is the city's economic development corporation — a publicly funde
 
 ## Relationship to Moil
 
-Buda EDC is a **paying B2G customer** — they purchase [[wiki/moil/index|Moil]] platform licenses for each [[wiki/concepts/buda-hive|Buda HIVE]] cohort participant. This is recurring revenue per cohort cycle.
+Buda EDC is a **paying B2G customer** — they purchase [[wiki/moil/positioning|Moil]] platform licenses for each [[wiki/concepts/buda-hive|Buda HIVE]] cohort participant. This is recurring revenue per cohort cycle.
 
 The relationship combines four strategic angles:
 

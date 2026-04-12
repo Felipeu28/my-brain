@@ -1,9 +1,23 @@
 # MEMORY — Open Actions & Live Commitments
 
-**Last updated:** 2026-04-11
-**Purpose:** Single source of truth for open action items extracted from ingested raw sources. Claude Code updates this file during ingestion runs. Close items with `~~strikethrough~~` + date, then move to "Closed / Archive" after a week.
+**Last updated:** 2026-04-12
+**Purpose:** Single source of truth for open action items extracted from ingested raw sources. Claude Code updates this file during ingestion runs.
 
 > For relationship and concept context, see [[index]]. For ingestion history, see [[log]].
+
+---
+
+## 🧹 Review rhythm (keeps MEMORY.md from rotting)
+
+| Cadence | Action |
+|---|---|
+| **Weekly (Friday, 15 min)** | Walk through every `[ ]`. Strike `~~done~~` with date. Move items stale >2 weeks to "Closed / Archive". Add new actions from the week's iMessages/Outlook pulls. |
+| **Monthly (1st of month)** | Prune "Closed / Archive" — keep only items useful as precedent; delete the rest. Reconcile deferred items against the current week. |
+| **Quarterly** | Full audit: does every open item still matter? Kill anything that no longer serves a live goal. |
+
+**Hard rule:** if MEMORY.md exceeds 200 lines, pruning is overdue. Don't let it drift.
+
+**Closing an item:** use `~~strikethrough~~` + `(YYYY-MM-DD)` inline. After a week, move the whole bullet to "Closed / Archive". After a month, delete unless it's a useful precedent.
 
 ---
 
@@ -54,6 +68,89 @@ Source: [[wiki/summaries/imessages-people-2026-04-09]]
 ### John Costilla — Apr 10 photo shoot
 Source: [[wiki/summaries/imessages-people-2026-04-09]]
 - [x] **Apr 10 · 10:15am** — Photos with John. ~~Presumed done~~ (today is Apr 11; verify + archive if complete)
+
+---
+
+## 🔔 New from meetings ingestion (2026-04-12) — 25 OneDrive transcripts
+
+Source: [[raw/meetings/]] — Aug 2024–May 2025 meeting recordings
+
+### Historical action items (may be complete — verify)
+
+**Product / Engineering**
+- [ ] Verify: Azure access issue for Adeleke resolved? (Andres submitted support case ~May 2025)
+- [ ] Verify: Job matching algorithm weighted update deployed to production? (Adeleke confirmed Apr 9)
+- [ ] Verify: Google → Microsoft migration completed? (Deadline was May 5, 2025)
+- [ ] Verify: HubSpot full access granted to Jacob after May 15, 2025?
+
+**Business Plan Creator bugs (from May 2025 — check current status)**
+- [ ] Customer persona pipeline fixed (personas passing to o3-mini)?
+- [ ] TAM/SAM calculation validated?
+- [ ] Competitor map moved to competitor section?
+- [ ] Cost structure personalization (dropdown) added?
+- [ ] Milestone completion/tracking added?
+- [ ] Plan display default fixed for subscribed users?
+
+**Interview Tool**
+- [ ] MVP development started? (Andres said to build without design first — May 2025)
+
+**Social Media Automation**
+- [ ] Auto-generate social post on job creation (Grok + template) — built?
+
+**Marketing**
+- [ ] Sebastian Oviedo 4-week marketing engagement completed? (Started Apr 28, 2025 — 4 weeks = ~May 26)
+- [ ] June 2025 Manos De Cristo workshops — delivered? (3 Fridays in June: 13, 20, 27)
+
+**Clients**
+- [ ] Sakuri Corporation — ALL Texas job listings organized by city and posted? (Jacob assigned)
+- [ ] Zachary / Great Construction Corp — account active and delivering job postings?
+
+**UTSA License Opportunity**
+- [ ] EDC contact intro to UTSA for Business Plan Creator license — followed up?
+
+**Team**
+- [ ] Family emergency — check in with Abiodun Solomon (Ablad) after hospital visit (Apr 2025)
+
+---
+
+## 🔔 New from Teams ingestion (2026-04-12) — 415 messages, Apr 5–12
+
+Source: [[wiki/summaries/teams-2026-04-12]]
+
+### Deals requiring follow-up
+- [ ] **Connectex:** Invoice sent? Verify payment schedule (3 quarters). What deliverables?
+- [ ] **Alloy (gym):** Confirm closing. Set up Moil 360 license + monthly content delivery cadence with Ablad
+- [ ] **FitLogic:** Confirm hire. Update job posting (part-time → part-time-to-full-time done by Jacob). Track as customer win
+- [ ] **jilledegs01@gmail.com:** Site deployed (pure-serenity-green.vercel.app). Moil 360 license sent by Jacob. What changes needed?
+- [ ] **Siren Beauty:** Account setup — does she have an account yet? (Jacob asked to check)
+- [ ] **Eden:** Website discovery call recorded Apr 8. Follow up on next steps
+
+### Product/Engineering — immediate
+- [ ] **Tour guide bugs STILL OPEN:** 2 missing `data-guide-id` attributes (`dashboard-welcome-header`, `profile-badge`). Generic waiting text. Auto-scroll too aggressive
+- [ ] **Segment analytics:** `No segment writeKey` error on staging. Fix or remove
+- [ ] **Image context bug:** Images "forget" conversation context. Root cause?
+- [ ] **Qwen model monitoring:** Adeleke has reminders for Tuesday + Friday to check free tier exhaustion
+- [ ] **Model cost audit:** Where exactly is GPT-5.4 being called? Andres investigating. Switch to Grok 4.1 Fast where possible
+- [ ] **Supabase deploy:** `supabase functions deploy business-intake` from Business-plan-Staging/ needed for go-live
+- [ ] **Meridian email:** Domain verification blocking email resend. Taiwo needs this resolved
+- [ ] **Meridian Stripe:** Test keys configured; need to test full flow end-to-end
+- [ ] **Phone number sign-up:** Removed from site (Azure verification broken). Needs permanent fix or formal removal
+
+### Content/Marketing
+- [ ] **Inna May calendar:** Pre-loaded by Andres. Ensure Ablad has it and delivery stays on track
+- [ ] **Content calendar CSV process:** Always export CSV before importing new data (adopted after Apr 1-8 content loss)
+- [ ] **Video production strategy:** Andres asked "How can we start producing video daily?" — needs a plan using AI video tools
+- [ ] **Buda community sharing:** Restarted — "Only Buda groups please." Track engagement
+- [ ] **Sun show attendee email:** "One of you won a free year of Moil 360" — was this sent?
+
+### Team management
+- [ ] **Jacob power outage:** 3 weeks, damaged cable on street. Running on generator fuel. Andres sent $50. Monitor if this affects output
+- [ ] **Adeleke FB account:** Login code issue since Apr 7. Blocking app review video recording
+- [ ] **Taiwo productivity:** Andres frustrated by credential-waiting passivity. "6 projects, never let a full day go by waiting." Monitor improvement
+- [ ] **Microsoft Planner:** Jacob created board Apr 7. Verify team is using it (In Progress / In Review statuses)
+
+### Security/Credential hygiene
+- [ ] **Credentials in Teams chat:** Stripe keys, Supabase passwords, Gemini API key, FB codes all shared in plaintext. Migrate to a secure credential store (1Password, Bitwarden, or at minimum a pinned secure note)
 
 ---
 

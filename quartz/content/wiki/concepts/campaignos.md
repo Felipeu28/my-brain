@@ -1,7 +1,3 @@
----
-tags: [concept, moil, consulting, seed]
----
-
 # CampaignOS
 
 **Type:** concept

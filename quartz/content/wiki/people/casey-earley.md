@@ -1,7 +1,3 @@
----
-tags: [person, buda-hive, seed]
----
-
 # Casey Earley
 
 **Type:** person
@@ -21,8 +17,16 @@ Casey is not a cohort participant — she's part of the program staff. She helps
 
 Casey is the day-to-day operational person Andres and [[wiki/people/joshua-edmond|Joshua Edmond]] likely interact with for scheduling, logistics, and cohort coordination. Understanding her role helps the Brain route communications correctly — session logistics go through Casey/Jacquie, strategic decisions go through [[wiki/people/jennifer-storm|Jennifer Storm]].
 
+## April 2026 Update (from Teams 1:1, Apr 9)
+
+**Moving to Buda!** Casey is relocating to 2051 Cambria, Buda — closing May 16. Andres lives 7 minutes away. This deepens the personal relationship and makes in-person HIVE coordination easier.
+
+- "I miss you!" / "Guess what?? I am moving to Buda!" — warm personal relationship
+- Andres: "Cant wait for the cohort to start!! Miss you guys. I miss my HIVE, my people!!"
+- Confirms Casey is close to the HIVE community, not just staff
+
 ## Context Gaps
 
 - What's Casey's exact title and email at Buda EDC?
 - Does she attend sessions, manage the space, or handle admin?
-- Review email/message threads for more context on working relationship
+- New address: 2051 Cambria, Buda — closing May 16, 2026

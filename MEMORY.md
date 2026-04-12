@@ -1,6 +1,6 @@
 # MEMORY — Open Actions & Live Commitments
 
-**Last updated:** 2026-04-12
+**Last updated:** 2026-04-12 (Teams 415-message ingestion)
 **Purpose:** Single source of truth for open action items extracted from ingested raw sources. Claude Code updates this file during ingestion runs.
 
 > For relationship and concept context, see [[index]]. For ingestion history, see [[log]].
@@ -113,11 +113,44 @@ Source: [[raw/meetings/]] — Aug 2024–May 2025 meeting recordings
 
 ---
 
-## 🔔 New from Teams ingestion (2026-04-12)
+## 🔔 New from Teams ingestion (2026-04-12) — 415 messages, Apr 5–12
 
 Source: [[wiki/summaries/teams-2026-04-12]]
-- [ ] **Future pull:** Request a new Teams export that includes human responses in `#attendance-n-break` and all project/team threads — this will unlock full Moil team roster + compliance patterns. Current pull only captured bot messages.
-- [ ] **Investigate `#Alerts` channel:** Had a header in the 30-day pull but zero messages. What is it used for? Could be critical operational alerts.
+
+### Deals requiring follow-up
+- [ ] **Connectex:** Invoice sent? Verify payment schedule (3 quarters). What deliverables?
+- [ ] **Alloy (gym):** Confirm closing. Set up Moil 360 license + monthly content delivery cadence with Ablad
+- [ ] **FitLogic:** Confirm hire. Update job posting (part-time → part-time-to-full-time done by Jacob). Track as customer win
+- [ ] **jilledegs01@gmail.com:** Site deployed (pure-serenity-green.vercel.app). Moil 360 license sent by Jacob. What changes needed?
+- [ ] **Siren Beauty:** Account setup — does she have an account yet? (Jacob asked to check)
+- [ ] **Eden:** Website discovery call recorded Apr 8. Follow up on next steps
+
+### Product/Engineering — immediate
+- [ ] **Tour guide bugs STILL OPEN:** 2 missing `data-guide-id` attributes (`dashboard-welcome-header`, `profile-badge`). Generic waiting text. Auto-scroll too aggressive
+- [ ] **Segment analytics:** `No segment writeKey` error on staging. Fix or remove
+- [ ] **Image context bug:** Images "forget" conversation context. Root cause?
+- [ ] **Qwen model monitoring:** Adeleke has reminders for Tuesday + Friday to check free tier exhaustion
+- [ ] **Model cost audit:** Where exactly is GPT-5.4 being called? Andres investigating. Switch to Grok 4.1 Fast where possible
+- [ ] **Supabase deploy:** `supabase functions deploy business-intake` from Business-plan-Staging/ needed for go-live
+- [ ] **Meridian email:** Domain verification blocking email resend. Taiwo needs this resolved
+- [ ] **Meridian Stripe:** Test keys configured; need to test full flow end-to-end
+- [ ] **Phone number sign-up:** Removed from site (Azure verification broken). Needs permanent fix or formal removal
+
+### Content/Marketing
+- [ ] **Inna May calendar:** Pre-loaded by Andres. Ensure Ablad has it and delivery stays on track
+- [ ] **Content calendar CSV process:** Always export CSV before importing new data (adopted after Apr 1-8 content loss)
+- [ ] **Video production strategy:** Andres asked "How can we start producing video daily?" — needs a plan using AI video tools
+- [ ] **Buda community sharing:** Restarted — "Only Buda groups please." Track engagement
+- [ ] **Sun show attendee email:** "One of you won a free year of Moil 360" — was this sent?
+
+### Team management
+- [ ] **Jacob power outage:** 3 weeks, damaged cable on street. Running on generator fuel. Andres sent $50. Monitor if this affects output
+- [ ] **Adeleke FB account:** Login code issue since Apr 7. Blocking app review video recording
+- [ ] **Taiwo productivity:** Andres frustrated by credential-waiting passivity. "6 projects, never let a full day go by waiting." Monitor improvement
+- [ ] **Microsoft Planner:** Jacob created board Apr 7. Verify team is using it (In Progress / In Review statuses)
+
+### Security/Credential hygiene
+- [ ] **Credentials in Teams chat:** Stripe keys, Supabase passwords, Gemini API key, FB codes all shared in plaintext. Migrate to a secure credential store (1Password, Bitwarden, or at minimum a pinned secure note)
 
 ---
 

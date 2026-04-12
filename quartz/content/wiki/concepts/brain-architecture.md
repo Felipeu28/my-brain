@@ -2,7 +2,6 @@
 name: brain-architecture concept
 description: Andres's 5-layer personal knowledge pipeline — Collection → Storage → Processing → LLM Wiki → Query
 type: concept
-tags: [concept, personal, evergreen]
 ---
 
 # Brain Architecture — Andres's 5-Layer Personal Knowledge Pipeline
@@ -39,7 +38,7 @@ A five-layer pipeline that turns raw signal (mostly weekly X bookmarks) into a c
 - Implements the [[wiki/concepts/llm-knowledge-bases]] (Karpathy) pattern.
 - Collection layer depends on [[wiki/concepts/claude-cowork]] scheduled tasks.
 - Every `wiki/summaries/*` file is a Layer 3 output.
-- [[wiki/synthesis-2026-04]] would be a Layer 4 artifact.
+- [[outputs/synthesis-2026-04]] is a Layer 4 artifact.
 
 ## Moil Relevance
 Directly informs Moil product decisions — Andres runs the business with a version of this loop. It's also structurally similar to the "AI Co-Founder" Moil sells (21 questions → market research → plan → content calendar = collection → processing → synthesis).

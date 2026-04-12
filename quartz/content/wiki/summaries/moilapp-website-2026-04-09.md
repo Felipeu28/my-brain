@@ -2,7 +2,6 @@
 name: moilapp-website summary
 description: Summary of moilapp.com site content — business + candidate platforms, blog
 type: summary
-tags: [resource, moil, seed]
 ---
 
 # Summary — moilapp.com Website Content (Apr 9, 2026)

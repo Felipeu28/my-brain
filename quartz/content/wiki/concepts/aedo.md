@@ -1,7 +1,3 @@
----
-tags: [concept, buda-hive, seed]
----
-
 # AEDO — Accredited Economic Development Organization
 
 **Type:** concept

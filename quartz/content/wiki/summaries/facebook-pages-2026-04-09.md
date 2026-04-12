@@ -2,7 +2,6 @@
 name: facebook-pages summary
 description: Summary of AIbyAndres personal + MoilWorks business Facebook pages
 type: summary
-tags: [resource, moil, seed]
 ---
 
 # Summary — Facebook Pages: AIbyAndres & MoilWorks
