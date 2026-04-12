@@ -13,14 +13,14 @@ date: 2026-04-11
 
 ---
 
-**Role:** Internal advocate / primary contact at Nuovo Entertainment
-**Relationship:** Client project contact (client owner is non-technical)
+**Role:** Employee at Nuovo Entertainment — primary project contact
+**Relationship:** HIVE graduate → now working at client company. Has texts + emails with Andres.
 
 ---
 
 ## Who She Is
 
-Eden Martinez is the internal advocate and primary contact at **Nuovo Entertainment** — an independent record label. The actual business owner is non-technical, so Eden is the day-to-day project liaison.
+Eden Martinez is a **Buda HIVE graduate** who now works at **Nuovo Entertainment** — an independent record label. She brought Nuovo to Andres as a client. The business owner is non-technical; Eden is the day-to-day project liaison and champion.
 
 ---
 
@@ -44,11 +44,15 @@ An **SEO-optimized 12–18 page website** for Nuovo Entertainment, targeting ind
 
 ---
 
+## Current Status
+
+**Waiting on client feedback** before moving forward with a quote. Site scope and architecture are defined; platform (WordPress vs. Webflow) is pending their decision.
+
 ## Open Items
 
-- [ ] Confirm WordPress vs. Webflow platform decision
-- [ ] Build out site per architecture above
-- [ ] Pull any emails/messages with Eden for project context
+- [ ] **WAITING:** Client feedback on platform choice (WordPress vs. Webflow)
+- [ ] Send quote once feedback received
+- [ ] Pull texts + emails with Eden into Brain for full project context
 
 ---
 
