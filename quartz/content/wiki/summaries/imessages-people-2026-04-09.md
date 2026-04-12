@@ -2,6 +2,7 @@
 name: imessages-people summary
 description: Summary of iMessages relationship intelligence pull — family, friends, and business contacts
 type: summary
+tags: [resource, personal, seed]
 ---
 
 # Summary — iMessages Relationship Intelligence (Apr 9, 2026)

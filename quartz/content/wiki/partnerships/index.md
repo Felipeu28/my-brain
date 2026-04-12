@@ -1,5 +1,6 @@
 ---
 title: "Partnerships"
+tags: [hub, moil, buda-hive, seed]
 ---
 
 # Partnerships — Strategic Relationships
@@ -33,3 +34,8 @@ title: "Partnerships"
 **Type:** Product collaboration with Jennifer Storm (Buda EDC CEO)
 - AI platform for small political campaigns
 - Andres offered to build MVP at near-zero cost
+
+## Core Pages
+- [[partnerships/buda-hive-edc]] — Buda Hive EDC partnership
+- [[partnerships/jucoai]] — JucoAI partnership
+- [[partnerships/campaignos]] — CampaignOS partnership

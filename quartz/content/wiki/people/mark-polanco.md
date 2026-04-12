@@ -1,3 +1,7 @@
+---
+tags: [person, moil, seed]
+---
+
 # Mark Polanco
 
 **Type:** person

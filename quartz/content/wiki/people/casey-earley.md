@@ -1,3 +1,7 @@
+---
+tags: [person, buda-hive, seed]
+---
+
 # Casey Earley
 
 **Type:** person

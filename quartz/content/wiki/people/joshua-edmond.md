@@ -1,3 +1,7 @@
+---
+tags: [person, buda-hive, growing]
+---
+
 # Joshua Edmond
 
 **Type:** person

@@ -1,3 +1,7 @@
+---
+tags: [concept, moil, growing]
+---
+
 # Moil — Go-to-Market Motion
 
 **Type:** moil-topic

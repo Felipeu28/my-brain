@@ -23,6 +23,11 @@ Create one when a topic has:
 - `openclaw-hermes-changelog.md` — gstack / Superpowers / Compound Engineering releases
 - `model-releases.md` — new model launches (Gemma, Qwen, Claude, GPT, Gemini)
 
+## Core Pages
+- [[radar/tools]] — Tools on the radar
+- [[radar/companies]] — Companies to watch
+- [[radar/claude-code-changelog]] — Claude Code changelog
+
 ## Format rules
 - Newest on top, grouped by month
 - Each entry = **date · feature name** + 1-line summary + source

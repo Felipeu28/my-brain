@@ -1,3 +1,7 @@
+---
+tags: [person, moil, seed]
+---
+
 # Daniel Guadiano
 
 **Type:** person

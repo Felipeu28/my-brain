@@ -1,3 +1,7 @@
+---
+tags: [company, buda-hive, growing]
+---
+
 # Buda EDC
 
 **Type:** concept

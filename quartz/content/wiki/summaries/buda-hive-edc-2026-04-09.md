@@ -2,6 +2,7 @@
 name: buda-hive-edc Apr 9 summary
 description: Earlier draft of Buda EDC/HIVE intelligence — superseded by Apr 11 version
 type: summary
+tags: [meeting-note, buda-hive, seed]
 ---
 
 # Summary — Buda HIVE & Buda EDC Relationship Intelligence (Apr 9, 2026)

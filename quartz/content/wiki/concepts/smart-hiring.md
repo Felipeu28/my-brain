@@ -1,3 +1,7 @@
+---
+tags: [concept, moil, evergreen]
+---
+
 # Smart Hiring
 
 **Type:** concept

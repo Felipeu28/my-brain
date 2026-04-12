@@ -1,5 +1,6 @@
 ---
 title: "Clients"
+tags: [hub, moil, consulting, seed]
 ---
 
 # Clients — Active Engagements
@@ -19,3 +20,6 @@ Client work through Moil-Landingpages and Moil Enterprises.
 | Omaha Client | `omaha-client-boost` | 🟢 Active |
 | Connectex | `connectex` | 🟢 Active |
 | Inna CRM | `Inna-CRM` | 🟡 PR open |
+
+## Core Pages
+*No client pages yet — add them as clients are onboarded.*

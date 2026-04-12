@@ -2,6 +2,7 @@
 name: moil-documents summary
 description: Summary of Moil Enterprise Business Plan (Mar 5, 2026) — mission, traction, pricing, financials
 type: summary
+tags: [resource, moil, growing]
 ---
 
 # Summary — Moil Enterprise Business Plan (Mar 5, 2026)

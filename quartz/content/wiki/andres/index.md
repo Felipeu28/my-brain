@@ -1,5 +1,6 @@
 ---
 title: "Andres Urrego"
+tags: [hub, personal, andres, evergreen]
 ---
 
 # Andres Urrego — Profile
@@ -82,3 +83,8 @@ title: "Andres Urrego"
 - **Joshua Edmond** — JuCoAI, co-facilitator, 512-522-8611
 - **Jennifer Storm** — CEO, Buda EDC, jennifer.storm@budaedc.com
 - **Jacquie Martinez** — Asst. Director, Buda HIVE, martinez@budaedc.com
+
+## Core Pages
+- [[andres/decision-log]] — Running log of significant decisions
+- [[andres/goals-2026]] — Key goals for 2026
+- [[andres/reading-list]] — Books, articles, and resources

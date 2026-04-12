@@ -1,3 +1,7 @@
+---
+tags: [person, moil, seed]
+---
+
 # Inna Benyukhis
 
 **Type:** person

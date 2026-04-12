@@ -1,3 +1,7 @@
+---
+tags: [concept, personal, growing]
+---
+
 # LLM Knowledge Bases (Karpathy Pattern)
 
 **Type:** concept

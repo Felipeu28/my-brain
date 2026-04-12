@@ -1,3 +1,7 @@
+---
+tags: [moil, growing]
+---
+
 # Moil — Metrics (Single Source of Truth)
 
 **Type:** moil-topic

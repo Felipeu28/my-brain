@@ -1,3 +1,7 @@
+---
+tags: [concept, moil, growing]
+---
+
 # AI-Powered Cold Outreach
 
 **Type:** concept

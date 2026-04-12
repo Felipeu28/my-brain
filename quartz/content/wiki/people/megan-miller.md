@@ -1,3 +1,7 @@
+---
+tags: [person, seed]
+---
+
 # Megan Miller
 
 **Type:** person

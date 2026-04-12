@@ -1,3 +1,7 @@
+---
+tags: [person, seed]
+---
+
 # Monica Davidson
 
 **Type:** person

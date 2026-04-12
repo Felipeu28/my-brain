@@ -2,6 +2,7 @@
 name: openclaw-hermes concept
 description: The open-source parallel ecosystem to Claude Code — gstack, Superpowers, Compound Engineering, gbrain
 type: concept
+tags: [concept, moil, seed]
 ---
 
 # OpenClaw / Hermes Ecosystem

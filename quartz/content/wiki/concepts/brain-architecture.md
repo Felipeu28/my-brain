@@ -2,6 +2,7 @@
 name: brain-architecture concept
 description: Andres's 5-layer personal knowledge pipeline — Collection → Storage → Processing → LLM Wiki → Query
 type: concept
+tags: [concept, personal, evergreen]
 ---
 
 # Brain Architecture — Andres's 5-Layer Personal Knowledge Pipeline

@@ -1,3 +1,7 @@
+---
+tags: [person, moil, seed]
+---
+
 # Mariana Rodriguez
 
 **Type:** person

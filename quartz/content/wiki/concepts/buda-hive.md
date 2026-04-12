@@ -1,3 +1,7 @@
+---
+tags: [concept, buda-hive, growing]
+---
+
 # Buda HIVE
 
 **Type:** concept

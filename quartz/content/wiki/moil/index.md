@@ -1,5 +1,6 @@
 ---
 title: "Moil"
+tags: [hub, moil, evergreen]
 ---
 
 # Moil — Business Hub
@@ -45,3 +46,10 @@ AI-powered hiring platform connecting employers with blue-collar/offline workers
 - `Business-plan-beta-prod` — business plan creator
 - `Moil-landing-page` — main landing page
 - `partner-production` — partner portal live
+
+## Core Pages
+- [[moil/product-vision]] — Product vision and roadmap
+- [[moil/go-to-market]] — GTM strategy and channels
+- [[moil/metrics]] — Key business metrics
+- [[moil/competitive-landscape]] — Competitive analysis
+- [[moil/team]] — Team structure and roles

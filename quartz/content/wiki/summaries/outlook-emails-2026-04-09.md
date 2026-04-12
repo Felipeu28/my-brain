@@ -2,6 +2,7 @@
 name: outlook-emails summary
 description: Summary of Outlook email digest — Johns Creek Chamber, Astra Restaurant, CoffeeSpace, networking
 type: summary
+tags: [resource, moil, seed]
 ---
 
 # Summary — Outlook Email Digest (Apr 9, 2026)

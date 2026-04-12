@@ -2,6 +2,7 @@
 name: claude-cowork concept
 description: Anthropic's background/scheduled Claude workflow platform — powers the Brain's weekly X bookmark sweep
 type: concept
+tags: [concept, moil, growing]
 ---
 
 # Claude Cowork

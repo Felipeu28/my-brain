@@ -26,6 +26,13 @@ type: index
 - [[wiki/minds/elon-musk]] — xAI / Tesla / SpaceX / X owner
 - [[wiki/minds/andrej-karpathy]] — Origin of the Brain's LLM Knowledge Base pattern
 
+## Core Pages
+- [[minds/andrej-karpathy]] — Andrej Karpathy
+- [[minds/dario-amodei]] — Dario Amodei
+- [[minds/elon-musk]] — Elon Musk
+- [[minds/jensen-huang]] — Jensen Huang
+- [[minds/sam-altman]] — Sam Altman
+
 ## Template
 When adding a new mind, use this skeleton:
 

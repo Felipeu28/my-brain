@@ -1,3 +1,7 @@
+---
+tags: [concept, moil, seed]
+---
+
 # AI Video Tools (2026 Landscape)
 
 **Type:** concept

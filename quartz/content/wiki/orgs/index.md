@@ -29,3 +29,9 @@ type: index
 ## What belongs here vs. wiki/concepts/
 - If it's an **organization you can call / email / invoice**, it goes here.
 - If it's a **program, framework, or product** (e.g. Buda HIVE is a program run by Buda EDC; Content360 is a feature), it stays in `concepts/`.
+
+## Core Pages
+- [[orgs/buda-chamber]] — Greater Buda Chamber of Commerce
+- [[orgs/buda-edc]] — Buda Economic Development Corporation
+- [[orgs/coffeespace]] — CoffeeSpace
+- [[orgs/queen-creek-chamber]] — Queen Creek Chamber of Commerce

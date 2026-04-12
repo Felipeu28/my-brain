@@ -2,6 +2,7 @@
 name: jensen-huang
 description: CEO of NVIDIA — the compute king whose roadmap sets the ceiling on what AI can do
 type: mind
+tags: [person, seed]
 ---
 
 # Jensen Huang

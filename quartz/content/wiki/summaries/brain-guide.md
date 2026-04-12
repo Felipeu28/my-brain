@@ -2,6 +2,7 @@
 name: brain-guide summary
 description: Summary of The Brain System guide — Andres's 5-layer personal knowledge architecture
 type: summary
+tags: [resource, personal, growing]
 ---
 
 # Summary — The Brain System: A Practical Guide for Andres

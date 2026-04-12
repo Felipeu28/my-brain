@@ -2,6 +2,7 @@
 name: claude-code-changelog
 description: Append-only changelog of Claude Code features, launches, and ecosystem shifts
 type: radar
+tags: [radar, concept, moil, growing]
 ---
 
 # Claude Code — Running Changelog

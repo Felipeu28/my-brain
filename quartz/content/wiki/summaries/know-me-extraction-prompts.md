@@ -2,6 +2,7 @@
 name: know-me-extraction-prompts summary
 description: Summary of three interview prompts (Claude/ChatGPT/Grok) for extracting Andres's personal + business context
 type: summary
+tags: [resource, personal, seed]
 ---
 
 # Summary — Know Me: Extraction Prompts for The Brain

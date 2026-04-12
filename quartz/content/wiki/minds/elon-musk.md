@@ -2,6 +2,7 @@
 name: elon-musk
 description: xAI / Tesla / SpaceX — owner of X platform and Grok, shapes AI-and-everything narrative
 type: mind
+tags: [person, seed]
 ---
 
 # Elon Musk

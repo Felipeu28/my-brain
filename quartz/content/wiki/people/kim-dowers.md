@@ -1,3 +1,7 @@
+---
+tags: [person, seed]
+---
+
 # Kim Dowers
 
 **Type:** person

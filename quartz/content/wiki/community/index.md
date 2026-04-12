@@ -1,5 +1,6 @@
 ---
 title: "Community"
+tags: [hub, buda-hive, latitud, seed]
 ---
 
 # Community — Local & Professional Network
@@ -28,3 +29,7 @@ Events:
 - **Joshua Edmond** — JuCoAI. 512-522-8611
 
 Source: [[buda-hive-edc-2026-04-11]]
+
+## Core Pages
+- [[community/latitud-lf6]] — Latitud LF6 cohort
+- [[community/buda-hive]] — Buda Hive community

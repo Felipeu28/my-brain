@@ -1,3 +1,7 @@
+---
+tags: [person, moil, seed]
+---
+
 # John Costilla
 
 **Type:** person

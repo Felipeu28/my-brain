@@ -1,3 +1,7 @@
+---
+tags: [company, buda-hive, seed]
+---
+
 # Greater Buda Chamber of Commerce
 
 **Type:** concept

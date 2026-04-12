@@ -1,5 +1,6 @@
 ---
 title: "Projects"
+tags: [hub, moil, seed]
 ---
 
 # Projects — Active & Exploratory
@@ -37,3 +38,6 @@ title: "Projects"
 - 2 open PRs: Blog, Inna-CRM
 
 Source: [[github-project-tracker]]
+
+## Core Pages
+*No project pages yet — add them as projects are scoped.*
