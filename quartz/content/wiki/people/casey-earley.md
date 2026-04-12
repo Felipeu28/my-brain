@@ -11,7 +11,7 @@ tags: [person, buda-hive, seed]
 
 ---
 
-**Role:** Assistant to [[Jacquie Martinez]] at [[Buda EDC]], key operational support for the [[Buda HIVE]] program.
+**Role:** Assistant to [[wiki/people/jacquie-martinez|Jacquie Martinez]] at [[wiki/orgs/buda-edc|Buda EDC]], key operational support for the [[wiki/concepts/buda-hive|Buda HIVE]] program.
 
 ## Context
 
@@ -19,7 +19,7 @@ Casey is not a cohort participant — she's part of the program staff. She helps
 
 ## Why She Matters
 
-Casey is the day-to-day operational person Andres and [[Joshua Edmond]] likely interact with for scheduling, logistics, and cohort coordination. Understanding her role helps the Brain route communications correctly — session logistics go through Casey/Jacquie, strategic decisions go through [[Jennifer Storm]].
+Casey is the day-to-day operational person Andres and [[wiki/people/joshua-edmond|Joshua Edmond]] likely interact with for scheduling, logistics, and cohort coordination. Understanding her role helps the Brain route communications correctly — session logistics go through Casey/Jacquie, strategic decisions go through [[wiki/people/jennifer-storm|Jennifer Storm]].
 
 ## Context Gaps
 

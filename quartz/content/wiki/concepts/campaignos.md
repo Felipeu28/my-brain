@@ -11,7 +11,7 @@ tags: [concept, moil, consulting, seed]
 
 ---
 
-**Origin:** [[Jennifer Storm]] shared this idea with Andres on January 11, 2026.
+**Origin:** [[wiki/people/jennifer-storm|Jennifer Storm]] shared this idea with Andres on January 11, 2026.
 **Status:** Andres exploring MVP — offered to build at "little to no cost (almost 0)"
 
 ## Concept

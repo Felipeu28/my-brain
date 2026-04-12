@@ -39,7 +39,7 @@ date: 2026-04-11
 
 | Name | Role | Relationship | Contact |
 |------|------|-------------|---------|
-| [[Inna Benyukhis]] | Long-time client | Custom build work (CRM + Marketing Calendar, 2 repos in Moil-Landingpages) | GitHub + iMessages |
+| [[wiki/people/inna-benyukhis|Inna Benyukhis]] | Long-time client | Custom build work (CRM + Marketing Calendar, 2 repos in Moil-Landingpages) | GitHub + iMessages |
 
 ---
 
@@ -47,9 +47,9 @@ date: 2026-04-11
 
 | Name | Organization | Role in Moil Ecosystem |
 |------|-------------|----------------------|
-| Jennifer Storm | [[Buda EDC]] | CEO, EDC partnership lead (Buda HIVE) |
-| Jacquie Martinez | [[Buda EDC]] | Asst. Director, HIVE program |
-| Joshua Edmond | [[JuCoAI]] | Co-facilitator, Buda HIVE Cohort 4 (Apr–Jun 2026) |
+| Jennifer Storm | [[wiki/orgs/buda-edc|Buda EDC]] | CEO, EDC partnership lead (Buda HIVE) |
+| Jacquie Martinez | [[wiki/orgs/buda-edc|Buda EDC]] | Asst. Director, HIVE program |
+| Joshua Edmond | JuCoAI | Co-facilitator, Buda HIVE Cohort 4 (Apr–Jun 2026) |
 
 ---
 

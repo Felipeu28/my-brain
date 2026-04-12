@@ -93,7 +93,7 @@ No direct competitor has native EN/ES support at every layer: voice input, conte
 $15/mo removes the "can I afford to try this?" question entirely for any operating business. Compared to $5,000+ consultant engagements or $99+/mo marketing tools, Moil's pricing strategy is itself a distribution mechanic — it reduces friction to the near-zero level needed for PLG.
 
 ### 4. Community distribution
-The [[Buda HIVE]] / EDC partnership model creates captive cohorts of users at near-zero CAC. No competitor has this. B2G license deals where the EDC buys access for its cohort create institutional credibility that's hard to replicate.
+The [[wiki/concepts/buda-hive|Buda HIVE]] / EDC partnership model creates captive cohorts of users at near-zero CAC. No competitor has this. B2G license deals where the EDC buys access for its cohort create institutional credibility that's hard to replicate.
 
 ### 5. SMB-specific AI (vs. generic AI)
 Moil's AI knows your business because you told it 21 things about your business. ChatGPT doesn't know your market, your competition, your pricing, or your team. Moil's outputs are generated from actual business context — a structural advantage that compounds with every session.

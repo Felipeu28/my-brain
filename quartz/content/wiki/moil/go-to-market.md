@@ -80,7 +80,7 @@ This multi-platform reach is what drives the 95% match accuracy and 11-day avg t
 
 | Partner | Type | Model |
 |---------|------|-------|
-| [[Buda HIVE]] / Buda EDC | B2G | EDC buys cohort licenses. Graduates become paying users. Replicable to other Texas/Georgia EDCs |
+| [[wiki/concepts/buda-hive|Buda HIVE]] / Buda EDC | B2G | EDC buys cohort licenses. Graduates become paying users. Replicable to other Texas/Georgia EDCs |
 | JuCoAI (Joshua Edmond) | Co-facilitation | Co-facilitates HIVE Cohort 4 (Apr–Jun 2026) |
 | CampaignOS | Platform partner | Shared distribution |
 | CoffeeSpace | Talent platform | 27K-user candidate network driving business-side demand |

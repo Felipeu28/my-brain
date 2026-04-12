@@ -15,10 +15,10 @@ tags: [moil, growing]
 
 | Customer | Type | Use Case | Source | Notes |
 |----------|------|----------|--------|-------|
-| [[Megan Miller]] | Direct / SMB | Hiring through Moil | iMessages | Active feedback source. Surfaced applicant visibility + notification UX gaps |
-| [[Buda EDC]] | B2G | Platform licenses for [[Buda HIVE]] cohorts | Emails | Recurring per-cohort revenue. Institutional credibility |
-| [[Daniel Guadiano]] / Astra Restaurant | Warm lead | AI scheduling for restaurant ops | Outlook email | Met at Feb networking event. Phone: 210.978.4483 |
-| [[Inna Benyukhis]] | Long-time client | CRM + Marketing Calendar (custom builds) | GitHub + iMessages | 2 repos in Moil-Landingpages. Open PR on Inna-CRM |
+| [[wiki/people/megan-miller|Megan Miller]] | Direct / SMB | Hiring through Moil | iMessages | Active feedback source. Surfaced applicant visibility + notification UX gaps |
+| [[wiki/orgs/buda-edc|Buda EDC]] | B2G | Platform licenses for [[wiki/concepts/buda-hive|Buda HIVE]] cohorts | Emails | Recurring per-cohort revenue. Institutional credibility |
+| [[wiki/people/daniel-guadiano|Daniel Guadiano]] / Astra Restaurant | Warm lead | AI scheduling for restaurant ops | Outlook email | Met at Feb networking event. Phone: 210.978.4483 |
+| [[wiki/people/inna-benyukhis|Inna Benyukhis]] | Long-time client | CRM + Marketing Calendar (custom builds) | GitHub + iMessages | 2 repos in Moil-Landingpages. Open PR on Inna-CRM |
 
 ## Website Testimonials
 
@@ -51,7 +51,7 @@ tags: [moil, growing]
 
 ## Customer Concentration
 
-Currently Texas-heavy, especially Austin metro / Buda area. The [[Buda HIVE]] cohort model creates clusters of users in the Buda ecosystem. Geographic expansion is a 2027 objective.
+Currently Texas-heavy, especially Austin metro / Buda area. The [[wiki/concepts/buda-hive|Buda HIVE]] cohort model creates clusters of users in the Buda ecosystem. Geographic expansion is a 2027 objective.
 
 ## What's Missing
 

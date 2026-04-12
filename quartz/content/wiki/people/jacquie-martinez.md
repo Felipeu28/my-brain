@@ -12,12 +12,12 @@ tags: [person, buda-hive, growing]
 ---
 
 **Full name:** Jacquie Hollis Martinez
-**Title:** Assistant Director of Small Business Initiatives, [[Buda EDC]]
+**Title:** Assistant Director of Small Business Initiatives, [[wiki/orgs/buda-edc|Buda EDC]]
 **Email:** martinez@budaedc.com
 
 ## Role
 
-Manages the [[Buda HIVE]] incubator program day-to-day. Primary operational contact for Andres and [[Joshua Edmond]]. Sends contract requests, coordinates Board submissions, and manages cohort logistics.
+Manages the [[wiki/concepts/buda-hive|Buda HIVE]] incubator program day-to-day. Primary operational contact for Andres and [[wiki/people/joshua-edmond|Joshua Edmond]]. Sends contract requests, coordinates Board submissions, and manages cohort logistics.
 
 ## Key Interactions
 

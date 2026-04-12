@@ -11,20 +11,20 @@ tags: [person, buda-hive, growing]
 
 ---
 
-**Title:** Chief Executive Officer, [[Buda EDC]]
+**Title:** Chief Executive Officer, [[wiki/orgs/buda-edc|Buda EDC]]
 **Email:** jennifer.storm@budaedc.com
 **Phone:** 512.295.2022 (office) · 512.295.4536 (direct)
 **Address:** 405 East Loop Street #100, Buda, TX 78610
 
 ## Relationship
 
-Key ally for [[Moil]]. Collegial, warm, mutually supportive. Relationship goes back to at least **November 2025** — Jennifer shared an Innovation & Entrepreneurial Strategies Manual (CTED) with Andres and Jacquie on Nov 18, 2025. She has two email addresses: jennifer.storm@budaedc.com (work) and jennifer.stormx@gmail.com (personal — used for CampaignOS discussions). Jennifer is pursuing [[AEDO]] accreditation for Buda EDC — Andres wrote the community support letter (submitted April 10, 2026).
+Key ally for [[wiki/moil/index|Moil]]. Collegial, warm, mutually supportive. Relationship goes back to at least **November 2025** — Jennifer shared an Innovation & Entrepreneurial Strategies Manual (CTED) with Andres and Jacquie on Nov 18, 2025. She has two email addresses: jennifer.storm@budaedc.com (work) and jennifer.stormx@gmail.com (personal — used for CampaignOS discussions). Jennifer is pursuing [[wiki/concepts/aedo|AEDO]] accreditation for Buda EDC — Andres wrote the community support letter (submitted April 10, 2026).
 
 ## Active Threads
 
-- **[[CampaignOS]]** — Jennifer emailed her "Notes for Campaign AI" on **Jan 11, 2026** (Sunday night, personal email) — included a screenshot of "Political Campaign AI App Idea: Top 10 Pain Points." Andres replied next morning "Love this :-) I am on it this week! Excited to chat Friday!" On **Mar 30, 2026**, Andres circled back offering to build it at near-zero cost with dev credits and potentially assemble an MVP. Core premise: small campaigns lack access to data tools large campaigns use. Status: actively exploring MVP build.
+- **[[wiki/concepts/campaignos|CampaignOS]]** — Jennifer emailed her "Notes for Campaign AI" on **Jan 11, 2026** (Sunday night, personal email) — included a screenshot of "Political Campaign AI App Idea: Top 10 Pain Points." Andres replied next morning "Love this :-) I am on it this week! Excited to chat Friday!" On **Mar 30, 2026**, Andres circled back offering to build it at near-zero cost with dev credits and potentially assemble an MVP. Core premise: small campaigns lack access to data tools large campaigns use. Status: actively exploring MVP build.
 - **AEDO Letter** — Complete. Jennifer: "This is perfect. Thank you so so much!"
-- **[[Buda HIVE]]** — Jennifer oversees the EDC that funds the program. She and [[Jacquie Martinez]] are the two main contacts.
+- **[[wiki/concepts/buda-hive|Buda HIVE]]** — Jennifer oversees the EDC that funds the program. She and [[wiki/people/jacquie-martinez|Jacquie Martinez]] are the two main contacts.
 
 ## Email History
 

@@ -20,6 +20,6 @@ AEDO validates professional excellence, organizational structure, and effectiven
 
 ## Relevance to Moil
 
-[[Buda EDC]] ([[Jennifer Storm]]) is pursuing AEDO accreditation. Andres wrote a community support letter on Moil letterhead — submitted April 10, 2026, approved by Jennifer. Deadline was April 15.
+[[wiki/orgs/buda-edc|Buda EDC]] ([[wiki/people/jennifer-storm|Jennifer Storm]]) is pursuing AEDO accreditation. Andres wrote a community support letter on Moil letterhead — submitted April 10, 2026, approved by Jennifer. Deadline was April 15.
 
-If Buda EDC earns AEDO, it elevates the credibility of every program they run — including the [[Buda HIVE]], which means the Moil partnership gains institutional weight.
+If Buda EDC earns AEDO, it elevates the credibility of every program they run — including the [[wiki/concepts/buda-hive|Buda HIVE]], which means the Moil partnership gains institutional weight.

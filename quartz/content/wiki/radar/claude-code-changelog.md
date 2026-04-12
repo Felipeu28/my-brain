@@ -72,7 +72,7 @@ Not a Claude Code feature — but the viral post that created the "Claudeopedia"
 
 ## Pending / watch list
 
-- **Claude Code security audit** — Andres's todo per [[MEMORY]]. What does Claude Code actually have access to on the Mac Mini M4?
+- **Claude Code security audit** — Andres's todo per [[Memory]]. What does Claude Code actually have access to on the Mac Mini M4?
 - **Managed Agents pricing** — still unclear what the cost structure looks like at scale.
 - **Skills marketplace maturity** — claude-ads (190 checks), Google Ads audit, SEO audits all shipped privately. When does Anthropic formalize a skills marketplace?
 - **Codex + Claude Code convergence** — if the plugin deepens, is the "Claude vs OpenAI" binary even meaningful for coding agents?
