@@ -25,23 +25,38 @@ Jill Degenhardt has a project Andres is building — **Pure Serenity**. There ar
 
 ## Active Projects
 
-| Project | Location | Status |
-|---------|----------|--------|
-| Pure Serenity | _[to confirm — likely Moil-Landingpages]_ | Active build |
+| Project | Repo | Status |
+|---------|------|--------|
+| Pure Serenity website | [Moil-Landingpages/PureSerenity](https://github.com/Moil-Landingpages/PureSerenity) | Active — last push Apr 10, 2026 |
+
+### What the Project Is
+
+A **massage therapy business website** for Jill Degenhardt, LMT — serving Buda, Kyle, and South Austin.
+
+**Stack:** Next.js (App Router), TypeScript, Tailwind CSS, deployed on Vercel
+
+**From the page metadata:**
+> "Pure Serenity Massage Therapy in Buda, TX. Personalized massage by Jill Degenhardt, LMT — 12+ years serving Buda, Kyle & South Austin."
+
+**Key features:**
+- Services catalog with online booking (external booking URL)
+- Packages and pricing
+- Testimonials section
+- Trust badges: 12+ years in business (since 2014), Texas Licensed LMT, doTERRA AromaTouch Certified, Prenatal Specialist, 34+ 5-star reviews
 
 ---
 
-## Business: Pure Serenity
+## Business: Pure Serenity Massage Therapy
 
 | Field | Detail |
 |-------|--------|
-| Business name | Pure Serenity |
-| Type | _[wellness / spa / beauty — to confirm]_ |
-| Location | _[Buda/Austin TX area — to confirm]_ |
-| Owner | Jill Degenhardt |
-| Web presence | _[to research]_ |
-
-_Details pending — emails, messages, and web research in progress._
+| Business name | Pure Serenity Massage Therapy |
+| Type | Licensed massage therapy |
+| Location | Buda, TX (serves Buda, Kyle, South Austin) |
+| Owner | Jill Degenhardt, LMT |
+| In business since | 2014 (12+ years) |
+| Certifications | Texas Licensed Massage Therapist, doTERRA AromaTouch Certified, Prenatal Specialist |
+| Reviews | 34+ consistently 5-star |
 
 ---
 

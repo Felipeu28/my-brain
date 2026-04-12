@@ -25,12 +25,27 @@ Megan Miller is a Moil customer and an entrepreneur Andres coached through the *
 
 ## Active Projects
 
-| Project | Location | Status |
-|---------|----------|--------|
-| Fit Logic | [Moil-Landingpages GitHub org](https://github.com/Moil-Landingpages) | Active — complex build |
+| Project | Repo | Status |
+|---------|------|--------|
+| FitLogic Sales Engine | [Moil-Landingpages/fit-logic](https://github.com/Moil-Landingpages/fit-logic) | Active — last push Apr 7, 2026 |
 | Moil hiring | moilapp.com | Active client |
 
-> Andres notes: "great project but complex" — this is a priority build inside Moil-Landingpages.
+### What FitLogic Is
+
+A **healthcare CRM and marketing automation platform** — a full SPA with contacts, pipeline kanban, email campaigns, inquiry management, intake forms, analytics, and referral tracking. This is a complex, multi-feature internal tool.
+
+**Stack:** React 18, TypeScript, Vite, Tailwind CSS, shadcn-ui (Radix UI), Supabase (PostgreSQL + Auth + Edge Functions), TanStack Query v5, react-hook-form + Zod, Recharts, React Router v6
+
+**Key features:**
+- Contact management and pipeline kanban board
+- Email campaign builder
+- Patient inquiry management and intake forms
+- Analytics dashboard (Recharts)
+- Referral tracking
+- Auth: protected routes via Supabase, no self-registration (admin creates users)
+- Deployed via Lovable Cloud (lovable.dev) — auto-deploys on push to `main`
+
+> Andres notes: "great project but complex" — the complexity is real; it's a full healthcare CRM, not a simple site.
 
 ---
 

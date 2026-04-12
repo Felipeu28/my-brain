@@ -26,12 +26,23 @@ Travis Sutherland is the owner of **Meridian** — a community-oriented business
 
 ## Active Projects
 
-| Project | Location | Status |
-|---------|----------|--------|
-| Meridian website / platform | [Moil-Landingpages GitHub org](https://github.com/Moil-Landingpages) | Active build |
+| Project | Repo | Status |
+|---------|------|--------|
+| Meridian Buda platform | [Moil-Landingpages/meridian-buda](https://github.com/Moil-Landingpages/meridian-buda) | Active — last push Apr 11, 2026 |
 | Moil 360 subscription | moilapp.com | Active client |
 
-The Meridian project lives inside the **Moil-Landingpages** GitHub org. It is a custom build, separate from the Moil core product.
+### What Meridian Buda Is
+
+A **full-stack ticketing & event platform** for a luxury nightlife/community venue. This is a substantial custom build — not a simple landing page.
+
+**Stack:** Next.js 14.2, React 18, TypeScript, Tailwind CSS, Supabase (Postgres + RLS), Stripe (checkout + webhooks), Resend (email), Google Gemini (AI artist discovery), Brave Search API
+
+**Features:**
+- Public: homepage, events calendar, Stripe ticketing checkout, multi-section menus, private event bookings
+- Admin dashboard: event management, bookings manager, menu CRUD, 6 email templates, analytics, user management
+- Automation: PDF tickets with QR codes, 7-day/24-hour reminder emails via Vercel cron jobs
+- AI: artist info fetching with fallback chain (Gemini + Brave Search)
+- Light/Dark theme with localStorage persistence
 
 ---
 

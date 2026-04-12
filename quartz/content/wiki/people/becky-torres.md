@@ -27,23 +27,34 @@ She is also connected to John Costilla in the Buda community network.
 
 ## Active Projects
 
-| Project | Location | Status |
-|---------|----------|--------|
-| Siren Beauty website/platform | [Moil-Landingpages GitHub org](https://github.com/Moil-Landingpages) | Active build |
+| Project | Repo | Status |
+|---------|------|--------|
+| Siren Beauty website | [Moil-Landingpages/Siren-Beauty](https://github.com/Moil-Landingpages/Siren-Beauty) | Active — last push Apr 3, 2026 |
+
+### What the Project Is
+
+A **headless CMS-powered aesthetic boutique website** with full service catalog, team profiles, testimonials, memberships, and FAQ — connected to Sanity for content management.
+
+**Stack:** Next.js 16, React 19, TypeScript 5, Tailwind CSS 4, **Sanity 5** (headless CMS, project `1bj0sdex`), deployed on Vercel, Node 22
+
+**Content managed via Sanity:** services, service categories, team members, testimonials, memberships, FAQs, site settings, homepage
+
+**Features:**
+- Statically generated service pages with `[slug]` dynamic routes
+- Custom cursor, scroll reveal animations, floating CTA
+- Embedded Sanity Studio at `/studio`
+- Schema.org markup (MedicalBusiness, FAQPage, BreadcrumbList)
 
 ---
 
-## Business: Siren Beauty
+## Business: Siren Beauty + Wellness
 
 | Field | Detail |
 |-------|--------|
-| Business name | Siren Beauty |
-| Type | Aesthetic boutique |
+| Business name | Siren Beauty + Wellness |
+| Type | Aesthetic boutique (beauty + wellness services) |
 | Location | Buda, Texas |
 | Owner | Becky Torres |
-| Web presence | _[to research]_ |
-
-_Additional details pending web research._
 
 ---
 
