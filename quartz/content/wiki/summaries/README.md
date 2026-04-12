@@ -2,6 +2,8 @@
 name: summaries index
 description: One structured summary per raw source file — the Processing layer of the Brain
 type: index
+tags:
+  - graph/leaf
 ---
 
 # Summaries — Index

@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # AI Audits for Small Businesses (Service Model)
 
 **Type:** concept (business model)

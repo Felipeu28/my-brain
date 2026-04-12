@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Azure AI Activation Advisory — Paula Florez-Estrada Valverde
 
 **Type:** meeting

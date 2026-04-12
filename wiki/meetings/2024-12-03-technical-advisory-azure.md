@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/leaf
+---
 # Technical Advisory — Azure/Microsoft Founders Hub
 
 **Type:** meeting

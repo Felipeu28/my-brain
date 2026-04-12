@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/leaf
+---
 # Monday Collaboration Call — Apr 6, 2026
 
 **Type:** meeting

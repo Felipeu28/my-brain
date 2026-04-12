@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Buda EDC
 
 **Type:** concept

@@ -2,6 +2,8 @@
 name: x-bookmarks Apr 11 (full/copy) summary
 description: Summary of the fuller 129-item X bookmarks digest with viral stats and takeaways
 type: summary
+tags:
+  - graph/leaf
 ---
 
 # Summary — X Bookmarks Digest (Apr 11, 2026 — 129 items, "copy" = fuller version)

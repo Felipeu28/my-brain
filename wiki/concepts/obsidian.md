@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Obsidian (Knowledge Management Tool)
 
 **Type:** concept (tool)

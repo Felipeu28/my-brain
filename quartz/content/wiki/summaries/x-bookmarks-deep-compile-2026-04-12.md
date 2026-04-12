@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/leaf
+---
 # X Bookmarks Deep Compile — April 12, 2026
 
 **Type:** summary

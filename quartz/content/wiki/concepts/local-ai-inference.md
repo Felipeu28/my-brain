@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Local AI Inference (Mac Silicon)
 
 **Type:** concept (infrastructure)

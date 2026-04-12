@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Seedance 2.0
 
 **Type:** concept (AI tool)

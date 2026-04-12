@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/leaf
+---
 # Azure Resources — Microsoft Support Call
 
 **Type:** meeting

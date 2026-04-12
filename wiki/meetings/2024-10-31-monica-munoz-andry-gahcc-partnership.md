@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Monica Munoz Andry — GAHCC Partnership Meeting
 
 **Type:** meeting

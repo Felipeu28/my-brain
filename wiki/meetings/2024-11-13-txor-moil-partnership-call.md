@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # TXOR — Moil Partnership Call
 
 **Type:** meeting

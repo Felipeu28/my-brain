@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Daniela Castillo Cañavera
 
 **Type:** person

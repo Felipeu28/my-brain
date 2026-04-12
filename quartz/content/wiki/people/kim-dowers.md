@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Kim Dowers
 
 **Type:** person

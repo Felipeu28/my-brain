@@ -2,6 +2,8 @@
 name: buda-hive-edc Apr 11 summary
 description: Full intelligence file on Buda EDC / Buda HIVE relationships, contracts, CampaignOS, and AEDO letter
 type: summary
+tags:
+  - graph/leaf
 ---
 
 # Summary — Buda HIVE & Buda EDC Full Intelligence (Apr 11, 2026)

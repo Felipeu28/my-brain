@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Agent Memory Files (SOUL.md / MEMORY.md / DREAMS.md Pattern)
 
 **Type:** concept (AI architecture pattern)

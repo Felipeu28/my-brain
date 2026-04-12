@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Enrique Castro
 
 **Type:** person

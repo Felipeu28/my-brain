@@ -2,6 +2,8 @@
 name: sam-altman
 description: CEO of OpenAI — shapes consumer AI expectations and enterprise GPT roadmap
 type: mind
+tags:
+  - graph/spoke
 ---
 
 # Sam Altman

@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/leaf
+---
 # Business Plan Creator Design Session
 
 **Type:** meeting

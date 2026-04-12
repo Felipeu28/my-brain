@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/leaf
+---
 # David Levesque / Savari — AI Solar Tools Session
 
 **Type:** meeting

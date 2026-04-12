@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Moneta Ventures Investor Panel — Capital Factory Event
 
 **Type:** meeting

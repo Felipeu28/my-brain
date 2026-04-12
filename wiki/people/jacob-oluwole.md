@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/hub
+---
 # Jacob Oluwole
 
 **Type:** person

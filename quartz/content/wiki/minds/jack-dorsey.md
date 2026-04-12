@@ -2,6 +2,8 @@
 name: jack-dorsey
 description: Founder Twitter/Square, now Block — published "From Hierarchy to Intelligence" essay (5.6M views), endorsed Goose open source agent
 type: mind
+tags:
+  - graph/spoke
 ---
 
 # Jack Dorsey

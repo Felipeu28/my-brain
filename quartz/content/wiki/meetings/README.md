@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/leaf
+---
 # wiki/meetings — README
 
 **Type:** folder index

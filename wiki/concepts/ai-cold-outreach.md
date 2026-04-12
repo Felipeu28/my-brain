@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # AI-Powered Cold Outreach
 
 **Type:** concept

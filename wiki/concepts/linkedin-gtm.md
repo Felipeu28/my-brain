@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # LinkedIn GTM Strategy
 
 **Type:** concept (marketing framework)

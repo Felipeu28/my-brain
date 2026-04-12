@@ -2,6 +2,8 @@
 name: email-history-2026-04-12 summary
 description: Summary of 10-day email history (Apr 3-12) — cold outreach blitz, key contacts, Anita Lansing customer
 type: summary
+tags:
+  - graph/leaf
 ---
 
 # Summary — Email History (Oct 2025 to Apr 12, 2026)

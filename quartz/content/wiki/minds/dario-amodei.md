@@ -2,6 +2,8 @@
 name: dario-amodei
 description: CEO of Anthropic — Claude's creator, safety-first AI lab
 type: mind
+tags:
+  - graph/spoke
 ---
 
 # Dario Amodei

@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/leaf
+---
 # Monica Pena / EGBI — Echo Squad & Podcast Planning
 
 **Type:** meeting

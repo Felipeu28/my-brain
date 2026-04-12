@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Meeting: Jacob & Andrés — Pivot to AI Tools Platform + AI Interview Tool
 
 **Type:** meeting

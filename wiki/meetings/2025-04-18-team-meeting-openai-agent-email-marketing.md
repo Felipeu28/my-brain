@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/leaf
+---
 # Meeting: Team Meeting — OpenAI Agent Launch + Email Marketing Setup
 
 **Type:** meeting

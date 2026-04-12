@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # David Levesque
 
 **Type:** person

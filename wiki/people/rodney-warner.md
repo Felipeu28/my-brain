@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Rodney Warner
 
 **Type:** person

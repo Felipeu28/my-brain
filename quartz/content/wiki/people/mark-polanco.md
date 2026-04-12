@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Mark Polanco
 
 **Type:** person

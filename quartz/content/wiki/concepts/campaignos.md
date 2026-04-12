@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # CampaignOS
 
 **Type:** concept

@@ -127,6 +127,33 @@ The wiki compounds as more sources are ingested. Article 1 creates 10 pages. Art
 
 ---
 
+## Graph tier assignment (REQUIRED for every new page)
+
+Every wiki page MUST include YAML frontmatter with a `tags:` field containing exactly one graph tier tag. This controls visibility in the site's global graph.
+
+```yaml
+---
+tags:
+  - graph/hub    # OR graph/spoke OR graph/leaf
+---
+```
+
+| Tier | Tag | When to use | Graph behavior |
+|------|-----|------------|----------------|
+| Hub | `graph/hub` | Core Moil strategy pages, key people (5+ connections) | Large node, always visible |
+| Spoke | `graph/spoke` | Most people, concepts, orgs, important meetings | Normal node, visible |
+| Leaf | `graph/leaf` | Meeting transcripts, summaries, batch pages, routine contacts | Hidden from global graph, still searchable |
+
+**Default assignments:**
+- `meetings/*` → `graph/leaf` (unless it's a milestone: pivot, investor pitch, key partnership)
+- `summaries/*` → `graph/leaf`
+- `people/*` → `graph/spoke` (upgrade to hub if 5+ inbound links)
+- `concepts/*` → `graph/spoke`
+- `moil/*` → `graph/spoke` (upgrade to hub if strategic)
+- `minds/*` → `graph/spoke`
+- `orgs/*` → `graph/spoke`
+- `README.md` / `index.md` files → `graph/leaf`
+
 ## Do NOT do
 
 - Do not delete or modify files in `raw/`
@@ -134,3 +161,4 @@ The wiki compounds as more sources are ingested. Article 1 creates 10 pages. Art
 - Do not over-abstract — stay concrete and specific
 - Do not summarize in one big blob — break into linked pages
 - Do not use RAG/embeddings — navigate using the index and structured links
+- Do not create pages without YAML frontmatter tags (see tier assignment above)

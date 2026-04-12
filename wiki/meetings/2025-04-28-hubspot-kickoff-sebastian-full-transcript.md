@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/leaf
+---
 # HubSpot Marketing Kickoff — Full Transcript Intelligence
 
 **Type:** meeting

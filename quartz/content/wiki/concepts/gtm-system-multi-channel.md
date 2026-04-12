@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Multi-Channel GTM System (MichLieben Pattern)
 
 **Type:** concept (business framework)

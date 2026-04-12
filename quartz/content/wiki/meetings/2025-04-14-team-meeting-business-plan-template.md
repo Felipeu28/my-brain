@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/leaf
+---
 # Meeting: Team Meeting — Business Plan Template Design (2+ hour session)
 
 **Type:** meeting

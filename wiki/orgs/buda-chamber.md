@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Greater Buda Chamber of Commerce
 
 **Type:** concept

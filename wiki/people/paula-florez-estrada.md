@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Paula Florez-Estrada Valverde
 
 **Type:** person

@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Zane Gibson
 
 **Type:** person

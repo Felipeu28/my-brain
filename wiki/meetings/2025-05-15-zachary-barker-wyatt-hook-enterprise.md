@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Zachary Barker & Wyatt Hook — Enterprise Customer Call
 
 **Type:** meeting

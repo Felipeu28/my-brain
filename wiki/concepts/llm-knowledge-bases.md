@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # LLM Knowledge Bases (Karpathy Pattern)
 
 **Type:** concept

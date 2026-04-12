@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # AEDO — Accredited Economic Development Organization
 
 **Type:** concept

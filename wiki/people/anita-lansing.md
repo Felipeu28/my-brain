@@ -2,6 +2,8 @@
 name: anita-lansing
 description: Active Moil customer — Organically Whole Health & Wellness, business plan + LiftFund referral
 type: person
+tags:
+  - graph/spoke
 ---
 
 # Anita Lansing

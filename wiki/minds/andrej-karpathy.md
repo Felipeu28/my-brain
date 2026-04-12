@@ -2,6 +2,8 @@
 name: andrej-karpathy
 description: Founding OpenAI member, ex-Tesla AI director — originator of the LLM Knowledge Bases pattern the Brain implements
 type: mind
+tags:
+  - graph/spoke
 ---
 
 # Andrej Karpathy

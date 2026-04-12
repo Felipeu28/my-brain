@@ -2,6 +2,8 @@
 name: farza-mohideen
 description: Creator — @FarzaTV — built "Farzapedia" (LLM wiki from 2,500 diary entries) and "Clicky" AI teacher tool; 2.7M+ view viral posts
 type: mind
+tags:
+  - graph/spoke
 ---
 
 # Farza Mohideen

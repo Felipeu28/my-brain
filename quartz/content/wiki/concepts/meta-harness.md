@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Meta Harness — Self-Improving AI Agents
 
 **Type:** concept (AI research / framework)

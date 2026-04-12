@@ -95,6 +95,13 @@ export default ((opts?: Partial<GraphOptions>) => {
             </svg>
           </button>
         </div>
+        <div class="graph-legend">
+          <div class="graph-legend-item"><span class="graph-legend-dot" style="background:#0ea5e9"></span>Moil</div>
+          <div class="graph-legend-item"><span class="graph-legend-dot" style="background:#10b981"></span>People</div>
+          <div class="graph-legend-item"><span class="graph-legend-dot" style="background:#f97316"></span>Concepts</div>
+          <div class="graph-legend-item"><span class="graph-legend-dot" style="background:#a855f7"></span>Minds</div>
+          <div class="graph-legend-item"><span class="graph-legend-dot" style="background:#ef4444"></span>Orgs</div>
+        </div>
         <div class="global-graph-outer">
           <div class="global-graph-container" data-cfg={JSON.stringify(globalGraph)}></div>
         </div>

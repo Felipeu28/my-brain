@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Abel Esquivel Luna
 
 **Type:** person

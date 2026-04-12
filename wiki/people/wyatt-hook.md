@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Wyatt Hook
 
 **Type:** person

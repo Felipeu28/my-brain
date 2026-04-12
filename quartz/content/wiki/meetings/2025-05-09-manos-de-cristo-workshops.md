@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/leaf
+---
 # Meeting: Manos De Cristo — June Workshop Series Planning
 
 **Type:** meeting

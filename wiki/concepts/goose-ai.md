@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Goose (Open Source AI Agent)
 
 **Type:** concept (AI tool — open source)

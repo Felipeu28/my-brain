@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/leaf
+---
 # Meeting: Jacob & Andrés — Business Plan Refinement + HubSpot + Google→Microsoft Migration
 
 **Type:** meeting

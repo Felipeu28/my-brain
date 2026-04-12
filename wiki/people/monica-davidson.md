@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Monica Davidson
 
 **Type:** person

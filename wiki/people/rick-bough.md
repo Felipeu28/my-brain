@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Rick Bough
 
 **Type:** person

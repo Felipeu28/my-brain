@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Julian David Sanchez Real
 
 **Type:** person

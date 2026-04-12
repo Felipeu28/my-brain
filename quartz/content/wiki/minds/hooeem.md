@@ -2,6 +2,8 @@
 name: hooeem
 description: Creator — "@hooeem" — publishes full courses on building with Claude, LLM knowledge bases, and agent systems; non-developer education
 type: mind
+tags:
+  - graph/spoke
 ---
 
 # hooeem

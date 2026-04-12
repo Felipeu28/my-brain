@@ -2,6 +2,8 @@
 name: corey-ganim
 description: Creator — "@coreyganim" — OpenClaw/Claude power user, claimed 21M views/month via AI content, teaches AI monetization for SMBs
 type: mind
+tags:
+  - graph/spoke
 ---
 
 # Corey Ganim

@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Vibe Coding
 
 **Type:** concept (programming paradigm)

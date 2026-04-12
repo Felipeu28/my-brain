@@ -2,6 +2,8 @@
 name: coffeespace concept
 description: Talent/startup matching platform — cold outreach offering partnership with Moil
 type: concept
+tags:
+  - graph/spoke
 ---
 
 # CoffeeSpace

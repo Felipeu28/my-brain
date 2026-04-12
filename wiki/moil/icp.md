@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/hub
+---
 # Moil — Ideal Customer Profile
 
 **Type:** moil-topic

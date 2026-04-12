@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Joshua Edmond
 
 **Type:** person

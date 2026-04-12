@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Casey Earley
 
 **Type:** person

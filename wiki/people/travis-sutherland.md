@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Travis Sutherland
 
 **Type:** person

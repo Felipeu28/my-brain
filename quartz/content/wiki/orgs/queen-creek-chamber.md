@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Queen Creek Chamber of Commerce
 
 **Type:** concept

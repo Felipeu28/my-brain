@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Inna Benyukhis
 
 **Type:** person

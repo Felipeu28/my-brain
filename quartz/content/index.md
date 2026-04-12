@@ -1,124 +1,57 @@
-# Moil Brain — Master Index
+---
+title: Andres Brain
+cssclasses:
+  - brain-home
+tags:
+  - graph/hub
+---
 
-**Last compiled:** 2026-04-12 (Run 3 — 28 transcript backfill) · **Total wiki pages:** ~187 · **Raw sources ingested:** 78/78
+# Andres Brain
 
-> **New here?** Read [[wiki/README]] for the wiki design principles, then follow the links below.
+> The AI co-founder's second brain. 187 pages of structured knowledge, compounding daily.
 
 ---
 
-## 📍 Start here
+## Strategy
 
-| If you need... | Open |
+| | |
 |---|---|
-| Open actions & deadlines | [[MEMORY]] |
-| Ingestion history | [[log]] |
-| Agent instructions | [[CLAUDE]] |
-| Wiki design rules | [[wiki/README]] |
+| [[wiki/moil/positioning\|Positioning]] | The one-liner, messaging hierarchy, what we don't say |
+| [[wiki/moil/gtm\|Go-to-Market]] | Channels, experiments, sales process, active deals |
+| [[wiki/moil/icp\|Ideal Customer]] | Firmographics, behavioral signals, Apollo filters |
+| [[wiki/moil/customers\|Customers]] | Named accounts, testimonials, social proof |
+| [[wiki/moil/product-roadmap\|Product Roadmap]] | AI stack, feature status, enterprise architecture |
+| [[wiki/moil/metrics\|Metrics]] | Revenue, unit economics, hiring performance |
 
----
+## Key People
 
-## 📂 Folder indexes (read these, not raw file lists)
+| | |
+|---|---|
+| [[wiki/people/jennifer-storm\|Jennifer Storm]] | Buda EDC CEO — HIVE contract, CampaignOS |
+| [[wiki/people/jacob-oluwole\|Jacob Oluwole]] | PM — product ops, customer onboarding |
+| [[wiki/people/adeleke-tolulope\|Adeleke Tolulope]] | Lead AI engineer — Claude Code workflow |
+| [[wiki/people/megan-miller\|Megan Miller]] | Top customer — product feedback, referrals |
+| [[wiki/people/travis-sutherland\|Travis Sutherland]] | Sun Show organizer + paying customer |
+| [[wiki/people/kim-dowers\|Kim Dowers]] | Queen Creek Chamber — out-of-state signal |
 
-| Folder | Count | What's in it |
+## Explore
+
+| Section | Pages | What's inside |
 |---|---|---|
-| [[wiki/moil/README\|moil/]] | 7 | Moil business — positioning, ICP, GTM, customers, competitors, metrics, product roadmap |
-| [[wiki/people/README\|people/]] | 36 | Personal network — family, friends, customers, collaborators, team |
-| [[wiki/minds/README\|minds/]] | 10 | Public AI thought leaders tracked from afar |
-| [[wiki/orgs/README\|orgs/]] | 4 | Customer, partner, and prospect organizations |
-| [[wiki/concepts/README\|concepts/]] | 32 | Frameworks, mental models, products, programs |
-| [[wiki/radar/README\|radar/]] | 1 | Append-only changelogs for fast-moving topics |
-| [[wiki/summaries/README\|summaries/]] | 16 | One structured summary per raw source |
-| [[wiki/meetings/README\|meetings/]] | 49 | Meeting records + async threads — decisions and action items |
+| [[wiki/moil/README\|Moil Business]] | 7 | Strategy, positioning, GTM, product |
+| [[wiki/people/README\|People]] | 36 | Your full network — team, customers, partners |
+| [[wiki/concepts/README\|Concepts]] | 29 | Frameworks, tools, mental models |
+| [[wiki/minds/README\|Minds]] | 10 | Thought leaders you're tracking |
+| [[wiki/orgs/README\|Organizations]] | 4 | Partner and prospect companies |
+| [[wiki/meetings/README\|Meetings]] | 49 | Decisions and action items from transcripts |
 
----
+## Latest
 
-## 🔥 Hottest pages (most-linked hubs — use as shortcuts)
+- [[outputs/synthesis-2026-04\|April 2026 Synthesis]] — what the Brain knows right now
+- [[outputs/briefing-2026-04-11\|Latest Briefing]] — calendar + inbox + priorities
 
-- [[wiki/moil/gtm]] — Go-to-market motion (27 inbound)
-- [[wiki/concepts/buda-hive]] — Buda HIVE program (19 inbound)
-- [[wiki/moil/positioning]] — Moil positioning (17 inbound)
-- [[wiki/concepts/llm-knowledge-bases]] — Karpathy's wiki pattern (14 inbound)
-- [[wiki/concepts/managed-agents]] — Claude Managed Agents (13 inbound)
-- [[wiki/concepts/claude-code]] — Claude Code runtime (12 inbound)
-- [[wiki/summaries/buda-hive-edc-2026-04-11]] — Full Buda HIVE intelligence (11 inbound)
-- [[wiki/concepts/content-engine]] — AI content engine framework (new)
-- [[wiki/concepts/ai-org-design]] — AI-native org design (new — ties to Moil positioning)
-- [[wiki/concepts/linkedin-gtm]] — LinkedIn strategy + algorithm (new — gap in current GTM)
-- [[wiki/summaries/x-bookmarks-deep-compile-2026-04-12]] — Deep compile summary (new)
-- [[wiki/moil/product-roadmap]] — Full Moil product status, AI stack, feature specs (new)
-- [[wiki/meetings/2025-03-28-jacob-andres-pivot-ai-tools]] — The pivot declaration meeting (new)
-- [[wiki/meetings/2025-04-07-moil-marketing-call-toolbox-vision]] — Toolbox vision + interview tool design (new)
-- [[wiki/people/jacob-oluwole]] — Moil PM profile (new)
-- [[wiki/people/adeleke-tolulope]] — Lead AI engineer profile (new)
+## How the Graph Works
 
----
+The graph shows **hub** and **spoke** nodes only. Hub nodes (large) are your strategic core — Moil positioning, GTM, key people. Spoke nodes (medium) are important contacts, concepts, and meetings. **Leaf nodes** (meeting transcripts, summaries, batch pages) are searchable but hidden from the graph to keep it readable.
 
-## 📤 Outputs
-
-- [[outputs/briefing-2026-04-11]] — Initial briefing
-- [[outputs/synthesis-2026-04]] — April 2026 synthesis
-
----
-
-## 🗂️ Empty folders (reserved)
-
-- `wiki/inbox/` — manual drop zone
-
----
-
-## How to navigate (the rules)
-
-1. **Read the folder README before the files.** Every folder has one. It's the 30-second orientation.
-2. **Never scan a whole folder.** Let the README route you.
-3. **Links are paths, not titles.** All wikilinks use `[[wiki/folder/slug|Display Label]]` form so grep works.
-4. **Two hops max** from this index to any answer. If you're clicking more, the structure needs a fix — log it in [[MEMORY]].
-
----
-
-## Stats
-
-| Category | Count | Notes |
-|---|---|---|
-| Moil business | 7 | product-roadmap, gtm, customers all updated with transcript intelligence |
-| People (network) | 30 | +8 from Run 2: rick-bough, paula-florez-estrada, abel-esquivel-luna, daniela-castillo-canavera, enrique-castro, dafne-gutierrez, david-levesque, zane-gibson |
-| Minds (thinkers) | 10 | from X bookmarks deep compile |
-| Orgs (customer/partner) | 4 | |
-| Concepts | 32 | |
-| Meetings | 39 | +2 from Teams full ingestion (Monday call + engineering sprint) |
-| Radar (changelogs) | 1 | Claude Code changelog |
-| Summaries | 16 | |
-| Folder READMEs | 9 | |
-| **Total wiki files** | **~172** | +2 meeting pages from Teams full ingestion |
-| Raw sources ingested | 50/50 | 25 Run 1 meeting notes + 25 Run 2 full transcripts |
-
-**OneDrive Full Transcripts ingestion completed 2026-04-12 (Run 2):**
-- 25 full transcript files processed (raw/meetings/transcript-* format)
-- 15 new `wiki/meetings/` pages created (9 high-value + 1 batch page for low-signal calls)
-- 8 new `wiki/people/` pages: [[wiki/people/rick-bough]], [[wiki/people/paula-florez-estrada]], [[wiki/people/abel-esquivel-luna]], [[wiki/people/daniela-castillo-canavera]], [[wiki/people/enrique-castro]], [[wiki/people/dafne-gutierrez]], [[wiki/people/david-levesque]], [[wiki/people/zane-gibson]]
-- Updated: [[wiki/moil/gtm]] (+11 new channels), [[wiki/moil/product-roadmap]] (Azure disaster, AI Foundry chatbot, BPC architecture), [[wiki/moil/customers]] (Zachary, TXOR, testimonials), [[wiki/people/monica-davidson]] (restaurant pilot + Crew Day)
-- Key intelligence: Azure account disaster (May 2025); AI Foundry chatbot as #1 AI priority; BPC 3-tier architecture; Zachary as enterprise anchor; GAHCC/Univision media pipeline; Hays CISD CTE channel (August 2025 PD); Hungry Hill Foundation lead
-- Note: `transcript-2024-10-03-team-meeting-october-2024.md` was a CONCATENATED file of Feb–May 2025 meetings (duplicates of Run 1 Gemini notes) — NOT an Oct 2024 meeting
-
-**OneDrive Meetings ingestion completed 2026-04-12 (Run 1):**
-- 25 meeting transcripts (Aug 2024–May 2025) — year of business context
-- 20 new `wiki/meetings/` pages created (one per unique meeting session)
-- 6 new `wiki/people/` pages: [[wiki/people/jacob-oluwole]], [[wiki/people/adeleke-tolulope]], [[wiki/people/abiodun-solomon]], [[wiki/people/taiwo-ola-balogun]], [[wiki/people/sebastian-oviedo]]
-- 1 new `wiki/moil/` page: [[wiki/moil/product-roadmap]]
-- Updated: [[wiki/moil/positioning]], [[wiki/moil/gtm]], [[MEMORY]]
-- Key intelligence: full Moil team roster confirmed; product pivot documented; Business Plan Creator + Interview Tool specs captured; Zachary Corp and Sakuri Corp as confirmed clients
-
-**Deep compile completed 2026-04-12:**
-- `raw/x-bookmarks-2026-04-11 copy.md` (129 items) — fully compiled into 16 concept pages + 5 minds pages
-- `raw/x-bookmarks-2026-04-11.md` (114 items) — cross-referenced; additional signal extracted
-
-**Teams FULL ingestion completed 2026-04-12 (replaces prior 27-message bot-only pull):**
-- `raw/teams-2026-04-12.md` (415 messages, Apr 5–12 2026) — 1:1 chats + group chats + channel messages
-- VERY HIGH signal: 4 deals closed, 12+ Claude Code sessions documented, full engineering sprint captured
-- 2 new `wiki/meetings/` pages: [[wiki/meetings/2026-04-06-monday-collaboration-call]], [[wiki/meetings/2026-04-09-12-engineering-sprint]]
-- 7 `wiki/people/` pages updated: adeleke-tolulope, jacob-oluwole, taiwo-ola-balogun, abiodun-solomon, casey-earley, travis-sutherland, inna-benyukhis
-- 3 `wiki/moil/` pages updated: product-roadmap (AI stack now Apr 2026), gtm (7 new deals), customers (+8 new customers)
-- [[wiki/summaries/teams-2026-04-12]] completely rewritten with full 415-message intelligence
-- [[MEMORY]] updated with 25+ new action items across deals, engineering, content, team, and security
-
-**Known raw/ debts (untouchable per [[CLAUDE]]):**
-- `raw/buda-hive-edс-2026-04-09.md` — Cyrillic "с" in filename
+Click any node → its local graph shows ALL connections, including leaves.

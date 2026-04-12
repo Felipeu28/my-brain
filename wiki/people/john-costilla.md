@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # John Costilla
 
 **Type:** person

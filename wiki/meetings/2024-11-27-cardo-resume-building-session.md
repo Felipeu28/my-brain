@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/leaf
+---
 # Cardo — Resume Building Session (Busqueda Empleo)
 
 **Type:** meeting

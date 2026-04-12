@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Evangeline Sandoval
 
 **Type:** person

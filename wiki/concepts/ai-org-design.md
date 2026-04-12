@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # AI-Native Org Design
 
 **Type:** concept (business framework)

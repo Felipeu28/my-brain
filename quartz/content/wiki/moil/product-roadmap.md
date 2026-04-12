@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/hub
+---
 # Moil — Product Roadmap & Feature Status
 
 **Type:** moil-topic

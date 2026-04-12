@@ -2,6 +2,8 @@
 name: nick-spisak
 description: Creator/educator — "The non-developer's guide to Claude" — builds second brain and agent deployment guides for non-technical audiences
 type: mind
+tags:
+  - graph/spoke
 ---
 
 # Nick Spisak

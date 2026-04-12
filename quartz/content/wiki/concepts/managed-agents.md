@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Claude Managed Agents
 
 **Type:** concept

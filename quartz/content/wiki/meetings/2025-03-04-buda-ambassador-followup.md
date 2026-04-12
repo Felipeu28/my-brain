@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/leaf
+---
 # Buda Chamber Ambassador Program Planning
 
 **Type:** meeting

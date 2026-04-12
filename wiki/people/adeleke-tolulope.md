@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/hub
+---
 # Adeleke Tolulope (Steve)
 
 **Type:** person

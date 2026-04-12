@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Jacquie Martinez
 
 **Type:** person

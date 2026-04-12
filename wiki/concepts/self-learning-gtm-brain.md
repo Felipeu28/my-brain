@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Self-Learning AI GTM Brain
 
 **Type:** concept (AI tool / framework)

@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Nvidia Inception Program — Team Onboarding
 
 **Type:** meeting

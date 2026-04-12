@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # AI Content Engine (Agent-Orchestrated Content Pipeline)
 
 **Type:** concept (framework / product pattern)

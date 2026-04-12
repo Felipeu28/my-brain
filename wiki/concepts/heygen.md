@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # HeyGen — AI Avatar & Video Platform
 
 **Type:** concept (AI tool / competitor-adjacent)

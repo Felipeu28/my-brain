@@ -2,6 +2,8 @@
 name: fantelo concept
 description: Andres's parallel brand/project — separate from Moil, domain fantelo.com
 type: concept
+tags:
+  - graph/spoke
 ---
 
 # Fantelo

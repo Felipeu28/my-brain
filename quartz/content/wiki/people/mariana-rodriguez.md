@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Mariana Rodriguez
 
 **Type:** person

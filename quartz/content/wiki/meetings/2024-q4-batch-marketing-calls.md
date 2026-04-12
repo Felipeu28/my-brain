@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/leaf
+---
 # Q4 2024 Marketing Calls — Batch Summary
 
 **Type:** meeting (batch)

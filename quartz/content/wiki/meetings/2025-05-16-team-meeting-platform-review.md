@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/leaf
+---
 # Meeting: Team Meeting — Platform Review, AI Models, Social Automation
 
 **Type:** meeting

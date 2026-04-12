@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/leaf
+---
 # Julian Sanchez — Video & Podcast Planning
 
 **Type:** meeting

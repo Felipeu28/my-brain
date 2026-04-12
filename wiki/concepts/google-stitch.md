@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Google Stitch (Design-to-Code Tool)
 
 **Type:** concept (AI tool)

@@ -2,6 +2,8 @@
 name: email-history-2months summary
 description: 2-month email backfill (Feb 12 – Apr 12, 2026) — 439 received + 1100 sent, 768 unique contacts
 type: summary
+tags:
+  - graph/leaf
 ---
 
 # Summary — Email History, 2 Months (Feb 12 – Apr 12, 2026)

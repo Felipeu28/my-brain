@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Smart Hiring
 
 **Type:** concept

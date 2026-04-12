@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/hub
+---
 # Moil — Metrics (Single Source of Truth)
 
 **Type:** moil-topic

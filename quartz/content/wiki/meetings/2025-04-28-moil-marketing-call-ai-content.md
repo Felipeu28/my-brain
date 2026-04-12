@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/leaf
+---
 # Meeting: Moil Marketing Call — AI Image Generation + Content Strategy
 
 **Type:** meeting

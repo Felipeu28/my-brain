@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/leaf
+---
 # Meeting: Team Meeting — Sign-up Redesign + Business Plan Creator MVP
 
 **Type:** meeting

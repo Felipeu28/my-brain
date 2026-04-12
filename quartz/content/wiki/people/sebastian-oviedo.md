@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Sebastian Oviedo
 
 **Type:** person

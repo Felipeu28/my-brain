@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Rosemary Gamez
 
 **Type:** person

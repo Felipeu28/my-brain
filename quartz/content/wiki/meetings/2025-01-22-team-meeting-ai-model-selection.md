@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/leaf
+---
 # Meeting: Team Meeting — AI Model Selection & Workforce Capital Partnership
 
 **Type:** meeting

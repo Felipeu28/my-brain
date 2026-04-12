@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/leaf
+---
 # Meeting: Team Meeting — Prompt Engineering Marathon + Job Posting Strategy
 
 **Type:** meeting

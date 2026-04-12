@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Home Service Website CRO (4.6% Conversion Framework)
 
 **Type:** concept (marketing framework)

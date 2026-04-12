@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # AI Video Tools (2026 Landscape)
 
 **Type:** concept

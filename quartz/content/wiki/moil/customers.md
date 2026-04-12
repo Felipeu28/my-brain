@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/hub
+---
 # Moil — Customers & Social Proof
 
 **Type:** moil-topic

@@ -138,7 +138,14 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       }
     }
   } else {
-    validLinks.forEach((id) => neighbourhood.add(id))
+    // Global graph: filter out leaf-tier nodes for cleaner visualization
+    validLinks.forEach((id) => {
+      const nodeData = data.get(id)
+      const nodeTags = nodeData?.tags ?? []
+      if (!nodeTags.includes("graph/leaf")) {
+        neighbourhood.add(id)
+      }
+    })
     if (showTags) tags.forEach((tag) => neighbourhood.add(tag))
   }
 
@@ -236,7 +243,12 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     const numLinks = graphData.links.filter(
       (l) => l.source.id === d.id || l.target.id === d.id,
     ).length
-    return 2 + Math.sqrt(numLinks)
+    // Scale node size by tier: hub 3x, spoke 1.5x, leaf 1x
+    const tags = d.tags ?? []
+    const tierMultiplier = tags.includes("graph/hub") ? 3
+      : tags.includes("graph/spoke") ? 1.5
+      : 1
+    return (2 + Math.sqrt(numLinks)) * tierMultiplier
   }
 
   let hoveredNodeId: string | null = null

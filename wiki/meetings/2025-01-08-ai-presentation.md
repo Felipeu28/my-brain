@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/leaf
+---
 # Meeting: Generative AI Presentation (Internal/External)
 
 **Type:** meeting

@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/leaf
+---
 # Meeting: HubSpot Marketing Kickoff — Sebastian Oviedo Onboarding
 
 **Type:** meeting

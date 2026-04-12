@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/leaf
+---
 # Jacob Call — Social Media Automation & Job Post Images
 
 **Type:** meeting

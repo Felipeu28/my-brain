@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/hub
+---
 # Buda HIVE
 
 **Type:** concept

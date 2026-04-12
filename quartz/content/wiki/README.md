@@ -2,6 +2,8 @@
 name: wiki root
 description: Landing page for the Moil Brain wiki — semantic memory layer
 type: index
+tags:
+  - graph/leaf
 ---
 
 # Moil Brain — Wiki

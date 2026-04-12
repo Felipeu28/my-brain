@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Dafne Gutierrez
 
 **Type:** person

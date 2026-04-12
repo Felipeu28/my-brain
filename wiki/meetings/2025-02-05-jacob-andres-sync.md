@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/leaf
+---
 # Meeting: Jacob & Andrés — 1:1 Sync (Feb 5)
 
 **Type:** meeting

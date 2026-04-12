@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Content360
 
 **Type:** concept

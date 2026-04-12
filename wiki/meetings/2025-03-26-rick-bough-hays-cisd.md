@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/leaf
+---
 # Rick Bough — Hays CISD CTE Presentation Opportunity
 
 **Type:** meeting

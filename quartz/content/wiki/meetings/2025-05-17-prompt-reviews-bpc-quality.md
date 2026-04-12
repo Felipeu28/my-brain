@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/leaf
+---
 # Prompt Reviews — Business Plan Creator Quality
 
 **Type:** meeting

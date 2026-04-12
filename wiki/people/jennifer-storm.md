@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/hub
+---
 # Jennifer Storm
 
 **Type:** person

@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/leaf
+---
 # Moil Team — Daily Attendance & Operating Rhythm (Teams)
 
 **Type:** meeting (recurring async protocol)

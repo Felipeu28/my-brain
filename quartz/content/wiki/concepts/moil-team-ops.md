@@ -1,3 +1,7 @@
+---
+tags:
+  - graph/spoke
+---
 # Moil Team Operating System
 
 **Type:** concept
