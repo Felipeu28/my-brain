@@ -1,4 +1,5 @@
 ---
+title: "Orgs"
 name: orgs index
 description: Index of customer, partner, and ecosystem organizations
 type: index

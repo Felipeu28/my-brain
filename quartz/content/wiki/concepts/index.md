@@ -1,3 +1,7 @@
+---
+title: "Concepts"
+---
+
 # Concepts — Knowledge Hub
 
 Frameworks, mental models, and domain knowledge.

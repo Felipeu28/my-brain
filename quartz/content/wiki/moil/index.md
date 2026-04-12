@@ -1,3 +1,7 @@
+---
+title: "Moil"
+---
+
 # Moil — Business Hub
 
 AI-powered hiring platform connecting employers with blue-collar/offline workers.

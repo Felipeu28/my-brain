@@ -1,3 +1,7 @@
+---
+title: "Community"
+---
+
 # Community — Local & Professional Network
 
 ---

@@ -1,4 +1,5 @@
 ---
+title: "Radar"
 name: radar index
 description: Running changelogs for things Andres wants to track over time
 type: index

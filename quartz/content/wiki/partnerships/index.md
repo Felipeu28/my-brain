@@ -1,3 +1,7 @@
+---
+title: "Partnerships"
+---
+
 # Partnerships — Strategic Relationships
 
 ---

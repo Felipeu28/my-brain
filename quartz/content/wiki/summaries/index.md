@@ -1,3 +1,7 @@
+---
+title: "Summaries"
+---
+
 # Summaries — Source Digests
 
 One summary per ingested raw source.
