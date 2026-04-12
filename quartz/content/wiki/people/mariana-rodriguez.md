@@ -11,7 +11,9 @@ tags: [person, moil, seed]
 
 ---
 
+**Nickname:** Brulli
 **Relationship:** Andres's wife. Business owner.
+**Sister:** Ana (Andres is building the [[people/urbanozuela|Urbanozuela project]] for her)
 **Contact name:** Saved as "Owner Mariana Rodriguez" in Andres's phone — the "Owner" prefix refers to her role as a business owner.
 
 ## Family

@@ -14,13 +14,14 @@ date: 2026-04-11
 ---
 
 **Status:** 🔴 ASAP — needs to be completed
-**Relationship:** Friend's project — reviewing and completing
+**Client:** Ana — sister of [[people/mariana-rodriguez|Mariana Rodriguez]] (Andres's wife, "Brulli")
+**Relationship:** Family — sister-in-law's project
 
 ---
 
 ## What It Is
 
-A project Andres is completing for a friend. Details not yet documented — pull from repo and conversations when context is available.
+A project Andres is building for Ana, his sister-in-law (Mariana's sister). Business type and deliverable details to be pulled from repo and conversations.
 
 **Repo:** [Moil-Landingpages/urbanozuela](https://github.com/Moil-Landingpages/urbanozuela) — last push Apr 9, 2026
 
@@ -28,12 +29,13 @@ A project Andres is completing for a friend. Details not yet documented — pull
 
 ## Open Items
 
-- [ ] **Complete project ASAP**
-- [ ] Document what the project is (business type, deliverable)
-- [ ] Confirm friend's name and contact
+- [ ] **Complete project ASAP** — family commitment
+- [ ] Document what Urbanozuela is (business type, deliverable, scope)
+- [ ] Pull any messages with Ana for project context
 
 ---
 
 ## Connections
 
-- [[andres/index]] — Personal project (friend, not a paying client)
+- [[people/mariana-rodriguez]] — Ana's sister (Andres's wife)
+- [[andres/index]] — Family project
