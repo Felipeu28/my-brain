@@ -4,6 +4,7 @@ description: Active Moil customer — Organically Whole Health & Wellness, busin
 type: person
 tags:
   - graph/spoke
+  - person/customer
 ---
 
 # Anita Lansing

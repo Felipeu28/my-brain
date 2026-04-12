@@ -1,6 +1,6 @@
 ---
 tags:
-  - graph/spoke
+  - graph/hub
 ---
 # Claude Managed Agents
 

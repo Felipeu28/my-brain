@@ -1,6 +1,7 @@
 ---
 tags:
   - graph/spoke
+  - person/partner
 ---
 # Rosemary Gamez
 

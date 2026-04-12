@@ -4,6 +4,7 @@ description: Johns Creek Chamber of Commerce contact — deferred AI-tools partn
 type: person
 tags:
   - graph/spoke
+  - person/partner
 ---
 
 # Shay Foley

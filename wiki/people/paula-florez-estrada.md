@@ -1,6 +1,7 @@
 ---
 tags:
   - graph/spoke
+  - person/vendor
 ---
 # Paula Florez-Estrada Valverde
 

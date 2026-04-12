@@ -1,6 +1,6 @@
 ---
 tags:
-  - graph/spoke
+  - graph/hub
 ---
 # LLM Knowledge Bases (Karpathy Pattern)
 

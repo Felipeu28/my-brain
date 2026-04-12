@@ -227,6 +227,16 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     return "#5c9cf5" // default blue
   }
 
+  // People sub-type colors — more specific than folder-level coloring
+  const PEOPLE_SUBTYPE_COLORS: Record<string, string> = {
+    "person/team":     "#3b82f6",  // blue — your team
+    "person/customer": "#10b981",  // emerald — paying customers
+    "person/partner":  "#f59e0b",  // amber — partners & allies
+    "person/personal": "#ec4899",  // pink — personal network
+    "person/vendor":   "#94a3b8",  // slate — vendors/support
+    "person/contact":  "#6b7280",  // gray — general contacts
+  }
+
   // calculate color
   const color = (d: NodeData) => {
     const isCurrent = d.id === slug
@@ -235,6 +245,13 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     } else if (d.id.startsWith("tags/")) {
       return computedStyleMap["--tertiary"]
     } else {
+      // Check for people sub-type tags first
+      const tags = d.tags ?? []
+      for (const tag of tags) {
+        if (tag.startsWith("person/")) {
+          return PEOPLE_SUBTYPE_COLORS[tag] ?? "#10b981"
+        }
+      }
       return getHubColor(d.id)
     }
   }

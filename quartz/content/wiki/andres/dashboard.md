@@ -85,3 +85,24 @@ tags:
 ---
 
 *This dashboard is static — update it weekly or let the CMO/briefing automations tell you what changed. For the live view, check the morning briefing.*
+
+## All Connections
+
+> These links make Andres the center of the graph. Every hub and spoke page connects here.
+
+**Concepts:** [[wiki/concepts/aedo]] · [[wiki/concepts/agent-memory-files]] · [[wiki/concepts/ai-cold-outreach]] · [[wiki/concepts/ai-org-design]] · [[wiki/concepts/ai-video-tools]] · [[wiki/concepts/brain-architecture]] · [[wiki/concepts/buda-hive]] · [[wiki/concepts/campaignos]] · [[wiki/concepts/claude-code]] · [[wiki/concepts/claude-cowork]] · [[wiki/concepts/content-engine]] · [[wiki/concepts/content360]] · [[wiki/concepts/fantelo]] · [[wiki/concepts/google-stitch]] · [[wiki/concepts/goose-ai]] · [[wiki/concepts/gtm-system-multi-channel]] · [[wiki/concepts/heygen]] · [[wiki/concepts/home-service-cro]] · [[wiki/concepts/linkedin-gtm]] · [[wiki/concepts/llm-knowledge-bases]] · [[wiki/concepts/local-ai-inference]] · [[wiki/concepts/managed-agents]] · [[wiki/concepts/meta-harness]] · [[wiki/concepts/moil-team-ops]] · [[wiki/concepts/moil360]] · [[wiki/concepts/obsidian]] · [[wiki/concepts/openclaw-hermes]] · [[wiki/concepts/seedance]] · [[wiki/concepts/self-learning-gtm-brain]] · [[wiki/concepts/smart-hiring]] · [[wiki/concepts/smb-ai-audits]] · [[wiki/concepts/vibe-coding]]
+
+**Meetings:** [[wiki/meetings/2024-10-30-moneta-ventures-investor-panel]] · [[wiki/meetings/2024-10-31-monica-munoz-andry-gahcc-partnership]] · [[wiki/meetings/2024-11-13-txor-moil-partnership-call]] · [[wiki/meetings/2025-01-08-nvidia-inception-onboarding]] · [[wiki/meetings/2025-03-28-jacob-andres-pivot-ai-tools]] · [[wiki/meetings/2025-05-15-zachary-barker-wyatt-hook-enterprise]] · [[wiki/meetings/2025-05-21-ai-advisory-azure-foundry]]
+
+**Minds:** [[wiki/minds/andrej-karpathy]] · [[wiki/minds/corey-ganim]] · [[wiki/minds/dario-amodei]] · [[wiki/minds/elon-musk]] · [[wiki/minds/farza-mohideen]] · [[wiki/minds/hooeem]] · [[wiki/minds/jack-dorsey]] · [[wiki/minds/jensen-huang]] · [[wiki/minds/nick-spisak]] · [[wiki/minds/sam-altman]]
+
+**Moil:** [[wiki/moil/competitors]]
+
+**Orgs:** [[wiki/orgs/buda-chamber]] · [[wiki/orgs/buda-edc]] · [[wiki/orgs/coffeespace]] · [[wiki/orgs/queen-creek-chamber]]
+
+**People:** [[wiki/people/abel-esquivel-luna]] · [[wiki/people/abiodun-solomon]] · [[wiki/people/anita-lansing]] · [[wiki/people/casey-earley]] · [[wiki/people/dafne-gutierrez]] · [[wiki/people/daniela-castillo-canavera]] · [[wiki/people/david-levesque]] · [[wiki/people/enrique-castro]] · [[wiki/people/evangeline-sandoval]] · [[wiki/people/hazim-mohamad]] · [[wiki/people/inna-benyukhis]] · [[wiki/people/jacquie-martinez]] · [[wiki/people/john-costilla]] · [[wiki/people/joshua-edmond]] · [[wiki/people/julian-sanchez]] · [[wiki/people/mariana-rodriguez]] · [[wiki/people/mark-polanco]] · [[wiki/people/monica-davidson]] · [[wiki/people/monica-pena]] · [[wiki/people/paula-florez-estrada]] · [[wiki/people/rick-bough]] · [[wiki/people/rodney-warner]] · [[wiki/people/rosemary-gamez]] · [[wiki/people/sebastian-oviedo]] · [[wiki/people/shay-foley]] · [[wiki/people/taiwo-ola-balogun]] · [[wiki/people/wyatt-hook]] · [[wiki/people/zane-gibson]]
+
+**Radar:** [[wiki/radar/claude-code-changelog]]
+
+**Summaries:** [[wiki/summaries/brain-guide]] · [[wiki/summaries/buda-hive-edc-2026-04-11]] · [[wiki/summaries/facebook-pages-2026-04-09]] · [[wiki/summaries/github-project-tracker]] · [[wiki/summaries/outlook-emails-2026-04-09]] · [[wiki/summaries/x-bookmarks-2026-04-11-copy]]
+

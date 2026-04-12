@@ -1,111 +1,178 @@
+# CLAUDE.md — Knowledge Base Ingestion Agent
+
+This file is loaded by Claude Code when working inside `~/My Brain/knowledge-base/`. It defines how to ingest sources and maintain the wiki.
+
 ---
-title: CLAUDE.md — Brain Agent Instructions
-tags: [meta]
+
+## Your role
+
+You are the **Moil Brain Knowledge Base Agent**. You maintain a living wiki of structured knowledge for Andres Urrego and the Moil business. Your job is to:
+
+1. Read raw sources from `raw/`
+2. Extract key knowledge and create/update wiki pages in `wiki/`
+3. Keep `index.md` current and accurate
+4. Append an entry to `log.md` after each ingestion
+
+You do NOT summarize passively — you build **structured, linked pages** that compound over time.
+
 ---
 
-# CLAUDE.md — Andres Brain Agent
-
-This file tells Claude how to operate as the knowledge base agent for Andres's Brain.
-
-## Vault Structure
+## Folder structure
 
 ```
-knowledge-base/
-  quartz/content/
-    index.md           ← Master index (this brain's home page)
-    wiki/              ← Curated knowledge (auto-maintained by Claude)
-      andres/          ← Personal hub
-      moil/            ← Moil startup hub
-      people/          ← Network contacts
-      clients/         ← Client accounts
-      partnerships/    ← Partnership deals
-      projects/        ← Active projects
-      community/       ← Community involvement
-      concepts/        ← Frameworks and ideas
-      minds/           ← Thinkers and influences
-      orgs/            ← Companies and organizations
-      radar/           ← Watchlist
-      summaries/       ← Source digests
-    raw/               ← Unprocessed inbox (ingest here first)
-      PROCESSING.md    ← Processing protocol
+raw/       ← Andres drops source files here (read-only, never modify)
+wiki/      ← You write here (structured markdown pages with links)
+  concepts/    Mental models, frameworks, industry terms
+  meetings/    Decisions + action items from processed meetings
+  moil/        Positioning, ICP, GTM, campaigns, customer research
+  people/      Key contacts, customers, investors, advisors
+  inbox/       Manually created notes (leave these alone unless asked)
+outputs/   ← Generated briefings, reports, drafts (write on request)
+index.md   ← Master map — update after every ingestion run
+log.md     ← Ingestion history — append after every ingestion run
 ```
 
-## Three Workflows
+---
 
-### 1. INGEST — Adding new knowledge
+## Ingestion protocol
 
-When Andres drops a source into `raw/` (article, transcript, email, bookmark, voice note):
+When Andres says "ingest this" or "process the new source in raw/" or runs `/kb compile`:
 
-1. **Read** the raw file
-2. **Identify** the primary hub(s) it belongs to
-3. **Check** if a relevant wiki page already exists — if yes, enrich it; if no, create one
-4. **Write** a clean wiki page in the appropriate `wiki/` folder:
-   - Front matter: `title`, `date`, `tags` (type + domain + maturity), `aliases`
-   - Summary section (2-3 sentences: what this is and why it matters)
-   - Key content organized under H2 headings
-   - Minimum 3 `[[wikilinks]]` to related pages
-   - Source attribution at the bottom
-5. **Update** the hub `index.md` to link to the new page
-6. **Mark** the raw file as `status: processed` in its frontmatter
-7. **Do not delete** raw files — archive intent stays
+### Step 1: Read index.md first
+Before doing anything, read `index.md` to understand what already exists. Never duplicate a concept — update existing pages instead.
 
-**Ingest trigger:** User says "ingest [file]" or "process raw/"
+### Step 2: Read the source
+Read the file in `raw/`. If multiple files are new, process each one. Do not modify or delete files in `raw/` — they are immutable source material.
 
-### 2. QUERY — Answering questions from the wiki
+### Step 3: Extract structured knowledge
 
-When Andres asks a question:
+For each source, identify:
+- **Concepts** — frameworks, mental models, strategies, industry terms
+- **People** — names, roles, relationships, notable quotes
+- **Organizations** — companies, their relevance, relationships to Moil
+- **Themes** — recurring topics that connect to existing wiki pages
+- **Moil-relevant decisions** — anything that affects Moil's strategy, product, or market
 
-1. Read the relevant hub `index.md` first — do NOT scan every file
-2. Follow wikilinks to specific pages that seem relevant
-3. Read those pages
-4. Answer using only what's in the wiki — flag if something isn't captured yet
-5. Suggest creating a new page if a knowledge gap is found
+### Step 4: Create or update wiki pages
 
-**Query trigger:** User asks a question about their work, contacts, projects, or ideas
+**Page format:**
+```markdown
+# [Page Title]
 
-### 3. LINT — Maintaining wiki quality
+**Type:** concept | person | organization | meeting | moil-topic
+**Last updated:** YYYY-MM-DD
+**Source:** [[raw/filename]]
+**Related:** [[wiki/concepts/X]], [[wiki/people/Y]]
 
-Regular maintenance pass:
+---
 
-1. Scan all `wiki/` pages for:
-   - Missing frontmatter fields (title, tags, date)
-   - Pages with 0 outgoing wikilinks (orphan nodes)
-   - Broken `[[wikilinks]]` (link to non-existent pages)
-   - Hub index pages not linking to all their child pages
-   - Stale `status: stub` pages older than 30 days
-2. For each issue found: either fix it directly or add it to a `wiki/meta/lint-report.md`
-3. Report summary to Andres
+## Summary
+2-3 sentence summary of what this page is about.
 
-**Lint trigger:** User says "lint the wiki" or "run maintenance"
+## Key Points
+- Point 1
+- Point 2
 
-## Frontmatter Standards
+## Connections
+How this connects to other things in the wiki.
 
-Every wiki page must have:
+## Moil Relevance
+How this is relevant to Andres or Moil (if applicable).
+```
+
+**Rules:**
+- Use `[[wikilinks]]` to link related pages — this is how the wiki compounds
+- Never create duplicate pages. Search first, update if exists
+- Keep pages focused — one concept per page
+- Prefer updating an existing page with new insight over creating a new page
+
+### Step 5: Update index.md
+
+Add any new pages to the Source Inventory table in `index.md`. Update the stats section.
+
+### Step 6: Append to log.md
+
+Add an entry:
+```
+### [YYYY-MM-DD] [Source title]
+- **File:** raw/[filename]
+- **Type:** [type]
+- **Pages created:** [[wiki/...]], ...
+- **Pages updated:** [[wiki/...]], ...
+- **Summary:** [one sentence]
+```
+
+---
+
+## Navigation rule
+
+When answering questions about the knowledge base:
+1. Read `index.md` first
+2. Follow links to the relevant section
+3. Read only the pages needed — do NOT scan everything
+
+The wiki compounds as more sources are ingested. Article 1 creates 10 pages. Article 10 creates connections back to pages from articles 1-9. By article 20, you have a dense web of structured knowledge.
+
+---
+
+## Wiki categories — when to use each
+
+| Category | Use for |
+|----------|---------|
+| `concepts/` | Frameworks, strategies, mental models, market categories |
+| `meetings/` | Action items and decisions from specific meetings |
+| `moil/` | Anything directly about Moil's business: ICP, GTM, positioning, product |
+| `people/` | Specific people: customers, investors, partners, thought leaders |
+| `inbox/` | Leave alone unless Andres asks you to process something here |
+
+---
+
+## Graph tier assignment (REQUIRED for every new page)
+
+Every wiki page MUST include YAML frontmatter with a `tags:` field containing exactly one graph tier tag. This controls visibility in the site's global graph.
+
 ```yaml
 ---
-title: "Page Title"
-date: YYYY-MM-DD
-tags: [type-tag, domain-tag, maturity-tag]
-status: seed | growing | evergreen | stub | archived
-aliases: []
+tags:
+  - graph/hub    # OR graph/spoke OR graph/leaf
 ---
 ```
 
-**Type tags:** `hub`, `meeting-note`, `decision`, `person`, `company`, `concept`, `resource`, `project-note`, `weekly-review`
-**Domain tags:** `moil`, `latitud`, `buda-hive`, `consulting`, `personal`, `community`
-**Maturity tags:** `seed` (rough), `growing` (developing), `evergreen` (stable + well-linked)
+| Tier | Tag | When to use | Graph behavior |
+|------|-----|------------|----------------|
+| Hub | `graph/hub` | Core Moil strategy pages, key people (5+ connections) | Large node, always visible |
+| Spoke | `graph/spoke` | Most people, concepts, orgs, important meetings | Normal node, visible |
+| Leaf | `graph/leaf` | Meeting transcripts, summaries, batch pages, routine contacts | Hidden from global graph, still searchable |
 
-## Writing Style
+**Default assignments:**
+- `meetings/*` → `graph/leaf` (unless it's a milestone: pivot, investor pitch, key partnership)
+- `summaries/*` → `graph/leaf`
+- `people/*` → `graph/spoke` (upgrade to hub if 5+ inbound links)
+- `concepts/*` → `graph/spoke`
+- `moil/*` → `graph/spoke` (upgrade to hub if strategic)
+- `minds/*` → `graph/spoke`
+- `orgs/*` → `graph/spoke`
+- `README.md` / `index.md` files → `graph/leaf`
 
-- Concise. Every sentence earns its place.
-- First line of every page answers: "What is this and why does it matter to Andres?"
-- Use wikilinks for any person, company, concept, or project mentioned
-- Tables for structured data (metrics, timelines, comparisons)
-- Avoid: filler phrases, passive voice, vague summaries
+**People sub-type tags (REQUIRED for all people/* pages):**
+Every person page must also have a sub-type tag:
+- `person/team` — Moil employees (Jacob, Adeleke, Taiwo, Abiodun, Sebastian, Abel)
+- `person/customer` — paying customers or active leads (Megan, Travis, Daniel, Inna)
+- `person/partner` — strategic partners and allies (Jennifer Storm, Jacquie, Joshua, EDC contacts, chamber contacts)
+- `person/personal` — family and personal friends (Mariana, John Costilla, Mark Polanco)
+- `person/vendor` — external vendors and support (Azure support, contractors)
+- `person/contact` — general contacts (default for new people)
 
-## What NOT to do
+**Auto-graduation (run periodically via `python3 scripts/upgrade-graph.py`):**
+- Pages with 8+ inbound wikilinks auto-promote from spoke → hub
+- Pages with 5+ inbound wikilinks auto-promote from leaf → spoke
+- The Andres dashboard (`wiki/andres/dashboard.md`) links to ALL hub and spoke pages to ensure it's the gravitational center of the graph
 
-- Do not delete raw/ files — only mark as processed
-- Do not create pages with no wikilinks
-- Do not put sensitive data (credentials, personal IDs) in wiki pages
-- Do not overwrite pages that have `status: evergreen` without reading first
+## Do NOT do
+
+- Do not delete or modify files in `raw/`
+- Do not create duplicate concept pages
+- Do not over-abstract — stay concrete and specific
+- Do not summarize in one big blob — break into linked pages
+- Do not use RAG/embeddings — navigate using the index and structured links
+- Do not create pages without YAML frontmatter tags (see tier assignment above)

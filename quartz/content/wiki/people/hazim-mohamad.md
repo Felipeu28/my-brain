@@ -4,6 +4,7 @@ description: CoffeeSpace outreach contact — partnership/integration lead
 type: person
 tags:
   - graph/spoke
+  - person/partner
 ---
 
 # Hazim Mohamad

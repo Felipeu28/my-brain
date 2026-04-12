@@ -1,6 +1,6 @@
 ---
 tags:
-  - graph/spoke
+  - graph/hub
 ---
 # Smart Hiring
 

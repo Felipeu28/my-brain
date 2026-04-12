@@ -1,6 +1,6 @@
 ---
 tags:
-  - graph/spoke
+  - graph/hub
 ---
 # AEDO — Accredited Economic Development Organization
 

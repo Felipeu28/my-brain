@@ -3,7 +3,7 @@ name: concepts index
 description: Frameworks, mental models, products, and programs — everything that isn't a person, org, or business page
 type: index
 tags:
-  - graph/leaf
+  - graph/spoke
 ---
 
 # Concepts — Index

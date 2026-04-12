@@ -1,6 +1,7 @@
 ---
 tags:
   - graph/hub
+  - person/team
 ---
 # Jacob Oluwole
 

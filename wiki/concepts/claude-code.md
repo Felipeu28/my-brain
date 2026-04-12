@@ -3,7 +3,7 @@ name: claude-code concept
 description: Anthropic's CLI/agent for software engineering tasks — core to Andres's Brain + Moil dev workflows
 type: concept
 tags:
-  - graph/spoke
+  - graph/hub
 ---
 
 # Claude Code

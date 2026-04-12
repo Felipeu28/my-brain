@@ -154,6 +154,20 @@ tags:
 - `orgs/*` → `graph/spoke`
 - `README.md` / `index.md` files → `graph/leaf`
 
+**People sub-type tags (REQUIRED for all people/* pages):**
+Every person page must also have a sub-type tag:
+- `person/team` — Moil employees (Jacob, Adeleke, Taiwo, Abiodun, Sebastian, Abel)
+- `person/customer` — paying customers or active leads (Megan, Travis, Daniel, Inna)
+- `person/partner` — strategic partners and allies (Jennifer Storm, Jacquie, Joshua, EDC contacts, chamber contacts)
+- `person/personal` — family and personal friends (Mariana, John Costilla, Mark Polanco)
+- `person/vendor` — external vendors and support (Azure support, contractors)
+- `person/contact` — general contacts (default for new people)
+
+**Auto-graduation (run periodically via `python3 scripts/upgrade-graph.py`):**
+- Pages with 8+ inbound wikilinks auto-promote from spoke → hub
+- Pages with 5+ inbound wikilinks auto-promote from leaf → spoke
+- The Andres dashboard (`wiki/andres/dashboard.md`) links to ALL hub and spoke pages to ensure it's the gravitational center of the graph
+
 ## Do NOT do
 
 - Do not delete or modify files in `raw/`

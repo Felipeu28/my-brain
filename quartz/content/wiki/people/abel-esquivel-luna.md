@@ -1,6 +1,7 @@
 ---
 tags:
   - graph/spoke
+  - person/team
 ---
 # Abel Esquivel Luna
 

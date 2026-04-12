@@ -3,7 +3,7 @@ name: github-project-tracker summary
 description: Summary of Felipeu28 GitHub project tracker — 48 repos across 3 orgs
 type: summary
 tags:
-  - graph/leaf
+  - graph/spoke
 ---
 
 # Summary — GitHub Project Tracker (Andres Urrego / @Felipeu28)

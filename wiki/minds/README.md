@@ -3,7 +3,7 @@ name: minds index
 description: Index of public AI thought leaders tracked in the Brain
 type: index
 tags:
-  - graph/leaf
+  - graph/spoke
 ---
 
 # Minds — Public AI Thought Leaders

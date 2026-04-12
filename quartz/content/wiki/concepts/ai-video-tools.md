@@ -1,6 +1,6 @@
 ---
 tags:
-  - graph/spoke
+  - graph/hub
 ---
 # AI Video Tools (2026 Landscape)
 

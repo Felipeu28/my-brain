@@ -1,6 +1,7 @@
 ---
 tags:
-  - graph/spoke
+  - graph/hub
+  - person/team
 ---
 # Taiwo Ola-Balogun
 

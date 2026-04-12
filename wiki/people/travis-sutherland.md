@@ -1,6 +1,7 @@
 ---
 tags:
   - graph/spoke
+  - person/customer
 ---
 # Travis Sutherland
 

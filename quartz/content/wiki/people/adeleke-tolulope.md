@@ -1,6 +1,7 @@
 ---
 tags:
   - graph/hub
+  - person/team
 ---
 # Adeleke Tolulope (Steve)
 

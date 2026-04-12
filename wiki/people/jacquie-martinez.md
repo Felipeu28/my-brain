@@ -1,6 +1,7 @@
 ---
 tags:
-  - graph/spoke
+  - graph/hub
+  - person/partner
 ---
 # Jacquie Martinez
 

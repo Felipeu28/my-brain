@@ -3,7 +3,7 @@ name: moil index
 description: Moil business pages — positioning, ICP, GTM, customers, competitors, metrics
 type: index
 tags:
-  - graph/leaf
+  - graph/spoke
 ---
 
 # Moil — Business Index
