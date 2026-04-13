@@ -1,6 +1,8 @@
 # Moil Brain — Master Index
 
-**Last compiled:** 2026-04-12 (Run 3 — 28 transcript backfill) · **Total wiki pages:** ~187 · **Raw sources ingested:** 78/78
+**Last compiled:** 2026-04-13 (Run 4 — clients & customers rebuild) · **Total wiki pages:** ~204 · **Raw sources ingested:** 78/78
+
+> **Canonical operating truth lives outside the wiki:** if status or architecture notes here conflict with newer operating reality, use `~/My Brain/CURRENT_STATE.md` first.
 
 > **New here?** Read [[wiki/README]] for the wiki design principles, then follow the links below.
 
@@ -10,6 +12,7 @@
 
 | If you need... | Open |
 |---|---|
+| Reconciled operating truth | `~/My Brain/CURRENT_STATE.md` |
 | Open actions & deadlines | [[MEMORY]] |
 | Ingestion history | [[log]] |
 | Agent instructions | [[CLAUDE]] |
@@ -79,17 +82,17 @@
 
 | Category | Count | Notes |
 |---|---|---|
-| Moil business | 7 | product-roadmap, gtm, customers all updated with transcript intelligence |
-| People (network) | 30 | +8 from Run 2: rick-bough, paula-florez-estrada, abel-esquivel-luna, daniela-castillo-canavera, enrique-castro, dafne-gutierrez, david-levesque, zane-gibson |
+| Moil business | 7 | product-roadmap, gtm, customers updated with Run 4 client links + GitHub repos |
+| People (network) | 41 | +4 from Run 4: becky-torres, roxana-yglesias, jacob-centeno, ana-vetencourt; 2 fixed: mark-polanco (personal→customer), wyatt-hook (customer→vendor) |
 | Minds (thinkers) | 10 | from X bookmarks deep compile |
-| Orgs (customer/partner) | 4 | |
+| Orgs (customer/partner) | 12 | +8 from Run 4: connectex, fitlogic, siren-beauty, pure-serenity, urbanozuela, nuovo-entertainment, meridian-buda, alloy-atx |
 | Concepts | 32 | |
-| Meetings | 39 | +2 from Teams full ingestion (Monday call + engineering sprint) |
+| Meetings | 39 | |
 | Radar (changelogs) | 1 | Claude Code changelog |
 | Summaries | 16 | |
 | Folder READMEs | 9 | |
-| **Total wiki files** | **~172** | +2 meeting pages from Teams full ingestion |
-| Raw sources ingested | 50/50 | 25 Run 1 meeting notes + 25 Run 2 full transcripts |
+| **Total wiki files** | **~204** | +17 from Run 4 (8 org pages + 4 people pages + 4 updated pages + 1 README updated) |
+| Raw sources ingested | 78/78 | all meeting transcripts + all 2026 data sources |
 
 **OneDrive Full Transcripts ingestion completed 2026-04-12 (Run 2):**
 - 25 full transcript files processed (raw/meetings/transcript-* format)

@@ -53,16 +53,24 @@ tags:
 
 ## New Customers — April 2026 (from Teams chats, Apr 5–12)
 
-| Customer | Type | Contact | Product | Status |
-|---|---|---|---|---|
-| Connectex | Client deal | — | TBD | CLOSED Apr 9; invoiced, paid over 3 quarters |
-| Alloy (gym) | Content360 client | — | Monthly content creation + Moil 360 license | CLOSING Apr 11 |
-| FitLogic | Job posting client | — | Hiring through Moil | Active (Apr 12 — likely first hire + new job posted) |
-| Travis / Zoiwell | Moil 360 | travis@zoiwell.com | 1-year license | Onboarded Apr 9 |
-| Jacob Centeno / Titan Tech Authority | Starter plan | titantechauthority@gmail.com | $15/mo license | Onboarded Apr 8 |
-| jilledegs01 customer | Moil 360 | jilledegs01@gmail.com | License | Onboarded Apr 10 (loved pure-serenity-green site) |
-| Siren Beauty | Account setup | sirenbeautyandwellness@gmail.com | TBD | In progress |
-| Eden | Website discovery | — | Website build | Discovery call recorded Apr 8 |
+| Customer | Type | Contact | Product | GitHub Repo | Status |
+|---|---|---|---|---|---|
+| [[wiki/orgs/connectex\|Connectex]] | Custom build | [[wiki/people/mark-polanco\|Mark Polanco]] (mark@connectex.net) | Custom site + Airtable | [connectex](https://github.com/Moil-Landingpages/connectex) · [connectex-website](https://github.com/Felipeu28/connectex-website) | ✅ CLOSED Apr 9; invoiced, paid over 3 quarters |
+| [[wiki/orgs/alloy-atx\|Alloy ATX]] (gym) | Content360 client | [[wiki/people/roxana-yglesias\|Roxana Yglesias]] (r.yglesias@alloyatx.com) | Monthly content creation + Moil 360 license | — | 🔥 CLOSING Apr 11 |
+| [[wiki/orgs/fitlogic\|FitLogic]] | Job posting client | (see [[wiki/people/megan-miller]]) | Hiring through Moil | [fit-logic](https://github.com/Moil-Landingpages/fit-logic) | ✅ Active — first hire imminent (Apr 12) |
+| Travis / Zoiwell | Moil 360 | travis@zoiwell.com | 1-year Moil 360 license | — | ✅ Onboarded Apr 9 |
+| [[wiki/people/jacob-centeno\|Jacob Centeno]] / Titan Tech Authority | Starter plan | titantechauthority@gmail.com | $15/mo license | — | ✅ Onboarded Apr 8 |
+| [[wiki/orgs/pure-serenity\|PureSerenity]] (jilledegs01) | Moil 360 | jilledegs01@gmail.com | Moil 360 license + site | [PureSerenity](https://github.com/Moil-Landingpages/PureSerenity) | ✅ Onboarded Apr 10 (loved pure-serenity-green site) |
+| [[wiki/orgs/siren-beauty\|Siren Beauty]] | Website + Moil 360 | [[wiki/people/becky-torres\|Becky Torres]] (sirenbeautyandwellness@gmail.com) | Landing page + setup | [Siren-Beauty](https://github.com/Moil-Landingpages/Siren-Beauty) | 🟡 Account setup in progress |
+| Eden | Website discovery | — | Website build | — | 🟡 Discovery call recorded Apr 8 |
+
+## Other Active Moil-Landingpages Clients (Apr 2026)
+
+| Client | Contact | GitHub Repo | Notes |
+|---|---|---|---|
+| [[wiki/orgs/meridian-buda\|Meridian Buda]] | (Buda coffee/music venue) | [meridian-buda](https://github.com/Moil-Landingpages/meridian-buda) | ✅ CLOSED Apr 9 — full ticketed events platform with Stripe |
+| [[wiki/orgs/nuovo-entertainment\|Nuovo Entertainment]] | (contact TBD) | [Nuovo-Enterteinment](https://github.com/Moil-Landingpages/Nuovo-Enterteinment) | ✅ Active site deployed Apr 9 |
+| [[wiki/orgs/urbanozuela\|Urbanzuela]] | [[wiki/people/ana-vetencourt\|Ana Vetencourt]] (sister-in-law) | [urbanozuela](https://github.com/Moil-Landingpages/urbanozuela) | Family project — site active Apr 9 |
 
 ## Customer Concentration
 

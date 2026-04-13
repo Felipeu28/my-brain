@@ -1,7 +1,7 @@
 ---
 tags:
   - graph/spoke
-  - person/customer
+  - person/vendor
 ---
 # Wyatt Hook
 
