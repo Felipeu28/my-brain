@@ -47,6 +47,49 @@
     }
   }
 
+  .graph-stats {
+    position: absolute;
+    top: 6px;
+    right: 8px;
+    font-size: 0.65rem;
+    opacity: 0.6;
+    display: flex;
+    gap: 6px;
+    pointer-events: none;
+    z-index: 10;
+
+    .graph-stats-sep {
+      opacity: 0.5;
+    }
+  }
+
+  .graph-legend {
+    position: absolute;
+    bottom: 8px;
+    left: 8px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px 10px;
+    max-width: 260px;
+    pointer-events: none;
+    z-index: 10;
+
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      font-size: 0.65rem;
+      opacity: 0.75;
+
+      .legend-dot {
+        width: 8px;
+        height: 8px;
+        border-radius: 50%;
+        flex-shrink: 0;
+      }
+    }
+  }
+
   & > .global-graph-outer {
     position: fixed;
     z-index: 9999;

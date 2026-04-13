@@ -167,6 +167,13 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       })),
   }
 
+  // Compute in-degree per node from link data
+  const degreeMap: Record<string, number> = {}
+  graphData.links.forEach((link) => {
+    const targetId = link.target.id
+    degreeMap[targetId] = (degreeMap[targetId] ?? 0) + 1
+  })
+
   const width = graph.offsetWidth
   const height = Math.max(graph.offsetHeight, 250)
 
@@ -257,15 +264,10 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   }
 
   function nodeRadius(d: NodeData) {
-    const numLinks = graphData.links.filter(
-      (l) => l.source.id === d.id || l.target.id === d.id,
-    ).length
-    // Scale node size by tier: hub 3x, spoke 1.5x, leaf 1x
-    const tags = d.tags ?? []
-    const tierMultiplier = tags.includes("graph/hub") ? 3
-      : tags.includes("graph/spoke") ? 1.5
-      : 1
-    return (2 + Math.sqrt(numLinks)) * tierMultiplier
+    const degree = degreeMap[d.id] ?? 0
+    const isCurrentPage = d.id === slug
+    const baseRadius = isCurrentPage ? 5 : 3
+    return baseRadius + Math.log(degree + 1) * 1.5
   }
 
   let hoveredNodeId: string | null = null
@@ -618,6 +620,39 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   }
 
   requestAnimationFrame(animate)
+
+  // Ensure the container is positioned so overlays anchor correctly
+  graph.style.position = "relative"
+
+  // Stats bar — note + connection count
+  const statsBar = document.createElement("div")
+  statsBar.className = "graph-stats"
+  statsBar.innerHTML = `<span>${graphData.nodes.length} notes</span><span class="graph-stats-sep">·</span><span>${graphData.links.length} connections</span>`
+  graph.insertBefore(statsBar, graph.firstChild)
+
+  // Hub legend
+  const legendData = [
+    { color: "#6366f1", name: "Andres" },
+    { color: "#0ea5e9", name: "Moil" },
+    { color: "#10b981", name: "People" },
+    { color: "#f59e0b", name: "Clients" },
+    { color: "#8b5cf6", name: "Projects" },
+    { color: "#ec4899", name: "Partnerships" },
+    { color: "#14b8a6", name: "Community" },
+    { color: "#f97316", name: "Concepts" },
+    { color: "#94a3b8", name: "Summaries" },
+    { color: "#a855f7", name: "Minds" },
+    { color: "#ef4444", name: "Orgs" },
+    { color: "#84cc16", name: "Radar" },
+  ]
+
+  const legend = document.createElement("div")
+  legend.className = "graph-legend"
+  legend.innerHTML = legendData
+    .map(h => `<div class="legend-item"><span class="legend-dot" style="background:${h.color}"></span><span class="legend-label">${h.name}</span></div>`)
+    .join("")
+  graph.appendChild(legend)
+
   return () => {
     stopAnimation = true
     app.destroy()
