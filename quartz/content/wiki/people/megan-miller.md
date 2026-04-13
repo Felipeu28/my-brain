@@ -1,33 +1,38 @@
 ---
-title: "Megan Miller"
+title: Megan Miller
 tags:
-  - graph/hub
+  - graph/spoke
   - person/customer
+  - buda-hive
+role: Family Nurse Practitioner (FNP-C)
+org: Fit Logic Functional Medicine
+status: active
 ---
+
 # Megan Miller
 
-**Type:** person
-**Last updated:** 2026-04-11
-**Source:** [[raw/imessages-people-2026-04-09]]
-**Related:** [[wiki/moil/gtm]], [[wiki/concepts/smart-hiring]]
+**Role:** Family Nurse Practitioner–Certified (FNP-C)
+**Organization:** [[wiki/orgs/fitlogic|Fit Logic Functional Medicine]]
+**Location:** Buda/Austin, TX area
+**Relationship:** Early Moil customer — placed first hire through platform in April 2026
 
----
+## Context
+Megan runs Fit Logic Functional Medicine, a small healthcare practice in the Buda/Austin area. She connected with Andres through the [[wiki/concepts/buda-hive|Buda HIVE]] network. She was one of the first business owners to use Moil's Smart Hiring feature and provided direct product feedback on the voice application experience.
 
-**Relationship:** Active Moil customer. Hires through the platform. Direct product feedback source.
-
-## How She Uses Moil
-
-Megan uses [[wiki/moil/positioning|Moil]] to post jobs and receive applications. She hired through moil.com — forwarded a screenshot of an applicant named Michelle who submitted via the site.
-
-## Product Feedback (Critical)
-
-Megan surfaced two UX issues:
-
-1. **Applicant contact info not visible to employer** — Megan found the application on Moil but couldn't see the applicant's phone number or email address anywhere.
-2. **Notification system unclear** — She sent the applicant a message through Moil but doesn't know how the applicant responds or how she'll get notified.
-
-These are active bugs/gaps in the employer hiring experience. Andres handled support personally via iMessage.
+## Moil Relationship
+- **Customer tier:** Basic or Standard (job posting client — FitLogic listed as hiring through Moil)
+- **First hire placed:** April 2026 — applicant named Michelle submitted via moil.com
+- **Use case:** Clinical staff hiring for small medical practice
+- **Feedback:** Surfaced two critical UX gaps:
+  1. **Applicant contact info not visible to employer** — couldn't see phone number or email after receiving application
+  2. **Notification system unclear** — sent applicant a message through Moil but no confirmation of how applicant responds or how she gets notified
 
 ## Why She Matters
+Megan is one of the few documented active users with captured product feedback. Her experience represents the typical employer journey, and her pain points (contact visibility, notifications) are likely shared by other employers on the platform. Andres handled her support directly via iMessage — a sign of how hands-on the early customer relationship is.
 
-Megan is one of the few documented active users whose specific product feedback is captured. Her experience represents the typical employer journey — and her pain points (contact visibility, notifications) are likely shared by other employers on the platform.
+## Related
+- [[wiki/moil/customers|Moil Customers]]
+- [[wiki/moil/gtm|Go-to-Market]]
+- [[wiki/concepts/smart-hiring|Smart Hiring]]
+- [[wiki/concepts/buda-hive|Buda HIVE]]
+- [[wiki/orgs/fitlogic|Fit Logic Functional Medicine]]

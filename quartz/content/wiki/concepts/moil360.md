@@ -1,37 +1,58 @@
 ---
-name: moil360 concept
-description: Moil's 30-day AI marketing engine — product line distinct from Content360 feature name
-type: concept
+title: Moil 360 (Marketing Pro)
 tags:
   - graph/spoke
+  - moil
+  - product
+  - pricing
+  - marketing
+status: active
 ---
 
-# Moil360
+# Moil 360 — Marketing Pro Tier
 
-**Type:** concept
-**Last updated:** 2026-04-11
-**Source:** [[raw/facebook-pages-2026-04-09.md]], [[raw/moilapp-website-2026-04-09.md]], [[raw/github-project-tracker.md]]
-**Related:** [[wiki/concepts/content360]], [[wiki/moil/gtm]], [[wiki/summaries/facebook-pages-2026-04-09]]
+**Pricing:** $75/month
+**Tier:** Marketing Pro (top tier of Moil's three-tier pricing)
+**Also known as:** Content360 (internal working name, deprecated)
 
----
+## What It Is
+Moil 360 is Moil's full-service marketing and hiring package for SMBs. At $75/month, it includes everything in the Standard tier plus:
+- AI-generated job content (video, images, social posts)
+- 30 days of researched topics, tested hooks, and full captions by content type
+- Calls-to-action (CTAs) optimized per post
+- Hashtags optimized for each post
+- 30 custom AI-generated images (brand-aligned, not stock)
+- AI video for highest-impact days (5+ video days included, 15 video credits/month)
+- Multi-channel distribution (Facebook, Instagram, LinkedIn, TikTok)
+- Content calendar management
+- Brand voice customization (based on 21 strategic onboarding questions)
+- Analytics and performance reporting
+- Available in English and Spanish with one-click translation
 
-## Summary
-Moil360 is the marketing-facing packaging of Moil's content engine, surfaced at moilapp.com/marketing and referenced in Facebook business posts. It overlaps closely with the Content360 feature on the product site; the distinction needs to be nailed down.
+## Positioning
+Positioned for businesses that want to not just hire but *attract* — turning their hiring into a marketing activity. The "360" refers to the full-circle content lifecycle: create → distribute → attract → hire.
 
-## Key Points
-- **URL:** moilapp.com/marketing
-- **GitHub:** `github.com/Felipeu28/Moil360` — public TypeScript repo, last push Feb 3, 2026 (🟡 recent).
-- **Facebook copy:** "if you're tired of struggling alone, remember that Moil360 is here to help. We can take the stress out of content creation."
-- **Positioning:** content creation pain-killer for SMB entrepreneurs.
-- **Hashtag stack:** #contentmarketing #smallbusiness #entrepreneur #community #help #Moil360.
-- **Ambiguity vs. Content360:** Business-plan copy calls the feature "Content360" (30-day AI marketing calendar) but the consumer brand is "Moil360". Unclear if they are one thing with two names or distinct SKUs.
+No direct competitor offers this as an integrated package:
+- Hootsuite/Buffer do scheduling, not content creation
+- ChatGPT/Canva can generate pieces but nothing integrated to business DNA
+- Traditional agencies charge $2,000–$5,000/month for comparable output
 
-## Connections
-- Likely the GTM brand wrapping the [[wiki/concepts/content360]] feature.
-- Sits inside the broader [[wiki/moil/gtm]] — marketing funnel for SMBs.
-- Different brand surface than moilapp.com/business — needs clear relationship in product docs.
+## Pricing Context
+| Tier | Price | Focus |
+|------|-------|-------|
+| Basic | $15/mo | Job posting + voice applications |
+| Standard | $25/mo | + AI screening + applicant tracking |
+| **Marketing Pro** | **$75/mo** | **+ content engine + social distribution** |
 
-## Moil Relevance
-- **Clarify:** Moil360 vs Content360 naming. One-name policy would reduce confusion.
-- **Opportunity:** package Moil360 as a standalone $/month product for non-Moil customers — content-only entry point.
-- Referenced repeatedly in content — an asset, but currently underexplained to new customers.
+Moil 360 is the primary upsell driver from Standard → Marketing Pro.
+
+## Customers on This Tier
+- Travis / Zoiwell — onboarded Apr 9, 2026 (1-year license)
+- Alloy (gym) — closing Apr 11, 2026
+- jilledegs01 — onboarded Apr 10, 2026
+
+## Related
+- [[wiki/moil/gtm|Go-to-Market]]
+- [[wiki/moil/positioning|Positioning]]
+- [[wiki/moil/customers|Customers]]
+- [[wiki/concepts/content360|Content360]] (redirects here)

@@ -1,13 +1,18 @@
 ---
+title: Moil Team Ops
 tags:
   - graph/spoke
+  - moil
+  - team
+  - operations
+status: active
 ---
-# Moil Team Operating System
+# Moil Team Operations
 
 **Type:** concept
 **Last updated:** 2026-04-12
 **Source:** [[raw/teams-2026-04-12]]
-**Related:** [[wiki/moil/metrics]], [[wiki/meetings/teams-attendance-protocol-2026-04]], [[wiki/moil/gtm]]
+**Related:** [[wiki/moil/metrics]], [[wiki/moil/gtm]]
 
 ---
 
@@ -38,12 +43,24 @@ Moil runs its internal team on Microsoft Teams with an automated daily synchroni
 - Unknown: does the team actually comply? Compliance rate would signal team health
 - Unknown: are there other channels (project threads, client channels, dev channels)?
 
+## Team
+- [[wiki/people/jacob-oluwole|Jacob Oluwole]]
+- [[wiki/people/adeleke-tolulope|Adeleke Tolulope]]
+- [[wiki/people/abiodun-solomon|Abiodun Solomon]]
+- [[wiki/people/taiwo-ola-balogun|Taiwo Ola-Balogun]]
+
+## Meeting Notes
+Captured in [[wiki/summaries/index|Summaries]]. Teams chat summaries auto-pulled weekly.
+
 ## Connections
 
 - [[wiki/moil/metrics]] — team health / attendance compliance is a useful operational metric
-- [[wiki/meetings/teams-attendance-protocol-2026-04]] — the meeting record where this was first documented
 - [[wiki/concepts/brain-architecture]] — Teams is part of the communication layer the Brain should eventually monitor
 
 ## Moil Relevance
 
 This is Andres's own team infrastructure. Understanding the operating rhythm helps the Brain anticipate when team members are active/responsive and surfaces any gaps (people not checking in = potential churn signal or project risk). A future Teams pull with human responses would unlock full team roster intelligence.
+
+## Related
+- [[wiki/moil/index|Moil Hub]]
+- [[wiki/andres/dashboard|Dashboard]]

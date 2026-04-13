@@ -38,9 +38,17 @@ Every file in `../raw/` has a matching summary here. Summaries are the Layer 3 "
 - [[wiki/summaries/outlook-emails-2026-04-09]] — Inbox digest Apr 9
 - [[wiki/summaries/facebook-pages-2026-04-09]] — AIbyAndres + MoilWorks FB pages
 
+### Teams & communications
+- [[wiki/summaries/teams-2026-04-12]] — Teams messages Apr 5–12 (customers, deals, team ops)
+
+### Email archive
+- [[wiki/summaries/email-history-2026-04-12]] — Recent inbox digest
+- [[wiki/summaries/email-history-2months-2026-04-12]] — 2-month email archive
+
 ### Weekly bookmark sweeps
-- [[wiki/summaries/x-bookmarks-2026-04-11-copy]] — ⭐ 129 items (preferred for synthesis)
-- [[wiki/summaries/x-bookmarks-2026-04-11]] — 114 items (shorter sibling)
+- [[wiki/summaries/x-bookmarks-deep-compile-2026-04-12]] — ⭐ Deep compile (preferred for synthesis)
+- [[wiki/summaries/x-bookmarks-2026-04-11-copy]] — 129 items (Apr 11)
+- [[wiki/summaries/x-bookmarks-2026-04-11]] — 114 items (shorter sibling, Apr 11)
 
 ---
 
