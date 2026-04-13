@@ -1,4 +1,7 @@
 ---
+title: "Daniel Guadiano"
+role: "General Manager"
+org: "Astra Restaurant and Bar"
 tags:
   - graph/spoke
   - person/customer

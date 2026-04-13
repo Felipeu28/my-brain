@@ -1,4 +1,7 @@
 ---
+title: "Abel Esquivel Luna"
+role: "HR/Talent Operations"
+org: "Zachary Corporation"
 tags:
   - graph/spoke
   - person/team

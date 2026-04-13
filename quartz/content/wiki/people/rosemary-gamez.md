@@ -1,4 +1,6 @@
 ---
+title: "Rosemary Gamez"
+org: "Greater Buda Chamber of Commerce"
 tags:
   - graph/spoke
   - person/partner

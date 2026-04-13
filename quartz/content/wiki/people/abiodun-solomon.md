@@ -1,4 +1,7 @@
 ---
+title: "Abiodun Adekanmi"
+role: "UI/UX Designer"
+org: "Moil"
 tags:
   - graph/spoke
   - person/team

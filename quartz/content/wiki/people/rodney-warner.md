@@ -1,4 +1,7 @@
 ---
+title: "Rodney Warner"
+role: "Azure Support Engineer"
+org: "Teknowledge Global Ltd"
 tags:
   - graph/spoke
   - person/vendor

@@ -1,4 +1,6 @@
 ---
+title: "John Costilla"
+org: "Buda EDC"
 tags:
   - graph/hub
   - person/personal

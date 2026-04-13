@@ -1,4 +1,6 @@
 ---
+title: "Monica Pena"
+org: "EGBI"
 tags:
   - graph/spoke
   - person/partner

@@ -1,4 +1,7 @@
 ---
+title: "Casey Earley"
+role: "Assistant to Jacquie Martinez"
+org: "Buda EDC"
 tags:
   - graph/spoke
   - person/partner

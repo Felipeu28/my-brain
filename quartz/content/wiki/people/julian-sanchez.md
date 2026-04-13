@@ -1,4 +1,5 @@
 ---
+title: "Julian David Sanchez Real"
 tags:
   - graph/spoke
   - person/partner

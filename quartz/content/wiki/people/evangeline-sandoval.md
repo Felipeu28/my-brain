@@ -1,4 +1,7 @@
 ---
+title: "Evangeline Sandoval"
+role: "Site Director"
+org: "Texas Office for Refugees"
 tags:
   - graph/spoke
   - person/partner

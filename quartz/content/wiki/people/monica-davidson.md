@@ -1,4 +1,7 @@
 ---
+title: "Monica Davidson"
+role: "Executive Director"
+org: "Greater Buda Chamber of Commerce"
 tags:
   - graph/spoke
   - person/partner

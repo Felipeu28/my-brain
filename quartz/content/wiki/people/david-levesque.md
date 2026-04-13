@@ -1,4 +1,6 @@
 ---
+title: "David Levesque"
+org: "Savari"
 tags:
   - graph/spoke
   - person/partner

@@ -2,6 +2,8 @@
 name: shay-foley
 description: Johns Creek Chamber of Commerce contact — deferred AI-tools partnership target
 type: person
+title: "Shay Foley"
+org: "Johns Creek Chamber of Commerce"
 tags:
   - graph/spoke
   - person/partner

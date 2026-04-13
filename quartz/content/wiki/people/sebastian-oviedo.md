@@ -1,4 +1,7 @@
 ---
+title: "Sebastian Oviedo"
+role: "Marketing Intern"
+org: "Moil"
 tags:
   - graph/spoke
   - person/team

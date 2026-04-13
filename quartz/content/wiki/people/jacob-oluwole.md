@@ -1,4 +1,7 @@
 ---
+title: "Jacob Oluwole"
+role: "Project Manager"
+org: "Moil"
 tags:
   - graph/hub
   - person/team

@@ -1,4 +1,5 @@
 ---
+title: "Wyatt Hook"
 tags:
   - graph/spoke
   - person/customer

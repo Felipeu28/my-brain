@@ -1,4 +1,7 @@
 ---
+title: "Adeleke Tolulope"
+role: "Lead AI/ML Engineer"
+org: "Moil"
 tags:
   - graph/hub
   - person/team

@@ -1,4 +1,7 @@
 ---
+title: "Zane Gibson"
+role: "Program Coordinator"
+org: "Texas Office for Refugees"
 tags:
   - graph/spoke
   - person/customer

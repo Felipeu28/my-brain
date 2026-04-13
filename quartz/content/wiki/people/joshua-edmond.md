@@ -1,4 +1,6 @@
 ---
+title: "Joshua Edmond"
+org: "JuCoAI"
 tags:
   - graph/spoke
   - person/partner

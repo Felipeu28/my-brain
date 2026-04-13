@@ -1,4 +1,7 @@
 ---
+title: "Jacquie Hollis Martinez"
+role: "Assistant Director of Small Business Initiatives"
+org: "Buda EDC"
 tags:
   - graph/spoke
   - person/partner

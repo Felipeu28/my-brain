@@ -1,4 +1,7 @@
 ---
+title: "Taiwo Ola-Balogun"
+role: "Frontend Engineer"
+org: "Moil"
 tags:
   - graph/spoke
   - person/team

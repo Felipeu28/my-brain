@@ -1,4 +1,7 @@
 ---
+title: "Paula Florez-Estrada Valverde"
+role: "Azure AI Activation Advisor"
+org: "Microsoft Founders Hub"
 tags:
   - graph/spoke
   - person/vendor

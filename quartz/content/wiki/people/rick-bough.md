@@ -1,4 +1,7 @@
 ---
+title: "Rick Bough"
+role: "CTE Coordinator"
+org: "Hays CISD"
 tags:
   - graph/spoke
   - person/customer
