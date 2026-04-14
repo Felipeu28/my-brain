@@ -1,6 +1,6 @@
 # Moil Brain — Master Index
 
-**Last compiled:** 2026-04-14 (Run 6 — Active Client + HIVE Batch) · **Total wiki pages:** ~213 · **Raw sources ingested:** 91/91
+**Last compiled:** 2026-04-14 (Run 6 + data-quality cleanup) · **Total wiki pages:** 190 · **Raw sources:** 192
 
 > **Canonical operating truth lives outside the wiki:** if status or architecture notes here conflict with newer operating reality, use `~/My Brain/CURRENT_STATE.md` first.
 
@@ -24,14 +24,14 @@
 
 | Folder | Count | What's in it |
 |---|---|---|
-| [[wiki/moil/README\|moil/]] | 7 | Moil business — positioning, ICP, GTM, customers, competitors, metrics, product roadmap |
-| [[wiki/people/README\|people/]] | 36 | Personal network — family, friends, customers, collaborators, team |
-| [[wiki/minds/README\|minds/]] | 10 | Public AI thought leaders tracked from afar |
-| [[wiki/orgs/README\|orgs/]] | 4 | Customer, partner, and prospect organizations |
-| [[wiki/concepts/README\|concepts/]] | 32 | Frameworks, mental models, products, programs |
-| [[wiki/radar/README\|radar/]] | 1 | Append-only changelogs for fast-moving topics |
-| [[wiki/summaries/README\|summaries/]] | 16 | One structured summary per raw source |
-| [[wiki/meetings/README\|meetings/]] | 49 | Meeting records + async threads — decisions and action items |
+| [[wiki/moil/README|moil/]] | 11 | Moil business — positioning, ICP, GTM, customers, competitors, metrics, product roadmap, active-projects |
+| [[wiki/people/README|people/]] | 45 | Personal network — family, friends, customers, collaborators, team |
+| [[wiki/minds/README|minds/]] | 11 | Public AI thought leaders tracked from afar |
+| [[wiki/orgs/README|orgs/]] | 14 | Customer, partner, and prospect organizations |
+| [[wiki/concepts/README|concepts/]] | 35 | Frameworks, mental models, products, programs |
+| [[wiki/radar/README|radar/]] | 2 | Append-only changelogs for fast-moving topics |
+| [[wiki/summaries/README|summaries/]] | 17 | One structured summary per raw source |
+| [[wiki/meetings/README|meetings/]] | 53 | Meeting records + async threads — decisions and action items |
 
 ---
 

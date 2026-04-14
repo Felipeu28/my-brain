@@ -18,13 +18,13 @@ last_contact: 2026-04-14
 
 | Deal | Contact | Product | Value | Closed | Notes |
 |------|---------|---------|-------|--------|-------|
-| **Connectex** | [[wiki/people/mark-polanco\|Mark Polanco]] | Custom build + Airtable | Multi-quarter invoice | Apr 9 | 3-quarter payment; deliverables TBD |
+| **Connectex** | [[wiki/people/mark-polanco|Mark Polanco]] | Custom build + Airtable | Multi-quarter invoice | Apr 9 | 3-quarter payment; deliverables TBD |
 | **Alloy ATX** | r.yglesias@alloyatx.com | Content360 + Moil 360 | Monthly retainer | Apr 11 | Roxana Yglesias; confirm license + Ablad delivery |
-| **FitLogic** | [[wiki/people/megan-miller\|Megan Miller]] | Hiring | Per-hire | Apr 12 | First hire imminent; confirm and celebrate |
+| **FitLogic** | [[wiki/people/megan-miller|Megan Miller]] | Hiring | Per-hire | Apr 12 | First hire imminent; confirm and celebrate |
 | **Travis / Zoiwell** | travis@zoiwell.com | 1-year Moil 360 | ~$900/yr | Apr 9 | Sun Show showcase Apr 24; ask for testimonial |
 | **Jacob Centeno / Titan Tech** | titantechauthority@gmail.com | Starter ($15/mo) | $180/yr | Apr 8 | Monitor usage |
 | **PureSerenity** | jilledegs01@gmail.com | Moil 360 | License | Apr 10 | Site deployed; check for pending changes |
-| **Siren Beauty** | [[wiki/people/becky-torres\|Becky Torres]] | Website redesign + Moil 360 | $2,200 | Apr 6 | Full website project; next meeting TBD |
+| **Siren Beauty** | [[wiki/people/becky-torres|Becky Torres]] | Website redesign + Moil 360 | $2,200 | Apr 6 | Full website project; next meeting TBD |
 | **Eden** | — | Website discovery | Project | Apr 8 | Follow up on discovery call |
 | **Meridian Buda** | — | Full ticketed events platform | Closed | Apr 9 | Deployed with Stripe |
 | **Nuovo Entertainment** | — | Custom site | Closed | Apr 9 | Site deployed |

@@ -21,19 +21,19 @@ last_contact: 2026-04-14
 
 | Customer | Contact | What They Pay For | Payment | Last Contact | Notes |
 |---|---|---|---|---|---|
-| [[wiki/people/inna-benyukhis\|Inna Benyukhis]] | Healthy@empoweredwithinna.com | Content360 monthly retainer | $400 (Apr 8) | Apr 13 | Long-time client + friend; CRM build active; 1 open PR |
-| [[wiki/people/becky-torres\|Becky Torres]] / [[wiki/orgs/siren-beauty\|Siren Beauty]] | sirenbeautyandwellness@gmail.com | Website redesign + Moil 360 | $2,200 (Apr 6) | Apr 9 | Full SEO/AEO website project; flagship deliverable |
-| [[wiki/people/megan-miller\|Megan Miller]] / [[wiki/orgs/fitlogic\|FitLogic]] | meganmillernp@gmail.com | Hiring through Moil platform | Per-hire | Apr 1 | NP/hormone specialist; first hire imminent Apr 12 |
-| [[wiki/people/mark-polanco\|Mark Polanco]] / [[wiki/orgs/connectex\|Connectex]] | mark@connectex.net | Custom site + Airtable build | Multi-quarter invoice | Apr 9 | IT reseller CEO; closed Apr 9; 3-quarter payment schedule |
-| [[wiki/people/travis-sutherland\|Travis Sutherland]] / Zoiwell | travis@zoiwell.com | 1-year Moil 360 license | ~$900/yr | Apr 9 | Closed Apr 9; Sun Show showcase Apr 24 |
-| [[wiki/people/jacob-centeno\|Jacob Centeno]] / Titan Tech Authority | titantechauthority@gmail.com | Starter plan | $15/mo ($180/yr) | Apr 8 | Onboarded Apr 8; monitor usage |
+| [[wiki/people/inna-benyukhis|Inna Benyukhis]] | Healthy@empoweredwithinna.com | Content360 monthly retainer | $400 (Apr 8) | Apr 13 | Long-time client + friend; CRM build active; 1 open PR |
+| [[wiki/people/becky-torres|Becky Torres]] / [[wiki/orgs/siren-beauty|Siren Beauty]] | sirenbeautyandwellness@gmail.com | Website redesign + Moil 360 | $2,200 (Apr 6) | Apr 9 | Full SEO/AEO website project; flagship deliverable |
+| [[wiki/people/megan-miller|Megan Miller]] / [[wiki/orgs/fitlogic|FitLogic]] | meganmillernp@gmail.com | Hiring through Moil platform | Per-hire | Apr 1 | NP/hormone specialist; first hire imminent Apr 12 |
+| [[wiki/people/mark-polanco|Mark Polanco]] / [[wiki/orgs/connectex|Connectex]] | mark@connectex.net | Custom site + Airtable build | Multi-quarter invoice | Apr 9 | IT reseller CEO; closed Apr 9; 3-quarter payment schedule |
+| [[wiki/people/travis-sutherland|Travis Sutherland]] / Zoiwell | travis@zoiwell.com | 1-year Moil 360 license | ~$900/yr | Apr 9 | Closed Apr 9; Sun Show showcase Apr 24 |
+| [[wiki/people/jacob-centeno|Jacob Centeno]] / Titan Tech Authority | titantechauthority@gmail.com | Starter plan | $15/mo ($180/yr) | Apr 8 | Onboarded Apr 8; monitor usage |
 | PureSerenity (jilledegs01) | jilledegs01@gmail.com | Moil 360 license + site | License | Apr 10 | Site deployed; loved pure-serenity-green; changes needed? |
-| [[wiki/orgs/meridian-buda\|Meridian Buda]] | (Buda coffee/music venue) | Custom site — full ticketed events platform with Stripe | Closed | Apr 9 | ✅ Deployed; [meridian-buda](https://github.com/Moil-Landingpages/meridian-buda) |
-| [[wiki/orgs/nuovo-entertainment\|Nuovo Entertainment]] | (contact TBD) | Custom site | Closed | Apr 9 | Site deployed Apr 9; [Nuovo-Enterteinment](https://github.com/Moil-Landingpages/Nuovo-Enterteinment) |
-| [[wiki/orgs/urbanozuela\|Urbanzuela]] | [[wiki/people/ana-vetencourt\|Ana Vetencourt]] | Custom site | Family project | Apr 9 | Sister-in-law; site active |
+| [[wiki/orgs/meridian-buda|Meridian Buda]] | (Buda coffee/music venue) | Custom site — full ticketed events platform with Stripe | Closed | Apr 9 | ✅ Deployed; [meridian-buda](https://github.com/Moil-Landingpages/meridian-buda) |
+| [[wiki/orgs/nuovo-entertainment|Nuovo Entertainment]] | (contact TBD) | Custom site | Closed | Apr 9 | Site deployed Apr 9; [Nuovo-Enterteinment](https://github.com/Moil-Landingpages/Nuovo-Enterteinment) |
+| [[wiki/orgs/urbanozuela|Urbanzuela]] | [[wiki/people/ana-vetencourt|Ana Vetencourt]] | Custom site | Family project | Apr 9 | Sister-in-law; site active |
 | Anita Lansing / Organically Whole | anita@organicallywhole.com | Business plan via Moil platform (HIVE program) | HIVE-subsidized | Mar 31 | Platform UX friction flagged (navigation bug); HIVE cohort grad |
-| [[wiki/orgs/alloy-atx\|Alloy ATX]] | r.yglesias@alloyatx.com | Content360 + Moil 360 license | Monthly retainer | Apr 11 | Closed/closing Apr 11 (Roxana Yglesias) |
-| [[wiki/orgs/buda-edc\|Buda EDC]] / HIVE | [[wiki/people/jacquie-martinez]], [[wiki/people/jennifer-storm]] | Per-seat Moil licenses for HIVE cohort participants | Per-cohort (B2G) | Apr 2 | Cohort 4 starts Apr 20; contract approved by Board Apr 15 |
+| [[wiki/orgs/alloy-atx|Alloy ATX]] | r.yglesias@alloyatx.com | Content360 + Moil 360 license | Monthly retainer | Apr 11 | Closed/closing Apr 11 (Roxana Yglesias) |
+| [[wiki/orgs/buda-edc|Buda EDC]] / HIVE | [[wiki/people/jacquie-martinez]], [[wiki/people/jennifer-storm]] | Per-seat Moil licenses for HIVE cohort participants | Per-cohort (B2G) | Apr 2 | Cohort 4 starts Apr 20; contract approved by Board Apr 15 |
 
 ---
 
@@ -53,9 +53,9 @@ last_contact: 2026-04-14
 
 | Customer | Type | Use Case | Last Known | Notes |
 |---|---|---|---|---|
-| [[wiki/people/abel-esquivel-luna\|Zachary Corporation (Abel Esquivel Luna)]] | Enterprise | Multi-city job posting; blue-collar hiring at scale | Aug 2024 | First enterprise customer; $699/yr deal; 80+ jobs at peak |
+| [[wiki/people/abel-esquivel-luna|Zachary Corporation (Abel Esquivel Luna)]] | Enterprise | Multi-city job posting; blue-collar hiring at scale | Aug 2024 | First enterprise customer; $699/yr deal; 80+ jobs at peak |
 | TXOR (Zane Gibson) | Community org | Virtual resume-building workshops | Nov 2024 | 30+ participants in Apr 2025 session; re-verify if recurring |
-| Tampa Bay (via [[wiki/people/wyatt-hook\|Wyatt Hook]] / [[wiki/people/zachary-barker\|Zachary Barker]]) | Enterprise eval | Platform evaluation | May 2025 | Unconfirmed; Zachary mentioned "not for public" in May 2025 |
+| Tampa Bay (via [[wiki/people/wyatt-hook|Wyatt Hook]] / [[wiki/people/zachary-barker|Zachary Barker]]) | Enterprise eval | Platform evaluation | May 2025 | Unconfirmed; Zachary mentioned "not for public" in May 2025 |
 
 ---
 

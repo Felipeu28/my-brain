@@ -507,3 +507,37 @@ To ingest a new source:
 
 **Summary:** Run 6 confirmed 13 active paying P1 clients in April 2026. Rebuilt customers.md and pipeline.md with importance × recency structure. Key intelligence: Siren Beauty full website project scope, Inna's $15K+ wasted marketing backstory, Zachary Barker's Tampa Bay signal for B2G thesis, Azure account disaster context.
 
+
+### 2026-04-14 — Data-quality cleanup + MEMORY.md archive migration
+
+- **Type:** maintenance
+- **Summary:** Fast-win audit fixes. Deduplicated raw/ (38 MD5-identical files removed, all from raw/onedrive-transcripts/). Renamed Cyrillic `buda-hive-edс-2026-04-09.md` → `buda-hive-edc-*` (ASCII). Consolidated two x-bookmarks duplicate pairs (kept the deeper 129-item version, now canonical name). Fixed 41 escape-broken wikilinks (`[[target\|Display]]` → `[[target|Display]]`) across ANDRES.md, customers.md, pipeline.md. Corrected index.md stats: now 190 wiki pages / 192 raw sources (was claiming 213/91).
+
+### Archive — May 2025 historical verify items (moved here from MEMORY.md 2026-04-14)
+
+These were flagged from Aug 2024–May 2025 meeting transcripts ingested Apr 12. Moved out of MEMORY.md to keep it under the 200-line rule. If any become active, promote back to MEMORY.md.
+
+- Azure access for Adeleke (~May 2025 support case)
+- Job matching algorithm weighted update (Adeleke Apr 2025)
+- Google → Microsoft migration (deadline May 5, 2025)
+- HubSpot full access for Jacob (after May 15, 2025)
+- Business Plan Creator bugs: personas, TAM/SAM, competitor map, cost structure, milestones, plan display
+- Interview Tool MVP (Andres said "build without design first" — May 2025)
+- Social post auto-generation on job creation (Grok + template)
+- Sebastian Oviedo 4-week marketing engagement (Apr 28–May 26, 2025)
+- Manos De Cristo workshops (June 2025 — 3 Fridays)
+- Sakuri Corporation Texas job listings (Jacob assigned)
+- Zachary/Great Construction Corp account status
+- UTSA license opportunity via EDC contact
+- Tampa Bay (Zachary Barker) enterprise evaluation — see [[wiki/meetings/2025-05-15-zachary-barker-wyatt-hook-enterprise]]
+- $4,250 API integration (Wyatt Hook / Josh Edmond) — decision?
+- Sandbox access for Tampa Bay testing — provisioned?
+- Brave Search API for BPC hallucination reduction — implemented?
+- Azure directory tenant mismatch (Rodney Warner) — restored?
+- TXOR recurring workshops (Evangeline Sandoval, Nov 2024)
+- TXOR caseworker training (proposed Nov 2024)
+- Live hiring podcast (TXOR + EGBI + Julian Sanchez, Oct–Nov 2024)
+- EGBI Echo Squad LinkedIn pod (Nov 2024–Feb 2025)
+- Julian Sanchez FB Live Spanish content (late Oct 2024)
+- Councilman Velasquez / Vanessa Fuentes civic initiatives
+- Nvidia Inception credits (25 DLI, received Jan 2025)

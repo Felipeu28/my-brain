@@ -43,20 +43,20 @@ tags:
 
 | Who | Role | Status |
 |-----|------|--------|
-| [[wiki/people/jennifer-storm\|Jennifer Storm]] | Buda EDC CEO | 🟢 Active — Board vote Apr 15 |
-| [[wiki/people/jacob-oluwole\|Jacob]] | PM | 🟢 Active — onboarding customers daily |
-| [[wiki/people/adeleke-tolulope\|Adeleke]] | Lead Engineer | 🟢 Active — 181 messages this week |
-| [[wiki/people/becky-torres\|Becky Torres]] | Siren Beauty (P1 client) | 🟢 Active — $2,200 paid Apr 6 |
-| [[wiki/people/inna-benyukhis\|Inna Benyukhis]] | LadyBoss (P1 client) | 🟢 Active — coaching ongoing |
-| [[wiki/people/megan-miller\|Megan Miller]] | FitLogic (P1 client) | 🟢 Active — using hiring platform |
-| [[wiki/people/travis-sutherland\|Travis Sutherland]] | Zoiwell / Sun Show | 🟢 Active — onboarded Apr 9 |
-| [[wiki/people/mark-polanco\|Mark Polanco]] | Connectex | 🟢 Closed Apr 9 — verify payment |
-| [[wiki/people/hive-cohort-members\|HIVE Cohort]] | Buda EDC participants | 🟢 Cohort 4 Apr 20 — Terry, Laura, Sarah, Carol, Liz, Miguel |
-| [[wiki/people/roxana-yglesias\|Roxana Yglesias]] | Warm — closing | 🟡 Closing Apr 11 — confirm |
-| [[wiki/people/rashaka-boykins\|Rashaka Boykins]] | Warm prospect | 🟡 Two intro calls — follow up |
-| [[wiki/people/roxana-esquivel\|Roxana Esquivel]] | Warm prospect | 🟡 Intro call Mar 13 — follow up |
-| [[wiki/people/kim-dowers\|Kim Dowers]] | Queen Creek Chamber | 💤 Deferred — re-engage Jul 1 |
-| [[wiki/people/daniel-guadiano\|Daniel Guadiano]] | Astra Restaurant | 🟡 Follow up — emailed Apr 9 |
+| [[wiki/people/jennifer-storm|Jennifer Storm]] | Buda EDC CEO | 🟢 Active — Board vote Apr 15 |
+| [[wiki/people/jacob-oluwole|Jacob]] | PM | 🟢 Active — onboarding customers daily |
+| [[wiki/people/adeleke-tolulope|Adeleke]] | Lead Engineer | 🟢 Active — 181 messages this week |
+| [[wiki/people/becky-torres|Becky Torres]] | Siren Beauty (P1 client) | 🟢 Active — $2,200 paid Apr 6 |
+| [[wiki/people/inna-benyukhis|Inna Benyukhis]] | LadyBoss (P1 client) | 🟢 Active — coaching ongoing |
+| [[wiki/people/megan-miller|Megan Miller]] | FitLogic (P1 client) | 🟢 Active — using hiring platform |
+| [[wiki/people/travis-sutherland|Travis Sutherland]] | Zoiwell / Sun Show | 🟢 Active — onboarded Apr 9 |
+| [[wiki/people/mark-polanco|Mark Polanco]] | Connectex | 🟢 Closed Apr 9 — verify payment |
+| [[wiki/people/hive-cohort-members|HIVE Cohort]] | Buda EDC participants | 🟢 Cohort 4 Apr 20 — Terry, Laura, Sarah, Carol, Liz, Miguel |
+| [[wiki/people/roxana-yglesias|Roxana Yglesias]] | Warm — closing | 🟡 Closing Apr 11 — confirm |
+| [[wiki/people/rashaka-boykins|Rashaka Boykins]] | Warm prospect | 🟡 Two intro calls — follow up |
+| [[wiki/people/roxana-esquivel|Roxana Esquivel]] | Warm prospect | 🟡 Intro call Mar 13 — follow up |
+| [[wiki/people/kim-dowers|Kim Dowers]] | Queen Creek Chamber | 💤 Deferred — re-engage Jul 1 |
+| [[wiki/people/daniel-guadiano|Daniel Guadiano]] | Astra Restaurant | 🟡 Follow up — emailed Apr 9 |
 
 ## Active Projects
 
@@ -78,12 +78,12 @@ tags:
 
 | | |
 |---|---|
-| [[wiki/moil/positioning\|Positioning]] | One-liner, messaging, what we don't say |
-| [[wiki/moil/gtm\|Go-to-Market]] | Channels, experiments, sales process |
-| [[wiki/moil/icp\|ICP]] | Who we sell to, Apollo filters |
-| [[wiki/moil/product-roadmap\|Product Roadmap]] | AI stack, features, enterprise |
-| [[wiki/moil/metrics\|Metrics]] | Revenue, unit economics, hiring stats |
-| [[wiki/moil/customers\|Customers]] | P1/P2/P3 tiers — named accounts |
+| [[wiki/moil/positioning|Positioning]] | One-liner, messaging, what we don't say |
+| [[wiki/moil/gtm|Go-to-Market]] | Channels, experiments, sales process |
+| [[wiki/moil/icp|ICP]] | Who we sell to, Apollo filters |
+| [[wiki/moil/product-roadmap|Product Roadmap]] | AI stack, features, enterprise |
+| [[wiki/moil/metrics|Metrics]] | Revenue, unit economics, hiring stats |
+| [[wiki/moil/customers|Customers]] | P1/P2/P3 tiers — named accounts |
 
 ## Content This Week
 

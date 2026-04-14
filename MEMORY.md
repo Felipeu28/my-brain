@@ -174,35 +174,7 @@ Source: [[wiki/concepts/claude-code]]
 
 ## ✅ Closed / Archive
 
-*(Items move here after they're marked complete and confirmed stable for a week.)*
+*(Items move here after they're marked complete and confirmed stable for a week. Historical items older than a month live in [[log]] instead.)*
 
 - [x] **2026-04-10** — AEDO support letter drafted, signed, submitted to Jennifer Storm. Reply: "This is perfect!" — source: [[wiki/summaries/buda-hive-edc-2026-04-11]]
-
-### Archived 2026-04-14 — May 2025 historical items (pruned — verify on demand)
-
-These were flagged from Aug 2024–May 2025 meeting transcripts ingested Apr 12. Pruned to keep MEMORY.md under 200 lines. If any are still open, add them back.
-
-- Azure access for Adeleke (~May 2025 support case)
-- Job matching algorithm weighted update (Adeleke Apr 2025)
-- Google → Microsoft migration (deadline May 5, 2025)
-- HubSpot full access for Jacob (after May 15, 2025)
-- Business Plan Creator bugs: personas, TAM/SAM, competitor map, cost structure, milestones, plan display
-- Interview Tool MVP (Andres said "build without design first" — May 2025)
-- Social post auto-generation on job creation (Grok + template)
-- Sebastian Oviedo 4-week marketing engagement (Apr 28–May 26, 2025)
-- Manos De Cristo workshops (June 2025 — 3 Fridays)
-- Sakuri Corporation Texas job listings (Jacob assigned)
-- Zachary/Great Construction Corp account status
-- UTSA license opportunity via EDC contact
-- Tampa Bay (Zachary Barker) enterprise evaluation — see [[wiki/meetings/2025-05-15-zachary-barker-wyatt-hook-enterprise]]
-- $4,250 API integration (Wyatt Hook / Josh Edmond) — decision?
-- Sandbox access for Tampa Bay testing — provisioned?
-- Brave Search API for BPC hallucination reduction — implemented?
-- Azure directory tenant mismatch (Rodney Warner) — restored?
-- TXOR recurring workshops (Evangeline Sandoval, Nov 2024)
-- TXOR caseworker training (proposed Nov 2024)
-- Live hiring podcast (TXOR + EGBI + Julian Sanchez, Oct–Nov 2024)
-- EGBI Echo Squad LinkedIn pod (Nov 2024–Feb 2025)
-- Julian Sanchez FB Live Spanish content (late Oct 2024)
-- Councilman Velasquez / Vanessa Fuentes civic initiatives
-- Nvidia Inception credits (25 DLI, received Jan 2025)
+- [x] **2026-04-14** — Data-quality cleanup: 38 duplicate raw files removed, escape-broken wikilinks fixed, index.md stats corrected. May 2025 historical archive moved to [[log]] — see "Archive — May 2025 historical verify items" block.
