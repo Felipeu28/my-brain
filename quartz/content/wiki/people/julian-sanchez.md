@@ -1,5 +1,6 @@
 ---
-title: "Julian David Sanchez Real"
+status: warm
+last_contact: 2024-10-22
 tags:
   - graph/spoke
   - person/partner

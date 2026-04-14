@@ -1,7 +1,6 @@
 ---
-title: "Enrique Castro"
-role: "Director of Membership"
-org: "Greater Austin Hispanic Chamber of Commerce"
+status: warm
+last_contact: 2026-03-01
 tags:
   - graph/spoke
   - person/partner

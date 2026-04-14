@@ -1,7 +1,6 @@
 ---
-title: "Rick Bough"
-role: "CTE Coordinator"
-org: "Hays CISD"
+status: warm
+last_contact: 2026-03-26
 tags:
   - graph/spoke
   - person/customer

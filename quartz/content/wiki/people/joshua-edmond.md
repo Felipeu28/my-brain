@@ -1,6 +1,6 @@
 ---
-title: "Joshua Edmond"
-org: "JuCoAI"
+status: archived
+last_contact: 2025-06-01
 tags:
   - graph/spoke
   - person/partner

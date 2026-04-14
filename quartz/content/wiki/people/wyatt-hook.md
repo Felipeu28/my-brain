@@ -1,8 +1,9 @@
 ---
-title: "Wyatt Hook"
+status: warm
+last_contact: 2025-05-15
 tags:
   - graph/spoke
-  - person/customer
+  - person/vendor
 ---
 # Wyatt Hook
 

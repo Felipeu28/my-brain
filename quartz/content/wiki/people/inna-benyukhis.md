@@ -1,54 +1,107 @@
 ---
-title: "Inna Benyukhis"
 tags:
   - graph/spoke
   - person/customer
+status: active
+last_contact: 2026-04-13
 ---
 # Inna Benyukhis
 
 **Type:** person
-**Last updated:** 2026-04-12
-**Source:** [[raw/imessages-people-2026-04-09]], [[raw/outlook-emails-2026-04-09]], [[raw/github-project-tracker]], [[raw/teams-2026-04-12]]
+**Last updated:** 2026-04-14
+**Source:** [[raw/imessages-people-2026-04-09]], [[raw/outlook-emails-2026-04-09]], [[raw/github-project-tracker]], [[raw/teams-2026-04-12]], [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/hive-inna]], [[raw/hive-inna-s-website-feedback]], [[raw/hive-empowered-nutrition-project-breakdown]], [[raw/hive-coaching-session-summary]], [[raw/email-history-6months-2026-04-14]]
 **Related:** [[wiki/moil/gtm]], [[wiki/concepts/buda-hive]], [[wiki/people/abiodun-solomon]]
 
 ---
 
 **Relationship:** Long-time client and friend
+**Business:** Empowered Nutrition with Inna (a.k.a. Empowered Nutrition and Wellness)
+**Email:** Healthy@empoweredwithinna.com
+**Niche:** Holistic Nutritionist / Functional Medicine for women over 40
 
-## Active Projects
+---
 
-Inna has **two dedicated repos** in the Moil-Landingpages GitHub org — more than most clients:
+## Business Profile
 
-- **[Inna-CRM](https://github.com/Moil-Landingpages/Inna-CRM)** — Active (last push Apr 6, 2026). **1 open PR needs review.** This is a priority item.
-- **[Inna-Marketing-Calendar](https://github.com/Moil-Landingpages/Inna-Marketing-Calendar)** — Stale (last push Oct 10, 2025). Marketing calendar tool — may need revival or archiving.
+Inna is a certified holistic nutritionist and Simplified Functional Medicine (SFM) practitioner. She started the business after her daughter experienced serious health issues in 2011 (heart issues, suicidal ideation, years of medical searching). This personal journey makes her exceptionally compassionate and driven to educate and empower others.
 
-## Recent Activity
+**Target client:** Women over 40 who want to regain energy, emotional balance, and confidence through root-cause functional lab testing and personalized nutrition.
 
-- **Apr 7, 2026:** Confirmed invitation via Outlook email
-- **Apr 9, 2026:** Requested meeting via Calendly — availability for Monday Apr 13 at 10am or Friday after 2pm. In-person, 60-minute meeting.
+**Core offer:**
+- Initial consultation: $99
+- Functional lab testing: $325
+- Supplement recommendations: ~$200
+- Total initial engagement: ~$624
 
-## April 2026 Content360 Delivery (from Teams Moil Marketing chat)
+**Certifications:** SFM (Simplified Functional Medicine); previously bought into a coaching/licensing program for holistic practitioners.
 
-Inna is an **active Content360 delivery client**. The team creates and posts content for her business on a monthly calendar:
-- Andres added all of May to Inna's calendar (Apr 8) since she will be out of town later in the month
-- Abiodun (Ablad) delivered Apr 6–8 content: animated flyers, liver signs video, "Working with Inna" video
-- Jacob flagged that content from Apr 1–8 disappeared from the calendar after a platform update (data loss risk)
-- Jacob suggested CSV export before importing new changes (process improvement adopted)
-- Abiodun confirmed email to Jacob about Inna content; Jacob replied and noticed pricing inconsistency on booking page
-- Andres warned team: "We can't have this happening again! Let's please be careful" — content reliability is a customer trust issue
+## Active Projects with Moil
 
-**Key insight:** Inna's content delivery is the operational proof-of-concept for Content360 as a service. Her content quality matters for brand credibility.
+Inna has **two dedicated repos** in the Moil-Landingpages GitHub org:
 
-## Context Gaps
+| Repo | Status | Notes |
+|---|---|---|
+| [Inna-CRM](https://github.com/Moil-Landingpages/Inna-CRM) | ✅ Active (last push Apr 6, 2026) | **1 open PR needs review.** Display bug — contacts not showing in pipeline |
+| [Inna-Marketing-Calendar](https://github.com/Moil-Landingpages/Inna-Marketing-Calendar) | ⚠️ Stale (last push Oct 10, 2025) | Marketing calendar tool — revival or archiving decision needed |
 
-Andres describes Inna as a long-time client and friend, which means the relationship runs deeper than what the raw files captured. The Brain currently has only scheduling and GitHub data. Next steps to fill this out:
+**April 13 status (from Monday Collaboration meeting):**
+- CRM looks good visually — Andres praised the design
+- **ISSUE:** CRM not reading contacts in the pipeline (display bug)
+- **ISSUE:** Campaigns API key not yet added for Inna's account
+- Both flagged as high-priority fixes
 
-- Review iMessage history with Inna for project context and relationship depth
-- Review Outlook email threads for business discussions
-- Understand what the CRM and Marketing Calendar tools are for — are these Moil-powered tools for Inna's own business, or custom builds?
+See [[wiki/meetings/2026-04-13-monday-collaboration]] for full context.
+
+## Content360 Delivery (Active Retainer)
+
+Inna is on an **active Content360 content retainer**. The team creates and posts content monthly:
+- **Apr 8, 2026:** Stripe payment of **$400** received
+- Abiodun (Ablad) delivers animated flyers, liver-signs video, "Working with Inna" videos
+- Andres pre-loaded all of May to her calendar (she'll be traveling later in the month)
+- **Content data loss incident (Apr):** Content from Apr 1–8 disappeared after a platform update; Jacob flagged CSV export as process improvement (now adopted)
+
+**Key insight:** Inna's content delivery is the proof-of-concept for Content360 as a scalable service. Her content quality is a brand credibility signal for Moil.
+
+## Past Marketing History (Context for Moil's Value)
+
+Inna has spent $15K+ on marketing with poor ROI across all vendors:
+
+| Vendor | Services | Cost | Result |
+|---|---|---|---|
+| SFM Marketing Team | Ads via GoHighLevel | $600/mo ads + $2,400/mo total | No real results |
+| Marketer #1 | Social media mgmt | $750/mo (3mo) or $650/mo (6mo) | Doubled followers, no business impact |
+| Atomic Productions (current) | Social media + ads | $1,300/mo + $1,000 setup | +10 followers, 4 posts/week, poor engagement |
+| Business coach | Coaching | $300/mo | Ongoing |
+
+**HIVE coaching recommendations for Inna:**
+- Pause all paid ads until brand positioning is redefined
+- Find current website hosting access (previously managed externally — access unclear)
+- Use Moil Business Plan Creator for brand clarity and structure
+- Shift to organic, story-driven content (video testimonials, founder story)
+- Launch email campaigns with half the current ad spend
+
+## Website Project (In Progress)
+
+**Landing page feedback:** Remove "corporate wellness" language, replace with group programs. Crop supplement image from landing page hero.
+
+**Services to emphasize:** 1:1 Wellness Coaching, Group Coaching, Wellness Programs
+
+**Empowered Nutrition website development plan** (HIVE document) — 6-module AI-powered build:
+1. Project Definition & Branding (colors: Dark Green #183b10, Medium Green #256439, Light Green #53a107, accents: Yellow #FCAF15, Coral #E88074)
+2. Layout & UX Wireframe (hero video/photo, animated symptom display, services grid, testimonials, book CTA)
+3. Visual Design & Style Guide
+4. Content (section by section: hero copy, My Story 250–300 words, testimonials)
+5. Conversion & Engagement (live chat script, CTA placement, lead magnet)
+6. SEO, Performance & Launch (meta titles, structured data: LocalBusiness + MedicalClinic, mobile optimization)
 
 ## Open Items
 
+- [ ] Fix CRM contact pipeline display (contacts not showing)
+- [ ] Add campaigns API key to Inna's account
 - [ ] Review and merge Inna-CRM open PR
-- [ ] Confirm meeting (Apr 13 or Friday)
-- [ ] Assess Inna-Marketing-Calendar — revive or archive?
+- [ ] Decide: revive or archive Inna-Marketing-Calendar
+- [ ] Website: find hosting access → send redesign questionnaire → begin build
+
+## Relationship Notes
+
+Inna is described by Andres as a "long-time client and friend." Meeting confirmed Apr 13, 2026 at 10am (in-person, 60 min). High trust level — relationship runs deeper than a typical client engagement.

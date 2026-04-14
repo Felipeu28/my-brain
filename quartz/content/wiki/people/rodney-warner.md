@@ -1,7 +1,6 @@
 ---
-title: "Rodney Warner"
-role: "Azure Support Engineer"
-org: "Teknowledge Global Ltd"
+status: warm
+last_contact: 2026-03-01
 tags:
   - graph/spoke
   - person/vendor

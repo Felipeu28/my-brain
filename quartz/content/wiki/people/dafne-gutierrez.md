@@ -1,5 +1,6 @@
 ---
-title: "Dafne Gutierrez"
+status: warm
+last_contact: 2026-02-28
 tags:
   - graph/spoke
   - person/customer

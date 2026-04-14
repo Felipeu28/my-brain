@@ -1,7 +1,6 @@
 ---
-title: "Casey Earley"
-role: "Assistant to Jacquie Martinez"
-org: "Buda EDC"
+status: warm
+last_contact: 2026-03-01
 tags:
   - graph/spoke
   - person/partner

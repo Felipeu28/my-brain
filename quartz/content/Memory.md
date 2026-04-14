@@ -1,6 +1,6 @@
 # MEMORY — Open Actions & Live Commitments
 
-**Last updated:** 2026-04-12 (Teams 415-message ingestion)
+**Last updated:** 2026-04-14 (pruned stale May 2025 + Oct 2024 historical items)
 **Purpose:** Single source of truth for open action items extracted from ingested raw sources. Claude Code updates this file during ingestion runs.
 
 > For relationship and concept context, see [[index]]. For ingestion history, see [[log]].
@@ -71,48 +71,6 @@ Source: [[wiki/summaries/imessages-people-2026-04-09]]
 
 ---
 
-## 🔔 New from meetings ingestion (2026-04-12) — 25 OneDrive transcripts
-
-Source: [[raw/meetings/]] — Aug 2024–May 2025 meeting recordings
-
-### Historical action items (may be complete — verify)
-
-**Product / Engineering**
-- [ ] Verify: Azure access issue for Adeleke resolved? (Andres submitted support case ~May 2025)
-- [ ] Verify: Job matching algorithm weighted update deployed to production? (Adeleke confirmed Apr 9)
-- [ ] Verify: Google → Microsoft migration completed? (Deadline was May 5, 2025)
-- [ ] Verify: HubSpot full access granted to Jacob after May 15, 2025?
-
-**Business Plan Creator bugs (from May 2025 — check current status)**
-- [ ] Customer persona pipeline fixed (personas passing to o3-mini)?
-- [ ] TAM/SAM calculation validated?
-- [ ] Competitor map moved to competitor section?
-- [ ] Cost structure personalization (dropdown) added?
-- [ ] Milestone completion/tracking added?
-- [ ] Plan display default fixed for subscribed users?
-
-**Interview Tool**
-- [ ] MVP development started? (Andres said to build without design first — May 2025)
-
-**Social Media Automation**
-- [ ] Auto-generate social post on job creation (Grok + template) — built?
-
-**Marketing**
-- [ ] Sebastian Oviedo 4-week marketing engagement completed? (Started Apr 28, 2025 — 4 weeks = ~May 26)
-- [ ] June 2025 Manos De Cristo workshops — delivered? (3 Fridays in June: 13, 20, 27)
-
-**Clients**
-- [ ] Sakuri Corporation — ALL Texas job listings organized by city and posted? (Jacob assigned)
-- [ ] Zachary / Great Construction Corp — account active and delivering job postings?
-
-**UTSA License Opportunity**
-- [ ] EDC contact intro to UTSA for Business Plan Creator license — followed up?
-
-**Team**
-- [ ] Family emergency — check in with Abiodun Solomon (Ablad) after hospital visit (Apr 2025)
-
----
-
 ## 🔔 New from Teams ingestion (2026-04-12) — 415 messages, Apr 5–12
 
 Source: [[wiki/summaries/teams-2026-04-12]]
@@ -153,29 +111,6 @@ Source: [[wiki/summaries/teams-2026-04-12]]
 - [ ] **Credentials in Teams chat:** Stripe keys, Supabase passwords, Gemini API key, FB codes all shared in plaintext. Migrate to a secure credential store (1Password, Bitwarden, or at minimum a pinned secure note)
 
 ---
-
-## 🔔 New from Run 3 meetings ingestion (2026-04-12) — 28 transcript files
-
-Source: [[raw/meetings/]] — Oct 2024–May 2025 transcript backfill
-
-### Enterprise / Customer follow-ups
-- [ ] **Tampa Bay prospect:** Zachary Barker disclosed city of Tampa Bay evaluating the platform. Track status — potential major enterprise deal. ([[wiki/meetings/2025-05-15-zachary-barker-wyatt-hook-enterprise]])
-- [ ] **API integration decision:** $4,250 one-time for integration APIs from Wyatt Hook's platform. Josh Edmond evaluating vs. HubSpot webhook approach. Was a decision made?
-- [ ] **Sandbox access:** Zachary requested sandbox re-enabled for Tampa Bay testing. Verify if provisioned. Contact: [[wiki/people/wyatt-hook]]
-
-### Product / Engineering
-- [ ] **Brave API for BPC:** Team agreed to adopt Brave Search API for real-time data in Business Plan Creator to reduce hallucination. Was this implemented? ([[wiki/meetings/2025-05-17-prompt-reviews-bpc-quality]])
-- [ ] **BPC competitor map:** Decision to move business location pin to competitor section and show actual competitors. Verify current state
-- [ ] **Azure directory fix:** Rodney Warner (Microsoft) identified tenant mismatch. Was the original directory restored? ([[wiki/meetings/2025-05-20-azure-resources-support-call]])
-
-### Partnerships (historical — verify status)
-- [ ] **TXOR recurring workshops:** Evangeline Sandoval agreed to set up recurring resume-building sessions (Nov 2024). Are these still running? ([[wiki/meetings/2024-11-13-txor-moil-partnership-call]])
-- [ ] **TXOR caseworker training:** Was formal caseworker training delivered? (proposed Nov 2024)
-- [ ] **Live hiring podcast:** Pitched to TXOR, EGBI, and Julian Sanchez in Oct-Nov 2024. Was any version launched?
-- [ ] **EGBI Echo Squad:** LinkedIn pod ran Nov 2024–Feb 2025. Did Andres continue LinkedIn engagement after it ended?
-- [ ] **Julian Sanchez FB Live:** Spanish banking+employment content planned for late Oct 2024. Was it executed?
-- [ ] **Councilman Velasquez / Vanessa Fuentes:** Both expressed support for hiring podcast. Any follow-up civic initiatives?
-- [ ] **Nvidia Inception credits:** 25 DLI training credits received Jan 2025. Were they used? Are they still available?
 
 ---
 
@@ -242,3 +177,32 @@ Source: [[wiki/concepts/claude-code]]
 *(Items move here after they're marked complete and confirmed stable for a week.)*
 
 - [x] **2026-04-10** — AEDO support letter drafted, signed, submitted to Jennifer Storm. Reply: "This is perfect!" — source: [[wiki/summaries/buda-hive-edc-2026-04-11]]
+
+### Archived 2026-04-14 — May 2025 historical items (pruned — verify on demand)
+
+These were flagged from Aug 2024–May 2025 meeting transcripts ingested Apr 12. Pruned to keep MEMORY.md under 200 lines. If any are still open, add them back.
+
+- Azure access for Adeleke (~May 2025 support case)
+- Job matching algorithm weighted update (Adeleke Apr 2025)
+- Google → Microsoft migration (deadline May 5, 2025)
+- HubSpot full access for Jacob (after May 15, 2025)
+- Business Plan Creator bugs: personas, TAM/SAM, competitor map, cost structure, milestones, plan display
+- Interview Tool MVP (Andres said "build without design first" — May 2025)
+- Social post auto-generation on job creation (Grok + template)
+- Sebastian Oviedo 4-week marketing engagement (Apr 28–May 26, 2025)
+- Manos De Cristo workshops (June 2025 — 3 Fridays)
+- Sakuri Corporation Texas job listings (Jacob assigned)
+- Zachary/Great Construction Corp account status
+- UTSA license opportunity via EDC contact
+- Tampa Bay (Zachary Barker) enterprise evaluation — see [[wiki/meetings/2025-05-15-zachary-barker-wyatt-hook-enterprise]]
+- $4,250 API integration (Wyatt Hook / Josh Edmond) — decision?
+- Sandbox access for Tampa Bay testing — provisioned?
+- Brave Search API for BPC hallucination reduction — implemented?
+- Azure directory tenant mismatch (Rodney Warner) — restored?
+- TXOR recurring workshops (Evangeline Sandoval, Nov 2024)
+- TXOR caseworker training (proposed Nov 2024)
+- Live hiring podcast (TXOR + EGBI + Julian Sanchez, Oct–Nov 2024)
+- EGBI Echo Squad LinkedIn pod (Nov 2024–Feb 2025)
+- Julian Sanchez FB Live Spanish content (late Oct 2024)
+- Councilman Velasquez / Vanessa Fuentes civic initiatives
+- Nvidia Inception credits (25 DLI, received Jan 2025)

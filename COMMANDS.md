@@ -8,10 +8,16 @@ Quick reference for running and managing the Brain system.
 
 Auto-commit runs automatically after Teams pull and X bookmark ingest. For manual use:
 
-**Manual commit:**
+**Manual commit (sync first, then push):**
 ```bash
-cd ~/My\ Brain/knowledge-base && git add . && git commit -m "Manual sync — $(date +%Y-%m-%d)" && git push
+cd ~/My\ Brain/knowledge-base && bash scripts/sync_wiki.sh && git add . && git commit -m "Manual sync — $(date +%Y-%m-%d)" && git push felipeu28 main
 ```
+
+**Sync wiki to Quartz content dir (required before every commit):**
+```bash
+cd ~/My\ Brain/knowledge-base && bash scripts/sync_wiki.sh
+```
+`wiki/` is where the KB agent writes. `quartz/content/wiki/` is what GitHub Actions builds and deploys. Always sync before committing.
 
 **View repo on GitHub:**
 ```bash

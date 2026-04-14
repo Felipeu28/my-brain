@@ -1,7 +1,6 @@
 ---
-title: "Adeleke Tolulope"
-role: "Lead AI/ML Engineer"
-org: "Moil"
+status: active
+last_contact: 2026-04-13
 tags:
   - graph/hub
   - person/team
@@ -9,8 +8,8 @@ tags:
 # Adeleke Tolulope (Steve)
 
 **Type:** person
-**Last updated:** 2026-04-12
-**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026)
+**Last updated:** 2026-04-13
+**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]]
 **Related:** [[wiki/people/jacob-oluwole]], [[wiki/people/taiwo-ola-balogun]], [[wiki/moil/positioning]], [[wiki/moil/product-roadmap]]
 
 ---
@@ -82,6 +81,17 @@ As of May 2025, Adeleke lost access to Azure resources for ~2 weeks. Andres subm
 - Adeleke monitors Claude Code sessions Andres shares, reviews implementations, pulls code to staging
 - Adeleke said "AI is doing sh*t now, something that would have taken like 3-5 days" — genuine excitement about speed
 - Andres shares X/Twitter links for inspiration (AI video tools, etc.)
+
+## April 13, 2026 — Monday Collaboration
+
+Steve reported on PDF/PowerPoint document generation testing:
+- First PDF test produced output but **formatting needs significant work**
+- Logo generated; needs a non-colored background version
+- **Action:** Create a testing folder in the repo branch with reference PDFs for Claude Code to iterate on
+- **Action:** Continue fixing formatting issues and feed results back to the AI
+- Also pushed updates to staging: image creation in Business Coach, monitoring improvements
+
+See [[wiki/meetings/2026-04-13-monday-collaboration]].
 
 ## Gaps
 

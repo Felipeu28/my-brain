@@ -1,6 +1,6 @@
 ---
-title: "John Costilla"
-org: "Buda EDC"
+status: archived
+last_contact: 2025-06-01
 tags:
   - graph/hub
   - person/personal

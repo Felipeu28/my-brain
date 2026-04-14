@@ -14,7 +14,7 @@ For fast-moving updates on these topics, check [[wiki/radar/README|radar/]].
 
 ---
 
-## 🏢 Moil world (12 pages)
+## 🏢 Moil world (7 pages)
 Products, programs, and external concepts that directly touch Moil's business.
 
 - [[wiki/concepts/buda-hive]] — Incubator program run by Buda EDC (Moil's most strategic B2G relationship)
@@ -24,11 +24,6 @@ Products, programs, and external concepts that directly touch Moil's business.
 - [[wiki/concepts/moil360]] — Marketing-brand wrapping of Content360 (moilapp.com/marketing)
 - [[wiki/concepts/smart-hiring]] — 10+ platform hiring with AI candidate matching
 - [[wiki/concepts/fantelo]] — Andres's parallel project (fantelo.com) — scope TBD
-- [[wiki/concepts/voice-first-hiring]] — The thesis: why voice > forms for blue-collar workers
-- [[wiki/concepts/cost-per-hire]] — Key ROI metric; Moil $850 vs. $2,400 industry avg
-- [[wiki/concepts/two-sided-marketplace]] — Marketplace dynamics applied to labor markets
-- [[wiki/concepts/network-effects-hiring]] — Supply density, data, and word-of-mouth flywheels
-- [[wiki/concepts/blue-collar-tech-gap]] — Why 80M blue-collar workers are underserved by hiring tech
 
 ## 🤖 AI / tech landscape (8 pages)
 The ecosystem Andres tracks via the Brain Collection layer (weekly X bookmark sweeps).

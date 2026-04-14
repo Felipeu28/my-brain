@@ -1,7 +1,6 @@
 ---
-title: "Abiodun Adekanmi"
-role: "UI/UX Designer"
-org: "Moil"
+status: active
+last_contact: 2026-04-13
 tags:
   - graph/spoke
   - person/team
@@ -9,8 +8,8 @@ tags:
 # Abiodun Adekanmi (Ablad)
 
 **Type:** person
-**Last updated:** 2026-04-12
-**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026)
+**Last updated:** 2026-04-13
+**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]]
 **Related:** [[wiki/people/jacob-oluwole]], [[wiki/moil/positioning]], [[wiki/people/inna-benyukhis]]
 
 > **Name correction:** Teams profile shows "Abiodun Adekanmi" — previous meeting transcripts referenced "Abiodun Solomon." The Teams name is authoritative. "Ablad" remains team nickname.
@@ -69,6 +68,15 @@ Nigerian team member (same remote team cohort as Adeleke and Taiwo). Present sin
 ### Relationship with Andres:
 - Andres praised: "This is a very pleasant surprise! Love being able to get the week started on this note! Well done Abiodun Adekanmi"
 - Andres shared X link on AI design tools (1:1, Apr 11)
+
+## April 13, 2026 — Monday Collaboration
+
+- Content calendar behind schedule — Ablad sent content links to the group but is behind on video format content
+- Testing Business Coach and flyer creation tool — finding issues with image dimensions and formatting
+- **Action (reiterated from Friday):** Keep detailed testing notes open while testing — Andres stressed this is the only way to feed expertise back into the tools
+- **Goal:** Get content for the following week ready by Friday so Mondays are for strategizing
+
+See [[wiki/meetings/2026-04-13-monday-collaboration]].
 
 ## Gaps
 

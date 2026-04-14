@@ -1,7 +1,6 @@
 ---
-title: "Jennifer Storm"
-role: "Chief Executive Officer"
-org: "Buda EDC"
+status: archived
+last_contact: 2025-06-01
 tags:
   - graph/hub
   - person/partner

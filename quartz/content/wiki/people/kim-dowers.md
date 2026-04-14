@@ -1,7 +1,6 @@
 ---
-title: "Kim Dowers"
-role: "Director of Operations & Programs"
-org: "Queen Creek Chamber of Commerce"
+status: warm
+last_contact: 2026-02-01
 tags:
   - graph/spoke
   - person/partner

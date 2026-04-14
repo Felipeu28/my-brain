@@ -1,7 +1,6 @@
 ---
-title: "Monica Davidson"
-role: "Executive Director"
-org: "Greater Buda Chamber of Commerce"
+status: warm
+last_contact: 2026-02-01
 tags:
   - graph/spoke
   - person/partner

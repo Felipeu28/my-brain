@@ -18,21 +18,20 @@ Smart Hiring is [[wiki/moil/positioning|Moil]]'s AI-powered recruitment feature.
 ## How It Works (4 Steps)
 
 1. **Describe the role** — plain language, voice or text. AI generates complete job description, requirements, skills assessment, salary recommendations, and platform-optimized copy.
-2. **Auto-posted to 10+ platforms** — Indeed, ZipRecruiter, Austin Jobs, Round Rock Hiring, Cedar Park, Spanish Job Groups, Local Trade Networks, Facebook Groups, +3 more. All posted simultaneously.
+2. **Auto-posted to 10+ local social media pages per week** — Spanish Job Groups, Local Trade Networks, Facebook Groups, + many more. All posted simultaneously.
 3. **AI scores every candidate** — Skills match, location proximity, experience level, language requirements (EN/ES). 95% accuracy. Every applicant ranked before the employer sees them.
 4. **Interview top matches** — AI-generated interview questions per role. Schedule and hire with confidence.
 
 ## Key Metrics
 
-| Metric | Moil | Industry Average |
-|--------|------|-----------------|
-| Cost per hire | $850 | $2,400 |
-| Time to hire | 11 days | 32 days |
-| Interview success rate | 94% | — |
-| Employee retention (90 days) | 91% | — |
-| Bilingual candidate reach | 58% | 22% |
-| ATS pass rate (candidate resumes) | 98% | — |
-| Candidate matching accuracy | 95% | — |
+| Metric                            | Moil    | Industry Average |
+| --------------------------------- | ------- | ---------------- |
+| Cost per hire                     | $45     | $2,400           |
+| Time to hire                      | 11 days | 32 days          |
+| Bilingual candidate reach         | 58%     | 22%              |
+| ATS pass rate (candidate resumes) | 98%     | —                |
+| Candidate matching accuracy       | 95%     | —                |
+|                                   |         |                  |
 
 ## Available on All Plans
 

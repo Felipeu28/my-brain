@@ -1,0 +1,135 @@
+---
+tags:
+  - graph/hub
+---
+# Andres — Daily Dashboard
+
+**Type:** personal-hub
+**Last updated:** 2026-04-14
+
+---
+
+> **Open this first every morning.** Everything you need to start your day, one page.
+
+## Today
+
+- 📋 [[outputs/briefing-2026-04-11|Latest Morning Briefing]] — calendar, inbox, priorities, follow-ups
+- 🎯 [[MEMORY|Open Action Items]] — what needs doing right now
+
+## This Week's Priorities (Apr 14–20, 2026)
+
+1. **EDC Board vote** — Apr 15. Be available for questions/revisions on Incubator Strategist contracts → [[wiki/people/jennifer-storm]]
+2. **Buda HIVE Cohort 4 launch** — Apr 20 (every Monday through Jun 8). Onboarding materials ready → [[wiki/orgs/buda-edc]]
+3. **Sun Show demo booth** — Apr 24. Confirm logistics with Travis, booth setup, QR codes, one-pagers → [[wiki/people/travis-sutherland]]
+4. **Moil360 onboarding** — Travis / Zoiwell live. Fix license activation bug (Miguel hit it twice). → [[wiki/moil/active-projects]]
+5. **May outreach sprint planning** — 30–40 cold emails/day targeting chambers + EDCs. Use Buda HIVE as reference case → [[wiki/moil/gtm]]
+
+## Pipeline at a Glance
+
+→ [[wiki/moil/pipeline|Full Pipeline]] | → [[wiki/moil/customers|Customers by Tier]]
+
+| | Count |
+|---|---|
+| P1 — Active paying clients (Apr 2026) | 13 |
+| Total tracked deals | 22 |
+| Warm prospects (P2) | 5+ |
+| Active partnerships | 2 (EDC, TXOR) |
+
+**P1 clients:** Inna/LadyBoss, Becky/Siren Beauty, Megan/FitLogic, Mark/Connectex, Travis/Zoiwell, Jacob Centeno/Titan Tech, PureSerenity, Meridian Buda, Nuovo Entertainment, Urbanozuela, Anita/Organically Whole, Alloy ATX, Buda EDC/HIVE
+
+## Key Relationships
+
+→ [[wiki/people/README|All People]]
+
+| Who | Role | Status |
+|-----|------|--------|
+| [[wiki/people/jennifer-storm\|Jennifer Storm]] | Buda EDC CEO | 🟢 Active — Board vote Apr 15 |
+| [[wiki/people/jacob-oluwole\|Jacob]] | PM | 🟢 Active — onboarding customers daily |
+| [[wiki/people/adeleke-tolulope\|Adeleke]] | Lead Engineer | 🟢 Active — 181 messages this week |
+| [[wiki/people/becky-torres\|Becky Torres]] | Siren Beauty (P1 client) | 🟢 Active — $2,200 paid Apr 6 |
+| [[wiki/people/inna-benyukhis\|Inna Benyukhis]] | LadyBoss (P1 client) | 🟢 Active — coaching ongoing |
+| [[wiki/people/megan-miller\|Megan Miller]] | FitLogic (P1 client) | 🟢 Active — using hiring platform |
+| [[wiki/people/travis-sutherland\|Travis Sutherland]] | Zoiwell / Sun Show | 🟢 Active — onboarded Apr 9 |
+| [[wiki/people/mark-polanco\|Mark Polanco]] | Connectex | 🟢 Closed Apr 9 — verify payment |
+| [[wiki/people/hive-cohort-members\|HIVE Cohort]] | Buda EDC participants | 🟢 Cohort 4 Apr 20 — Terry, Laura, Sarah, Carol, Liz, Miguel |
+| [[wiki/people/roxana-yglesias\|Roxana Yglesias]] | Warm — closing | 🟡 Closing Apr 11 — confirm |
+| [[wiki/people/rashaka-boykins\|Rashaka Boykins]] | Warm prospect | 🟡 Two intro calls — follow up |
+| [[wiki/people/roxana-esquivel\|Roxana Esquivel]] | Warm prospect | 🟡 Intro call Mar 13 — follow up |
+| [[wiki/people/kim-dowers\|Kim Dowers]] | Queen Creek Chamber | 💤 Deferred — re-engage Jul 1 |
+| [[wiki/people/daniel-guadiano\|Daniel Guadiano]] | Astra Restaurant | 🟡 Follow up — emailed Apr 9 |
+
+## Active Projects
+
+→ [[wiki/moil/active-projects|Active Projects Hub]] (GitHub activity as ground truth)
+
+| Tier | Project | Status |
+|------|---------|--------|
+| T1 | FitLogic / Megan Miller | Active |
+| T1 | Meridian Buda | Active — Stripe webhook pending |
+| T1 | Buda EDC / HIVE | Active — Cohort 4 Apr 20 |
+| T1 | Siren Beauty / Becky Torres | Active — account setup |
+| T1 | Connectex / Mark Polanco | Closed Apr 9 — verify payment |
+| T2 | Employer Platform (Beta) | Fix applicant visibility bug |
+| T2 | Business Plan Creator | Test with Cohort 4 |
+| T2 | Moil360 | Fix license activation bug |
+| T3 | Brain (this system) | Active — 9 launchd automations |
+
+## Moil Strategy
+
+| | |
+|---|---|
+| [[wiki/moil/positioning\|Positioning]] | One-liner, messaging, what we don't say |
+| [[wiki/moil/gtm\|Go-to-Market]] | Channels, experiments, sales process |
+| [[wiki/moil/icp\|ICP]] | Who we sell to, Apollo filters |
+| [[wiki/moil/product-roadmap\|Product Roadmap]] | AI stack, features, enterprise |
+| [[wiki/moil/metrics\|Metrics]] | Revenue, unit economics, hiring stats |
+| [[wiki/moil/customers\|Customers]] | P1/P2/P3 tiers — named accounts |
+
+## Content This Week
+
+→ Latest content calendar generates every Monday at 9am
+
+## What's Coming Up
+
+| Date | Event | Prep Needed |
+|------|-------|-------------|
+| Apr 15 | EDC Board vote | Be available for questions |
+| Apr 20 | Cohort 4 starts | Session materials + onboarding |
+| Apr 24 | Sun Show demo | Booth setup, QR codes, one-pagers |
+| May | Outreach sprint | 30–40 emails/day chambers + EDCs |
+| Jul 1 | Johns Creek Chamber re-engage | Pitch with Buda case study |
+| Sep 1 | Training curriculum deadline | Jointly develop with HIVE |
+
+## Brain Stats
+
+| | |
+|---|---|
+| Wiki pages | 213 |
+| People profiles | 41 |
+| Concepts tracked | 29 |
+| Raw sources ingested | 91 |
+| Launchd automations | 9 |
+
+---
+
+*This dashboard is static — update it weekly or let the CMO/briefing automations tell you what changed. For the live view, check the morning briefing.*
+
+## All Connections
+
+> These links make Andres the center of the graph. Every hub and spoke page connects here.
+
+**Concepts:** [[wiki/concepts/aedo]] · [[wiki/concepts/agent-memory-files]] · [[wiki/concepts/ai-cold-outreach]] · [[wiki/concepts/ai-org-design]] · [[wiki/concepts/ai-video-tools]] · [[wiki/concepts/brain-architecture]] · [[wiki/concepts/buda-hive]] · [[wiki/concepts/campaignos]] · [[wiki/concepts/claude-code]] · [[wiki/concepts/claude-cowork]] · [[wiki/concepts/content-engine]] · [[wiki/concepts/content360]] · [[wiki/concepts/fantelo]] · [[wiki/concepts/google-stitch]] · [[wiki/concepts/goose-ai]] · [[wiki/concepts/gtm-system-multi-channel]] · [[wiki/concepts/heygen]] · [[wiki/concepts/hive-program]] · [[wiki/concepts/home-service-cro]] · [[wiki/concepts/linkedin-gtm]] · [[wiki/concepts/llm-knowledge-bases]] · [[wiki/concepts/local-ai-inference]] · [[wiki/concepts/managed-agents]] · [[wiki/concepts/meta-harness]] · [[wiki/concepts/moil-team-ops]] · [[wiki/concepts/moil360]] · [[wiki/concepts/obsidian]] · [[wiki/concepts/openclaw-hermes]] · [[wiki/concepts/seedance]] · [[wiki/concepts/self-learning-gtm-brain]] · [[wiki/concepts/smart-hiring]] · [[wiki/concepts/smb-ai-audits]] · [[wiki/concepts/vibe-coding]]
+
+**Meetings:** [[wiki/meetings/2024-10-30-moneta-ventures-investor-panel]] · [[wiki/meetings/2024-10-31-monica-munoz-andry-gahcc-partnership]] · [[wiki/meetings/2024-11-13-txor-moil-partnership-call]] · [[wiki/meetings/2025-01-08-nvidia-inception-onboarding]] · [[wiki/meetings/2025-03-28-jacob-andres-pivot-ai-tools]] · [[wiki/meetings/2025-05-15-zachary-barker-wyatt-hook-enterprise]] · [[wiki/meetings/2025-05-21-ai-advisory-azure-foundry]]
+
+**Minds:** [[wiki/minds/andrej-karpathy]] · [[wiki/minds/corey-ganim]] · [[wiki/minds/dario-amodei]] · [[wiki/minds/elon-musk]] · [[wiki/minds/farza-mohideen]] · [[wiki/minds/hooeem]] · [[wiki/minds/jack-dorsey]] · [[wiki/minds/jensen-huang]] · [[wiki/minds/nick-spisak]] · [[wiki/minds/sam-altman]]
+
+**Moil:** [[wiki/moil/active-projects]] · [[wiki/moil/competitors]] · [[wiki/moil/customers]] · [[wiki/moil/pipeline]]
+
+**Orgs:** [[wiki/orgs/buda-chamber]] · [[wiki/orgs/buda-edc]] · [[wiki/orgs/coffeespace]] · [[wiki/orgs/echo-squad]] · [[wiki/orgs/queen-creek-chamber]]
+
+**People:** [[wiki/people/abel-esquivel-luna]] · [[wiki/people/abiodun-solomon]] · [[wiki/people/anita-lansing]] · [[wiki/people/becky-torres]] · [[wiki/people/casey-earley]] · [[wiki/people/dafne-gutierrez]] · [[wiki/people/daniela-castillo-canavera]] · [[wiki/people/david-levesque]] · [[wiki/people/enrique-castro]] · [[wiki/people/evangeline-sandoval]] · [[wiki/people/hazim-mohamad]] · [[wiki/people/hive-cohort-members]] · [[wiki/people/inna-benyukhis]] · [[wiki/people/jacquie-martinez]] · [[wiki/people/john-costilla]] · [[wiki/people/joshua-edmond]] · [[wiki/people/julian-sanchez]] · [[wiki/people/kim-dowers]] · [[wiki/people/mariana-rodriguez]] · [[wiki/people/mark-polanco]] · [[wiki/people/monica-davidson]] · [[wiki/people/monica-pena]] · [[wiki/people/paula-florez-estrada]] · [[wiki/people/rashaka-boykins]] · [[wiki/people/rick-bough]] · [[wiki/people/rodney-warner]] · [[wiki/people/rosemary-gamez]] · [[wiki/people/roxana-esquivel]] · [[wiki/people/roxana-yglesias]] · [[wiki/people/sebastian-oviedo]] · [[wiki/people/shay-foley]] · [[wiki/people/taiwo-ola-balogun]] · [[wiki/people/travis-sutherland]] · [[wiki/people/wyatt-hook]] · [[wiki/people/zachary-barker]] · [[wiki/people/zane-gibson]]
+
+**Radar:** [[wiki/radar/claude-code-changelog]]
+
+**Summaries:** [[wiki/summaries/brain-guide]] · [[wiki/summaries/buda-hive-edc-2026-04-11]] · [[wiki/summaries/facebook-pages-2026-04-09]] · [[wiki/summaries/github-project-tracker]] · [[wiki/summaries/outlook-emails-2026-04-09]] · [[wiki/summaries/x-bookmarks-2026-04-11-copy]]

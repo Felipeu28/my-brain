@@ -1,6 +1,6 @@
 ---
-title: "David Levesque"
-org: "Savari"
+status: warm
+last_contact: 2025-04-11
 tags:
   - graph/spoke
   - person/partner

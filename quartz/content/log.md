@@ -304,6 +304,164 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ---
 
+### [2026-04-12] Microsoft Teams — Full 415-Message Ingestion (Apr 5–12, 2026)
+
+- **File:** raw/teams-2026-04-12.md (OVERWRITTEN — replaces prior 27-message bot-only version)
+- **Type:** team-communications (1:1 chats + group chats + channel messages)
+- **Messages:** 415 total across 12 threads (181 Andres-Adeleke, 79 Moil Team, 65 Andres-Taiwo, 38 Moil Marketing, 30 Andres-Jacob, 11 Andres-Casey, 3 Mark & Andres, 3 Attendance bot, 2 Landing Page Projects, 1 Monday Collaboration, 1 Eden Discovery, 1 Andres-Abiodun)
+
+**Pages created:**
+- [[wiki/meetings/2026-04-06-monday-collaboration-call]] — project alignment call; Planner board created; end-to-end integration push
+- [[wiki/meetings/2026-04-09-12-engineering-sprint]] — 4-day sprint: 12+ Claude Code sessions, model cost discovery, Business Coach redesign, PDF/PPT export
+
+**Pages updated (7 people):**
+- [[wiki/people/adeleke-tolulope]] — Apr 2026 sprint activity, model cost threads, FB login issue
+- [[wiki/people/jacob-oluwole]] — Planner board, customer onboarding, Inna content, power outage, $50 from Andres
+- [[wiki/people/taiwo-ola-balogun]] — Meridian full ownership, Stripe integration, credential access issues
+- [[wiki/people/abiodun-solomon]] ��� Name correction (Adekanmi not Solomon), content delivery batch, Moil 360 reviews doc
+- [[wiki/people/casey-earley]] — Moving to Buda (2051 Cambria, May 16)
+- [[wiki/people/travis-sutherland]] — Now a paying customer (travis@zoiwell.com, 1-year Moil 360 license)
+- [[wiki/people/inna-benyukhis]] — Content360 delivery client confirmed; May calendar pre-loaded; content loss incident
+
+**Pages updated (3 moil):**
+- [[wiki/moil/product-roadmap]] — AI tech stack updated to Apr 2026 (Gemini for images, Qwen paid tier, Grok 4.1 Fast discovery, GPT-5.4 cost spike); feature status refreshed (Business Coach live, Content360 selling, PDF/PPT export, Meridian, Voice Guide)
+- [[wiki/moil/gtm]] — 7 new deals documented (Connectex, Alloy, FitLogic, Travis, Jacob Centeno, jilledegs01, Siren Beauty); new channels (direct website builds, content-as-service, WhatsApp/Telegram)
+- [[wiki/moil/customers]] �� 8 new customer entries added to named customers table
+
+**Summary page:** [[wiki/summaries/teams-2026-04-12]] — completely rewritten from 27-message structural summary to full 415-message intelligence report
+
+**MEMORY updated:** 25+ new action items across 5 categories (deals, engineering, content, team management, credential security)
+
+**Key intelligence:**
+1. **Best month ever:** 4 deals closed in one week (Connectex, Meridian, Alloy closing, FitLogic hiring). Andres: "We are having the best month in our existence!!!"
+2. **Development workflow confirmed:** Andres prototypes in Claude Code → shares session link in Teams → Adeleke pulls to staging → tests → pushes to prod
+3. **OpenAI cost spike:** `gpt-4o` alias silently upgraded to `gpt-5_4-2026-03-05`. Grok 4.1 Fast ($0.20/$0.50) identified as 30x cheaper replacement
+4. **Business Coach redesigned:** Static 22-step wizard replaced with AI-guided onboarding that scrapes websites/PDFs
+5. **Abiodun name correction:** Teams shows "Abiodun Adekanmi" not "Abiodun Solomon"
+6. **Casey Earley moving to Buda** (May 16, 2026) — deepens HIVE relationship
+7. **Credential security risk:** Stripe keys, Supabase passwords, API keys shared in plaintext Teams chat
+8. **Team strain signals:** Jacob on 3 weeks of generator power; Taiwo blocked by credentials; Adeleke's FB account locked
+
+**Signal rating: VERY HIGH** — densest operational intelligence source in the Brain to date.
+
+---
+
+### [2026-04-12] OneDrive Transcript Backfill — Run 3 (28 New Files)
+
+- **Files:** 28 files in `raw/meetings/` (transcript backfill of files not downloaded in Run 2)
+- **Type:** meeting-transcripts (partner calls, customer calls, marketing calls, team meetings, mobile recordings)
+- **Date range of content:** 2024-10-01 through 2025-05-20
+
+**Pages created (10 wiki/meetings/ pages):**
+- [[wiki/meetings/2025-05-15-zachary-barker-wyatt-hook-enterprise]] — Enterprise customer call; API integration ($4,250), Tampa Bay prospect, enrollment key/HubSpot workflow
+- [[wiki/meetings/2025-05-17-prompt-reviews-bpc-quality]] — BPC quality review; hallucination, vague numbers, Brave API decision for real-time data
+- [[wiki/meetings/2024-11-13-txor-moil-partnership-call]] — TXOR partnership established; recurring workshops, caseworker training, live podcast concept
+- [[wiki/meetings/2024-11-25-monica-pena-egbi-echo-squad]] — Echo Squad LinkedIn pod onboarding; EGBI partnership; political connections (Velasquez, Fuentes)
+- [[wiki/meetings/2024-10-24-julian-sanchez-video-planning]] — Spanish-language FB Live planning; banking+employment for Latinos; Breakout Media
+- [[wiki/meetings/2025-05-20-azure-resources-support-call]] — Microsoft support call; Azure tenant mismatch diagnosed as root cause of resource disappearance
+- [[wiki/meetings/2024-11-14-virtual-moil-councilman-velasquez]] — Austin City Council meeting; Read AI demo; civic partnership exploration
+- [[wiki/meetings/2024-11-27-cardo-resume-building-session]] — Live resume-building session at TXOR/Cardo; Spanish-language; Ricardo Van Arcken coached through Moil
+- [[wiki/meetings/2025-01-08-nvidia-inception-onboarding]] — Nvidia Inception accepted; $25K DLI credits; team GenAI/RAG training plan
+- [[wiki/meetings/2024-11-27-jacob-abiodun-video-zachary-jobs]] — Zachary Corp 80+ jobs; video content review; first 10 seconds hook problem
+
+**Batch pages created (2):**
+- [[wiki/meetings/2024-q4-batch-marketing-calls]] — 14 low-signal files: marketing calls, mobile recordings, testing sessions, dev calls, phone review (Oct 2024–Jan 2025)
+- Center for Child Protection (Dec 11, 2024) — EMPTY transcript (2 lines: "Hmm" + "Hello"). Julia Cabin name only. No page created — insufficient content
+
+**Pages created (6 wiki/people/ pages):**
+- [[wiki/people/evangeline-sandoval]] — TXOR Austin Site Director; key decision-maker for Moil partnership; first-gen immigrant
+- [[wiki/people/monica-pena]] — EGBI; Echo Squad LinkedIn pod; BizTech Clinic speaker coordinator
+- [[wiki/people/julian-sanchez]] — Colombian content partner; banking/employment Spanish-language FB Lives
+- [[wiki/people/wyatt-hook]] — Platform vendor; API integration ($4,250); sandbox provisioning; enrollment keys
+- [[wiki/people/rodney-warner]] — Microsoft ProDirect Support; diagnosed Azure tenant mismatch
+- Herlinda Rubalcava — TXOR PIM/case manager (mentioned in TXOR page, no standalone page)
+
+**Pages updated:**
+- [[wiki/people/zane-gibson]] — Full TXOR context added: Evangeline Sandoval, Herlinda Rubalcava, partnership timeline from Nov 2024
+- [[wiki/moil/gtm]] — +6 new channels: TXOR recurring workshops (with Evangeline context), EGBI Echo Squad, Austin political connections, live hiring podcast concept, Julian Sanchez Spanish content, Nvidia Inception
+- [[wiki/moil/product-roadmap]] — BPC quality issues (hallucination, Brave API decision), enterprise API integration pricing and enrollment key architecture, Tampa Bay prospect
+- [[MEMORY]] — 13 new action items across enterprise, product, and partnership categories
+
+**Key intelligence from Run 3:**
+1. **Tampa Bay city prospect:** Zachary Barker disclosed city of Tampa Bay is evaluating the platform — largest potential enterprise deal documented
+2. **Brave API adoption:** Team agreed to use Brave Search API for real-time data in BPC to eliminate hallucination — marks shift from pure LLM generation to RAG
+3. **TXOR partnership origin story:** Nov 2024 call with Evangeline Sandoval established recurring workshops and caseworker training — this became Moil's strongest nonprofit channel
+4. **Echo Squad = LinkedIn origin:** Monica Pena's LinkedIn engagement pod (Nov 2024) was Andres's first structured LinkedIn strategy — predates the X bookmarks GTM playbook by 18 months
+5. **Live hiring podcast:** Pitched to 3 separate partners (TXOR, EGBI, Julian) in Oct-Nov 2024 — shows Andres's multi-channel approach to the same concept
+6. **Azure disaster confirmed:** Rodney Warner (Microsoft) confirmed it was a tenant/directory mismatch, not data loss — subscriptions were active but invisible
+7. **Nvidia Inception:** Moil accepted into Nvidia Inception program (Jan 2025) with $25K DLI training credits — credibility milestone + training resource
+8. **Austin political channel:** Councilman Velasquez (District 3) and Councilwoman Vanessa Fuentes both expressed support for Moil's hiring initiatives
+9. **Zachary Corp scale:** 80+ jobs posted through Moil by Nov 2024 — larger than previously documented
+10. **Salwa & Roli calls:** Empty/minimal transcripts — Salwa (salwayordi@gmail.com) and Roli (rolicalderin@gmail.com) identities noted but no actionable content
+
+**Summary:** Run 3 completed the full transcript backfill, filling in the Q4 2024 partnership-building period that was missing from Run 2. The Brain now has comprehensive meeting coverage from Oct 2024 through May 2025. Most valuable discoveries: Tampa Bay enterprise prospect, Brave API adoption decision, TXOR partnership origin story, and the Echo Squad as Andres's LinkedIn strategy genesis. Combined with Runs 1 and 2, all 78 raw/meetings/ files are now fully ingested.
+
+---
+
+### [2026-04-13] Run 4 — Clients & Customers Rebuild
+
+**Trigger:** Andres identified that April 2026 clients had no wiki pages, customers.md had no GitHub links, and several people pages had wrong tags.
+
+**Sources cross-referenced:** [[raw/teams-2026-04-12]], [[raw/email-history-2months-2026-04-12]], [[raw/imessages-people-2026-04-09]], [[raw/github-project-tracker.md]]
+
+**Pages created (12 new):**
+- [[wiki/orgs/connectex]] — Connectex Solutions (Mark Polanco, CLOSED Apr 9, multi-quarter invoice)
+- [[wiki/orgs/fitlogic]] — FitLogic (fitness hiring, first hire imminent Apr 12)
+- [[wiki/orgs/siren-beauty]] — Siren Beauty & Wellness (Becky Torres, setup in progress)
+- [[wiki/orgs/pure-serenity]] — PureSerenity (jilledegs01, Moil 360 onboarded Apr 10)
+- [[wiki/orgs/urbanozuela]] — Urbanzuela (Ana Vetencourt, sister-in-law's business)
+- [[wiki/orgs/nuovo-entertainment]] — Nuovo Entertainment (site deployed Apr 9)
+- [[wiki/orgs/meridian-buda]] — Meridian Buda (coffee/music venue, CLOSED Apr 9, full events platform)
+- [[wiki/orgs/alloy-atx]] — Alloy ATX (gym, Content360 + Moil 360, CLOSING Apr 11)
+- [[wiki/people/becky-torres]] — Siren Beauty owner
+- [[wiki/people/roxana-yglesias]] — Alloy ATX contact
+- [[wiki/people/jacob-centeno]] — Titan Tech Authority (Starter plan, CLOSED Apr 8)
+- [[wiki/people/ana-vetencourt]] — Andres's sister-in-law, Urbanzuela owner
+
+**Pages fixed (4 corrections):**
+- [[wiki/people/mark-polanco]] — corrected from person/personal to person/customer; added Connectex context (mark@connectex.net)
+- [[wiki/people/wyatt-hook]] — corrected from person/customer to person/vendor
+- [[wiki/moil/customers]] — added wikilinks + GitHub repo links for all 11 April 2026 clients
+- [[wiki/orgs/README]] — rebuilt index with all 12 current org pages
+
+**Summary:** Run 4 rebuilt the clients and customers layer from scratch using Apr 2026 data. The 8 active Moil-Landingpages repos now all have corresponding wiki pages. All April 2026 closed/closing deals are properly documented and linked. Two mis-tagged people pages corrected. customers.md now connects every client to their wiki page and GitHub repo.
+
+---
+
+### [2026-04-13] Run 5 — Monday Collaboration Transcript (Apr 13)
+
+**Trigger:** New unprocessed file detected in raw/: `teams-transcript-monday-collaboration-2026-04-13.md`
+
+**Source:** [[raw/teams-transcript-monday-collaboration-2026-04-13]] — Full VTT transcript of Monday Collaboration call (8:17am–10:00am CT), organized by Jacob Oluwole, all 5 team members present.
+
+**Pages created (1 new):**
+- [[wiki/meetings/2026-04-13-monday-collaboration]] — Full meeting record with decisions, action items, and blockers
+
+**Pages updated (8):**
+- [[wiki/people/inna-benyukhis]] — CRM bugs surfaced (contacts not reading, campaigns API key missing), meeting confirmed for 10am today
+- [[wiki/people/jacob-oluwole]] — Organized meeting; assigned Google Alloy image gen testing before Andres's Apr 14 meeting
+- [[wiki/people/adeleke-tolulope]] — PDF/PPTX generation first test done (formatting WIP); pushed staging updates for Business Coach
+- [[wiki/people/abiodun-solomon]] — Content behind schedule; testing Business Coach; reiterated testing-notes requirement from Friday
+- [[wiki/people/taiwo-ola-balogun]] — Three high-priority items: Meridian Stripe webhook blocker, client handoff document, new massage place client
+- [[wiki/people/travis-sutherland]] — Sun Show event next week; Moil will have a demo table
+- [[wiki/orgs/meridian-buda]] — Stripe webhook URL blocker documented; Vercel cron secrets using placeholders
+- [[wiki/moil/customers]] — (no change needed; massage place client unnamed)
+
+**Key intelligence:**
+- **BLOCKER:** Meridian ticket emails dead — Stripe webhook URL not configured + Vercel cron secrets are placeholders
+- **BLOCKER:** Inna CRM contact pipeline not displaying + campaigns API key missing (before 10am meeting)
+- **Decision:** Brain repos to be cloned for each team member once stable
+- **Decision:** Content must be Friday-ready; Mondays are for strategizing
+- **Decision:** Client handoff doc required (Vercel, Supabase, Resend, login instructions)
+- **New client:** Massage place (unnamed) — website nearly done, needs images
+- **Opportunity:** Google Alloy image gen — if it works inside Moil, can charge clients without extra integration work
+- **Event:** Moil showcasing at Sun Show next week (Travis Sutherland's event)
+- 12 action items assigned across 5 team members (see meeting page)
+
+**Summary:** Ingested the Apr 13 Monday Collaboration transcript — one new meeting page, eight wiki pages updated. Two active blockers (Meridian Stripe webhook, Inna CRM), three key decisions, and a new unnamed massage place client.
+
+---
+
 ## How to add an entry
 
 Claude Code automatically appends to this file at the end of each `/kb compile` run. You do not need to edit this manually.
@@ -313,3 +471,39 @@ To ingest a new source:
 2. Open Claude Code in `~/My Brain/`
 3. Type: `ingest the new source in raw/`
 4. Claude Code reads the source, creates/updates wiki pages, and logs the run here
+
+---
+
+### [2026-04-14] Run 6 — Active Client + HIVE Batch
+
+**Trigger:** Manual ingestion run — 12 raw HIVE/client files + 6-month email history.
+
+**Organization principle applied:** All pages tagged with P1 (status: active), P2 (status: warm), or P3 (status: archived) + last_contact dates.
+
+---
+
+**BATCH 1 — Active Clients:**
+
+- **raw/hive-siren-beauty-wellness-strategy-plan.md** → [[wiki/people/becky-torres]] (deal timeline confirmed; $2,200 paid Apr 6), [[wiki/orgs/siren-beauty]] (full website redesign strategy: Next.js 15 + Sanity CMS + AEO + 6-phase roadmap)
+- **raw/hive-inna.md + hive-inna-s-website-feedback.md + hive-empowered-nutrition-project-breakdown.md + hive-coaching-session-summary.md** → [[wiki/people/inna-benyukhis]] (full business profile: SFM practitioner, women 40+, $15K+ wasted marketing history, 6-module AI website plan)
+- **raw/email-history-6months-2026-04-14.md** → [[wiki/people/megan-miller]] (full rebuild: NP/hormone expert, meganmillernp@gmail.com, onboarding Apr 1), [[wiki/moil/pipeline]] (full rebuild with all Apr 2026 closed deals), [[wiki/moil/customers]] (complete P1/P2/P3 rewrite — 13 active clients)
+
+**BATCH 1 — HIVE Program:**
+
+- **raw/hive-buda-hive-sosx-run-of-show.md** → [[wiki/orgs/buda-edc]] (SoSX event Mar 12, 2026 — Andres as named Incubator Strategist; 4 cohort graduates; Jennifer Storm = IEDC Economic Developer of the Year)
+- **raw/hive-series-based-hive-program.md** → [[wiki/concepts/hive-program]] (NEW — 4-stage curriculum: Hatch/Initiate/Validate/Expand)
+- **raw/hive-coaching-session-summary.md** → integrated into Inna profile + Anita Lansing
+
+**BATCH 2 — Key 2025 Meetings:**
+
+- **raw/odtr-20241120...Echo-Squad...** → [[wiki/orgs/echo-squad]] (NEW — Monica Pena's LinkedIn pod, <10 people, Thursday 9–10 AM, Dec 2024–Feb 2025)
+- **raw/odtr-20250515...Zachary-Barker-and-Wyatt-Hook...** → [[wiki/people/zachary-barker]] (NEW — CEcD, multi-city EDC operator; Tampa Bay expansion signal validates Moil B2G thesis)
+- **raw/odtr-20250521...Moil-Enterprise-AI-Advisory...** → [[wiki/meetings/2025-05-21-moil-enterprise-ai-advisory]] (NEW — Azure account disaster: GWS→M365 migration wiped entire directory; AI Foundry deferred)
+- **raw/odtr-20241125...Monica-Pena... + raw/odtr-20250411...David-Andres... + raw/odtr-20250205...Jacob-Andres...** → existing pages confirmed/updated (source refs added)
+
+**Pages created (4):** [[wiki/concepts/hive-program]], [[wiki/orgs/echo-squad]], [[wiki/people/zachary-barker]], [[wiki/meetings/2025-05-21-moil-enterprise-ai-advisory]]
+
+**Pages updated (8):** [[wiki/people/becky-torres]], [[wiki/people/inna-benyukhis]], [[wiki/people/megan-miller]], [[wiki/orgs/siren-beauty]], [[wiki/orgs/buda-edc]], [[wiki/moil/customers]], [[wiki/moil/pipeline]], [[wiki/people/anita-lansing]]
+
+**Summary:** Run 6 confirmed 13 active paying P1 clients in April 2026. Rebuilt customers.md and pipeline.md with importance × recency structure. Key intelligence: Siren Beauty full website project scope, Inna's $15K+ wasted marketing backstory, Zachary Barker's Tampa Bay signal for B2G thesis, Azure account disaster context.
+

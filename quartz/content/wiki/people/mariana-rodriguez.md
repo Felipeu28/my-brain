@@ -1,5 +1,6 @@
 ---
-title: "Mariana Rodriguez"
+status: archived
+last_contact: 2025-06-01
 tags:
   - graph/spoke
   - person/personal
