@@ -1,6 +1,6 @@
 # Moil Brain — Master Index
 
-**Last compiled:** 2026-04-14 (Run 6 + data-quality cleanup) · **Total wiki pages:** 200 · **Raw sources:** 192
+**Last compiled:** 2026-04-14 (Run 6 + data-quality cleanup) · **Total wiki pages:** 200 · **Raw sources:** 193
 
 > **Canonical operating truth lives outside the wiki:** if status or architecture notes here conflict with newer operating reality, use `~/My Brain/CURRENT_STATE.md` first.
 
