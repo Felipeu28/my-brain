@@ -23,6 +23,12 @@ Each page follows:
 - **Action items** — owner + deadline for each
 - **Follow-ups needed** — open questions
 
+## Unabsorbed transcripts
+
+Not every raw transcript becomes a structured wiki page. Low-signal transcripts (routine marketing calls, aborted recordings, stubs) live in `raw/meetings/` and are cataloged here:
+
+→ **[[wiki/meetings/historical-transcripts-index|Historical Transcripts Index]]** — 24 raw transcripts + 7 previously-orphaned meeting pages, all with 1-line summaries and promotion rules.
+
 ## Pages in this folder
 
 | Page | Date | Type | Topic |
