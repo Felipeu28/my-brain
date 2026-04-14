@@ -19,6 +19,10 @@ fi
 
 echo "📄 Found: $LATEST"
 echo ""
+echo "🔁 Syncing wiki/ → quartz/content/ before commit..."
+bash scripts/sync_wiki.sh
+
+echo ""
 echo "📦 Committing to GitHub..."
 git add .
 git commit -m "X bookmarks — $TODAY" || echo "Nothing new to commit."

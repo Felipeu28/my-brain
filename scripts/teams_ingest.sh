@@ -26,8 +26,12 @@ Show me a summary of what you found and what you updated." \
 --allowedTools Bash,Write,Read
 
 echo ""
-echo "📦 Committing to GitHub..."
+echo "🔁 Syncing wiki/ → quartz/content/ before commit..."
 cd "$BRAIN_DIR"
+bash scripts/sync_wiki.sh
+
+echo ""
+echo "📦 Committing to GitHub..."
 git add .
 git commit -m "Teams pull — $(date +%Y-%m-%d)" || echo "Nothing new to commit."
 git push felipeu28 main
