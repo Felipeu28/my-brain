@@ -1,6 +1,6 @@
 # Moil Brain — Master Index
 
-**Last compiled:** 2026-04-13 (Run 5 — Monday collaboration transcript) · **Total wiki pages:** ~205 · **Raw sources ingested:** 79/79
+**Last compiled:** 2026-04-14 (Run 6 — Active Client + HIVE Batch) · **Total wiki pages:** ~213 · **Raw sources ingested:** 91/91
 
 > **Canonical operating truth lives outside the wiki:** if status or architecture notes here conflict with newer operating reality, use `~/My Brain/CURRENT_STATE.md` first.
 
@@ -53,6 +53,10 @@
 - [[wiki/meetings/2025-04-07-moil-marketing-call-toolbox-vision]] — Toolbox vision + interview tool design (new)
 - [[wiki/people/jacob-oluwole]] — Moil PM profile (new)
 - [[wiki/people/adeleke-tolulope]] — Lead AI engineer profile (new)
+- [[wiki/moil/customers]] — Active client roster, P1/P2/P3 (updated Run 6)
+- [[wiki/moil/pipeline]] — Live deal pipeline (updated Run 6)
+- [[wiki/concepts/hive-program]] — HIVE 4-stage curriculum (new)
+- [[wiki/people/becky-torres]] — Siren Beauty — active website project client
 
 ---
 
@@ -83,16 +87,16 @@
 | Category | Count | Notes |
 |---|---|---|
 | Moil business | 7 | product-roadmap, gtm, customers updated with Run 4 client links + GitHub repos |
-| People (network) | 41 | +4 from Run 4: becky-torres, roxana-yglesias, jacob-centeno, ana-vetencourt; 2 fixed: mark-polanco (personal→customer), wyatt-hook (customer→vendor) |
+| People (network) | 45 | +4 from Run 6: zachary-barker (new), megan-miller (rebuilt), inna (rebuilt), anita-lansing (enhanced) |
 | Minds (thinkers) | 10 | from X bookmarks deep compile |
-| Orgs (customer/partner) | 12 | +8 from Run 4: connectex, fitlogic, siren-beauty, pure-serenity, urbanozuela, nuovo-entertainment, meridian-buda, alloy-atx |
-| Concepts | 32 | |
-| Meetings | 40 | +1 from Run 5: 2026-04-13-monday-collaboration |
+| Orgs (customer/partner) | 14 | +2 from Run 6: echo-squad (new) + buda-edc (expanded) |
+| Concepts | 35 | +1 from Run 6: hive-program |
+| Meetings | 41 | +1 from Run 6: 2025-05-21-moil-enterprise-ai-advisory |
 | Radar (changelogs) | 1 | Claude Code changelog |
 | Summaries | 16 | |
 | Folder READMEs | 9 | |
-| **Total wiki files** | **~205** | +1 from Run 5 (meeting page) + 8 pages updated |
-| Raw sources ingested | 79/79 | all meeting transcripts + all 2026 data sources |
+| **Total wiki files** | **~213** | +4 new pages from Run 6 + 8 pages updated |
+| Raw sources ingested | 91/91 | Run 6: +12 HIVE/client files + email history backfill |
 
 **OneDrive Full Transcripts ingestion completed 2026-04-12 (Run 2):**
 - 25 full transcript files processed (raw/meetings/transcript-* format)

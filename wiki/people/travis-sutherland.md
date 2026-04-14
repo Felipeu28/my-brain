@@ -1,5 +1,5 @@
 ---
-status: warm
+status: active
 last_contact: 2026-04-09
 tags:
   - graph/spoke
