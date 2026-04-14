@@ -28,7 +28,7 @@ What does the customer use today, before Moil?
 ## Unique attributes
 
 - **21-question onboarding** — voice or text, EN/ES — builds a complete business DNA in 5–10 minutes that powers everything downstream
-- **All-in-one platform** — market research, biz plan, Content360, hiring, coaching, docs in one place. No tool-switching.
+- **All-in-one platform** — market research, biz plan, Moil360, hiring, coaching, docs in one place. No tool-switching.
 - **Bilingual from day one** — full EN/ES support across every feature, 58% more bilingual candidate reach than industry average
 - **Smart Hiring to 10+ platforms** — one job post auto-distributed, AI candidate matching at 95% accuracy, 11-day avg time to hire
 - **$15/mo entry point** — 99.7% cheaper than a consultant engagement
@@ -50,7 +50,7 @@ What does the customer use today, before Moil?
 
 - **Stated category:** AI business growth platform for SMBs
 - **Why this category:** "Growth platform" signals that Moil does more than one thing — it's not just hiring, not just marketing, not just planning. The "AI" qualifier positions against legacy tools. "SMB" scopes away from enterprise.
-- **Alternatives we rejected:** "AI hiring platform" (too narrow — misses Content360 and biz plans), "AI consultant" (sounds like ChatGPT wrapper), "small business OS" (overused, vague)
+- **Alternatives we rejected:** "AI hiring platform" (too narrow — misses Moil360 and biz plans), "AI consultant" (sounds like ChatGPT wrapper), "small business OS" (overused, vague)
 
 ## Messaging hierarchy
 

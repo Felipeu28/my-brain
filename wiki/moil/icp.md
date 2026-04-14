@@ -52,7 +52,7 @@ q_organization_keyword_tags: ["HVAC", "plumbing", "cleaning", "landscaping", "re
 ## Anti-ICP
 
 - **Tech startups** — they already have sophisticated tools, Moil's simplicity isn't a selling point
-- **Franchises with corporate marketing** — can't use Content360, hiring is centralized
+- **Franchises with corporate marketing** — can't use Moil360, hiring is centralized
 - **Enterprise (50+ employees)** — need Salesforce/HubSpot-level CRM, Moil isn't built for that
 - **Pure e-commerce with no physical presence** — Moil's local hiring and bilingual features don't apply
 

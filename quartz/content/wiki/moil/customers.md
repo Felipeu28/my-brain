@@ -21,7 +21,7 @@ last_contact: 2026-04-14
 
 | Customer | Contact | What They Pay For | Payment | Last Contact | Notes |
 |---|---|---|---|---|---|
-| [[wiki/people/inna-benyukhis|Inna Benyukhis]] | Healthy@empoweredwithinna.com | Content360 monthly retainer | $400 (Apr 8) | Apr 13 | Long-time client + friend; CRM build active; 1 open PR |
+| [[wiki/people/inna-benyukhis|Inna Benyukhis]] | Healthy@empoweredwithinna.com | Moil360 monthly retainer | $400 (Apr 8) | Apr 13 | Long-time client + friend; CRM build active; 1 open PR |
 | [[wiki/people/becky-torres|Becky Torres]] / [[wiki/orgs/siren-beauty|Siren Beauty]] | sirenbeautyandwellness@gmail.com | Website redesign + Moil 360 | $2,200 (Apr 6) | Apr 9 | Full SEO/AEO website project; flagship deliverable |
 | [[wiki/people/megan-miller|Megan Miller]] / [[wiki/orgs/fitlogic|FitLogic]] | meganmillernp@gmail.com | Hiring through Moil platform | Per-hire | Apr 1 | NP/hormone specialist; first hire imminent Apr 12 |
 | [[wiki/people/mark-polanco|Mark Polanco]] / [[wiki/orgs/connectex|Connectex]] | mark@connectex.net | Custom site + Airtable build | Multi-quarter invoice | Apr 9 | IT reseller CEO; closed Apr 9; 3-quarter payment schedule |
@@ -32,7 +32,7 @@ last_contact: 2026-04-14
 | [[wiki/orgs/nuovo-entertainment|Nuovo Entertainment]] | (contact TBD) | Custom site | Closed | Apr 9 | Site deployed Apr 9; [Nuovo-Enterteinment](https://github.com/Moil-Landingpages/Nuovo-Enterteinment) |
 | [[wiki/orgs/urbanozuela|Urbanzuela]] | [[wiki/people/ana-vetencourt|Ana Vetencourt]] | Custom site | Family project | Apr 9 | Sister-in-law; site active |
 | Anita Lansing / Organically Whole | anita@organicallywhole.com | Business plan via Moil platform (HIVE program) | HIVE-subsidized | Mar 31 | Platform UX friction flagged (navigation bug); HIVE cohort grad |
-| [[wiki/orgs/alloy-atx|Alloy ATX]] | r.yglesias@alloyatx.com | Content360 + Moil 360 license | Monthly retainer | Apr 11 | Closed/closing Apr 11 (Roxana Yglesias) |
+| [[wiki/orgs/alloy-atx|Alloy ATX]] | r.yglesias@alloyatx.com | Moil360 license | Monthly retainer | Apr 11 | Closed/closing Apr 11 (Roxana Yglesias) |
 | [[wiki/orgs/buda-edc|Buda EDC]] / HIVE | [[wiki/people/jacquie-martinez]], [[wiki/people/jennifer-storm]] | Per-seat Moil licenses for HIVE cohort participants | Per-cohort (B2G) | Apr 2 | Cohort 4 starts Apr 20; contract approved by Board Apr 15 |
 
 ---
@@ -41,7 +41,7 @@ last_contact: 2026-04-14
 
 | Prospect | Contact | Product Interest | Stage | Last Touch | Next Action |
 |---|---|---|---|---|---|
-| Megan Miller / FitLogic | meganmillernp@gmail.com | Hiring + possible Content360 | Active onboarding | Apr 1 | First hire imminent; confirm and track as P1 win |
+| Megan Miller / FitLogic | meganmillernp@gmail.com | Hiring + possible Moil360 | Active onboarding | Apr 1 | First hire imminent; confirm and track as P1 win |
 | Daniel Guadiano / Astra Restaurant | 210.978.4483 | AI scheduling | Demo needed | Apr 9 | Offer 30-min scheduling demo |
 | Kristi Hales / WorldLink Medical | khales@worldlinkmedical.com | Health/pharma tools | Deferred | Apr 9 | *"Will have more time in May"* — re-engage May 2026 |
 | Eden | (unknown) | Website build | Discovery | Apr 8 | Follow up on discovery call |

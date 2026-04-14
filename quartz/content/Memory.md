@@ -151,9 +151,9 @@ Source: [[wiki/summaries/buda-hive-edc-2026-04-11]]
 Source: [[wiki/concepts/fantelo]]
 - [ ] Decide: is Fantelo a future pivot, separate venture, or sub-brand of Moil? Currently consumes engineering time (private repo pushed Apr 9) with no wiki-documented strategy.
 
-### Moil360 vs Content360 naming
+### ~~Moil360 vs Content360 naming~~ (2026-04-14)
 Source: [[wiki/concepts/moil360]], [[wiki/concepts/content360]]
-- [ ] One-name policy: decide whether the 30-day marketing engine is "Content360" (product-site name) or "Moil360" (consumer brand at moilapp.com/marketing). Currently inconsistent across copy.
+- [x] **2026-04-14** — Resolved: Moil360 is canonical. Content360 deprecated to a redirect stub. 20 references in operational docs (pipeline, customers, gtm, product-roadmap, positioning, metrics, icp, alloy-atx) updated. Historical summaries/meetings preserved as-is.
 
 ### GitHub org cleanup
 Source: [[wiki/summaries/github-project-tracker]]

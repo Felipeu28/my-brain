@@ -21,7 +21,7 @@ tags:
 | Business insights (market analysis) | o4-mini | — | — |
 | Business plan sections (detailed) | o3-mini | — | — |
 | AI image generation (marketing) | Gemini | Grok | Gemini "so much better" for images (Apr 8 2026) |
-| Content360 fast generation | Qwen Turbo 3.5 | Gemini / xAI | Free tier exhausted Apr 10; moved to paid |
+| Moil360 fast generation | Qwen Turbo 3.5 | Gemini / xAI | Free tier exhausted Apr 10; moved to paid |
 | Internal code generation | Fine-tuned DeepSeek R1 | — | — |
 | Business Coach chat | Qwen | Gemini / Grok | Speed is critical; evaluating Grok 4.1 Fast ($0.20/$0.50, 2M context) |
 | Development workflow | Claude Code | — | Andres uses Claude Code for all feature prototyping (12+ sessions/week) |
@@ -38,7 +38,7 @@ tags:
 | Job Matching Algorithm | ✅ Improved | Weighted: recent experience → preference → skills |
 | Business Plan Creator | ✅ Complete | OpenAI agent; PDF + PPT export added Apr 11 2026 |
 | Business Coach | ✅ Live | AI-guided onboarding: scrapes websites/PDFs/plans, feedback after every question |
-| Content360 / Moil 360 | ✅ Live (selling) | Monthly content creation tool; image gen via Gemini; strategy + document creation |
+| Moil360 | ✅ Live (selling) | Monthly content creation tool; image gen via Gemini; strategy + document creation |
 | Business Insights | 🔧 In progress | o4-mini + o3-mini pipeline; several bugs being fixed |
 | Voice Guide | ✅ Working | "Talks to you and then takes action for you" — Andres excited about it |
 | AI Interview Tool | 🔧 In design/dev | MVP approach; voice-only initially |
@@ -127,7 +127,7 @@ Built for code generation specific to Moil's codebase. Key learnings:
 |---|---|---|
 | Starter | $15/mo | AI Coach, market research, 3 job posts/mo |
 | Professional | $25/mo | 10 job posts/mo, premium analytics |
-| Market Pro | $75/mo | Unlimited jobs + images, Content360, video credits |
+| Market Pro | $75/mo | Unlimited jobs + images, Moil360, video credits |
 
 - Annual billing: up to 25% savings
 - Bi-weekly payment option requested by Andres (to be added)

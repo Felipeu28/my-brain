@@ -97,4 +97,4 @@ Break-even target: **Q2 2027**
 |------|---------|-------------------|----------|
 | Starter | $15 | ~$135 | AI Coach, research, 3 jobs/mo, 75 images |
 | Professional | $25 | ~$225 | 10 jobs/mo, 200 images, premium analytics |
-| Market Pro | $75 | ~$675 | Unlimited jobs + images, Content360, video, dedicated support |
+| Market Pro | $75 | ~$675 | Unlimited jobs + images, Moil360, video, dedicated support |

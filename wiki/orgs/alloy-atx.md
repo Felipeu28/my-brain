@@ -13,14 +13,14 @@ tags:
 
 ## Summary
 
-Alloy ATX is a gym/fitness business in the Austin area closing a Content360 + Moil 360 deal with Moil. As of April 11, 2026, the deal was in its final closing stage. Contact is Roxana Yglesias (r.yglesias@alloyatx.com) who had an intro call with Andres in March 2026.
+Alloy ATX is a gym/fitness business in the Austin area closing a Moil360 deal with Moil. As of April 11, 2026, the deal was in its final closing stage. Contact is Roxana Yglesias (r.yglesias@alloyatx.com) who had an intro call with Andres in March 2026.
 
 ## Key Details
 
 - **Business type:** Gym / fitness
 - **Primary contact:** [[wiki/people/roxana-yglesias|Roxana Yglesias]] (r.yglesias@alloyatx.com)
 - **Deal status:** 🔥 CLOSING as of April 11, 2026
-- **Product:** Content360 (monthly content creation) + Moil 360 license
+- **Product:** Moil360 (monthly content creation) + Moil 360 license
 - **Revenue model:** Monthly retainer
 - **Emails exchanged:** 5 (Mar–Apr 2026) — intro call, meeting coordination
 
@@ -34,7 +34,7 @@ Alloy ATX is a gym/fitness business in the Austin area closing a Content360 + Mo
 
 - Confirm close and collect payment
 - Set up Moil 360 license with Jacob
-- Coordinate Content360 delivery with Ablad (Abiodun Solomon)
+- Coordinate Moil360 delivery with Ablad (Abiodun Solomon)
 
 ## Connections
 
@@ -43,4 +43,4 @@ Alloy ATX is a gym/fitness business in the Austin area closing a Content360 + Mo
 
 ## Moil Relevance
 
-First gym/fitness vertical client — proves Content360 applies beyond service businesses. Monthly retainer adds MRR. "Alloy" brand suggests a premium fitness business (good for portfolio visibility).
+First gym/fitness vertical client — proves Moil360 applies beyond service businesses. Monthly retainer adds MRR. "Alloy" brand suggests a premium fitness business (good for portfolio visibility).

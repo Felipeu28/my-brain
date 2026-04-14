@@ -19,7 +19,7 @@ last_contact: 2026-04-14
 | Deal | Contact | Product | Value | Closed | Notes |
 |------|---------|---------|-------|--------|-------|
 | **Connectex** | [[wiki/people/mark-polanco|Mark Polanco]] | Custom build + Airtable | Multi-quarter invoice | Apr 9 | 3-quarter payment; deliverables TBD |
-| **Alloy ATX** | r.yglesias@alloyatx.com | Content360 + Moil 360 | Monthly retainer | Apr 11 | Roxana Yglesias; confirm license + Ablad delivery |
+| **Alloy ATX** | r.yglesias@alloyatx.com | Moil360 | Monthly retainer | Apr 11 | Roxana Yglesias; confirm license + Ablad delivery |
 | **FitLogic** | [[wiki/people/megan-miller|Megan Miller]] | Hiring | Per-hire | Apr 12 | First hire imminent; confirm and celebrate |
 | **Travis / Zoiwell** | travis@zoiwell.com | 1-year Moil 360 | ~$900/yr | Apr 9 | Sun Show showcase Apr 24; ask for testimonial |
 | **Jacob Centeno / Titan Tech** | titantechauthority@gmail.com | Starter ($15/mo) | $180/yr | Apr 8 | Monitor usage |
@@ -33,7 +33,7 @@ last_contact: 2026-04-14
 
 | Deal | Contact | Product | Delivery Status | Next Action |
 |------|---------|---------|----------------|-------------|
-| **Inna Benyukhis** | Healthy@empoweredwithinna.com | Content360 retainer | 🟡 Active — May calendar pre-loaded | Fix CRM pipeline bug + campaigns API key |
+| **Inna Benyukhis** | Healthy@empoweredwithinna.com | Moil360 retainer | 🟡 Active — May calendar pre-loaded | Fix CRM pipeline bug + campaigns API key |
 | **Siren Beauty** | sirenbeautyandwellness@gmail.com | Website redesign | 🟡 In progress | Schedule next delivery meeting; begin Phase 1 |
 | **Buda EDC / Cohort 4** | [[wiki/people/jacquie-martinez]] | Per-seat Moil licenses | 🔥 Starts Apr 20 | Prep cohort materials; confirm contract Board approval |
 

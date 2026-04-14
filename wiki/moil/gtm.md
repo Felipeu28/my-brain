@@ -23,7 +23,7 @@ tags:
 
 - **Starter — $15/mo** — AI Coach, market research, 3 job posts/mo, 75 AI images, bilingual
 - **Professional — $25/mo** — 10 job posts/mo, 200 AI images, premium analytics, priority support
-- **Market Pro — $75/mo (best value)** — Unlimited jobs + images, Content360 full access, video credits, dedicated support
+- **Market Pro — $75/mo (best value)** — Unlimited jobs + images, Moil360 full access, video credits, dedicated support
 - **Annual billing:** Up to 25% savings
 
 ## Top channels (by current pipeline contribution)
@@ -39,7 +39,7 @@ tags:
 
 1. **Meet** — networking event, EDC intro, or inbound from website/blog → exchange contact info
 2. **Demo/onboard** — walk them through 21 questions, show market research output. Instant "wow" moment
-3. **Trial** — no credit card needed. They experience Content360, hiring, coaching
+3. **Trial** — no credit card needed. They experience Moil360, hiring, coaching
 4. **Convert** — follow up after value delivered. Most convert within 2 weeks
 5. **Expand** — starter → professional → market pro as they use more features
 
@@ -91,7 +91,7 @@ Average deal size: ~$300/year blended across tiers
 - Conversions to pilot/license deal within 60 days
 - Cost per contact (Andres's time only — no paid tools yet)
 
-**Also:** 3 individual Content360 pitches to local Austin businesses (Wellness Space, La Pera Austin, CHG).
+**Also:** 3 individual Moil360 pitches to local Austin businesses (Wellness Space, La Pera Austin, CHG).
 
 Source: [[wiki/summaries/email-history-2026-04-12]]
 
@@ -104,7 +104,7 @@ Source: [[wiki/summaries/email-history-2026-04-12]]
 |---|---|---|---|
 | Connectex | Client | Paid over 3 quarters | CLOSED Apr 9 |
 | Meridian | Client (event platform) | TBD | CLOSED Apr 9 |
-| Alloy (gym company) | Content360 client | Monthly content + Moil 360 license | CLOSING Apr 11 |
+| Alloy (gym company) | Moil360 client | Monthly content + Moil 360 license | CLOSING Apr 11 |
 | Travis / Zoiwell | Moil 360 license | 1-year license | Onboarded Apr 9 |
 | Jacob Centeno / Titan Tech Authority | $15/mo license | Starter plan | Onboarded Apr 8 |
 | jilledegs01 customer | Moil 360 license | TBD | Onboarded Apr 10 |
