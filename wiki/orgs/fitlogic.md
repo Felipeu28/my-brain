@@ -1,4 +1,5 @@
 ---
+github_repo: Moil-Landingpages/fit-logic
 tags:
   - graph/spoke
 ---

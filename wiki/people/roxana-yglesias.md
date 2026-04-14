@@ -1,4 +1,6 @@
 ---
+status: active
+last_contact: 2026-04-11
 tags:
   - graph/spoke
   - person/customer

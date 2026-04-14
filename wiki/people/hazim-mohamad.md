@@ -2,6 +2,8 @@
 name: hazim-mohamad
 description: CoffeeSpace outreach contact — partnership/integration lead
 type: person
+status: archived
+last_contact: 2025-06-01
 tags:
   - graph/spoke
   - person/partner

@@ -1,4 +1,5 @@
 ---
+github_repo: Moil-Landingpages/meridian-buda
 tags:
   - graph/spoke
 ---
@@ -6,7 +7,7 @@ tags:
 
 **Type:** organization
 **Last updated:** 2026-04-13
-**Source:** [[raw/teams-2026-04-12]], [[raw/imessages-people-2026-04-09]], [[raw/github-project-tracker.md]]
+**Source:** [[raw/teams-2026-04-12]], [[raw/imessages-people-2026-04-09]], [[raw/github-project-tracker.md]], [[raw/teams-transcript-monday-collaboration-2026-04-13]]
 **Related:** [[wiki/people/john-costilla]], [[wiki/moil/customers]], [[wiki/moil/pipeline]]
 
 ---
@@ -44,6 +45,12 @@ Meridian Buda is a "Coffee, Live Music & Community" venue in Buda, TX. It is a *
 - Apr 9: Supabase migration needed — Taiwo to run migration
 - Apr 10: Taiwo pushes to new branch (taiwo/finish); domain email issue blocking organizer dashboard unlock
 - Apr 11: Taiwo reports "Changes are deployed"
+
+## Current Blocker (Apr 13, 2026)
+
+**Stripe webhook URL not configured** — ticket confirmation emails not sending. Taiwo has the endpoint, Andres needs to add it in Stripe's developer section (Meridian test account). Additionally, cron job secrets in Vercel are using placeholder values, not real secrets. Email sending works via Resend (partner email, limited to 100/day) — sufficient for now.
+
+See [[wiki/meetings/2026-04-13-monday-collaboration]].
 
 ## Connections
 

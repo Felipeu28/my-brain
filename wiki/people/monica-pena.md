@@ -1,4 +1,6 @@
 ---
+status: warm
+last_contact: 2024-11-25
 tags:
   - graph/spoke
   - person/partner

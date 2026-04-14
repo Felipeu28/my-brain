@@ -1,4 +1,6 @@
 ---
+status: warm
+last_contact: 2026-04-09
 tags:
   - graph/spoke
   - person/team
@@ -6,8 +8,8 @@ tags:
 # Taiwo Ola-Balogun
 
 **Type:** person
-**Last updated:** 2026-04-12
-**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026)
+**Last updated:** 2026-04-13
+**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]]
 **Related:** [[wiki/people/adeleke-tolulope]], [[wiki/people/jacob-oluwole]], [[wiki/moil/product-roadmap]]
 
 ---
@@ -74,6 +76,16 @@ Nigerian team member (same remote team cohort). Present since Jan 2025. Works cl
 - Andres frustrated when Taiwo waited for credentials: "We have 6 projects, please let's never let a full day go by just 'waiting' on credentials"
 - Taiwo respectful but slower pace; Andres sharing Gemini API key directly in chat
 - Credential sharing happening directly in Teams (security concern)
+
+## April 13, 2026 — Monday Collaboration
+
+Three high-priority items from this meeting:
+
+1. **BLOCKER — Meridian Stripe webhook:** Webhook URL not configured — ticket confirmation emails not sending. Taiwo will send the endpoint URL to Andres to add in Stripe's developer section (test account). Cron job secrets in Vercel also using placeholder values, not real secrets.
+2. **Client handoff document:** Andres assigned Taiwo to create a structured doc listing everything clients need before project handover — Vercel accounts, Supabase, Resend, login instructions. "Please get this done to me as soon as possible."
+3. **New massage place client:** Website nearly done, just needs images. Taiwo to handle handoff process.
+
+See [[wiki/meetings/2026-04-13-monday-collaboration]].
 
 ## Gaps
 

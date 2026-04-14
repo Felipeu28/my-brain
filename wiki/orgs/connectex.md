@@ -1,4 +1,5 @@
 ---
+github_repo: Moil-Landingpages/connectex, Felipeu28/connectex-website
 tags:
   - graph/spoke
 ---

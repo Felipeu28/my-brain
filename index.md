@@ -1,6 +1,6 @@
 # Moil Brain — Master Index
 
-**Last compiled:** 2026-04-13 (Run 4 — clients & customers rebuild) · **Total wiki pages:** ~204 · **Raw sources ingested:** 78/78
+**Last compiled:** 2026-04-13 (Run 5 — Monday collaboration transcript) · **Total wiki pages:** ~205 · **Raw sources ingested:** 79/79
 
 > **Canonical operating truth lives outside the wiki:** if status or architecture notes here conflict with newer operating reality, use `~/My Brain/CURRENT_STATE.md` first.
 
@@ -87,12 +87,12 @@
 | Minds (thinkers) | 10 | from X bookmarks deep compile |
 | Orgs (customer/partner) | 12 | +8 from Run 4: connectex, fitlogic, siren-beauty, pure-serenity, urbanozuela, nuovo-entertainment, meridian-buda, alloy-atx |
 | Concepts | 32 | |
-| Meetings | 39 | |
+| Meetings | 40 | +1 from Run 5: 2026-04-13-monday-collaboration |
 | Radar (changelogs) | 1 | Claude Code changelog |
 | Summaries | 16 | |
 | Folder READMEs | 9 | |
-| **Total wiki files** | **~204** | +17 from Run 4 (8 org pages + 4 people pages + 4 updated pages + 1 README updated) |
-| Raw sources ingested | 78/78 | all meeting transcripts + all 2026 data sources |
+| **Total wiki files** | **~205** | +1 from Run 5 (meeting page) + 8 pages updated |
+| Raw sources ingested | 79/79 | all meeting transcripts + all 2026 data sources |
 
 **OneDrive Full Transcripts ingestion completed 2026-04-12 (Run 2):**
 - 25 full transcript files processed (raw/meetings/transcript-* format)

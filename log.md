@@ -428,6 +428,40 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ---
 
+### [2026-04-13] Run 5 — Monday Collaboration Transcript (Apr 13)
+
+**Trigger:** New unprocessed file detected in raw/: `teams-transcript-monday-collaboration-2026-04-13.md`
+
+**Source:** [[raw/teams-transcript-monday-collaboration-2026-04-13]] — Full VTT transcript of Monday Collaboration call (8:17am–10:00am CT), organized by Jacob Oluwole, all 5 team members present.
+
+**Pages created (1 new):**
+- [[wiki/meetings/2026-04-13-monday-collaboration]] — Full meeting record with decisions, action items, and blockers
+
+**Pages updated (8):**
+- [[wiki/people/inna-benyukhis]] — CRM bugs surfaced (contacts not reading, campaigns API key missing), meeting confirmed for 10am today
+- [[wiki/people/jacob-oluwole]] — Organized meeting; assigned Google Alloy image gen testing before Andres's Apr 14 meeting
+- [[wiki/people/adeleke-tolulope]] — PDF/PPTX generation first test done (formatting WIP); pushed staging updates for Business Coach
+- [[wiki/people/abiodun-solomon]] — Content behind schedule; testing Business Coach; reiterated testing-notes requirement from Friday
+- [[wiki/people/taiwo-ola-balogun]] — Three high-priority items: Meridian Stripe webhook blocker, client handoff document, new massage place client
+- [[wiki/people/travis-sutherland]] — Sun Show event next week; Moil will have a demo table
+- [[wiki/orgs/meridian-buda]] — Stripe webhook URL blocker documented; Vercel cron secrets using placeholders
+- [[wiki/moil/customers]] — (no change needed; massage place client unnamed)
+
+**Key intelligence:**
+- **BLOCKER:** Meridian ticket emails dead — Stripe webhook URL not configured + Vercel cron secrets are placeholders
+- **BLOCKER:** Inna CRM contact pipeline not displaying + campaigns API key missing (before 10am meeting)
+- **Decision:** Brain repos to be cloned for each team member once stable
+- **Decision:** Content must be Friday-ready; Mondays are for strategizing
+- **Decision:** Client handoff doc required (Vercel, Supabase, Resend, login instructions)
+- **New client:** Massage place (unnamed) — website nearly done, needs images
+- **Opportunity:** Google Alloy image gen — if it works inside Moil, can charge clients without extra integration work
+- **Event:** Moil showcasing at Sun Show next week (Travis Sutherland's event)
+- 12 action items assigned across 5 team members (see meeting page)
+
+**Summary:** Ingested the Apr 13 Monday Collaboration transcript — one new meeting page, eight wiki pages updated. Two active blockers (Meridian Stripe webhook, Inna CRM), three key decisions, and a new unnamed massage place client.
+
+---
+
 ## How to add an entry
 
 Claude Code automatically appends to this file at the end of each `/kb compile` run. You do not need to edit this manually.

@@ -1,4 +1,6 @@
 ---
+status: warm
+last_contact: 2026-04-01
 tags:
   - graph/spoke
   - person/customer

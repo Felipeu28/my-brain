@@ -1,4 +1,6 @@
 ---
+status: warm
+last_contact: 2025-05-15
 tags:
   - graph/spoke
   - person/vendor

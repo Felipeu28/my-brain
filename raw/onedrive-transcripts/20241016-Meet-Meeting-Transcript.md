@@ -1,0 +1,240 @@
+# 20241016 Meet Meeting Transcript
+
+**Date:** 2024-10-16
+**Type:** meeting-transcript
+
+---
+
+Oct 16, 2024 | Meet Meeting
+Invited Guests:
+Live Notes | Read Meeting Report
+————————
+Live Transcript
+Andrés Felipe Urrego Martínez (12:12 PM): You want to be talking because it's more personable right. That's the only difference from. Now, if we can combine that with
+Andrés Felipe Urrego Martínez (12:12 PM): What kind of videos because I think look I've done a few videos in the past and they usually do pretty good. Oh, you have? Oh, yeah. And I don't... You know, you should click on... their own, mostly when it's me.
+Andrés Felipe Urrego Martínez (12:12 PM): But let's think of ideas on.
+Andrés Felipe Urrego Martínez (12:12 PM): If not, I'll do them all.
+Andrés Felipe Urrego Martínez (12:12 PM): I mean, again, I don't want to put any pressure on you. You don't have to be in any of the videos here want it to you can absolutely so sleep you tell me when and how.
+Andrés Felipe Urrego Martínez (12:12 PM): and record a video.
+Andrés Felipe Urrego Martínez (12:12 PM): with some ideas to what we'll replan.
+Andrés Felipe Urrego Martínez (12:11 PM): No, I mean, okay, so We meet once a week, okay? but once or twice a week. Next time I want us to meet.
+Andrés Felipe Urrego Martínez (12:11 PM): That's why I was saying that if I just post this right now like it's gonna mess up his order. reading.
+Andrés Felipe Urrego Martínez (12:11 PM): that I didn't notice.
+Andrés Felipe Urrego Martínez (12:11 PM): See, that's why I don't do marketing. I give you guys ideas. but I don't do the sign. I don't do any of that shit because I would make that. Yeah, I would. You made that up so bad later on. Okay, all right. I see what you're saying. He does have a pattern there.
+Andrés Felipe Urrego Martínez (12:11 PM): I guess if I just post the Spanish. like it's not going to be in English first. So I have to post. the English first on Instagram and then the Spanish. I love it, yeah.
+Andrés Felipe Urrego Martínez (12:11 PM): Bye.
+Andrés Felipe Urrego Martínez (12:11 PM): Yeah, because I need to tell yeah, I need time I don't know why he's doing that because...
+Andrés Felipe Urrego Martínez (12:10 PM): Well, actually, you can just the ones. that he has posted on Instagram, post them on from. Meta for Business Instagram only. You can just select Instagram only. instead of facing an Instagram and then posting from Instagram.
+Andrés Felipe Urrego Martínez (12:10 PM): from the ones that he posted on Facebook, because he already has the job. They're missing here. So just copy and paste them. Copy the captions, put them on Instagram. Since he didn't.
+Andrés Felipe Urrego Martínez (12:10 PM): August 16th.
+Andrés Felipe Urrego Martínez (12:10 PM): There is no order. He hasn't posted a fucking job since.
+Andrés Felipe Urrego Martínez (12:10 PM): or he has them posted on Instagram. They're only on Facebook, like the ones he posted yesterday. Yeah, but what I'm saying is. Shouldn't we be posting it on Instagram? Yeah. But since you told me to close the carpet. one, the Spanish version, but I don't know if it's synonymous. up like the order that he has, you know.
+Andrés Felipe Urrego Martínez (12:10 PM): Like the carpenter one and the laborer one.
+Andrés Felipe Urrego Martínez (12:09 PM): But I'm saying like from the ones that he already posted on. Facebook, like the Carpenter one.
+Andrés Felipe Urrego Martínez (12:09 PM): what kind of jobs have been offered.
+Andrés Felipe Urrego Martínez (12:09 PM): No, not at all, it's normal. I mean some people can see.
+Andrés Felipe Urrego Martínez (12:09 PM): Should we not do it? Should we keep it for a week? or and then delete the jobs or What do you think we should do?
+Andrés Felipe Urrego Martínez (12:09 PM): I mean, we've had so many jobs. I don't know why, should we not?
+Andrés Felipe Urrego Martínez (12:09 PM): because I noticed it I was like why There's not that many jobs on there on our profile look
+Andrés Felipe Urrego Martínez (12:09 PM): I asked him that yesterday.
+Andrés Felipe Urrego Martínez (12:08 PM): use that t-shirt on Facebook and Instagram. Yeah, we always write Boston. Yeah, so should do it on do it from meta on meta for business. Instagram is it has shared the other dots on Facebook, but on Instagram, there's only the pipe there. I don't know if he's waiting to...
+Andrés Felipe Urrego Martínez (12:08 PM): Thank you. Thank you for the. Yes.
+Andrés Felipe Urrego Martínez (12:08 PM): It's more than the other one.
+Andrés Felipe Urrego Martínez (12:08 PM): Because I really like it Not a lot of things are spicy, but I think the red. one is.
+Andrés Felipe Urrego Martínez (12:08 PM): Is it spiking or not? Really? I don't know. I don't know. I usually don't make that mistake of telling people.
+Andrés Felipe Urrego Martínez (12:08 PM): Yeah. We're good. See you Alexa. So good.
+Andrés Felipe Urrego Martínez (12:07 PM): Yeah, this place is crazy
+Andrés Felipe Urrego Martínez (12:07 PM): Oh one time I volunteered for something that was for like a child, like their moms with their kids that live with their kids.
+Andrés Felipe Urrego Martínez (12:07 PM): Basically, we're going to go share with. He's from the Center for Child Protection here in Austin. So we're going to go see the parents. You know, there'll be other people there to come and... provide services for the parents of. Okay.
+Andrés Felipe Urrego Martínez (12:07 PM): And then we got invited to call the Family Resource Festival.
+Andrés Felipe Urrego Martínez (12:07 PM): Okay, what is it?
+Andrés Felipe Urrego Martínez (12:07 PM): And then.
+Andrés Felipe Urrego Martínez (12:06 PM): I mean, we don't know what you're going to be doing by then, but I'm going to put in our calendars.
+Andrés Felipe Urrego Martínez (12:06 PM): So this event is November 16.
+Andrés Felipe Urrego Martínez (12:06 PM): Thank you very much.
+Andrés Felipe Urrego Martínez (12:06 PM): else.
+Andrés Felipe Urrego Martínez (12:06 PM): Thank you.
+Andrés Felipe Urrego Martínez (12:06 PM): Amigos. Sorry, I've seen this one without the sticker. Thank you. You're welcome.
+Andrés Felipe Urrego Martínez (12:06 PM): Before, I couldn't eat any salsa, but now like I do. I eat salsa, but they're spicy.
+Andrés Felipe Urrego Martínez (12:06 PM): But it's one of my favorite things to do. like spicy food is like wow.
+Andrés Felipe Urrego Martínez (12:06 PM): I don't know.
+Andrés Felipe Urrego Martínez (12:05 PM): We don't have any Spanish. Do you eat spicy food?
+Andrés Felipe Urrego Martínez (12:05 PM): So do you think that there's a strict difference between the two sides? I don't know.
+Andrés Felipe Urrego Martínez (12:05 PM): And I'll see you in the next one.
+Andrés Felipe Urrego Martínez (12:05 PM): Oh.
+Andrés Felipe Urrego Martínez (12:05 PM): Okay, come on.
+Andrés Felipe Urrego Martínez (12:05 PM): Oh, that's awesome. I think Okay.
+Andrés Felipe Urrego Martínez (12:05 PM): Bye.
+Andrés Felipe Urrego Martínez (12:05 PM): Yes.
+Andrés Felipe Urrego Martínez (12:04 PM): Take action.
+Andrés Felipe Urrego Martínez (12:04 PM): Yeah.
+Andrés Felipe Urrego Martínez (12:04 PM): Okay.
+Andrés Felipe Urrego Martínez (12:04 PM): All right.
+Andrés Felipe Urrego Martínez (12:04 PM): That's it.
+Andrés Felipe Urrego Martínez (12:04 PM): Thank you.
+Andrés Felipe Urrego Martínez (12:04 PM): Thank you.
+Andrés Felipe Urrego Martínez (12:04 PM): Thank you.
+Andrés Felipe Urrego Martínez (12:04 PM): Thank you.
+Andrés Felipe Urrego Martínez (12:04 PM): Yeah, so if you have metal. I would try it from next year. Okay.
+Andrés Felipe Urrego Martínez (12:04 PM): Thank you.
+Andrés Felipe Urrego Martínez (12:04 PM): I'll make another call.
+Andrés Felipe Urrego Martínez (12:03 PM): So because so from. I think we're going to do them from metaphor business because. allows you to actually invite me as a collaborator. Thank you very much. From Facebook you can't you.
+Andrés Felipe Urrego Martínez (12:03 PM): So he didn't tag me on Instagram. I have to go back in time.
+Andrés Felipe Urrego Martínez (12:03 PM): I'm going to take a shower.
+Andrés Felipe Urrego Martínez (12:03 PM): Oh.
+Andrés Felipe Urrego Martínez (12:03 PM): It's okay, you're up.
+Andrés Felipe Urrego Martínez (12:03 PM): I'm not sure.
+Andrés Felipe Urrego Martínez (12:03 PM): Yes, you did, you did. Thank you very much.
+Andrés Felipe Urrego Martínez (12:03 PM): Thank you.
+Andrés Felipe Urrego Martínez (12:03 PM): Okay.
+Andrés Felipe Urrego Martínez (12:02 PM): Thank you so much.
+Andrés Felipe Urrego Martínez (12:02 PM): Thank you.
+Andrés Felipe Urrego Martínez (12:02 PM): I want you to start with me now. I don't know what it is.
+Andrés Felipe Urrego Martínez (12:02 PM): Bye.
+Andrés Felipe Urrego Martínez (12:02 PM): we're going to do the screenshot. So by the way, I'm I'm going to send you a couple of invites. I don't know what your schedule looks like. haven't been wanting to add a lot to it, but I'm going to send you the invites anyway. just in case you can't come. So CC.
+Andrés Felipe Urrego Martínez (12:02 PM): Oh, and for this post. I want you to use the other two images. Remember I showed you guys. yesterday. So go to MoyerLab.com. Maybe I didn't, or maybe I did, I don't know. but turmoilapp.com. Oh, okay. Yes.
+Andrés Felipe Urrego Martínez (12:02 PM): Yes.
+Andrés Felipe Urrego Martínez (12:01 PM): I'll talk to you later. Thank you.
+Andrés Felipe Urrego Martínez (12:01 PM): We have, now let's post it. Oh, so I'm gonna send it to you and you can post it, okay? Okay.
+Andrés Felipe Urrego Martínez (12:01 PM): Oh, yeah. So much time. Okay.
+Andrés Felipe Urrego Martínez (12:01 PM): And then you say, well, now let's make these changes to it.
+Andrés Felipe Urrego Martínez (12:01 PM): algo, les vamos a dar ese ejemplo.
+Andrés Felipe Urrego Martínez (12:01 PM): las cosas.
+Andrés Felipe Urrego Martínez (12:01 PM): estamos listos.
+Andrés Felipe Urrego Martínez (12:01 PM): interesa a puestos carpinteros con la corda de molde es perfecto.
+Andrés Felipe Urrego Martínez (12:01 PM): Okay. foreign a poner una descripción.
+Andrés Felipe Urrego Martínez (12:00 PM): To Spanish let down and make sure it makes semantical sense. So they just copy-paste their English breakdowns. And that's it. but he actually makes sense.
+Andrés Felipe Urrego Martínez (12:00 PM): If you translate verbatim, if you translate word by word, you would have no semantical context, right? It doesn't make any sense. I always do this, and I tell the guys, And most of the times, their captions, even though that captures in Spanish are pretty decent. That's because we have just a very simple prompt, translate to Spanish.
+Andrés Felipe Urrego Martínez (12:00 PM): but it's semantical.
+Andrés Felipe Urrego Martínez (12:00 PM): He opened it again, I don't know Thank you. Oh yeah, and then what I wrote him it was.
+Andrés Felipe Urrego Martínez (12:00 PM): Thank you.
+Andrés Felipe Urrego Martínez (11:59 AM): Bye-bye.
+Andrés Felipe Urrego Martínez (11:59 AM): All I want to say is, God bless you. God bless you.
+Andrés Felipe Urrego Martínez (11:59 AM): Eat person.
+Andrés Felipe Urrego Martínez (11:59 AM): Thanks.
+Andrés Felipe Urrego Martínez (11:59 AM): We have to get it to compare.
+Andrés Felipe Urrego Martínez (11:59 AM): Thank you very much. Let me hear it.
+Andrés Felipe Urrego Martínez (11:59 AM): Bye-bye.
+Andrés Felipe Urrego Martínez (11:59 AM): Thank you.
+Andrés Felipe Urrego Martínez (11:59 AM): Bye-bye.
+Andrés Felipe Urrego Martínez (11:59 AM): would you say it is?
+Andrés Felipe Urrego Martínez (11:58 AM): Let's just do one. We don't have the Spanish version, right? So what we're going to do is we're just going to. Let's say we had this as an example. You don't have a previous version, but you have this example. the way it works.
+Andrés Felipe Urrego Martínez (11:58 AM): So we'll get the post. Or technically, I mean, even if you don't have the Spanish.
+Andrés Felipe Urrego Martínez (11:58 AM): do that right so we'll go to the Thank you.
+Andrés Felipe Urrego Martínez (11:58 AM): he posted it on Facebook, right?
+Andrés Felipe Urrego Martínez (11:58 AM): the image and I'll say, for example, Yeah, but since you already have it in English Well, we have it in Spanish too, but oh, you mean, no, we don't. have the caption.
+Andrés Felipe Urrego Martínez (11:58 AM): all the same. You can do all the same things. limited amount of times. I usually just copy the image.
+Andrés Felipe Urrego Martínez (11:57 AM): Something simple that I can do. do is, you know, whenever you're using Tragic Tea and things like that, whether it's the paid version or the free version. The free version is just limited. you can use but other than that 4.0 has, or the 4.5 mini has.
+Andrés Felipe Urrego Martínez (11:57 AM): But I did okay.
+Andrés Felipe Urrego Martínez (11:57 AM): Thank you.
+Andrés Felipe Urrego Martínez (11:57 AM): Thank you. Thank you very much.
+Andrés Felipe Urrego Martínez (11:57 AM): We don't have a capture for the. You said we don't have that one in Spanish.
+Andrés Felipe Urrego Martínez (11:57 AM): I can get you the caption for the Spanish version for the roles of the carpenter. Well, no, Adelaide has to agree. but I mean the caption for...
+Andrés Felipe Urrego Martínez (11:57 AM): Yeah, let me get you the...
+Andrés Felipe Urrego Martínez (11:56 AM): Thank you.
+Andrés Felipe Urrego Martínez (11:56 AM): Sorry, that it is. to the English group.
+Andrés Felipe Urrego Martínez (11:56 AM): Thank you.
+Andrés Felipe Urrego Martínez (11:56 AM): Oh, sorry.
+Andrés Felipe Urrego Martínez (11:56 AM): I think that's all.
+Andrés Felipe Urrego Martínez (11:56 AM): Thanks for watching.
+Andrés Felipe Urrego Martínez (11:56 AM): Get your caps.
+Andrés Felipe Urrego Martínez (11:55 AM): outside you know we'll take it so nemo you can see when they open it Oh yeah, I have a tracking. Absolutely.
+Andrés Felipe Urrego Martínez (11:55 AM): See, I was just telling you about the councilman. That's him, he just opened the email. just open solids and structures when they work exodus. Okay. Phil Crager's crying. What do you think, Ian?
+Andrés Felipe Urrego Martínez (11:55 AM): Okay, can you reply in Spanish? and reply to that one and say, do we have the Spanish version? This one.
+Andrés Felipe Urrego Martínez (11:55 AM): Electrician, technician.
+Andrés Felipe Urrego Martínez (11:55 AM): later. Bye.
+Andrés Felipe Urrego Martínez (11:55 AM): There's a car coming.
+Andrés Felipe Urrego Martínez (11:55 AM): Thank you. than the one I don't see in Spanish.
+Andrés Felipe Urrego Martínez (11:55 AM): So, just to be clear.
+Andrés Felipe Urrego Martínez (11:55 AM): Ciao!
+Andrés Felipe Urrego Martínez (11:55 AM): So it's.
+Andrés Felipe Urrego Martínez (11:54 AM): Sure. Sure.
+Andrés Felipe Urrego Martínez (11:54 AM): Oh, sorry.
+Andrés Felipe Urrego Martínez (11:54 AM): Bye.
+Andrés Felipe Urrego Martínez (11:54 AM): Thank you.
+Andrés Felipe Urrego Martínez (11:54 AM): Thank you very much. Really?
+Andrés Felipe Urrego Martínez (11:54 AM): Bye!
+Andrés Felipe Urrego Martínez (11:54 AM): Bye!
+Andrés Felipe Urrego Martínez (11:54 AM): Okay.
+Andrés Felipe Urrego Martínez (11:54 AM): Thank you.
+Andrés Felipe Urrego Martínez (11:54 AM): Okay.
+Andrés Felipe Urrego Martínez (11:54 AM): Okay.
+Andrés Felipe Urrego Martínez (11:53 AM): I'm going to stop it. Thank you very much.
+Andrés Felipe Urrego Martínez (11:53 AM): Thank you. Okay.
+Andrés Felipe Urrego Martínez (11:53 AM): Hello.
+Andrés Felipe Urrego Martínez (11:53 AM): Bye.
+Andrés Felipe Urrego Martínez (11:53 AM): Thank you for having me.
+Andrés Felipe Urrego Martínez (11:53 AM): Bye. Ciao.
+Andrés Felipe Urrego Martínez (11:53 AM): on the computer.
+Andrés Felipe Urrego Martínez (11:53 AM): Especially if you're going to do it from your computer. Yeah, I have it. I use it on my That's what I was saying when I do the planning Yeah. Yeah.
+Andrés Felipe Urrego Martínez (11:53 AM): we'll start there.
+Andrés Felipe Urrego Martínez (11:52 AM): No. Download the app.
+Andrés Felipe Urrego Martínez (11:52 AM): So you haven't done, he hasn't showed you yet how. do any of the you told me how to create The captions? Yeah, the captions. But I don't have access to the chat. Do you have the app?
+Andrés Felipe Urrego Martínez (11:52 AM): Do you have any questions? access to GPT already? Are you using GPT already? No. Thank you.
+Andrés Felipe Urrego Martínez (11:52 AM): Whether you want to do it from your phone or your computer, I would just download that
+Andrés Felipe Urrego Martínez (11:52 AM): Carpenter. Yeah. It's hard to learn English. Is it Spanish? Okay, now.
+Andrés Felipe Urrego Martínez (11:52 AM): That's my favorite. Thank you.
+Andrés Felipe Urrego Martínez (11:51 AM): check in the group in the whatsapp because I mean that's where you're going to find all your content that's where or in the drive, right? Um, So then you can go back and then try and find the. Spanish, see if we have it. I think he probably Thank you.
+Andrés Felipe Urrego Martínez (11:51 AM): But do we have it? Is it in the group? I just think that I... Okay, check on your group
+Andrés Felipe Urrego Martínez (11:51 AM): I'll be the reminder of like 10 minutes.
+Andrés Felipe Urrego Martínez (11:51 AM): like one in the morning one at night Or should we post them both at the same time? Oh, yesterday, and then he didn't post the Spanish one. This is the one tweet we were getting yesterday. Yeah, let me tell.
+Andrés Felipe Urrego Martínez (11:50 AM): Okay, so which Um, so it's. Jacob was going to tell me what I say, well. the other one but I think he was doing the carpenter English version from then oh he didn't do the Spanish version for the carpenter I think he says you post that at 6. Oh, OK. Right?
+Andrés Felipe Urrego Martínez (11:50 AM): Yeah.
+Andrés Felipe Urrego Martínez (11:50 AM): I mean, it would be awesome if we could. get some type of docking from
+Andrés Felipe Urrego Martínez (11:50 AM): Thank you.
+Andrés Felipe Urrego Martínez (11:50 AM): I emailed them yesterday to see if I can get... I'm meeting with them to talk about oil and see how we can help the community. Thank you.
+Andrés Felipe Urrego Martínez (11:50 AM): I emailed two Latino congressmen and a congresswoman. yesterday.
+Andrés Felipe Urrego Martínez (11:50 AM): Thank you for joining us today.
+Andrés Felipe Urrego Martínez (11:50 AM): Hello.
+Andrés Felipe Urrego Martínez (11:50 AM): I'm sorry.
+Andrés Felipe Urrego Martínez (11:49 AM): Thank you. But they didn't do it. Thank you.
+Andrés Felipe Urrego Martínez (11:49 AM): Thank you.
+Andrés Felipe Urrego Martínez (11:49 AM): Thank you for joining us. Hi.
+Andrés Felipe Urrego Martínez (11:49 AM): Good job.
+Andrés Felipe Urrego Martínez (11:49 AM): Yeah, I think he was sharing with the carcenter.
+Andrés Felipe Urrego Martínez (11:49 AM): But once you have everything figured out you can do the first your computer and then just do all the sharing and all that other shit. from your promise much faster. But tweak it and go with whatever works. We call.
+Andrés Felipe Urrego Martínez (11:49 AM): to like read, scroll up and down.
+Andrés Felipe Urrego Martínez (11:48 AM): Especially when you're copying and pasting it's a lot easier Thank you.
+Andrés Felipe Urrego Martínez (11:48 AM): Thank you. I don't sleep around the house.
+Andrés Felipe Urrego Martínez (11:48 AM): Thank you.
+Andrés Felipe Urrego Martínez (11:48 AM): I don't think I can. Thank you for having me.
+Andrés Felipe Urrego Martínez (11:48 AM): I like planning more on the computer than posting from the phone. Okay. But that's the way it is. Thank you very much.
+Andrés Felipe Urrego Martínez (11:48 AM): Some things well, I guess. Yeah.
+Andrés Felipe Urrego Martínez (11:48 AM): I have been doing everything for You have? Okay, good.
+Andrés Felipe Urrego Martínez (11:48 AM): the fifth Everything from my phone.
+Andrés Felipe Urrego Martínez (11:47 AM): I don't know. I don't know what to say in response. I can't see anything Jacob.
+Andrés Felipe Urrego Martínez (11:47 AM): Thank you.
+Andrés Felipe Urrego Martínez (11:47 AM): Are you still out there? All right.
+Andrés Felipe Urrego Martínez (11:47 AM): You can actually plug in your computer directly to the Thank you.
+Andrés Felipe Urrego Martínez (11:47 AM): Well, hopefully not longer than that. Thank you. I totally hear you.
+Andrés Felipe Urrego Martínez (11:47 AM): All right.
+Andrés Felipe Urrego Martínez (11:47 AM): We're just going to be really loud. I'm a little... I'm really nervous.
+Andrés Felipe Urrego Martínez (11:47 AM): I'll be there.
+Andrés Felipe Urrego Martínez (11:46 AM): Fantastic. Don't come out.
+Andrés Felipe Urrego Martínez (11:46 AM): Two blankets, come on. You're very welcome, sir. You're very welcome.
+Andrés Felipe Urrego Martínez (11:46 AM): 60 and the second I was So, you know...
+Andrés Felipe Urrego Martínez (11:46 AM): Yeah, so I set up a tan. But in the backyard, so I'm trying to get him used to going for two where they can go camping with me. Yeah, so I put it in the backyard. I put a TV in it, a bed, I put like streamlines on top of it, you know, like so. So yeah, it was an awesome night, but then in the mornings, he was like 16. 62 first night I was
+Andrés Felipe Urrego Martínez (11:45 AM): But if you want, since you're told.
+Andrés Felipe Urrego Martínez (11:45 AM): Okay. You want to do that?
+Andrés Felipe Urrego Martínez (11:45 AM): So it's happy hour. Cool.
+Jacob Oluwole (11:45 AM): Oh!
+Jacob Oluwole (11:45 AM): Wait, wait a minute.
+Andrés Felipe Urrego Martínez (11:45 AM): Look at that, your pussy's getting more...
+Jacob Oluwole (11:44 AM): Oh my god.
+Jacob Oluwole (11:44 AM): Yes, I'm back. I'm back. Okay, okay that the Not even back yet. What are you saying, Dad? He logged me out.
+Andrés Felipe Urrego Martínez (11:44 AM): Thank you.
+Andrés Felipe Urrego Martínez (11:44 AM): Yeah, no, no, I don't. Jacob, can you?
+Andrés Felipe Urrego Martínez (11:44 AM): You're not connected to the Wi-Fi. Oh no, that's okay. because I don't think he can hear me anymore. Thank you.
+Andrés Felipe Urrego Martínez (11:44 AM): Okay, we're gonna need the Wi-Fi to this place.
+Jacob Oluwole (11:43 AM): I don't know, maybe Facebook is trying to trick us into posting boosting it Facebook is not letting you post Hosted?
+Jacob Oluwole (11:43 AM): Um...
+Andrés Felipe Urrego Martínez (11:43 AM): Oh. How can I slow this boost?
+Andrés Felipe Urrego Martínez (11:43 AM): It's raining.
+Jacob Oluwole (11:43 AM): Okay.
+Andrés Felipe Urrego Martínez (11:43 AM): It is cold here Other like there Jacob right now.
+Andrés Felipe Urrego Martínez (11:42 AM): see. Yeah. So yeah, we'll definitely need to post it again on the, on or post on the English. Go ahead and share that one on the English groups. Um, and then I also wanted us to look at Jacob, which, which of the posts do you think have performed the best lately? Um, and then let's put a little bit off. Fuck. I didn't bring the phone. What an idiot. What an absolute idiot. Okay, we can at least plan the... Oh, that's an iPhone, right, yeah. We can plan the... the post that we want to promote Jacob and obviously at and that we can, I'll promote him as soon as I get home.
+Andrés Felipe Urrego Martínez (11:42 AM): But she says she didn't post to as many groups in English because it seemed like we didn't have that many, that there's a limited amount of groups in English. Oh, that's exactly what I just wanted to share. Okay, okay, okay Okay, so then we can look and see.
+Andrés Felipe Urrego Martínez (11:42 AM): Let me know and I'd share to four or five groups.
+Jacob Oluwole (11:42 AM): trying to post English jobs on the website. I noticed that after you posted, you shared most of the Spanish jobs. So I was trying to Yeah, well, no, no, I assigned, I shared to a quite.
+Andrés Felipe Urrego Martínez (11:41 AM): What are you guys working on, Jacob? Before I interrupted you guys abruptly.
+Andrés Felipe Urrego Martínez (11:41 AM): We're now situated here. Okay, so. So, what do we got?

@@ -1,4 +1,6 @@
 ---
+status: archived
+last_contact: 2024-12-08
 tags:
   - graph/spoke
   - person/partner

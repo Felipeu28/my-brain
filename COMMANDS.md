@@ -37,6 +37,16 @@ cd ~/My\ Brain/knowledge-base && python3 scripts/teams_pull.py --days 7
 
 ---
 
+## Health
+
+**Generate a Brain heartbeat report:**
+```bash
+bash ~/My\ Brain/pi-workspace/bin/brain-heartbeat.sh
+```
+Writes a freshness snapshot to `knowledge-base/outputs/health/heartbeat-YYYY-MM-DD.md` and updates `heartbeat-latest.md`.
+
+---
+
 ## X Bookmarks
 
 **Commit latest X bookmarks digest to GitHub:**

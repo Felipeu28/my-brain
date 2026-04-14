@@ -1,4 +1,6 @@
 ---
+status: active
+last_contact: 2026-04-13
 tags:
   - graph/hub
   - person/team
@@ -6,8 +8,8 @@ tags:
 # Jacob Oluwole
 
 **Type:** person
-**Last updated:** 2026-04-12
-**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/email-history-2months-2026-04-12]], [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026)
+**Last updated:** 2026-04-13
+**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/email-history-2months-2026-04-12]], [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]]
 **Related:** [[wiki/moil/positioning]], [[wiki/people/adeleke-tolulope]], [[wiki/people/abiodun-solomon]], [[wiki/people/taiwo-ola-balogun]]
 
 ---
@@ -77,6 +79,14 @@ Close — Andres trusts Jacob on operations, brings him into every strategic cal
 
 ### Key quote:
 - On best month ever: "April off to a great start! Well-done boss"
+
+## April 13, 2026 — Monday Collaboration
+
+Jacob organized the Apr 13 Monday collaboration call. Key assignments from this meeting:
+- **Action:** Start testing Google Alloy image generation inside Moil — Andres meeting with Alloy contact tomorrow (Apr 14), needs results before then
+- Content calendar coordination with Ablad — content was behind, reiterated Friday-readiness goal
+
+See [[wiki/meetings/2026-04-13-monday-collaboration]].
 
 ## Gaps
 
