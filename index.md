@@ -1,6 +1,6 @@
 # Moil Brain — Master Index
 
-**Last compiled:** 2026-04-14 (Run 6 + data-quality cleanup) · **Total wiki pages:** 190 · **Raw sources:** 192
+**Last compiled:** 2026-04-14 (Run 6 + data-quality cleanup) · **Total wiki pages:** 199 · **Raw sources:** 192
 
 > **Canonical operating truth lives outside the wiki:** if status or architecture notes here conflict with newer operating reality, use `~/My Brain/CURRENT_STATE.md` first.
 
@@ -25,9 +25,9 @@
 | Folder | Count | What's in it |
 |---|---|---|
 | [[wiki/moil/README|moil/]] | 11 | Moil business — positioning, ICP, GTM, customers, competitors, metrics, product roadmap, active-projects |
-| [[wiki/people/README|people/]] | 45 | Personal network — family, friends, customers, collaborators, team |
+| [[wiki/people/README|people/]] | 47 | Personal network — family, friends, customers, collaborators, team |
 | [[wiki/minds/README|minds/]] | 11 | Public AI thought leaders tracked from afar |
-| [[wiki/orgs/README|orgs/]] | 14 | Customer, partner, and prospect organizations |
+| [[wiki/orgs/README|orgs/]] | 21 | Customer, partner, and prospect organizations |
 | [[wiki/concepts/README|concepts/]] | 35 | Frameworks, mental models, products, programs |
 | [[wiki/radar/README|radar/]] | 2 | Append-only changelogs for fast-moving topics |
 | [[wiki/summaries/README|summaries/]] | 17 | One structured summary per raw source |

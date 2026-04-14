@@ -7,7 +7,7 @@ tags:
 **Type:** meeting
 **Last updated:** 2026-04-12
 **Source:** [[raw/meetings/transcript-2024-12-03-daniela-y-andr-s.md]]
-**Related:** [[wiki/moil/gtm]], [[wiki/people/new-daniela-castillo]]
+**Related:** [[wiki/moil/gtm]], [[wiki/people/daniela-castillo-canavera]]
 
 ---
 

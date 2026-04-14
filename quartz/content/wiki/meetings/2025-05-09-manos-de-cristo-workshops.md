@@ -10,7 +10,7 @@ tags:
 **Source:** [[raw/meetings/2025-05-09-meeting-started-2025-05-09-11-35-cdt-notes-by-gemini]]
 **Attendees:** Andrés Urrego, Manos De Cristo (representative — name of org, not a person)
 **Meeting type:** Partner / community outreach
-**Related:** [[wiki/people/manos-de-cristo]], [[wiki/moil/gtm]]
+**Related:** [[wiki/orgs/manos-de-cristo]], [[wiki/moil/gtm]]
 
 ---
 

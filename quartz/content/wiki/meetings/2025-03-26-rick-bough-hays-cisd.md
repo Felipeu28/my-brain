@@ -7,7 +7,7 @@ tags:
 **Type:** meeting
 **Last updated:** 2026-04-12
 **Source:** [[raw/meetings/transcript-2025-03-26-rick-and-andres-follow-up.md]]
-**Related:** [[wiki/moil/gtm]], [[wiki/people/new-rick-bough]]
+**Related:** [[wiki/moil/gtm]], [[wiki/people/rick-bough]]
 
 ---
 
