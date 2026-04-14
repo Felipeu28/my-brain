@@ -11,7 +11,7 @@ tags:
 **Type:** mind
 **Last updated:** 2026-04-11
 **Why tracked:** Owns the X platform Andres's Brain ingests weekly. xAI + Grok are fast-moving. His reach shapes public conversation around every AI release.
-**Related:** [[wiki/concepts/ai-video-tools]] (Grok Imagine), [[wiki/summaries/x-bookmarks-2026-04-11-copy]]
+**Related:** [[wiki/concepts/ai-video-tools]] (Grok Imagine), [[wiki/summaries/x-bookmarks-2026-04-11]]
 
 ---
 

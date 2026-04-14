@@ -39,7 +39,7 @@ Every file in `../raw/` has a matching summary here. Summaries are the Layer 3 "
 - [[wiki/summaries/facebook-pages-2026-04-09]] — AIbyAndres + MoilWorks FB pages
 
 ### Weekly bookmark sweeps
-- [[wiki/summaries/x-bookmarks-2026-04-11-copy]] — ⭐ 129 items (preferred for synthesis)
+- [[wiki/summaries/x-bookmarks-2026-04-11]] — ⭐ 129 items (preferred for synthesis)
 - [[wiki/summaries/x-bookmarks-2026-04-11]] — 114 items (shorter sibling)
 
 ---

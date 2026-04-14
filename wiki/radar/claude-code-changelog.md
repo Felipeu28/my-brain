@@ -34,7 +34,7 @@ tags:
 
 ### Apr 9 · Monitor tool
 Lets Claude create background scripts that wake the agent later. New primitive for long-running / scheduled work inside a single session.
-- Source: @noahzweben, @trq212 · [[wiki/summaries/x-bookmarks-2026-04-11-copy]]
+- Source: @noahzweben, @trq212 · [[wiki/summaries/x-bookmarks-2026-04-11]]
 
 ### Apr 8 · Claude Managed Agents (GA) 🔥
 Official launch — persistent managed agents you build and deploy. 20M views on the announcement. Dominated the X feed for a week.
