@@ -16,6 +16,12 @@ tags:
 - 📋 [[outputs/briefing-2026-04-11|Latest Morning Briefing]] — calendar, inbox, priorities, follow-ups
 - 🎯 [[MEMORY|Open Action Items]] — what needs doing right now
 
+## Current Public Roles
+
+- **Founder & CEO** — [[wiki/moil/positioning|Moil]]
+- **Buda HIVE Incubator Strategist** — publicly named at SoSX Mar 12, 2026 (alongside [[wiki/people/joshua-edmond|Joshua Edmond]]). Apr 15 Board vote formalizes the contract.
+- **Host, [[wiki/projects/kyle-buda-spotlight|Kyle–Buda Spotlight]]** — monthly community event for local SMBs. First event: Apr 1, 2026 at [[wiki/orgs/meridian-buda|Meridian Buda]], 100+ attendees.
+
 ## This Week's Priorities (Apr 14–20, 2026)
 
 1. **EDC Board vote** — Apr 15. Be available for questions/revisions on Incubator Strategist contracts → [[wiki/people/jennifer-storm]]

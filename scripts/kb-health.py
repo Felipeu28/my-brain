@@ -96,6 +96,10 @@ def wikilink_to_path(target):
         KB_DIR / t_md,
         KB_DIR / t / "index.md",
         KB_DIR / t / "README.md",
+        # Obsidian-style paths without wiki/ prefix (e.g. "andres/ANDRES")
+        WIKI_DIR / t_md,
+        WIKI_DIR / t / "index.md",
+        WIKI_DIR / t / "README.md",
     ]
     for c in candidates:
         if c.exists():

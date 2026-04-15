@@ -1,6 +1,6 @@
 ---
-status: archived
-last_contact: 2025-06-01
+status: active
+last_contact: 2026-04-14
 tags:
   - graph/spoke
   - person/partner
@@ -8,9 +8,9 @@ tags:
 # Joshua Edmond
 
 **Type:** person
-**Last updated:** 2026-04-11
-**Source:** [[raw/buda-hive-edc-2026-04-11]]
-**Related:** [[wiki/people/jacquie-martinez]], [[wiki/concepts/buda-hive]]
+**Last updated:** 2026-04-15
+**Source:** [[raw/buda-hive-edc-2026-04-11]], [[wiki/meetings/2026-03-12-sosx-buda-hive]]
+**Related:** [[wiki/people/jacquie-martinez]], [[wiki/concepts/buda-hive]], [[wiki/orgs/buda-edc]]
 
 ---
 
@@ -18,10 +18,11 @@ tags:
 **Email:** joshua@jucoai.com
 **Phone:** 512-522-8611
 **Nickname:** Josh
+**Public role:** **Buda HIVE Incubator Strategist** (publicly named alongside Andres at SoSX, Mar 12, 2026)
 
 ## Relationship
 
-Co-coach and business partner. They jointly teach [[wiki/concepts/buda-hive|Buda HIVE]] cohorts as Incubator Strategists. Coordinate privately before submitting proposals to [[wiki/people/jacquie-martinez|Jacquie Martinez]]. Friend beyond the work — Joshua went to New Orleans for a family emergency mid-proposal process and still coordinated with Andres.
+Co-coach and business partner. They jointly teach [[wiki/concepts/buda-hive|Buda HIVE]] cohorts as **publicly-named Incubator Strategists** — the title became official at the SoSX event ([[wiki/meetings/2026-03-12-sosx-buda-hive]]) on Mar 12, 2026. Coordinate privately before submitting proposals to [[wiki/people/jacquie-martinez|Jacquie Martinez]]. Friend beyond the work — Joshua went to New Orleans for a family emergency mid-proposal process and still coordinated with Andres.
 
 ## Contract Structure
 
