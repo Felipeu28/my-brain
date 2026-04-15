@@ -209,7 +209,7 @@ def step3_center_node():
         file_content = md_file.read_text(encoding="utf-8", errors="ignore")
         if "graph/hub" in file_content or "graph/spoke" in file_content:
             rel = str(md_file.relative_to(WIKI_DIR)).replace(".md", "").replace("\\", "/")
-            if rel not in ("andres/dashboard", "README") and "/README" not in rel and "/index" not in rel:
+            if rel not in ("andres/ANDRES", "README") and "/README" not in rel and "/index" not in rel:
                 all_important.add(rel)
 
     missing = all_important - existing_links

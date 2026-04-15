@@ -541,3 +541,55 @@ These were flagged from Aug 2024–May 2025 meeting transcripts ingested Apr 12.
 - Julian Sanchez FB Live Spanish content (late Oct 2024)
 - Councilman Velasquez / Vanessa Fuentes civic initiatives
 - Nvidia Inception credits (25 DLI, received Jan 2025)
+
+---
+
+### [2026-04-14] Run 7 — Roxana Onboarding + HIVE Curriculum Batch + Low-Signal Cleanup
+
+**Trigger:** Automated scan for unprocessed raw files. Found 27 new files — 1 high-priority meeting transcript, 1 medium-priority HIVE session, 11 HIVE curriculum files, 8 HIVE week handouts, 4 low-signal meeting transcripts, 2 empty Teams pulls.
+
+---
+
+**HIGH PRIORITY — New meeting transcript:**
+
+- **File:** raw/teams-transcript-roxana-andres-2026-04-14.md
+  - **Type:** customer-onboarding (Teams call, 90 min)
+  - **Pages created:** [[wiki/meetings/2026-04-14-roxana-alloy-atx-onboarding]]
+  - **Pages updated:** [[wiki/people/roxana-yglesias]], [[wiki/orgs/alloy-atx]], [[wiki/moil/customers]], [[MEMORY]]
+  - **Summary:** Roxana Yglesias / AlloyATX closed on Moil 360 Market Pro at $75/mo. Full onboarding: asset handover from previous agency (Shannon/Gabriel), 21-question market research flow, satellite landing pages on GoDaddy domains, Spanish-language pages, wellness referral network. 11 action items assigned.
+
+**MEDIUM PRIORITY — HIVE post-cohort session:**
+
+- **File:** raw/hive-cohort-onboarding-session-feb13-2026.md
+  - **Type:** hive-group (whisper transcript, 15 min)
+  - **Pages created:** [[wiki/meetings/2026-02-13-hive-life-after-cohort-session-2]]
+  - **Summary:** Post-cohort onboarding for Liz and Miguel (Buda residents). Server was down; couldn't demo. Miguel hit candidate-vs-business account confusion twice. Rescheduled to Feb 14.
+
+**BATCH — HIVE curriculum files (11 files → enriched existing concept page):**
+
+- **Files:** raw/hive-camp.md, raw/hive-entrepreneur-camp.md, raw/hive-entrepreneur-camp-notes.md, raw/hive-grok-guide-and-talking-points.md, raw/hive-1-or-2-day-intensive-hive-entrepreneurial-program.md, raw/hive-hybrid-hive-entrepreneurial-program.md, raw/hive-buda-hive-flexible-networking-content.md, raw/hive-emails-for-hive.md, raw/hive-emails-for-hive-1.md, raw/hive-ai_panel_presentation_guide_long_version.md, raw/hive-hive_week_1_handout_you_as_entrepreneur.md through raw/hive-hive_week_8_handout_launch_preparation.md (8 handouts)
+  - **Type:** program-curriculum / reference material
+  - **Pages updated:** [[wiki/concepts/hive-program]] (added Entrepreneur Camp June 2025, program format variants table, Grok guide mention)
+  - **Summary:** These are HIVE curriculum design documents — program format variants (series, intensive, hybrid), Entrepreneur Camp presentation notes (Andres + Joshua Edmond, June 18 2025), Grok guide for entrepreneurs, weekly handout content (weeks 1–8), email templates, networking content, and AI panel presentation guide. No new people or action items — all reference material that enriches the existing HIVE concept page.
+
+**LOW-SIGNAL — Logged but no new pages:**
+
+- **raw/odtr-20250519-Moil-Marketing-Call-Notes-by-Gemini.md** — Garbled XML/DOCX content from Gemini auto-notes. Jacob + Adeleke had technical difficulties. No decisions or actions. Already covered by [[wiki/meetings/2025-05-19-moil-marketing-call-technical-issues]].
+- **raw/odtr-20250422-20250422-TXOR-Moil-Resume-Building-Presentation-Tr.md** — Short snippet of a TXOR virtual workshop. Zane Gibson + ~35 invited participants. Login troubleshooting. Already covered by existing TXOR pages.
+- **raw/odtr-20250410-20250410-David-and-Andres-AI-trees-Transcript.md** — David Levesque demoing a solar/battery optimization tool built with ChatGPT. Personal/side project, not Moil business. No actions.
+- **raw/odtr-20250520-20250520-All-Resources-Transcript.md** — Rodney Warner (Microsoft ProDirect Support) follow-up on Azure tenant mismatch. Already covered by [[wiki/meetings/2025-05-20-azure-resources-support-call]].
+
+**EMPTY — No content to ingest:**
+
+- **raw/teams-2026-04-14.md** — 429 rate limit error from Graph API. Zero messages pulled.
+- **raw/teams-history-6months-2026-04-14.md** — Empty file. Only header, no content.
+
+**Key intelligence from Run 7:**
+1. **AlloyATX deal closed:** $75/mo Market Pro — confirmed paying P1 customer
+2. **AEO strategy introduced:** Andres pitched AI Engine Optimization (Q&A on every page so AI assistants can reference the business) — this is a new positioning angle beyond traditional SEO
+3. **Satellite landing page playbook:** Low-cost SEO strategy using existing GoDaddy domains; Spanish-language variant for bilingual markets — repeatable for other clients
+4. **Wellness referral pipeline:** Roxana has functional medicine + Colombia regenerative medicine contacts — potential multi-customer funnel
+5. **HIVE Entrepreneur Camp:** June 2025 event with Joshua Edmond at Buda HIVE confirmed — key public event for Moil/HIVE partnership visibility
+6. **Onboarding UX friction persists:** Miguel (Feb 2026) hit candidate-vs-business account confusion — same issue documented in earlier TXOR sessions
+
+**Summary:** Run 7 ingested 27 files. The AlloyATX onboarding call was the highest-signal source — a confirmed deal with 11 action items and a wellness referral pipeline. HIVE curriculum files enriched the existing concept page with program format variants and Entrepreneur Camp details. Four low-signal transcripts logged for completeness. Two empty files skipped.

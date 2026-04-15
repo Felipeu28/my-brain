@@ -1,6 +1,6 @@
 # Moil Brain — Master Index
 
-**Last compiled:** 2026-04-14 (Run 6 + data-quality cleanup) · **Total wiki pages:** 200 · **Raw sources:** 193
+**Last compiled:** 2026-04-14 (Run 7) · **Total wiki pages:** 202 · **Raw sources:** 194
 
 > **Canonical operating truth lives outside the wiki:** if status or architecture notes here conflict with newer operating reality, use `~/My Brain/CURRENT_STATE.md` first.
 
@@ -31,7 +31,7 @@
 | [[wiki/concepts/README|concepts/]] | 35 | Frameworks, mental models, products, programs |
 | [[wiki/radar/README|radar/]] | 2 | Append-only changelogs for fast-moving topics |
 | [[wiki/summaries/README|summaries/]] | 17 | One structured summary per raw source |
-| [[wiki/meetings/README|meetings/]] | 54 | Meeting records + async threads — decisions and action items |
+| [[wiki/meetings/README|meetings/]] | 56 | Meeting records + async threads — decisions and action items |
 
 See also: [[wiki/meetings/historical-transcripts-index]] — raw transcripts not yet promoted to structured pages (24 transcripts catalogued, 7 previously-orphan meeting pages linked).
 

@@ -22,7 +22,7 @@ QUARTZ_WIKI_DIR = Path(__file__).parent.parent / "quartz" / "content" / "wiki"
 # ══════════════════════════════════════════════════════════════════════════════
 HUB_PAGES = {
     # Andres himself
-    "andres/dashboard",
+    "andres/ANDRES",
 
     # Moil strategy (the 7 pages he references constantly)
     "moil/positioning",

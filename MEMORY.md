@@ -75,9 +75,20 @@ Source: [[wiki/summaries/imessages-people-2026-04-09]]
 
 Source: [[wiki/summaries/teams-2026-04-12]]
 
+### Roxana / AlloyATX — onboarded Apr 14
+Source: [[wiki/meetings/2026-04-14-roxana-alloy-atx-onboarding]]
+- [ ] **Apr 15** — Andres: send post-call summary to Roxana
+- [ ] **Apr 17** — Andres + Roxana: brainstorm satellite landing page domains
+- [ ] **Apr 18** — Roxana: complete 21 strategic questions (then Andres runs market research)
+- [ ] **Apr 18** — Roxana: upload assets to Teams shared folder + share GoDaddy domain list
+- [ ] **ASAP** — Roxana: email Shannon for full social media + asset handover
+- [ ] **Next session** — Andres: set up Google Search Console for alloyatx.com
+- [ ] **After market research** — Andres: SEO audit + Q&A recommendations per page
+- [ ] **Wellness referrals:** Roxana has functional medicine + Colombia regenerative medicine contacts — follow up after onboarding stabilizes
+
 ### Deals requiring follow-up
 - [ ] **Connectex:** Invoice sent? Verify payment schedule (3 quarters). What deliverables?
-- [ ] **Alloy (gym):** Confirm closing. Set up Moil 360 license + monthly content delivery cadence with Ablad
+- [x] ~~**Alloy (gym):** Confirm closing~~ (2026-04-14) — CLOSED. Moil 360 Market Pro $75/mo. See [[wiki/meetings/2026-04-14-roxana-alloy-atx-onboarding]]
 - [ ] **FitLogic:** Confirm hire. Update job posting (part-time → part-time-to-full-time done by Jacob). Track as customer win
 - [ ] **jilledegs01@gmail.com:** Site deployed (pure-serenity-green.vercel.app). Moil 360 license sent by Jacob. What changes needed?
 - [ ] **Siren Beauty:** Account setup — does she have an account yet? (Jacob asked to check)

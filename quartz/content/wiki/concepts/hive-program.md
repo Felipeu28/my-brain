@@ -7,7 +7,7 @@ status: active
 
 **Type:** concept
 **Last updated:** 2026-04-14
-**Source:** [[raw/hive-series-based-hive-program]], [[raw/hive-buda-hive-sosx-run-of-show]], [[raw/buda-hive-edc-2026-04-11]]
+**Source:** [[raw/hive-series-based-hive-program]], [[raw/hive-buda-hive-sosx-run-of-show]], [[raw/buda-hive-edc-2026-04-11]], [[raw/hive-camp]], [[raw/hive-entrepreneur-camp]], [[raw/hive-grok-guide-and-talking-points]], [[raw/hive-1-or-2-day-intensive-hive-entrepreneurial-program]], [[raw/hive-hybrid-hive-entrepreneurial-program]], [[raw/hive-cohort-onboarding-session-feb13-2026]]
 **Related:** [[wiki/concepts/buda-hive]], [[wiki/orgs/buda-edc]], [[wiki/people/joshua-edmond]]
 
 ---
@@ -97,6 +97,32 @@ Andres Urrego and [[wiki/people/joshua-edmond|Josh Edmond]] serve as contracted 
 [[wiki/moil/positioning|Moil]] platform licenses are issued to each HIVE cohort participant as part of the program. Entrepreneurs learn to use Moil during Stage 2–3 (business planning, CRM, marketing tools). This creates loyal users who continue after graduation.
 
 **Moil Business Plan Creator** is specifically recommended to HIVE clients in coaching sessions as a tool for brand clarity and business structure.
+
+## Program Format Variants
+
+The HIVE program has been designed in multiple delivery formats to fit different community needs:
+
+| Format | Duration | Setting | Use case |
+|---|---|---|---|
+| **Series-based** (primary) | 6-week + 4-week stages | Weekly 2-hr workshops, LMS + in-person | Standard cohort delivery |
+| **Intensive** | 1–2 days (8 hrs each) | In-person at Buda HIVE | Compressed workshops for time-constrained participants |
+| **Hybrid** | 6 weeks per stage | LMS + in-person mix | Flexible attendance |
+
+## Entrepreneur Camp (June 18, 2025)
+
+**"Unlocking Growth: AI for Small Business"** — a standalone event at Buda HIVE co-presented by Andres Urrego (MoilApp) and [[wiki/people/joshua-edmond|Joshua Edmond]] (JUCO AI). ~75 min session covering:
+
+1. What is AI + prompt engineering basics
+2. Practical AI applications for SMBs (operations, marketing, customer service, finance)
+3. Live landing page demo using Moil
+4. Free Moil tools showcase (Voice Resume Builder, Business Plan Creator)
+5. Audience Q&A
+
+Key messaging: *"No question unanswered in 2025"*, *"Make AI become you"*, *"Sky's the limit."* Promoted MoilApp's free tools and positioned Grok, ChatGPT, Claude, Gemini as accessible SMB tools.
+
+## Grok Guide & Talking Points
+
+Andres prepared a detailed Grok guide for HIVE entrepreneurs — step-by-step instructions for using Grok (free on x.com) for market research, content creation, and business planning. This is part of the HIVE AI literacy curriculum.
 
 ## Known HIVE Graduates
 

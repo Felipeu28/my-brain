@@ -55,6 +55,8 @@ Not every raw transcript becomes a structured wiki page. Low-signal transcripts 
 | [[wiki/meetings/2025-05-14-jacob-andres-business-insights-review]] | 2025-05-14 | product review | Business Insights section review; competitor map fix |
 | [[wiki/meetings/2025-05-16-team-meeting-platform-review]] | 2025-05-16 | team meeting | Two-model pipeline; social automation; interview tool MVP |
 | [[wiki/meetings/2025-05-19-moil-marketing-call-technical-issues]] | 2025-05-19 | marketing | Low signal; technical failures (no decisions) |
+| [[wiki/meetings/2026-02-13-hive-life-after-cohort-session-2]] | 2026-02-13 | hive-group | Post-cohort onboarding; server down; Miguel account issue |
+| [[wiki/meetings/2026-04-14-roxana-alloy-atx-onboarding]] | 2026-04-14 | customer onboarding | AlloyATX Moil 360 Market Pro — $75/mo closed; 11 action items |
 
 ## Related
 

@@ -32,7 +32,7 @@ last_contact: 2026-04-14
 | [[wiki/orgs/nuovo-entertainment|Nuovo Entertainment]] | (contact TBD) | Custom site | Closed | Apr 9 | Site deployed Apr 9; [Nuovo-Enterteinment](https://github.com/Moil-Landingpages/Nuovo-Enterteinment) |
 | [[wiki/orgs/urbanozuela|Urbanzuela]] | [[wiki/people/ana-vetencourt|Ana Vetencourt]] | Custom site | Family project | Apr 9 | Sister-in-law; site active |
 | Anita Lansing / Organically Whole | anita@organicallywhole.com | Business plan via Moil platform (HIVE program) | HIVE-subsidized | Mar 31 | Platform UX friction flagged (navigation bug); HIVE cohort grad |
-| [[wiki/orgs/alloy-atx|Alloy ATX]] | r.yglesias@alloyatx.com | Moil360 license | Monthly retainer | Apr 11 | Closed/closing Apr 11 (Roxana Yglesias) |
+| [[wiki/orgs/alloy-atx|AlloyATX]] | r.yglesias@alloyatx.com | Moil 360 Market Pro ($75/mo) | Monthly retainer | Apr 14 | ✅ CLOSED Apr 14; onboarding call done; 21-question flow next |
 | [[wiki/orgs/buda-edc|Buda EDC]] / HIVE | [[wiki/people/jacquie-martinez]], [[wiki/people/jennifer-storm]] | Per-seat Moil licenses for HIVE cohort participants | Per-cohort (B2G) | Apr 2 | Cohort 4 starts Apr 20; contract approved by Board Apr 15 |
 
 ---
