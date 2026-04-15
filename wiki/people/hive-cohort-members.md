@@ -27,7 +27,7 @@ These individuals had 1:1 coaching sessions or group sessions with Andres:
 | Name | Sessions | Period | Notes |
 |---|---|---|---|
 | [[wiki/people/megan-miller\|Megan Miller]] | 6+ sessions | Jan–Mar 2026 | Also active Moil client (Fit Logic FxMed) |
-| [[wiki/people/laura-hive-cohort\|Laura]] | 2 sessions | Jan 16, Feb 10, 2026 | Last name TBD |
+| [[wiki/people/laura-niebauer\|Laura Niebauer]] | 2 sessions | Jan 16, Feb 10, 2026 | ✅ Full name confirmed — Buda consultant/coach, `laura@lauraniebauer.com` |
 | [[wiki/people/sarah-hive-cohort\|Sarah]] | 3 sessions | Jan 20, Feb 3, Feb 10, 2026 | "Hive Coaching" — highest session count after Megan |
 | [[wiki/people/carol-hive-cohort\|Carol]] | 1 session | Jan 29, 2026 | Last name TBD |
 | [[wiki/people/terry-hive-cohort\|Terry]] | 1 session | Jan 5, 2026 | Last name TBD |

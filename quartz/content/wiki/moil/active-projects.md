@@ -61,6 +61,8 @@ tags:
 | Alison (MetGen Health) | — | Intro via [[wiki/people/daniel-mann|Daniel Mann]] | 2026-02-13 | Warm |
 | Brittany (menopausal clothing brand) | — | Intro via [[wiki/people/daniel-mann|Daniel Mann]] | 2026-02-27 | Warm |
 | Jim (media Executive Producer) | — | Intro via [[wiki/people/daniel-mann|Daniel Mann]] | 2026-02-19 | Warm |
+| [[wiki/orgs/worldlink-medical|WorldLink Medical]] | Kristi Hales | Moil intro call — healthcare vertical | 2026-04-01 | 🟡 Deferred to May |
+| [[wiki/people/laura-niebauer|Laura Niebauer]] | — | HIVE cohort participant + Buda Job Fair partner | 2026-02-28 | 🟢 Active coaching |
 
 ## Tier 5 — Andres's personal projects
 

@@ -88,6 +88,14 @@ def wikilink_to_path(target):
     t = target.strip().lstrip("/")
     # Strip any trailing backslashes (from broken escaping)
     t = t.rstrip("\\")
+    # Strip heading anchors (Obsidian-style: [[page#section]])
+    if "#" in t:
+        t = t.split("#", 1)[0]
+    # Template placeholders like `<partner>` or `<name>` should be treated as non-links
+    if "<" in t or ">" in t:
+        return None
+    if not t:
+        return None
     if not t.endswith(".md"):
         t_md = t + ".md"
     else:
