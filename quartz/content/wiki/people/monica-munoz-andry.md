@@ -4,6 +4,7 @@ last_contact: 2024-10-31
 tags:
   - graph/spoke
   - person/partner
+client: "[[wiki/orgs/gahcc]]"
 ---
 # Monica Munoz Andry
 

@@ -3,6 +3,7 @@ status: warm
 last_contact: 2025-04-22
 tags:
   - graph/spoke
+owner: "[[wiki/people/zane-gibson]]"
 ---
 # TXOR — Texas Organization of Rural Communities (Workforce)
 

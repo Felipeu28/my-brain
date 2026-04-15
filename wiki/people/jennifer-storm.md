@@ -4,6 +4,7 @@ last_contact: 2025-06-01
 tags:
   - graph/hub
   - person/partner
+client: "[[wiki/orgs/buda-edc]]"
 ---
 # Jennifer Storm
 

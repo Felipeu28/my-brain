@@ -4,6 +4,7 @@ tags:
   - person/customer
 status: active
 last_contact: 2026-04-01
+client: "[[wiki/orgs/fitlogic]]"
 ---
 # Megan Miller
 

@@ -4,6 +4,7 @@ tags:
   - person/customer
 status: active
 last_contact: 2026-04-13
+client: "[[wiki/orgs/ladyboss]]"
 ---
 # Inna Benyukhis
 

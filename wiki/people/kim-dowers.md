@@ -4,6 +4,7 @@ last_contact: 2026-02-01
 tags:
   - graph/spoke
   - person/partner
+client: "[[wiki/orgs/queen-creek-chamber]]"
 ---
 # Kim Dowers
 

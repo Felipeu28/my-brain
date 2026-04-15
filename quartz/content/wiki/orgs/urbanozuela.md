@@ -2,6 +2,8 @@
 github_repo: Moil-Landingpages/urbanozuela
 tags:
   - graph/spoke
+owner: "[[wiki/people/ana-vetencourt]]"
+status: active
 ---
 # Urbanzuela
 

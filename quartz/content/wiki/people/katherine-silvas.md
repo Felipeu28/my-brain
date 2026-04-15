@@ -4,6 +4,7 @@ last_contact: 2026-03-31
 tags:
   - graph/spoke
   - person/partner
+client: "[[wiki/orgs/helotes-edc]]"
 ---
 # Katherine Silvas (Kate)
 

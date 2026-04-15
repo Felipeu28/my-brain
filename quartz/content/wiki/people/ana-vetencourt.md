@@ -4,6 +4,7 @@ last_contact: 2025-01-01
 tags:
   - graph/leaf
   - person/personal
+client: "[[wiki/orgs/urbanozuela]]"
 ---
 # Ana Vetencourt
 

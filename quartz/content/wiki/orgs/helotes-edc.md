@@ -3,6 +3,7 @@ status: warm
 last_contact: 2026-03-31
 tags:
   - graph/spoke
+owner: "[[wiki/people/katherine-silvas]]"
 ---
 # Helotes EDC — Helotes Economic Development Corporation
 

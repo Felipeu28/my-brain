@@ -4,6 +4,7 @@ tags:
   - graph/spoke
 status: active
 last_contact: 2026-04-09
+owner: "[[wiki/people/becky-torres]]"
 ---
 # Siren Beauty & Wellness
 

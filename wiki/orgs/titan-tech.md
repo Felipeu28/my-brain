@@ -3,6 +3,7 @@ status: active
 last_contact: 2026-04-08
 tags:
   - graph/spoke
+owner: "[[wiki/people/jacob-centeno]]"
 ---
 # Titan Tech Authority
 

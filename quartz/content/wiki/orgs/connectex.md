@@ -2,6 +2,8 @@
 github_repo: Moil-Landingpages/connectex, Felipeu28/connectex-website
 tags:
   - graph/spoke
+owner: "[[wiki/people/mark-polanco]]"
+status: active
 ---
 # Connectex Solutions
 

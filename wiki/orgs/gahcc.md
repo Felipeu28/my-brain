@@ -3,6 +3,7 @@ status: warm
 last_contact: 2024-10-31
 tags:
   - graph/spoke
+owner: "[[wiki/people/monica-munoz-andry]]"
 ---
 # GAHCC — Greater Austin Hispanic Chamber of Commerce
 

@@ -3,6 +3,7 @@ status: warm
 last_contact: 2026-04-09
 tags:
   - graph/spoke
+owner: "[[wiki/people/daniel-guadiano]]"
 ---
 # Astra Restaurant
 

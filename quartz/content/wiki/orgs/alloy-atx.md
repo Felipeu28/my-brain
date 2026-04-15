@@ -1,6 +1,8 @@
 ---
 tags:
   - graph/spoke
+owner: "[[wiki/people/roxana-yglesias]]"
+status: active
 ---
 # AlloyATX
 

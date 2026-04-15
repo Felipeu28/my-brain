@@ -4,6 +4,7 @@ tags:
   - graph/spoke
 status: active
 last_contact: 2026-04-02
+owner: "[[wiki/people/jennifer-storm]]"
 ---
 # Buda EDC
 

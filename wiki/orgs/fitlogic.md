@@ -2,6 +2,8 @@
 github_repo: Moil-Landingpages/fit-logic
 tags:
   - graph/spoke
+owner: "[[wiki/people/megan-miller]]"
+status: active
 ---
 # FitLogic
 

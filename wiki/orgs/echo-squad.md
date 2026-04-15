@@ -3,6 +3,7 @@ tags:
   - graph/leaf
 status: archived
 last_contact: 2025-02-28
+owner: "[[wiki/people/monica-pena]]"
 ---
 # Echo Squad
 

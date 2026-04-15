@@ -1,6 +1,8 @@
 ---
 tags:
   - graph/spoke
+owner: "[[wiki/people/kim-dowers]]"
+status: active
 ---
 # Queen Creek Chamber of Commerce
 

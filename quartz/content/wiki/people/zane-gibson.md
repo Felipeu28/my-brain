@@ -4,6 +4,7 @@ last_contact: 2026-03-15
 tags:
   - graph/spoke
   - person/customer
+client: "[[wiki/orgs/txor]]"
 ---
 # Zane Gibson
 

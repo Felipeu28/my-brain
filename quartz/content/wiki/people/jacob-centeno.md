@@ -4,6 +4,7 @@ last_contact: 2026-04-08
 tags:
   - graph/leaf
   - person/customer
+client: "[[wiki/orgs/titan-tech]]"
 ---
 # Jacob Centeno
 
