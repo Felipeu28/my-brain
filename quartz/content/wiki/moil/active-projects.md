@@ -3,139 +3,94 @@ status: active
 tags:
   - graph/hub
 ---
-# Moil — Active Projects
+# Moil — Client Ledger & Active Projects
 
-**Type:** moil-topic
-**Last updated:** 2026-04-14
-**Source:** [[raw/github-activity]] + pipeline + Teams + email
-**Related:** [[wiki/moil/pipeline]], [[wiki/moil/customers]], [[wiki/orgs/buda-edc]]
-
----
-
-> **Ground truth for active work.** GitHub activity is the primary signal — if we're pushing code to a repo, that project is top of mind. Updated by morning briefing + weekly compile.
+**Type:** moil-topic (canonical hub)
+**Last updated:** 2026-04-15
+**Source:** [[raw/github-activity]] + `pi-workspace/github-repos.yaml` + [[wiki/moil/pipeline]] + Teams + email
+**Related:** [[wiki/moil/customers]], [[wiki/moil/pipeline]], [[wiki/andres/ANDRES]]
 
 ---
 
-## Tier 1 — Active Client Work (GitHub + Business Activity)
-
-These clients have both GitHub activity AND live business engagement.
-
-### Fit Logic / Megan Miller
-- **Client:** Megan Miller (meganmillernp@gmail.com) — NP, hormone expert
-- **Repo:** `Moil-Landingpages/FitLogic` → [[wiki/orgs/fitlogic]]
-- **Business status:** 6+ coaching sessions (Jan–Mar 2026), active Moil user (hiring platform)
-- **Last code touch:** Active (per github-repos.yaml)
-- **Last business touch:** 2026-03-20
-- **Next:** Confirm first hire. Platform feedback loop ongoing.
-
-### Meridian Buda
-- **Repo:** `Moil-Landingpages/meridian-buda` → [[wiki/orgs/meridian-buda]]
-- **Business status:** Active client site
-- **Last code touch:** Active (most recent GitHub activity)
-- **Next:** Monitor Stripe webhook status
-
-### Buda EDC / HIVE
-- **Repo:** `Moil-Landingpages/BUDAEDC` → [[wiki/orgs/buda-edc]]
-- **Business status:** Cohort 4 starts Apr 20, 2026. SXSW run of show done.
-- **Coaching clients:** Terry, Laura, Sarah, Carol, Megan, Liz, Miguel → [[wiki/people/hive-cohort-members]]
-- **Revenue:** Per-cohort license (B2G), active
-- **Last business touch:** 2026-04-13 (Apr 1 networking event, Apr 15 board vote)
-- **Next:** Cohort 4 onboarding materials
-
-### AlloyATX (Roxana Yglesias) ← NEW Apr 14
-- **Repo:** none yet (satellite landing pages planned) → [[wiki/orgs/alloy-atx]]
-- **Client:** Roxana Yglesias (r.yglesias@alloyatx.com) — fitness/wellness, 3 Austin locations
-- **Deal:** ✅ CLOSED Apr 14 — Moil360 Market Pro at $75/mo (month-to-month)
-- **Business status:** Active onboarding — 21 strategic questions assigned, asset handover from prior agency in progress
-- **Last business touch:** 2026-04-14
-- **Next:** Roxana completes 21 questions (due Apr 18). Set up Google Search Console. Satellite landing pages brainstorm by Apr 17. Ablad starts content delivery.
-
-### Siren Beauty & Wellness (Becky Torres)
-- **Repo:** `Moil-Landingpages/SirenBeauty` → [[wiki/orgs/siren-beauty]]
-- **Client:** Becky Torres (sirenbeautyandwellness@gmail.com) — aesthetic med spa, historic downtown Buda
-- **Business status:** ✅ CLOSED Apr 6 — $2,200 paid. Full website redesign + SEO/AEO strategy (6-phase, 13 weeks).
-- **Last code touch:** Active
-- **Last business touch:** 2026-04-09
-- **Next:** Schedule Phase 1 kickoff meeting. Begin Google Stitch 2.0 design system + Sanity CMS setup.
-
-### Connectex (Mark Polanco)
-- **Repo:** `Moil-Landingpages/Connectex` → [[wiki/orgs/connectex]]
-- **Client:** Mark Polanco (mark@connectex.net), CEO — Austin
-- **Business status:** CLOSED Apr 9. Multi-quarter invoice.
-- **Last code touch:** Active
-- **Last business touch:** 2026-04-09
-- **Next:** Verify payment schedule + deliverables spec
-
-### PureSerenity (jilledegs01)
-- **Repo:** `Moil-Landingpages/PureSerenity` → [[wiki/orgs/pure-serenity]]
-- **Business status:** ✅ Moil360 license onboarded Apr 10. Site deployed (loved "pure-serenity-green" theme).
-- **Next:** Ask for testimonial. Identify full business name.
-
-### Nuovo Entertainment
-- **Repo:** `Moil-Landingpages/Nuovo-Enterteinment` → [[wiki/orgs/nuovo-entertainment]]
-- **Business status:** ✅ Site deployed Apr 9. Contact name still needed.
-- **Next:** Confirm contact details. Get feedback on live site.
-
-### Urbanzuela (Ana Vetencourt)
-- **Repo:** `Moil-Landingpages/urbanozuela` → [[wiki/orgs/urbanozuela]]
-- **Business status:** Site active Apr 9. Family client (Andres's sister-in-law).
-- **Next:** Confirm site is live and she's satisfied.
+> **Ground truth for who we serve, what we're building, and where the code lives.** Every row is a triad: client org ↔ owner/contact ↔ repo. GitHub activity is the primary signal — active repo = top of mind.
 
 ---
 
-## Tier 2 — Active Product Development
+## Tier 1 — Active paying clients
 
-Core Moil platform — active engineering.
+| Client org | Owner / contact | Product | Repo | Deal value | Last biz touch | Status |
+|------------|-----------------|---------|------|------------|----------------|--------|
+| [[wiki/orgs/fitlogic\|FitLogic / FxMed]] | [[wiki/people/megan-miller\|Megan Miller]] | Moil hiring platform + coaching | `Moil-Landingpages/fit-logic` | Active, first hire in progress | 2026-03-20 | 🟢 Active |
+| [[wiki/orgs/meridian-buda\|Meridian Buda]] | [[wiki/people/travis-sutherland\|Travis Sutherland]] | Full custom ticketed-events platform (Stripe, organizer dashboard) | `Moil-Landingpages/meridian-buda` | ✅ CLOSED Apr 9 | 2026-04-13 | 🟢 Active — building |
+| [[wiki/orgs/zoiwell\|Zoiwell]] | [[wiki/people/travis-sutherland\|Travis Sutherland]] | Moil 360 1-year license | (verify repo in yaml) | ~$900/yr | 2026-04-13 | 🟢 Active |
+| [[wiki/orgs/buda-edc\|Buda EDC / HIVE]] | [[wiki/people/jennifer-storm\|Jennifer Storm]] | Per-cohort licensing (B2G) + Incubator Strategist contract | `Moil-Landingpages/BUDAEDC`, `Moil-Code/buda-hive` | Per-cohort | 2026-04-15 (Board vote) | 🟢 Active — Cohort 4 Apr 20 |
+| [[wiki/orgs/siren-beauty\|Siren Beauty]] | [[wiki/people/becky-torres\|Becky Torres]] | Vercel site + Moil 360 | `Moil-Landingpages/Siren-Beauty` | $2,200 paid Apr 6 | 2026-04-06 | 🟢 Active — account setup |
+| [[wiki/orgs/connectex\|Connectex]] | [[wiki/people/mark-polanco\|Mark Polanco]] | Multi-quarter service | `Moil-Landingpages/connectex` + `Felipeu28/connectex-website` | Multi-quarter invoice | 2026-04-09 | 🟢 Closed Apr 9 — verify payment |
+| [[wiki/orgs/ladyboss\|LadyBoss]] | [[wiki/people/inna-benyukhis\|Inna Benyukhis]] | Moil360 + CRM + calendar | `Moil-Landingpages/Inna-CRM`, `Moil-Landingpages/Inna-Marketing-Calendar` | $400 monthly retainer | 2026-04-08 | 🟢 Active coaching |
+| [[wiki/orgs/titan-tech\|Titan Tech Authority]] | [[wiki/people/jacob-centeno\|Jacob Centeno]] | Moil Starter plan | — | $15/mo ($180/yr) | 2026-04-08 | 🟢 Onboarded |
+| [[wiki/orgs/pure-serenity\|PureSerenity]] | jilledegs01@gmail.com | Moil 360 license + Vercel site | `Moil-Landingpages/PureSerenity` | License | 2026-04-10 | 🟢 Active |
+| [[wiki/orgs/alloy-atx\|Alloy ATX]] | [[wiki/people/roxana-yglesias\|Roxana Yglesias]] *(owner: Oscar Esquivel — Phase F)* | Moil360 + Content Delivery (Ablad-managed) | — | Monthly retainer | 2026-04-11 | 🟢 Closing/closed Apr 11 |
+| [[wiki/orgs/urbanozuela\|Urbanozuela]] | [[wiki/people/ana-vetencourt\|Ana Vetencourt]] | Vercel site | `Moil-Landingpages/urbanozuela` | — | 2026-03 | 🟢 Active |
+| [[wiki/orgs/nuovo-entertainment\|Nuovo Entertainment]] | — | Vercel site | `Moil-Landingpages/Nuovo-Enterteinment` | — | — | 🟢 Active |
+| Organically Whole *(Phase F: create org page)* | [[wiki/people/anita-lansing\|Anita Lansing]] | Moil platform | — | — | 2026-03-31 | 🟢 Active |
 
-### Employer Platform (Beta)
-- **Repo:** `Moil-Code/employer-platform` (or equivalent)
-- **Status:** Beta — Megan Miller using it actively. Stripe webhook issue (Meridian)
-- **Active issues:** Applicant contact info not visible to employers, notification UX unclear
-- **Next:** Fix applicant visibility bug (surfaced by Megan)
+## Tier 2 — Core Moil product development (internal)
 
-### Business Plan Creator
-- **Repo:** `Moil-Code/business-plan-creator`
-- **Status:** Staging — used by HIVE cohort participants
-- **Next:** Test with Cohort 4
+| Product | Repos | Status |
+|---------|-------|--------|
+| Moil Employer Platform (Beta) | `Moil-Code/*` | Megan testing; applicant visibility bug open |
+| Business Plan Creator | `Moil-Code/business-plan-creator` *(approx)* | Staging — Cohort 4 will test |
+| [[wiki/concepts/moil360\|Moil360]] (30-day content engine) | `Felipeu28/Moil360` | Live; license-activation bug open (Miguel hit 2x) |
 
-### Moil360 (Moil Business Platform)
-- **Status:** Closed Travis Sutherland deal (Apr 9). Live client onboarding.
-- **Active clients:** Travis / Zoiwell, Jilledegs01, Liz/Miguel (HIVE post-cohort)
-- **Issues:** License activation flow has a candidate/business side confusion bug
-- **Next:** Fix the license activation bug (Miguel hit it twice in Feb 13 session)
+## Tier 3 — Active internal / infrastructure
+
+| Project | Repo | Status |
+|---------|------|--------|
+| Brain (this system) | `Felipeu28/pi-workspace` | 10 launchd automations running |
+| KidsGPT concept | `raw/KidsGPT/` + possibly [[wiki/projects/magical-reading-adventures]] | Raw files not yet promoted |
+
+## Tier 4 — Warm prospects (in pipeline, not yet paying)
+
+| Client | Contact | Product discussed | Last touch | Status |
+|--------|---------|-------------------|------------|--------|
+| [[wiki/orgs/helotes-edc\|Helotes EDC]] | [[wiki/people/katherine-silvas\|Katherine Silvas]] | **Incubator platform (mirror Buda model)** — strategic planning with Board | 2026-03-31 | 🔥 **15-day overdue reply** |
+| [[wiki/orgs/astra-restaurant\|Astra Restaurant]] | [[wiki/people/daniel-guadiano\|Daniel Guadiano]] | AI scheduling demo | 2026-04-09 | Follow-up |
+| [[wiki/people/rashaka-boykins\|Rashaka Boykins]] | — | 2 intro calls (via [[wiki/people/daniel-mann\|Daniel Mann]]) | 2026-03-05 | Warm |
+| [[wiki/people/roxana-esquivel\|Roxana Esquivel]] | — | Intro call | 2026-03-13 | Warm |
+| Dr. Shirlet Oriakhi | (Manifest Home Health) | Intro via [[wiki/people/daniel-mann\|Daniel Mann]] | 2026-02-26 | Warm |
+| Alison (MetGen Health) | — | Intro via [[wiki/people/daniel-mann\|Daniel Mann]] | 2026-02-13 | Warm |
+| Brittany (menopausal clothing brand) | — | Intro via [[wiki/people/daniel-mann\|Daniel Mann]] | 2026-02-27 | Warm |
+| Jim (media Executive Producer) | — | Intro via [[wiki/people/daniel-mann\|Daniel Mann]] | 2026-02-19 | Warm |
+
+## Tier 5 — Andres's personal projects
+
+See [[wiki/projects/README|wiki/projects/]] index.
+
+| Project | Repo | Stage | Last push |
+|---------|------|-------|-----------|
+| [[wiki/projects/fantelo\|Fantelo]] | `Felipeu28/fantelo` | exploration | 2026-04-10 |
+| [[wiki/projects/lunabella\|Lunabella]] | `Felipeu28/Lunabella` | exploration | 2026-04-15 |
+| [[wiki/projects/magical-reading-adventures\|Magical Reading Adventures]] | `Felipeu28/magical-reading-adventures` | exploration | 2026-04-09 |
+| [[wiki/projects/kyle-buda-spotlight\|Kyle–Buda Spotlight]] | `Felipeu28/KyleBudaSpotlight` | running (Event #1 Apr 1) | 2026-03-30 |
+| [[wiki/projects/vox-trends\|VoxTrends]] | `Felipeu28/VoxTrends` | exploration | 2026-03-21 |
+| [[wiki/projects/campaign-control\|CampaignControl]] | `Felipeu28/CampaignControl` | **dormant** 55+ d | 2026-02-19 |
+| [[wiki/projects/referred-local\|Referred Local]] | `Felipeu28/REFERREDLOCAL` | **dormant** 60+ d | 2026-02-12 |
 
 ---
 
-## Tier 3 — Active Internal / Infrastructure
+## How to use this ledger
 
-### Brain (This System)
-- **Repo:** `Felipeu28/pi-workspace` (approx)
-- **Status:** Active. 9 launchd automations running.
-- **Automations:** Morning briefing, email digest, Teams pull, weekly compile, weekly pulse, X bookmarks, content calendar, ChromaDB index, heartbeat
-- **Next:** Fix x-bookmarks (requires manual Keychain dialog)
+1. **Daily:** scan Tier 1 rows — any `last_touch` >7 days old needs attention
+2. **New client:** create the org page + person page + add a row here with the repo reference
+3. **Client churns:** change `status: archived` in the org's frontmatter; move the row to Archive below
+4. **Repo-client drift check:** `pi-workspace/github-repos.yaml` is the source of truth for repo → client mapping. If a repo push surfaces without a client match here, add a wiki page and update the yaml
 
-### KidsGPT
-- **Status:** Files in OneDrive (README, implementation-plan, options-analysis). Not yet ingested.
-- **Next:** Ingest these 3 files and create a wiki page
+## Signal hierarchy
 
----
+- **GitHub commit in last 7 days** = active (appears in daily briefings)
+- **No commit in 30 days** = idle (flagged in weekly-compile)
+- **No commit in 90 days** = archived (moved to Tier 5 archive if personal, or removed from ledger if client)
 
-## Tier 4 — Needs Context (Unmapped Repos)
+## Archive
 
-Active GitHub repos without wiki pages or known client context:
-
-| Repo | Active? | Need to ask Andres |
-|---|---|---|
-| `Felipeu28/lunabella` | TBD | What client? Still active? |
-| `Felipeu28/fantelo` | TBD | What is Fantelo? |
-| `Felipeu28/magical-reading-adventures` | TBD | What is this? Product? |
-
----
-
-## How This Page Gets Updated
-
-1. **Morning briefing** injects GitHub activity summary (last 24h) — active repos = top of mind
-2. **Weekly compile** reconciles GitHub activity with pipeline
-3. **Andres** adds/moves projects manually when scope changes
-
-> **Signal hierarchy:** GitHub commit in last 7 days = active. No commit in 30 days = idle. No commit in 90+ days = archived.
+*(Clients that churned or projects that wound down go here with a date + 1-line reason.)*
