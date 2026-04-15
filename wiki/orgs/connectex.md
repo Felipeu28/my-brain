@@ -4,6 +4,7 @@ tags:
   - graph/spoke
 owner: "[[wiki/people/mark-polanco]]"
 status: active
+last_contact: 2026-04-09
 ---
 # Connectex Solutions
 

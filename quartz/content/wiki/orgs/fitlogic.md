@@ -4,6 +4,7 @@ tags:
   - graph/spoke
 owner: "[[wiki/people/megan-miller]]"
 status: active
+last_contact: 2026-03-20
 ---
 # FitLogic
 
