@@ -16,6 +16,28 @@ tags:
 - 📋 [[outputs/briefing-2026-04-11|Latest Morning Briefing]] — calendar, inbox, priorities, follow-ups
 - 🎯 [[MEMORY|Open Action Items]] — what needs doing right now
 
+## 🚀 Quick access
+
+| | |
+|---|---|
+| 📇 [[wiki/moil/directory\|Directory]] | **Full roster** — every client, owner, partner, team member in one place |
+| 🗂️ [[wiki/moil/active-projects\|Projects]] | Client ↔ owner ↔ repo ledger |
+| 💰 [[wiki/moil/customers\|Customers]] | P1/P2/P3 tiers |
+| 📊 [[wiki/moil/pipeline\|Pipeline]] | Deal flow |
+| ⭐ [[wiki/moil/referral-partners\|Referrals]] | Daniel Mann + scorecard |
+
+### Top P1 clients (Apr 2026)
+
+| Client | Owner | Status |
+|--------|-------|--------|
+| [[wiki/orgs/siren-beauty\|Siren Beauty]] | [[wiki/people/becky-torres\|Becky Torres]] | 🟢 $2,200 paid |
+| [[wiki/orgs/meridian-buda\|Meridian Buda]] + [[wiki/orgs/zoiwell\|Zoiwell]] | [[wiki/people/travis-sutherland\|Travis Sutherland]] | 🟢 2 streams |
+| [[wiki/orgs/buda-edc\|Buda EDC]] / HIVE | [[wiki/people/jennifer-storm\|Jennifer Storm]] | 🟢 Board Apr 15 |
+| [[wiki/orgs/alloy-atx\|Alloy ATX]] | [[wiki/people/roxana-yglesias\|Roxana]] + [[wiki/people/oscar-esquivel\|Oscar]] | 🟢 $75/mo Apr 14 |
+| [[wiki/orgs/ladyboss\|LadyBoss]] | [[wiki/people/inna-benyukhis\|Inna Benyukhis]] | 🟢 $400/mo |
+
+→ [[wiki/moil/directory|Full directory with all 13 P1 clients + warm prospects + partners]]
+
 ## Current Public Roles
 
 - **Founder & CEO** — [[wiki/moil/positioning|Moil]]
