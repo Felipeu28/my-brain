@@ -1,21 +1,31 @@
 ---
 tags:
   - graph/spoke
-owner: "[[wiki/people/roxana-yglesias]]"
+owner:
+  - '[[wiki/people/oscar-esquivel]]'
+  - '[[wiki/people/roxana-yglesias]]'
 status: active
+last_contact: 2026-04-14
+github_repo: Moil-Landingpages/alloy-atx
 ---
 # AlloyATX
 
 **Type:** organization
-**Last updated:** 2026-04-14
+**Last updated:** 2026-04-15
 **Source:** [[raw/teams-2026-04-12]], [[raw/email-history-2months-2026-04-12]], [[raw/teams-transcript-roxana-andres-2026-04-14]]
-**Related:** [[wiki/people/roxana-yglesias]], [[wiki/moil/customers]], [[wiki/moil/pipeline]]
+**Related:** [[wiki/people/oscar-esquivel]], [[wiki/people/roxana-yglesias]], [[wiki/people/daniel-mann]], [[wiki/moil/customers]], [[wiki/moil/pipeline]]
 
 ---
 
 ## Summary
 
-AlloyATX is a fitness/wellness business operating across Lakeline, Round Rock, and South Austin. Owner [[wiki/people/roxana-yglesias|Roxana Yglesias]] onboarded to Moil 360 Market Pro ($75/mo) on April 14, 2026. The business offers group fitness programs, self-defense classes (very popular with women), and wellness events.
+AlloyATX is a fitness/wellness business operating across Lakeline, Round Rock, and South Austin. **Referred by [[wiki/people/daniel-mann|Daniel Mann]] Feb 27, 2026** via intro to [[wiki/people/oscar-esquivel|Oscar Esquivel]] (the founding owner). [[wiki/people/roxana-yglesias|Roxana Yglesias]] is the operations/business contact who closed and drives day-to-day — she onboarded to Moil 360 Market Pro ($75/mo) on April 14, 2026. Business offers group fitness, self-defense classes (popular with women), and wellness events.
+
+## Ownership / Roles
+
+- **[[wiki/people/oscar-esquivel|Oscar Esquivel]]** — founding owner (original Daniel Mann intro, Feb 27). Daniel's framing: "Oscar cares deeply about his business, always looking to strengthen operations and maintain member flow."
+- **[[wiki/people/roxana-yglesias|Roxana Yglesias]]** — business operations contact / Moil relationship owner (closed the deal; runs the Apr 14 onboarding)
+- Relationship between Oscar and Roxana: TBD (partners? co-owners? ops manager?)
 
 ## Key Details
 

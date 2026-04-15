@@ -32,7 +32,7 @@ tags:
 | [[wiki/orgs/alloy-atx|Alloy ATX]] | [[wiki/people/roxana-yglesias|Roxana Yglesias]] *(owner: Oscar Esquivel — Phase F)* | Moil360 + Content Delivery (Ablad-managed) | — | Monthly retainer | 2026-04-11 | 🟢 Closing/closed Apr 11 |
 | [[wiki/orgs/urbanozuela|Urbanozuela]] | [[wiki/people/ana-vetencourt|Ana Vetencourt]] | Vercel site | `Moil-Landingpages/urbanozuela` | — | 2026-03 | 🟢 Active |
 | [[wiki/orgs/nuovo-entertainment|Nuovo Entertainment]] | — | Vercel site | `Moil-Landingpages/Nuovo-Enterteinment` | — | — | 🟢 Active |
-| Organically Whole *(Phase F: create org page)* | [[wiki/people/anita-lansing|Anita Lansing]] | Moil platform | — | — | 2026-03-31 | 🟢 Active |
+| [[wiki/orgs/organically-whole|Organically Whole]] | [[wiki/people/anita-lansing|Anita Lansing]] | Moil platform | — | — | 2026-03-31 | 🟢 Active |
 
 ## Tier 2 — Core Moil product development (internal)
 

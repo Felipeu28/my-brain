@@ -7,6 +7,7 @@ last_contact: 2026-03-31
 tags:
   - graph/spoke
   - person/customer
+client: "[[wiki/orgs/organically-whole]]"
 ---
 
 # Anita Lansing
