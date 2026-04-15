@@ -11,7 +11,7 @@ tags:
 **Type:** summary
 **Last updated:** 2026-04-11
 **Source:** [[raw/facebook-pages-2026-04-09.md]]
-**Related:** [[wiki/moil/gtm]], [[wiki/concepts/content360]], [[wiki/concepts/moil360]], [[wiki/concepts/fantelo]]
+**Related:** [[wiki/moil/gtm]], [[wiki/concepts/content360]], [[wiki/concepts/moil360]], [[wiki/projects/fantelo]]
 
 ---
 
@@ -22,7 +22,7 @@ Snapshot of Andres's two Facebook presences: personal (AIbyAndres, 4.2K follower
 - Personal page outperforms business page: "unveil the new Moil" post got **130 shares** vs. typical business-page engagement.
 - Bio confirms: "Founder of Moil AI. Father - Husband, entrepreneur & dreamer!"
 - Origin: Cali, Colombia → Austin, TX. Education: Colegio Colombo Britanico + Bellevue University.
-- **Fantelo (fantelo.com)** listed as an associated project — separate brand, needs research. See [[wiki/concepts/fantelo]].
+- **Fantelo (fantelo.com)** listed as an associated project — separate brand, needs research. See [[wiki/projects/fantelo]].
 - **Moil360** referenced as a content marketing product line — moilapp.com/marketing. See [[wiki/concepts/moil360]].
 - Business contact: (737) 770-1033 · Cs@moilapp.com · Always open.
 - Handles: instagram.com/themoilapp · tiktok.com/@moilapp.

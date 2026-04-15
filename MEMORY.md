@@ -23,6 +23,13 @@
 
 ## 🔥 Immediate — This Week (Apr 11–17, 2026)
 
+### Helotes EDC — reply overdue
+Source: [[wiki/orgs/helotes-edc]], [[wiki/people/katherine-silvas]]
+- [ ] **🔥 Overdue reply** — Katherine Silvas (CEO, Helotes EDC) emailed Mar 31 asking to include Moil in the Helotes incubator strategic plan. That's 15 days unanswered. Respond and schedule the Board conversation.
+- [ ] Prep Buda EDC case study + pricing sheet as reference model for the Helotes proposal.
+
+
+
 ### Buda HIVE / EDC — dual Apr 15 deadline
 Source: [[wiki/summaries/buda-hive-edc-2026-04-11]]
 - [ ] **Apr 14 · 10:30am–12:00pm CDT** — Prep meeting with Joshua Edmond at Buda HIVE (Teams ID 270 650 313 421 234). Coordinate final stance before Board review.

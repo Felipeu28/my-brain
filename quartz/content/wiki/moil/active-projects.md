@@ -42,13 +42,21 @@ These clients have both GitHub activity AND live business engagement.
 - **Last business touch:** 2026-04-13 (Apr 1 networking event, Apr 15 board vote)
 - **Next:** Cohort 4 onboarding materials
 
+### AlloyATX (Roxana Yglesias) ← NEW Apr 14
+- **Repo:** none yet (satellite landing pages planned) → [[wiki/orgs/alloy-atx]]
+- **Client:** Roxana Yglesias (r.yglesias@alloyatx.com) — fitness/wellness, 3 Austin locations
+- **Deal:** ✅ CLOSED Apr 14 — Moil360 Market Pro at $75/mo (month-to-month)
+- **Business status:** Active onboarding — 21 strategic questions assigned, asset handover from prior agency in progress
+- **Last business touch:** 2026-04-14
+- **Next:** Roxana completes 21 questions (due Apr 18). Set up Google Search Console. Satellite landing pages brainstorm by Apr 17. Ablad starts content delivery.
+
 ### Siren Beauty & Wellness (Becky Torres)
 - **Repo:** `Moil-Landingpages/SirenBeauty` → [[wiki/orgs/siren-beauty]]
-- **Client:** Becky Torres (sirenbeautyandwellness@gmail.com)
-- **Business status:** $2,200 payment Apr 6, account setup in progress
+- **Client:** Becky Torres (sirenbeautyandwellness@gmail.com) — aesthetic med spa, historic downtown Buda
+- **Business status:** ✅ CLOSED Apr 6 — $2,200 paid. Full website redesign + SEO/AEO strategy (6-phase, 13 weeks).
 - **Last code touch:** Active
-- **Last business touch:** 2026-04-06
-- **Next:** Jacob confirming account setup. Strategy plan deployed.
+- **Last business touch:** 2026-04-09
+- **Next:** Schedule Phase 1 kickoff meeting. Begin Google Stitch 2.0 design system + Sanity CMS setup.
 
 ### Connectex (Mark Polanco)
 - **Repo:** `Moil-Landingpages/Connectex` → [[wiki/orgs/connectex]]
@@ -57,6 +65,21 @@ These clients have both GitHub activity AND live business engagement.
 - **Last code touch:** Active
 - **Last business touch:** 2026-04-09
 - **Next:** Verify payment schedule + deliverables spec
+
+### PureSerenity (jilledegs01)
+- **Repo:** `Moil-Landingpages/PureSerenity` → [[wiki/orgs/pure-serenity]]
+- **Business status:** ✅ Moil360 license onboarded Apr 10. Site deployed (loved "pure-serenity-green" theme).
+- **Next:** Ask for testimonial. Identify full business name.
+
+### Nuovo Entertainment
+- **Repo:** `Moil-Landingpages/Nuovo-Enterteinment` → [[wiki/orgs/nuovo-entertainment]]
+- **Business status:** ✅ Site deployed Apr 9. Contact name still needed.
+- **Next:** Confirm contact details. Get feedback on live site.
+
+### Urbanzuela (Ana Vetencourt)
+- **Repo:** `Moil-Landingpages/urbanozuela` → [[wiki/orgs/urbanozuela]]
+- **Business status:** Site active Apr 9. Family client (Andres's sister-in-law).
+- **Next:** Confirm site is live and she's satisfied.
 
 ---
 

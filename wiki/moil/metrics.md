@@ -5,9 +5,30 @@ tags:
 # Moil — Metrics (Single Source of Truth)
 
 **Type:** moil-topic
-**Last updated:** 2026-04-11
-**Source:** [[raw/moil-documents-2026-04-09]], [[raw/moilapp-website-2026-04-09]]
+**Last updated:** 2026-04-14
+**Source:** [[raw/moil-documents-2026-04-09]], [[raw/moilapp-website-2026-04-09]], [[raw/teams-2026-04-12]], [[raw/email-history-2months-2026-04-12]]
 **Related:** [[wiki/moil/positioning]], [[wiki/moil/gtm]], [[wiki/concepts/smart-hiring]], [[wiki/concepts/content360]]
+
+---
+
+## April 2026 — Milestone Month
+
+> **Best month in Moil's history** (per Andres, Apr 9 Teams message). 10 deals closed, highest-ever deal volume.
+
+| April 2026 Deal | Value | Type |
+|---|---|---|
+| Siren Beauty (Becky Torres) | $2,200 one-time | Website redesign |
+| AlloyATX (Roxana Yglesias) | $75/mo recurring | Moil360 Market Pro |
+| Connectex (Mark Polanco) | Multi-quarter invoice | Custom build |
+| Meridian Buda (Travis Sutherland) | Closed | Full events platform |
+| FitLogic (Megan Miller) | Per-hire | Hiring platform |
+| Travis / Zoiwell | ~$75/mo (~$900/yr) | Moil360 |
+| Jacob Centeno / Titan Tech | $15/mo ($180/yr) | Starter plan |
+| PureSerenity (jilledegs01) | License | Moil360 |
+| Nuovo Entertainment | Closed | Custom site |
+| Eden | Discovery | Website build |
+| **New MRR added (Apr 2026)** | **~$165+/mo** | AlloyATX + Zoiwell + Titan Tech + PureSerenity |
+| **One-time revenue (Apr 2026)** | **~$2,200+** | Siren Beauty + Connectex (Q1) |
 
 ---
 
@@ -15,8 +36,8 @@ tags:
 
 | Metric | Current (2026) | Target 2027 | Target 2028 |
 |--------|---------------|-------------|-------------|
-| Active paying customers | 500+ | 1,200–1,500 | 2,500–3,000 |
-| MRR | $6,000–$8,000 | $25,000–$33,000 | $62,500–$87,500 |
+| Active paying customers | 500+ (+ 10 new Apr 2026) | 1,200–1,500 | 2,500–3,000 |
+| MRR | $6,000–$8,000 + ~$165 new | $25,000–$33,000 | $62,500–$87,500 |
 | ARR | $72,000–$96,000 | $300,000–$400,000 | $750,000–$1,000,000 |
 | ARPU (annual) | $144–$192 | $200–$250 | $250–$330 |
 | Monthly churn | ~5% | 4% | 3% |

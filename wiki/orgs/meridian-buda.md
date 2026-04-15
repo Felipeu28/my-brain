@@ -1,29 +1,32 @@
 ---
 github_repo: Moil-Landingpages/meridian-buda
+owner: "[[wiki/people/travis-sutherland]]"
+status: active
+last_contact: 2026-04-13
 tags:
   - graph/spoke
 ---
 # Meridian Buda
 
 **Type:** organization
-**Last updated:** 2026-04-13
+**Last updated:** 2026-04-15
 **Source:** [[raw/teams-2026-04-12]], [[raw/imessages-people-2026-04-09]], [[raw/github-project-tracker.md]], [[raw/teams-transcript-monday-collaboration-2026-04-13]]
-**Related:** [[wiki/people/john-costilla]], [[wiki/moil/customers]], [[wiki/moil/pipeline]]
+**Related:** [[wiki/people/travis-sutherland]], [[wiki/orgs/zoiwell]], [[wiki/moil/customers]], [[wiki/moil/pipeline]]
 
 ---
 
 ## Summary
 
-Meridian Buda is a "Coffee, Live Music & Community" venue in Buda, TX. It is a **closed Moil client deal** — Andres announced to the team April 9, 2026: "Meridian has been closed team!!!" Taiwo is actively building a full ticketed events platform with Stripe integration and an organizer dashboard.
+Meridian Buda is a "Coffee, Live Music & Community" venue in Buda, TX **owned by [[wiki/people/travis-sutherland|Travis Sutherland]]** — the same founder as [[wiki/orgs/zoiwell|Zoiwell]]. It is a **closed Moil client deal** — Andres announced to the team April 9, 2026: "Meridian has been closed team!!!" Taiwo is actively building a full ticketed events platform with Stripe integration and an organizer dashboard.
 
 ## Key Details
 
+- **Owner:** [[wiki/people/travis-sutherland|Travis Sutherland]] (also owns [[wiki/orgs/zoiwell|Zoiwell]])
 - **Business type:** Coffee shop / live music venue / community space
 - **Location:** Buda, TX
 - **Website:** meridian-buda.vercel.app (live — includes admin portal)
 - **Deal status:** ✅ CLOSED April 9, 2026
 - **Product:** Full custom platform — ticketed events, Stripe payments, organizer dashboard, check-in system
-- **Community tie:** John Costilla shared the meridian-buda.vercel.app link to Andres via iMessage — they are connected socially
 
 ## GitHub Projects
 
@@ -54,8 +57,10 @@ See [[wiki/meetings/2026-04-13-monday-collaboration]].
 
 ## Connections
 
-- [[wiki/people/john-costilla]] — personal friend of Andres, connected to Meridian Buda community
+- [[wiki/people/travis-sutherland]] — **owner** (also owns [[wiki/orgs/zoiwell]])
+- [[wiki/orgs/zoiwell]] — sister company under Travis Sutherland
 - [[wiki/people/taiwo-ola-balogun]] — engineer building the platform
+- [[wiki/people/john-costilla]] — works for Buda EDC (not a Meridian owner); community connection between Andres and the Buda EDC / Meridian ecosystem
 
 ## Moil Relevance
 

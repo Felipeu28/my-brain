@@ -11,7 +11,7 @@ tags:
 **Type:** summary
 **Last updated:** 2026-04-11
 **Source:** [[raw/github-project-tracker.md]]
-**Related:** [[wiki/moil/gtm]], [[wiki/concepts/moil360]], [[wiki/concepts/fantelo]], [[wiki/concepts/buda-hive]], [[wiki/orgs/queen-creek-chamber]]
+**Related:** [[wiki/moil/gtm]], [[wiki/concepts/moil360]], [[wiki/projects/fantelo]], [[wiki/concepts/buda-hive]], [[wiki/orgs/queen-creek-chamber]]
 
 ---
 

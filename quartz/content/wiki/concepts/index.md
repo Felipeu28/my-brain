@@ -23,7 +23,7 @@ Products, programs, and external concepts that directly touch Moil's business.
 - [[wiki/concepts/content360]] — 30-day AI marketing engine (product feature)
 - [[wiki/concepts/moil360]] — Marketing-brand wrapping of Content360 (moilapp.com/marketing)
 - [[wiki/concepts/smart-hiring]] — 10+ platform hiring with AI candidate matching
-- [[wiki/concepts/fantelo]] — Andres's parallel project (fantelo.com) — scope TBD
+- [[wiki/projects/fantelo]] — Andres's parallel project (fantelo.com) — scope TBD
 
 ## 🤖 AI / tech landscape (8 pages)
 The ecosystem Andres tracks via the Brain Collection layer (weekly X bookmark sweeps).

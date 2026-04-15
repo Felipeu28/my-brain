@@ -22,7 +22,7 @@ tags:
 
 **Major update (Apr 12 email backfill):** John works at the Buda EDC — email is john.costilla@budaedc.com. He is not just a personal friend; he's embedded in the organization that is Moil's most strategic B2G customer. 7 emails over the 2-month window covering Moil 360, FB header images, investor forwarding, Nuovo, and an "Agentic AI" document share.
 
-Also deep in the broader Buda community. Connected to *Meridian Buda* (coffee, live music, community space) and *Siren Beauty* (aesthetic boutique, Buda TX). Invited Andres for photos April 10 — "Look nice. We'll take a few pics."
+Also deep in the broader Buda community. Connected socially to [[wiki/orgs/meridian-buda|Meridian Buda]] (owned by [[wiki/people/travis-sutherland|Travis Sutherland]] — John is NOT an owner, just socially connected) and [[wiki/orgs/siren-beauty|Siren Beauty]] (aesthetic boutique, Buda TX). Invited Andres for photos April 10 — "Look nice. We'll take a few pics."
 
 **"Agentic AI" signal (Apr 10):** John shared a doc titled "Agentic AI" with the note "fyi for always on site selector tool." This signals interest in AI tooling for EDC use cases — could be a product expansion opportunity for Moil within the EDC.
 

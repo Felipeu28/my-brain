@@ -1,21 +1,22 @@
 ---
 status: active
 last_contact: 2026-04-09
+owner: "[[wiki/people/travis-sutherland]]"
 tags:
   - graph/spoke
 ---
 # Zoiwell
 
 **Type:** organization
-**Last updated:** 2026-04-14
+**Last updated:** 2026-04-15
 **Source:** [[wiki/moil/pipeline]], [[wiki/people/travis-sutherland]]
-**Related:** [[wiki/moil/customers]], [[wiki/moil/active-projects]]
+**Related:** [[wiki/orgs/meridian-buda]], [[wiki/moil/customers]], [[wiki/moil/active-projects]]
 
 ---
 
 ## Summary
 
-Travis Sutherland's business. Active P1 Moil 360 customer — onboarded Apr 9, 2026 on a 1-year license (~$900/yr). Also hosts the Sun Show booth where Moil is demoing Apr 24.
+One of [[wiki/people/travis-sutherland|Travis Sutherland]]'s two businesses (sister to [[wiki/orgs/meridian-buda|Meridian Buda]]). Active P1 Moil 360 customer — onboarded Apr 9, 2026 on a 1-year license (~$900/yr). Demo showcased at the Sun Show Apr 24.
 
 ## Deal
 
