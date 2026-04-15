@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Moil_Nonprofit_Incorporation_Steps
 
 **Date:** 2025-01-10

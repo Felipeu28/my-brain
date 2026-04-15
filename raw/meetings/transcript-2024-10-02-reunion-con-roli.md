@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: 2024-10-02-reunion-con-roli
 **Date:** 2024-10-02
 **Type:** meeting-transcript

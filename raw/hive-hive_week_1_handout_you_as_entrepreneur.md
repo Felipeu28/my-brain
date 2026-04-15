@@ -1,3 +1,7 @@
+---
+type: program-doc
+---
+
 # HIVE_Week_1_Handout_You_as_Entrepreneur
 
 **Source:** OneDrive HIVE/client document

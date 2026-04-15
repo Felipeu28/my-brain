@@ -1,3 +1,7 @@
+---
+type: program-doc
+---
+
 # CAMP
 
 **Source:** OneDrive HIVE/client document

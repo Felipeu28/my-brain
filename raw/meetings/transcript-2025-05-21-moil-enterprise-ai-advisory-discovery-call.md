@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: Moil Enterprise - AI Advisory Discovery Call
 **Date:** 2025-05-21
 **Participants:** Andres Urrego; Paula Florez-Estrada Valverde; Steve; Jacob

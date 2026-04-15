@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: 2024-10-16-meet-meeting
 **Date:** 2024-10-16
 **Type:** meeting-transcript

@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # 20241022 - Interview and Pitch Update Marketing Call - Transcript
 
 **Source:** OneDrive transcript

@@ -1,3 +1,7 @@
+---
+type: note
+---
+
 # KidsGPT — 5 Best Options
 
 *For Tee R, age 7–10 | April 2026*

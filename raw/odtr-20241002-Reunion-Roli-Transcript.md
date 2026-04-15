@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # 20241002 Reunion Roli Transcript
 
 **Date:** 2024-10-02

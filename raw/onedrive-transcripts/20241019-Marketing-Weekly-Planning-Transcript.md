@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # 20241019 Marketing Weekly Planning Transcript
 
 **Date:** 2024-10-19

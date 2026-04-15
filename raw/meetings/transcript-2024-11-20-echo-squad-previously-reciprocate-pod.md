@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: Echo Squad - Previously Reciprocate Pod
 **Date:** 2024-11-20
 **Participants:** Andres Urrego; Echo Squad Team

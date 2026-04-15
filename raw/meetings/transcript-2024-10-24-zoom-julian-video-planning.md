@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: 2024-10-24-zoom-julian-video-planning
 **Date:** 2024-10-24
 **Type:** meeting-transcript

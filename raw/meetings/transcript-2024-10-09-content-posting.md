@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: 2024-10-09-content-posting
 **Date:** 2024-10-09
 **Type:** meeting-transcript

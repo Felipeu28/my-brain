@@ -1,3 +1,7 @@
+---
+type: email
+---
+
 # Email History — Oct 2025 to 2026-04-12
 
 ## Summary

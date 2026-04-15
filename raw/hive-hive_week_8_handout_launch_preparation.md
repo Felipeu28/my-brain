@@ -1,3 +1,7 @@
+---
+type: program-doc
+---
+
 # HIVE_Week_8_Handout_Launch_Preparation
 
 **Source:** OneDrive HIVE/client document

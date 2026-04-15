@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # 20241009 Content Posting Transcript
 
 **Date:** 2024-10-09

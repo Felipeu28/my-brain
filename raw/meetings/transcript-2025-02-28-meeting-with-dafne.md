@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: Meeting with Dafne
 **Date:** 2025-02-28
 **Participants:** Dafne; Andres Urrego

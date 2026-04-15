@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: Rick and Andres - Follow Up
 **Date:** 2025-03-26
 **Participants:** Rick; Andres Urrego

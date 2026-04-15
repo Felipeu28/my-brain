@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: 2025-01-08-nvidia-inception-program
 **Date:** 2025-01-08
 **Type:** meeting-transcript

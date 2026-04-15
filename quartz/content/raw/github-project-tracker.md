@@ -1,3 +1,7 @@
+---
+type: note
+---
+
 # GitHub Project Tracker — Andres Urrego (@Felipeu28)
 **Last Updated:** April 11, 2026 | **Total Repos:** 48 across 3 orgs
 

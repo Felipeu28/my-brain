@@ -1,3 +1,7 @@
+---
+type: email
+---
+
 # Email Digest — 2026-04-14
 
 **Type:** email-digest

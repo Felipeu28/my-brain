@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: 2024-11-13-txor-moil-call
 **Date:** 2024-11-13
 **Type:** meeting-transcript

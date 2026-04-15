@@ -1,3 +1,7 @@
+---
+type: program-doc
+---
+
 # HIVE_Week_7_Handout_Marketing_Sales
 
 **Source:** OneDrive HIVE/client document

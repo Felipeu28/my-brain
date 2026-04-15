@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # 20241122 Abel Andres Follow Up Transcript
 
 **Date:** 2024-11-22

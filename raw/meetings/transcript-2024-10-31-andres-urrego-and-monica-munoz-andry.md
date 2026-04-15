@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: Andres Urrego and Monica Munoz Andry
 **Date:** 2024-10-31
 **Participants:** Andres Urrego; Monica Munoz Andry

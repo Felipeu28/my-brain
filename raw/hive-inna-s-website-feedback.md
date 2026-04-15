@@ -1,3 +1,7 @@
+---
+type: program-doc
+---
+
 # Inna's Website Feedback
 
 **Source:** OneDrive HIVE/client document

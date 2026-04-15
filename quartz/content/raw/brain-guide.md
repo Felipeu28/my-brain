@@ -1,3 +1,7 @@
+---
+type: reference
+---
+
 # The Brain System: A Practical Guide for Andres
 
 Your Brain system is a multiplier for how you think, learn, and build. It's not a note-taking app—it's a personal research engine that compounds knowledge across sources, surfaces patterns you'd miss alone, and makes your thinking faster and sharper.

@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # 20250517 Prompt Reviews Transcript
 
 **Date:** 2025-05-17

@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # 20250328 Monica Andres Transcript
 
 **Date:** 2025-03-28

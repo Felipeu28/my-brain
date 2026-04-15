@@ -1,3 +1,7 @@
+---
+type: program-doc
+---
+
 # AI_Panel_Presentation_Guide_Long_Version
 
 **Source:** OneDrive HIVE/client document

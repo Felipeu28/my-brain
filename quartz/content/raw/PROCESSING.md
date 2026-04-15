@@ -1,8 +1,8 @@
 ---
 title: Inbox Processing Protocol
 tags: [meta, personal]
+type: note
 ---
-
 # Inbox Processing Protocol
 
 **When:** Every Sunday, 30 minutes max.

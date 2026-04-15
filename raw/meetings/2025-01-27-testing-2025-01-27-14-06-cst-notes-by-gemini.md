@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting: Testing - 2025_01_27 14_06 CST - Notes by Gemini
 **Date:** 2025-01-27
 **Source:** OneDrive/Meet Recordings/Testing - 2025_01_27 14_06 CST - Notes by Gemini.docx

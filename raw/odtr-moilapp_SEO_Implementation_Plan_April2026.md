@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # moilapp_SEO_Implementation_Plan_April2026
 
 **Date:** 2026-04-08

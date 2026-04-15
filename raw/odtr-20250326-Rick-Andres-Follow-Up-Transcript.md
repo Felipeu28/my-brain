@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # 20250326 Rick Andres Follow Up Transcript
 
 **Date:** 2025-03-26

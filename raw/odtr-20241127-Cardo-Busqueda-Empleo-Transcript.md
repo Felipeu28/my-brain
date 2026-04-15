@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # 20241127 Cardo Busqueda Empleo Transcript
 
 **Date:** 2024-11-27

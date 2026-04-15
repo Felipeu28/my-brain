@@ -1,3 +1,7 @@
+---
+type: program-doc
+---
+
 # Siren Beauty & Wellness Strategy Plan
 
 **Source:** OneDrive HIVE/client document

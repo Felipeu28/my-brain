@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: Jacob Call November 27
 **Date:** 2024-11-27
 **Participants:** Jacob; Andres Urrego

@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: Jacob Call December 5
 **Date:** 2024-12-05
 **Participants:** Jacob; Andres Urrego

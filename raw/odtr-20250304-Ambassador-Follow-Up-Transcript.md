@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # 20250304 Ambassador Follow Up Transcript
 
 **Date:** 2025-03-04

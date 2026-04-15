@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: Team Call December 19
 **Date:** 2024-12-19
 **Participants:** Moil Team

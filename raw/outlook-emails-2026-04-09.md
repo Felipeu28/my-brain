@@ -1,3 +1,7 @@
+---
+type: email
+---
+
 # Outlook Email Summary
 **Date:** 2026-04-09
 **Type:** email-digest

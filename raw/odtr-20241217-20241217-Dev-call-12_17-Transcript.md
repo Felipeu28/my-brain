@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # 20241217 - Dev call 12_17 - Transcript
 
 **Source:** OneDrive transcript

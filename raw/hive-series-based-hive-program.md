@@ -1,3 +1,7 @@
+---
+type: program-doc
+---
+
 # Series-Based HIVE Program
 
 **Source:** OneDrive HIVE/client document

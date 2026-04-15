@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # 20241219 Team Call Transcript
 
 **Date:** 2024-12-19

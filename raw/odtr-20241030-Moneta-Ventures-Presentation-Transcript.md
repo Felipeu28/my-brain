@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # 20241030 Moneta Ventures Presentation Transcript
 
 **Date:** 2024-10-30

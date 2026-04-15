@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # 20241205 Jacob Call Transcript
 
 **Date:** 2024-12-05

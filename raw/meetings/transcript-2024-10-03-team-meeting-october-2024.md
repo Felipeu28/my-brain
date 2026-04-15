@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: Team Meeting October 2024
 **Date:** 2024-10-03
 **Participants:** Moil Team

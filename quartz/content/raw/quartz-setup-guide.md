@@ -1,3 +1,7 @@
+---
+type: reference
+---
+
 # Quartz v4 — Brain Website Setup Guide
 > Publishes your Brain as a searchable, wikilink-connected website at https://jarvisurregoTX.github.io/my-brain
 

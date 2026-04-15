@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting: tdo-dzdc-xzx (2025-01-08 19_47 GMT-6) - Transcript
 **Date:** 2025-01-08
 **Source:** OneDrive/Meet Recordings/tdo-dzdc-xzx (2025-01-08 19_47 GMT-6) - Transcript.docx

@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: 2024-12-17-dev-call
 **Date:** 2024-12-17
 **Type:** meeting-transcript

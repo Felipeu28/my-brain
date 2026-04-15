@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # 20241202 Marketing Call Transcript
 
 **Date:** 2024-12-02

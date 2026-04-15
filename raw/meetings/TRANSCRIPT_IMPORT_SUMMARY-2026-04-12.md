@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript Import Summary — Run 2
 **Date:** 2026-04-12
 **Source:** OneDrive (Andres@moilapp.com)

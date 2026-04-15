@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # 20250109 Phone Number Review Login Transcript
 
 **Date:** 2025-01-09

@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: 2024-11-14-virtual-moil-meeting
 **Date:** 2024-11-14
 **Type:** meeting-transcript

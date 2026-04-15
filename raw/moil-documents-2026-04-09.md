@@ -1,3 +1,7 @@
+---
+type: note
+---
+
 # Moil Enterprise — Business Plan
 
 **Date extracted:** 2026-04-09

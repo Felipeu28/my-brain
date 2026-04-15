@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: 2025-05-15-zachary-barker-wyatt-hook
 **Date:** 2025-05-15
 **Type:** meeting-transcript

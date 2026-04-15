@@ -1,3 +1,7 @@
+---
+type: bookmark
+---
+
 # X Bookmarks — 2026-04-11
 
 **Period:** March 26 – April 11, 2026  

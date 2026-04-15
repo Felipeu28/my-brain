@@ -1,3 +1,7 @@
+---
+type: note
+---
+
 # Luna Brain — Annabella's Personal AI Friend
 
 **Project:** A bilingual, voice-first AI companion for Annabella (age 7) — and eventually Evie (age 5)

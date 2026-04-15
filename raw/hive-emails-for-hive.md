@@ -1,3 +1,7 @@
+---
+type: program-doc
+---
+
 # Emails for Hive
 
 **Source:** OneDrive HIVE/client document

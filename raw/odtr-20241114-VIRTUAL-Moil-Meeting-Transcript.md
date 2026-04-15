@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # 20241114 VIRTUAL Moil Meeting Transcript
 
 **Date:** 2024-11-14

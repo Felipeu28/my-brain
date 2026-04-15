@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # 20250422 - TXOR Moil Resume Building Presentation - Transcript
 
 **Source:** OneDrive transcript

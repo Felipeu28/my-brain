@@ -1,3 +1,7 @@
+---
+type: program-doc
+---
+
 # HIVE_Week_6_Handout_Legal_Administrative
 
 **Source:** OneDrive HIVE/client document

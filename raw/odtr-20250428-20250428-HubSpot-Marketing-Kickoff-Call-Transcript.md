@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # 20250428 - HubSpot Marketing Kickoff Call - Transcript
 
 **Source:** OneDrive transcript

@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting: HubSpot Marketing Kickoff Call - 2025_04_28 11_58 CDT - Notes by Gemini
 **Date:** 2025-04-28
 **Source:** OneDrive/Meet Recordings/HubSpot Marketing Kickoff Call - 2025_04_28 11_58 CDT - Notes by Gemini.docx

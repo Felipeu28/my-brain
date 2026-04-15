@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # 20250515 - Zachary Barker and Wyatt Hook - Transcript
 
 **Source:** OneDrive transcript

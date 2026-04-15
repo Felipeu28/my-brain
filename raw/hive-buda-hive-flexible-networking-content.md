@@ -1,3 +1,7 @@
+---
+type: program-doc
+---
+
 # BUDA HIVE flexible networking Content
 
 **Source:** OneDrive HIVE/client document

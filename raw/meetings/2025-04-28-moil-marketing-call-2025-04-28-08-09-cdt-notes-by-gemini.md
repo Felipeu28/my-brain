@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting: Moil Marketing Call - 2025_04_28 08_09 CDT - Notes by Gemini
 **Date:** 2025-04-28
 **Source:** OneDrive/Meet Recordings/Moil Marketing Call - 2025_04_28 08_09 CDT - Notes by Gemini.docx

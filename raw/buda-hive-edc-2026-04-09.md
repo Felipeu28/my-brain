@@ -1,3 +1,7 @@
+---
+type: program-doc
+---
+
 # Buda HIVE & Buda EDC — Relationship Intelligence
 **Date:** 2026-04-09
 **Source:** Andres (direct), Outlook emails (partial), iMessages

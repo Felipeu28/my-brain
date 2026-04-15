@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # 20250410 - David and Andres - AI trees - Transcript
 
 **Source:** OneDrive transcript

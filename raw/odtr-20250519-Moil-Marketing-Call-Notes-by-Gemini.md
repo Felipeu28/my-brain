@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Moil Marketing Call 2025-05-19 - Notes by Gemini
 
 **Source:** OneDrive transcript

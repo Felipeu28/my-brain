@@ -1,3 +1,7 @@
+---
+type: program-doc
+---
+
 # Empowered Nutrition Project Breakdown
 
 **Source:** OneDrive HIVE/client document

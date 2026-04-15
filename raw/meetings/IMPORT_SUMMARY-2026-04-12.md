@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Notes Import Summary
 **Date:** 2026-04-12
 **Source:** OneDrive (Andres@moilapp.com)

@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # 20250228 Meeting Dafne Transcript
 
 **Date:** 2025-02-28

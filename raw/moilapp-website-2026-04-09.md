@@ -1,3 +1,7 @@
+---
+type: note
+---
+
 # moilapp.com — Website Content
 
 **Source:** https://www.moilapp.com  

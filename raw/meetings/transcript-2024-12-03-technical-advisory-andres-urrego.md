@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: Technical Advisory - Andres Urrego
 **Date:** 2024-12-03
 **Participants:** Andres Urrego; Advisors

@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: David and Andres - AI Trees (Apr 10)
 **Date:** 2025-04-10
 **Participants:** David; Andres Urrego

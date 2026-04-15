@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # 20241002 Marketing Transcript
 
 **Date:** 2024-10-02

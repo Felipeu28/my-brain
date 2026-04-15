@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Jacob & Andres 2025-02-05 - Notes by Gemini
 
 **Source:** OneDrive transcript

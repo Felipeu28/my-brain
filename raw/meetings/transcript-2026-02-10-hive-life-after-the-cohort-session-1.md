@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: HIVE - Life After the Cohort - Session 1
 
 **Date:** 2026-02-10

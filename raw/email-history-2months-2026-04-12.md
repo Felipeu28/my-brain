@@ -1,3 +1,7 @@
+---
+type: email
+---
+
 # Email History — 2 Months (Feb 12 – Apr 12, 2026)
 
 ## Summary

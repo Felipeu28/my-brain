@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting: Jacob & Andres - 2025_04_09 08_44 CDT - Notes by Gemini
 **Date:** 2025-04-09
 **Source:** OneDrive/Meet Recordings/Jacob & Andres - 2025_04_09 08_44 CDT - Notes by Gemini.docx

@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # 20250521 - Moil Enterprise AI Advisory Discovery - Transcript
 
 **Source:** OneDrive transcript

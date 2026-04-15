@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # 20241125 - Meet with Andres Urrego and Monica Pena - Transcript
 
 **Source:** OneDrive transcript

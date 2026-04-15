@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: 2024-12-11-center-child-protection
 **Date:** 2024-12-11
 **Type:** meeting-transcript

@@ -1,3 +1,7 @@
+---
+type: program-doc
+---
+
 # Grok Guide and talking points
 
 **Source:** OneDrive HIVE/client document

@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # 20241217 Dev Call Transcript
 
 **Date:** 2024-12-22

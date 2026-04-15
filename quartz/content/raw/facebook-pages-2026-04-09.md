@@ -1,3 +1,7 @@
+---
+type: social
+---
+
 # Facebook Pages — AIbyAndres & MoilWorks
 **Date:** 2026-04-09
 **Type:** social-media-content

@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: Mónica and Andrés
 **Date:** 2025-03-28
 **Participants:** Monica; Andres Urrego

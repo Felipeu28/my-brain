@@ -1,3 +1,7 @@
+---
+type: program-doc
+---
+
 # HIVE_Week_3_Handout_Idea_Validation
 
 **Source:** OneDrive HIVE/client document

@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # 20241008 - Salwa & Andrés - Transcript
 
 **Source:** OneDrive transcript

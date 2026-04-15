@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: Moil Marketing Call October 7
 **Date:** 2024-10-07
 **Participants:** Andres Urrego; Marketing Team

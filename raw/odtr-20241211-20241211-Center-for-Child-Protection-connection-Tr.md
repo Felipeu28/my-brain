@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # 20241211 - Center for Child Protection connection - Transcript
 
 **Source:** OneDrive transcript

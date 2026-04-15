@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: 2025-05-20-azure-resources-tracking
 **Date:** 2025-05-20
 **Type:** meeting-transcript

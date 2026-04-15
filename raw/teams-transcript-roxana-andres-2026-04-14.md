@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Teams Meeting Transcript: Roxana & Andres
 
 - **Date:** 2026-04-14

@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # 20241203 - Daniela y Andres - Transcript
 
 **Source:** OneDrive transcript

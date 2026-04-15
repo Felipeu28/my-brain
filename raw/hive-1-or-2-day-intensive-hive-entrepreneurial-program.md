@@ -1,3 +1,7 @@
+---
+type: program-doc
+---
+
 # 1- or 2-Day Intensive HIVE Entrepreneurial Program
 
 **Source:** OneDrive HIVE/client document

@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: Business Plan Creator Session
 **Date:** 2025-03-12
 **Participants:** Andres Urrego

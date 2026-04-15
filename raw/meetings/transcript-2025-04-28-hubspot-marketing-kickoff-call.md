@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: HubSpot Marketing Kickoff Call
 **Date:** 2025-04-28
 **Participants:** Andres Urrego; HubSpot Team

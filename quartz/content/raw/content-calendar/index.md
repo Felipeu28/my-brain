@@ -1,8 +1,8 @@
 ---
 title: Content Calendar
 tags: [content-calendar, moil, marketing, auto]
+type: calendar
 ---
-
 # Moil Content Calendar
 
 Auto-generated every Monday at 9:00am CT. 4-week rolling calendar for Moil social and marketing content.

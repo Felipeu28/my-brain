@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: Update Meeting December 2
 **Date:** 2024-12-02
 **Participants:** Moil Team

@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: Marketing Call December 2
 **Date:** 2024-12-02
 **Participants:** Andres Urrego; Marketing Team

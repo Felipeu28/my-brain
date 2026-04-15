@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Team Meeting 2025-01-22 - Transcript
 
 **Source:** OneDrive transcript

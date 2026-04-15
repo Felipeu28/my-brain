@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: 2024-10-07-marketing-call
 **Date:** 2024-10-07
 **Type:** meeting-transcript

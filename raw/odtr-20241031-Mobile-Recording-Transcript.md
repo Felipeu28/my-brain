@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # 20241031 Mobile Recording Transcript
 
 **Date:** 2024-10-31

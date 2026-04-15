@@ -1,3 +1,7 @@
+---
+type: program-doc
+---
+
 # HIVE_Week_2_Handout_Business_Model_Canvas
 
 **Source:** OneDrive HIVE/client document

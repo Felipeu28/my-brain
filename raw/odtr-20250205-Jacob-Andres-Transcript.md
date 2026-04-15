@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Jacob & Andres 2025-02-05 - Transcript
 
 **Source:** OneDrive transcript

@@ -1,3 +1,7 @@
+---
+type: program-doc
+---
+
 # Buda HIVE SoSX Run of Show
 
 **Source:** OneDrive HIVE/client document

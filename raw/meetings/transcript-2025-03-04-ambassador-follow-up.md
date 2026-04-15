@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: Ambassador Follow Up
 **Date:** 2025-03-04
 **Participants:** Andres Urrego

@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: TXOR Moil Resume Building Presentation Virtual
 **Date:** 2025-04-22
 **Participants:** Andres Urrego; TXOR

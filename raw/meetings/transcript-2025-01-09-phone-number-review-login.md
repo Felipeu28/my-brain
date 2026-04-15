@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: 2025-01-09-phone-number-review-login
 **Date:** 2025-01-09
 **Type:** meeting-transcript

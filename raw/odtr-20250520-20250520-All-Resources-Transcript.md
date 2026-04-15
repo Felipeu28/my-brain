@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # 20250520 - All Resources - Transcript
 
 **Source:** OneDrive transcript

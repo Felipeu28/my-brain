@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # 20250312 Business Plan Creator Transcript
 
 **Date:** 2025-03-12

@@ -1,8 +1,8 @@
 ---
 title: Daily Briefings
 tags: [briefing, daily, auto]
+type: briefing
 ---
-
 # Daily Briefings
 
 Auto-generated each morning at 8:45am CT. Contains: calendar, email highlights, CRM follow-ups, priorities.

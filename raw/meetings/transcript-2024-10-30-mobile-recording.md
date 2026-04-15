@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: 2024-10-30-mobile-recording
 **Date:** 2024-10-30
 **Type:** meeting-transcript

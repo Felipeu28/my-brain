@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting: Team Meeting - 2025_05_16 09_28 CDT - Notes by Gemini
 **Date:** 2025-05-16
 **Source:** OneDrive/Meet Recordings/Team Meeting - 2025_05_16 09_28 CDT - Notes by Gemini.docx

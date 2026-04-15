@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: Marketing Meeting October 2
 **Date:** 2024-10-02
 **Participants:** Andres Urrego; Marketing Team

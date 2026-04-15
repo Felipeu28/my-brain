@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: Daniela y Andrés
 **Date:** 2024-12-03
 **Participants:** Daniela; Andres Urrego

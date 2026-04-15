@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: 2024-10-22-julian-sanchez-andres
 **Date:** 2024-10-22
 **Type:** meeting-transcript

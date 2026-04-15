@@ -1,3 +1,7 @@
+---
+type: note
+---
+
 # Luna Brain — Full Implementation Plan
 
 *For Annabella (age 7) + Evie (age 5) | April 2026 | Andres Urrego*

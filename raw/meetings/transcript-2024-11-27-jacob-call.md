@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: 2024-11-27-jacob-call
 **Date:** 2024-11-27
 **Type:** meeting-transcript

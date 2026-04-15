@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # 20241019 - Testing - Delivery 10_19 - Transcript
 
 **Source:** OneDrive transcript

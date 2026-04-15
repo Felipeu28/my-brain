@@ -1,3 +1,7 @@
+---
+type: program-doc
+---
+
 # Buda HIVE & Buda EDC — Full Intelligence File
 **Date extracted:** 2026-04-11
 **Source:** Outlook emails (direct read), Andres (direct)

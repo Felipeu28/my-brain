@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Teams Transcript: Monday Collaboration — 2026-04-13
 
 **Meeting:** Monday Collaboration

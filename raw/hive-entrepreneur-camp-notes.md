@@ -1,3 +1,7 @@
+---
+type: program-doc
+---
+
 # ENtrepreneur camp NOTES
 
 **Source:** OneDrive HIVE/client document

@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: 2024-11-25-andres-urrego-monica-pena
 **Date:** 2024-11-25
 **Type:** meeting-transcript

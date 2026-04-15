@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # 20241203 Daniela Andres Transcript
 
 **Date:** 2024-12-08

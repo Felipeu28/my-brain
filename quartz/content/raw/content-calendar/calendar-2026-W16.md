@@ -3,8 +3,8 @@ title: "Content Calendar — Week 16 (Apr 13–May 8)"
 date: 2026-04-13
 tags: [content-calendar, moil, weekly]
 status: auto
+type: calendar
 ---
-
 # Moil Content Calendar — W16–W19 (Apr 13 – May 8, 2026)
 
 **Generated:** 2026-04-13

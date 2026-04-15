@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # 20241008 Salwa Andres Transcript
 
 **Date:** 2024-10-08

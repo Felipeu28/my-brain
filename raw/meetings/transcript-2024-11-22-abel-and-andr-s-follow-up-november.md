@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: Abel and Andrés Follow Up November
 **Date:** 2024-11-22
 **Participants:** Abel; Andres Urrego

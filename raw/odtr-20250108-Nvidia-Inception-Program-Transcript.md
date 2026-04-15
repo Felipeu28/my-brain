@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # 20250108 Nvidia Inception Program Transcript
 
 **Date:** 2025-01-13

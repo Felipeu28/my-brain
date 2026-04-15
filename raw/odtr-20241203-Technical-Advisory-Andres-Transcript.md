@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # 20241203 Technical Advisory Andres Transcript
 
 **Date:** 2024-12-03

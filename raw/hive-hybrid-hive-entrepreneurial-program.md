@@ -1,3 +1,7 @@
+---
+type: program-doc
+---
+
 # Hybrid HIVE Entrepreneurial Program
 
 **Source:** OneDrive HIVE/client document

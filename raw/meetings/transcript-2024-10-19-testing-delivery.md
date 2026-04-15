@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: 2024-10-19-testing-delivery
 **Date:** 2024-10-19
 **Type:** meeting-transcript

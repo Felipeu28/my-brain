@@ -1,3 +1,7 @@
+---
+type: reference
+---
+
 # Know Me — Extraction Prompts for The Brain
 **Purpose:** Use these prompts in ChatGPT, Claude, or Grok to extract deep personal + professional context about Andres Urrego. Save each output and drop into `~/My Brain/knowledge-base/raw/` for ingestion.
 

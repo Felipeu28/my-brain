@@ -1,3 +1,7 @@
+---
+type: program-doc
+---
+
 # HIVE_Week_5_Handout_Entrepreneurial_Finance
 
 **Source:** OneDrive HIVE/client document

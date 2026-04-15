@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: 2024-10-08-salwa-andres
 **Date:** 2024-10-08
 **Type:** meeting-transcript

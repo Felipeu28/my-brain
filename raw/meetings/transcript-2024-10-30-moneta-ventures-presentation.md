@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: Moneta Ventures Presentation
 **Date:** 2024-10-30
 **Participants:** Andres Urrego; Moneta Ventures

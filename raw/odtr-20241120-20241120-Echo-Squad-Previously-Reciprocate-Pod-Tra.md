@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # 20241120 - Echo Squad - Previously Reciprocate Pod - Transcript
 
 **Source:** OneDrive transcript

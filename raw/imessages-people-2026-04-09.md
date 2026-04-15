@@ -1,3 +1,7 @@
+---
+type: email
+---
+
 # iMessages — People & Relationship Intelligence
 **Date extracted:** 2026-04-09
 **Source:** Apple Messages app (Andres's Mac Mini M4)

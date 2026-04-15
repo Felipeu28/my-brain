@@ -1,3 +1,7 @@
+---
+type: teams-message
+---
+
 # Teams 6-Month History (Oct 2025 – Apr 2026)
 
 **Type:** teams-history-backfill

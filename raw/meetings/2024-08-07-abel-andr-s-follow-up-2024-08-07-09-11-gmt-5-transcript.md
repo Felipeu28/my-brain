@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting: Abel & Andrés Follow up (2024-08-07 09_11 GMT-5) - Transcript
 **Date:** 2024-08-07
 **Source:** OneDrive/Meet Recordings/Abel & Andrés Follow up (2024-08-07 09_11 GMT-5) - Transcript.docx

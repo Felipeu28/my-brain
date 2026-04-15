@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Testing 2025-01-27 - Transcript
 
 **Source:** OneDrive transcript

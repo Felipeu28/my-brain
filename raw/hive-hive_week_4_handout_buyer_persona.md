@@ -1,3 +1,7 @@
+---
+type: program-doc
+---
+
 # HIVE_Week_4_Handout_Buyer_Persona
 
 **Source:** OneDrive HIVE/client document

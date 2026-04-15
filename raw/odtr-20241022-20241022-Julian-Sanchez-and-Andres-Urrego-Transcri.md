@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # 20241022 - Julian Sanchez and Andres Urrego - Transcript
 
 **Source:** OneDrive transcript

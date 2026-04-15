@@ -1,3 +1,7 @@
+---
+type: program-doc
+---
+
 # Coaching Session Summary
 
 **Source:** OneDrive HIVE/client document

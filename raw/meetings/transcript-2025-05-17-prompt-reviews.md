@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Meeting Transcript: 2025-05-17-prompt-reviews
 **Date:** 2025-05-17
 **Type:** meeting-transcript

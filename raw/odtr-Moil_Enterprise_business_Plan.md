@@ -1,3 +1,7 @@
+---
+type: transcript
+---
+
 # Moil_Enterprise_business_Plan
 
 **Date:** 2026-03-12

@@ -1,3 +1,7 @@
+---
+type: bookmark
+---
+
 # X Bookmarks — Week of Mar 28 – Apr 10, 2026
 
 **Extracted:** 2026-04-11 | **Total:** 114 bookmarks
