@@ -1,0 +1,13 @@
+[
+  {
+    "timestamp": "2026-04-15T12:00:00Z",
+    "workflow": "apollo_sequence_add",
+    "summary": "Test event from unit test.",
+    "outcome": "Stored successfully.",
+    "entity_refs": [
+      "company:test-co",
+      "person:test-person"
+    ],
+    "artifact_path": "/Users/jarvisurrego/My Brain/knowledge-base/outputs/openclaw/events/2026-04-15/20260415T120000Z--apollo_sequence_add.json"
+  }
+]

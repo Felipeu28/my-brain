@@ -1,6 +1,6 @@
 ---
 status: warm
-last_contact: 2026-04-01
+last_contact: 2026-04-09
 tags:
   - graph/spoke
   - person/customer
@@ -9,25 +9,47 @@ client: "[[wiki/orgs/astra-restaurant]]"
 # Daniel Guadiano
 
 **Type:** person
-**Last updated:** 2026-04-11
+**Last updated:** 2026-04-15
 **Source:** [[raw/outlook-emails-2026-04-09]]
-**Related:** [[wiki/moil/icp]], [[wiki/moil/gtm]]
+**Related:** [[wiki/orgs/astra-restaurant]], [[wiki/moil/icp]], [[wiki/moil/gtm]], [[wiki/moil/pipeline]]
 
 ---
 
-**Title:** General Manager, Astra Restaurant and Bar
-**Location:** Main Street, Austin TX
-**Phone:** 210.978.4483
-**Email:** daniel.guadiano@astrabtx...
+## Summary
+
+Daniel Guadiano is the **General Manager of [[wiki/orgs/astra-restaurant|Astra Restaurant and Bar]]** on Main Street Austin — Moil's strongest hospitality-vertical warm prospect and the first restaurant-ICP data point. Met Andres at a Buda Main Street networking event in February 2026. Explicitly inquired about AI scheduling for restaurant ops — direct buyer intent.
+
+## Contact
+
+- **Title:** General Manager, Astra Restaurant and Bar
+- **Location:** Main Street, Austin TX
+- **Phone:** 210.978.4483
+- **Email:** `daniel.guadiano@astrabtx.com` *(domain TBD — appears truncated in source)*
 
 ## Relationship
 
-Warm lead — met at Buda Main Street networking event in February 2026. Inquired about how [[wiki/moil/positioning|Moil]] AI could help his restaurant business, particularly with scheduling.
+Met at **Buda Main Street networking event, February 2026** — exactly the channel-1 (local events + networking) entry point described in [[wiki/moil/gtm|gtm.md]]. Apr 9, 2026: sent an email inquiry asking about Moil's scheduling capabilities. Pending reply.
 
 ## Pain Point
 
-Weekly scheduling is time-consuming. Looking to free up time. High interest level.
+Weekly restaurant scheduling is time-consuming. Daniel wants to free up his time. High interest level; clear use case for AI scheduling + shift management.
 
-## Next Step
+## Why He Matters
 
-Follow up to schedule demo or onboarding call. This is a strong local lead with a clear use case.
+- **First hospitality-ICP data point** — if Astra converts, template for restaurant vertical
+- **Demo-ready need** — direct ask for scheduling feature; not a cold pitch
+- **Channel validation** — local networking → warm lead is the exact GTM motion Moil is investing in
+- Potential Spanish-language + bilingual service features worth exploring (Main Street Austin demographic)
+
+## Next Actions
+
+- [ ] Reply to Apr 9 email with a 30-min scheduling demo slot
+- [ ] Tailor demo to restaurant ops (shift handoffs, no-shows, bilingual staff)
+- [ ] If it closes, write a hospitality case study
+
+## Connections
+
+- [[wiki/orgs/astra-restaurant]] — his business
+- [[wiki/moil/gtm]] — networking-channel origin story
+- [[wiki/moil/icp]] — emerging hospitality sub-ICP
+- [[wiki/moil/pipeline]]

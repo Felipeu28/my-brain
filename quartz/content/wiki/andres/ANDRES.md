@@ -50,16 +50,22 @@ tags:
 | Who | Role | Status |
 |-----|------|--------|
 | [[wiki/people/jennifer-storm|Jennifer Storm]] | Buda EDC CEO | 🟢 Active — Board vote Apr 15 |
+| [[wiki/people/jacquie-martinez|Jacquie Martinez]] | Buda EDC Asst Director | 🟢 Active — day-to-day HIVE ops |
+| [[wiki/people/katherine-silvas|Katherine Silvas]] | Helotes EDC CEO | 🔥 **Overdue reply** — Mar 31 incubator ask |
+| [[wiki/people/daniel-mann|Daniel Mann]] | Evermend Group (#1 referral partner) | 🟢 8 intros in 6 weeks — quarterly thank-you overdue |
 | [[wiki/people/jacob-oluwole|Jacob]] | PM | 🟢 Active — onboarding customers daily |
 | [[wiki/people/adeleke-tolulope|Adeleke]] | Lead Engineer | 🟢 Active — 181 messages this week |
 | [[wiki/people/becky-torres|Becky Torres]] | Siren Beauty (P1 client) | 🟢 Active — $2,200 paid Apr 6 |
 | [[wiki/people/inna-benyukhis|Inna Benyukhis]] | LadyBoss (P1 client) | 🟢 Active — coaching ongoing |
 | [[wiki/people/megan-miller|Megan Miller]] | FitLogic (P1 client) | 🟢 Active — using hiring platform |
-| [[wiki/people/travis-sutherland|Travis Sutherland]] | Zoiwell / Sun Show | 🟢 Active — onboarded Apr 9 |
+| [[wiki/people/travis-sutherland|Travis Sutherland]] | Zoiwell + Meridian owner | 🟢 2 revenue streams + Sun Show venue |
 | [[wiki/people/mark-polanco|Mark Polanco]] | Connectex | 🟢 Closed Apr 9 — verify payment |
+| [[wiki/people/anita-lansing|Anita Lansing]] | Organically Whole (P1 client) | 🟢 Active — 9 emails in last 10 days |
+| [[wiki/people/roxana-yglesias|Roxana Yglesias]] | AlloyATX (P1 client) | 🟢 Closed Apr 14 — $75/mo Market Pro |
+| [[wiki/people/oscar-esquivel|Oscar Esquivel]] | AlloyATX founder (via Daniel Mann) | 🟢 Active |
+| [[wiki/people/jacob-centeno|Jacob Centeno]] | Titan Tech (P1, via Daniel Mann) | 🟢 Onboarded Apr 8 |
 | [[wiki/people/hive-cohort-members|HIVE Cohort]] | Buda EDC participants | 🟢 Cohort 4 Apr 20 — Terry, Laura, Sarah, Carol, Liz, Miguel |
-| [[wiki/people/roxana-yglesias|Roxana Yglesias]] | AlloyATX (P1 client) | 🟢 Closed Apr 14 — $75/mo Market Pro, onboarding in progress |
-| [[wiki/people/rashaka-boykins|Rashaka Boykins]] | Warm prospect | 🟡 Two intro calls — follow up |
+| [[wiki/people/rashaka-boykins|Rashaka Boykins]] | Warm prospect (via Daniel Mann) | 🟡 Two intro calls — follow up |
 | [[wiki/people/roxana-esquivel|Roxana Esquivel]] | Warm prospect | 🟡 Intro call Mar 13 — follow up |
 | [[wiki/people/kim-dowers|Kim Dowers]] | Queen Creek Chamber | 💤 Deferred — re-engage Jul 1 |
 | [[wiki/people/daniel-guadiano|Daniel Guadiano]] | Astra Restaurant | 🟡 Follow up — emailed Apr 9 |

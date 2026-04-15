@@ -1,14 +1,19 @@
 ---
 github_repo: Moil-Landingpages/Nuovo-Enterteinment
+owner: null
+status: active
+last_contact: 2026-04-09
 tags:
   - graph/spoke
 ---
 # Nuovo Entertainment
 
 **Type:** organization
-**Last updated:** 2026-04-13
-**Source:** [[raw/teams-2026-04-12]], [[raw/email-history-2months-2026-04-12]], [[raw/github-project-tracker.md]]
+**Last updated:** 2026-04-15
+**Source:** [[raw/teams-2026-04-12]], [[raw/email-history-2months-2026-04-12]], [[raw/github-project-tracker]]
 **Related:** [[wiki/people/john-costilla]], [[wiki/moil/customers]]
+
+> **⚠️ Ownership unknown.** Active Moil-Landingpages client with deployed site but no identified human contact. Ask John Costilla for the introduction + fill in this page. Highest-priority org with an unidentified owner.
 
 ---
 

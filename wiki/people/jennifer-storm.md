@@ -1,6 +1,6 @@
 ---
-status: archived
-last_contact: 2025-06-01
+status: active
+last_contact: 2026-04-15
 tags:
   - graph/hub
   - person/partner
@@ -9,14 +9,18 @@ client: "[[wiki/orgs/buda-edc]]"
 # Jennifer Storm
 
 **Type:** person
-**Last updated:** 2026-04-11
+**Last updated:** 2026-04-15
 **Source:** [[raw/buda-hive-edc-2026-04-11]]
-**Related:** [[wiki/people/jacquie-martinez]], [[wiki/concepts/buda-hive]], [[wiki/concepts/aedo]], [[wiki/concepts/campaignos]], [[wiki/moil/positioning]]
+**Related:** [[wiki/people/jacquie-martinez]], [[wiki/concepts/buda-hive]], [[wiki/concepts/aedo]], [[wiki/concepts/campaignos]], [[wiki/meetings/2026-03-12-sosx-buda-hive]]
 
 ---
 
-**Title:** Chief Executive Officer, [[wiki/orgs/buda-edc|Buda EDC]]
-**Email:** jennifer.storm@budaedc.com
+## Summary
+
+**Chief Executive Officer of [[wiki/orgs/buda-edc|Buda EDC]]** and one of Moil's most strategically valuable relationships. Combines recurring revenue (Moil licenses for HIVE cohorts), institutional credibility (city EDC as customer), community authority, and a potential new venture (CampaignOS). Actively driving the **Apr 15, 2026 Board vote** on the Incubator Strategist contracts.
+
+**Title:** CEO, Buda EDC
+**Email:** jennifer.storm@budaedc.com · jennifer.stormx@gmail.com (personal — CampaignOS discussions)
 **Phone:** 512.295.2022 (office) · 512.295.4536 (direct)
 **Address:** 405 East Loop Street #100, Buda, TX 78610
 
@@ -43,3 +47,13 @@ Key ally for [[wiki/moil/positioning|Moil]]. Collegial, warm, mutually supportiv
 ## Why This Relationship Matters
 
 Combines recurring revenue (Moil licenses for HIVE cohorts), institutional credibility (city EDC as customer), community authority, and a potential new venture (CampaignOS). One of Andres's most strategically valuable relationships.
+
+## Connections
+
+- [[wiki/orgs/buda-edc]] — her organization (she's CEO)
+- [[wiki/people/jacquie-martinez]] — Buda EDC Assistant Director (second main contact)
+- [[wiki/people/joshua-edmond]] — co-Incubator Strategist under her approval
+- [[wiki/concepts/buda-hive]] — the program she oversees
+- [[wiki/concepts/aedo]] — AEDO accreditation she's pursuing (Andres wrote support letter)
+- [[wiki/concepts/campaignos]] — MVP concept under active exploration
+- [[wiki/meetings/2026-03-12-sosx-buda-hive]] — SoSX event where Andres was publicly named Incubator Strategist

@@ -1,8 +1,8 @@
 ---
-status: archived
-last_contact: 2025-01-01
+status: active
+last_contact: 2026-04-09
 tags:
-  - graph/leaf
+  - graph/spoke
   - person/personal
 client: "[[wiki/orgs/urbanozuela]]"
 ---

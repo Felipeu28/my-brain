@@ -1,9 +1,12 @@
 ---
 status: active
 last_contact: 2026-04-08
+owner: "[[wiki/people/inna-benyukhis]]"
+github_repos:
+  - Moil-Landingpages/Inna-CRM
+  - Moil-Landingpages/Inna-Marketing-Calendar
 tags:
   - graph/spoke
-owner: "[[wiki/people/inna-benyukhis]]"
 ---
 # LadyBoss (Empowered Within)
 

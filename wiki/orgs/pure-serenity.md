@@ -1,14 +1,17 @@
 ---
 github_repo: Moil-Landingpages/PureSerenity
+owner: "[[wiki/people/jill-pureserenity]]"
+status: active
+last_contact: 2026-04-10
 tags:
   - graph/spoke
 ---
 # PureSerenity
 
 **Type:** organization
-**Last updated:** 2026-04-13
-**Source:** [[raw/teams-2026-04-12]], [[raw/github-project-tracker.md]]
-**Related:** [[wiki/moil/customers]], [[wiki/moil/pipeline]]
+**Last updated:** 2026-04-15
+**Source:** [[raw/teams-2026-04-12]], [[raw/github-project-tracker]]
+**Related:** [[wiki/people/jill-pureserenity]], [[wiki/moil/customers]], [[wiki/moil/pipeline]]
 
 ---
 
