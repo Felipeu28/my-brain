@@ -5,6 +5,7 @@ tags:
   - graph/leaf
   - person/customer
 client: "[[wiki/orgs/titan-tech]]"
+referred_by: "[[wiki/people/daniel-mann]]"
 ---
 # Jacob Centeno
 

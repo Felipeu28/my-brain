@@ -4,6 +4,7 @@ last_contact: 2026-03-05
 tags:
   - graph/spoke
   - person/customer
+referred_by: "[[wiki/people/daniel-mann]]"
 ---
 # Rashaka Boykins
 
