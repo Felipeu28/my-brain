@@ -8,8 +8,8 @@ tags:
 # Jacob Oluwole
 
 **Type:** person
-**Last updated:** 2026-04-13
-**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/email-history-2months-2026-04-12]], [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]]
+**Last updated:** 2026-04-15
+**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/email-history-2months-2026-04-12]], [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026)
 **Related:** [[wiki/moil/positioning]], [[wiki/people/adeleke-tolulope]], [[wiki/people/abiodun-solomon]], [[wiki/people/taiwo-ola-balogun]]
 
 ---
@@ -87,6 +87,19 @@ Jacob organized the Apr 13 Monday collaboration call. Key assignments from this 
 - Content calendar coordination with Ablad — content was behind, reiterated Friday-readiness goal
 
 See [[wiki/meetings/2026-04-13-monday-collaboration]].
+
+## April 15, 2026 — License Distribution + Claude Access
+
+Source: [[raw/teams-2026-04-15]]
+
+- **Moil 360 license push:** Andres ordered licenses sent to 5 clients — Megan Miller, Mark Polanco, Becky Torres, Roxana Yglesias. Jacob confirmed Jill (PureSerenity) was first mention — not previously requested.
+- Jacob sent invitations using `partners@` email address
+- Tested **Business Coach pitch deck generation** — created an EDC partnership pitch deck and reported "This is much better... it came out nice"
+- Confirmed he "completed Moil business coach and Meridian website yesterday" — working on remaining projects today
+- Asked Andres for Claude Code access (was asked to log out earlier due to cost concerns)
+- Confirmed FitLogic job posting was sent
+
+See [[wiki/meetings/2026-04-15-teams-daily-ops]].
 
 ## Gaps
 

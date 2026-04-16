@@ -1,6 +1,6 @@
 # Moil Brain — Master Index
 
-**Last compiled:** 2026-04-15 (Run 8 — graph fix + April actuals + 3 people + chamber outreach) · **Total wiki pages:** 235 · **Raw sources:** 209
+**Last compiled:** 2026-04-15 (Run 8 — daily ops ingestion: Teams Apr 15 + email digest + SEO plan + 4 low-signal) · **Total wiki pages:** 239 · **Raw sources:** 209
 
 > **Canonical operating truth lives outside the wiki:** if status or architecture notes here conflict with newer operating reality, use `~/My Brain/CURRENT_STATE.md` first.
 
@@ -92,11 +92,11 @@ See also: [[wiki/meetings/historical-transcripts-index]] — raw transcripts not
 | Category | Count | Notes |
 |---|---|---|
 | Moil business | 7 | product-roadmap, gtm, customers updated with Run 4 client links + GitHub repos |
-| People (network) | 45 | +4 from Run 6: zachary-barker (new), megan-miller (rebuilt), inna (rebuilt), anita-lansing (enhanced) |
+| People (network) | 47 | +2 from Run 8: renee-simmons (Hays CISD Career Day), adam-maxon (Pflugerville Mentor Day) |
 | Minds (thinkers) | 10 | from X bookmarks deep compile |
 | Orgs (customer/partner) | 14 | +2 from Run 6: echo-squad (new) + buda-edc (expanded) |
-| Concepts | 35 | +1 from Run 6: hive-program |
-| Meetings | 41 | +1 from Run 6: 2025-05-21-moil-enterprise-ai-advisory |
+| Concepts | 36 | +1 from Run 8: seo-implementation-plan (moilapp.com 4-phase SEO roadmap) |
+| Meetings | 42 | +1 from Run 8: 2026-04-15-teams-daily-ops (API cost crisis + license push) |
 | Radar (changelogs) | 1 | Claude Code changelog |
 | Summaries | 16 | |
 | Folder READMEs | 9 | |

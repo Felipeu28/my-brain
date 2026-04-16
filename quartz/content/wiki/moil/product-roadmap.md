@@ -5,8 +5,8 @@ tags:
 # Moil — Product Roadmap & Feature Status
 
 **Type:** moil-topic
-**Last updated:** 2026-04-12
-**Source:** [[raw/meetings/]] (25 meeting transcripts, Aug 2024–May 2025), [[raw/teams-2026-04-12]] (Apr 2026 engineering sprint)
+**Last updated:** 2026-04-15
+**Source:** [[raw/meetings/]] (25 meeting transcripts, Aug 2024–May 2025), [[raw/teams-2026-04-12]] (Apr 2026 engineering sprint), [[raw/teams-2026-04-15]], [[raw/odtr-moilapp_SEO_Implementation_Plan_April2026]]
 **Related:** [[wiki/moil/positioning]], [[wiki/moil/gtm]], [[wiki/people/adeleke-tolulope]], [[wiki/people/jacob-oluwole]]
 
 ---
@@ -27,6 +27,10 @@ tags:
 | Development workflow | Claude Code | — | Andres uses Claude Code for all feature prototyping (12+ sessions/week) |
 
 **Apr 2026 cost discovery:** The `gpt-4o` model alias was silently updated by OpenAI to the `gpt-5_4-2026-03-05` snapshot, causing unexpected billing increases. Grok 4.1 Fast identified as 30x cheaper alternative on output tokens. DeepSeek still used in business plan flow.
+
+**Apr 15 escalation — API spend crisis:** Andres discovered token refill frequency went from monthly to ~3x/week (4-5 refills in last 2 weeks). Full codebase audit ordered. Adeleke assigned to find all remaining `gpt-4o` calls and migrate to `gpt-5-mini`. Hypothesis: heavy Business Coach testing is the primary driver. API key rotation planned after audit. Claude Code usage also flagged — 4 simultaneous users causing resource concerns; Jacob asked to log out temporarily.
+
+**SEO roadmap (Apr 8, 2026):** Full 4-phase technical SEO plan created. Only 13/68 pages indexed. Critical fix: `?lg=` URL pollution creating duplicate homepages. Highest-ROI opportunity: JobPosting schema for Google Jobs carousel. See [[wiki/concepts/seo-implementation-plan]].
 
 ---
 

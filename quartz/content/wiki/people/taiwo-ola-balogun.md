@@ -1,6 +1,6 @@
 ---
-status: warm
-last_contact: 2026-04-09
+status: active
+last_contact: 2026-04-15
 tags:
   - graph/spoke
   - person/team
@@ -8,8 +8,8 @@ tags:
 # Taiwo Ola-Balogun
 
 **Type:** person
-**Last updated:** 2026-04-13
-**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]]
+**Last updated:** 2026-04-15
+**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026)
 **Related:** [[wiki/people/adeleke-tolulope]], [[wiki/people/jacob-oluwole]], [[wiki/moil/product-roadmap]]
 
 ---
@@ -86,6 +86,19 @@ Three high-priority items from this meeting:
 3. **New massage place client:** Website nearly done, just needs images. Taiwo to handle handoff process.
 
 See [[wiki/meetings/2026-04-13-monday-collaboration]].
+
+## April 15, 2026 — Meridian Live + FitLogic Access
+
+Source: [[raw/teams-2026-04-15]]
+
+- **Meridian update live** for client testing — confirmed by Taiwo. Guide now stores progress in cookies (fixed the repeated-onboarding bug).
+- **Nuovo Entertainment site** deployed at nuovo-enterteinment.vercel.app — Andres reviewing.
+- **FitLogic:** Needs Supabase access — project was in Lovable, Andres moving it to Claude. Taiwo will need new credentials.
+- Andres pushed FitLogic prod changes and asked Taiwo + Jacob to test. **Deadline: Friday Apr 18.**
+- Env variable issue surfaced: Taiwo found Andres had updated environment settings, which affected the project. Taiwo recovered files from Vercel.
+- Tested FitLogic changes after Andres pushed to prod.
+
+See [[wiki/meetings/2026-04-15-teams-daily-ops]].
 
 ## Gaps
 

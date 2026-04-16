@@ -7,8 +7,8 @@ last_contact: 2026-04-14
 # Moil — Customers & Social Proof
 
 **Type:** moil-topic
-**Last updated:** 2026-04-14
-**Source:** [[raw/moilapp-website-2026-04-09]], [[raw/imessages-people-2026-04-09]], [[raw/teams-2026-04-12]], [[raw/email-history-6months-2026-04-14]]
+**Last updated:** 2026-04-15
+**Source:** [[raw/moilapp-website-2026-04-09]], [[raw/imessages-people-2026-04-09]], [[raw/teams-2026-04-12]], [[raw/email-history-6months-2026-04-14]], [[raw/teams-2026-04-15]], [[raw/email-digest-2026-04-14]]
 **Related:** [[wiki/moil/icp]], [[wiki/moil/gtm]], [[wiki/moil/pipeline]]
 
 ---
@@ -42,7 +42,7 @@ last_contact: 2026-04-14
 | Prospect | Contact | Product Interest | Stage | Last Touch | Next Action |
 |---|---|---|---|---|---|
 | Megan Miller / FitLogic | meganmillernp@gmail.com | Hiring + possible Moil360 | Active onboarding | Apr 1 | First hire imminent; confirm and track as P1 win |
-| Daniel Guadiano / Astra Restaurant | 210.978.4483 | AI scheduling | Demo needed | Apr 9 | Offer 30-min scheduling demo |
+| Daniel Guadiano / Astra Restaurant | daniel.guadiano@astrabtx.com | AI scheduling | Meeting confirmed | Apr 13 | **Thu Apr 16** — meeting confirmed by Daniel |
 | Kristi Hales / WorldLink Medical | khales@worldlinkmedical.com | Health/pharma tools | Deferred | Apr 9 | *"Will have more time in May"* — re-engage May 2026 |
 | Eden | (unknown) | Website build | Discovery | Apr 8 | Follow up on discovery call |
 | Travis / Zoiwell | travis@zoiwell.com | Moil360 demo | → **CONVERTED to P1** Apr 9 | Apr 9 | Done |

@@ -8,8 +8,8 @@ tags:
 # Abiodun Adekanmi (Ablad)
 
 **Type:** person
-**Last updated:** 2026-04-13
-**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]]
+**Last updated:** 2026-04-15
+**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026)
 **Related:** [[wiki/people/jacob-oluwole]], [[wiki/moil/positioning]], [[wiki/people/inna-benyukhis]]
 
 > **Name correction:** Teams profile shows "Abiodun Adekanmi" — previous meeting transcripts referenced "Abiodun Solomon." The Teams name is authoritative. "Ablad" remains team nickname.
@@ -77,6 +77,17 @@ Nigerian team member (same remote team cohort as Adeleke and Taiwo). Present sin
 - **Goal:** Get content for the following week ready by Friday so Mondays are for strategizing
 
 See [[wiki/meetings/2026-04-13-monday-collaboration]].
+
+## April 15, 2026 — Content Delivery Pressure
+
+Source: [[raw/teams-2026-04-15]]
+
+- Andres escalated directly: "Where are we on the rest of this week and content for next week?" + announced a new social media client was signed, asking if Ablad can handle the additional workload
+- General team urgency message: Andres called out that testing notes still haven't been completed from last Friday's assignment
+- Content delivery deadline: this week's content + next week's content must be ready by Friday
+- Updated Elevate flyers sent (email confirmation Apr 13)
+
+See [[wiki/meetings/2026-04-15-teams-daily-ops]].
 
 ## Gaps
 

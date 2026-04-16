@@ -8,8 +8,8 @@ tags:
 # Adeleke Tolulope (Steve)
 
 **Type:** person
-**Last updated:** 2026-04-13
-**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]]
+**Last updated:** 2026-04-15
+**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026)
 **Related:** [[wiki/people/jacob-oluwole]], [[wiki/people/taiwo-ola-balogun]], [[wiki/moil/positioning]], [[wiki/moil/product-roadmap]]
 
 ---
@@ -92,6 +92,20 @@ Steve reported on PDF/PowerPoint document generation testing:
 - Also pushed updates to staging: image creation in Business Coach, monitoring improvements
 
 See [[wiki/meetings/2026-04-13-monday-collaboration]].
+
+## April 15, 2026 — API Cost Audit + Staging Push
+
+Source: [[raw/teams-2026-04-15]]
+
+- **Assigned: full codebase audit for OpenAI API spend.** Andres discovered token refill frequency exploded from monthly to 3x/week. Adeleke's initial hypothesis: heavy Business Coach testing as the primary driver.
+- Will find all remaining `gpt-4o` references in codebase and migrate to `gpt-5-mini`
+- After audit, API keys will be rotated
+- Completed all pending Claude Code chats from last week — pushed results to staging
+- PDF/PPT generation quality "really improved" (confirmed by Adeleke)
+- Claude service was having issues — Adeleke confirmed "not working" around 3:45pm
+- Andres noted 4 people simultaneously logged into Claude Code may be contributing to issues
+
+See [[wiki/meetings/2026-04-15-teams-daily-ops]].
 
 ## Gaps
 

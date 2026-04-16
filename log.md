@@ -593,3 +593,81 @@ These were flagged from Aug 2024–May 2025 meeting transcripts ingested Apr 12.
 6. **Onboarding UX friction persists:** Miguel (Feb 2026) hit candidate-vs-business account confusion — same issue documented in earlier TXOR sessions
 
 **Summary:** Run 7 ingested 27 files. The AlloyATX onboarding call was the highest-signal source — a confirmed deal with 11 action items and a wellness referral pipeline. HIVE curriculum files enriched the existing concept page with program format variants and Entrepreneur Camp details. Four low-signal transcripts logged for completeness. Two empty files skipped.
+
+---
+
+### [2026-04-15] Run 8 — Daily Ops Ingestion (7 files)
+
+**Trigger:** Automated scan for unprocessed raw files.
+
+---
+
+**HIGH PRIORITY — Teams daily operations (Apr 14–15):**
+
+- **File:** raw/teams-2026-04-15.md
+  - **Type:** team-communications (84 messages, 4 threads)
+  - **Pages created:** [[wiki/meetings/2026-04-15-teams-daily-ops]]
+  - **Pages updated:** [[wiki/people/adeleke-tolulope]], [[wiki/people/jacob-oluwole]], [[wiki/people/taiwo-ola-balogun]], [[wiki/people/abiodun-solomon]], [[wiki/moil/product-roadmap]], [[wiki/moil/customers]], [[MEMORY]]
+  - **Summary:** API cost crisis — token refills 3x/week (was monthly). Full codebase audit ordered to migrate gpt-4o→gpt-5-mini. License distribution push for 5 clients. FitLogic deadline set for Fri Apr 18. Andres issued team-wide urgency message about delivery pace. Buda EDC called about "their product." New unnamed social media client signed.
+
+**MEDIUM PRIORITY — Email digest (Apr 14):**
+
+- **File:** raw/email-digest-2026-04-14.md
+  - **Type:** email-digest (24-hour window)
+  - **Pages created:** [[wiki/people/renee-simmons]] (Hays CISD, Career Day May 7), [[wiki/people/adam-maxon]] (Pflugerville Mentor Day)
+  - **Pages updated:** [[wiki/moil/customers]] (Daniel Guadiano meeting confirmed Thu Apr 16), [[MEMORY]] (7 new action items)
+  - **Summary:** Daniel Guadiano/Astra confirmed Thursday meeting. Renee Simmons invited Andres to Career Day May 7 (CHES, 4th/5th graders). Adam Maxon invited to Pflugerville Mentor Day. Buda Retail Roundup Apr 20. 15 chamber breakup emails sent (pipeline hygiene). GitHub webhook secrets rotation needed.
+
+**MEDIUM PRIORITY — SEO Implementation Plan:**
+
+- **File:** raw/odtr-moilapp_SEO_Implementation_Plan_April2026.md
+  - **Type:** technical-plan (dated Apr 8, 2026)
+  - **Pages created:** [[wiki/concepts/seo-implementation-plan]]
+  - **Pages updated:** [[wiki/moil/product-roadmap]] (SEO roadmap reference added)
+  - **Summary:** Comprehensive 4-phase SEO roadmap. Only 13/68 pages indexed. Critical fix: `?lg=` URL pollution. Highest-ROI: JobPosting schema for Google Jobs carousel. Blog keyword targets identified. Subdomain consolidation recommended.
+
+**MEDIUM PRIORITY — 9-Month Email History:**
+
+- **File:** raw/email-history-9months-2026-04-15.md
+  - **Type:** email-digest (Jul 2025–Apr 2026, 2000 emails, 875 unique contacts)
+  - **Pages created:** none (confirms existing relationships)
+  - **Summary:** Confirms relationship intensity: Jacob (39 emails), Casey Earley (33), Anita Lansing (29), Megan Miller (26), Becky Torres (23), Buda HIVE (23), Jacquie Martinez (17), Inna (15), Monica Davidson (15), Mark Polanco (15). New signals: Kim Dowers/Queen Creek Chamber (13 emails — active), Daniel/Evermend Group (13 — warm intro pipeline), Jesutomilola/Google xWF (9 — Google Cloud workshop), Katherine Silvas/Helotes (9 — confirming overdue reply flagged in MEMORY). Stripe payment confirmations: $2,200 from Siren Beauty, $200 payments from Alia Wells and Juan Costilla.
+
+**LOW PRIORITY — Business Plan (Mar 2026):**
+
+- **File:** raw/odtr-Moil_Enterprise_business_Plan.md
+  - **Type:** business-plan (Mar 5, 2026)
+  - **Pages updated:** none (numbers already reflected in positioning/gtm from earlier ingestion of moil-documents-2026-04-09)
+  - **Summary:** Updated March 2026 business plan. Confirms: 500+ active businesses, 5,000+ jobs/month, 94% interview success rate, $850 avg cost per hire, 91% 90-day retention. Pricing: Starter $15, Professional $25, Market Pro $75. Largely duplicates content already ingested via moil-documents.
+
+**LOW PRIORITY — Nonprofit Incorporation Steps:**
+
+- **File:** raw/odtr-Moil_Nonprofit_Incorporation_Steps.md
+  - **Type:** reference (Jan 2025)
+  - **Pages created:** none
+  - **Summary:** 8-step incorporation guide for "Moil Empowerment Foundation" nonprofit (501(c)(3)). Historical reference — no indication this has been acted on. Steps: name verification, Certificate of Formation (TX), EIN, bylaws, IRS Form 1023, bank account, TX Comptroller registration, initial programs.
+
+**LOW PRIORITY — Claude Code Weekly Sessions Rollup:**
+
+- **File:** raw/weekly-sessions-2026-04-15.md
+  - **Type:** claude-code-weekly-rollup (week of Apr 12)
+  - **Pages created:** none
+  - **Summary:** 8 Claude Code sessions, 82 user messages, 425 assistant responses, 1092 tool calls, 105 files created, 38 commits. Sessions include: wiki README creation, CLAUDE.md init, KB audit sprint (Apr 13), Brain system audit (Apr 14). Captures the burst of KB infrastructure work this week.
+
+**Pages created (4):** [[wiki/meetings/2026-04-15-teams-daily-ops]], [[wiki/people/renee-simmons]], [[wiki/people/adam-maxon]], [[wiki/concepts/seo-implementation-plan]]
+
+**Pages updated (8):** [[wiki/people/adeleke-tolulope]], [[wiki/people/jacob-oluwole]], [[wiki/people/taiwo-ola-balogun]], [[wiki/people/abiodun-solomon]], [[wiki/moil/product-roadmap]], [[wiki/moil/customers]], [[MEMORY]], [[index]]
+
+**Key intelligence from Run 8:**
+1. **API cost crisis:** OpenAI token spend exploded 3x — full audit + migration to gpt-5-mini ordered
+2. **License distribution push:** 5 clients getting Moil 360 invitations today (Megan, Mark, Becky, Roxana, Jill)
+3. **FitLogic Friday deadline:** Must complete by Apr 18
+4. **Astra Restaurant meeting confirmed:** Daniel Guadiano, Thu Apr 16
+5. **Career Day May 7:** Renee Simmons, Hays CISD — new community channel
+6. **Pflugerville Mentor Day:** Adam Maxon — new market adjacent to Austin/Buda
+7. **SEO crisis quantified:** Only 13/68 pages indexed; JobPosting schema = highest-ROI fix
+8. **Team delivery tension:** Andres issued direct accountability message to entire team
+9. **Buda EDC product call:** EDC reached out to discuss product — may relate to Board vote outcome
+10. **9-month email confirms relationship map:** Top contacts all match existing wiki pages; no major gaps
+
+**Summary:** Run 8 processed 7 files. The Teams daily ops was the highest-signal source — an API cost crisis requiring immediate action plus a license distribution push across 5 clients. The SEO implementation plan is a significant new concept page documenting moilapp.com's technical debt. Email digest surfaced two new community contacts (Renee Simmons, Adam Maxon) and confirmed the Daniel Guadiano/Astra meeting for Thursday. The 9-month email history confirms the existing relationship graph with no major gaps.
