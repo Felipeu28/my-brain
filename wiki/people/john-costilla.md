@@ -1,6 +1,6 @@
 ---
-status: archived
-last_contact: 2025-06-01
+status: active
+last_contact: 2026-04-15
 tags:
   - graph/hub
   - person/personal
@@ -8,9 +8,9 @@ tags:
 # John Costilla
 
 **Type:** person
-**Last updated:** 2026-04-12
-**Source:** [[raw/imessages-people-2026-04-09]], [[raw/email-history-2months-2026-04-12.md]]
-**Related:** [[wiki/moil/positioning]], [[wiki/orgs/buda-edc]], [[wiki/concepts/buda-hive]]
+**Last updated:** 2026-04-15
+**Source:** [[raw/imessages-people-2026-04-09]], [[raw/email-history-2months-2026-04-12.md]], [[raw/email-digest-2026-04-15]]
+**Related:** [[wiki/moil/positioning]], [[wiki/orgs/buda-edc]], [[wiki/concepts/buda-hive]], [[wiki/people/joseph-arnke]]
 
 ---
 
@@ -25,6 +25,8 @@ tags:
 Also deep in the broader Buda community. Connected socially to [[wiki/orgs/meridian-buda|Meridian Buda]] (owned by [[wiki/people/travis-sutherland|Travis Sutherland]] — John is NOT an owner, just socially connected) and [[wiki/orgs/siren-beauty|Siren Beauty]] (aesthetic boutique, Buda TX). Invited Andres for photos April 10 — "Look nice. We'll take a few pics."
 
 **"Agentic AI" signal (Apr 10):** John shared a doc titled "Agentic AI" with the note "fyi for always on site selector tool." This signals interest in AI tooling for EDC use cases — could be a product expansion opportunity for Moil within the EDC.
+
+**EDC AI tools call (Apr 15):** John emailed Andres ("Call today") about an EDC website call and asked [[wiki/people/joseph-arnke|Joseph Arnke]] (GIS WebTech) to add Andres to the invite — "wants him to join call to share AI tools approach for EDC website." Directly follows through on the Apr 10 "Agentic AI" signal.
 
 Andres organized a community event (late March) — John asked about bringing a table: "Do we need to bring table?" → Andres: "No you don't. Final details email coming out today!!"
 

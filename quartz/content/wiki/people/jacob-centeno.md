@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-08
+last_contact: 2026-04-15
 tags:
   - graph/leaf
   - person/customer
@@ -10,8 +10,8 @@ referred_by: "[[wiki/people/daniel-mann]]"
 # Jacob Centeno
 
 **Type:** person
-**Last updated:** 2026-04-13
-**Source:** [[raw/teams-2026-04-12]], [[raw/email-history-2months-2026-04-12]]
+**Last updated:** 2026-04-15
+**Source:** [[raw/teams-2026-04-12]], [[raw/email-history-2months-2026-04-12]], [[raw/email-digest-2026-04-15]]
 **Related:** [[wiki/moil/customers]], [[wiki/moil/pipeline]]
 
 ---
@@ -38,3 +38,5 @@ Jacob Centeno is the owner of Titan Tech Authority — a tech-focused business. 
 ## Moil Relevance
 
 Quick self-serve Starter plan close — validates the low-friction onboarding flow. Tech-focused business owner may be a power user or advocate in Austin's tech community.
+
+**Partnership signal (Apr 15):** Jacob emailed "Great connecting last week over the phone" and volunteered to refer businesses needing "social media + Moil Platform help." Moves him from one-off customer to warm referral partner. Andres replied with thanks and excitement to collaborate.

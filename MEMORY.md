@@ -1,6 +1,6 @@
 # MEMORY — Open Actions & Live Commitments
 
-**Last updated:** 2026-04-15 (Run 8 ingestion — Teams Apr 15 + email digest Apr 14)
+**Last updated:** 2026-04-16 (Run 9 ingestion — email digest Apr 15)
 **Purpose:** Single source of truth for open action items extracted from ingested raw sources. Claude Code updates this file during ingestion runs.
 
 > For relationship and concept context, see [[index]]. For ingestion history, see [[log]].
@@ -30,8 +30,9 @@ Source: [[wiki/orgs/helotes-edc]], [[wiki/people/katherine-silvas]]
 
 
 ### Buda HIVE / EDC
-Source: [[wiki/summaries/buda-hive-edc-2026-04-11]]
-- [ ] **Apr 15** — EDC Board vote on contracts. **Update:** EDC called Andres to discuss "their product."
+Source: [[wiki/summaries/buda-hive-edc-2026-04-11]], [[raw/email-digest-2026-04-15]]
+- [ ] **Apr 15** — EDC Board vote on contracts (awaiting result).
+- [ ] **🔥 EDC AI-tools-for-website call** — John Costilla + [[wiki/people/joseph-arnke|Joe Arnke]] (GIS WebTech) added Andres to call re: Moil AI → EDC site-selector. See [[wiki/orgs/buda-edc]].
 - [ ] **Apr 20 → Jun 8** — Cohort 4 begins (every Monday). Prep materials. Casey Earley is participant.
 
 ### API Spend Crisis — URGENT
@@ -71,6 +72,10 @@ Source: [[raw/email-digest-2026-04-14]]
 Source: [[raw/email-digest-2026-04-14]]
 - [ ] **Adeleke + Jacob: rotate webhook secrets** per GitHub security alert (forwarded Apr 14)
 
+### Jesutomilola Omoniyi / Google xWF — reschedule
+Source: [[raw/email-digest-2026-04-15]], [[wiki/people/jesutomilola-omoniyi]]
+- [ ] **Reply to Jesutomilola** — two Apr 15 follow-ups trying to reschedule; offered calendar link and then phone/chat ("email not best way"). Pick a time next week or next month.
+
 ### New Social Media Client (unnamed)
 Source: [[wiki/meetings/2026-04-15-teams-daily-ops]]
 - [ ] Identify the new social media client Andres signed. Confirm Abiodun has capacity to handle additional workload.
@@ -79,11 +84,6 @@ Source: [[wiki/meetings/2026-04-15-teams-daily-ops]]
 Source: [[wiki/summaries/imessages-people-2026-04-09]] (Megan Miller feedback)
 - [ ] Fix gap: employer cannot see applicant phone/email in Moil. Unclear notification system when candidate messages via Moil.
 - [ ] Reply to Megan Miller with a short-term workaround + ETA.
-
-### Open PRs (code hygiene)
-Source: [[wiki/summaries/github-project-tracker]]
-- [ ] Review + merge PR on `Moil-Code/Blog`
-- [ ] Review + merge PR on `Moil-Landingpages/Inna-CRM`
 
 ---
 

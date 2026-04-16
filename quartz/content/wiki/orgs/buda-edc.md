@@ -3,7 +3,7 @@ github_repo: Moil-Landingpages/BUDAEDC, Moil-Code/buda-hive
 tags:
   - graph/spoke
 status: active
-last_contact: 2026-04-02
+last_contact: 2026-04-15
 owner: "[[wiki/people/jennifer-storm]]"
 ---
 # Buda EDC
@@ -82,6 +82,10 @@ See [[wiki/concepts/hive-program]] for the full series-based curriculum (Hatch �
 - [[wiki/people/jacquie-martinez|Jacquie Martinez]] — Asst. Director. Manages HIVE operations day-to-day.
 - [[wiki/people/casey-earley|Casey Earley]] — Assistant to Jacquie. Event logistics.
 - [[wiki/people/joshua-edmond|Joshua Edmond]] — Co-Incubator Strategist alongside Andres.
+
+## EDC Website / AI Tools Call (Apr 15, 2026)
+
+John Costilla emailed Andres ("Call today") about an EDC website project and asked [[wiki/people/joseph-arnke|Joseph Arnke]] (GIS WebTech, joe@giswebtech.com) to add Andres to the call. Framing: "AI tools approach for EDC website" — likely site-selector / always-on AI tooling. Direct follow-through on John's Apr 10 "Agentic AI / always on site selector tool" signal. Potential product expansion path: Moil AI embedded in EDC website infrastructure, which would replicate to other EDCs as a B2G template.
 
 ## HIVE Clients Also Using Moil
 

@@ -671,3 +671,28 @@ These were flagged from Aug 2024–May 2025 meeting transcripts ingested Apr 12.
 10. **9-month email confirms relationship map:** Top contacts all match existing wiki pages; no major gaps
 
 **Summary:** Run 8 processed 7 files. The Teams daily ops was the highest-signal source — an API cost crisis requiring immediate action plus a license distribution push across 5 clients. The SEO implementation plan is a significant new concept page documenting moilapp.com's technical debt. Email digest surfaced two new community contacts (Renee Simmons, Adam Maxon) and confirmed the Daniel Guadiano/Astra meeting for Thursday. The 9-month email history confirms the existing relationship graph with no major gaps.
+
+---
+
+### [2026-04-16] Run 9 — Email Digest Apr 15
+
+**Trigger:** Automated scan for unprocessed raw files. One new file: `raw/email-digest-2026-04-15.md` (committed Apr 15 by `email-digest` job, not yet ingested into wiki).
+
+---
+
+- **File:** raw/email-digest-2026-04-15.md
+  - **Type:** email-digest (24-hour window, Apr 14–15)
+  - **Pages created:** [[wiki/people/joseph-arnke]] (GIS WebTech; added Andres to Buda EDC AI-tools call)
+  - **Pages updated:** [[wiki/people/john-costilla]] (EDC AI-tools call follow-through; status bumped archived → active), [[wiki/people/jesutomilola-omoniyi]] (reply overdue — 2 Apr 15 follow-ups), [[wiki/people/jacob-centeno]] (partnership signal — volunteered referrals), [[wiki/people/jacquie-martinez]] (sent Cohort 4 onboarding email Apr 15), [[wiki/people/rosemary-gamez]] (Rise & Shine thank-you; status archived → active), [[wiki/orgs/buda-edc]] (EDC AI-tools call section added), [[wiki/moil/gtm]] (Apr 15 outbound update + EDC product-expansion channel), [[MEMORY]] (Jesutomilola reply + EDC AI-tools call actions; pruned 2 stale Open-PR items), [[index]] (stats refreshed)
+
+**Key intelligence from Run 9:**
+1. **Buda EDC AI-tools call emerging (Apr 15):** John Costilla emailed "Call today"; Joseph Arnke (GIS WebTech, joe@giswebtech.com) added Andres to the invite. Direct follow-through on John's Apr 10 "Agentic AI / always-on site selector tool" signal. Potential B2G product-expansion channel — embed Moil AI in EDC website infrastructure, replicable to other EDCs.
+2. **Google xWF relationship at risk of stalling:** Jesutomilola Omoniyi sent two follow-ups in one day ("Let's connect by phone or chat — email not best way"). Reply is now overdue and relationship value (Google Cloud credits parallel to Nvidia Inception) is non-trivial.
+3. **Jacob Centeno → referral partner:** Existing $15/mo customer volunteered Apr 15 to refer businesses needing social-media + Moil help. First customer-turned-channel signal.
+4. **Rise & Shine attendance confirmed:** Andres attended Greater Buda Chamber's Tuesday Apr 14 event at The HIVE. Rosemary Gamez sent thank-you Apr 15. Buda Chamber relationship is live (was previously marked archived).
+5. **Jacquie Martinez — Cohort 4 onboarding live:** Sent "Your Cohort Journey Begins Soon" email Apr 15. Cohort 4 launch (Apr 20) is actively being staged.
+6. **Outbound single-day record:** 25 sent emails Apr 15 — 8 breakup emails (first large pipeline-hygiene batch), 4 discovery, 5 pitch, plus meeting invites to Roxana and Megan. Massachusetts expansion (6 new targets) — first MA push in the cold campaign.
+7. **Dead ends logged:** Sherese D. James-Grow (Boca Chamber) redirected — only handles teens.
+8. **Tax/personal admin not promoted:** DLC Financial (Austin Duke, Brendan C. Dunaway) tax return + Mariana Rodriguez questionnaire forward — personal admin, no wiki pages created.
+
+**Summary:** Single-file digest run. The highest-signal item is the Buda EDC AI-tools-for-website call — a concrete product-expansion opening that directly extends the existing B2G relationship and, if it lands, replicates as a template. Second-highest: the Google xWF (Jesutomilola) relationship needs a reply to avoid stalling. One new person page (Joseph Arnke), six people updated, two stale "archived" people (John Costilla, Rosemary Gamez) reactivated based on current contact.

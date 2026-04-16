@@ -1,6 +1,6 @@
 ---
 status: warm
-last_contact: 2026-04-10
+last_contact: 2026-04-15
 tags:
   - graph/spoke
   - person/partner
@@ -8,8 +8,8 @@ tags:
 # Jesutomilola Omoniyi
 
 **Type:** person
-**Last updated:** 2026-04-14
-**Source:** [[raw/email-history-2months-2026-04-12]]
+**Last updated:** 2026-04-15
+**Source:** [[raw/email-history-2months-2026-04-12]], [[raw/email-digest-2026-04-15]]
 **Related:** [[wiki/moil/gtm]], [[wiki/moil/product-roadmap]]
 
 ---
@@ -37,6 +37,7 @@ Jesutomilola Omoniyi (jesutomilola@xwf.google.com) is a Google Cloud representat
 - What was discussed in the Apr 10 call? Any Google Cloud credits or program offer?
 - Is Moil eligible for Google for Startups cloud credits?
 - Follow up: is there a Google Cloud AI/ML program Moil could join (similar to Nvidia Inception)?
+- **🔥 Reply needed (Apr 15):** Jesutomilola sent two follow-ups in one day trying to reschedule — offered calendar link, then asked to switch to phone/chat ("email not best way"). Relationship at risk of stalling; pick a time next week or next month.
 
 ## Connections
 

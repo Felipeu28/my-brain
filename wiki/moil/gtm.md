@@ -6,7 +6,7 @@ tags:
 
 **Type:** moil-topic
 **Last updated:** 2026-04-15
-**Source:** [[raw/moil-documents-2026-04-09]], [[raw/moilapp-website-2026-04-09]], [[raw/teams-2026-04-12]], [[raw/email-digest-2026-04-14]]
+**Source:** [[raw/moil-documents-2026-04-09]], [[raw/moilapp-website-2026-04-09]], [[raw/teams-2026-04-12]], [[raw/email-digest-2026-04-14]], [[raw/email-digest-2026-04-15]]
 **Related:** [[wiki/moil/positioning]], [[wiki/moil/icp]], [[wiki/concepts/buda-hive]], [[wiki/people/travis-sutherland]], [[wiki/people/daniel-guadiano]], [[wiki/people/renee-simmons]], [[wiki/people/adam-maxon]]
 
 ---
@@ -95,6 +95,14 @@ Average deal size: ~$300/year blended across tiers
 
 Source: [[wiki/summaries/email-history-2026-04-12]]
 
+### Cold campaign — Apr 15 update
+
+Single-day volume (Apr 15): **25 sent emails** — 4 discovery, 5 pitch, 8 "Should I close this out?" breakups, 1 client delivery, 2 meeting invites, 2 personal, 1 partnership follow-up. First large-batch pipeline-hygiene pass: breakup emails sent to AOTI (Chad Yount), Mount Vernon Springfield Chamber (Holly Dougherty), Greater Richmond Partnership (Michael Ivey), Alleghany Highlands Chamber (Teresa Hammond), Carroll County Chamber (Rhyne Owenby), Dynasty Jewelry and Loan (Joel Levinson), Greater Hall Chamber (Kit Dunlap), Candler County Industrial Authority (Hannah Mullins). Dead end logged: Sherese D. James-Grow (Boca Chamber) — only handles teens; redirected.
+
+Discovery and pitch targets added Apr 15: Melrose Chamber (Stephanie Nelson), MetroWest (Reyad Shah), Western Mass EDC (Xiomara Delobato, Rick Sullivan), Neponset River Regional Chamber (Thomas O'Rourke), Associated Environmental Systems (Michael Shirley), BACCMA (Rick Parker), NVCOC (Melissa Fetterhoff), Greater Sioux Falls Chamber (Jeff Griffin), Waupaca Area Chamber (Mitchell Swenson), LaGrange Chamber (Connie Hensler). Geographic expansion: Massachusetts (6), Georgia (4), South Dakota (1), Wisconsin (1) — first MA push.
+
+Partnership lead: Jacob Centeno (Titan Tech Authority, existing $15/mo customer) volunteered Apr 15 to refer businesses needing social media + Moil Platform help. Customer-turned-channel.
+
 ## April 2026 — Best Month Update (from Teams chats)
 
 **"We are having the best month in our existence!!!"** — Andres, Apr 9
@@ -116,6 +124,7 @@ Source: [[wiki/summaries/email-history-2026-04-12]]
 - **Buda community sharing restarted:** "Only Buda groups please" — targeted local distribution
 - **WhatsApp/Telegram:** Andres exploring connecting Business Coach to messaging platforms
 - **Daily video production:** Exploring AI video tools to produce video daily
+- **EDC product expansion (emerging, Apr 15):** John Costilla + [[wiki/people/joseph-arnke|Joseph Arnke]] (GIS WebTech) arranging a call on "AI tools approach for EDC website" — potential to embed Moil AI in Buda EDC's site-selector infrastructure. Replicable as a B2G template if it lands.
 
 ### Customer event (Sun show follow-up):
 - Email to attendees: "One of you won a free year of Moil 360" — gamification for engagement/conversion

@@ -1,6 +1,6 @@
 # Moil Brain — Master Index
 
-**Last compiled:** 2026-04-15 (Run 8 — daily ops ingestion: Teams Apr 15 + email digest + SEO plan + 4 low-signal) · **Total wiki pages:** 239 · **Raw sources:** 209
+**Last compiled:** 2026-04-16 (Run 9 — email digest Apr 15: Buda EDC AI-tools call signal + 1 new person) · **Total wiki pages:** 240 · **Raw sources:** 210
 
 > **Canonical operating truth lives outside the wiki:** if status or architecture notes here conflict with newer operating reality, use `~/My Brain/CURRENT_STATE.md` first.
 

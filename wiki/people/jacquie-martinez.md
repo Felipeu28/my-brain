@@ -38,6 +38,7 @@ Jacquie is the **day-to-day operational contact** for the Buda HIVE relationship
 | 2026-04-02 | Asked for Andres's contract "for the Board" — Andres submitted same day (135.7 KB). |
 | 2026-04-14 | Prep meeting at Buda HIVE (10:30am–12:00pm) — coordinate final stance before Board review |
 | 2026-04-15 | **🔥 Board vote on Incubator Strategist contracts** (Moil Enterprises Inc. + FAVE&SAVE LLC) |
+| 2026-04-15 | Sent Cohort 4 onboarding email: "Buda HIVE — Your Cohort Journey Begins Soon" (details + what to know before start) |
 
 ## Why She Matters
 

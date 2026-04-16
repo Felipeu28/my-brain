@@ -1,6 +1,6 @@
 ---
-status: archived
-last_contact: 2025-06-01
+status: active
+last_contact: 2026-04-15
 tags:
   - graph/spoke
   - person/partner
@@ -8,8 +8,8 @@ tags:
 # Rosemary Gamez
 
 **Type:** person
-**Last updated:** 2026-04-11
-**Source:** outlook-email-research-2026-04-11
+**Last updated:** 2026-04-15
+**Source:** outlook-email-research-2026-04-11, [[raw/email-digest-2026-04-15]]
 **Related:** [[wiki/orgs/buda-chamber]], [[wiki/people/monica-davidson]]
 
 ---
@@ -25,3 +25,5 @@ CC'd on most correspondence between Monica Davidson and Andres. Rosemary handles
 ## Key Context
 
 Rosemary is part of the Buda Chamber team that coordinates events, membership communications, and the annual Buda Magazine. She appears on all major threads alongside Monica Davidson.
+
+**Rise & Shine, Apr 14–15:** Rosemary sent a thank-you email Apr 15 after Andres attended the Chamber's Rise & Shine networking event Tuesday morning at The HIVE (sponsored by Summer Moon coffee). Confirms Andres is actively showing up at Buda Chamber events — relationship is live, not archived.
