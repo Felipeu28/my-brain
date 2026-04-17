@@ -6,9 +6,9 @@
 **Client:** FitLogic  |  **Wiki:** [[wiki/orgs/fitlogic]]
 `Moil-Landingpages/fit-logic`
 
-- `eb34707` Apr 17 09:08 — Fix formatting issue in CLAUDE.md
-- `d017aee` Apr 17 09:06 — Merge branch 'main' of github.com:Moil-Landingpages/fit-logic
-- `53a763a` Apr 17 09:06 — fix: Ai generation with gemini
+- `ea45b9b` Apr 17 18:52 — Update CLAUDE.md
+- `8c09c7c` Apr 17 18:51 — Merge branch 'main' of github.com:Moil-Landingpages/fit-logic
+- `bc32934` Apr 17 18:51 — fix: cron job updated
 
 ### Meridian Buda
 **Client:** Meridian Buda  |  **Wiki:** [[wiki/orgs/meridian-buda]]
@@ -20,26 +20,28 @@
 
 ### Active Product Development
 
-### Core Backend (staging)
+### Business Plan Creator (prod)
 **Wiki:** [[wiki/moil/product-roadmap]]
-`Moil-Code/Moil-codeStagebeta-backend`
+`Moil-Code/Business-plan-beta-prod`
 
-- `aa5ec37` Apr 16 11:42 — fix: changed all expensive gpt model to gpt-4o-mini
-- `81829ab` Apr 16 11:31 — fix: changed all expensive gpt model to gpt-4o-mini
-- `87a096b` Apr 16 11:28 — fix: changed all expensive gpt model to gpt-4o-mini
+- `fef3a95` Apr 17 17:47 — feat: released new updates from staging
+- `2352180` Apr 17 16:55 — feat: released new updates from staging
 
-### Business Plan Creator (staging)
+### Business Portal
 **Wiki:** [[wiki/moil/product-roadmap]]
-`Moil-Code/Business-plan-Staging`
+`Moil-Code/Moilapp_business`
 
-- `4ca8b40` Apr 16 11:10 — Merge branch 'claude/audit-llm-costs-GFS3p' into neww
-- `289f0ed` Apr 16 11:10 — update
+- `ba6fff3` Apr 17 17:19 — Merge branch 'main' of https://github.com/Moil-Code/Moilapp_business
+- `0a37bbe` Apr 17 17:18 — feat: released new updates from staging
+- `00c1a53` Apr 17 07:42 — feat: released new updates from staging
 
 ### Core Backend (prod)
 **Wiki:** [[wiki/moil/product-roadmap]]
 `Moil-Code/Moil-codeProdbackend`
 
-- `b3fde74` Apr 16 10:54 — fix: update all gpt to gpt-4o-mini
+- `c88239f` Apr 17 16:52 — feat: released new updates from staging
+- `76c8d20` Apr 17 08:12 — feat: released new updates from staging
+- `ab77faa` Apr 17 08:08 — feat: released new updates from staging
 
 ### Active Internal Projects
 
@@ -47,9 +49,9 @@
 **Wiki:** [[wiki/wiki/projects/lunabella]]
 `Felipeu28/Lunabella`
 
-- `94b78e3` Apr 17 13:06 — fix(voice): fix iOS audio-session crash that made app completely mute
-- `b26e148` Apr 17 12:47 — feat(voice): replace ElevenLabs chat TTS with instant browser speechSynthesis
-- `757f76c` Apr 17 12:44 — fix(voice): silent fallback when mic is blocked — no red banner for kids
+- `1953c2f` Apr 17 18:55 — fix(responsive): lower breakpoint to sm: (640px) so iPad mini gets large touch targets
+- `960b921` Apr 17 15:20 — fix(voice+ui): root-cause fix for silent Chrome TTS + iPad responsive layout
+- `a93d5d1` Apr 17 15:02 — fix: preserve conversation on settings nav + fix silent Chrome TTS
 
 ### Open Pull Requests
 
