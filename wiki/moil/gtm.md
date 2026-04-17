@@ -103,6 +103,15 @@ Discovery and pitch targets added Apr 15: Melrose Chamber (Stephanie Nelson), Me
 
 Partnership lead: Jacob Centeno (Titan Tech Authority, existing $15/mo customer) volunteered Apr 15 to refer businesses needing social media + Moil Platform help. Customer-turned-channel.
 
+### Cold campaign — Apr 16 update
+
+Single-day outbound: **~25 sent emails** split across two new narrative templates plus continued breakups.
+
+- **"Something we didn't expect" / "Interesting feedback from an EDC" narrative** (new sequence) — Dylan Horne (macoc.com), Ralph Staffins (bgicoc.com), Stacy Bowerman (michigan.org), Nancy Palmer (gachamber.com), Dylan Horne follow-up, plus discovery pings to Gwendolyn Howard (medc.ms), Debbie King (southavenchamber.com), Debi Green (greaterjacksonpartnership.com), Virginia James (corinthjewelers.com). Framing: "entrepreneurs now arrive at EDC with research/plan already done."
+- **Breakup batch (second wave):** Natalie Butler (augustametrochamber.com), Gregg Simon + Barton Lowrey (macoc.com), Tim Evans (ghcc.com), Blake Adcock (adcockfinancialgroup.com), Amanda Seals (cobbchamber.org), Earl Williams (thomasvillecdc.org), Donna Pammer (sdcc.on.ca — Ontario), Matthew Mandell (westportwestonchamber.com — CT), Kenya Calhoun (thomson-mcduffie.gov), Thomas Paden (cantonchamber.com — MI), Tom Rosa (tpimail.org), Jodi Owczarski (westcoastchamber.org — MI).
+- **Helotes call booked:** Kate Silvas + Mayra Adams confirmed Wed Apr 22 @ 10am CT — see [[wiki/orgs/helotes-edc]].
+- **Geographic footprint growing:** Georgia (cluster), Michigan (cluster), Mississippi, Connecticut, Ontario, Texas (Helotes). Breakup cadence running in parallel with narrative-pitch cadence is the first deliberate A/B signal in the campaign.
+
 ## April 2026 — Best Month Update (from Teams chats)
 
 **"We are having the best month in our existence!!!"** — Andres, Apr 9

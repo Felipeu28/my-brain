@@ -1,6 +1,6 @@
 # MEMORY — Open Actions & Live Commitments
 
-**Last updated:** 2026-04-16 (Run 9 ingestion — email digest Apr 15)
+**Last updated:** 2026-04-17 (Run 10 weekly compile — email digest Apr 16, priority rot cleanup)
 **Purpose:** Single source of truth for open action items extracted from ingested raw sources. Claude Code updates this file during ingestion runs.
 
 > For relationship and concept context, see [[index]]. For ingestion history, see [[log]].
@@ -22,12 +22,6 @@
 ---
 
 ## 🔥 Immediate — This Week (Apr 11–17, 2026)
-
-### Helotes EDC — reply overdue (15+ days)
-Source: [[wiki/orgs/helotes-edc]], [[wiki/people/katherine-silvas]]
-- [ ] **🔥 Respond to Katherine Silvas** — Mar 31 email re: Moil in Helotes incubator plan. Prep Buda EDC case study.
-
-
 
 ### Buda HIVE / EDC
 Source: [[wiki/summaries/buda-hive-edc-2026-04-11]], [[raw/email-digest-2026-04-15]]
@@ -52,9 +46,9 @@ Source: [[wiki/meetings/2026-04-15-teams-daily-ops]]
 - [ ] **Team: test FitLogic prod changes** Andres pushed Apr 15
 - [ ] Complete FitLogic delivery by Friday Apr 18
 
-### Daniel Guadiano / Astra Restaurant — Meeting Thu Apr 16
+### Daniel Guadiano / Astra Restaurant
 Source: [[raw/email-digest-2026-04-14]]
-- [ ] **Schedule meeting with Daniel Guadiano** — Thursday Apr 16 confirmed (was Apr 9 inquiry, reply came Apr 13)
+- [x] ~~Meeting Thu Apr 16~~ (2026-04-16) — log outcome and next step (first hospitality ICP data point).
 
 ### Renee Simmons / Hays CISD — Career Day May 7
 Source: [[raw/email-digest-2026-04-14]]
@@ -88,6 +82,16 @@ Source: [[wiki/summaries/imessages-people-2026-04-09]] (Megan Miller feedback)
 ---
 
 ## 📅 Next 2–3 weeks (Apr 18 – May 2)
+
+### Helotes EDC — Kate Silvas call Wed Apr 22 @ 10am CT
+Source: [[raw/email-digest-2026-04-16]], [[wiki/orgs/helotes-edc]], [[wiki/people/katherine-silvas]]
+- [ ] **Apr 22 @ 10am CT** — Call with Kate Silvas. Lead with Buda EDC case study + per-cohort license model.
+- [ ] Build Buda EDC one-pager (pricing, delivery model, Cohort 4 proof) before call.
+- [ ] Send proposal after call — mirror Buda EDC Incubator Strategist contract.
+
+### Jacob Centeno — referral partnership
+Source: [[raw/email-digest-2026-04-15]], [[wiki/people/jacob-centeno]]
+- [ ] Set up lightweight referral workflow with Jacob Centeno — decide commission/credit model for businesses he sends that need social media + Moil.
 
 ### Travis Sutherland — Sun Show demo
 Source: [[wiki/summaries/imessages-people-2026-04-09]]
@@ -196,4 +200,5 @@ Source: [[wiki/concepts/claude-code]]
 
 ## ✅ Closed / Archive
 
+- [x] **2026-04-17** — Helotes EDC "reply overdue" auto-resolved (weekly compile). Call booked Apr 22 — see "Next 2–3 weeks".
 - [x] **2026-04-14** — Alloy ATX closed ($75/mo). Moil360 naming resolved. Data-quality cleanup done.

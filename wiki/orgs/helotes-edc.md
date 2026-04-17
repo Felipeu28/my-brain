@@ -1,6 +1,6 @@
 ---
-status: warm
-last_contact: 2026-03-31
+status: active
+last_contact: 2026-04-16
 tags:
   - graph/spoke
 owner: "[[wiki/people/katherine-silvas]]"
@@ -8,9 +8,9 @@ owner: "[[wiki/people/katherine-silvas]]"
 # Helotes EDC — Helotes Economic Development Corporation
 
 **Type:** organization
-**Last updated:** 2026-04-15
-**Source:** m365 email thread (10 messages, Feb 19 – Mar 31, 2026)
-**Related:** [[wiki/people/katherine-silvas]], [[wiki/orgs/buda-edc]], [[wiki/moil/pipeline]], [[wiki/moil/gtm]]
+**Last updated:** 2026-04-17
+**Source:** m365 email thread (12+ messages, Feb 19 – Apr 16, 2026)
+**Related:** [[wiki/people/katherine-silvas]], [[wiki/people/mayra-adams]], [[wiki/orgs/buda-edc]], [[wiki/moil/pipeline]], [[wiki/moil/gtm]]
 
 ---
 
@@ -33,6 +33,7 @@ Helotes EDC (Economic Development Corporation, City of Helotes, TX) is an **acti
 | 2026-02-27 | Follow-up meeting booked (9am Thursday) |
 | 2026-03-12 | Kate Silvas & Andrés Urrego — Teams meeting held |
 | 2026-03-31 | Katherine: **"Doing strategic planning on the incubator with my Board, would like to include MOIL as the offering we provide to our clients in the incubator"** — pending response from Andres |
+| 2026-04-16 | Kate acknowledged family hospital context; looped in [[wiki/people/mayra-adams|Mayra Adams]] to schedule. **Call locked: Wed Apr 22 @ 10am CT.** |
 
 ## Why This Matters
 
@@ -43,13 +44,14 @@ This is the **2nd EDC incubator partnership** after Buda EDC. Two incubators in 
 
 ## Next Actions (🔥 pending)
 
-- [ ] **Reply to Mar 31 "Time to chat?" email** — schedule strategic planning conversation with Katherine re: including Moil in the Helotes incubator
-- [ ] Send a proposal modeled on the Buda EDC Incubator Strategist contract
-- [ ] Prepare a reference sheet: Buda HIVE Cohort 4 case study, pricing, delivery model
+- [ ] **Apr 22 @ 10am CT** — call with Kate. Lead with Buda EDC case study; anchor on per-cohort license model.
+- [ ] Send proposal modeled on the Buda EDC Incubator Strategist contract.
+- [ ] Prepare reference one-pager: Buda HIVE Cohort 4 case study, pricing, delivery model.
 
 ## Connections
 
 - [[wiki/people/katherine-silvas]] — CEO / primary contact
+- [[wiki/people/mayra-adams]] — exec secretary (schedule gatekeeper)
 - [[wiki/orgs/buda-edc]] — sibling engagement model
 - [[wiki/moil/pipeline]] — add to warm prospects
 - [[wiki/moil/gtm]] — EDC-as-channel playbook

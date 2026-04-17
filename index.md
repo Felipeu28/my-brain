@@ -1,6 +1,6 @@
 # Moil Brain — Master Index
 
-**Last compiled:** 2026-04-16 (Run 9 — email digest Apr 15: Buda EDC AI-tools call signal + 1 new person) · **Total wiki pages:** 240 · **Raw sources:** 210
+**Last compiled:** 2026-04-17 (Run 10 — weekly compile + email digest Apr 16: Helotes EDC call locked Apr 22 + narrative-pitch template live) · **Total wiki pages:** 241 · **Raw sources:** 211
 
 > **Canonical operating truth lives outside the wiki:** if status or architecture notes here conflict with newer operating reality, use `~/My Brain/CURRENT_STATE.md` first.
 
@@ -13,7 +13,7 @@
 | If you need... | Open |
 |---|---|
 | Daily dashboard | [[wiki/andres/ANDRES]] |
-| **Every client, partner, team member** | [[wiki/moil/directory\|Directory]] |
+| **Every client, partner, team member** | [[wiki/moil/directory|Directory]] |
 | Active client-project-repo map | [[wiki/moil/active-projects]] |
 | Reconciled operating truth | `~/My Brain/CURRENT_STATE.md` |
 | Open actions & deadlines | [[MEMORY]] |
@@ -28,7 +28,7 @@
 | Folder | Count | What's in it |
 |---|---|---|
 | [[wiki/moil/README|moil/]] | 11 | Moil business — positioning, ICP, GTM, customers, competitors, metrics, product roadmap, active-projects |
-| [[wiki/people/README|people/]] | 47 | Personal network — family, friends, customers, collaborators, team |
+| [[wiki/people/README|people/]] | 48 | Personal network — family, friends, customers, collaborators, team |
 | [[wiki/minds/README|minds/]] | 11 | Public AI thought leaders tracked from afar |
 | [[wiki/orgs/README|orgs/]] | 21 | Customer, partner, and prospect organizations |
 | [[wiki/concepts/README|concepts/]] | 35 | Frameworks, mental models, products, programs |

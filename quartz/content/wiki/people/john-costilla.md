@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-15
+last_contact: 2026-04-16
 tags:
   - graph/hub
   - person/personal
@@ -8,8 +8,8 @@ tags:
 # John Costilla
 
 **Type:** person
-**Last updated:** 2026-04-15
-**Source:** [[raw/imessages-people-2026-04-09]], [[raw/email-history-2months-2026-04-12.md]], [[raw/email-digest-2026-04-15]]
+**Last updated:** 2026-04-17
+**Source:** [[raw/imessages-people-2026-04-09]], [[raw/email-history-2months-2026-04-12.md]], [[raw/email-digest-2026-04-15]], [[raw/email-digest-2026-04-16]]
 **Related:** [[wiki/moil/positioning]], [[wiki/orgs/buda-edc]], [[wiki/concepts/buda-hive]], [[wiki/people/joseph-arnke]]
 
 ---
@@ -27,6 +27,8 @@ Also deep in the broader Buda community. Connected socially to [[wiki/orgs/merid
 **"Agentic AI" signal (Apr 10):** John shared a doc titled "Agentic AI" with the note "fyi for always on site selector tool." This signals interest in AI tooling for EDC use cases — could be a product expansion opportunity for Moil within the EDC.
 
 **EDC AI tools call (Apr 15):** John emailed Andres ("Call today") about an EDC website call and asked [[wiki/people/joseph-arnke|Joseph Arnke]] (GIS WebTech) to add Andres to the invite — "wants him to join call to share AI tools approach for EDC website." Directly follows through on the Apr 10 "Agentic AI" signal.
+
+**EDO professional-association forward (Apr 16):** John forwarded Andres Katie Milton Jordan's note on "The professional association EDO pros need" (cost/value assessment). Signal that John is scanning EDO-industry orgs Moil should be aware of for positioning.
 
 Andres organized a community event (late March) — John asked about bringing a table: "Do we need to bring table?" → Andres: "No you don't. Final details email coming out today!!"
 

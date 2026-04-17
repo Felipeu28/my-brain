@@ -8,8 +8,8 @@ tags:
 # Jesutomilola Omoniyi
 
 **Type:** person
-**Last updated:** 2026-04-15
-**Source:** [[raw/email-history-2months-2026-04-12]], [[raw/email-digest-2026-04-15]]
+**Last updated:** 2026-04-17
+**Source:** [[raw/email-history-2months-2026-04-12]], [[raw/email-digest-2026-04-15]], [[raw/email-digest-2026-04-16]]
 **Related:** [[wiki/moil/gtm]], [[wiki/moil/product-roadmap]]
 
 ---

@@ -696,3 +696,31 @@ These were flagged from Aug 2024–May 2025 meeting transcripts ingested Apr 12.
 8. **Tax/personal admin not promoted:** DLC Financial (Austin Duke, Brendan C. Dunaway) tax return + Mariana Rodriguez questionnaire forward — personal admin, no wiki pages created.
 
 **Summary:** Single-file digest run. The highest-signal item is the Buda EDC AI-tools-for-website call — a concrete product-expansion opening that directly extends the existing B2G relationship and, if it lands, replicates as a template. Second-highest: the Google xWF (Jesutomilola) relationship needs a reply to avoid stalling. One new person page (Joseph Arnke), six people updated, two stale "archived" people (John Costilla, Rosemary Gamez) reactivated based on current contact.
+
+---
+
+### [2026-04-17] Run 10 — Weekly compile + email digest Apr 16
+
+**Trigger:** Weekly KB compile. One new raw file detected: `raw/email-digest-2026-04-16.md` (committed Apr 16 by `email-digest` job). Meta-reference file `raw/brain-knowledge-layer-analysis.md` also noted; no wiki content ingested — superseded by existing [[wiki/concepts/llm-knowledge-bases]] and [[wiki/concepts/brain-architecture]].
+
+- **File:** raw/email-digest-2026-04-16.md
+  - **Type:** email-digest (24-hour window, Apr 15–16)
+  - **Pages created:** [[wiki/people/mayra-adams]] (Helotes EDC exec secretary / schedule gatekeeper)
+  - **Pages updated:** [[wiki/people/katherine-silvas]] (call locked Wed Apr 22 @ 10am CT; status warm → active), [[wiki/orgs/helotes-edc]] (Apr 22 call added to engagement timeline; status warm → active), [[wiki/people/john-costilla]] (Apr 16 EDO professional-association forward from Katie Milton Jordan), [[wiki/people/jesutomilola-omoniyi]] (source ref added; reply still overdue), [[wiki/people/jacob-centeno]] (last_contact bump), [[wiki/moil/gtm]] (Apr 16 single-day outbound: ~25 emails across narrative-pitch template + second breakup wave; GA/MI/MS/CT/ON/TX clusters), [[MEMORY]] (Helotes "reply overdue" auto-resolved + Apr 22 call action moved to Next 2-3 weeks; Jacob Centeno referral partnership logged; Daniel Guadiano Apr 16 meeting struck), [[index]] (escaped-pipe wikilink fixed: `wiki/moil/directory\|Directory` → `wiki/moil/directory|Directory`)
+
+- **File:** raw/brain-knowledge-layer-analysis.md
+  - **Type:** meta-reference (Brain gap analysis vs Shann Holmberg's two-layer AI Knowledge Layer framing)
+  - **Pages created:** none
+  - **Summary:** Self-reflective gap analysis against @shannholmberg's framework. Maps Brain against four commands (`/wiki-ingest`, `/wiki-query`, `/wiki-explore`, `/wiki-lint`), identifies Web Clipper as the top missing piece, and proposes a morning-ingest automation. Largely superseded by the existing [[wiki/concepts/llm-knowledge-bases]] (Karpathy pattern) + [[wiki/concepts/brain-architecture]]. Content is an improvement roadmap for the Brain itself — not external knowledge to ingest. Logged only.
+
+**Weekly compile outputs:**
+1. **MEMORY.md priority rot cleanup:** Helotes EDC item in "🔥 Immediate — This Week" (Mar 31 date-label, 17 days old → >14-day rule) auto-resolved to Closed/Archive; replaced with Apr 22 call action in "Next 2–3 weeks". Daniel Guadiano Apr 16 meeting struck (past). Jacob Centeno referral partnership added to "Next 2–3 weeks". Last-updated date bumped to 2026-04-17. MEMORY.md now 204 lines (vs 200-line soft cap — trim next compile).
+2. **Wiki freshness audit:** Zero pages with "Last updated" > 60 days AND zero inbound wikilinks. 17 pages lack a "Last updated" field (READMEs, index). No pages tagged `stale: true`.
+3. **Link integrity (index.md):** 54 unique wikilinks scanned. 1 structural break fixed (escaped-pipe on `wiki/moil/directory`). 1 false-positive (`[[wiki/folder/slug]]` example text). All other index.md wikilinks resolve to existing files.
+
+**Key intelligence from Run 10:**
+1. **Helotes EDC call locked:** Wed Apr 22 @ 10am CT. Kate Silvas looped in [[wiki/people/mayra-adams|Mayra Adams]] as scheduler. Second EDC incubator partnership moving from "strategic planning" to concrete proposal.
+2. **Outbound narrative-pitch template now in rotation:** "Something we didn't expect" / "Interesting feedback from an EDC" sequence (Dylan Horne, Ralph Staffins, Stacy Bowerman, Nancy Palmer) running in parallel with breakup cadence — first deliberate A/B signal in the cold campaign.
+3. **Jacob Centeno referral channel = new GTM lane:** Customer-turned-referral-partner confirmed by Apr 16 thank-you reply. First codified customer-as-channel.
+4. **Geographic footprint expanding:** Apr 16 push touched Ontario (Canada), Connecticut, Michigan, Mississippi, Georgia — breakup batch targeting Moil's weakest-engagement regions.
+5. **KB health is strong:** 0 stale orphans across 241 pages. All "Last updated" fields within the last 60 days — the daily digest loop is doing its job.
