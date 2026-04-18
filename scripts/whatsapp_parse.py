@@ -433,12 +433,16 @@ def main() -> None:
     ap.add_argument("file", help="WhatsApp .txt export file")
     ap.add_argument("--kb-dir", default=None, help="KB root (auto-detected if omitted)")
     ap.add_argument("--stdout", action="store_true", help="Print markdown to stdout, skip writing file")
+    ap.add_argument("--check", action="store_true", help="Exit 0 if file is a WhatsApp export, 1 otherwise (no output, no file writes)")
     args = ap.parse_args()
 
     path = Path(args.file).expanduser().resolve()
     if not path.exists():
         print(f"ERROR: File not found: {path}", file=sys.stderr)
         sys.exit(1)
+
+    if args.check:
+        sys.exit(0 if is_whatsapp_export(path) else 1)
 
     # Resolve KB dir
     if args.kb_dir:
