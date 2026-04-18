@@ -18,7 +18,7 @@ tags:
 
 ## Summary
 
-Active personal HTML project. Public repo. Last push 2026-04-09. The `github-repos.yaml` comment suggests possible overlap with KidsGPT concept — family/children-focused content or reading experience.
+Active personal HTML project. Public repo. Last push 2026-04-09. Purpose and target audience not yet documented — needs founder input.
 
 ## Status
 
@@ -28,15 +28,14 @@ Active personal HTML project. Public repo. Last push 2026-04-09. The `github-rep
 
 ## Open Questions
 
-- Is this the KidsGPT idea (referenced in [[wiki/moil/active-projects]] Tier 3)?
 - Is this a commercial product idea or a personal family project?
-- Who is the target audience — Andres's kids specifically or general users?
+- Who is the target audience?
 
-## Possible KidsGPT Overlap
+## Not related to KidsGPT / Luna Brain
 
-`raw/KidsGPT/` contains 3 files (README, implementation-plan, options-analysis) that haven't been fully ingested. It's plausible this repo is the engineering side of that concept. Worth confirming.
+Earlier versions of this page flagged possible overlap with `raw/KidsGPT/`. Those planning docs were ingested 2026-04-17 into [[wiki/projects/lunabella|Lunabella (Luna Brain)]] — a separate TypeScript repo (`Felipeu28/Lunabella`). Magical Reading Adventures is a distinct HTML project.
 
 ## Connections
 
 - [[wiki/projects/README]] — personal projects index
-- `raw/KidsGPT/` — possibly related design/planning files
+- [[wiki/projects/lunabella]] — the family-AI project previously conflated with this repo

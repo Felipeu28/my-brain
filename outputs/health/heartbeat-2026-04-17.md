@@ -1,16 +1,16 @@
 # Brain Heartbeat — 2026-04-17
 
-**Generated:** 2026-04-17 14:09 CDT
+**Generated:** 2026-04-17 15:46 CDT
 
 ## Artifacts
 
 | Check | Artifact | Age (hours) | Status | Signal |
 |---|---|---:|---|---|
 | Morning briefing | `/Users/jarvisurrego/My Brain/knowledge-base/outputs/briefing-2026-04-17.md` | missing | missing | attention needed |
-| Weekly pulse | `none` | missing | missing | no log |
-| Content calendar | `/Users/jarvisurrego/My Brain/knowledge-base/outputs/content-calendar/calendar-2026-W16.md` | 101 | healthy | clean |
-| Teams ingest source | `/Users/jarvisurrego/My Brain/knowledge-base/raw/teams-transcript-roxana-andres-2026-04-14.md` | 54 | warning | attention needed |
-| Chroma index | `/Users/jarvisurrego/My Brain/pi-workspace/.chroma-data/last_indexed.txt` | 0 | healthy | attention needed |
+| Weekly pulse | `none` | missing | missing | clean |
+| Content calendar | `/Users/jarvisurrego/My Brain/knowledge-base/outputs/content-calendar/calendar-2026-W16.md` | 102 | healthy | clean |
+| Teams ingest source | `/Users/jarvisurrego/My Brain/knowledge-base/raw/teams-transcript-roxana-andres-2026-04-14.md` | 55 | stale | attention needed |
+| Chroma index | `/Users/jarvisurrego/My Brain/pi-workspace/.chroma-data/last_indexed.txt` | 1 | healthy | attention needed |
 
 ## Notes
 

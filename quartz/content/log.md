@@ -19,6 +19,33 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ## Log Entries
 
+### [2026-04-18] Run 12 — Batch ingestion of 12 raw sources
+
+**Trigger:** Manual ingestion request. 12 files in raw/ lacked `ingested: true`.
+
+| File | Type | Action |
+|---|---|---|
+| `buda-hive-edc-2026-04-11.md` | program-doc | Marked ingested — full intel already captured in [[wiki/summaries/buda-hive-edc-2026-04-11]], [[wiki/people/jennifer-storm]], [[wiki/orgs/buda-edc]] |
+| `buda-hive-edс-2026-04-09.md` (Cyrillic) | program-doc | Marked ingested — superseded by Apr 11 version; stub at [[wiki/summaries/buda-hive-edc-2026-04-09]] |
+| `compile-2026-04-17.md` | compile-report | Marked ingested — Run 10 meta-report, already applied to wiki |
+| `facebook-pages-2026-04-09.md` | social | Marked ingested — data already sourced in [[wiki/concepts/moil360]], [[wiki/people/mariana-rodriguez]], [[wiki/summaries/facebook-pages-2026-04-09]] |
+| `github-project-tracker.md` | note | Marked ingested — already summarized at [[wiki/summaries/github-project-tracker]] |
+| `imessages-people-2026-04-09.md` | email | Marked ingested — **created** [[wiki/people/ingrid-spiritto]] (mother-in-law, net-new); other contacts already had pages |
+| `know-me-extraction-prompts.md` | reference | Marked ingested — meta methodology doc, no wiki pages warranted |
+| `moil-documents-2026-04-09.md` | note | Marked ingested — **updated** [[wiki/moil/positioning]] with competitor table + ARR financial baseline |
+| `moilapp-website-2026-04-09.md` | note | Marked ingested — already sourced in [[wiki/moil/positioning]] and [[wiki/concepts/moil360]] |
+| `outlook-emails-2026-04-09.md` | email | Marked ingested — already summarized at [[wiki/summaries/outlook-emails-2026-04-09]] |
+| `x-bookmarks-2026-04-11 copy.md` | bookmark | Marked ingested — deep-compiled in prior run (16 concept pages + 5 minds pages) |
+| `x-bookmarks-2026-04-11.md` | bookmark | Marked ingested — cross-referenced in prior run |
+
+**Pages created (2):** [[wiki/people/ingrid-spiritto]], [[wiki/concepts/fantelo]] (redirect stub → [[wiki/projects/fantelo]])
+
+**Pages updated (2):** [[wiki/moil/positioning]] (competitor table + ARR targets), [[index]] (stats + header)
+
+**Summary:** Most of these 12 files had already been ingested into wiki pages in earlier runs but lacked the `ingested: true` frontmatter stamp. Net-new content: one new person page (Ingrid Spiritto, mother-in-law) and competitor/financial intelligence added to positioning.
+
+---
+
 ### [2026-04-11] First Full Compilation — Batch Ingestion
 
 **Trigger:** Andres asked to kick off the Brain. Run in Claude Cowork (direct file access).
@@ -724,3 +751,52 @@ These were flagged from Aug 2024–May 2025 meeting transcripts ingested Apr 12.
 3. **Jacob Centeno referral channel = new GTM lane:** Customer-turned-referral-partner confirmed by Apr 16 thank-you reply. First codified customer-as-channel.
 4. **Geographic footprint expanding:** Apr 16 push touched Ontario (Canada), Connecticut, Michigan, Mississippi, Georgia — breakup batch targeting Moil's weakest-engagement regions.
 5. **KB health is strong:** 0 stale orphans across 241 pages. All "Last updated" fields within the last 60 days — the daily digest loop is doing its job.
+
+---
+
+### [2026-04-17] Run 11 — KidsGPT / Luna Brain planning docs
+
+**Trigger:** Automated scan for unprocessed raw files. Found 3 unprocessed files in `raw/KidsGPT/` (planning docs for Andres's personal family-AI project — flagged in [[wiki/projects/magical-reading-adventures]] as unpromoted) plus 10 `.txt` files in `raw/onedrive-transcripts/` that are actually binary MP4 recordings misnamed with `.txt` extension (not ingestible as text; skipped and logged below).
+
+**Files processed:**
+
+- **raw/KidsGPT/README.md** (1.4 KB) — Luna Brain one-pager
+- **raw/KidsGPT/options-analysis.md** (6.8 KB) — Five architecture options for the family-AI companion
+- **raw/KidsGPT/implementation-plan.md** (23 KB) — Full phased build plan (Weeks 1–7+), Supabase schema, system prompts, cost model
+
+All three frontmatters marked `ingested: true` / `ingested_at: 2026-04-17`.
+
+**Pages created (1):**
+- [[wiki/summaries/kidsgpt-planning-2026-04]] — structured summary of the three planning docs
+
+**Pages updated (3):**
+- [[wiki/projects/lunabella]] — replaced the one-paragraph stub with full Luna Brain project page (architecture, naming ceremony, bilingual design, safety model, phase roadmap, cost model, Supabase schema, curriculum intelligence — all sourced from `raw/KidsGPT/`). Confirmed `Felipeu28/Lunabella` GitHub repo = the Luna Brain engineering surface ("Lunabella" = Luna + Annabella)
+- [[wiki/projects/magical-reading-adventures]] — closed the "is this KidsGPT?" open question; now links forward to [[wiki/projects/lunabella]] as the destination of the KidsGPT concept
+- [[wiki/moil/active-projects]] — Tier 3 row updated: "KidsGPT concept / Raw files not yet promoted" → "Luna Brain (Lunabella) / Phase 1 building"
+
+**Key intelligence:**
+1. **Luna Brain is one app, two profiles** — Annabella (age 7) and Evie (age 5), each with separate brains, separate Lunas, separate curricula. Not a prototype — per-profile scoping is baked into the Supabase schema from Day 1.
+2. **Stack locked:** React/Vite + Fastify + Supabase + Claude `claude-sonnet-4-6` + ElevenLabs + ntfy.sh + Resend. Deploys on Vercel (frontend) + Railway (API). iPad-first portrait.
+3. **Architectural parallel to the Moil Brain:** Same two-layer memory model — episodic transcripts → semantic knowledge graph. End-of-conversation ingestion (not per-message) mirrors how the Moil Brain ingests raw sources.
+4. **Safety model uses Claude specifically** because it carries a Minimal Risk rating for kids (vs GPT's High Risk per the options-analysis). Hard-block topics route to "ask your parents" and push-notify Andres via ntfy.sh within 60s.
+5. **Bilingual (EN + ES) is foundational, not bolt-on** — system prompt auto-detects language, code-switches naturally, brain-node schema has `label_en` + `label_es` with topic collapsing ("espacio" = "space" = same node). "Practice Spanish" parent override planned.
+6. **Curriculum intelligence (Phase 4, Weeks 5–6)** is the most distinctive feature — Andres uploads the school curriculum PDF once per school year per profile, Claude parses it to structured JSON, Luna's system prompt gets a confidential reference block, parent dashboard gains a coverage map + gap prompts ("Try asking Luna about multiplication — Annabella hasn't touched it yet"). School-year-end report visualizes natural curiosity vs. required curriculum.
+7. **Cost model:** ~$15–20/month. Fits comfortably inside Andres's existing Anthropic billing.
+8. **Status as of 2026-04-15:** `Felipeu28/Lunabella` TypeScript repo is active, last push 2026-04-15. Planning phase is complete. Next unblocks: Supabase project creation, ElevenLabs API key, domain decision.
+
+**Skipped files (unprocessable):**
+
+- `raw/onedrive-transcripts/kim-dowers-intro-call-2026-02-09.txt` (685 KB)
+- `raw/onedrive-transcripts/life-after-cohort-moil-2026-02-10.txt` (9.1 MB)
+- `raw/onedrive-transcripts/life-after-cohort-moil-2026-02-13.txt` (25 MB)
+- `raw/onedrive-transcripts/moil-marketing-call-2026-03-11.txt` (1.4 MB)
+- `raw/onedrive-transcripts/moil-team-meeting-2026-01-29.txt` (4.8 MB)
+- `raw/onedrive-transcripts/moil-team-meeting-2026-03-27.txt` (6.3 MB)
+- `raw/onedrive-transcripts/rashaka-boykins-intro-call-2026-02-27.txt` (1.4 MB)
+- `raw/onedrive-transcripts/rashaka-boykins-intro-call-2026-03-05.txt` (1.5 MB)
+- `raw/onedrive-transcripts/roxana-esquivel-intro-call-2026-03-13.txt` (4.7 MB)
+- `raw/onedrive-transcripts/travis-&-andres-moil360-2026-04-09.txt` (1.5 MB)
+
+All 10 files have MP4 `ftypisom` binary headers — they are raw video recordings from OneDrive that were misnamed with a `.txt` extension, not textual transcripts. Cannot be ingested as-is. **Recommended action:** either run them through Groq Whisper / the `scripts/teams_pull.py` style pipeline to produce actual `.md` transcripts before re-dropping, or rename to `.mp4` and move them outside `raw/` (they don't belong in a text-ingestion directory).
+
+**Summary:** Run 11 promoted the long-flagged `raw/KidsGPT/` files into the wiki as a first-class personal project ([[wiki/projects/lunabella|Lunabella]]). Two cross-page open questions closed in the process (magical-reading-adventures's "is this KidsGPT?" and active-projects.md's "raw files not yet promoted"). Also surfaced a raw/ hygiene issue — 10 binary MP4 files pretending to be `.txt` transcripts in onedrive-transcripts/ need to be either transcribed or moved out of the raw/ directory.

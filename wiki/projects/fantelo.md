@@ -43,3 +43,4 @@ Two brands on the same personal Facebook (AIbyAndres lists "Also associated with
 - [[wiki/moil/positioning]] — potential positioning interaction
 - [[wiki/summaries/github-project-tracker]] — active-code signal
 - [[wiki/summaries/facebook-pages-2026-04-09]] — public surface mention
+- [[wiki/concepts/fantelo]] — redirect stub (concepts/ alias)

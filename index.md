@@ -1,6 +1,6 @@
 # Moil Brain — Master Index
 
-**Last compiled:** 2026-04-17 (Run 10 — weekly compile + email digest Apr 16: Helotes EDC call locked Apr 22 + narrative-pitch template live) · **Total wiki pages:** 241 · **Raw sources:** 211
+**Last compiled:** 2026-04-18 (Run 12 — batch ingestion of 12 raw sources; +2 new pages; competitor table + financial metrics added to positioning) · **Total wiki pages:** 244 · **Raw sources:** 212
 
 > **Canonical operating truth lives outside the wiki:** if status or architecture notes here conflict with newer operating reality, use `~/My Brain/CURRENT_STATE.md` first.
 
@@ -33,7 +33,7 @@
 | [[wiki/orgs/README|orgs/]] | 21 | Customer, partner, and prospect organizations |
 | [[wiki/concepts/README|concepts/]] | 35 | Frameworks, mental models, products, programs |
 | [[wiki/radar/README|radar/]] | 2 | Append-only changelogs for fast-moving topics |
-| [[wiki/summaries/README|summaries/]] | 17 | One structured summary per raw source |
+| [[wiki/summaries/README|summaries/]] | 18 | One structured summary per raw source |
 | [[wiki/meetings/README|meetings/]] | 56 | Meeting records + async threads — decisions and action items |
 
 See also: [[wiki/meetings/historical-transcripts-index]] — raw transcripts not yet promoted to structured pages (24 transcripts catalogued, 7 previously-orphan meeting pages linked).
@@ -92,16 +92,16 @@ See also: [[wiki/meetings/historical-transcripts-index]] — raw transcripts not
 | Category | Count | Notes |
 |---|---|---|
 | Moil business | 7 | product-roadmap, gtm, customers updated with Run 4 client links + GitHub repos |
-| People (network) | 47 | +2 from Run 8: renee-simmons (Hays CISD Career Day), adam-maxon (Pflugerville Mentor Day) |
+| People (network) | 48 | +1 from Run 12: ingrid-spiritto (mother-in-law, from iMessages) |
 | Minds (thinkers) | 10 | from X bookmarks deep compile |
 | Orgs (customer/partner) | 14 | +2 from Run 6: echo-squad (new) + buda-edc (expanded) |
-| Concepts | 36 | +1 from Run 8: seo-implementation-plan (moilapp.com 4-phase SEO roadmap) |
+| Concepts | 37 | +1 from Run 12: fantelo redirect stub (→ wiki/projects/fantelo) |
 | Meetings | 42 | +1 from Run 8: 2026-04-15-teams-daily-ops (API cost crisis + license push) |
 | Radar (changelogs) | 1 | Claude Code changelog |
 | Summaries | 16 | |
 | Folder READMEs | 9 | |
-| **Total wiki files** | **~213** | +4 new pages from Run 6 + 8 pages updated |
-| Raw sources ingested | 91/91 | Run 6: +12 HIVE/client files + email history backfill |
+| **Total wiki files** | **~244** | +2 new pages from Run 12 |
+| Raw sources ingested | 212 total | Run 12: 12 sources marked ingested (most were pre-processed) |
 
 **OneDrive Full Transcripts ingestion completed 2026-04-12 (Run 2):**
 - 25 full transcript files processed (raw/meetings/transcript-* format)

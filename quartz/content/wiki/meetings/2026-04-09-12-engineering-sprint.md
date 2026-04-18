@@ -69,4 +69,4 @@ Andres uses Claude Code to prototype features, shares session links with Adeleke
 
 - `supabase functions deploy business-intake` — required from Business-plan-Staging/ to go live
 - `supabase-migration-011.sql` — needs to run in Supabase SQL editor for Meridian
-- Gemini API key shared directly in Teams chat for Taiwo: `AIzaSyCsCBv-NooHJuYY3V8jmrnCt5rluAc6WO4` (model: `gemini-3-flash-preview`)
+- Gemini API key shared directly in Teams chat for Taiwo: `[REDACTED_GEMINI_KEY]` (model: `gemini-3-flash-preview`)

@@ -80,8 +80,29 @@ The pivot narrative from meetings is crucial for understanding the current produ
 - Moil as a "toolbox" and "AI co-pilot" for job seekers and SMBs
 - Cyclical product loop: Resume → Digital presence → Interview prep → Job search → Business tools
 
+## Direct competitors (from Mar 2026 business plan)
+
+| Competitor | Category | Strengths | Weaknesses | Moil's counter |
+|---|---|---|---|---|
+| Indeed | Hiring platform | Large reach, brand trust | High cost per hire, no business tools | Moil: $850 CpH vs $2,400; includes biz plan + content |
+| ZipRecruiter | Hiring platform | User-friendly UI | Higher competition, no content/planning | Moil: bilingual + 10+ platforms + smart matching |
+| Hootsuite | Marketing/social | Comprehensive social tool | Complexity, no hiring, no biz planning | Moil: full stack for SMBs, not just social |
+| ChatGPT | AI writing | Flexibility | No business context, not SMB-native | Moil: builds on 21-question business DNA |
+| LivePlan | Business planning | Industry-specific templates | Limited scope (no hiring/marketing), high cost | Moil: plan is one output of a full platform |
+
+## Financial baseline (Mar 2026)
+
+| Metric | Current (Mar 2026) | Target (End of 2027) | Target (2028) |
+|---|---|---|---|
+| ARR | $72K–$96K | $300K–$400K | $750K–$1M |
+| Active businesses | 500+ | 1,200–1,500 | 2,500–3,000 |
+| Monthly churn | ~5% | 4% | 3% |
+| Est. CAC | ~$250 | — | — |
+| Payback period | ~1.67 months | — | — |
+| Marketing budget | $5K/month | — | — |
+
 ## Last reviewed
 
-- Date: 2026-04-12
-- By: Claude (compiled from business plan, website, raw intel, and 25 meeting transcripts)
+- Date: 2026-04-18
+- By: Claude (updated with competitor table + financial baseline from Mar 2026 business plan)
 - Next review: 2026-07-01

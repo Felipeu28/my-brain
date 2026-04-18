@@ -1,5 +1,7 @@
 ---
 type: note
+ingested: true
+ingested_at: 2026-04-17
 ---
 
 # Luna Brain — Annabella's Personal AI Friend

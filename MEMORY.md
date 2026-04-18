@@ -46,10 +46,6 @@ Source: [[wiki/meetings/2026-04-15-teams-daily-ops]]
 - [ ] **Team: test FitLogic prod changes** Andres pushed Apr 15
 - [ ] Complete FitLogic delivery by Friday Apr 18
 
-### Daniel Guadiano / Astra Restaurant
-Source: [[raw/email-digest-2026-04-14]]
-- [x] ~~Meeting Thu Apr 16~~ (2026-04-16) — log outcome and next step (first hospitality ICP data point).
-
 ### Renee Simmons / Hays CISD — Career Day May 7
 Source: [[raw/email-digest-2026-04-14]]
 - [ ] **May 7 — Career Day presentation** at CHES, ~20 min to 4th/5th graders. Prep kid-friendly entrepreneurship talk. See [[wiki/people/renee-simmons]]
@@ -98,8 +94,7 @@ Source: [[wiki/summaries/imessages-people-2026-04-09]]
 - [ ] **Apr 24 · 7–9pm** — Moil demo booth at the Sun Show. Set up screen + flyers. Confirm logistics with Travis.
 
 ### Daniel Guadiano — Astra Restaurant
-Source: [[wiki/summaries/outlook-emails-2026-04-09]], [[raw/email-digest-2026-04-14]]
-- [x] ~~Reply to Daniel (Apr 9 inquiry)~~ (2026-04-15) — Daniel replied: Thursday Apr 16 works. Meeting scheduled.
+Source: [[wiki/summaries/outlook-emails-2026-04-09]], [[wiki/people/daniel-guadiano]]
 - [ ] If it closes, write a restaurant case study — first hospitality ICP data point.
 
 ### Mark Polanco — Airtable access
@@ -200,5 +195,6 @@ Source: [[wiki/concepts/claude-code]]
 
 ## ✅ Closed / Archive
 
+- [x] **2026-04-18** — Daniel Guadiano / Astra — Apr 16 meeting held; case study pending if deal closes.
 - [x] **2026-04-17** — Helotes EDC "reply overdue" auto-resolved (weekly compile). Call booked Apr 22 — see "Next 2–3 weeks".
 - [x] **2026-04-14** — Alloy ATX closed ($75/mo). Moil360 naming resolved. Data-quality cleanup done.

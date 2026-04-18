@@ -1,5 +1,7 @@
 ---
 type: program-doc
+ingested: true
+ingested_at: 2026-04-18
 ---
 
 # Buda HIVE & Buda EDC — Full Intelligence File

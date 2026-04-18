@@ -1,5 +1,7 @@
 ---
 type: bookmark
+ingested: true
+ingested_at: 2026-04-18
 ---
 
 # X Bookmarks — Week of Mar 28 – Apr 10, 2026

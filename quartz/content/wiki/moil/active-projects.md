@@ -47,7 +47,7 @@ tags:
 | Project | Repo | Status |
 |---------|------|--------|
 | Brain (this system) | `Felipeu28/pi-workspace` | 10 launchd automations running |
-| KidsGPT concept | `raw/KidsGPT/` + possibly [[wiki/projects/magical-reading-adventures]] | Raw files not yet promoted |
+| [[wiki/projects/lunabella|Luna Brain (Lunabella)]] | `Felipeu28/Lunabella` | Phase 1 building — see [[wiki/summaries/kidsgpt-planning-2026-04]] |
 
 ## Tier 4 — Warm prospects (in pipeline, not yet paying)
 
