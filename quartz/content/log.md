@@ -19,6 +19,28 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ## Log Entries
 
+### [2026-04-18] Run 13 — Teams Daily Ops Apr 17–18
+
+**Trigger:** Automated scan for unprocessed raw files. One new file: `raw/teams-2026-04-18.md` (committed Apr 18 by `teams-daily` job, 51 messages across 4 threads).
+
+- **File:** raw/teams-2026-04-18.md
+  - **Type:** team-communications (51 messages, Apr 17–18 weekend end-of-week review)
+  - **Pages created:** [[wiki/meetings/2026-04-18-teams-daily-ops]]
+  - **Pages updated:** [[wiki/people/jacob-oluwole]] (Business Coach bug + Alloy invite late + Connectex slipped), [[wiki/people/adeleke-tolulope]] (Claude Code audit session review assigned), [[wiki/people/taiwo-ola-balogun]] (demo prompt context + time-zone boundary), [[wiki/people/abiodun-solomon]] (next-week content deadline Apr 19 + rhythm miscommunication), [[MEMORY]] (new Apr 18–24 week block; trimmed to 200 lines), [[index]] (stats refreshed: 245 pages / 213 raw sources / 57 meetings)
+  - **Summary:** End-of-week delivery-pace escalation. Andres repeatedly called out that only 2 of 6 active projects (Meridian + FitLogic) were tested this week — Connectex still untouched despite top-priority label. Business Coach bug flagged (not responding — blocks Jacob's own testing loop). Jacob sent Alloy ATX Moil 360 invite Apr 18 (3 days late vs. Apr 15 push). Taiwo raised first explicit time-zone boundary ("not 11pm / 2am my time"). Abiodun pushed back on content rhythm expectations — deadline set for Sun Apr 19 on next-week Moil + Inna content. Andres flagged architectural regression: current app no longer uses business plan as the single source of truth the prior version did.
+
+**Key intelligence from Run 13:**
+1. **Delivery pace is the #1 tension this week.** Direct Andres quotes: "WE ARE VERY BEHIND" / "It's taken us a full week to test 4 projects I built in one week!" / "Did everyone take yesterday off?"
+2. **Business Coach is broken in prod** — Jacob couldn't get it to respond. This is the same product Jacob praised ("came out nice") on Apr 15 — regression between Apr 15 and Apr 18.
+3. **Moil 360 activation dashboard is live** — partners' dashboard shows when they have activated their license (new product signal, not previously documented).
+4. **First time-zone pushback from Nigeria team.** Taiwo's explicit ask to move delivery calls off 11pm/2am his local time is a new scheduling constraint — Andres acknowledged and repeated it to the team.
+5. **Architectural regression surfaced.** Andres: "if you look at the previous code the application used a source of truth (business plan) to basically do everything!" — implicit rebuild ask sitting with engineering. May be related to the demo that Taiwo said was "messed up" (context was defined in Lovable, can't replicate in current stack).
+6. **Content rhythm shift proposed.** Tuesday push / Sunday review — Andres wants cushion ahead, Abiodun questioned whether that means daily submission or weekly batch. Miscommunication around "less fees" (Andres later said he meant "ideas").
+7. **Andres ran a Claude Code audit on a different project** (session `session_01PP9t1m41A2snaRRACs3TNs`) and asked Adeleke to review — extends the pattern of Andres handing off Claude Code sessions to Adeleke for verification.
+8. **Connectex is the biggest neglected account.** Jacob named it unprompted as "one of top priorities that we have not looked at" — already a paying customer per earlier runs, and the client contact (Mark Polanco) is on the Moil 360 license list.
+
+---
+
 ### [2026-04-18] Run 12 — Batch ingestion of 12 raw sources
 
 **Trigger:** Manual ingestion request. 12 files in raw/ lacked `ingested: true`.

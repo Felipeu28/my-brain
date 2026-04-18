@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-15
+last_contact: 2026-04-18
 tags:
   - graph/spoke
   - person/team
@@ -8,8 +8,8 @@ tags:
 # Taiwo Ola-Balogun
 
 **Type:** person
-**Last updated:** 2026-04-15
-**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026)
+**Last updated:** 2026-04-18
+**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026)
 **Related:** [[wiki/people/adeleke-tolulope]], [[wiki/people/jacob-oluwole]], [[wiki/moil/product-roadmap]]
 
 ---
@@ -99,6 +99,15 @@ Source: [[raw/teams-2026-04-15]]
 - Tested FitLogic changes after Andres pushed to prod.
 
 See [[wiki/meetings/2026-04-15-teams-daily-ops]].
+
+## April 18, 2026 — Demo Fix + Time-Zone Boundary
+
+Source: [[raw/teams-2026-04-18]]
+
+- **Demo "messed up" post-mortem.** Taiwo acknowledged "we 'messed up' the demo" and asked Andres for better business-specific context to add to prompts to generate desirable results. The original context was defined in Lovable and Taiwo couldn't replicate it using the same prompts in the current stack. Andres clarified: the previous code used the business plan as a single source of truth driving everything — current build has regressed from that pattern.
+- **Time-zone boundary raised.** First explicit request for scheduling accommodation: "Please setup delivery calls for projects that are not at 11pm or 2am my time! That way we can actually go through the projects before my meetings." Andres acknowledged and echoed the ask to the team.
+
+See [[wiki/meetings/2026-04-18-teams-daily-ops]].
 
 ## Gaps
 

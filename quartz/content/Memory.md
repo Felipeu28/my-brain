@@ -1,6 +1,6 @@
 # MEMORY — Open Actions & Live Commitments
 
-**Last updated:** 2026-04-17 (Run 10 weekly compile — email digest Apr 16, priority rot cleanup)
+**Last updated:** 2026-04-18 (Run 13 — Teams digest Apr 17–18: delivery-pace escalation, Business Coach bug, Connectex slipped)
 **Purpose:** Single source of truth for open action items extracted from ingested raw sources. Claude Code updates this file during ingestion runs.
 
 > For relationship and concept context, see [[index]]. For ingestion history, see [[log]].
@@ -21,30 +21,36 @@
 
 ---
 
-## 🔥 Immediate — This Week (Apr 11–17, 2026)
+## 🔥 Immediate — This Week (Apr 18–24, 2026)
+
+### Delivery-pace escalation — from Teams Apr 17–18
+Source: [[wiki/meetings/2026-04-18-teams-daily-ops]]
+- [ ] **Jacob: fix Business Coach "not responding" bug** — blocked his own testing loop Apr 18
+- [ ] **Jacob: start Connectex** — flagged as top priority that slipped past the week's focus on Meridian + FitLogic
+- [ ] **Jacob: send follow-up emails** to Moil 360 license recipients who have NOT activated
+- [ ] **Adeleke: review Claude Code audit session** (`session_01PP9t1m41A2snaRRACs3TNs`) — verify nothing broken; revert if so
+- [ ] **Taiwo: rework demo prompt context** — ask Andres for business-specific context (prior version drove everything from business plan as single source of truth)
+- [ ] **Taiwo / Andres: reschedule delivery calls** to reasonable hours in Taiwo's time zone (not 11pm / 2am local)
+- [ ] **Abiodun: deliver next week's Moil + Inna content by Sun Apr 19** (Andres explicit deadline)
+- [ ] **Abiodun + Andres: align on content rhythm** — Tuesday push / Sunday review (cushion ahead), not trickled daily
+- [ ] **Andres: fix architectural regression** — current app no longer uses business plan as single source of truth the way the prior version did
+
+## 🔥 Carried over from last week (Apr 11–17, 2026)
 
 ### Buda HIVE / EDC
 Source: [[wiki/summaries/buda-hive-edc-2026-04-11]], [[raw/email-digest-2026-04-15]]
-- [ ] **Apr 15** — EDC Board vote on contracts (awaiting result).
-- [ ] **🔥 EDC AI-tools-for-website call** — John Costilla + [[wiki/people/joseph-arnke|Joe Arnke]] (GIS WebTech) added Andres to call re: Moil AI → EDC site-selector. See [[wiki/orgs/buda-edc]].
+- [ ] **🔥 EDC AI-tools-for-website call** — John Costilla + [[wiki/people/joseph-arnke|Joe Arnke]] (GIS WebTech) re: Moil AI → EDC site-selector. See [[wiki/orgs/buda-edc]].
 - [ ] **Apr 20 → Jun 8** — Cohort 4 begins (every Monday). Prep materials. Casey Earley is participant.
 
 ### API Spend Crisis — URGENT
 Source: [[wiki/meetings/2026-04-15-teams-daily-ops]]
-- [ ] **🔥 Adeleke: audit entire Moil codebase** for OpenAI API usage. Find all gpt-4o calls, switch to gpt-5-mini. Token refill went from monthly to 3x/week.
+- [ ] **🔥 Adeleke: audit entire Moil codebase** for OpenAI API usage; migrate gpt-4o → gpt-5-mini (token refill went monthly → 3x/week)
 - [ ] Rotate API keys after audit complete
-- [ ] Resolve Claude Code access contention (4 simultaneous users causing issues — Jacob asked to log out)
 
-### Moil 360 License Distribution — Apr 15
-Source: [[wiki/meetings/2026-04-15-teams-daily-ops]]
-- [ ] **Jacob: verify all 5 license invitations sent** — Megan Miller, Mark Polanco, Becky Torres, Roxana Yglesias, Jill/PureSerenity
+### Moil 360 License Distribution — rolling
+Source: [[wiki/meetings/2026-04-15-teams-daily-ops]], [[wiki/meetings/2026-04-18-teams-daily-ops]]
+- [ ] **Jacob: verify activation status** for Megan Miller, Mark Polanco, Becky Torres, Roxana Yglesias, Jill/PureSerenity, Alloy ATX (invite finally sent Apr 18)
 - [ ] Draft individual onboarding emails to each new license holder
-
-### FitLogic — Deadline Friday Apr 18
-Source: [[wiki/meetings/2026-04-15-teams-daily-ops]]
-- [ ] **Taiwo: get FitLogic Supabase access** (project moved from Lovable to Claude)
-- [ ] **Team: test FitLogic prod changes** Andres pushed Apr 15
-- [ ] Complete FitLogic delivery by Friday Apr 18
 
 ### Renee Simmons / Hays CISD — Career Day May 7
 Source: [[raw/email-digest-2026-04-14]]
@@ -113,17 +119,13 @@ Source: [[wiki/summaries/teams-2026-04-12]]
 
 ### Roxana / AlloyATX — onboarded Apr 14
 Source: [[wiki/meetings/2026-04-14-roxana-alloy-atx-onboarding]]
-- [ ] **Apr 15** — Send post-call summary to Roxana
-- [ ] **Apr 18** — Roxana: complete 21 questions + upload assets to Teams + share GoDaddy domains
-- [ ] **ASAP** — Roxana: email Shannon for social media handover
-- [ ] **Next session** — Set up GSC for alloyatx.com; brainstorm satellite landing page domains
-- [ ] **Wellness referrals:** functional medicine + Colombia regenerative contacts — follow up later
+- [ ] Verify Roxana completed 21 questions + uploaded assets + shared GoDaddy domains (Apr 18 deadline)
+- [ ] Next session: set up GSC for alloyatx.com; brainstorm satellite landing page domains; follow up on wellness referrals
 
 ### Deals requiring follow-up
-- [ ] **Connectex:** Invoice sent? Verify payment schedule (3 quarters). What deliverables?
-- [ ] **FitLogic:** Confirm hire. Update job posting (part-time → part-time-to-full-time done by Jacob). Track as customer win
-- [ ] **jilledegs01@gmail.com:** Site deployed (pure-serenity-green.vercel.app). Moil 360 license sent by Jacob. What changes needed?
-- [ ] **Siren Beauty:** Account setup — does she have an account yet? (Jacob asked to check)
+- [ ] **Connectex:** Invoice sent? Verify payment schedule (3 quarters). What deliverables? (Still untouched per Apr 18 Teams)
+- [ ] **jilledegs01@gmail.com / PureSerenity:** Site deployed (pure-serenity-green.vercel.app). Moil 360 license sent by Jacob. What changes needed?
+- [ ] **Siren Beauty:** Verify account setup and Moil 360 activation
 - [ ] **Eden:** Website discovery call recorded Apr 8. Follow up on next steps
 
 ### Product/Engineering — immediate
@@ -135,12 +137,10 @@ Source: [[wiki/meetings/2026-04-14-roxana-alloy-atx-onboarding]]
 - [ ] Phone sign-up: removed (Azure broken) — permanent fix or formal removal
 
 ### Content/Marketing
-- [ ] **Inna May calendar:** Ensure Ablad has it and delivery stays on track
 - [ ] **Video production strategy:** Andres wants daily video — plan using AI tools
 - [ ] **Sun show attendee email:** "Free year of Moil 360" raffle — was it sent?
 
 ### Team management
-- [ ] **Jacob power outage:** 3+ weeks on generator. Monitor output impact.
 - [ ] **Adeleke FB account:** Login code issue since Apr 7. Blocks app review video.
 - [ ] **Microsoft Planner:** Verify team is using it (created Apr 7).
 
@@ -195,6 +195,6 @@ Source: [[wiki/concepts/claude-code]]
 
 ## ✅ Closed / Archive
 
-- [x] **2026-04-18** — Daniel Guadiano / Astra — Apr 16 meeting held; case study pending if deal closes.
-- [x] **2026-04-17** — Helotes EDC "reply overdue" auto-resolved (weekly compile). Call booked Apr 22 — see "Next 2–3 weeks".
-- [x] **2026-04-14** — Alloy ATX closed ($75/mo). Moil360 naming resolved. Data-quality cleanup done.
+- [x] **2026-04-18** — FitLogic Apr 18 deadline passed; Daniel Guadiano Apr 16 meeting held (case study pending if deal closes).
+- [x] **2026-04-17** — Helotes EDC "reply overdue" auto-resolved. Call booked Apr 22.
+- [x] **2026-04-14** — Alloy ATX closed ($75/mo). Moil360 naming resolved.

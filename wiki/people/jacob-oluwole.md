@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-13
+last_contact: 2026-04-18
 tags:
   - graph/hub
   - person/team
@@ -8,8 +8,8 @@ tags:
 # Jacob Oluwole
 
 **Type:** person
-**Last updated:** 2026-04-15
-**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/email-history-2months-2026-04-12]], [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026)
+**Last updated:** 2026-04-18
+**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/email-history-2months-2026-04-12]], [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026)
 **Related:** [[wiki/moil/positioning]], [[wiki/people/adeleke-tolulope]], [[wiki/people/abiodun-solomon]], [[wiki/people/taiwo-ola-balogun]]
 
 ---
@@ -100,6 +100,19 @@ Source: [[raw/teams-2026-04-15]]
 - Confirmed FitLogic job posting was sent
 
 See [[wiki/meetings/2026-04-15-teams-daily-ops]].
+
+## April 18, 2026 — End-of-Week Delivery Review
+
+Source: [[raw/teams-2026-04-18]]
+
+- **Business Coach bug flagged:** Jacob reported "One major bug I encountered was with the business coach not responding." He was also "offline," unable to fully test his own assignments.
+- **Alloy ATX Moil 360 invite sent late:** Jacob acknowledged he missed sending Alloy the Moil 360 invite from the Apr 15 push — sent it Apr 18. Andres frustrated: "I asked to send emails to moil360 to multiple users their one year license!! 🫠"
+- **Confirmed activation dashboard:** Jacob explained that Moil 360 activation will show on the partners' dashboard once they activate.
+- **Connectex still pending:** Jacob named Connectex explicitly as "one of top priorities that we have not looked at" — slipped past the week's focus on Meridian + FitLogic.
+- **Asked Andres for Apr 17 call transcript** — needed for context on a separate project.
+- Pushed Moil updates to prod except Conectex; testing in progress.
+
+See [[wiki/meetings/2026-04-18-teams-daily-ops]].
 
 ## Gaps
 

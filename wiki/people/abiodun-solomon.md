@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-13
+last_contact: 2026-04-18
 tags:
   - graph/spoke
   - person/team
@@ -8,8 +8,8 @@ tags:
 # Abiodun Adekanmi (Ablad)
 
 **Type:** person
-**Last updated:** 2026-04-15
-**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026)
+**Last updated:** 2026-04-18
+**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026)
 **Related:** [[wiki/people/jacob-oluwole]], [[wiki/moil/positioning]], [[wiki/people/inna-benyukhis]]
 
 > **Name correction:** Teams profile shows "Abiodun Adekanmi" — previous meeting transcripts referenced "Abiodun Solomon." The Teams name is authoritative. "Ablad" remains team nickname.
@@ -88,6 +88,17 @@ Source: [[raw/teams-2026-04-15]]
 - Updated Elevate flyers sent (email confirmation Apr 13)
 
 See [[wiki/meetings/2026-04-15-teams-daily-ops]].
+
+## April 18, 2026 — Next-Week Content Deadline + Rhythm Clarification
+
+Source: [[raw/teams-2026-04-18]]
+
+- **Weekly recap delivered:** Abiodun confirmed "Everything for the week was done. I submitted all for Inna on Monday, part for Moil on Monday and sent the last item the video for Moil on Thursday."
+- **Next week's content still pending at week-end:** "Next week content for Moil and Inna are not ready yet. I'll send them tomorrow as requested." → deadline Sun Apr 19.
+- **Rhythm miscommunication surfaced.** Andres pushed for content visibility "every single day." Abiodun pushed back: "If I submit content for the entire week at the beginning of the week, I'll be working on content for the following week. Unless you want me to be sending them in on the go as each one is ready." Andres clarified Sunday he wants a shift to a Tuesday-push / Sunday-review cadence so there's a cushion ahead.
+- **"Fees" terminology confusion:** Andres said "I need to see content and less fees in this group every single day!!" Abiodun replied "I don't understand what you mean by ...content and less fees... every single day. What fees are you talking about please?" Andres later clarified he meant "content and ideas" (typo/autocorrect).
+
+See [[wiki/meetings/2026-04-18-teams-daily-ops]].
 
 ## Gaps
 
