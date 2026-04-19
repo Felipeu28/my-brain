@@ -1,6 +1,6 @@
 # Moil Brain — Master Index
 
-**Last compiled:** 2026-04-18 (Run 13 — Teams digest Apr 17–18: delivery-pace escalation, Business Coach bug, +1 meeting page) · **Total wiki pages:** 245 · **Raw sources:** 213
+**Last compiled:** 2026-04-19 (Run 14 — Email digest Apr 17: Cohort 4 curriculum flowing, 25+ outbound day, 3 meetings held) · **Total wiki pages:** 245 · **Raw sources:** 214
 
 > **Canonical operating truth lives outside the wiki:** if status or architecture notes here conflict with newer operating reality, use `~/My Brain/CURRENT_STATE.md` first.
 

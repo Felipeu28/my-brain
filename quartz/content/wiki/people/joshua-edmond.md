@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-14
+last_contact: 2026-04-17
 tags:
   - graph/spoke
   - person/partner
@@ -8,9 +8,9 @@ tags:
 # Joshua Edmond
 
 **Type:** person
-**Last updated:** 2026-04-15
-**Source:** [[raw/buda-hive-edc-2026-04-11]], [[wiki/meetings/2026-03-12-sosx-buda-hive]]
-**Related:** [[wiki/people/jacquie-martinez]], [[wiki/concepts/buda-hive]], [[wiki/orgs/buda-edc]]
+**Last updated:** 2026-04-19
+**Source:** [[raw/buda-hive-edc-2026-04-11]], [[wiki/meetings/2026-03-12-sosx-buda-hive]], [[raw/email-digest-2026-04-17]]
+**Related:** [[wiki/people/jacquie-martinez]], [[wiki/people/casey-earley]], [[wiki/concepts/buda-hive]], [[wiki/orgs/buda-edc]]
 
 ---
 
@@ -34,6 +34,7 @@ Separate but parallel consulting contracts: FAVE&SAVE LLC (Joshua) and Moil Ente
 - Mar 18, 2026: Joshua sent joint proposal draft to Andres for review
 - Mar 25-26: Updated FAVE&SAVE contract submitted to [[wiki/people/jacquie-martinez|Jacquie Martinez]]
 - Apr 14, 2026: Prep meeting at [[wiki/concepts/buda-hive|Buda HIVE]], 10:30am–12:00pm
+- Apr 17, 2026: Sent Casey Earley updated Weeks 1 & 2 print-outs with Business Model Canvas added to Week 2. Andres shared the Buda HIVE Entrepreneur Program folder with Joshua the same day — active curriculum collaboration ahead of Cohort 4 (Apr 20).
 - Sep 1, 2026: Training program creation deadline (per contract)
 
 ## Added Scope

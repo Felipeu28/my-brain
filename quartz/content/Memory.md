@@ -1,6 +1,6 @@
 # MEMORY — Open Actions & Live Commitments
 
-**Last updated:** 2026-04-18 (Run 13 — Teams digest Apr 17–18: delivery-pace escalation, Business Coach bug, Connectex slipped)
+**Last updated:** 2026-04-19 (Run 14 — Email digest Apr 17: Cohort 4 curriculum flowing, 25+ outbound, tax review pending)
 **Purpose:** Single source of truth for open action items extracted from ingested raw sources. Claude Code updates this file during ingestion runs.
 
 > For relationship and concept context, see [[index]]. For ingestion history, see [[log]].
@@ -71,6 +71,15 @@ Source: [[raw/email-digest-2026-04-14]]
 ### Jesutomilola Omoniyi / Google xWF — reschedule
 Source: [[raw/email-digest-2026-04-15]], [[wiki/people/jesutomilola-omoniyi]]
 - [ ] **Reply to Jesutomilola** — two Apr 15 follow-ups trying to reschedule; offered calendar link and then phone/chat ("email not best way"). Pick a time next week or next month.
+
+### Tax review — DLC Financial
+Source: [[raw/email-digest-2026-04-17]]
+- [ ] **Review 2025 1040** in TaxDome — Melissa Jarbo back from sick leave, created separate TaxDome profile; new secure message from Martin Kutac; Ingrid refund/liability form flagged.
+
+### Buda HIVE Cohort 4 curriculum prep — rolling
+Source: [[raw/email-digest-2026-04-17]]
+- [ ] Review Joshua Edmond's Apr 17 Weeks 1 & 2 print-outs (Business Model Canvas added to Week 2). Confirm with Casey Earley before cohort opens Apr 20.
+- [ ] Confirm edit access to shared Cohort 4 OneDrive folder is being used by the right people (Andres + Joshua + Casey).
 
 ### New Social Media Client (unnamed)
 Source: [[wiki/meetings/2026-04-15-teams-daily-ops]]
@@ -146,15 +155,6 @@ Source: [[wiki/meetings/2026-04-14-roxana-alloy-atx-onboarding]]
 
 ### Security
 - [ ] Migrate credentials out of Teams chat → secure store (1Password/Bitwarden). Stripe keys, Supabase passwords, API keys all in plaintext.
-
----
-
-## 🎯 Monthly — Brain System hygiene
-
-Source: [[wiki/summaries/brain-guide]] / [[wiki/concepts/brain-architecture]]
-- [ ] Confirm Monday 9am X bookmark sweep is scheduled in Claude Cowork (Collection layer).
-- [ ] Write `MOIL.md` context file (Mission / Operating Principles / Identity / Legacy) and seed as primer for major Claude queries.
-- [ ] Monthly Layer 4 synthesis: feed 4 most-recent bookmark digests to Claude for patterns & belief shifts. Output → `outputs/synthesis-YYYY-MM.md`.
 
 ---
 

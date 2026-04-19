@@ -6,7 +6,7 @@ tags:
 
 **Type:** moil-topic
 **Last updated:** 2026-04-15
-**Source:** [[raw/moil-documents-2026-04-09]], [[raw/moilapp-website-2026-04-09]], [[raw/teams-2026-04-12]], [[raw/email-digest-2026-04-14]], [[raw/email-digest-2026-04-15]]
+**Source:** [[raw/moil-documents-2026-04-09]], [[raw/moilapp-website-2026-04-09]], [[raw/teams-2026-04-12]], [[raw/email-digest-2026-04-14]], [[raw/email-digest-2026-04-15]], [[raw/email-digest-2026-04-17]]
 **Related:** [[wiki/moil/positioning]], [[wiki/moil/icp]], [[wiki/concepts/buda-hive]], [[wiki/people/travis-sutherland]], [[wiki/people/daniel-guadiano]], [[wiki/people/renee-simmons]], [[wiki/people/adam-maxon]]
 
 ---
@@ -111,6 +111,22 @@ Single-day outbound: **~25 sent emails** split across two new narrative template
 - **Breakup batch (second wave):** Natalie Butler (augustametrochamber.com), Gregg Simon + Barton Lowrey (macoc.com), Tim Evans (ghcc.com), Blake Adcock (adcockfinancialgroup.com), Amanda Seals (cobbchamber.org), Earl Williams (thomasvillecdc.org), Donna Pammer (sdcc.on.ca — Ontario), Matthew Mandell (westportwestonchamber.com — CT), Kenya Calhoun (thomson-mcduffie.gov), Thomas Paden (cantonchamber.com — MI), Tom Rosa (tpimail.org), Jodi Owczarski (westcoastchamber.org — MI).
 - **Helotes call booked:** Kate Silvas + Mayra Adams confirmed Wed Apr 22 @ 10am CT — see [[wiki/orgs/helotes-edc]].
 - **Geographic footprint growing:** Georgia (cluster), Michigan (cluster), Mississippi, Connecticut, Ontario, Texas (Helotes). Breakup cadence running in parallel with narrative-pitch cadence is the first deliberate A/B signal in the campaign.
+
+### Cold campaign — Apr 17 update
+
+Single-day outbound: **25+ sent emails** — highest-volume day to date, running all four template types in parallel.
+
+- **Discovery pings ("What entrepreneurs see", "Helping programs scale"):** Ryan Miller (oxfordms.com), Annette Kojetin (mnchamber.com), Kandi Menne (fairmontchamber.org), Jesse Dement (hernandoms.org), Brent Cooper ("Supporting entrepreneurs in Kentucky", nkychamber.com), Ronda May (jessaminechamber.org), Hunter Gardner (selecthinds.com), April Kopitzke (newlondonchamber.com), Scott Waller (msmec.com), Tiffany King (excelsior-lakeminnetonkachamber.com).
+- **Narrative pitch ("Something we didn't expect"):** Jonathan Jank (cultivatesewardcounty.com).
+- **Breakup wave (third):** Melinda Davidson (washingtoncountyal.com), Laura Strickland (sylacaugachamber.com), CH Sullivan (covington-tiptoncochamber.com), Barbara Sloniker (siouxlandchamber.com), Colleen Dick (yorkcountychamber.com), Jeff Hingher (acgbrands.com), Kathleen Quinn (northbrookchamber.org), Michelle Hawkins (vestaviahills.org).
+- **Meeting invites sent:** [[wiki/people/megan-miller|Megan Miller]], [[wiki/people/roxana-yglesias|Roxana Yglesias]] / AlloyAtx, [[wiki/people/becky-torres|Becky Torres]] / Siren Beauty — all 3 Teams meetings Apr 17 (customer touch-base / license activation coordination).
+- **Geographic footprint:** Kentucky (new, 3), Mississippi (new, 3), Minnesota (2), Nebraska (2), Wisconsin (1), Iowa (1), Alabama (2), Illinois (1), New York (1), Tennessee (1). KY + MS are first-time pushes in the campaign.
+
+### HIVE Cohort 4 curriculum collaboration — emerging Apr 17
+
+Source: [[raw/email-digest-2026-04-17]]
+
+[[wiki/people/joshua-edmond|Joshua Edmond]] sent [[wiki/people/casey-earley|Casey Earley]] (new Administrative Coordinator at Buda EDC) updated Weeks 1 & 2 print-outs for Cohort 4, with Business Model Canvas added to Week 2. Andres shared the Buda HIVE Entrepreneur Program folder with Joshua the same day; Casey shared the Cohort 4 OneDrive folder with Andres (view + edit). Curriculum drops are now flowing to the EDC side ahead of Apr 20 cohort launch — operational tempo up sharply from Run 13.
 
 ## April 2026 — Best Month Update (from Teams chats)
 

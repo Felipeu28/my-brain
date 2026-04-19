@@ -3,7 +3,7 @@ tags:
   - graph/spoke
   - person/customer
 status: active
-last_contact: 2026-04-09
+last_contact: 2026-04-17
 client: "[[wiki/orgs/siren-beauty]]"
 ---
 # Becky Torres

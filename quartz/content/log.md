@@ -821,4 +821,30 @@ All three frontmatters marked `ingested: true` / `ingested_at: 2026-04-17`.
 
 All 10 files have MP4 `ftypisom` binary headers — they are raw video recordings from OneDrive that were misnamed with a `.txt` extension, not textual transcripts. Cannot be ingested as-is. **Recommended action:** either run them through Groq Whisper / the `scripts/teams_pull.py` style pipeline to produce actual `.md` transcripts before re-dropping, or rename to `.mp4` and move them outside `raw/` (they don't belong in a text-ingestion directory).
 
+---
+
+### [2026-04-19] Run 14 — Email digest Apr 17 + weekly sessions rollup
+
+**Trigger:** Automated scan for unprocessed raw files. Two new files: `raw/email-digest-2026-04-17.md` (committed Apr 17) and `raw/weekly-sessions-2026-04-19.md` (Claude Code weekly rollup — week of Apr 12).
+
+- **File:** raw/email-digest-2026-04-17.md
+  - **Type:** email-digest (24-hour window, Apr 16–17)
+  - **Pages created:** none
+  - **Pages updated:** [[wiki/people/casey-earley]] (**title confirmed: Administrative Coordinator, Buda EDC**; email casey.earley@budaedc.com; shared Cohort 4 folder Apr 17; status warm → active; last_contact bump; resolved prior context gap), [[wiki/people/joshua-edmond]] (Apr 17: sent Casey updated Weeks 1 & 2 print-outs with Business Model Canvas added to Week 2; Andres shared the HIVE Entrepreneur Program folder with Joshua; last_contact bump), [[wiki/people/megan-miller]] (last_contact → Apr 17, Teams meeting held), [[wiki/people/roxana-yglesias]] (last_contact → Apr 17, Teams meeting held), [[wiki/people/becky-torres]] (last_contact → Apr 17, Teams meeting held), [[wiki/moil/gtm]] (+ Apr 17 cold-campaign section: 25+ outbound across KY/MS/MN/NE/WI/IA/AL/IL/NY/TN; first KY + MS push; new HIVE Cohort 4 curriculum subsection), [[MEMORY]] (added tax-review + Cohort 4 curriculum prep action blocks; trimmed Monthly Brain System hygiene to hit 200-line cap), [[index]] (stats + Run 14 header)
+
+- **File:** raw/weekly-sessions-2026-04-19.md
+  - **Type:** claude-code-weekly-rollup (week of Apr 12)
+  - **Pages created:** none
+  - **Summary:** 5 Claude Code sessions, 79 user messages, 443 assistant responses, 1116 tool calls, 98 files created, 38 commits. Covers: init commands, "how do I use this" onboarding Q, KB audit execution sprint (Apr 13), Brain system audit (Apr 14). Fully duplicates intelligence already in [[raw/weekly-sessions-2026-04-15.md]]; no new wiki pages warranted. Logged only.
+
+**Key intelligence from Run 14:**
+1. **Casey Earley = Administrative Coordinator, Buda EDC.** Title was a 2-week-old context gap on her page; Apr 17 signature-block test email resolved it. Email: casey.earley@budaedc.com. Status bumped warm → active.
+2. **Cohort 4 curriculum is flowing 3 days before launch.** Joshua Edmond sent updated Weeks 1 & 2 print-outs with Business Model Canvas added to Week 2. Andres shared the HIVE Entrepreneur Program folder with Joshua. Casey shared the Cohort 4 OneDrive folder with Andres (view + edit). Bidirectional drops = curriculum prep is live.
+3. **Biggest cold-outbound day on record (25+ emails).** First-time pushes into Kentucky and Mississippi; narrative + discovery + breakup cadences all running in parallel — deliberate A/B + pipeline-hygiene in a single day.
+4. **Three customer Teams meetings held Apr 17:** Megan Miller, Roxana Yglesias (AlloyAtx), Becky Torres (Siren Beauty) — concurrent with the Apr 15 license-distribution push and Jacob's license-activation follow-through in Run 13.
+5. **Kate Silvas acknowledged Andres's family hospital situation** when looping in Mayra Adams to schedule Apr 22 — personal context, relationship warmth.
+6. **New tax action opened.** Melissa Jarbo (DLC Financial) returned from sick leave, created separate TaxDome profile; 1040 2025 review + Martin Kutac secure message + Ingrid refund/liability form pending.
+
+**Summary:** Two files processed. The email digest was the only source of new intelligence — resolved Casey Earley's long-standing title gap, confirmed Cohort 4 curriculum collaboration is live, recorded Andres's largest cold-outbound day to date, and logged three Apr 17 customer Teams meetings. The weekly-sessions rollup was logged for completeness but duplicates content already in the Apr 15 rollup. No new wiki pages created. MEMORY.md trimmed to 200 lines by removing the stale Brain System hygiene section.
+
 **Summary:** Run 11 promoted the long-flagged `raw/KidsGPT/` files into the wiki as a first-class personal project ([[wiki/projects/lunabella|Lunabella]]). Two cross-page open questions closed in the process (magical-reading-adventures's "is this KidsGPT?" and active-projects.md's "raw files not yet promoted"). Also surfaced a raw/ hygiene issue — 10 binary MP4 files pretending to be `.txt` transcripts in onedrive-transcripts/ need to be either transcribed or moved out of the raw/ directory.

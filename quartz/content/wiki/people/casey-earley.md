@@ -1,6 +1,6 @@
 ---
-status: warm
-last_contact: 2026-03-01
+status: active
+last_contact: 2026-04-17
 tags:
   - graph/spoke
   - person/partner
@@ -8,13 +8,14 @@ tags:
 # Casey Earley
 
 **Type:** person
-**Last updated:** 2026-04-11
-**Source:** [[raw/buda-hive-edc-2026-04-11]]
-**Related:** [[wiki/people/jacquie-martinez]], [[wiki/concepts/buda-hive]]
+**Last updated:** 2026-04-19
+**Source:** [[raw/buda-hive-edc-2026-04-11]], [[raw/email-digest-2026-04-17]]
+**Related:** [[wiki/people/jacquie-martinez]], [[wiki/people/joshua-edmond]], [[wiki/concepts/buda-hive]]
 
 ---
 
-**Role:** Assistant to [[wiki/people/jacquie-martinez|Jacquie Martinez]] at [[wiki/orgs/buda-edc|Buda EDC]], key operational support for the [[wiki/concepts/buda-hive|Buda HIVE]] program.
+**Role:** **Administrative Coordinator, Buda EDC** (confirmed Apr 17 via signature block). Assistant to [[wiki/people/jacquie-martinez|Jacquie Martinez]], key operational support for the [[wiki/concepts/buda-hive|Buda HIVE]] program.
+**Email:** casey.earley@budaedc.com
 
 ## Context
 
@@ -32,8 +33,10 @@ Casey is the day-to-day operational person Andres and [[wiki/people/joshua-edmon
 - Andres: "Cant wait for the cohort to start!! Miss you guys. I miss my HIVE, my people!!"
 - Confirms Casey is close to the HIVE community, not just staff
 
+## Apr 17 — Cohort 4 Folder + Curriculum Coordination
+
+Casey shared the **Cohort 4** OneDrive folder with Andres (both view and edit access) Apr 17. Earlier that day she sent a "TEST" email confirming her new Administrative Coordinator signature block. Same day, [[wiki/people/joshua-edmond|Joshua Edmond]] sent her updated Weeks 1 & 2 print-outs with Business Model Canvas added to Week 2 — she is the curriculum-drop destination on the EDC side.
+
 ## Context Gaps
 
-- What's Casey's exact title and email at Buda EDC?
-- Does she attend sessions, manage the space, or handle admin?
 - New address: 2051 Cambria, Buda — closing May 16, 2026
