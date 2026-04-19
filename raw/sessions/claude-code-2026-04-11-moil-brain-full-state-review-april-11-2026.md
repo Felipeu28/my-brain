@@ -34,10 +34,11 @@ Let's reviw our full brain, make sure we rference Karpathy as we want o know wha
   - `/Users/jarvisurrego/My Brain/knowledge-base/outputs/briefing-2026-04-11.md`
   - `/Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain/memory/brain_architecture.md`
 
-## Wiki entities referenced (6)
+## Wiki entities referenced (7)
 
 - [[wiki/moil/competitors]]
 - [[wiki/moil/customers]]
+- [[wiki/moil/directory]]
 - [[wiki/moil/metrics]]
 - [[wiki/moil/pipeline]]
 - [[wiki/moil/positioning]]

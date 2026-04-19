@@ -21,6 +21,10 @@ source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain/
 **Edited (1):**
   - `/Users/jarvisurrego/My Brain/knowledge-base/scripts/x_bookmark_commit.sh`
 
+## Wiki entities referenced (1)
+
+- [[wiki/moil/directory]]
+
 ## Final user direction
 
 was this pushed?

@@ -58,7 +58,7 @@ How can this help Moil,  me overall, I want to know the ins and out, the things
 **Edited (1):**
   - `/Users/jarvisurrego/My Brain/knowledge-base/scripts/.teams_config.json`
 
-## Wiki entities referenced (12)
+## Wiki entities referenced (13)
 
 - [[wiki/concepts/brain-architecture]]
 - [[wiki/concepts/claude-code]]
@@ -66,6 +66,7 @@ How can this help Moil,  me overall, I want to know the ins and out, the things
 - [[wiki/concepts/openclaw-hermes]]
 - [[wiki/minds/hooeem]]
 - [[wiki/moil/customers]]
+- [[wiki/moil/directory]]
 - [[wiki/moil/metrics]]
 - [[wiki/moil/pipeline]]
 - [[wiki/moil/positioning]]
