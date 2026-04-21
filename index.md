@@ -1,6 +1,6 @@
 # Moil Brain — Master Index
 
-**Last compiled:** 2026-04-21 (Brain upgrade: hot cache, vault lint, brain-save command added) · **Total wiki pages:** 249 · **Raw sources:** 216
+**Last compiled:** 2026-04-21 (Brain productization strategy + full SMB market analysis) · **Total wiki pages:** 250 · **Raw sources:** 216
 
 > **Canonical operating truth lives outside the wiki:** if status or architecture notes here conflict with newer operating reality, use `~/My Brain/CURRENT_STATE.md` first.
 
@@ -27,7 +27,7 @@
 
 | Folder | Count | What's in it |
 |---|---|---|
-| [[wiki/moil/README|moil/]] | 11 | Moil business — positioning, ICP, GTM, customers, competitors, metrics, product roadmap, active-projects |
+| [[wiki/moil/README|moil/]] | 12 | Moil business — positioning, ICP, GTM, customers, competitors, metrics, product roadmap, active-projects, brain-product strategy |
 | [[wiki/people/README|people/]] | 48 | Personal network — family, friends, customers, collaborators, team |
 | [[wiki/minds/README|minds/]] | 11 | Public AI thought leaders tracked from afar |
 | [[wiki/orgs/README|orgs/]] | 21 | Customer, partner, and prospect organizations |
@@ -45,6 +45,7 @@ See also: [[wiki/meetings/historical-transcripts-index]] — raw transcripts not
 - [[wiki/moil/gtm]] — Go-to-market motion (27 inbound)
 - [[wiki/concepts/buda-hive]] — Buda HIVE program (19 inbound)
 - [[wiki/moil/positioning]] — Moil positioning (17 inbound)
+- **[[wiki/moil/brain-product]]** — Brain product strategy & SMB market analysis (NEW — Apr 21 2026)
 - [[wiki/concepts/llm-knowledge-bases]] — Karpathy's wiki pattern (14 inbound)
 - [[wiki/concepts/managed-agents]] — Claude Managed Agents (13 inbound)
 - [[wiki/concepts/claude-code]] — Claude Code runtime (12 inbound)
@@ -67,6 +68,7 @@ See also: [[wiki/meetings/historical-transcripts-index]] — raw transcripts not
 
 ## 📤 Outputs
 
+- [[outputs/smb-business-research-2026-04-21]] — SMB Brain productization strategy (full market research, competitive analysis, pricing, GTM, 16-week roadmap)
 - [[outputs/briefing-2026-04-11]] — Initial briefing
 - [[outputs/synthesis-2026-04]] — April 2026 synthesis
 

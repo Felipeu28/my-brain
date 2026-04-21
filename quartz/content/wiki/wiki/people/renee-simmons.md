@@ -1,0 +1,32 @@
+---
+status: warm
+last_contact: 2026-04-13
+tags:
+  - graph/leaf
+  - person/partner
+---
+# Renee Simmons
+
+**Type:** person
+**Last updated:** 2026-04-15
+**Source:** [[raw/email-digest-2026-04-14]]
+**Related:** [[wiki/people/rick-bough]], [[wiki/moil/gtm]]
+
+---
+
+## Summary
+
+Teacher or coordinator at **CHES (likely Carpenter Hill Elementary School)** within **Hays CISD**. Invited Andres to present at Career Day on **May 7, 2026** — a ~20-minute presentation to 4th and 5th graders. Details incoming.
+
+## Contact
+
+- **Email:** Renee.Simmons@hayscisd.net
+- **Organization:** Hays CISD
+
+## Moil Relevance
+
+Extends Moil's presence in the Hays CISD ecosystem (alongside [[wiki/people/rick-bough]] in CTE). Career Day is a brand-awareness play at the community level — not direct sales, but reinforces Andres's local credibility and relationship with the school district.
+
+## Action Items
+
+- [ ] **May 7, 2026** — Career Day presentation at CHES. Prep kid-friendly version of Moil / entrepreneurship talk.

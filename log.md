@@ -4,6 +4,41 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ---
 
+## 2026-04-21 — Run 17: Brain Productization Strategy & SMB Market Research
+
+**Trigger:** Strategic research request to analyze Moil Brain KB as SMB product.
+
+- **Synthesis:** Full market analysis, competitive landscape, SMB pain points, pricing benchmarks, regulatory/privacy considerations, productization recommendation
+- **Pages created:** 
+  - [[wiki/moil/brain-product]] (hub page: strategic recommendation, MVP scope, 16-week roadmap, pricing, GTM)
+  - [[outputs/smb-business-research-2026-04-21]] (research artifact: 2000+ word analysis with 25+ sources, all tiers from Gartner/Intuit/Goldman/a16z, plus G2 reviews)
+- **Pages updated:** [[index]] (page count 249→250; moil/ 11→12; added brain-product to hottest pages; added research output to outputs section)
+- **Summary:** Conducted full productization analysis of Andres's personal Moil Brain (249-page wiki, 10 automated jobs, daily briefings) as potential SMB product. Recommendation: **Launch as Moil Brain embedded tier ($99–$249/mo), not standalone product. Vertical wedge to agencies/professional services first. Leverage existing GTM (500 customers, HIVE cohort). 16-week critical path for multi-tenant rewrite. $127K build cost. Target: 100 paying SMBs Q4 2026, $100K+ MRR Q2 2027.** Key differentiator: auto-capture from email+Teams+calendar+CRM without manual migration; daily briefing + weekly pulse + searchable wiki. Privacy positioning: "Your data, your infrastructure, we never train on your emails" (counters Apr 2026 Breitbart narrative about companies selling worker messages for training).
+
+**Market research highlights:**
+- **Pain point:** SMB leaders lose 7.5 hrs/week tool-switching (Intuit Jan 2026)
+- **Market gap:** No incumbent owns $99–$249/mo flat-rate tier for SMB teams; Notion ($20/seat) is low-friction but weak at truth-ranking; Glean ($50K+/yr, 100+ seats) is out of reach
+- **Competitive landscape:** Mem.ai failed (personal knowledge has no network effects); YC W26 produced no standout horizontal "company brain"; vertical AI/collaboration is winning category
+- **EU AI Act:** Kicks in Aug 2, 2026; plan for Oct 2026 public launch (post-transition); budget $30–50K legal + $15K SOC 2 audit
+- **Pricing sweet spot:** $1.2M/yr SMB spending on AI-native apps (+108% YoY); 70% prefer usage-based by end 2026; hybrid (base + metered AI) winning
+
+**Why this recommendation matters:**
+1. Moil already captures the "SMB owner losing 7.5 hrs/week" persona — embed Brain feature rather than build GTM from scratch
+2. HIVE Cohort 4 (launched Apr 20, curriculum collab with Buda EDC active) is perfect alpha/beta cohort
+3. Vertical concentration (agencies → pro services → trades) already proven by Moil's GTM playbook
+4. Standalone product would split founder focus; embedding maximizes contribution margin
+
+**Risk/opportunity ledger:**
+- ✅ Defensible moat: integration depth (email+Teams+CRM signal combined) + vertical concentration + privacy positioning
+- ✅ Distribution: existing Moil customers ($0 CAC for upgrade), EDC replication model, Andres's founder brand
+- ❌ Founder context split: hire Brain PM by week 8, lock Andres to dogfooding + strategy only
+- ❌ Token cost: April 2026 GPT-4o alias upgrade broke unit economics; use Haiku 4.5 + aggressive caching
+- ❌ EU AI Act compliance: treat as 16-week build constraint, not post-launch bolt-on
+
+**Next steps:** Present recommendation to Moil team; map 16-week build sprint; lock alpha cohort (10 existing customers); lock beta cohort (Cohort 4); public launch roadmap Q3 2026.
+
+---
+
 ## 2026-04-21 — Run 16: Siren + Inna deep compile
 
 Triggered by client-coverage audit: wiki pages were undercapturing the rich raw HIVE strategy docs.
