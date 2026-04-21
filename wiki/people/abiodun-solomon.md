@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-18
+last_contact: 2026-04-20
 tags:
   - graph/spoke
   - person/team
@@ -8,8 +8,8 @@ tags:
 # Abiodun Adekanmi (Ablad)
 
 **Type:** person
-**Last updated:** 2026-04-18
-**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026)
+**Last updated:** 2026-04-20
+**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026)
 **Related:** [[wiki/people/jacob-oluwole]], [[wiki/moil/positioning]], [[wiki/people/inna-benyukhis]]
 
 > **Name correction:** Teams profile shows "Abiodun Adekanmi" — previous meeting transcripts referenced "Abiodun Solomon." The Teams name is authoritative. "Ablad" remains team nickname.
@@ -99,6 +99,18 @@ Source: [[raw/teams-2026-04-18]]
 - **"Fees" terminology confusion:** Andres said "I need to see content and less fees in this group every single day!!" Abiodun replied "I don't understand what you mean by ...content and less fees... every single day. What fees are you talking about please?" Andres later clarified he meant "content and ideas" (typo/autocorrect).
 
 See [[wiki/meetings/2026-04-18-teams-daily-ops]].
+
+## April 20, 2026 — Sunday Deadline Hit + Content Manifest Delivered
+
+Source: [[raw/teams-2026-04-20]]
+
+- **Hit the Sunday Apr 19 deadline** Andres set Apr 18. Posted the complete content manifest in Moil Marketing (8:55 AM Apr 20):
+  - **Inna:** Apr 17, 18, 19, 21 — ANIMATED FLYERS. Apr 21 + Apr 30 Women's mental-health videos — CREATED VIDEOS.
+  - **Moil:** Apr 20 Struggling-to-keep-up.png (caption with Jacob); Apr 22 Connect with GenZ.mp4 (caption with Jacob); content-calendar-.png; Ask Moil.mp4 + Ask Moil-Cover.jpg; Posting Consistently.mp4.
+- **Caption ownership clarified** — Jacob owns captions for Moil flyers/videos (noted explicitly for Apr 20 and Apr 22 posts).
+- **Post-Apr 18 recovery:** After the "fees" miscommunication and the content rhythm pushback, Abiodun delivered on time with a clear channel-visible manifest — rhythm appears to have been absorbed.
+
+See [[wiki/meetings/2026-04-20-teams-daily-ops]].
 
 ## Gaps
 

@@ -19,6 +19,28 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ## Log Entries
 
+### [2026-04-20] Run 15 — Teams Daily Ops Apr 19–20
+
+**Trigger:** Automated scan for unprocessed raw files. One new file: `raw/teams-2026-04-20.md` (committed Apr 20 by `teams-daily` job, 36 messages across 5 threads).
+
+- **File:** raw/teams-2026-04-20.md
+  - **Type:** team-communications (36 messages, Apr 19–20 — PRD proposal + Monday Collaboration Apr 20)
+  - **Pages created:** [[wiki/meetings/2026-04-20-teams-daily-ops]]
+  - **Pages updated:** [[wiki/people/jacob-oluwole]] (PRD process proposal + IG tagging SOP + Monday internet issues), [[wiki/people/adeleke-tolulope]] (proactive prod fixes on business_plan_beta_prod + memory-mode onboarding review + new Claude Code session handoff), [[wiki/people/taiwo-ola-balogun]] (re-engaged on FitLogic + Meridian, personal Gmail taiwotriumphant@gmail.com disclosed), [[wiki/people/abiodun-solomon]] (hit Sunday Apr 19 deadline, full Apr 17–21 content manifest delivered), [[wiki/people/inna-benyukhis]] (Instagram tagging SOP — 2 options pending her decision), [[MEMORY]] (new Apr 19–20 block; trimmed to 199 lines; closed Abiodun Apr 19 delivery), [[index]] (stats refreshed: 246 pages / 213 raw sources / 58 meetings)
+  - **Summary:** Jacob proposed a Project Requirements Document (PRD) gate for every new dev project/demo/feature — first time Jacob has pushed a team-wide operating framework rather than just executing. Monday Collaboration call ran two tracks: content/growth (Inna's social, long-form interviews → IG clips, face-led educational direction) and production fixes (Adeleke proactively fixing bugs on `business_plan_beta_prod` ahead of Andres starting parallel project). Abiodun hit the Sunday Apr 19 content deadline with a full manifest in Moil Marketing at 8:55 AM. Taiwo re-engaged despite his Apr 18 time-zone boundary — proactively asked for FitLogic + Meridian walkthrough. New business friction surfaced: Meta Business no longer supports tagging arbitrary accounts on IG, so Moil needs to either take over Inna's IG/LinkedIn directly or hand content back to her to post.
+
+**Key intelligence from Run 15:**
+1. **Jacob stepped into process-owner mode.** After the Apr 15–18 testing-pace escalations, Jacob's PRD proposal (Apr 19 11:21 PM) is his first team-wide framework push — not just executing orders. Pattern shift worth watching.
+2. **Adeleke is fixing prod bugs proactively.** On `business_plan_beta_prod` codebase — he told Andres mid-call "I already fixed some bugs though" when Andres started a parallel project for the same work. Signals healthy engineering ownership but needs formalization.
+3. **New Claude Code session handoff pattern continues.** Andres shared `session_0156Da69uG1W8jSEof5V2xgb` to Moil Team for Adeleke review — third handoff in recent runs (`session_01PP9t1m41A2snaRRACs3TNs` from Apr 18 still pending review).
+4. **Instagram tagging SOP gap** — Meta Business blocks tagging from the publishing side. This is a new business-of-content friction that affects every Moil360 content delivery client. Two options framed for Inna: direct access OR send-and-post.
+5. **Memory-mode onboarding vs. static onboarding.** Andres asked Adeleke to review the "new memory one" first because it's "less invasive than the static onboarding." Onboarding UX variant is in active A/B consideration.
+6. **Abiodun absorbed the rhythm shift.** Week after the "fees" miscommunication and content-rhythm pushback, he delivered the full Apr 17–21 manifest on time (Sun Apr 19 deadline) — a healthy recovery signal.
+7. **Taiwo recovered from the Apr 18 boundary.** Despite explicitly asking not to do late-night calls, he proactively asked for a FitLogic + Meridian walkthrough on Apr 20. Boundary was a one-time escalation, not a ceiling.
+8. **Jacob's connectivity is a recurring blocker.** Third month running his bandwidth has disrupted Monday calls — team waiting for him again Apr 20 4:18–4:22 PM.
+
+---
+
 ### [2026-04-18] Run 13 — Teams Daily Ops Apr 17–18
 
 **Trigger:** Automated scan for unprocessed raw files. One new file: `raw/teams-2026-04-18.md` (committed Apr 18 by `teams-daily` job, 51 messages across 4 threads).

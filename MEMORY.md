@@ -1,6 +1,6 @@
 # MEMORY — Open Actions & Live Commitments
 
-**Last updated:** 2026-04-19 (Run 14 — Email digest Apr 17: Cohort 4 curriculum flowing, 25+ outbound, tax review pending)
+**Last updated:** 2026-04-20 (Run 15 — Teams Apr 19–20: Jacob PRD proposal, Adeleke prod fixes, Abiodun hit Sunday deadline, Inna IG tagging SOP needed)
 **Purpose:** Single source of truth for open action items extracted from ingested raw sources. Claude Code updates this file during ingestion runs.
 
 > For relationship and concept context, see [[index]]. For ingestion history, see [[log]].
@@ -23,16 +23,25 @@
 
 ## 🔥 Immediate — This Week (Apr 18–24, 2026)
 
-### Delivery-pace escalation — from Teams Apr 17–18
+### New from Teams Apr 19–20
+Source: [[wiki/meetings/2026-04-20-teams-daily-ops]]
+- [ ] **Andres: decide on Jacob's PRD proposal** — adopt/modify/decline a Project Requirements Document gate for every new dev project, demo, or feature (Jacob pushed Apr 19 11:21 PM)
+- [ ] **Adeleke: push `business_plan_beta_prod` prod fixes** on new branch → review → merge. Already fixed bugs ahead of Andres starting the parallel project
+- [ ] **Adeleke: review new "memory" onboarding variant** (less invasive than static onboarding) before Andres decides ship direction
+- [ ] **Adeleke: review Claude Code session** `session_0156Da69uG1W8jSEof5V2xgb` (latest handoff Apr 20)
+- [ ] **Jacob: get Inna's decision on IG tagging approach** — direct IG/LinkedIn access vs. send-and-post. Confirm LinkedIn scope
+- [ ] **Andres: respond to Jacob's "Posting Consistently.mp4" request** for thoughts (Moil Marketing channel)
+- [ ] **Taiwo / Andres: FitLogic + Meridian walkthrough** — Andres sent FitLogic.docx Apr 20 5:57 PM, finalize before Apr 21
+
+### Delivery-pace carryover — from Teams Apr 17–18
 Source: [[wiki/meetings/2026-04-18-teams-daily-ops]]
 - [ ] **Jacob: fix Business Coach "not responding" bug** — blocked his own testing loop Apr 18
 - [ ] **Jacob: start Connectex** — flagged as top priority that slipped past the week's focus on Meridian + FitLogic
 - [ ] **Jacob: send follow-up emails** to Moil 360 license recipients who have NOT activated
-- [ ] **Adeleke: review Claude Code audit session** (`session_01PP9t1m41A2snaRRACs3TNs`) — verify nothing broken; revert if so
+- [ ] **Adeleke: review prior Claude Code audit session** (`session_01PP9t1m41A2snaRRACs3TNs` from Apr 18) — verify nothing broken; revert if so
 - [ ] **Taiwo: rework demo prompt context** — ask Andres for business-specific context (prior version drove everything from business plan as single source of truth)
 - [ ] **Taiwo / Andres: reschedule delivery calls** to reasonable hours in Taiwo's time zone (not 11pm / 2am local)
-- [ ] **Abiodun: deliver next week's Moil + Inna content by Sun Apr 19** (Andres explicit deadline)
-- [ ] **Abiodun + Andres: align on content rhythm** — Tuesday push / Sunday review (cushion ahead), not trickled daily
+- [ ] **Abiodun + Andres: align on content rhythm** — Tuesday push / Sunday review (cushion ahead), not trickled daily. Abiodun delivered this week (manifest posted Apr 20 8:55 AM) — but rhythm still verbal; make explicit
 - [ ] **Andres: fix architectural regression** — current app no longer uses business plan as single source of truth the way the prior version did
 
 ## 🔥 Carried over from last week (Apr 11–17, 2026)
@@ -59,10 +68,6 @@ Source: [[raw/email-digest-2026-04-14]]
 ### Pflugerville Mentor Day
 Source: [[raw/email-digest-2026-04-14]]
 - [ ] **Respond to Adam Maxon** (adamm@pfdevelopment.com) about Pflugerville Mentor Day. See [[wiki/people/adam-maxon]]
-
-### Buda Retail Roundup — Apr 20
-Source: [[raw/email-digest-2026-04-14]]
-- [ ] **Apr 20 — Buda Retail Roundup** invitation from Jacquie Martinez. Decide attendance.
 
 ### GitHub Webhook Secrets Rotation
 Source: [[raw/email-digest-2026-04-14]]
@@ -112,10 +117,6 @@ Source: [[wiki/summaries/imessages-people-2026-04-09]]
 Source: [[wiki/summaries/outlook-emails-2026-04-09]], [[wiki/people/daniel-guadiano]]
 - [ ] If it closes, write a restaurant case study — first hospitality ICP data point.
 
-### Mark Polanco — Airtable access
-Source: [[wiki/summaries/imessages-people-2026-04-09]]
-- [ ] Airtable invite hadn't arrived as of Apr 9. Follow up if still blocked.
-
 ### Ana Vetencourt — URBANZUELA website
 Source: [[wiki/summaries/imessages-people-2026-04-09]]
 - [ ] Review the Google Doc draft Ana sent. Provide feedback.
@@ -151,7 +152,6 @@ Source: [[wiki/meetings/2026-04-14-roxana-alloy-atx-onboarding]]
 
 ### Team management
 - [ ] **Adeleke FB account:** Login code issue since Apr 7. Blocks app review video.
-- [ ] **Microsoft Planner:** Verify team is using it (created Apr 7).
 
 ### Security
 - [ ] Migrate credentials out of Teams chat → secure store (1Password/Bitwarden). Stripe keys, Supabase passwords, API keys all in plaintext.
@@ -195,6 +195,5 @@ Source: [[wiki/concepts/claude-code]]
 
 ## ✅ Closed / Archive
 
+- [x] **2026-04-20** — Abiodun delivered next week's Moil + Inna content by Sun Apr 19 deadline (manifest posted in Moil Marketing 8:55 AM).
 - [x] **2026-04-18** — FitLogic Apr 18 deadline passed; Daniel Guadiano Apr 16 meeting held (case study pending if deal closes).
-- [x] **2026-04-17** — Helotes EDC "reply overdue" auto-resolved. Call booked Apr 22.
-- [x] **2026-04-14** — Alloy ATX closed ($75/mo). Moil360 naming resolved.

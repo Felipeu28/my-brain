@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-18
+last_contact: 2026-04-20
 tags:
   - graph/hub
   - person/team
@@ -8,8 +8,8 @@ tags:
 # Jacob Oluwole
 
 **Type:** person
-**Last updated:** 2026-04-18
-**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/email-history-2months-2026-04-12]], [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026)
+**Last updated:** 2026-04-20
+**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/email-history-2months-2026-04-12]], [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026)
 **Related:** [[wiki/moil/positioning]], [[wiki/people/adeleke-tolulope]], [[wiki/people/abiodun-solomon]], [[wiki/people/taiwo-ola-balogun]]
 
 ---
@@ -113,6 +113,18 @@ Source: [[raw/teams-2026-04-18]]
 - Pushed Moil updates to prod except Conectex; testing in progress.
 
 See [[wiki/meetings/2026-04-18-teams-daily-ops]].
+
+## April 20, 2026 — PRD Process Proposal + Monday Collaboration
+
+Source: [[raw/teams-2026-04-20]]
+
+- **Proposed a Project Requirements Document (PRD) gate** for every new development project, demo, and feature (Apr 19 11:21 PM) — first time Jacob has pushed a team-wide operating framework rather than just executing. Framed as a response to the delivery-pace pressure from the prior week: "create a Project Requirements Document for every new development project, demo, or feature" so the team can "move faster, iterate well, deliver properly, and clear tasks off our table efficiently." Awaiting Andres sign-off.
+- **Monday Collaboration call:** Jacob had internet issues and missed the start ("I am having issues with internet connection" 4:22 PM). Shared `Monday Collaboration (1).docx` once online. Wrote the Apr 20 meeting summary covering two tracks: content/growth strategy (Inna's social performance, converting long-form interviews → IG clips, face-led educational content direction) and the parallel production-fixes thread on `business_plan_beta_prod`.
+- **Opened the Instagram tagging SOP problem.** Drafted a message to Inna twice (6:30 PM + 6:38 PM revision) explaining that Meta Business no longer allows tagging arbitrary accounts from the publishing side, and laid out two options: (a) Inna gives Moil IG/LinkedIn access so they can post + tag directly; (b) Moil sends content to Inna to post herself. First explicit surfacing of this content-delivery friction.
+- **Shared `Posting Consistently.mp4`** in Moil Marketing channel asking the team for thoughts.
+- **Connectivity remains a recurring blocker** — third month in a row his bandwidth has disrupted a Monday call.
+
+See [[wiki/meetings/2026-04-20-teams-daily-ops]].
 
 ## Gaps
 

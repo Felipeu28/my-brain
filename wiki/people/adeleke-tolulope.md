@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-18
+last_contact: 2026-04-20
 tags:
   - graph/hub
   - person/team
@@ -8,8 +8,8 @@ tags:
 # Adeleke Tolulope (Steve)
 
 **Type:** person
-**Last updated:** 2026-04-18
-**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026)
+**Last updated:** 2026-04-20
+**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026)
 **Related:** [[wiki/people/jacob-oluwole]], [[wiki/people/taiwo-ola-balogun]], [[wiki/moil/positioning]], [[wiki/moil/product-roadmap]]
 
 ---
@@ -115,6 +115,17 @@ Source: [[raw/teams-2026-04-18]]
 - Adeleke acknowledged Andres's early-morning (Apr 18 12:08 AM) check-in about starting to play with the business-side onboarding restructuring: "Yes sir" (Apr 18 5:21 AM).
 
 See [[wiki/meetings/2026-04-18-teams-daily-ops]].
+
+## April 20, 2026 — Production Fixes + Memory-Mode Onboarding Review
+
+Source: [[raw/teams-2026-04-20]]
+
+- **Proactively fixed bugs on `business_plan_beta_prod`** ahead of Andres starting a parallel project for the same workstream. Told Andres "I already fixed some bugs though" (4:38 PM). Planned workflow: create a new branch, review, push. Andres accepted.
+- **Morning check-in (11:39–11:48 AM):** Asked whether to review and push the current item before the prior chat. Andres directed "review the new memory one first, it's less invasive than the static onboarding. Do a review and let me know what you think first! If all good we can start there!" Adeleke concurred. This is the "memory-mode" onboarding variant vs. the static onboarding flow — review-first, not ship-first.
+- **Claude Code session handed over again.** Andres shared `https://claude.ai/code/session_0156Da69uG1W8jSEof5V2xgb` (5:02 PM) for Adeleke to review — continues the pattern from Apr 18 (session `session_01PP9t1m41A2snaRRACs3TNs`) of Andres running Claude Code audits and Adeleke verifying.
+- **Codebase-selection snag surfaced.** "oh, we hav to select the codebase with prod / the business_plan_beta_prod" (4:37 PM) — signal that Claude Code / tool configuration needs to target prod codebase explicitly; default was wrong.
+
+See [[wiki/meetings/2026-04-20-teams-daily-ops]].
 
 ## Gaps
 

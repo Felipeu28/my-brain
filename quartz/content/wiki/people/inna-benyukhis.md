@@ -3,14 +3,14 @@ tags:
   - graph/spoke
   - person/customer
 status: active
-last_contact: 2026-04-13
+last_contact: 2026-04-20
 client: "[[wiki/orgs/ladyboss]]"
 ---
 # Inna Benyukhis
 
 **Type:** person
-**Last updated:** 2026-04-14
-**Source:** [[raw/imessages-people-2026-04-09]], [[raw/outlook-emails-2026-04-09]], [[raw/github-project-tracker]], [[raw/teams-2026-04-12]], [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/hive-inna]], [[raw/hive-inna-s-website-feedback]], [[raw/hive-empowered-nutrition-project-breakdown]], [[raw/hive-coaching-session-summary]], [[raw/email-history-6months-2026-04-14]]
+**Last updated:** 2026-04-20
+**Source:** [[raw/imessages-people-2026-04-09]], [[raw/outlook-emails-2026-04-09]], [[raw/github-project-tracker]], [[raw/teams-2026-04-12]], [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/hive-inna]], [[raw/hive-inna-s-website-feedback]], [[raw/hive-empowered-nutrition-project-breakdown]], [[raw/hive-coaching-session-summary]], [[raw/email-history-6months-2026-04-14]], [[raw/teams-2026-04-20]]
 **Related:** [[wiki/moil/gtm]], [[wiki/concepts/buda-hive]], [[wiki/people/abiodun-solomon]]
 
 ---
@@ -95,6 +95,25 @@ Inna has spent $15K+ on marketing with poor ROI across all vendors:
 5. Conversion & Engagement (live chat script, CTA placement, lead magnet)
 6. SEO, Performance & Launch (meta titles, structured data: LocalBusiness + MedicalClinic, mobile optimization)
 
+## Content Delivery Apr 17–21 (delivered Apr 20)
+
+Source: [[raw/teams-2026-04-20]], [[wiki/meetings/2026-04-20-teams-daily-ops]]
+
+Abiodun delivered Inna's content batch on Sunday Apr 19 (announced Apr 20 8:55 AM):
+- **Animated flyers:** Apr 17, 18, 19, 21
+- **Created videos:** Apr 21 + Apr 30 Women's mental-health
+
+## Instagram Tagging SOP Needed
+
+Source: [[raw/teams-2026-04-20]]
+
+Jacob flagged Apr 20 that **Meta Business no longer supports tagging arbitrary accounts** from the publishing side. Two options offered to Inna (pending her decision):
+
+1. **Option A — Moil gets direct access.** Inna shares IG + LinkedIn credentials; Moil posts and tags directly.
+2. **Option B — Send-and-post.** Moil creates content and sends to Inna to post herself so she can tag.
+
+Also: Inna has been sharing LinkedIn URLs for tagging — pending clarification on whether she wants Moil to post on LinkedIn too or only IG.
+
 ## Open Items
 
 - [ ] Fix CRM contact pipeline display (contacts not showing)
@@ -102,6 +121,7 @@ Inna has spent $15K+ on marketing with poor ROI across all vendors:
 - [ ] Review and merge Inna-CRM open PR
 - [ ] Decide: revive or archive Inna-Marketing-Calendar
 - [ ] Website: find hosting access → send redesign questionnaire → begin build
+- [ ] Choose IG tagging approach (direct access vs. send-and-post) and confirm LinkedIn scope
 
 ## Relationship Notes
 

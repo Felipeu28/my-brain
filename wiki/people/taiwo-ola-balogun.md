@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-18
+last_contact: 2026-04-20
 tags:
   - graph/spoke
   - person/team
@@ -8,8 +8,8 @@ tags:
 # Taiwo Ola-Balogun
 
 **Type:** person
-**Last updated:** 2026-04-18
-**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026)
+**Last updated:** 2026-04-20
+**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026)
 **Related:** [[wiki/people/adeleke-tolulope]], [[wiki/people/jacob-oluwole]], [[wiki/moil/product-roadmap]]
 
 ---
@@ -108,6 +108,22 @@ Source: [[raw/teams-2026-04-18]]
 - **Time-zone boundary raised.** First explicit request for scheduling accommodation: "Please setup delivery calls for projects that are not at 11pm or 2am my time! That way we can actually go through the projects before my meetings." Andres acknowledged and echoed the ask to the team.
 
 See [[wiki/meetings/2026-04-18-teams-daily-ops]].
+
+## April 20, 2026 — Re-engaged on FitLogic + Meridian
+
+Source: [[raw/teams-2026-04-20]]
+
+- **Proactively re-engaged** despite the Apr 18 time-zone boundary request: "Good morning sir / Hoping we can go through fitlogic and meridian today" (10:41 AM). Healthy recovery — pushed for the session rather than waiting.
+- Asked Jacob to "add me to the call" (4:23 PM) during Monday Collaboration.
+- **Personal Gmail disclosed:** `taiwotriumphant@gmail.com` (5:01 PM) — likely for a dev-tool or account invite (context: GitHub, Supabase, or similar tool access, not explicitly stated).
+- Andres sent `FitLogic.docx` at 5:57 PM for the walkthrough.
+
+See [[wiki/meetings/2026-04-20-teams-daily-ops]].
+
+## Contact
+
+- Teams: Taiwo Ola Balogun
+- Personal Gmail: `taiwotriumphant@gmail.com` (disclosed Apr 20, 2026)
 
 ## Gaps
 

@@ -134,16 +134,24 @@ tags:
 | Jul 1 | Johns Creek Chamber re-engage | Pitch with Buda case study |
 | Sep 1 | Training curriculum deadline | Jointly develop with HIVE |
 
+## Brain Tools
+
+| Tool | Purpose |
+|------|---------|
+| [[wiki/hot/hot|Hot Cache]] | Rolling 7-day activity log — last ingestions, queries, saves |
+| [[wiki/meta/vault-health|Vault Health]] | Weekly 8-check lint report — orphans, dead links, stale pages |
+| [[wiki/meta/brain-upgrade-plan|Upgrade Plan]] | 2026-04-21 upgrade docs — hot cache, lint, brain-save |
+
 ## Brain Stats
 
 | | |
 |---|---|
-| Wiki pages | ~225 |
-| People profiles | 46 |
-| Orgs tracked | 22 |
-| Concepts tracked | 29 |
-| Raw sources ingested | 93 |
-| Launchd automations | 9 |
+| Wiki pages | ~249 |
+| People profiles | 48 |
+| Orgs tracked | 21 |
+| Concepts tracked | 35 |
+| Raw sources ingested | 216 |
+| Launchd automations | 10 |
 
 ---
 
