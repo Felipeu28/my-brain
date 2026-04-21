@@ -32,4 +32,5 @@ Updated automatically by:
 ## Recent Saves
 
 <!-- ENTRIES:save -->
+- 2026-04-21 11:45 — Saved "Clio — Kids AI Companion (Luna Brain)" → wiki/projects/lunabella.md
 <!-- /ENTRIES:save -->

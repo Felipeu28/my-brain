@@ -1,6 +1,7 @@
 ---
 type: claude-code-session
 session_id: 06f1bba9-c500-414b-8a35-5b08aae3247e
+project: Brain/MyBrain
 date: 2026-04-13
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain/06f1bba9-c500-414b-8a35-5b08aae3247e.jsonl
@@ -8,6 +9,7 @@ source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain/
 # Claude Code Session — KB Audit & Execution Sprint
 
 **Date:** 2026-04-13 (session ran 2026-04-13T14:30 → )
+**Project:** Brain/MyBrain
 **Duration:** None min
 **Volume:** 8 user messages · 50 assistant responses · 131 tool calls
 

@@ -1,6 +1,7 @@
 ---
 type: claude-code-session
 session_id: 70d9b366-0845-4db1-809c-fa64dde33a36
+project: Brain/MyBrain
 date: 2026-04-14
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain/70d9b366-0845-4db1-809c-fa64dde33a36.jsonl
@@ -8,6 +9,7 @@ source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain/
 # Claude Code Session — Brain System Audit
 
 **Date:** 2026-04-14 (session ran 2026-04-14T18:37 → )
+**Project:** Brain/MyBrain
 **Duration:** None min
 **Volume:** 28 user messages · 243 assistant responses · 621 tool calls
 

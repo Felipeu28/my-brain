@@ -1,0 +1,39 @@
+---
+type: claude-code-session
+session_id: 1e948177-cef2-4b8b-8804-4613849b9376
+project: Brain/KB
+date: 2026-04-17
+duration_minutes: None
+source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base/1e948177-cef2-4b8b-8804-4613849b9376.jsonl
+---
+# Claude Code Session — Check for any new files in raw/ and raw/onedrive-transcripts/ that haven't been
+
+**Date:** 2026-04-17 (session ran 2026-04-17T23:02 → )
+**Project:** Brain/KB
+**Duration:** None min
+**Volume:** 1 user messages · 9 assistant responses · 49 tool calls
+
+## Ask
+
+Check for any new files in raw/ and raw/onedrive-transcripts/ that haven't been processed yet (not in log.md). If found, run the ingestion protocol from CLAUDE.md — extract people, decisions, action items, concepts. Update wiki pages and log.md. Focus especially on:
+- Any people mentioned — update or create wiki/people/ profiles
+- Any action items with owners and dates — these are high priority
+- Any decisions made — log to wiki/meetings/ if it was a meeting
+- Any mentions of key contacts from AGENTS.md
+If nothing new is found, say so and exit cleanly.
+
+## Files touched
+
+**Created (1):**
+  - `/Users/jarvisurrego/My Brain/knowledge-base/wiki/summaries/kidsgpt-planning-2026-04.md`
+
+**Edited (1):**
+  - `/Users/jarvisurrego/My Brain/knowledge-base/index.md`
+
+## Wiki entities referenced (5)
+
+- [[wiki/moil/active-projects]]
+- [[wiki/moil/pipeline]]
+- [[wiki/projects/lunabella]]
+- [[wiki/projects/magical-reading-adventures]]
+- [[wiki/summaries/kidsgpt-planning-2026-04]]

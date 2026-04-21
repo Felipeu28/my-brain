@@ -1,30 +1,41 @@
 ---
 github_repo: Felipeu28/Lunabella
 status: active
-last_push: 2026-04-15
+last_push: 2026-04-19
 stage: phase-1-building
+domain: clioremembers.com
 tags:
   - graph/spoke
   - project/personal
 ---
-# Lunabella — Luna Brain
+# Clio — Kids AI Companion (formerly Luna Brain)
 
 **Type:** personal project (family)
-**Last updated:** 2026-04-17
-**Source:** [[raw/KidsGPT/README]], [[raw/KidsGPT/implementation-plan]], [[raw/KidsGPT/options-analysis]] + `Felipeu28/Lunabella` repo
+**Last updated:** 2026-04-21
+**Source:** [[raw/KidsGPT/README]], [[raw/KidsGPT/implementation-plan]], [[raw/KidsGPT/options-analysis]] + `Felipeu28/Lunabella` repo + manually saved 2026-04-21
 **Related:** [[wiki/projects/README]], [[wiki/concepts/brain-architecture]], [[wiki/concepts/llm-knowledge-bases]], [[wiki/people/mariana-rodriguez]]
 
 ---
 
 ## Summary
 
-Bilingual, voice-first AI companion for Andres's daughters **Annabella (age 7)** and **Evie (age 5)**. One app, two profiles — each girl names her own "Luna" on first launch and builds her own personal "brain" through conversations. Architectural parallel to the Moil Brain — child-scale Socratic AI + personal knowledge graph, with a parent dashboard for Andres.
+Bilingual, voice-first AI companion for Andres's daughters **Annabella (age 7)** and **Evie (age 5)**. One app, two profiles — the AI knows each child specifically and memory is the core differentiator. Lives at **clioremembers.com**. Deployed to production (Next.js + Railway backend + Vercel frontend).
 
-**Started:** April 2026. **Status:** Phase 1 building (`Felipeu28/Lunabella` TypeScript repo active, last push 2026-04-15). Planning phase complete — Supabase project + ElevenLabs API key are the next unblocks.
+**Renamed:** Luna Brain → **Clio** on Apr 16 2026 (named after Clio, goddess of history and memory). **Repo:** `Felipeu28/Lunabella` (name unchanged). **Status as of Apr 21 2026:** Phase 1 in production; voice stack migrated to xAI Grok TTS/STT.
+
+## What's been shipped (Apr 2026)
+
+| Date | Event |
+|------|-------|
+| Apr 15 | YC-style `/office-hours` session run on Clio product positioning |
+| Apr 16 | Renamed Luna Brain → **Clio**. Full implementation plan written. Gamification/engagement deep research complete |
+| Apr 17 | Full product analysis vs. *"The First AI That Knows a Specific Human"* design spec — high alignment confirmed |
+| Apr 18 | Safari-specific infinite reload bug fixed and merged to `main` |
+| Apr 19 | Complete voice/chat UX audit + redesign plan written. Voice stack migrated from ElevenLabs TTS + Web Speech API STT → **xAI Grok TTS/STT** (cost/quality decision) |
 
 ## What's being built
 
-- **Kid view (Luna Chat):** iPad-portrait, animated Luna avatar, voice in (Web Speech API) + voice out (ElevenLabs), text bubbles, language toggle pill (🇺🇸 / 🇨🇴)
+- **Kid view (Clio Chat):** iPad-portrait, animated Clio avatar, voice in + voice out (xAI Grok TTS/STT as of Apr 19), text bubbles, language toggle pill (🇺🇸 / 🇨🇴)
 - **Her World (brain graph):** D3 force-directed graph, topic nodes colored by category (space, animals, school, family, art, science), bilingual labels, tap-to-explore
 - **Parent dashboard (Andres):** PIN-locked (Supabase Auth), weekly topic counts, flagged-sensitive-question log, "Family Rules" editor, practice-language toggle, Sunday digest email, ntfy.sh push notifications on flag
 
@@ -35,11 +46,11 @@ Every new profile starts blank — a glowing orb appears and says *"I don't have
 ## Architecture
 
 ```
-React + Vite (Vercel) → Fastify API (Railway) → Supabase (PG + Auth + Storage)
-                                              → Claude API (claude-sonnet-4-6)
-                                              → ElevenLabs (voice)
-                                              → ntfy.sh (flag push)
-                                              → Resend (Sunday digest email)
+Next.js (Vercel) → Railway backend → Supabase (PG + Auth + Storage)
+                                  → Claude API (claude-sonnet-4-6)
+                                  → xAI Grok TTS/STT  ← switched Apr 19 (was ElevenLabs + Web Speech API)
+                                  → ntfy.sh (flag push)
+                                  → Resend (Sunday digest email)
 ```
 
 **Ingestion is end-of-conversation, not per-message.** 5 min of inactivity (or Annabella taps "Bye Luna!") fires an async job: full transcript → Claude structured extraction → Supabase brain nodes/edges/questions tables + markdown vault in Supabase Storage → Her World graph gains a new glowing node.
@@ -75,10 +86,14 @@ Andres uploads the school curriculum (PDF / photo / text) once per school year p
 | Item | Monthly |
 |------|---------|
 | Claude API (~60 convos × 25 msgs + ingestion) | $5–10 |
-| ElevenLabs Starter | $5 |
-| Railway (Fastify host) | $5 |
+| xAI Grok TTS/STT (replaced ElevenLabs Apr 19) | TBD |
+| Railway (backend host) | $5 |
 | Supabase / Vercel / Resend / ntfy.sh (free tiers) | $0 |
-| **Total** | **~$15–20/mo** |
+| **Total** | **~$10–15/mo (est.)** |
+
+## Moil Relevance
+
+Separate product — personal project, not a Moil client deliverable. Potential future demo case for AI memory + personalization pattern. Moil builds voice-first products; Clio is Andres's own production proof-of-concept for child-scale Socratic AI + personal knowledge graph.
 
 ## Supabase schema (Phase 2)
 
@@ -93,17 +108,20 @@ Core tables: `sessions` (UUID + transcript JSONB + language + curiosity_level), 
 
 ## Open questions / next unblocks
 
-- Supabase project creation + Postgres schema apply
-- ElevenLabs API key + voice sample curation (3 child-friendly voices)
-- Domain choice — options-analysis floats `luna.annabella.app`; implementation-plan mentions `luna.app` (may not be available)
+- xAI Grok TTS/STT cost model — need real usage numbers post-launch
+- Voice/chat UX redesign plan from Apr 19 audit — implementation status unknown
 - Device provisioning — which iPad is this running on
 - Mariana involvement — parent dashboard is solo-Andres today; should it be dual-parent?
+
+~~Domain choice~~ → resolved: `clioremembers.com`
+~~ElevenLabs API key~~ → resolved: switched to xAI Grok Apr 19
+~~Supabase project~~ → resolved: deployed to production
 
 ## Connections
 
 - [[wiki/projects/README]] — personal projects index
-- [[wiki/concepts/brain-architecture]] — Luna Brain mirrors the Moil Brain's two-layer memory (episodic convo → semantic knowledge graph)
+- [[wiki/concepts/brain-architecture]] — Clio mirrors the Moil Brain's two-layer memory (episodic convo → semantic knowledge graph)
 - [[wiki/concepts/llm-knowledge-bases]] — Karpathy-style personal KB pattern, child-scale variant
-- [[wiki/projects/magical-reading-adventures]] — earlier `Felipeu28/magical-reading-adventures` HTML repo; separate, not the engineering surface for this project (resolves the open question on that page)
+- [[wiki/projects/magical-reading-adventures]] — earlier `Felipeu28/magical-reading-adventures` HTML repo; separate, not the engineering surface for this project
 - [[wiki/people/mariana-rodriguez]] — mother to Annabella + Evie, co-parent
-- [[wiki/summaries/kidsgpt-planning-2026-04]] — structured summary of the three raw planning docs
+- [[wiki/summaries/kidsgpt-planning-2026-04]] — structured summary of the three raw planning docs (pre-rename, pre-Grok)
