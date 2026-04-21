@@ -33,8 +33,11 @@ Inna is a certified holistic nutritionist and Simplified Functional Medicine (SF
 - Functional lab testing: $325
 - Supplement recommendations: ~$200
 - Total initial engagement: ~$624
+- **Ongoing coaching rate:** $150/hour
 
-**Certifications:** SFM (Simplified Functional Medicine); previously bought into a coaching/licensing program for holistic practitioners.
+**Certifications:** SFM (Simplified Functional Medicine); previously bought into a coaching/licensing program so she could train other providers (chiropractors, energy healers, holistic nutritionists).
+
+**Prior web quote:** Was quoted **$8,400** for a website redesign by a previous agency — context for why Moil's price/value proposition resonated. Moil's pitch to Inna: marketing + email campaigns with half her current spend.
 
 ## Active Projects with Moil
 

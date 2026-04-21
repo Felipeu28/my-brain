@@ -26,6 +26,7 @@ Updated automatically by:
 ## Recent Queries
 
 <!-- ENTRIES:query -->
+- 2026-04-21 11:59 — Session end: [Brain/KB] Create a full, careful implementation plan — then implement it — for three upgra… — 9 chapters · 9 new files · 17 edits · 7 commits
 - 2026-04-21 11:54 — Session end: [Brain/KB] Create a full, careful implementation plan — then implement it — for three upgra… — 9 chapters · 9 new files · 16 edits · 6 commits
 - 2026-04-21 08:48 — Q: "What are the 3 most important things I should focus on today? Consider: open dea" → Based on [[MEMORY]], [[wiki/moil/pipeline]], and [[wiki/andres/ANDRES]], here are todays top 3 —
 <!-- /ENTRIES:query -->

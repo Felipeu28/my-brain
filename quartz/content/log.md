@@ -4,6 +4,20 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ---
 
+## 2026-04-21 — Run 16: Siren + Inna deep compile
+
+Triggered by client-coverage audit: wiki pages were undercapturing the rich raw HIVE strategy docs.
+
+- **File:** `raw/hive-siren-beauty-wellness-strategy-plan.md` (10-part strategy doc, ~540 lines)
+  - **Pages updated:** [[wiki/orgs/siren-beauty]] — expanded from ~35% coverage to full capture: full website audit (strengths + all 13 critical gaps), SEO/AEO status assessment, Saving Face Austin competitive inspiration, full competitive landscape (5 competitors with threat levels), market opportunity (Buda-Kyle corridor), design direction (6 brand colors with hex, typography, photography direction), full site architecture (11 pages + 10 service slugs + 4 local landing pages), complete SEO/AEO strategy, tech stack, Google Stitch + Claude workflow, Sonnet vs. Opus recommendation, 13-week 6-phase roadmap + ongoing cadence, KPIs by Month 1–3 / 3–6 / 6–12
+
+- **File:** `raw/hive-inna.md` + `raw/hive-inna-s-website-feedback.md`
+  - **Pages updated:** [[wiki/people/inna-benyukhis]] — added $150/hr coaching rate, $8,400 prior web quote context, SFM licensing program clarification. [[wiki/orgs/ladyboss]] — rewrote from thin stub (45 lines) to full org profile: offer/pricing table, marketing history table with prior web quote, 6-module HIVE build plan with brand colors, open items
+
+**Why this mattered:** Both pages were referenced by dashboards and [[wiki/moil/customers]] but content quality didn't reflect what Moil already knew. Siren's page now functions as the canonical project brief. Inna/LadyBoss now has enough signal that future Moil work can scope from the wiki alone.
+
+---
+
 ## Format
 
 ```
