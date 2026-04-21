@@ -16,13 +16,13 @@ This is the **semantic memory** layer of Andres Urrego's Moil Brain. Linked from
 
 | Folder | Count | Purpose | Index |
 |---|---|---|---|
-| `moil/` | 6 | Moil business: positioning, ICP, GTM, customers, competitors, metrics | [[wiki/moil/README\|moil/]] |
-| `people/` | 16 | Personal network (family, friends, customers, collaborators) | [[wiki/people/README\|people/]] |
-| `minds/` | 5 | Public AI thought leaders tracked from afar | [[wiki/minds/README\|minds/]] |
-| `orgs/` | 4 | Customer/partner/prospect organizations | [[wiki/orgs/README\|orgs/]] |
-| `concepts/` | 15 | Frameworks, mental models, products, programs | [[wiki/concepts/README\|concepts/]] |
-| `radar/` | 1 | Append-only changelogs for fast-moving topics | [[wiki/radar/README\|radar/]] |
-| `summaries/` | 12 | One summary page per raw source | [[wiki/summaries/README\|summaries/]] |
+| `moil/` | 6 | Moil business: positioning, ICP, GTM, customers, competitors, metrics | [[wiki/moil/README|moil/]] |
+| `people/` | 16 | Personal network (family, friends, customers, collaborators) | [[wiki/people/README|people/]] |
+| `minds/` | 5 | Public AI thought leaders tracked from afar | [[wiki/minds/README|minds/]] |
+| `orgs/` | 4 | Customer/partner/prospect organizations | [[wiki/orgs/README|orgs/]] |
+| `concepts/` | 15 | Frameworks, mental models, products, programs | [[wiki/concepts/README|concepts/]] |
+| `radar/` | 1 | Append-only changelogs for fast-moving topics | [[wiki/radar/README|radar/]] |
+| `summaries/` | 12 | One summary page per raw source | [[wiki/summaries/README|summaries/]] |
 | `meetings/` | 0 | Structured meeting notes (empty) | — |
 | `inbox/` | 0 | Manual drop zone (empty) | — |
 

@@ -29,8 +29,8 @@ Community organizer for the Austin/Buda area (host of the Sun Show). Effectively
 
 | Org | Type | Moil Engagement | Status |
 |-----|------|-----------------|--------|
-| [[wiki/orgs/zoiwell\|Zoiwell]] | Wellness / brand | Moil 360 1-year license (~$900/yr) | ✅ Active — onboarded Apr 9 |
-| [[wiki/orgs/meridian-buda\|Meridian Buda]] | Coffee / live music / community venue | Full custom platform (Stripe, ticketed events, organizer dashboard) | ✅ CLOSED Apr 9 — building |
+| [[wiki/orgs/zoiwell|Zoiwell]] | Wellness / brand | Moil 360 1-year license (~$900/yr) | ✅ Active — onboarded Apr 9 |
+| [[wiki/orgs/meridian-buda|Meridian Buda]] | Coffee / live music / community venue | Full custom platform (Stripe, ticketed events, organizer dashboard) | ✅ CLOSED Apr 9 — building |
 
 ## The Sun Show
 

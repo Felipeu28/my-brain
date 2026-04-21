@@ -22,7 +22,7 @@ tags:
 
 | Partner | Company | # Intros | P1 Conversions | Last partner touch | Next touch due |
 |---------|---------|----------|----------------|--------------------|----------------|
-| [[wiki/people/daniel-mann\|Daniel Mann]] | [[wiki/orgs/evermend-group\|Evermend Group]] | **8** | 1 (Jacob Centeno) | 2026-03-18 | **🔥 Overdue 28 days** — quarterly check-in |
+| [[wiki/people/daniel-mann|Daniel Mann]] | [[wiki/orgs/evermend-group|Evermend Group]] | **8** | 1 (Jacob Centeno) | 2026-03-18 | **🔥 Overdue 28 days** — quarterly check-in |
 
 ### Tier B — Confirmed partners (1–2 referrals)
 
@@ -32,9 +32,9 @@ tags:
 
 | Person | Why they could be a referral partner | Status |
 |--------|--------------------------------------|--------|
-| [[wiki/people/david-levesque\|David Levesque]] / Savari Solar | Hungry Hill Foundation + AI community; tagged as "potential referral partner" in meeting notes | Cold — needs nurture |
-| [[wiki/people/monica-pena\|Monica Pena]] / EGBI / Echo Squad | Hispanic business network, LinkedIn pod | Lapsed — last contact early 2025 |
-| [[wiki/people/enrique-castro\|Enrique Castro]] / GAHCC | Director of Membership + "El Taco Financiero" podcast | Active partnership; referrals latent |
+| [[wiki/people/david-levesque|David Levesque]] / Savari Solar | Hungry Hill Foundation + AI community; tagged as "potential referral partner" in meeting notes | Cold — needs nurture |
+| [[wiki/people/monica-pena|Monica Pena]] / EGBI / Echo Squad | Hispanic business network, LinkedIn pod | Lapsed — last contact early 2025 |
+| [[wiki/people/enrique-castro|Enrique Castro]] / GAHCC | Director of Membership + "El Taco Financiero" podcast | Active partnership; referrals latent |
 
 ---
 
@@ -45,10 +45,10 @@ tags:
 | Total referrals received | 8 |
 | Period | 2026-02-13 → 2026-03-27 (~6 weeks) |
 | Referral velocity | ~1.3 intros/week |
-| Converted to P1 paying | 1 ([[wiki/people/jacob-centeno\|Jacob Centeno]] / Titan Tech) |
-| Converted to pipeline | 2 ([[wiki/people/oscar-esquivel\|Oscar/Alloy]], [[wiki/people/rashaka-boykins\|Rashaka Boykins]]) |
+| Converted to P1 paying | 1 ([[wiki/people/jacob-centeno|Jacob Centeno]] / Titan Tech) |
+| Converted to pipeline | 2 ([[wiki/people/oscar-esquivel|Oscar/Alloy]], [[wiki/people/rashaka-boykins|Rashaka Boykins]]) |
 | Still warm | 4 (Dr. Oriakhi, Alison, Jim, Brittany) |
-| Professional resource | 1 ([[wiki/people/john-mcconnell\|John McConnell]]) |
+| Professional resource | 1 ([[wiki/people/john-mcconnell|John McConnell]]) |
 | P1-revenue ROI attributable | $180/yr (direct) + Alloy in-closing |
 
 Full ledger: see [[wiki/people/daniel-mann]].

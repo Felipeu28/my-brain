@@ -29,7 +29,7 @@ This is the primary mechanism for replicating the Buda HIVE model nationally.
 
 | Contact | Organization | State | Signal | Status |
 |---|---|---|---|---|
-| [[wiki/people/kim-dowers\|Kim Dowers]] | Queen Creek Chamber | AZ | Existing relationship | 🟢 Warm — webinar Apr 28 |
+| [[wiki/people/kim-dowers|Kim Dowers]] | Queen Creek Chamber | AZ | Existing relationship | 🟢 Warm — webinar Apr 28 |
 | Talena Barker | Bend Chamber of Commerce | OR | Received all 4 templates — may have replied | 🟡 Track |
 | Lord Lizardo | Chambre of Commerce Hawaii | HI | Received 5 emails | 🟡 Track |
 | Samantha Le | Seattle Southside Chamber | WA | Received 5 emails | 🟡 Track |
@@ -38,7 +38,7 @@ This is the primary mechanism for replicating the Buda HIVE model nationally.
 | Nicole Leon | HMCC Oregon | OR | Received 5 emails | 🟡 Track |
 | Scott Lathrop | Exotic Tool Welding | TX | Received 5 emails | 🟡 Track |
 | Wendy Laros | Kona-Kohala Chamber | HI | Received 5 emails | 🟡 Track |
-| [[wiki/people/shay-foley\|Shay Foley]] | Johns Creek Chamber | GA | Deferred — re-engage Jul 1 | 🧊 Cold |
+| [[wiki/people/shay-foley|Shay Foley]] | Johns Creek Chamber | GA | Deferred — re-engage Jul 1 | 🧊 Cold |
 
 ## Strategy
 

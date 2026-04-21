@@ -15,7 +15,7 @@ echo "[sync] Syncing wiki/ → quartz/content/wiki/"
 rsync -a --delete "$KB_DIR/wiki/" "$CONTENT_DIR/wiki/"
 
 echo "[sync] Syncing root markdown files"
-cp "$KB_DIR/MEMORY.md"   "$CONTENT_DIR/Memory.md"
+cp "$KB_DIR/MEMORY.md"   "$CONTENT_DIR/MEMORY.md"
 cp "$KB_DIR/index.md"    "$CONTENT_DIR/index.md"
 cp "$KB_DIR/log.md"      "$CONTENT_DIR/log.md"
 
