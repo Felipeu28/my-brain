@@ -3,5 +3,19 @@
   "outputDirectory": "public",
   "installCommand": "npm ci",
   "framework": null,
-  "cleanUrls": true
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/andres/:path*",    "destination": "/wiki/andres/:path*" },
+    { "source": "/concepts/:path*",  "destination": "/wiki/concepts/:path*" },
+    { "source": "/hot/:path*",       "destination": "/wiki/hot/:path*" },
+    { "source": "/meetings/:path*",  "destination": "/wiki/meetings/:path*" },
+    { "source": "/meta/:path*",      "destination": "/wiki/meta/:path*" },
+    { "source": "/minds/:path*",     "destination": "/wiki/minds/:path*" },
+    { "source": "/moil/:path*",      "destination": "/wiki/moil/:path*" },
+    { "source": "/orgs/:path*",      "destination": "/wiki/orgs/:path*" },
+    { "source": "/people/:path*",    "destination": "/wiki/people/:path*" },
+    { "source": "/projects/:path*",  "destination": "/wiki/projects/:path*" },
+    { "source": "/radar/:path*",     "destination": "/wiki/radar/:path*" },
+    { "source": "/summaries/:path*", "destination": "/wiki/summaries/:path*" }
+  ]
 }
