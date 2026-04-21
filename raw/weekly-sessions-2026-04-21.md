@@ -2,6 +2,10 @@
 type: claude-code-weekly-rollup
 week_start: 2026-04-19
 session_count: 18
+ingested: true
+ingested_at: 2026-04-21
+ingested_run: 17
+ingested_note: "Meta rollup of Claude Code session activity; underlying content already reflected in wiki pages (Clio voice stack migration in [[wiki/projects/lunabella]], Brain upgrade plan in [[wiki/meta/brain-upgrade-plan]], automations in launchd plists). No new wiki page needed."
 ---
 # Claude Code — Week of 2026-04-19
 

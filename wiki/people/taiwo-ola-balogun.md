@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-20
+last_contact: 2026-04-21
 tags:
   - graph/spoke
   - person/team
@@ -8,8 +8,8 @@ tags:
 # Taiwo Ola-Balogun
 
 **Type:** person
-**Last updated:** 2026-04-20
-**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026)
+**Last updated:** 2026-04-21
+**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026)
 **Related:** [[wiki/people/adeleke-tolulope]], [[wiki/people/jacob-oluwole]], [[wiki/moil/product-roadmap]]
 
 ---
@@ -119,6 +119,20 @@ Source: [[raw/teams-2026-04-20]]
 - Andres sent `FitLogic.docx` at 5:57 PM for the walkthrough.
 
 See [[wiki/meetings/2026-04-20-teams-daily-ops]].
+
+## April 21, 2026 — FitLogic Push to Finish + Connectex Commit
+
+Source: [[raw/teams-2026-04-21]]
+
+- **Morning check-in:** "Good morning Andres" + asked for Connectex CRM URL and whether to work on design alongside functionality (3:34 PM — midday his time). Worked overnight on FitLogic bugs from the Apr 20 session.
+- **FitLogic campaign/sequence bugs deep-fixed** — sender mail verification on Resend, auto-schedule behavior clarified ("once I schedule it is automatic whether checked or not"), confirmed `partners@moilapp.com` is the sending address and test-user mail is connected on Google.
+- **Campaign vs. sequence parity gap surfaced:** Andres found that email links can be edited in **sequences** but not in **campaigns** (8:33 PM). Taiwo: "Yeah you can do that but you have to click editing the campaign" — path exists but hidden. Feature-parity audit warranted.
+- **OG image / landing page messaging bug** — 9:12 PM Andres: "Why is this still the image and messaging for our links?? FUCK!" Taiwo acknowledged: "My bad, didn't remember the og image of this application was different from the landing page." Fixed by 9:46 PM.
+- **Coach day/light mode** — Andres asked Taiwo to restore it (6:08 PM); it was removed in a prior build.
+- **Committed to start Connectex Apr 22.** Quote (10:10 PM): "Other than fitlogic we have 8 products!! I really need to finalize fitlogic Taiwo!! I need to move on to other projects so we can start getting paid! Sir, I am ready to work on connectex. Can I get the link to the CRM for that so that I can play with that and start work tomorrow." Andres: "But we need to finish fitlogic so we can get her all switched over!" — Taiwo agreed to finalize FitLogic in parallel.
+- **Strong delivery-rhythm signal** — this is the first time Taiwo has explicitly flagged the revenue gap ("start getting paid") and volunteered to start the deferred project (Connectex) on a specific next day. Pattern shift from Apr 18 time-zone-boundary recovery to Apr 21 revenue-urgency ownership.
+
+See [[wiki/meetings/2026-04-21-teams-daily-ops]].
 
 ## Contact
 

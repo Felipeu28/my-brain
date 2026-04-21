@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-20
+last_contact: 2026-04-21
 tags:
   - graph/hub
   - person/team
@@ -8,8 +8,8 @@ tags:
 # Jacob Oluwole
 
 **Type:** person
-**Last updated:** 2026-04-20
-**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/email-history-2months-2026-04-12]], [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026)
+**Last updated:** 2026-04-21
+**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/email-history-2months-2026-04-12]], [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026)
 **Related:** [[wiki/moil/positioning]], [[wiki/people/adeleke-tolulope]], [[wiki/people/abiodun-solomon]], [[wiki/people/taiwo-ola-balogun]]
 
 ---
@@ -125,6 +125,21 @@ Source: [[raw/teams-2026-04-20]]
 - **Connectivity remains a recurring blocker** — third month in a row his bandwidth has disrupted a Monday call.
 
 See [[wiki/meetings/2026-04-20-teams-daily-ops]].
+
+## April 21, 2026 — Moil 360 License Distribution Firefight
+
+Source: [[raw/teams-2026-04-21]]
+
+- **Spent 20+ minutes debugging Megan FitLogic's stuck license** with Andres in 1:1. She had multiple business plans and still couldn't switch to Moil 360; after they resolved to one plan she still couldn't activate. Quote: "You can't switch business plan if you don't have multiple plans" (8:15 PM), then "Probably the same thing that happened to me happened to her" (8:14 PM) — self-observed class-wide UX bug. Coordinated with Steve (Adeleke) to force the assignment.
+- **Acknowledged partners-domain spam-folder problem as unresolved** — "Yeah… some of our emails from partners goes to spam I have asked the devs they said they can't do optimize it more so that it won't be on spam" (6:13 PM). Andres pushed back ("I dont think they are getting the emails lol"). Workaround: move FitLogic to per-customer sender domain tonight.
+- **PureSerenity / Roxana license slip** — Andres flagged that Roxana signed up and paid $75 the night before but never got the Moil 360 link. Jacob has to resend from `cs@moilapp.com`.
+- **Siren Beauty license status question** — "where did we send the email for the license to siren beauty!!" (Andres 5:47 PM). Open.
+- **Started redesigning the partner dashboard license section** during the day — visible in his comment "We are planning to redesign that section of our dashboard" (9:09 PM).
+- **Pulled Buda-cohort licensees for the Moil 360 update email** — Andres asked at 12:21 PM to email every previous Buda license recipient with the new-features update. Jacob responded that he "sent it to all the business emails accounts that is signed in on Moil" (12:40 PM) and confirmed he can send it again if needed.
+- **Leaked `cs@moilapp.com` password `Pr0ud**2023$` in the open Moil Team channel** (Apr 21 11:31 AM) when Adeleke asked for it. **Security hygiene issue — move credentials off Teams channel.**
+- **Business Coach "stagebeta broken?" check-in** (6:26 PM) — still debugging the Apr 18 regression thread.
+
+See [[wiki/meetings/2026-04-21-teams-daily-ops]].
 
 ## Gaps
 

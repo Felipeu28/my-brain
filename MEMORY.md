@@ -1,6 +1,6 @@
 # MEMORY — Open Actions & Live Commitments
 
-**Last updated:** 2026-04-20 (Run 15 — Teams Apr 19–20: Jacob PRD proposal, Adeleke prod fixes, Abiodun hit Sunday deadline, Inna IG tagging SOP needed)
+**Last updated:** 2026-04-21 (Run 17 — Teams Apr 20–21 + Megan FitLogic CRM onboarding: Moil 360 launch-day firefight, deliverability P0, Connectex finally starts Apr 22, plan-switch bug hits 2nd customer)
 **Purpose:** Single source of truth for open action items extracted from ingested raw sources. Claude Code updates this file during ingestion runs.
 
 > For relationship and concept context, see [[index]]. For ingestion history, see [[log]].
@@ -11,37 +11,40 @@
 
 | Cadence | Action |
 |---|---|
-| **Weekly (Friday, 15 min)** | Walk through every `[ ]`. Strike `~~done~~` with date. Move items stale >2 weeks to "Closed / Archive". Add new actions from the week's iMessages/Outlook pulls. |
-| **Monthly (1st of month)** | Prune "Closed / Archive" — keep only items useful as precedent; delete the rest. Reconcile deferred items against the current week. |
+| **Weekly (Friday, 15 min)** | Walk through every `[ ]`. Strike `~~done~~` with date. Move items stale >2 weeks to "Closed / Archive". |
+| **Monthly (1st of month)** | Prune "Closed / Archive" — keep only items useful as precedent; delete the rest. |
 | **Quarterly** | Full audit: does every open item still matter? Kill anything that no longer serves a live goal. |
 
 **Hard rule:** if MEMORY.md exceeds 200 lines, pruning is overdue. Don't let it drift.
-
-**Closing an item:** use `~~strikethrough~~` + `(YYYY-MM-DD)` inline. After a week, move the whole bullet to "Closed / Archive". After a month, delete unless it's a useful precedent.
 
 ---
 
 ## 🔥 Immediate — This Week (Apr 18–24, 2026)
 
-### New from Teams Apr 19–20
-Source: [[wiki/meetings/2026-04-20-teams-daily-ops]]
-- [ ] **Andres: decide on Jacob's PRD proposal** — adopt/modify/decline a Project Requirements Document gate for every new dev project, demo, or feature (Jacob pushed Apr 19 11:21 PM)
-- [ ] **Adeleke: push `business_plan_beta_prod` prod fixes** on new branch → review → merge. Already fixed bugs ahead of Andres starting the parallel project
-- [ ] **Adeleke: review new "memory" onboarding variant** (less invasive than static onboarding) before Andres decides ship direction
-- [ ] **Adeleke: review Claude Code session** `session_0156Da69uG1W8jSEof5V2xgb` (latest handoff Apr 20)
-- [ ] **Jacob: get Inna's decision on IG tagging approach** — direct IG/LinkedIn access vs. send-and-post. Confirm LinkedIn scope
-- [ ] **Andres: respond to Jacob's "Posting Consistently.mp4" request** for thoughts (Moil Marketing channel)
-- [ ] **Taiwo / Andres: FitLogic + Meridian walkthrough** — Andres sent FitLogic.docx Apr 20 5:57 PM, finalize before Apr 21
+### 🚨 New from Apr 21 — Moil 360 launch-day firefight + Megan FitLogic CRM onboarding
+Source: [[wiki/meetings/2026-04-21-teams-daily-ops]], [[wiki/meetings/2026-04-21-megan-fitlogic-working-session]]
+- [ ] **🔥 Andres tonight (Apr 21):** Deploy Moil CRM at `fitlogicfunctionalmedicine.com/CRM` via Megan's GoDaddy; wire `Megan@fitlogicfunctionalmedicine.com` as sender; wipe test contacts; import 5,000-contact Keap CSV
+- [ ] **🔥 Andres: surface per-campaign click-rate / open-rate dashboard** for FitLogic (Megan asked)
+- [ ] **🔥 Adeleke: ship Gemini→Grok→Qwen multi-model fallback** for video gen; root-cause image-creation latency + intermittent template fails
+- [ ] **🔥 Jacob + Andres: fix partners@moilapp.com deliverability** (hit Megan, Roxana, Jill PureSerenity — engineering said "can't optimize it more"; need per-customer sender or infrastructure fix, P0)
+- [ ] **🔥 Product: fix business-plan switching UX bug** (hit Megan FitLogic Apr 21 after hitting her weeks ago — class-wide, not one-off; escalate out of manual DB intervention)
+- [ ] **Taiwo Apr 22:** Start Connectex (needs CRM URL from Andres); finish FitLogic in parallel; restore day/light mode on coach; surface campaign link-editing (today only in sequences)
+- [ ] **Jacob: resend Moil 360 license links** — Megan FitLogic, Siren Beauty, Roxana, Jill PureSerenity (paid $75 Apr 20, never got link)
+- [ ] **Andres + Jacob: email every Buda cohort licensee** with Moil 360 feature updates (Andres prompted 12:21 PM Apr 21)
+- [ ] **🔒 Security: move `cs@moilapp.com` password off Teams channel** — Jacob posted `Pr0ud**2023$` in the open Moil Team thread Apr 21 11:31 AM; whole team has credentials in plaintext chat
+- [ ] **Megan: forward Andres' feedback email to Electric Bricks** (alt-text missing sitewide, no H1, chiro-themed blog URL slugs) as required-changes checklist; mark real clients in Keap; pull remaining EHR contacts; send quiz questions for native Moil rebuild
+- [ ] **Joint Megan+Andres:** Decide whether to push or postpone the co-planned workshop (tight window)
+- [ ] **Andres: respond to Jacob's PRD proposal** (carried from Apr 19 — still open)
+- [ ] **Adeleke: review Claude Code session `session_0156Da69uG1W8jSEof5V2xgb`** (carried from Apr 20)
+- [ ] **Jacob: get Inna's decision on IG/LinkedIn tagging approach** — direct access vs. send-and-post (carried)
+- [ ] **Andres: respond to Jacob on `Posting Consistently.mp4`** thoughts (carried)
 
 ### Delivery-pace carryover — from Teams Apr 17–18
 Source: [[wiki/meetings/2026-04-18-teams-daily-ops]]
-- [ ] **Jacob: fix Business Coach "not responding" bug** — blocked his own testing loop Apr 18
-- [ ] **Jacob: start Connectex** — flagged as top priority that slipped past the week's focus on Meridian + FitLogic
+- [ ] **Jacob: fix Business Coach "not responding" bug** — "stagebeta broken?" surfaced again Apr 21 6:26 PM
 - [ ] **Jacob: send follow-up emails** to Moil 360 license recipients who have NOT activated
-- [ ] **Adeleke: review prior Claude Code audit session** (`session_01PP9t1m41A2snaRRACs3TNs` from Apr 18) — verify nothing broken; revert if so
-- [ ] **Taiwo: rework demo prompt context** — ask Andres for business-specific context (prior version drove everything from business plan as single source of truth)
 - [ ] **Taiwo / Andres: reschedule delivery calls** to reasonable hours in Taiwo's time zone (not 11pm / 2am local)
-- [ ] **Abiodun + Andres: align on content rhythm** — Tuesday push / Sunday review (cushion ahead), not trickled daily. Abiodun delivered this week (manifest posted Apr 20 8:55 AM) — but rhythm still verbal; make explicit
+- [ ] **Abiodun + Andres: make content rhythm explicit** — Tuesday push / Sunday review; Abiodun delivered Apr 19 + Apr 21; rhythm still verbal
 - [ ] **Andres: fix architectural regression** — current app no longer uses business plan as single source of truth the way the prior version did
 
 ## 🔥 Carried over from last week (Apr 11–17, 2026)
@@ -56,10 +59,8 @@ Source: [[wiki/meetings/2026-04-15-teams-daily-ops]]
 - [ ] **🔥 Adeleke: audit entire Moil codebase** for OpenAI API usage; migrate gpt-4o → gpt-5-mini (token refill went monthly → 3x/week)
 - [ ] Rotate API keys after audit complete
 
-### Moil 360 License Distribution — rolling
-Source: [[wiki/meetings/2026-04-15-teams-daily-ops]], [[wiki/meetings/2026-04-18-teams-daily-ops]]
-- [ ] **Jacob: verify activation status** for Megan Miller, Mark Polanco, Becky Torres, Roxana Yglesias, Jill/PureSerenity, Alloy ATX (invite finally sent Apr 18)
-- [ ] Draft individual onboarding emails to each new license holder
+### Moil 360 License Distribution — superseded by Apr 21 items above
+See immediate section. Still open: activation verification + onboarding emails per licensee.
 
 ### Renee Simmons / Hays CISD — Career Day May 7
 Source: [[raw/email-digest-2026-04-14]]
@@ -133,9 +134,7 @@ Source: [[wiki/meetings/2026-04-14-roxana-alloy-atx-onboarding]]
 - [ ] Next session: set up GSC for alloyatx.com; brainstorm satellite landing page domains; follow up on wellness referrals
 
 ### Deals requiring follow-up
-- [ ] **Connectex:** Invoice sent? Verify payment schedule (3 quarters). What deliverables? (Still untouched per Apr 18 Teams)
-- [ ] **jilledegs01@gmail.com / PureSerenity:** Site deployed (pure-serenity-green.vercel.app). Moil 360 license sent by Jacob. What changes needed?
-- [ ] **Siren Beauty:** Verify account setup and Moil 360 activation
+- [ ] **Connectex:** Taiwo committed to start Apr 22 (first concrete commit). Verify invoice + payment schedule (3 quarters) + deliverables scope.
 - [ ] **Eden:** Website discovery call recorded Apr 8. Follow up on next steps
 
 ### Product/Engineering — immediate
@@ -195,5 +194,7 @@ Source: [[wiki/concepts/claude-code]]
 
 ## ✅ Closed / Archive
 
-- [x] **2026-04-20** — Abiodun delivered next week's Moil + Inna content by Sun Apr 19 deadline (manifest posted in Moil Marketing 8:55 AM).
-- [x] **2026-04-18** — FitLogic Apr 18 deadline passed; Daniel Guadiano Apr 16 meeting held (case study pending if deal closes).
+- [x] **2026-04-21** — Megan Miller first Moil 360 customer to complete a live CRM onboarding session (89 min). First 5000-contact import pipeline unblocked. Sequences confirmed as killer feature.
+- [x] **2026-04-21** — Taiwo committed to Connectex Apr 22 start (first concrete commit after 3 weeks of slipping).
+- [x] **2026-04-20** — Abiodun delivered Moil + Inna content by Sun Apr 19 deadline (manifest in Moil Marketing 8:55 AM).
+- [x] **2026-04-18** — FitLogic Apr 18 deadline passed; Daniel Guadiano Apr 16 meeting held.

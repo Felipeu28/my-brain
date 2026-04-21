@@ -3,22 +3,23 @@ tags:
   - graph/hub
   - person/customer
 status: active
-last_contact: 2026-04-17
+last_contact: 2026-04-21
 client: "[[wiki/orgs/fitlogic]]"
 ---
 # Megan Miller
 
 **Type:** person
-**Last updated:** 2026-04-14
-**Source:** [[raw/imessages-people-2026-04-09]], [[raw/email-history-6months-2026-04-14]]
-**Related:** [[wiki/orgs/fitlogic]], [[wiki/moil/customers]], [[wiki/moil/gtm]], [[wiki/concepts/smart-hiring]]
+**Last updated:** 2026-04-21
+**Source:** [[raw/imessages-people-2026-04-09]], [[raw/email-history-6months-2026-04-14]], [[raw/teams-transcript-megan-miller-2026-04-21]], [[raw/teams-2026-04-21]]
+**Related:** [[wiki/orgs/fitlogic]], [[wiki/moil/customers]], [[wiki/moil/gtm]], [[wiki/concepts/smart-hiring]], [[wiki/concepts/moil360]], [[wiki/meetings/2026-04-21-megan-fitlogic-working-session]]
 
 ---
 
-**Email:** meganmillernp@gmail.com
+**Email:** meganmillernp@gmail.com (personal), `Megan@fitlogicfunctionalmedicine.com` (clinic — to be Moil sender)
 **Title:** Nurse Practitioner (NP) — Functional Medicine & Hormone Specialist
 **Business:** Fit Logic Functional Medicine (see [[wiki/orgs/fitlogic]])
-**Relationship:** Active Moil client — hiring + onboarding in progress
+**Relationship:** Active Moil 360 customer — CRM onboarding in progress (Apr 21 live tour)
+**Trust level:** Shared GoDaddy credentials Apr 21 ("I must really trust you")
 
 ---
 
@@ -49,8 +50,34 @@ These were active bugs/gaps in the employer experience. Andres handled support p
 
 - **FitLogic GitHub repo:** [Moil-Landingpages/fit-logic](https://github.com/Moil-Landingpages/fit-logic) — ✅ active
 - **First hire imminent** as of Apr 12, 2026
+- **Moil 360 CRM onboarded Apr 21, 2026** — first hands-on CRM tour with a paying Moil 360 customer
 - See [[wiki/orgs/fitlogic]] for deal status
+
+## April 21, 2026 — Moil 360 CRM Working Session
+
+Source: [[wiki/meetings/2026-04-21-megan-fitlogic-working-session]] (89 min, 3–4 PM CT)
+
+- **Exported her Keap CRM** (~5,000 contacts) for import into Moil. Acknowledged most "client" tags in Keap are wrong (old massage clients, kids, Charm imports). Will walk the list and mark real clients before final import.
+- **Sequences are the killer feature for her:** "This is what I've been wanting." Wants to drop every new initial-consult patient into a 3-email auto-drip with male / female variants.
+- **Shared GoDaddy credentials for `fitlogicfunctionalmedicine.com`** — Andres to deploy `/CRM` route tonight and wire `Megan@fitlogicfunctionalmedicine.com` as the sending address (currently sends from `partners@moilapp.com` which lands in spam).
+- **Pushed back on Electric Bricks** (her external website agency) — site too text-heavy, too busy, too similar to her current site. Andres drafted the formal "Fit Logic Website — Outstanding Items Before Delivery" email (alt-text missing sitewide, no H1 on homepage, chiropractic-themed blog URL slugs); Megan forwards it as the punch list.
+- **Open items for her:** forward feedback email to Electric Bricks, mark actual clients in Keap, pull remaining EHR contacts, send quiz questions for Andres to rebuild natively in Moil.
+- **Personal moment:** shared story of patient Carla (terminal colon cancer, chose quality of life over treatment, passed a month after Megan visited her at home) — core patient-relationship story that defines why Megan practices this way. Also recounted catching a 25-year-old's brain tumor early on gut instinct — her clinical intuition is the brand.
+
+## Product Feedback from Apr 21 Session
+
+| Issue | Severity | Notes |
+|---|---|---|
+| Test email from `partners@moilapp.com` landed in Gmail spam | Blocker | Deliverability bug |
+| Link inside test email returned 404 | Blocker | Campaign link wiring incomplete |
+| Couldn't switch "stuck" business plan — old "for my life" plan wouldn't move to FitLogic | Already hit her | Same bug surfaced again Apr 21 in Jacob/Andres debugging session |
+| Per-campaign aggregate click-rate not clearly surfaced | Feature ask | "Is this doing what we want?" |
+| Campaign link editing lives only in sequences, not campaigns | Feature-parity gap | Andres caught during same-day debugging |
+
+## License / Activation Issue (Apr 21)
+
+Megan had been asking for her Moil 360 license for ~2 weeks ("Two weeks asking and we don't have it for a demo call" — Andres to Jacob, 7:26 PM). Root cause: license was assigned via Buda but she needed a fresh license specifically on Moil 360. Andres and Jacob spent 20+ minutes debugging her profile — plan-switching flow was broken (30% profile completion block). Steve (Adeleke) involved to force-assign. Surfaced the partner-dashboard license UX as next redesign target.
 
 ## Why She Matters
 
-Megan represents the solo/small-team healthcare practitioner segment — a high-value Moil ICP. Her practice requires specialized hiring (clinical credentials, flexible hours) that job boards don't serve well. Her early UX feedback shaped the employer dashboard improvements. First confirmed hire through FitLogic = product proof point.
+Megan represents the solo/small-team healthcare practitioner segment — a high-value Moil ICP. Her practice requires specialized hiring (clinical credentials, flexible hours) that job boards don't serve well. Her early UX feedback shaped the employer dashboard improvements. First confirmed hire through FitLogic = product proof point. As of Apr 21, she is also the **first Moil 360 customer to receive a live CRM tour** — her feedback (sequences excitement, campaign editing gap, deliverability, plan-switching bug) is disproportionately load-bearing for product direction, and she is the **strongest current case-study candidate** given relationship depth (GoDaddy credentials on the first call).

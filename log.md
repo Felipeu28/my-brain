@@ -4,6 +4,40 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ---
 
+## 2026-04-21 — Run 17: Teams Apr 20–21 + Megan FitLogic CRM onboarding
+
+**Trigger:** Automated scan for unprocessed raw files. Three new files since Run 16:
+- `raw/teams-2026-04-21.md` (161 messages across 6 threads, Apr 20–21)
+- `raw/teams-transcript-megan-miller-2026-04-21.md` (89-minute Megan × Andres working session — first Moil 360 live CRM onboarding)
+- `raw/weekly-sessions-2026-04-21.md` (Claude Code weekly rollup, 18 sessions, week of Apr 19 — meta metadata only, already reflected in downstream wiki pages)
+
+**Pages created (2):**
+- [[wiki/meetings/2026-04-21-teams-daily-ops]] — full daily ops digest; decisions, action items, key signals for Apr 21
+- [[wiki/meetings/2026-04-21-megan-fitlogic-working-session]] — 89-min customer session, the single most load-bearing product-feedback session captured in the Brain to date
+
+**Pages updated (5):**
+- [[wiki/people/megan-miller]] — promoted to hub; added Apr 21 CRM tour block, product feedback table, license activation issue context, Carla patient story
+- [[wiki/orgs/fitlogic]] — promoted from spoke to hub; full rewrite covering Moil 360 onboarding, Apr 21 working-session decisions, Electric Bricks redesign problem, product feedback concentration, case-study positioning
+- [[wiki/people/jacob-oluwole]] — Apr 21 block: Megan license firefight, partners-domain spam acknowledgment, PureSerenity license slip, `cs@moilapp.com` password leaked in channel
+- [[wiki/people/taiwo-ola-balogun]] — Apr 21 block: FitLogic overnight bugs, campaign vs. sequence parity gap surfaced, OG image miss, Connectex Apr 22 start commitment (revenue-urgency shift)
+- [[wiki/people/adeleke-tolulope]] — Apr 21 block: prod image-gen latency debug, Claude Code → AWS same-day fix pattern, Gemini→Grok→Qwen multi-model fallback architecture decision, force-assigned Megan's Moil 360 license
+- [[MEMORY]] — full Apr 21 block at top; trimmed older Apr 12 Teams carryover to 200 lines; closed Megan Moil 360 onboarding + Taiwo Connectex commitment
+- [[index]] — stats refreshed (251 pages / 219 raw sources)
+
+**Key intelligence from Run 17:**
+1. **Moil 360 launch day was triage, not parade.** "MOIL 360 BABY!!" at 5:18 PM masked a day of license-distribution failures: Megan FitLogic still didn't have her license after 2 weeks of asking, PureSerenity / Roxana paid but never got their link, Siren Beauty status unknown. Product works; distribution layer is broken.
+2. **`partners@moilapp.com` deliverability is P0.** Second confirmed customer (Megan via Gmail spam folder) in two days. Engineering team said "they can't optimize it more" — not acceptable. Workaround for FitLogic tonight: move to per-customer sender domain. Doesn't scale.
+3. **Megan's session is the single richest product-feedback session in the Brain.** Six product issues surfaced in one 89-minute call: spam deliverability, 404 links, stuck business-plan switching (2nd customer hit), campaign-vs-sequence link-editing parity, per-campaign click-rate visibility, duplicate-contact detection. Plus one killer-feature confirmation (sequences — "This is what I've been wanting").
+4. **Business-plan switching UX is a class-wide bug, not a one-off.** Jacob's own words: "Probably the same thing that happened to me happened to her." Hit Megan weeks ago and again Apr 21. Previously closed via manual DB intervention. Needs a real fix.
+5. **Connectex finally committed.** Taiwo said Apr 22 start — first concrete commitment after 3 weeks of slipping. Driver was Taiwo's first explicit revenue-urgency line: "I need to move on to other projects so we can start getting paid!" Pattern shift from Apr 18 time-zone boundary → Apr 21 revenue ownership.
+6. **Multi-model fallback on prod.** Adeleke added Gemini→Grok→Qwen fallback for video generation — first on-prod multi-provider routing decision. Architecturally important.
+7. **Claude Code → AWS same-day fix pattern is the new normal.** Adeleke pushed three Claude-authored fixes to prod Apr 21 (image-gen latency, template fails, Gemini fallback). The review loop is now: Andres reports → Adeleke fixes via Claude Code → deploys same day.
+8. **Credential hygiene collapsed in public.** Jacob posted `Pr0ud**2023$` (`cs@moilapp.com`) in the open Moil Team channel when Adeleke asked at 11:31 AM. Every credential in the team is now in a searchable Teams history. Needs vault + retraining.
+9. **Electric Bricks pattern matters for Moil 360 at scale.** Moil customers come with existing agencies mid-engagement. The right play is wait-then-layer: let the agency ship, then Moil adds CRM forms + quiz + routes. Inserting too early burns per-change fees; too late loses trust. Apr 21 set the pattern with Megan.
+10. **Megan is the flagship H1 case-study candidate.** Shared GoDaddy credentials on the first CRM call; strongest trust depth in the customer roster; covers the most Moil 360 surface area (hiring + CRM + campaigns + sequences + site + soon quiz).
+
+---
+
 ## 2026-04-21 — Run 16: Siren + Inna deep compile
 
 Triggered by client-coverage audit: wiki pages were undercapturing the rich raw HIVE strategy docs.

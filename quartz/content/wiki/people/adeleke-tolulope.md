@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-20
+last_contact: 2026-04-21
 tags:
   - graph/hub
   - person/team
@@ -8,8 +8,8 @@ tags:
 # Adeleke Tolulope (Steve)
 
 **Type:** person
-**Last updated:** 2026-04-20
-**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026)
+**Last updated:** 2026-04-21
+**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026)
 **Related:** [[wiki/people/jacob-oluwole]], [[wiki/people/taiwo-ola-balogun]], [[wiki/moil/positioning]], [[wiki/moil/product-roadmap]]
 
 ---
@@ -126,6 +126,19 @@ Source: [[raw/teams-2026-04-20]]
 - **Codebase-selection snag surfaced.** "oh, we hav to select the codebase with prod / the business_plan_beta_prod" (4:37 PM) — signal that Claude Code / tool configuration needs to target prod codebase explicitly; default was wrong.
 
 See [[wiki/meetings/2026-04-20-teams-daily-ops]].
+
+## April 21, 2026 — Moil 360 Launch-Day Firefight + Multi-Model Fallback
+
+Source: [[raw/teams-2026-04-21]]
+
+- **Prod image-generation regression debugged all afternoon.** Image creation went from "happen right away" to "taking a minute+" — Adeleke restarted his system mid-debug ("Omg Please I need to restart my system so I can fix this, it's going to take few minutes" 5:12 PM). Confirmed template intermittently failing.
+- **Claude Code pushed fixes to AWS same-day.** Quote: "Claude already pushed the update, it deploying right now on AWS" (5:29 PM) → "Fixes deployed already" (5:31 PM). Continues the Apr 20 pattern: Andres reports, Adeleke fixes via Claude Code, deploys same day.
+- **Multi-model fallback architecture decision.** Adeleke wants Gemini video generation to **fall back to Grok** on error even if the user didn't select Grok. Added a Qwen backup layer too. Andres: "Great, and add a qwen model for backup as well." First on-prod multi-provider routing decision for Moil — important for reliability and cost at scale. Architectural pattern: primary (user-selected) → Grok (fallback) → Qwen (backup).
+- **Codebase-selection snag fixed after Apr 20's surfacing** — Adeleke explicitly targeting `business_plan_beta_prod` for the Claude Code session on the Gemini-fallback work.
+- **Force-assigned Megan FitLogic's Moil 360 license** after the Jacob/Andres debug loop confirmed the plan-switching bug had trapped her. Steve was the gate to unblock the customer.
+- **Asked for `cs@moilapp.com` password** openly in Moil Team channel at 11:31 AM — Jacob responded with the plaintext password in the channel. Credential hygiene needs a vault.
+
+See [[wiki/meetings/2026-04-21-teams-daily-ops]].
 
 ## Gaps
 
