@@ -4,6 +4,20 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ---
 
+## 2026-04-22 — MEMORY.md prune (Phase 0C of Brain Activation Plan)
+
+Compressed MEMORY.md from 200 → 100 lines ahead of Phase 1 correlator work, which will add new sections (Signal Brief context, relationship radar). Every open action preserved; only duplicative formatting and resolved items were consolidated.
+
+**Closed / archived from MEMORY.md:**
+- [x] **2026-04-21** — Megan Miller first Moil 360 customer to complete a live CRM onboarding session (89 min). First 5000-contact import pipeline unblocked. Sequences confirmed as killer feature.
+- [x] **2026-04-21** — Taiwo committed to Connectex Apr 22 start (first concrete commit after 3 weeks of slipping).
+- [x] **2026-04-20** — Abiodun delivered Moil + Inna content by Sun Apr 19 deadline (manifest in Moil Marketing 8:55 AM).
+- [x] **2026-04-18** — FitLogic Apr 18 deadline passed; Daniel Guadiano Apr 16 meeting held.
+
+**Consolidated into "Technical debt" section:** Apr 5–12 Teams ingestion technical items (tour guide bugs, segment analytics, image context, Supabase deploy, Meridian, phone sign-up, video production, Sun show raffle, Adeleke FB account, credentials migration) — preserved verbatim but grouped under one header rather than five sub-sections.
+
+---
+
 ## 2026-04-21 — Run 17: Teams Apr 20–21 + Megan FitLogic CRM onboarding
 
 **Trigger:** Automated scan for unprocessed raw files. Three new files since Run 16:
