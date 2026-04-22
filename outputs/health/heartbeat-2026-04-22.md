@@ -1,6 +1,6 @@
 # Brain Heartbeat — 2026-04-22
 
-**Generated:** 2026-04-22 09:20 CDT
+**Generated:** 2026-04-22 11:13 CDT
 
 ## Artifacts
 
@@ -8,9 +8,9 @@
 |---|---|---:|---|---|
 | Morning briefing | `/Users/jarvisurrego/My Brain/knowledge-base/outputs/briefing-2026-04-22.md` | missing | missing | attention needed |
 | Weekly pulse | `none` | missing | missing | clean |
-| Content calendar | `/Users/jarvisurrego/My Brain/knowledge-base/outputs/content-calendar/calendar-2026-W16.md` | 216 | warning | clean |
-| Teams ingest source | `/Users/jarvisurrego/My Brain/knowledge-base/raw/teams-transcript-roxana-andres-2026-04-14.md` | 169 | stale | attention needed |
-| Chroma index | `/Users/jarvisurrego/My Brain/pi-workspace/.chroma-data/last_indexed.txt` | 0 | healthy | attention needed |
+| Content calendar | `/Users/jarvisurrego/My Brain/knowledge-base/outputs/content-calendar/calendar-2026-W16.md` | 218 | warning | clean |
+| Teams ingest source | `/Users/jarvisurrego/My Brain/knowledge-base/raw/teams-transcript-roxana-andres-2026-04-14.md` | 171 | stale | attention needed |
+| Chroma index | `/Users/jarvisurrego/My Brain/pi-workspace/.chroma-data/last_indexed.txt` | 1 | healthy | attention needed |
 
 ## Notes
 

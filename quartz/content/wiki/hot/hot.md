@@ -31,6 +31,14 @@ Updated automatically by:
 ## Recent Queries
 
 <!-- ENTRIES:query -->
+- 2026-04-22 11:34 — Q: "What are the 3 most important things I should focus on today? Consider: open dea" → ---
+- 2026-04-22 11:34 — Session end: [Brain/KB] You are the Moil Brain query engine. Answer this question using the Brain's know… — 17 events
+- 2026-04-22 11:33 — Session end: [Brain/Auto] init — 6 events
+- 2026-04-22 11:32 — Session end: [Brain/Auto] Run the morning briefing. Execute these steps:  1. Fetch today's calendar: bash … — 1 new files · 1 edits
+- 2026-04-22 11:30 — Session end: [Brain/KB] Let's create a full research, analysis and implementation plan to be able to hav… — 23 new files · 11 edits
+- 2026-04-22 11:24 — Session end: [Brain/KB] The morning briefing script at `/Users/jarvisurrego/My Brain/pi-workspace/bin/mo… — 2 edits
+- 2026-04-22 11:16 — Session end: [Brain/KB] The morning briefing script at `/Users/jarvisurrego/My Brain/pi-workspace/bin/mo… — 2 edits
+- 2026-04-22 11:16 — Session end: [Brain/KB] The morning briefing script at `/Users/jarvisurrego/My Brain/pi-workspace/bin/mo… — 2 edits
 - 2026-04-22 11:13 — Q: "What are the 3 most important things I should focus on today? Consider: open dea" → Here are your top 3 for today, April 22:
 - 2026-04-22 11:13 — Session end: [Brain/KB] You are the Moil Brain query engine. Answer this question using the Brain's know… — 13 events
 - 2026-04-22 11:13 — Session end: [Brain/Auto] init — 6 events
@@ -43,14 +51,6 @@ Updated automatically by:
 - 2026-04-22 10:34 — Session end: [Brain/KB] You are the Moil Brain's daily cross-source intelligence analyst.  You are readi… — 7 events
 - 2026-04-22 10:33 — Session end: [Brain/KB] You are the Moil Brain's daily cross-source intelligence analyst.  You are readi… — 7 events
 - 2026-04-22 10:32 — Session end: [Brain/KB] init — 8 events
-- 2026-04-22 10:30 — Session end: [Brain/KB] init — 8 events
-- 2026-04-22 10:21 — Session end: [Brain/KB] Find the file `brain-activation-plan.md` — check these locations: 1. `~/Download… — 3 chapters · 6 new files · 31 edits · 9 commits
-- 2026-04-22 10:17 — Session end: [Brain/KB] You are an entity-extraction agent for the Moil Brain.  Extract every person men… — 10 events
-- 2026-04-22 10:14 — Session end: [Brain/KB] You are an entity-extraction agent for the Moil Brain.  Extract every person men… — 10 events
-- 2026-04-22 09:37 — Session end: [Brain/KB] Find the file `brain-activation-plan.md` — check these locations: 1. `~/Download… — 2 chapters · 4 new files · 23 edits · 7 commits
-- 2026-04-22 09:35 — Session end: [Brain/KB] Let's create a full research, analysis and implementation plan to be able to hav… — 1 new files
-- 2026-04-22 09:33 — Session end: [Brain/KB] init — 6 events
-- 2026-04-22 09:31 — Session end: [Brain/KB] init — 6 events
 <!-- /ENTRIES:query -->
 
 ## Recent Saves
