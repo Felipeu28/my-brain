@@ -1,6 +1,6 @@
 # Moil Brain — Master Index
 
-**Last compiled:** 2026-04-21 (Run 17 — Teams Apr 20–21 + Megan FitLogic CRM onboarding ingested) · **Total wiki pages:** 251 · **Raw sources:** 293
+**Last compiled:** 2026-04-22 (Phase 1 Brain Activation — daily correlator + signal briefs online) · **Total wiki pages:** 251 · **Raw sources:** 294
 
 > **Canonical operating truth lives outside the wiki:** if status or architecture notes here conflict with newer operating reality, use `~/My Brain/CURRENT_STATE.md` first.
 
