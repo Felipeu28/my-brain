@@ -10,31 +10,36 @@ date: 2026-04-22
 
 ---
 
-## Top 3 for Today — Wednesday, Apr 22
+## Top 3 for Wednesday, April 22
 
 ---
 
-### 1. Kate Silvas / Helotes EDC call — **TODAY 10am CT** ⏰
-[[MEMORY.md]] flags this as a hard calendar event. You need to lead with the Buda EDC case study + per-cohort license model, and send a Buda-mirror proposal after. The Buda EDC one-pager (pricing, delivery, Cohort 4 proof) should be ready before you dial. This is your highest-leverage new revenue event today — a second EDC B2G deal would directly expand the model.
+### 1. Kate Silvas call — 10am TODAY (highest leverage)
+[[wiki/people/katherine-silvas]] is the cleanest B2G deal in your pipeline. Buying signal from Mar 31: *"include MOIL as the offering we provide to our clients in the incubator."* — identical Buda EDC structure, new city, new cohort revenue.
 
-**Pre-call must-haves:** Cohort 4 start date (Apr 20 ✓), per-seat pricing, proof of Joshua Edmond's Week 1 delivery.
-
----
-
-### 2. FitLogic CRM deployment is overdue — **P0 delivery crisis**
-[[MEMORY.md]] shows the Apr 21 firefight items that were due *last night* and likely unresolved: deploy CRM at `fitlogicfunctionalmedicine.com/CRM`, wire `Megan@fitlogicfunctionalmedicine.com` as sender, import 5,000-contact Keap CSV, and fix `partners@moilapp.com` deliverability (flagged P0 — hitting Megan, Roxana, Jill). Plus: business-plan switching bug hit Megan *twice* now. Every day this slips is churn risk on a paying customer.
-
-**Who's blocking what:** Taiwo owns Connectex+FitLogic today; Jacob owns resending license links and the deliverability fix.
+**Before the call (right now):** Confirm Cohort 4 proof points (started Apr 20), per-seat pricing, Buda one-pager. **After the call:** send draft proposal within 24h. This is a closer moment — come in sharp. See [[wiki/moil/pipeline]] Hot/In Delivery → Buda EDC Cohort 4.
 
 ---
 
-### 3. Rotate the exposed `cs@moilapp.com` credential — **active security incident**
-[[MEMORY.md]] — Jacob posted `Pr0ud**2023$` in an open Moil Teams thread on Apr 21. This password is now compromised. Rotate it immediately, then move it to 1Password/Bitwarden. (This compounds the broader credentials-out-of-Teams cleanup that's been deferred too long.)
+### 2. FitLogic CRM delivery — overdue to Megan Miller
+You owe [[wiki/people/megan-miller]] five items that were due Apr 21 and none have shipped. The Apr 21 Signal Brief is explicit: *"This week's risk is that she churns before any of it ships."* Her revenue is live; the account is fragile.
+
+**Critical path today:** Deploy CRM to `fitlogicfunctionalmedicine.com/CRM` via GoDaddy → wire `Megan@fitlogicfunctionalmedicine.com` as sender → wipe test contacts → fix 5,000-contact CSV import. Taiwo also owes you FitLogic wiring (due today per [[wiki/hot/open-commitments]]) — confirm he's moving.
 
 ---
 
-**Relationship watch (not top-3 but don't let it slip):** [[wiki/people/roxana-esquivel|Roxana Esquivel / Alloy ATX]] is 40 days cold per [[wiki/hot/relationship-radar]]. She closed Apr 11 and the pipeline still shows "confirm license + Ablad delivery" as open — this could stall into churn. A quick check-in today or tomorrow is worth it.
+### 3. Security: leaked password + PAT expiry in 4 days
+Two compounding issues from [[wiki/meetings/2026-04-22-morning-briefing]]:
+
+- **Rotate `cs@moilapp.com` today.** Jacob posted `Pr0ud**2023$` in the open Moil Teams channel Apr 21. Every minute this sits is a live credential exposure.
+- **Regenerate GitHub PAT "Antigravity" before Apr 26.** It's already causing Quartz deploy failures (2 consecutive Pages failures Apr 19). Also the likely root cause of the `moil-code-employer-beta` Vercel failure Apr 20. Do it before the Sun Show demo on Apr 24 — you don't want a broken deploy during a live client showcase.
 
 ---
 
-GAP: Today's calendar events are not in the wiki — `brain-query.sh` can't confirm whether the 10am Kate Silvas call has a prep doc or calendar invite pulled. A live calendar-to-wiki sync would close this blind spot.
+**Not in top 3 but watch:**
+- [[wiki/people/merrie-santana]] is 22 days stale on a booked HIVE service — confirm delivery today if you have a spare 5 minutes.
+- [[wiki/people/jennifer-storm]] (CampaignOS) is 23 days awaiting reply — Cohort 4 now live is your natural re-engage hook.
+
+---
+
+GAP: No calendar confirmation logged for the Sun Show logistics (Apr 24 7pm, Meridian Buda) — materials, screen, flyers untracked in MEMORY.md.
