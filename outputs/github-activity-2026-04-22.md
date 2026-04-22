@@ -2,6 +2,12 @@
 
 ### Active Client Work
 
+### Connectex Website
+**Client:** Connectex  |  **Wiki:** [[wiki/orgs/connectex]]
+`Felipeu28/connectex-website`
+
+- `03ef577` Apr 22 15:09 — fix(auth): remove CRM layout auth guard causing infinite redirect loop
+
 ### FitLogic
 **Client:** FitLogic  |  **Wiki:** [[wiki/orgs/fitlogic]]
 `Moil-Landingpages/fit-logic`
@@ -11,6 +17,27 @@
 - `0204854` Apr 21 22:41 — some changes from Jacob worked on
 
 ### Active Product Development
+
+### Mailing Service
+**Wiki:** [[wiki/moil/product-roadmap]]
+`Moil-Code/Mailing-service-prod`
+
+- `e2582a8` Apr 22 15:46 — update
+- `44ea6ab` Apr 22 14:25 — update
+
+### Business Plan Creator (staging)
+**Wiki:** [[wiki/moil/product-roadmap]]
+`Moil-Code/Business-plan-Staging`
+
+- `a1a237c` Apr 22 15:40 — Merge branch 'neww'
+- `d440f04` Apr 22 15:39 — update
+- `0b0c4c1` Apr 22 14:13 — Merge branch 'claude/research-moil-360-K2B85' of https://github.com/Moil-Code/Business-plan-Staging into claude/research-moil-360-K2B85
+
+### Core Backend (staging)
+**Wiki:** [[wiki/moil/product-roadmap]]
+`Moil-Code/Moil-codeStagebeta-backend`
+
+- `7910df8` Apr 22 14:24 — update
 
 ### Business Portal
 **Wiki:** [[wiki/moil/product-roadmap]]

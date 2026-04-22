@@ -8,29 +8,26 @@ date: 2026-04-22
 
 # Brain Query: What are the 3 most important things I should focus on today? Consider: open deals at risk of going stale, relationships going cold, pending deliveries due this week, and anything urgent in my pipeline or calendar.
 
-Based on [[MEMORY]], [[wiki/moil/pipeline]], and today's [[raw/briefings/briefing-2026-04-22|briefing]], here are today's top 3 — in priority order:
-
-## 1. 🔥 Kate Silvas / Helotes EDC — 10 AM CT call (highest revenue lever)
-This is the day's biggest move. Second EDC adopting the Moil-in-incubator model = the [[wiki/orgs/buda-edc|Buda]] playbook becoming a category. Her written buying signal: *"include MOIL as the offering we provide to our clients in the incubator."* See [[wiki/people/katherine-silvas]].
-
-**Walk in with:** (a) Buda EDC one-pager — pricing, delivery, Cohort 4 proof, (b) draft per-cohort license + coaching proposal mirroring the [[wiki/people/jennifer-storm|Jennifer Storm]] contract, ready to send within 24h of the call.
-
-## 2. 🔥 Megan / FitLogic — 11 AM working session (customer in active onboarding)
-Megan is your first Moil 360 customer doing a live CRM onboarding — her feedback is load-bearing and she's your top case-study candidate. See [[wiki/people/megan-miller]].
-
-**Do FIRST, before 11 AM:** fix the `fit-logic` Vercel red deploy from Apr 21 22:45 — yesterday she saw a red prod deploy on her own repo; two days in a row would be brand damage. Then in the session: forward Electric Bricks punch list, deploy `/CRM` route on her GoDaddy, wire `Megan@fitlogicfunctionalmedicine.com` as sender, mark real clients in Keap, import the 5K Keap CSV.
-
-## 3. Cold/stale pipeline triage — 3 pings that can't wait
-Several high-value relationships are quietly slipping. Send these TODAY (5 minutes of messages, high leverage):
-
-- **[[wiki/people/travis-sutherland|Travis Sutherland]]** — Sun Show is **Fri Apr 24, 2 days out**. No confirm, no asset prep visible. Ping to confirm logistics + ask for the testimonial.
-- **[[wiki/people/jacquie-martinez|Jacquie Martinez]] / Buda EDC** — Cohort 4 started Apr 20, Cohort 4 #2 is on the calendar Apr 27, but board-approved contract (due Apr 15) still isn't visibly signed. Confirmation ping today.
-- **[[wiki/people/daniel-guadiano|Daniel Guadiano]] / Astra** — he replied yesterday after 13 days silent. Send the 30-min AI scheduling demo offer while he's warm, and update [[wiki/moil/pipeline]].
-
-**Honorable mention (tonight, not daytime):** the P0 partners@moilapp.com deliverability issue + the business-plan switching bug now hitting a second customer ([[MEMORY]] 🔥 items) — these are the structural risks that will undo the wins above if left past this week.
+Here are your top 3 for today, April 22:
 
 ---
 
-**Also flag:** 8 AM Jacob call violates your no-meetings-before-10am rule — if this becomes a pattern, push back.
+**1. Kate Silvas / Helotes EDC call — TODAY 10am CT**
 
-GAP: No wiki page for [[wiki/people/katherine-silvas]] or [[wiki/orgs/helotes-edc]] visible yet — worth creating/checking before the 10 AM call so prep notes have a home.
+[[MEMORY.md]] flags this as the highest-stakes scheduled event this week. You need a Buda EDC one-pager (pricing, delivery, Cohort 4 proof) ready before the call and a Buda-mirror proposal to send after. If this prep isn't done, you're walking in cold on an expansion deal that could replicate the Buda B2G model. See [[wiki/people/katherine-silvas]], [[wiki/orgs/helotes-edc]].
+
+---
+
+**2. FitLogic / Email deliverability P0 — active customer churn risk**
+
+Three unresolved items from the Apr 21 firefight are customer-facing today: (a) deploy Moil CRM at `fitlogicfunctionalmedicine.com/CRM`, (b) fix `partners@moilapp.com` deliverability (hitting Megan, Roxana, Jill — Jacob said "can't optimize further"), and (c) fix the business-plan switching UX bug (class-wide, hit Megan twice). These are live paying customers. [[MEMORY.md]] marks all three 🔥. Also: rotate `cs@moilapp.com` password — Jacob posted it in plain-text Teams chat Apr 21.
+
+---
+
+**3. Roxana / AlloyATX deadline passed + 2 relationships going cold**
+
+The Apr 18 deadline for Roxana's 21 questions + assets + GoDaddy domains has already passed — verify status now before she churns silently. [[MEMORY.md]] also flags Merrie Santana (14+ days, no delivery follow-up since Mar 31) and Daniel Guadiano/Astra Restaurant (13 days since last touch Apr 9, demo still not scheduled). One outreach message to each closes the loop.
+
+---
+
+**GAP:** No `wiki/hot/relationship-radar` page exists yet with automated cold-contact tracking — the file is referenced in the hot-cache frontmatter but not populated.
