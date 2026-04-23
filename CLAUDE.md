@@ -225,3 +225,13 @@ Monthly quality audit. Run after bulk ingestion or monthly.
 3. Find pages on the same topic that may contradict each other
 4. Report everything — don't auto-fix
 5. Save report to `quartz/content/raw/outputs/brain-lint-YYYY-MM-DD.md`
+
+## Code Quality Principles (Karpathy-Inspired)
+
+**Think Before Coding**: State assumptions explicitly. If uncertain, ask rather than guess. Present multiple approaches when ambiguity exists. Push back if a simpler path exists.
+
+**Simplicity First**: Write the minimum code that solves the problem. No features beyond what was asked. No abstractions for single-use cases. If 50 lines does what 200 would do, write 50.
+
+**Surgical Changes**: Touch only what the task requires. Don't refactor adjacent code. Match existing style. If you create orphaned imports/variables, remove them. If you notice unrelated dead code, mention it — don't delete it.
+
+**Goal-Driven Execution**: Define success criteria before starting. For multi-step tasks, state: "Step 1 → verify: [check]. Step 2 → verify: [check]." Loop until verified.
