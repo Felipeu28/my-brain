@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash '/Users/jarvisurrego/My Brain/knowledge-base/.claude/hooks/stop.sh'",
+            "timeout": 30
+          }
+        ]
+      }
+    ]
+  }
+}

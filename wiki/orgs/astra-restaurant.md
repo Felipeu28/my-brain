@@ -1,6 +1,6 @@
 ---
 status: warm
-last_contact: 2026-04-09
+last_contact: 2026-04-21
 tags:
   - graph/spoke
 owner: "[[wiki/people/daniel-guadiano]]"
@@ -8,8 +8,8 @@ owner: "[[wiki/people/daniel-guadiano]]"
 # Astra Restaurant
 
 **Type:** organization
-**Last updated:** 2026-04-14
-**Source:** [[wiki/people/daniel-guadiano]], [[wiki/moil/pipeline]]
+**Last updated:** 2026-04-22
+**Source:** [[wiki/people/daniel-guadiano]], [[wiki/moil/pipeline]], [[raw/email-digest-2026-04-21]]
 **Related:** [[wiki/moil/gtm]], [[wiki/moil/icp]]
 
 ---
@@ -22,8 +22,8 @@ Daniel Guadiano's restaurant. Warm prospect for Moil's AI scheduling feature. Or
 
 - **Use case:** AI scheduling for restaurant ops
 - **Contact:** Daniel Guadiano — 210.978.4483
-- **Status:** 30-min scheduling demo needed (per pipeline.md)
-- **Last touch:** 2026-04-09 (email inquiry from Daniel)
+- **Status:** Meeting proposed Apr 22 (after 1pm) or Apr 23 (after 10am); awaiting Daniel's pick
+- **Last touch:** 2026-04-21 (Andres replied proposing meeting slots)
 
 ## Why This Matters
 
@@ -33,9 +33,9 @@ Daniel Guadiano's restaurant. Warm prospect for Moil's AI scheduling feature. Or
 
 ## Next Actions
 
-1. Reply to Daniel's Apr 9 email with a 30-min scheduling demo slot
+1. Confirm meeting slot — Apr 22 (after 1pm) or Apr 23 (after 10am); Andres already proposed both to Daniel
 2. Tailor the demo to restaurant ops (shift handoffs, no-shows, bilingual staff)
-3. If it closes, write a short restaurant case study for the site + sales deck
+3. If it closes, write a short restaurant case study for the site + sales deck — first hospitality-ICP proof point
 
 ## Connections
 

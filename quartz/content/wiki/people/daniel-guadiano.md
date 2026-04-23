@@ -9,8 +9,8 @@ client: "[[wiki/orgs/astra-restaurant]]"
 # Daniel Guadiano
 
 **Type:** person
-**Last updated:** 2026-04-15
-**Source:** [[raw/outlook-emails-2026-04-09]]
+**Last updated:** 2026-04-22
+**Source:** [[raw/outlook-emails-2026-04-09]], [[raw/email-digest-2026-04-21]]
 **Related:** [[wiki/orgs/astra-restaurant]], [[wiki/moil/icp]], [[wiki/moil/gtm]], [[wiki/moil/pipeline]]
 
 ---
@@ -28,7 +28,7 @@ Daniel Guadiano is the **General Manager of [[wiki/orgs/astra-restaurant|Astra R
 
 ## Relationship
 
-Met at **Buda Main Street networking event, February 2026** — exactly the channel-1 (local events + networking) entry point described in [[wiki/moil/gtm|gtm.md]]. Apr 9, 2026: sent an email inquiry asking about Moil's scheduling capabilities. Pending reply.
+Met at **Buda Main Street networking event, February 2026** — exactly the channel-1 (local events + networking) entry point described in [[wiki/moil/gtm|gtm.md]]. Apr 9, 2026: sent an email inquiry asking about Moil's scheduling capabilities. **Apr 21, 2026:** Andres replied proposing meeting tomorrow (Apr 22) after 1pm or Thursday (Apr 23) after 10am. Deal conversation actively scheduled.
 
 ## Pain Point
 
@@ -43,7 +43,7 @@ Weekly restaurant scheduling is time-consuming. Daniel wants to free up his time
 
 ## Next Actions
 
-- [ ] Reply to Apr 9 email with a 30-min scheduling demo slot
+- [ ] **Apr 22/23:** Confirm meeting slot (tomorrow after 1pm or Thursday after 10am) — Andres already proposed both
 - [ ] Tailor demo to restaurant ops (shift handoffs, no-shows, bilingual staff)
 - [ ] If it closes, write a hospitality case study
 

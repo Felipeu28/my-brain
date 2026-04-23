@@ -4,6 +4,47 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ---
 
+## 2026-04-22 — Run 18: Email digests Apr 20 + Apr 21
+
+**Trigger:** Automated scan for unprocessed raw files. Two new files since Run 17:
+- `raw/email-digest-2026-04-20.md` (committed Apr 20 by `email-digest` job — 24-hour window Apr 19–20)
+- `raw/email-digest-2026-04-21.md` (committed Apr 21 by `email-digest` job — 24-hour window Apr 20–21)
+
+**Pages created (3):**
+- [[wiki/people/irma-mason]] — local community referrer; two warm intros in 24 hours (Elisa Alaniz + Mrs. Unger)
+- [[wiki/people/elisa-alaniz]] — project manager referred by Irma Mason; Friday ~3:30 PM CT discovery call booked
+- [[wiki/people/shannon-cameron]] — **Director of Operations, Buda EDC**; first documented contact — forwarded HIVE Strategist PSA assets Apr 21
+
+**Pages updated (10):**
+- [[wiki/people/megan-miller]] — Apr 19 payment-plan renegotiation ask ($500/mo × 3 → $250/mo × 6); new source refs
+- [[wiki/people/rashaka-boykins]] — Apr 21 inbound re-engagement (LLM marketing / adaptive platform question); status warm → active
+- [[wiki/people/daniel-guadiano]] — Apr 21 reply proposing Apr 22 (after 1pm) or Apr 23 (after 10am) meeting
+- [[wiki/people/jill-pureserenity]] — Apr 21 pre-launch "Pending Items" checklist + Teams invite; PureSerenity license-link still blocked on `partners@moilapp.com` deliverability
+- [[wiki/people/roxana-yglesias]] — Apr 20 first Stripe payment ($75) for Moil Enterprise
+- [[wiki/orgs/buda-edc]] — added Shannon Cameron (Director of Operations) to leadership layer; Casey Earley title corrected to Administrative Coordinator
+- [[wiki/orgs/astra-restaurant]] — status line updated: meeting proposed Apr 22/23; last_contact → 2026-04-21
+- [[wiki/orgs/alloy-atx]] — Apr 20 first Stripe payment logged
+- [[wiki/orgs/fitlogic]] — Apr 19 Megan payment-plan ask captured under Deal Status
+- [[wiki/moil/gtm]] — Apr 20 (MA-heavy 24-email day) + Apr 21 (IL/ON/NH breakup cluster + Karla Ganster SMB template test + Astra reply) outbound sections added; warm-referral lane from Irma Mason documented; Apr 20 AlloyATX Stripe revenue signal noted
+- [[MEMORY]] — new Apr 22–May 2 action items: Daniel Guadiano meeting, Elisa Alaniz phone call, Mrs. Unger response, Rashaka reply, Megan payment-plan decision, Caroline Mungenast Apr 24 re-queue, Buda HIVE Apr 27 Lunch & Learn, Shannon Cameron PSA follow-up
+
+**Key intelligence from Run 18:**
+
+1. **AlloyATX is now live-billing at $75/mo.** First Stripe payment from Roxana hit Apr 20 — the Apr 14 close is no longer theoretical. Combined with Apr 21 Moil 360 launch-day chaos, this is the week Moil crossed from "selling" to "collecting" on 2026 closes.
+2. **Astra Restaurant deal is active again.** Daniel Guadiano's Apr 9 inquiry stagnated for 12 days; Andres broke the silence Apr 21 by proposing Apr 22/23 meeting slots. If it closes, this is the **first hospitality-ICP case study** — template for restaurant vertical.
+3. **Megan Miller asked to renegotiate payment terms** ($500/mo × 3 → $250/mo × 6). Ask landed Apr 19, two days before the 89-minute CRM tour. The renegotiation + website-update ask in the same email needs a revenue decision alongside the Apr 21 deliverability firefight.
+4. **Rashaka Boykins broke a 6-week silence on her own initiative.** Apr 21 inbound question on LLM marketing — platform-fit curiosity from a previously-warm prospect who went quiet after the Feb 27 / Mar 5 double intro calls. Re-engagement with zero outbound pressure is a strong signal.
+5. **Irma Mason emerged as a repeat referrer.** Two warm intros in 24 hours (Elisa Alaniz + Mrs. Unger) — first documented multi-referral from any single community contact. Local Kyle/Buda/San Marcos geography aligns exactly with Moil's home market. Distinct lane from cold chamber/EDC outbound.
+6. **Shannon Cameron opens a fourth Buda EDC relationship layer.** After Jennifer (CEO), Jacquie (HIVE Asst. Director), and Casey (Admin Coordinator), Shannon (Director of Operations) is now on the graph. The HIVE Strategist role is getting formal PSA treatment — Moil's Buda EDC footprint is deeper than any other EDC.
+7. **Outbound breakup wave tilts international.** Apr 21's 25-email day hit Canada (Hamilton, Haliburton, Toronto, Mississauga), Illinois (Rock Falls, Bolingbrook, West Ridge, Intersect Illinois, LaGrange, Greater Hall), and New Hampshire (Monadnock, Portsmouth, Mt. Washington Valley, Strafford) — all closing sequences, not opening them. First documented cross-border close-out cluster.
+8. **New SMB outbound template.** "Most SMB owners tell us the same thing…" sent to Karla Ganster (CAP Consulting Eng) Apr 21 — first recorded use, first SMB (not chamber/EDC) target with this framing. Potential A/B signal to watch.
+9. **Caroline Mungenast / Birmingham Business Alliance** is not dead — OOO at Hannover Messe until Apr 24. Re-queue rather than close out.
+10. **CHES Career Day (May 7) fully confirmed.** Mariana Rodriguez (Andres's wife) accepted as presenter; Renee Simmons confirmed 20-min slot to 4th/5th graders. Andres and Mariana are now both booked for this community event.
+
+**Summary:** Run 18 was a quiet-signal run. No new meetings, no new product firefights — but three new people pages (two warm referrals + a new Buda EDC leadership contact), first Stripe revenue signal, a payment renegotiation that needs a decision, and a re-awakened March prospect. Outbound cadence tilted breakup-heavy across Apr 20–21 with strong MA + IL + Canada + NH concentration. MEMORY.md sits at 107 lines — well inside the 200-line cap.
+
+---
+
 ## 2026-04-22 — MEMORY.md prune (Phase 0C of Brain Activation Plan)
 
 Compressed MEMORY.md from 200 → 100 lines ahead of Phase 1 correlator work, which will add new sections (Signal Brief context, relationship radar). Every open action preserved; only duplicative formatting and resolved items were consolidated.

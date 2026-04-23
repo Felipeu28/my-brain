@@ -1,0 +1,43 @@
+---
+status: warm
+last_contact: 2026-04-21
+tags:
+  - graph/spoke
+  - person/partner
+---
+# Shannon Cameron
+
+**Type:** person
+**Last updated:** 2026-04-22
+**Source:** [[raw/email-digest-2026-04-21]]
+**Related:** [[wiki/orgs/buda-edc]], [[wiki/people/jacquie-martinez]], [[wiki/people/casey-earley]], [[wiki/people/jennifer-storm]], [[wiki/concepts/buda-hive]]
+
+---
+
+## Summary
+
+**Director of Operations at [[wiki/orgs/buda-edc|Buda EDC]].** New Moil-orbit contact surfaced Apr 21, 2026 when she forwarded HIVE Strategist PSA assets to Andres. Sits in the Buda EDC leadership layer alongside Jennifer Storm (CEO), Jacquie Martinez (Assistant Director / HIVE lead), and Casey Earley (Administrative Coordinator).
+
+## Contact
+
+- **Email:** SCameron@budaedc.com
+- **Title:** Director of Operations, Buda EDC
+- **Organization:** [[wiki/orgs/buda-edc]]
+
+## Apr 21 — First Documented Contact
+
+Source: [[raw/email-digest-2026-04-21]]
+
+Shannon forwarded HIVE Strategist PSA assets to Andres (subject: "FW: HIVE Strategist PSAs"). Context implies she owns communications/marketing assets for the HIVE Incubator Strategist role (Andres + Joshua Edmond) — possibly the PSA package for public-facing promotion of Cohort 4.
+
+## Why She Matters
+
+- **Fourth documented Buda EDC contact** after Jennifer Storm (CEO), Jacquie Martinez (HIVE Asst. Director), and Casey Earley (Admin Coordinator) — Moil's relationship graph at Buda EDC is now deeper than any other EDC
+- **Operations lane** — her role likely covers the non-HIVE operational surface (events, marketing ops, vendor mgmt). Useful channel for any Moil-EDC infrastructure asks that aren't HIVE-program-specific
+- **PSA asset handoff** is the first time Shannon has shown up in the Brain at all, suggesting the HIVE Strategist role is getting formal comms treatment (first documented "PSA" reference for Andres's Incubator Strategist work)
+
+## Next Actions
+
+- [ ] Open the PSA assets and confirm what's being promoted (Cohort 4? Strategist intros?)
+- [ ] Loop Shannon into the broader Buda EDC relationship (briefing her on Moil licenses already inside HIVE, delivery tempo, Cohort 4 prep)
+- [ ] If AEDO or EDC-infrastructure product expansion emerges (see [[wiki/orgs/buda-edc]] — John Costilla / Joe Arnke AI-tools call), Shannon is likely the operations lead on the EDC side

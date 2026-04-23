@@ -9,8 +9,8 @@ last_contact: 2026-04-21
 # FitLogic Functional Medicine
 
 **Type:** organization
-**Last updated:** 2026-04-21
-**Source:** [[raw/teams-2026-04-12]], [[raw/email-history-2months-2026-04-12]], [[raw/github-project-tracker.md]], [[raw/teams-2026-04-21]], [[raw/teams-transcript-megan-miller-2026-04-21]]
+**Last updated:** 2026-04-22
+**Source:** [[raw/teams-2026-04-12]], [[raw/email-history-2months-2026-04-12]], [[raw/github-project-tracker.md]], [[raw/teams-2026-04-21]], [[raw/teams-transcript-megan-miller-2026-04-21]], [[raw/email-digest-2026-04-20]]
 **Related:** [[wiki/people/megan-miller]], [[wiki/moil/customers]], [[wiki/moil/pipeline]], [[wiki/concepts/moil360]], [[wiki/meetings/2026-04-21-megan-fitlogic-working-session]]
 
 ---
@@ -28,6 +28,7 @@ Domain: `fitlogicfunctionalmedicine.com` (GoDaddy). Sending address to be: `Mega
 - **Moil hiring:** ✅ Active — first hire imminent as of Apr 12, 2026; second job posted Apr 12
 - **Moil 360 CRM:** 🟡 Onboarded Apr 21, 2026 — live tour complete, deployment tonight
 - **Website:** External vendor Electric Bricks mid-redesign; Moil layer comes after they ship
+- **Payment plan ask (Apr 19, 2026):** Megan emailed asking to switch from **$500/mo × 3 to $250/mo × 6** — same total, stretched. Needs a revenue/collection decision + reply ([[raw/email-digest-2026-04-20]])
 
 ## Apr 21 Working Session — Key Decisions
 

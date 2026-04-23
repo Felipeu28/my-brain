@@ -9,8 +9,8 @@ client: "[[wiki/orgs/fitlogic]]"
 # Megan Miller
 
 **Type:** person
-**Last updated:** 2026-04-21
-**Source:** [[raw/imessages-people-2026-04-09]], [[raw/email-history-6months-2026-04-14]], [[raw/teams-transcript-megan-miller-2026-04-21]], [[raw/teams-2026-04-21]]
+**Last updated:** 2026-04-22
+**Source:** [[raw/imessages-people-2026-04-09]], [[raw/email-history-6months-2026-04-14]], [[raw/teams-transcript-megan-miller-2026-04-21]], [[raw/teams-2026-04-21]], [[raw/email-digest-2026-04-20]], [[raw/email-digest-2026-04-21]]
 **Related:** [[wiki/orgs/fitlogic]], [[wiki/moil/customers]], [[wiki/moil/gtm]], [[wiki/concepts/smart-hiring]], [[wiki/concepts/moil360]], [[wiki/meetings/2026-04-21-megan-fitlogic-working-session]]
 
 ---
@@ -73,6 +73,12 @@ Source: [[wiki/meetings/2026-04-21-megan-fitlogic-working-session]] (89 min, 3�
 | Couldn't switch "stuck" business plan — old "for my life" plan wouldn't move to FitLogic | Already hit her | Same bug surfaced again Apr 21 in Jacob/Andres debugging session |
 | Per-campaign aggregate click-rate not clearly surfaced | Feature ask | "Is this doing what we want?" |
 | Campaign link editing lives only in sequences, not campaigns | Feature-parity gap | Andres caught during same-day debugging |
+
+## Apr 19 — Payment Plan Renegotiation Ask
+
+Source: [[raw/email-digest-2026-04-20]]
+
+Megan emailed Apr 19 asking to switch from **$500/mo × 3 to $250/mo × 6** (same total, stretched). Also requested a website update in the same thread. Needs a collection/revenue decision + reply. Context: Apr 21 CRM tour went well, deliverability issues surfaced — the payment ask is on the table alongside product firefighting.
 
 ## License / Activation Issue (Apr 21)
 

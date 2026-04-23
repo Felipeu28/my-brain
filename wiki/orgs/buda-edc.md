@@ -9,16 +9,17 @@ owner: "[[wiki/people/jennifer-storm]]"
 # Buda EDC
 
 **Type:** organization
-**Last updated:** 2026-04-14
-**Source:** [[raw/buda-hive-edc-2026-04-11]], [[raw/hive-buda-hive-sosx-run-of-show]], [[raw/hive-coaching-session-summary]], [[raw/hive-series-based-hive-program]]
-**Related:** [[wiki/concepts/buda-hive]], [[wiki/concepts/aedo]], [[wiki/people/jennifer-storm]], [[wiki/people/jacquie-martinez]], [[wiki/people/casey-earley]], [[wiki/people/joshua-edmond]]
+**Last updated:** 2026-04-22
+**Source:** [[raw/buda-hive-edc-2026-04-11]], [[raw/hive-buda-hive-sosx-run-of-show]], [[raw/hive-coaching-session-summary]], [[raw/hive-series-based-hive-program]], [[raw/email-digest-2026-04-21]]
+**Related:** [[wiki/concepts/buda-hive]], [[wiki/concepts/aedo]], [[wiki/people/jennifer-storm]], [[wiki/people/shannon-cameron]], [[wiki/people/jacquie-martinez]], [[wiki/people/casey-earley]], [[wiki/people/joshua-edmond]]
 
 ---
 
 **Full name:** Buda Economic Development Corporation
 **CEO:** [[wiki/people/jennifer-storm|Jennifer Storm]] — IEDC Economic Developer of the Year
+**Director of Operations:** [[wiki/people/shannon-cameron|Shannon Cameron]]
 **Assistant Director, Small Business:** [[wiki/people/jacquie-martinez|Jacquie Martinez]]
-**Assistant:** [[wiki/people/casey-earley|Casey Earley]]
+**Administrative Coordinator:** [[wiki/people/casey-earley|Casey Earley]]
 **Address:** 405 East Loop Street #100, Buda, TX 78610
 **Phone:** 512.295.2022
 **Web:** www.budaedc.com
@@ -79,8 +80,9 @@ See [[wiki/concepts/hive-program]] for the full series-based curriculum (Hatch �
 ## Key People
 
 - [[wiki/people/jennifer-storm|Jennifer Storm]] — CEO. Strategic ally; IEDC Economic Developer of the Year. CampaignOS collaborator.
-- [[wiki/people/jacquie-martinez|Jacquie Martinez]] — Asst. Director. Manages HIVE operations day-to-day.
-- [[wiki/people/casey-earley|Casey Earley]] — Assistant to Jacquie. Event logistics.
+- [[wiki/people/shannon-cameron|Shannon Cameron]] — Director of Operations. First surfaced Apr 21, 2026 forwarding HIVE Strategist PSA assets.
+- [[wiki/people/jacquie-martinez|Jacquie Martinez]] — Asst. Director, Small Business. Manages HIVE operations day-to-day.
+- [[wiki/people/casey-earley|Casey Earley]] — Administrative Coordinator. Cohort 4 logistics + curriculum coordination.
 - [[wiki/people/joshua-edmond|Joshua Edmond]] — Co-Incubator Strategist alongside Andres.
 
 ## EDC Website / AI Tools Call (Apr 15, 2026)

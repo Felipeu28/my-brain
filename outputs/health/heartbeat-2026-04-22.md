@@ -1,16 +1,16 @@
 # Brain Heartbeat — 2026-04-22
 
-**Generated:** 2026-04-22 11:40 CDT
+**Generated:** 2026-04-22 16:20 CDT
 
 ## Artifacts
 
 | Check | Artifact | Age (hours) | Status | Signal |
 |---|---|---:|---|---|
-| Morning briefing | `/Users/jarvisurrego/My Brain/knowledge-base/quartz/content/raw/briefings/briefing-2026-04-22.md` | 0 | healthy | clean |
-| Weekly pulse | `/Users/jarvisurrego/My Brain/knowledge-base/quartz/content/raw/pulse/pulse-2026-W16.md` | 116 | healthy | clean |
-| Content calendar | `/Users/jarvisurrego/My Brain/knowledge-base/quartz/content/raw/content-calendar/calendar-2026-W17.md` | 50 | healthy | clean |
-| Teams ingest source | `/Users/jarvisurrego/My Brain/knowledge-base/raw/teams-transcript-roxana-andres-2026-04-14.md` | 171 | stale | attention needed |
-| Chroma index | `/Users/jarvisurrego/My Brain/pi-workspace/.chroma-data/last_indexed.txt` | 2 | healthy | attention needed |
+| Morning briefing | `/Users/jarvisurrego/My Brain/knowledge-base/quartz/content/raw/briefings/briefing-2026-04-22.md` | 0 | healthy | attention needed |
+| Weekly pulse | `/Users/jarvisurrego/My Brain/knowledge-base/quartz/content/raw/pulse/pulse-2026-W16.md` | 121 | healthy | clean |
+| Content calendar | `/Users/jarvisurrego/My Brain/knowledge-base/quartz/content/raw/content-calendar/calendar-2026-W17.md` | 55 | healthy | clean |
+| Teams ingest source | `/Users/jarvisurrego/My Brain/knowledge-base/raw/teams-transcript-roxana-andres-2026-04-14.md` | 176 | stale | attention needed |
+| Chroma index | `/Users/jarvisurrego/My Brain/pi-workspace/.chroma-data/last_indexed.txt` | 6 | healthy | attention needed |
 
 ## Notes
 

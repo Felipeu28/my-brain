@@ -1,5 +1,5 @@
 ---
-status: warm
+status: active
 last_contact: 2026-04-21
 tags:
   - graph/spoke
@@ -9,23 +9,28 @@ referred_by: "[[wiki/people/daniel-mann]]"
 # Rashaka Boykins
 
 **Type:** person
-**Last updated:** 2026-04-14
-**Source:** [[raw/meetings/]] — two Moil intro calls
-**Related:** [[wiki/moil/pipeline]], [[wiki/moil/customers]]
+**Last updated:** 2026-04-22
+**Source:** [[raw/meetings/]], [[raw/email-digest-2026-04-21]]
+**Related:** [[wiki/moil/pipeline]], [[wiki/moil/customers]], [[wiki/moil/gtm]]
 
 ---
 
 ## Summary
 
-Rashaka Boykins had two "Moil Intro Call" meetings with Andres — Feb 27 and Mar 5, 2026. These back-to-back calls suggest serious interest in Moil's platform.
+Rashaka Boykins had two "Moil Intro Call" meetings with Andres — Feb 27 and Mar 5, 2026. Re-engaged Apr 21, 2026 via inbound email question on LLM marketing + platform fit — status bumped warm → active.
 
-## Key Details
+## Contact
 
-- **Contact dates:** 2026-02-27 and 2026-03-05 (two sessions, one week apart)
-- **Status:** warm prospect — two intro calls completed
-- **Source:** OneDrive/Recordings/ — Meeting Transcript files (video-only, no audio transcript available)
+- **Email:** rashaka.boykins@gmail.com
+- **Contact dates:** 2026-02-27, 2026-03-05 (intro calls), 2026-04-21 (inbound email)
 
-## Why Two Calls?
+## Apr 21 — Inbound Platform Fit Question
+
+Source: [[raw/email-digest-2026-04-21]]
+
+Rashaka emailed Andres asking whether Moil does **LLM marketing and adapts over time** — explicitly wants to understand how to utilize the platform. After 6 weeks of silence since Mar 5, she is reopening the conversation on her own. Needs a reply that positions Moil 360 content-engine + adaptive sequences/campaigns behavior.
+
+## Why Two Calls? (Feb–Mar)
 
 The back-to-back calls (Feb 27 → Mar 5) suggest either:
 1. First call was exploratory, second was a deeper demo
@@ -34,9 +39,9 @@ The back-to-back calls (Feb 27 → Mar 5) suggest either:
 
 ## Next Steps
 
-- Confirm deal status — was a proposal sent?
-- Check email history for follow-up communication
-- If no deal closed, add to outreach queue
+- [ ] **Reply to Apr 21 email** — explain Moil's LLM-driven content + adaptive campaign loop (how content engine + sequences iterate over time)
+- [ ] Confirm whether a proposal was sent after the March calls; if not, offer a structured follow-up demo
+- [ ] Tag as warm re-engagement in pipeline
 
 <!-- AUTO-ACTIVITY:start -->
 ## Recent Activity (auto)

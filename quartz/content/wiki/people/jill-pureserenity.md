@@ -9,8 +9,8 @@ tags:
 # Jill (PureSerenity — last name TBD)
 
 **Type:** person
-**Last updated:** 2026-04-15
-**Source:** m365 calendar ("Jill & Andres" meeting 2026-04-10), [[raw/teams-2026-04-12]]
+**Last updated:** 2026-04-22
+**Source:** m365 calendar ("Jill & Andres" meeting 2026-04-10), [[raw/teams-2026-04-12]], [[raw/email-digest-2026-04-21]]
 **Related:** [[wiki/orgs/pure-serenity]], [[wiki/moil/customers]]
 
 ---
@@ -41,9 +41,19 @@ Jill is the owner of [[wiki/orgs/pure-serenity|PureSerenity]] — an active P1 M
 - Business category (wellness vs beauty vs both)
 - Revenue model details (monthly retainer vs license only)
 
+## Apr 21 — Pre-Launch Checklist
+
+Source: [[raw/email-digest-2026-04-21]]
+
+Andres sent Jill a "Pending Items" email — items needed from Jill **before pointing a real domain** at the PureSerenity site. Same day, sent Teams invite for a "Jill & Andres" working session. This is pre-launch gating on client deliverables; active production-readiness workflow.
+
+**Note:** PureSerenity is also on the Apr 21 Moil 360 license-distribution firefight list — Jill paid $75 on Apr 20 but never received her license link (blocked by `partners@moilapp.com` deliverability issues). See [[MEMORY]] and [[wiki/meetings/2026-04-21-teams-daily-ops]].
+
 ## Next Actions
 
-- [ ] Capture full name + business details
+- [ ] Capture full name + business details (still outstanding)
+- [ ] **Jill:** Deliver items from Apr 21 "Pending Items" checklist before domain cutover
+- [ ] **Jacob:** Resend Moil 360 license link to Jill (paid Apr 20, never received)
 - [ ] Request testimonial once site usage is established
 - [ ] Track as reference customer for wellness vertical
 

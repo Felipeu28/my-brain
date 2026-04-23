@@ -5,14 +5,14 @@ owner:
   - '[[wiki/people/oscar-esquivel]]'
   - '[[wiki/people/roxana-yglesias]]'
 status: active
-last_contact: 2026-04-14
+last_contact: 2026-04-20
 github_repo: Moil-Landingpages/alloy-atx
 ---
 # AlloyATX
 
 **Type:** organization
-**Last updated:** 2026-04-15
-**Source:** [[raw/teams-2026-04-12]], [[raw/email-history-2months-2026-04-12]], [[raw/teams-transcript-roxana-andres-2026-04-14]]
+**Last updated:** 2026-04-22
+**Source:** [[raw/teams-2026-04-12]], [[raw/email-history-2months-2026-04-12]], [[raw/teams-transcript-roxana-andres-2026-04-14]], [[raw/email-digest-2026-04-21]]
 **Related:** [[wiki/people/oscar-esquivel]], [[wiki/people/roxana-yglesias]], [[wiki/people/daniel-mann]], [[wiki/moil/customers]], [[wiki/moil/pipeline]]
 
 ---
@@ -57,6 +57,7 @@ AlloyATX is a fitness/wellness business operating across Lakeline, Round Rock, a
 - Mar 23: Intro call / "Roxana Esquivel - Moil Intro Call"
 - Apr 11: Team confirms deal closing
 - **Apr 14: Full onboarding call (90 min). Deal closed. Teams shared folder created. Asset handover initiated.**
+- **Apr 20: 💰 First Stripe payment — $75 for Moil Enterprise subscription** (r.yglesias@alloyatx.com). Deal is live-billing.
 
 ## Open Items
 

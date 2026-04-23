@@ -5,9 +5,9 @@ tags:
 # Moil — Go-to-Market Motion
 
 **Type:** moil-topic
-**Last updated:** 2026-04-15
-**Source:** [[raw/moil-documents-2026-04-09]], [[raw/moilapp-website-2026-04-09]], [[raw/teams-2026-04-12]], [[raw/email-digest-2026-04-14]], [[raw/email-digest-2026-04-15]], [[raw/email-digest-2026-04-17]]
-**Related:** [[wiki/moil/positioning]], [[wiki/moil/icp]], [[wiki/concepts/buda-hive]], [[wiki/people/travis-sutherland]], [[wiki/people/daniel-guadiano]], [[wiki/people/renee-simmons]], [[wiki/people/adam-maxon]]
+**Last updated:** 2026-04-22
+**Source:** [[raw/moil-documents-2026-04-09]], [[raw/moilapp-website-2026-04-09]], [[raw/teams-2026-04-12]], [[raw/email-digest-2026-04-14]], [[raw/email-digest-2026-04-15]], [[raw/email-digest-2026-04-17]], [[raw/email-digest-2026-04-20]], [[raw/email-digest-2026-04-21]]
+**Related:** [[wiki/moil/positioning]], [[wiki/moil/icp]], [[wiki/concepts/buda-hive]], [[wiki/people/travis-sutherland]], [[wiki/people/daniel-guadiano]], [[wiki/people/renee-simmons]], [[wiki/people/adam-maxon]], [[wiki/people/irma-mason]], [[wiki/people/elisa-alaniz]]
 
 ---
 
@@ -121,6 +121,47 @@ Single-day outbound: **25+ sent emails** — highest-volume day to date, running
 - **Breakup wave (third):** Melinda Davidson (washingtoncountyal.com), Laura Strickland (sylacaugachamber.com), CH Sullivan (covington-tiptoncochamber.com), Barbara Sloniker (siouxlandchamber.com), Colleen Dick (yorkcountychamber.com), Jeff Hingher (acgbrands.com), Kathleen Quinn (northbrookchamber.org), Michelle Hawkins (vestaviahills.org).
 - **Meeting invites sent:** [[wiki/people/megan-miller|Megan Miller]], [[wiki/people/roxana-yglesias|Roxana Yglesias]] / AlloyAtx, [[wiki/people/becky-torres|Becky Torres]] / Siren Beauty — all 3 Teams meetings Apr 17 (customer touch-base / license activation coordination).
 - **Geographic footprint:** Kentucky (new, 3), Mississippi (new, 3), Minnesota (2), Nebraska (2), Wisconsin (1), Iowa (1), Alabama (2), Illinois (1), New York (1), Tennessee (1). KY + MS are first-time pushes in the campaign.
+
+### Cold campaign — Apr 20 update (Massachusetts-heavy day)
+
+Source: [[raw/email-digest-2026-04-20]]
+
+Single-day outbound: **24 sent emails** across 3 live templates + close-out cadence. Heavy Massachusetts and New England concentration.
+
+- **"Helping programs scale" / "One challenge we keep hearing" (scaling pitch):** Timothy Murray (worcesterchamber.org), Leslie Gould (greaterbeverlychamber.com), Reyad Shah (metrowest.org), Michael Bevilacqua (merrimackvalleychamber.com), Xiomara Delobato (westernmassedc.com), Thomas O'Rourke (nrrchamber.com).
+- **"3-minute walkthrough" (demo video):** Brian Reynolds (semtechsolutions.com), Stephanie Nelson (melrosechamber.org), Jon Kostek (easthamptonchamber.org), Cheryl Osimo (mbcc.org), Maureen Sullivan (bedfordchamber.org), Michael Shirley (associatedenvironmentalsystems.com), Rick Sullivan (westernmassedc.com).
+- **"Interesting feedback from an EDC" (narrative):** Kylee Raulerson (southbaldwinchamber.com), Melissa Fetterhoff (nvcoc.com), Rick Parker (baccma.org), Katie Canuel (onesouthcoast.com).
+- **Breakup wave:** Peggy Smith (cullmanchamber.org), Caroline Mungenast (birminghambusinessalliance.com — bounced with OOO until Apr 24, re-queue), Beth Coffey (southwestgwinnettchamber.org), Alisa Joseph (usblackchambers.org), Leeann Nixon (wilkesedc.com), Cynthia Ratliff (granville-chamber.com).
+
+**Geographic footprint:** Massachusetts (11 — Worcester, Beverly, Melrose, Merrimack Valley, Bedford, Western Mass EDC ×2, MBCC, NRR, OneSouthCoast, East Hampton), Alabama (3), New Hampshire / Connecticut / NC / Gwinnett / Cullman / US Black / Wilkes / Granville. **First large MA concentration** of the campaign.
+
+### Cold campaign — Apr 21 update (IL + Canada + NH breakup cluster)
+
+Source: [[raw/email-digest-2026-04-21]]
+
+Single-day outbound: **~25 emails** — mostly breakup / close-out cadence across Illinois, Ontario, New Hampshire, and Alabama plus one new narrative pitch and one active-deal reply.
+
+- **Close-out wave ("Should I close this out?" / "Last note"):** Bethany Bland (rockfallschamber.com — IL), Melissa Boltz (bolingbrookchamber.org — IL), Larissa T. (westridgechamber.org — IL), Robin Ficke (intersectillinois.org — IL), Christen Wilbanks (ghcc.com), Connie Hensler (lagrangechamber.com), Dennis McCann (sedcnh.org — NH), Cody Morrison (monadnockedc.org — NH), Jeanne Osborn (greaterlowellchamber.org), Michelle Cruz (visitmwv.com — NH), Nate Hastings (portsmouthcollaborative.org — NH), Xavier Roy (chamber.ca — Canadian Chamber), Linda Stotler (blairchamber.com — PA), Amanda Conn (haliburtonchamber.com — ON), Idalia Obregon (dccc-toronto.ca — ON), David Wojcik (mbot.com — Mississauga), Jennifer Materkoski (wheelingchamber.com — WV), Michael Kasparian (falmouthchamber.com — MA).
+- **Narrative pitch:** Mike Hardill (hamiltonchamber.ca — ON) — "Interesting feedback from an EDC."
+- **New SMB vertical test:** Karla Ganster (CAP Consulting Eng) — "Most SMB owners tell us the same thing…" first recorded use of this line, outbound to an SMB rather than a chamber/EDC.
+- **Active deal reply:** [[wiki/people/daniel-guadiano|Daniel Guadiano]] / [[wiki/orgs/astra-restaurant|Astra Restaurant]] — Andres proposed Apr 22 after 1pm or Apr 23 after 10am.
+- **Customer Teams invites:** [[wiki/people/becky-torres|Becky Torres]] / Siren Beauty, Jill / PureSerenity.
+
+**Signal:** The Apr 21 day was dominated by **breakup cadence in Canada + Illinois + New Hampshire** — ending sequences, not starting them. First documented cross-border close-out cluster (ON + Toronto). Pipeline hygiene is running at full tilt.
+
+### Warm community referrals (Apr 19–21)
+
+Source: [[raw/email-digest-2026-04-20]], [[raw/email-digest-2026-04-21]]
+
+Distinct lane from cold outbound: two warm intros from [[wiki/people/irma-mason|Irma Mason]] (local Kyle/Buda/San Marcos community contact):
+1. [[wiki/people/elisa-alaniz|Elisa Alaniz]] — project manager, phone call booked Friday ~3:30 PM CT
+2. Mrs. Unger — job search in Kyle/Buda/San Marcos; response pending
+
+Also: [[wiki/people/rashaka-boykins|Rashaka Boykins]] re-engaged Apr 21 with an inbound question about LLM marketing — 6-week silence broken on her initiative. Re-opens the Feb/March conversation.
+
+### Revenue signal — Apr 20
+
+First **Stripe-billed $75/mo payment from AlloyATX** (r.yglesias@alloyatx.com) confirms the Apr 14 close. See [[wiki/people/roxana-yglesias]] / [[wiki/orgs/alloy-atx]].
 
 ### HIVE Cohort 4 curriculum collaboration — emerging Apr 17
 

@@ -1,6 +1,6 @@
 # MEMORY — Open Actions & Live Commitments
 
-**Last updated:** 2026-04-22 (pruned to buffer; Apr 21 firefight active)
+**Last updated:** 2026-04-22 (Run 18 — Apr 20/21 email digests ingested)
 **Purpose:** Single source of truth for open action items extracted from ingested raw sources.
 
 > Relationship/concept context: [[index]] · Ingestion history: [[log]]
@@ -57,9 +57,16 @@ Source: [[wiki/meetings/2026-04-21-teams-daily-ops]], [[wiki/meetings/2026-04-21
 ## 📅 Next 2–3 weeks (Apr 18 – May 2)
 
 - [ ] **Apr 22 @ 10am CT** — Call with **Kate Silvas (Helotes EDC)**. Lead with Buda EDC case study + per-cohort license model. Build Buda EDC one-pager (pricing, delivery, Cohort 4 proof) before call; send Buda-mirror proposal after. See [[wiki/orgs/helotes-edc]], [[wiki/people/katherine-silvas]]
-- [ ] **Jacob Centeno referral partnership** — set up lightweight workflow, decide commission/credit model. See [[wiki/people/jacob-centeno]]
+- [ ] **Apr 22 (after 1pm) OR Apr 23 (after 10am)** — **Daniel Guadiano / Astra Restaurant** meeting. Andres already proposed both slots Apr 21; awaiting Daniel's pick. Prep restaurant-ops scheduling demo. First hospitality ICP proof point if it closes. [[wiki/people/daniel-guadiano]]
+- [ ] **Apr 24 ~3:30 PM CT** — Phone call with **Elisa Alaniz** (Irma Mason referral). Discovery, not pitch — figure out whether she's a candidate, hiring business, or partner. [[wiki/people/elisa-alaniz]]
+- [ ] **Reply to [[wiki/people/irma-mason|Irma Mason]]** re: Mrs. Unger job-search referral (Kyle/Buda/San Marcos) — still open from Apr 19
+- [ ] **Reply to [[wiki/people/rashaka-boykins|Rashaka Boykins]]** Apr 21 inbound — explain LLM marketing / adaptive-campaign angle. 6-week re-engagement window
+- [ ] **Decide on Megan Miller's payment plan ask** — switch from $500/mo × 3 to $250/mo × 6 (same total, stretched). Reply outstanding since Apr 19. [[wiki/people/megan-miller]]
+- [ ] **Re-queue Caroline Mungenast (Birmingham Business Alliance)** — OOO at Hannover Messe until Apr 24; don't mark dead, re-queue after Apr 24
 - [ ] **Apr 24 · 7–9pm** — Travis Sutherland / Sun Show demo booth. Screen + flyers. Confirm logistics
-- [ ] **Daniel Guadiano (Astra Restaurant)** — if it closes, write first hospitality ICP case study
+- [ ] **Apr 27 — Buda HIVE Lunch & Learn: Business Credit** (Jacquie Martinez event). Attend/support
+- [ ] **Shannon Cameron (Buda EDC Director of Ops)** — open PSA assets she forwarded Apr 21; reply + loop her into broader Moil-EDC context. [[wiki/people/shannon-cameron]]
+- [ ] **Jacob Centeno referral partnership** — set up lightweight workflow, decide commission/credit model. See [[wiki/people/jacob-centeno]]
 - [ ] **Ana Vetencourt (URBANZUELA)** — review Google Doc draft she sent; provide feedback
 
 ---
