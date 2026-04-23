@@ -4,6 +4,44 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ---
 
+## 2026-04-23 — Run 19: Apr 22 email digest + Apr 23 Megan CRM/Google setup
+
+**Trigger:** Automated scan for unprocessed raw files. Two new files since Run 18:
+- `raw/email-digest-2026-04-22.md` (committed Apr 22 by `email-digest` job — 24-hour window Apr 21–22)
+- `raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23.md` (40-min live Teams VTT transcript, 2:15–2:58 PM CT Apr 23 — Andres + Taiwo + Megan + Michelle)
+
+**Pages created (1):**
+- [[wiki/meetings/2026-04-23-megan-crm-google-setup]] — 40-min customer setup call: Google Cloud OAuth + GitHub/Supabase/Resend wiring, Electric Bricks compliance dispute, Apr 28 go-live, Apr 29 handover meeting, Daniel D. Mann second-degree loop via Michelle
+
+**Pages updated (8):**
+- [[wiki/people/megan-miller]] — Apr 23 CRM/Google session block: infrastructure-owned-by-Megan architecture, calendar-hygiene behavioral commitment, Electric Bricks Friday meeting, Michelle/Daniel Mann connection; last_contact → 2026-04-23
+- [[wiki/orgs/fitlogic]] — new "Apr 23 Handoff Architecture — CRM Stack Owned by Megan" section with full ownership matrix (GoDaddy / Vercel / Supabase / Resend / GitHub / Google Cloud OAuth / Gemini); deal-status updated to Apr 28 go-live + Apr 29 handover; Michelle contact row flagged with Daniel Mann connection
+- [[wiki/people/katherine-silvas]] — Apr 22 call held; Moil Partnership Proposal sent same day 5:26 PM; next action is now "await Board response" rather than "prep call"
+- [[wiki/orgs/helotes-edc]] — timeline updated (Apr 22 Zoom call + proposal out); next actions reset from "pre-call prep" to "await Board response; nudge Apr 29–May 6 if silent"
+- [[wiki/people/rashaka-boykins]] — Apr 22 second inbound question (web/social traffic + LinkedIn/Instagram integration) added to same thread as Apr 21. Draft reply framing documented (adaptive LLM marketing / traffic driving / LinkedIn-IG honesty-over-spin)
+- [[wiki/people/taiwo-ola-balogun]] — first recorded live customer setup call; drove Google Cloud OAuth config; pre-empted multi-env redirect URI friction; took GitHub collaborator role; Apr 29 deadline acknowledged ("Okay, sir"). Pace shift from "late-night frustrated" to "late-night voluntary and bounded"
+- [[wiki/people/daniel-mann]] — new "Second-Degree Social Proof Loop via Michelle @ FitLogic" section; first recorded instance of Daniel's referral graph closing back through an existing Moil customer's staff; 🔥 action item: direct text from Andres
+- [[wiki/moil/gtm]] — new "Apr 22 update" section: largest single-day breakup wave (17 breakups in MI + GA), two narrative re-engagements (Mandy Power / Rachapa Lau), first Trial Runners SMB-consulting outreach (Jill Healy), Helotes Partnership Proposal sent
+- [[MEMORY]] — new "Apr 23 → Apr 29 FitLogic CRM handoff sprint" block at top; Helotes call marked done; Rashaka action consolidated to cover both Apr 21 + Apr 22 inbound
+- [[index]] — stats refreshed (258 pages / 306 raw sources)
+
+**Key intelligence from Run 19:**
+
+1. **Moil's first "customer owns the stack from day one" deployment.** FitLogic's CRM is being built with every infrastructure account (GoDaddy / Vercel / Supabase / Resend / GitHub / Google Cloud / Gemini) owned by Megan's credentials, not Moil's. Taiwo is a collaborator. This is a new pattern — historically Moil owned the stack and migrated later. If it holds as the Moil 360 CRM template, handoff becomes a credential transfer rather than a migration project.
+2. **Seven-day CRM time-to-value baseline.** Apr 21 live tour → Apr 23 infrastructure wired → Apr 25–26 weekend testing → Apr 28 go-live → Apr 29 formal handover. This is the first replicable time-to-value window for a Moil-built CRM customer.
+3. **Helotes Partnership Proposal is the second EDC proposal in existence.** After the Apr 22 10 AM Zoom call, Andres sent Kate Silvas the Moil Partnership Proposal same day 5:26 PM. First written proposal Moil has put on an EDC decision-maker's desk outside Buda. Decision timeline now sits with Kate's Board.
+4. **Daniel Mann's referral graph closed back through a Moil customer.** Michelle (FitLogic staff, on Apr 23 call) opened with "Daniel D. Mann says hello to you." First recorded instance of Daniel's referrals looping back through an existing Moil customer's team — his network overlaps Moil's customer base beyond the 8 direct intros already logged. Strengthens the case for systematizing Daniel as a channel rather than ad-hoc referral flow.
+5. **Rashaka Boykins sent a second inbound in 27 hours.** Apr 21 (LLM marketing / adaptive) + Apr 22 (traffic + LinkedIn/IG integration) — two substantive product questions after 6 weeks of silence. Neither has been replied to yet. Strongest warm-lead reengagement signal of the week.
+6. **Megan committed to calendar hygiene.** She admitted during the Apr 23 call that she missed an 11 AM meeting earlier that day because the meeting only lived in her head. She committed to forwarding every invite to Andres going forward — standing behavioral change, not a one-off. Andres becomes her external calendar. Retention-risk insight hiding in plain sight: the CRM she's buying ought to auto-surface this pattern.
+7. **Apr 22 was the campaign's largest breakup day yet.** 17 breakup emails in a single batch, concentrated in Michigan and Georgia — closing out two of the Apr 9–10 original clusters. In parallel, two warm narrative re-opens (Mandy Power / Rachapa Lau), one new SMB vertical test (Jill Healy / Trial Runners), and the Helotes proposal moving from discovery to written artifact. Pipeline hygiene and late-stage artifacts running simultaneously.
+8. **Electric Bricks compliance fight is the first scope-of-practice-on-website issue logged.** Megan pushing back on "doctor" vs. "health coach" framing — as an NP, her scope of practice has to be unambiguous for patient safety. The Friday Apr 24 12:30 PM meeting (Andres attending) is the first time Moil is joining a customer's vendor fight on content-compliance grounds. This shapes the playbook for Moil's future licensed-professional customers (therapists, coaches, NPs) where AI-generated content needs scope-of-practice guardrails.
+9. **Taiwo joined his first live customer call.** Precedent: Taiwo has historically been engineering-side only. Apr 23 was his first video call with a customer — and he drove the technical config (OAuth scopes, redirect URIs). Opens a new operating pattern: named-engineer-per-customer handoff instead of rotating support.
+10. **Kate Silvas sent Zoom links from her `helotes-tx.gov` email.** Formal government-email channel is now in use for Helotes deal, not just Gmail. Raises the stakes of the proposal deliverability / tracking — the proposal needs to be government-inbox-friendly.
+
+**Summary:** Run 19 is a decisive-artifact run. Two "first" events: the first customer-owned-stack CRM deployment (FitLogic) and the first EDC partnership proposal outside Buda (Helotes). Plus the first live customer call with Taiwo on video, the first second-degree Daniel Mann referral loop closing, and the first scope-of-practice content-compliance issue on a Moil customer's site. MEMORY.md sits at 120 lines — comfortably inside the 200-line cap.
+
+---
+
 ## 2026-04-22 — Run 18: Email digests Apr 20 + Apr 21
 
 **Trigger:** Automated scan for unprocessed raw files. Two new files since Run 17:

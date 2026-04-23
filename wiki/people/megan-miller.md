@@ -3,15 +3,15 @@ tags:
   - graph/hub
   - person/customer
 status: active
-last_contact: 2026-04-21
+last_contact: 2026-04-23
 client: "[[wiki/orgs/fitlogic]]"
 ---
 # Megan Miller
 
 **Type:** person
-**Last updated:** 2026-04-22
-**Source:** [[raw/imessages-people-2026-04-09]], [[raw/email-history-6months-2026-04-14]], [[raw/teams-transcript-megan-miller-2026-04-21]], [[raw/teams-2026-04-21]], [[raw/email-digest-2026-04-20]], [[raw/email-digest-2026-04-21]]
-**Related:** [[wiki/orgs/fitlogic]], [[wiki/moil/customers]], [[wiki/moil/gtm]], [[wiki/concepts/smart-hiring]], [[wiki/concepts/moil360]], [[wiki/meetings/2026-04-21-megan-fitlogic-working-session]]
+**Last updated:** 2026-04-23
+**Source:** [[raw/imessages-people-2026-04-09]], [[raw/email-history-6months-2026-04-14]], [[raw/teams-transcript-megan-miller-2026-04-21]], [[raw/teams-2026-04-21]], [[raw/email-digest-2026-04-20]], [[raw/email-digest-2026-04-21]], [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/email-digest-2026-04-22]]
+**Related:** [[wiki/orgs/fitlogic]], [[wiki/moil/customers]], [[wiki/moil/gtm]], [[wiki/concepts/smart-hiring]], [[wiki/concepts/moil360]], [[wiki/meetings/2026-04-21-megan-fitlogic-working-session]], [[wiki/meetings/2026-04-23-megan-crm-google-setup]]
 
 ---
 
@@ -84,6 +84,27 @@ Megan emailed Apr 19 asking to switch from **$500/mo × 3 to $250/mo × 6** (sam
 
 Megan had been asking for her Moil 360 license for ~2 weeks ("Two weeks asking and we don't have it for a demo call" — Andres to Jacob, 7:26 PM). Root cause: license was assigned via Buda but she needed a fresh license specifically on Moil 360. Andres and Jacob spent 20+ minutes debugging her profile — plan-switching flow was broken (30% profile completion block). Steve (Adeleke) involved to force-assign. Surfaced the partner-dashboard license UX as next redesign target.
 
+## April 23, 2026 — CRM / Google Setup Session (40 min)
+
+Source: [[wiki/meetings/2026-04-23-megan-crm-google-setup]] (Teams transcript, 2:15–2:58 PM CT)
+
+Two days after the Apr 21 working session, Andres + Taiwo + Megan wired up the infrastructure accounts so the Moil CRM can be handed off from Moil's environment to Megan's own. Megan shared hello@ Gmail credentials in private chat; Andres drove the Google Cloud Console OAuth config (Gmail `send`/`readonly`/`compose` + Calendar `readonly`) while Taiwo instructed from the Nigeria side.
+
+**Key decisions for deployment:**
+- **Megan owns everything:** Google Cloud project, GitHub repo, Supabase, Resend, Gemini API key (at deploy time). Taiwo added as GitHub collaborator.
+- **CRM will deploy to `fitlogicfunctionalmedicine.com/crm`** on Megan's GoDaddy. Vercel hosts the app; Supabase hosts contacts DB. Both free tiers.
+- **Go-live target: Mon 2026-04-28** — Moil tests through the weekend, Megan starts sending real emails Monday/Tuesday.
+- **Handover meeting: Wed 2026-04-29 at 9:30 AM CT** — full walkthrough so Megan can send from her side.
+- **Multi-user (Michelle login) deferred** — for now Michelle shares Megan's login. Multi-user planned for the $75/year tier.
+
+**Calendar hygiene commitment (behavioral change):** Megan admitted she missed an 11 AM meeting during the call itself — "I totally forgot about a meeting I had at 11 today." She committed to forwarding every meeting invite to Andres going forward so the Brain calendar tracks them. *"I'm just going to send you a message every time I get a meeting, so you can put it on there."* This is a standing pattern, not one-off.
+
+**Website agency dispute — Andres to attend.** Megan meets her website vendor Fri 2026-04-24 12:30 PM CT to resolve the "doctor vs. health coach" compliance issue + 30-page SEO buildout. Vendor's defense: "10+ years experience, 30 pages is what it takes to rank in Buda, TX." Andres's position: bulk SEO text nobody reads isn't obviously helpful, but the non-negotiable is that nothing on the site can confuse a patient about Megan's scope of practice. Megan sending the link; Andres plans to join.
+
+**Moil 360 / Coach status for Megan:** Working again as of Apr 23 — Jacob confirmed the fix via email Apr 23 morning. Andres gave her the open homework: log in, upload logo + brand colors, play with image editing (with her own machine photos as references, per the red-light-therapy customer demo), **do not build the content calendar yet** until all brand assets are uploaded.
+
+**New network connection surfaced:** Michelle (FitLogic clinic staff) was in the call briefly and mentioned she knows [[wiki/people/daniel-mann|Daniel D. Mann]] — "Firefly." Andres responded warmly ("Daniel is the man … amazing guy when it comes to connecting people") and asked Michelle to relay a hello. Michelle confirmed Daniel speaks equally well of Andres. This is a second-degree social proof loop through Moil's #1 referral partner — worth a direct text from Andres to Daniel to acknowledge + reinforce.
+
 ## Why She Matters
 
 Megan represents the solo/small-team healthcare practitioner segment — a high-value Moil ICP. Her practice requires specialized hiring (clinical credentials, flexible hours) that job boards don't serve well. Her early UX feedback shaped the employer dashboard improvements. First confirmed hire through FitLogic = product proof point. As of Apr 21, she is also the **first Moil 360 customer to receive a live CRM tour** — her feedback (sequences excitement, campaign editing gap, deliverability, plan-switching bug) is disproportionately load-bearing for product direction, and she is the **strongest current case-study candidate** given relationship depth (GoDaddy credentials on the first call).
@@ -94,4 +115,5 @@ Megan represents the solo/small-team healthcare practitioner segment — a high-
 *Auto-generated by entity-graph-builder · last refreshed 2026-04-21. Entries capped at 12, pruned at 30 days. Do not edit inside the markers.*
 
 - **2026-04-21** · `teams` · 89-min CRM onboarding; exported Keap contacts and reviewed website redesign · also: email-digest
+- **2026-04-23** · `teams` · 40-min Google Cloud OAuth + GitHub/Supabase/Resend account setup; Apr 29 handover scheduled; Apr 28 go-live target
 <!-- AUTO-ACTIVITY:end -->

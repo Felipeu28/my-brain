@@ -4,14 +4,14 @@ tags:
   - graph/hub
 owner: "[[wiki/people/megan-miller]]"
 status: active
-last_contact: 2026-04-21
+last_contact: 2026-04-23
 ---
 # FitLogic Functional Medicine
 
 **Type:** organization
-**Last updated:** 2026-04-22
-**Source:** [[raw/teams-2026-04-12]], [[raw/email-history-2months-2026-04-12]], [[raw/github-project-tracker.md]], [[raw/teams-2026-04-21]], [[raw/teams-transcript-megan-miller-2026-04-21]], [[raw/email-digest-2026-04-20]]
-**Related:** [[wiki/people/megan-miller]], [[wiki/moil/customers]], [[wiki/moil/pipeline]], [[wiki/concepts/moil360]], [[wiki/meetings/2026-04-21-megan-fitlogic-working-session]]
+**Last updated:** 2026-04-23
+**Source:** [[raw/teams-2026-04-12]], [[raw/email-history-2months-2026-04-12]], [[raw/github-project-tracker.md]], [[raw/teams-2026-04-21]], [[raw/teams-transcript-megan-miller-2026-04-21]], [[raw/email-digest-2026-04-20]], [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]]
+**Related:** [[wiki/people/megan-miller]], [[wiki/moil/customers]], [[wiki/moil/pipeline]], [[wiki/concepts/moil360]], [[wiki/meetings/2026-04-21-megan-fitlogic-working-session]], [[wiki/meetings/2026-04-23-megan-crm-google-setup]]
 
 ---
 
@@ -26,9 +26,30 @@ Domain: `fitlogicfunctionalmedicine.com` (GoDaddy). Sending address to be: `Mega
 ## Deal Status
 
 - **Moil hiring:** ✅ Active — first hire imminent as of Apr 12, 2026; second job posted Apr 12
-- **Moil 360 CRM:** 🟡 Onboarded Apr 21, 2026 — live tour complete, deployment tonight
-- **Website:** External vendor Electric Bricks mid-redesign; Moil layer comes after they ship
+- **Moil 360 CRM:** 🟢 Infrastructure wired Apr 23 — go-live target **Mon 2026-04-28**. Taiwo testing through weekend
+- **Moil 360 / Coach:** ✅ Working again for Megan as of Apr 23 (Jacob confirmed the fix by email that morning)
+- **Website:** External vendor Electric Bricks mid-redesign; **Megan + vendor compliance meeting Fri 2026-04-24 12:30 PM CT** (Andres plans to attend) — "doctor vs. health coach" scope-of-practice issue is non-negotiable
 - **Payment plan ask (Apr 19, 2026):** Megan emailed asking to switch from **$500/mo × 3 to $250/mo × 6** — same total, stretched. Needs a revenue/collection decision + reply ([[raw/email-digest-2026-04-20]])
+
+## Apr 23 Handoff Architecture — CRM Stack Owned by Megan
+
+Source: [[wiki/meetings/2026-04-23-megan-crm-google-setup]]
+
+The CRM is being built and deployed, but **every account is owned by Megan's credentials**, not Moil's. Taiwo is a collaborator only. This lets Moil hand the whole stack over cleanly at go-live.
+
+| Layer | Account | Owner | Notes |
+|---|---|---|---|
+| Domain / hosting entry | GoDaddy (`fitlogicfunctionalmedicine.com/crm`) | Megan | Credentials previously shared in Teams private chat |
+| App hosting | Vercel | Megan | Free tier |
+| Database | Supabase | Megan | Free tier; Moil-built schema for contacts |
+| Outbound email | Resend | Megan | Authenticated via Megan's GitHub login |
+| Code repo | GitHub | Megan | Taiwo added as collaborator |
+| Gmail / Calendar OAuth | Google Cloud Console project (Megan's `hello@` Gmail) | Megan | Scopes finalized: Gmail `send` + `readonly` + `compose`, Calendar `readonly`. Authorized redirect URIs will hold multiple entries (local / staging / production) |
+| LLM API | Gemini API key | Megan (at deploy time) | She pays usage directly |
+
+**Why this matters for the Moil 360 playbook:** this is the first time Moil has set up a customer as the owner of every infrastructure account from day one. Historically Moil owned Vercel/Supabase/etc. and had to migrate later. Establishing the "own from inception" pattern at FitLogic makes her the clean template for H1 case-study handoff stories and for how future Moil-built CRMs get priced and delivered.
+
+## Apr 21 Working Session — Key Decisions
 
 ## Apr 21 Working Session — Key Decisions
 
@@ -77,7 +98,7 @@ External agency (not Moil) redesigning `fitlogicfunctionalmedicine.com`. Problem
 ## Contacts
 
 - **Megan Miller, NP** — owner, primary Moil contact — [[wiki/people/megan-miller]]
-- **Michelle** — clinic staff, in early clinical training (months before fully ramped)
+- **Michelle** — clinic staff, in early clinical training (months before fully ramped). Mentioned Apr 23 that she knows [[wiki/people/daniel-mann|Daniel D. Mann]] ("Firefly") — warm second-degree social-proof loop back to Moil's #1 referral partner.
 - **Lori, Cassandra** — clinic staff (briefly mentioned)
 
 ## Workshop (Joint)

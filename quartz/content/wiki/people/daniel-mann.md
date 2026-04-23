@@ -18,9 +18,9 @@ referrals:
 # Daniel Mann
 
 **Type:** person — 🌟 **top referral partner**
-**Last updated:** 2026-04-15
-**Source:** m365 email (46 messages on Evermend thread, Feb–Apr 2026)
-**Related:** [[wiki/moil/referral-partners]], [[wiki/orgs/evermend-group]]
+**Last updated:** 2026-04-23
+**Source:** m365 email (46 messages on Evermend thread, Feb–Apr 2026), [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]]
+**Related:** [[wiki/moil/referral-partners]], [[wiki/orgs/evermend-group]], [[wiki/people/megan-miller]]
 
 ---
 
@@ -89,6 +89,16 @@ Ordered by confirmed outcome, then recency.
 
 - [ ] Unknown — needs backfill. Pattern-check email history for any Moil → Daniel referrals.
 - [ ] **ACTION:** Schedule a quarterly "referral thank-you" cadence
+
+## April 23, 2026 — Second-Degree Social Proof Loop via Michelle @ FitLogic
+
+Source: [[wiki/meetings/2026-04-23-megan-crm-google-setup]]
+
+During the Megan FitLogic CRM setup call, clinic staff member Michelle joined briefly and opened with *"Andres, this is Michelle. I'm supposed to say hello to you from Daniel D. Mann."* Andres: *"Daniel is the man … amazing guy when it comes to connecting people, and he's so fun to talk to … please tell him I say hello back, and to not be shy and shoot me a text."* Michelle confirmed Daniel says the same things back — *"smart guy, very well connected."*
+
+**Why this matters:** First recorded instance of Daniel's referral graph closing back through an **existing Moil customer's staff** — i.e., Daniel is active in the same local network that Moil customers are embedded in, beyond the 8 direct intros. Strengthens the case for systematizing Daniel as a channel rather than an ad-hoc flow.
+
+- [ ] **🔥 Direct text from Andres to Daniel** — acknowledge Michelle-via-Megan relay, warmth gesture, and open the "let's work on a project together" thread Andres has mentioned to him before.
 
 ## Next Actions 🔥
 

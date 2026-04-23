@@ -1,6 +1,6 @@
 # Moil Brain — Master Index
 
-**Last compiled:** 2026-04-22 (Run 18 — email digests Apr 20 + Apr 21) · **Total wiki pages:** 257 · **Raw sources:** 294
+**Last compiled:** 2026-04-23 (Run 19 — Apr 22 email digest + Apr 23 Megan FitLogic CRM/Google setup) · **Total wiki pages:** 258 · **Raw sources:** 296
 
 > **Canonical operating truth lives outside the wiki:** if status or architecture notes here conflict with newer operating reality, use `~/My Brain/CURRENT_STATE.md` first.
 

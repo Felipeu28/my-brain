@@ -5,9 +5,9 @@ tags:
 # Moil — Go-to-Market Motion
 
 **Type:** moil-topic
-**Last updated:** 2026-04-22
-**Source:** [[raw/moil-documents-2026-04-09]], [[raw/moilapp-website-2026-04-09]], [[raw/teams-2026-04-12]], [[raw/email-digest-2026-04-14]], [[raw/email-digest-2026-04-15]], [[raw/email-digest-2026-04-17]], [[raw/email-digest-2026-04-20]], [[raw/email-digest-2026-04-21]]
-**Related:** [[wiki/moil/positioning]], [[wiki/moil/icp]], [[wiki/concepts/buda-hive]], [[wiki/people/travis-sutherland]], [[wiki/people/daniel-guadiano]], [[wiki/people/renee-simmons]], [[wiki/people/adam-maxon]], [[wiki/people/irma-mason]], [[wiki/people/elisa-alaniz]]
+**Last updated:** 2026-04-23
+**Source:** [[raw/moil-documents-2026-04-09]], [[raw/moilapp-website-2026-04-09]], [[raw/teams-2026-04-12]], [[raw/email-digest-2026-04-14]], [[raw/email-digest-2026-04-15]], [[raw/email-digest-2026-04-17]], [[raw/email-digest-2026-04-20]], [[raw/email-digest-2026-04-21]], [[raw/email-digest-2026-04-22]]
+**Related:** [[wiki/moil/positioning]], [[wiki/moil/icp]], [[wiki/concepts/buda-hive]], [[wiki/people/travis-sutherland]], [[wiki/people/daniel-guadiano]], [[wiki/people/renee-simmons]], [[wiki/people/adam-maxon]], [[wiki/people/irma-mason]], [[wiki/people/elisa-alaniz]], [[wiki/people/katherine-silvas]], [[wiki/orgs/helotes-edc]]
 
 ---
 
@@ -148,6 +148,21 @@ Single-day outbound: **~25 emails** — mostly breakup / close-out cadence acros
 - **Customer Teams invites:** [[wiki/people/becky-torres|Becky Torres]] / Siren Beauty, Jill / PureSerenity.
 
 **Signal:** The Apr 21 day was dominated by **breakup cadence in Canada + Illinois + New Hampshire** — ending sequences, not starting them. First documented cross-border close-out cluster (ON + Toronto). Pipeline hygiene is running at full tilt.
+
+### Cold campaign — Apr 22 update (largest single-day breakup wave; Helotes proposal out)
+
+Source: [[raw/email-digest-2026-04-22]]
+
+Single-day outbound: **24 sent emails** — the largest single-day volume of breakups yet (17 breakup-line emails), plus two narrative re-engagement pings, two active customer/prospect threads, and the **Helotes EDC Moil Partnership Proposal**.
+
+- **Breakup wave (fourth, and largest):** Stacy Bowerman (michigan.org), Heather Schaedig (grandjen.com), Jean Jernigan (auburnhillschamber.com), Sarah Laforge (bluewaterchamber.com), Eugene Seals (saginawchamber.org), Dan West (livonia.org), Ian Rutan (gachamber.com), Candace Boothby (newnancowetachamber.org), Nancy Palmer (gachamber.com), Trent Williamson (hiltonheadisland.org), Fred Boscarino (conyers-rockdale.com), Robert Nichols (dlcchamber.org), Sharon Mason (cobbchamber.org), Courtney Bernardi (oconeechamber.org), April Bragg (robinsregion.com), Ralph Staffins (bgicoc.com), Celia Bostwick (blakelyearlycountychamber.org). **Heavy MI + GA concentration** closes out two of the campaign's original geographic clusters.
+- **"Interesting feedback from an EDC" narrative re-engagement:** Mandy Power (dawson.org) and Rachapa Lau (apacc.net) — both got the "entrepreneurs now arrive with research + plans" EDC-partner anecdote as a warmer re-open after prior silence.
+- **New cold lead (first SMB/consulting outreach):** Jill Healy (jillhealy@trialrunners.com) — "What entrepreneurs see" demo-video + 21-question flow pitch. Not a chamber/EDC — first Trial Runners / SMB-consulting target in the campaign.
+- **🔥 Helotes EDC — Moil Partnership Proposal sent 5:26 PM CT** after the 10 AM Zoom call with [[wiki/people/katherine-silvas|Kate Silvas]]. This converts the Apr 22 Helotes conversation from "pending discovery" to "proposal out." First written proposal delivered to any EDC outside Buda. See [[wiki/orgs/helotes-edc]].
+- **Customer touch:** [[wiki/people/becky-torres|Becky Torres]] / Siren Beauty — staging site link delivered (siren-beauty.vercel.app). Moil hand-off prep underway.
+- **Team-internal forward:** Megan's "Email address to use as 'from' for campaigns" question forwarded to Taiwo — followed through from Apr 21 deliverability firefight into Apr 22 engineering queue.
+
+**Signal:** Apr 22 is the campaign's **pipeline-close day**. More breakup emails than any prior day; two warm re-opens; one new SMB vertical test; and the first EDC proposal outside Buda is on a decision-maker's desk. Outbound cadence is consciously pruning the long tail while the Helotes and Astra conversations move to written artifacts.
 
 ### Warm community referrals (Apr 19–21)
 

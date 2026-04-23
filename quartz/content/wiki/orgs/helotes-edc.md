@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-16
+last_contact: 2026-04-22
 tags:
   - graph/spoke
 owner: "[[wiki/people/katherine-silvas]]"
@@ -8,8 +8,8 @@ owner: "[[wiki/people/katherine-silvas]]"
 # Helotes EDC — Helotes Economic Development Corporation
 
 **Type:** organization
-**Last updated:** 2026-04-17
-**Source:** m365 email thread (12+ messages, Feb 19 – Apr 16, 2026)
+**Last updated:** 2026-04-23
+**Source:** m365 email thread (12+ messages, Feb 19 – Apr 16, 2026), [[raw/email-digest-2026-04-22]]
 **Related:** [[wiki/people/katherine-silvas]], [[wiki/people/mayra-adams]], [[wiki/orgs/buda-edc]], [[wiki/moil/pipeline]], [[wiki/moil/gtm]]
 
 ---
@@ -34,6 +34,7 @@ Helotes EDC (Economic Development Corporation, City of Helotes, TX) is an **acti
 | 2026-03-12 | Kate Silvas & Andrés Urrego — Teams meeting held |
 | 2026-03-31 | Katherine: **"Doing strategic planning on the incubator with my Board, would like to include MOIL as the offering we provide to our clients in the incubator"** — pending response from Andres |
 | 2026-04-16 | Kate acknowledged family hospital context; looped in [[wiki/people/mayra-adams|Mayra Adams]] to schedule. **Call locked: Wed Apr 22 @ 10am CT.** |
+| 2026-04-22 | Zoom call held (Kate sent link 10:07 AM). Andres sent "Moil Partnership Proposal" email same day 5:26 PM. Proposal is out — **awaiting Board response.** |
 
 ## Why This Matters
 
@@ -44,9 +45,10 @@ This is the **2nd EDC incubator partnership** after Buda EDC. Two incubators in 
 
 ## Next Actions (🔥 pending)
 
-- [ ] **Apr 22 @ 10am CT** — call with Kate. Lead with Buda EDC case study; anchor on per-cohort license model.
-- [ ] Send proposal modeled on the Buda EDC Incubator Strategist contract.
-- [ ] Prepare reference one-pager: Buda HIVE Cohort 4 case study, pricing, delivery model.
+- [x] ~~Apr 22 @ 10am CT — call with Kate~~ — **done Apr 22**
+- [x] ~~Send proposal modeled on the Buda EDC Incubator Strategist contract~~ — **Partnership Proposal sent Apr 22 5:26 PM**
+- [ ] **Await Board response; nudge ~Apr 29–May 6 if silent.**
+- [ ] Prepare reference one-pager (Buda HIVE Cohort 4 case study + pricing + delivery model) for when Kate re-engages — still useful even with proposal out.
 
 ## Connections
 
