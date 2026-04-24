@@ -4,11 +4,11 @@ type: bookmark
 
 # X Bookmarks — 2026-04-24
 
-**Period:** N/A – N/A
+**Period:** undated – undated
 **Total bookmarks:** 0
 **Captured by:** gstack /browse
 **Account:** @roarkittys
 
 ---
 
-> **Scrape failed — not authenticated.** All 20 scroll windows returned "Hmm...this page doesn't exist. Try searching for something else." X requires a logged-in session to view bookmarks. Run `/setup-browser-cookies` to import your browser session before the next scrape.
+*No bookmark content was captured — all 20 scroll windows returned empty text. The bookmarks page may require authentication or the scrape did not render tweet content.*
