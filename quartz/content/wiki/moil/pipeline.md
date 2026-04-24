@@ -25,7 +25,7 @@ last_contact: 2026-04-14
 | **Jacob Centeno / Titan Tech** | titantechauthority@gmail.com | Starter ($15/mo) | $180/yr | Apr 8 | Monitor usage |
 | **PureSerenity** | jilledegs01@gmail.com | Moil 360 | License | Apr 10 | Site deployed; check for pending changes |
 | **Siren Beauty** | [[wiki/people/becky-torres|Becky Torres]] | Website redesign + Moil 360 | $2,200 | Apr 6 | Full website project; next meeting TBD |
-| **Eden** | — | Website discovery | Project | Apr 8 | Follow up on discovery call |
+| **[[wiki/people/marilyn-eden|Marilyn Eden]]** (Orphic Creative) | orphiccreative333@gmail.com | Website discovery | Project | Apr 23 | Reactivated — Teams 5pm CDT Apr 23 accepted same day |
 | **Meridian Buda** | — | Full ticketed events platform | Closed | Apr 9 | Deployed with Stripe |
 | **Nuovo Entertainment** | — | Custom site | Closed | Apr 9 | Site deployed |
 

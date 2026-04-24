@@ -1,13 +1,14 @@
 ---
-date: 2026-04-24
+date: 2026-04-24T00:00:00.000Z
 type: implementation-plan
 plan_type: feature
 appetite: 1w
-topic: "AlloyATX Moil360 AI-voice audit before first content batch ships"
+topic: AlloyATX Moil360 AI-voice audit before first content batch ships
 state: under_review
 active_repos: []
 tags:
   - graph/leaf
+approved_at: '2026-04-24T16:33:42.545Z'
 ---
 
 # Plan: AlloyATX Content-Voice Gate — audit before Week 1 batch posts

@@ -5,8 +5,8 @@ tags:
 # LinkedIn GTM Strategy
 
 **Type:** concept (marketing framework)
-**Last updated:** 2026-04-12
-**Source:** [[raw/x-bookmarks-2026-04-11 copy]]
+**Last updated:** 2026-04-24
+**Source:** [[raw/x-bookmarks-2026-04-11 copy]], [[raw/x-bookmarks-2026-04-24]]
 **Related:** [[wiki/moil/gtm]], [[wiki/concepts/gtm-system-multi-channel]], [[wiki/concepts/ai-cold-outreach]]
 
 ---
@@ -56,3 +56,14 @@ Andres has a personal Facebook presence (4,200 followers) and MoilWorks page (96
 5. Use @romanbuildsaas competitor follower extraction to seed the first 200 connection targets
 
 **Time to first result:** 60-90 days of consistent posting to see meaningful inbound pipeline influence.
+
+## ⚠️ Apr 21, 2026 — Algorithm shift contradicts the playbook
+
+From [[wiki/summaries/x-bookmarks-2026-04-24]]:
+
+- **🔥 @paolo_scales (Apr 21):** "LinkedIn algorithm 2026: AI content is dead, tactics from 6 months ago killing reach now." Direct conflict with the Logan Gott Apr 4 framework above. Before next LinkedIn campaign, read Paolo's full thread and reconcile — the Apr 4 algorithm rules may already be stale.
+- **@itsalexvacca (Apr 14):** Meeting-to-pipeline gap — 847 AI SDR meetings → 11% converted vs 312 human → 35%. Quantified case against fully-AI outbound. LinkedIn DM automation is in the same risk class.
+- **@pierreeliottlal (Apr 18):** "Connect Claude to LinkedIn in 1 click" — 300+ skills for finding leads + writing messages. Tooling is easier; reach is harder.
+- **@paolo_scales (Mar 23):** 145 booked calls in 90 days via organic LinkedIn + X only, no ads. Same author's earlier case study — useful baseline before adopting new Apr 21 advice.
+
+**Operating implication:** Treat the Apr 4 playbook as suspect for AI-assisted posts. Andres-personally-written content likely still works; obvious AI-generated content likely does not. Test both before committing budget.

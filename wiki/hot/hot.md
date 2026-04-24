@@ -31,26 +31,26 @@ Updated automatically by:
 ## Recent Queries
 
 <!-- ENTRIES:query -->
-- 2026-04-24 08:48 — Session end: [Brain/Auto] Run the morning briefing. Execute these steps:  1. Fetch today's calendar: bash … — 1 new files
-- 2026-04-24 08:04 — Session end: [Brain/KB] Let's create a full research, analysis and implementation plan to be able to hav… — 54 new files · 71 edits
-- 2026-04-24 07:52 — Session end: [Clio] Create a DESIGN.md file for the Clio kids AI companion app (luna-brain repo). Th… — 2 new files · 1 edits · 1 commits
-- 2026-04-24 06:00 — Session end: [Claude] You are the Moil Brain's daily cross-source intelligence analyst.  You are readi… — 8 events
-- 2026-04-23 22:50 — Session end: [Clio] Base directory for this skill: /Users/jarvisurrego/.claude/skills/design-review … — 4 new files · 70 edits · 16 commits
-- 2026-04-23 22:43 — Session end: [Brain/KB] Let's create a full research, analysis and implementation plan to be able to hav… — 54 new files · 71 edits
-- 2026-04-23 22:40 — Session end: [Brain/KB] Let's create a full research, analysis and implementation plan to be able to hav… — 54 new files · 71 edits
-- 2026-04-23 22:40 — Session end: [Brain/KB] Implement a complete "Claude Code maximization" setup across all of Andres's rep… — 1 chapters · 10 new files · 3 edits · 3 commits
-- 2026-04-23 22:37 — Session end: [Clio] Base directory for this skill: /Users/jarvisurrego/.claude/skills/design-review … — 3 new files · 61 edits · 15 commits
-- 2026-04-23 22:27 — Session end: [Clio] Base directory for this skill: /Users/jarvisurrego/.claude/skills/office-hours  … — 8 chapters · 37 new files · 304 edits · 40 commits
-- 2026-04-23 22:25 — Session end: [Clio] Base directory for this skill: /Users/jarvisurrego/.claude/skills/design-review … — 3 new files · 43 edits · 14 commits
-- 2026-04-23 22:08 — Session end: [Clio] Base directory for this skill: /Users/jarvisurrego/.claude/skills/design-review … — 3 new files · 28 edits · 12 commits
-- 2026-04-23 22:05 — Session end: [Clio] Base directory for this skill: /Users/jarvisurrego/.claude/skills/design-review … — 3 new files · 28 edits · 12 commits
-- 2026-04-23 22:01 — Session end: [Clio] Base directory for this skill: /Users/jarvisurrego/.claude/skills/design-review … — 3 new files · 28 edits · 12 commits
-- 2026-04-23 22:01 — Session end: [Clio] Base directory for this skill: /Users/jarvisurrego/.claude/skills/office-hours  … — 8 chapters · 37 new files · 304 edits · 40 commits
-- 2026-04-23 22:00 — Session end: [Clio] Base directory for this skill: /Users/jarvisurrego/.claude/skills/office-hours  … — 8 chapters · 37 new files · 304 edits · 40 commits
-- 2026-04-23 21:58 — Session end: [Clio] URGENT: Clio (luna-brain) voice chat is completely broken. Andres needs a full e… — 2 chapters · 1 new files · 21 edits · 5 commits
-- 2026-04-23 21:02 — Session end: [Clio] Base directory for this skill: /Users/jarvisurrego/.claude/skills/design-review … — 3 new files · 26 edits · 12 commits
-- 2026-04-23 20:52 — Session end: [Clio] Base directory for this skill: /Users/jarvisurrego/.claude/skills/office-hours  … — 7 chapters · 35 new files · 287 edits · 39 commits
-- 2026-04-23 20:52 — Session end: [Clio] URGENT: Clio (luna-brain) voice chat is completely broken. Andres needs a full e… — 2 chapters · 1 new files · 21 edits · 5 commits
+- 2026-04-24 14:14 — Session end: [Brain/KB] Run the weekly knowledge base compile and cleanup. Today is 2026-04-24.  ## PART… — 4 new files · 18 edits
+- 2026-04-24 13:01 — Session end: [Brain/KB] Let's create a full research, analysis and implementation plan to be able to hav… — 77 new files · 109 edits
+- 2026-04-24 12:24 — Session end: [Brain/KB] Let's create a full research, analysis and implementation plan to be able to hav… — 77 new files · 109 edits
+- 2026-04-24 12:02 — Session end: [Brain/Auto] You are Andres's plan radar. Every day at noon you scan recent Brain activity an… — 2 new files
+- 2026-04-24 11:35 — Session end: [Brain/KB] Let's create a full research, analysis and implementation plan to be able to hav… — 77 new files · 109 edits
+- 2026-04-24 11:30 — Session end: [Brain/Auto] You are Andres's plan radar. Every day at noon you scan recent Brain activity an… — 1 new files
+- 2026-04-24 11:25 — Session end: [Brain/Auto] Generate a one-page implementation plan for Andres Urrego at Moil.  Topic reques… — 1 new files
+- 2026-04-24 11:18 — Session end: [Brain/KB] Let's create a full research, analysis and implementation plan to be able to hav… — 65 new files · 92 edits
+- 2026-04-24 11:13 — Session end: [Brain/KB] Let's create a full research, analysis and implementation plan to be able to hav… — 65 new files · 92 edits
+- 2026-04-24 11:11 — Session end: [Brain/Auto] You are Andres's strategy operator. Every Sunday evening you synthesize a week o… — 1 new files
+- 2026-04-24 11:05 — Session end: [Clio] URGENT: Clio (luna-brain) voice chat is completely broken. Andres needs a full e… — 3 chapters · 1 new files · 31 edits · 6 commits
+- 2026-04-24 11:04 — Session end: [Brain/KB] Let's create a full research, analysis and implementation plan to be able to hav… — 60 new files · 86 edits
+- 2026-04-24 11:01 — Session end: [Brain/KB] Let's create a full research, analysis and implementation plan to be able to hav… — 60 new files · 86 edits
+- 2026-04-24 11:00 — Session end: [Brain/Auto] You are Andres Urrego's editor. Every evening you distill his X bookmarks from t… — 1 new files
+- 2026-04-24 10:58 — Session end: [Brain/KB] Parse raw X bookmarks page text into a structured markdown file.  Input: /tmp/xb… — 1 new files
+- 2026-04-24 10:52 — Session end: [Clio] URGENT: Clio (luna-brain) voice chat is completely broken. Andres needs a full e… — 3 chapters · 1 new files · 31 edits · 6 commits
+- 2026-04-24 10:50 — Session end: [Brain/Auto] You are parsing raw scraped text from Andres's X.com bookmarks page into a struc… — 1 new files
+- 2026-04-24 10:49 — Session end: [Brain/KB] Let's create a full research, analysis and implementation plan to be able to hav… — 60 new files · 85 edits
+- 2026-04-24 10:48 — Session end: [Brain/KB] Let's create a full research, analysis and implementation plan to be able to hav… — 60 new files · 85 edits
+- 2026-04-24 10:48 — Session end: [Brain/KB] Let's create a full research, analysis and implementation plan to be able to hav… — 60 new files · 85 edits
 <!-- /ENTRIES:query -->
 
 ## Recent Saves

@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-20
+last_contact: 2026-04-23
 tags:
   - graph/spoke
   - person/customer
@@ -9,8 +9,8 @@ client: "[[wiki/orgs/alloy-atx]]"
 # Roxana Yglesias
 
 **Type:** person
-**Last updated:** 2026-04-22
-**Source:** [[raw/email-history-2months-2026-04-12]], [[raw/teams-transcript-roxana-andres-2026-04-14]], [[raw/email-digest-2026-04-21]]
+**Last updated:** 2026-04-24
+**Source:** [[raw/email-history-2months-2026-04-12]], [[raw/teams-transcript-roxana-andres-2026-04-14]], [[raw/email-digest-2026-04-21]], [[raw/email-digest-2026-04-23]]
 **Related:** [[wiki/orgs/alloy-atx]], [[wiki/moil/customers]], [[wiki/moil/pipeline]]
 
 ---
@@ -38,6 +38,7 @@ Roxana Yglesias owns [[wiki/orgs/alloy-atx|AlloyATX]], a fitness/wellness busine
 - Apr 11: Team message confirms Alloy deal closing
 - **Apr 14: Full onboarding call with Andres (90 min).** Deal confirmed at $75/mo. Asset handover initiated. Shared folder set up in Teams. Market research via 21-question flow as first step. Satellite landing pages planned. Wellness referral network discussed.
 - **Apr 20, 2026:** 💰 **First Stripe payment — $75 for Moil Enterprise subscription** (r.yglesias@alloyatx.com). Deal is now live-billing.
+- **Apr 23, 2026:** Sent "Brand Info" email (empty body — likely Canva attachment/links). Pairs with the same-hour "Business Baskets Portrait" Canva share. Active asset handover continuing.
 
 ## Referral Potential
 

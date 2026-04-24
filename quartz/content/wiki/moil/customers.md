@@ -44,7 +44,7 @@ last_contact: 2026-04-14
 | Megan Miller / FitLogic | meganmillernp@gmail.com | Hiring + possible Moil360 | Active onboarding | Apr 1 | First hire imminent; confirm and track as P1 win |
 | Daniel Guadiano / Astra Restaurant | daniel.guadiano@astrabtx.com | AI scheduling | Meeting confirmed | Apr 13 | **Thu Apr 16** — meeting confirmed by Daniel |
 | Kristi Hales / WorldLink Medical | khales@worldlinkmedical.com | Health/pharma tools | Deferred | Apr 9 | *"Will have more time in May"* — re-engage May 2026 |
-| Eden | (unknown) | Website build | Discovery | Apr 8 | Follow up on discovery call |
+| [[wiki/people/marilyn-eden\|Marilyn Eden]] / Orphic Creative | orphiccreative333@gmail.com | Website build | Discovery (reactivated Apr 23) | Apr 23 | Apr 23 5pm CDT Teams meeting accepted; convert to scoped proposal or close out |
 | Travis / Zoiwell | travis@zoiwell.com | Moil360 demo | → **CONVERTED to P1** Apr 9 | Apr 9 | Done |
 
 ---

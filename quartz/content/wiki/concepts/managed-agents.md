@@ -5,8 +5,8 @@ tags:
 # Claude Managed Agents
 
 **Type:** concept
-**Last updated:** 2026-04-12
-**Source:** [[raw/x-bookmarks-2026-04-11 copy]]
+**Last updated:** 2026-04-24
+**Source:** [[raw/x-bookmarks-2026-04-11 copy]], [[raw/x-bookmarks-2026-04-24]]
 **Related:** [[wiki/concepts/llm-knowledge-bases]], [[wiki/concepts/claude-code]], [[wiki/concepts/openclaw-hermes]], [[wiki/concepts/goose-ai]], [[wiki/concepts/agent-memory-files]]
 
 ---
@@ -49,3 +49,13 @@ Managed Agents' advantage: official Anthropic support, no infrastructure to mana
 Managed Agents could potentially replace or complement the Pi + LM Studio local agent approach for certain workflows. Worth monitoring as the feature matures. Key question: can Managed Agents access local data (Outlook, filesystem) the way Pi can? If yes, the architecture may simplify significantly.
 
 **Business angle:** The "second employee" framing (@aschwags3) is directly applicable to Moil's "AI Co-Founder" pitch. Moil's product is effectively a packaged Managed Agent for SMBs — one that comes pre-configured with hiring, marketing, and coaching workflows rather than requiring the SMB to build it themselves.
+
+## Apr 17–22 update — three weeks post-launch
+
+From [[wiki/summaries/x-bookmarks-2026-04-24]]:
+
+- **What people actually use Hermes Agent for** (@mvanhorn Apr 19) — concrete list: pre-call research, proposal writing, CRM sync. First confirmed use-case grouping that's not hype. Direct overlap with Moil's customer-success workflow.
+- **Clawputer** (@garrytan Apr 21) — GBrain in the cloud — the hosted alternative for users who don't want to self-host OpenClaw.
+- **Chief of Staff on OpenClaw** (@rsarver Apr 6) — VC quote: "better than any human EA I've hired." High-trust executive workflow case.
+- **OpenClaw security audit** (@coreyganim Apr 9) — 3-level fix (sandbox / allowlist / .gitignore) for SSH/.env/AWS exposure. Reinforces strategic action item already in [[MEMORY]].
+- **Pattern repeats:** "Managed Agents quietly killed AI startups doing real work for users" (@voxyz_ai Apr 9) — three weeks of evidence now backs the Apr 12 prediction.

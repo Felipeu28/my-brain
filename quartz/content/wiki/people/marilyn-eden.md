@@ -1,0 +1,45 @@
+---
+tags:
+  - graph/spoke
+  - person/contact
+status: warm
+last_contact: 2026-04-23
+---
+# Marilyn Eden
+
+**Type:** person
+**Last updated:** 2026-04-24
+**Source:** [[raw/email-digest-2026-04-23]]
+**Related:** [[wiki/moil/pipeline]], [[wiki/moil/customers]]
+
+---
+
+## Summary
+
+Marilyn Eden (Orphic Creative) is the prospect previously logged on the pipeline as **"Eden — Website discovery"** (Apr 8 discovery call). After 15 days dormant, she accepted a Teams meeting with Andres for **Thu 2026-04-23 at 5:00 PM CDT**, putting the website project back in active discussion.
+
+## Key Details
+
+- **Email:** orphiccreative333@gmail.com (likely DBA — Orphic Creative)
+- **Status:** Warm — Apr 8 discovery call held; Apr 23 follow-up meeting accepted same day Andres sent the invite (20:48 → 21:02 acceptance)
+- **Project:** Website build (scope TBD — was on the pipeline as "Project" tier prior to Apr 23)
+
+## Timeline
+
+- **Apr 8, 2026:** Initial website discovery call (recorded; flagged as carryover in Apr 18 Teams technical-debt list)
+- **Apr 23, 2026 20:48:** Andres sent Teams meeting invite "Eden & Andres" for 5pm CDT same day
+- **Apr 23, 2026 21:02:** Marilyn accepted the invite — first response since Apr 8
+
+## Connections
+
+- [[wiki/moil/pipeline]] — Eden listed under Project tier
+- [[wiki/moil/customers]] — Discovery row, Apr 8 entry
+
+## Open Items
+
+- [ ] **Andres:** Hold Apr 23 5pm CDT call; convert from discovery → scoped proposal or close out
+- [ ] Update [[wiki/moil/pipeline]] and [[wiki/moil/customers]] with Marilyn's full name (currently logged as "Eden")
+
+## Why This Page Exists
+
+The Apr 8 discovery has sat on every weekly carryover since with no name attached. The Apr 23 same-day invite acceptance turns the lead from "follow up needed" into "active conversation." First-name-only on the pipeline obscured the relationship; this page restores the personal handle so future runs can track properly.

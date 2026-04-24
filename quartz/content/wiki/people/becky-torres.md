@@ -3,14 +3,14 @@ tags:
   - graph/spoke
   - person/customer
 status: active
-last_contact: 2026-04-17
+last_contact: 2026-04-23
 client: "[[wiki/orgs/siren-beauty]]"
 ---
 # Becky Torres
 
 **Type:** person
-**Last updated:** 2026-04-14
-**Source:** [[raw/email-history-2months-2026-04-12]], [[raw/email-history-6months-2026-04-14]], [[raw/hive-siren-beauty-wellness-strategy-plan]]
+**Last updated:** 2026-04-24
+**Source:** [[raw/email-history-2months-2026-04-12]], [[raw/email-history-6months-2026-04-14]], [[raw/hive-siren-beauty-wellness-strategy-plan]], [[raw/email-digest-2026-04-23]]
 **Related:** [[wiki/orgs/siren-beauty]], [[wiki/moil/customers]], [[wiki/moil/pipeline]]
 
 ---
@@ -47,6 +47,12 @@ Full website redesign + digital strategy for Siren Beauty & Wellness (see [[wiki
 - Blog / content engine (2+ posts/month launch target)
 - 4 local landing pages (Buda, Kyle, Dripping Springs, San Marcos)
 - 6-phase implementation roadmap (Weeks 1–13 + ongoing monthly maintenance)
+
+## Apr 23, 2026 — Personal warm signal
+
+Source: [[raw/email-digest-2026-04-23]]
+
+Becky emailed Apr 23 at 19:57 thanking Andres for bringing his mom by SIREN; forwarded a brand link from her sister (a graphic designer). First documented social/family touchpoint between Becky and Andres outside the business engagement — the founder relationship is moving from vendor to neighbor. Worth noting for case-study language and ongoing referral-source potential.
 
 ## Connections
 

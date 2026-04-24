@@ -1,11 +1,13 @@
 # MEMORY — Open Actions & Live Commitments
 
-**Last updated:** 2026-04-23 (Run 19 — Apr 22 email digest + Apr 23 Megan CRM/Google setup call ingested)
+**Last updated:** 2026-04-24 (Run 20 — weekly compile: priority rot rules applied, no items hit demotion threshold this week)
 **Purpose:** Single source of truth for open action items extracted from ingested raw sources.
 
 > Relationship/concept context: [[index]] · Ingestion history: [[log]]
 
 **Review rhythm:** Weekly (Fri, 15 min) — strike `~~done~~`; move stale >2wk to log.md. Monthly — prune precedent value. **Hard cap: 200 lines.**
+
+> **Run 20 priority rot pass (2026-04-24):** Applied weekly compile rules — no items met the >14-day Immediate / Next-2-3-weeks demotion threshold this run (oldest dated item in Immediate is Apr 17–18 carryover, 7 days old; oldest in Next 2–3 weeks is Apr 22–23 Daniel Guadiano slot, 1–2 days past). No `Verify: …` items present. Closed/Archive section already empty (pruned 2026-04-22). Next likely demotion candidates next week: "Carried from last week (Apr 11–17)" block items dated Apr 11–14 will cross 14 days between Apr 25–28.
 
 ---
 

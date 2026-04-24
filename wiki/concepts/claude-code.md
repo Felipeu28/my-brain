@@ -9,8 +9,8 @@ tags:
 # Claude Code
 
 **Type:** concept
-**Last updated:** 2026-04-11
-**Source:** [[raw/x-bookmarks-2026-04-11 copy.md]], [[raw/x-bookmarks-2026-04-11.md]], [[raw/brain-guide.md]]
+**Last updated:** 2026-04-24
+**Source:** [[raw/x-bookmarks-2026-04-11 copy.md]], [[raw/x-bookmarks-2026-04-11.md]], [[raw/brain-guide.md]], [[raw/x-bookmarks-2026-04-24]]
 **Related:** [[wiki/concepts/claude-cowork]], [[wiki/concepts/managed-agents]], [[wiki/concepts/llm-knowledge-bases]], [[wiki/concepts/openclaw-hermes]], [[wiki/concepts/brain-architecture]]
 
 ---
@@ -39,3 +39,15 @@ Anthropic's official CLI agent for software engineering and knowledge work. It's
 - Moil's entire dev + content pipeline could run on Claude Code skills (SEO, blog posts, ads audits, customer support triage).
 - The `claude-ads` pattern could inspire a "Moil-ads audit" skill for Moil customers' ad accounts.
 - Security audit is a real todo — Andres should know what permissions Claude Code has on the Mac Mini M4 before running autonomously.
+
+## Apr 14–24 update — automation runtimes converging
+
+From [[wiki/summaries/x-bookmarks-2026-04-24]]:
+
+- **Routines vs Schedules vs /loop** — three distinct ways to run Claude work automatically (@coreyganim, @NickSpisak_, @claudeai Apr 14). **Routines** = cloud, no laptop required (research preview). **Schedules** = local cron-like. **/loop** = current-session iteration. Decision matrix relevant to whether the Brain's launchd jobs ([[wiki/concepts/brain-architecture]]) should migrate to Routines.
+- **Recaps** (@bcherny Apr 16) — short summaries of what an agent did + what's next, native to long sessions.
+- **Adaptive thinking on Opus 4.7** (@bcherny Apr 16) — tune effort level for speed vs intelligence; replaces budget-based thinking.
+- **Claude Doctor** (@aidenybai Apr 15) — reads `~/.claude` to find where Claude keeps messing up and writes new CLAUDE.md rules. Quarterly hygiene candidate.
+- **Boris Cherny's full Claude Code skill collection** (@NainsiDwiv50980 Mar 27) — installable as one skill bundle.
+- **Compound Engineering v3** (@trevin Apr 22) — naming cleanup, plan/brainstorm artifacts with idea→commit paper trail. Worth comparing to `/brain-ingest` + `/brain-query` flow.
+- **Setup rots over time** (@itsolelehmann Mar 24) — one detox prompt deletes bloat and improves output. Schedule a quarterly pass.

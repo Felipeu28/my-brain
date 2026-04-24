@@ -4,6 +4,46 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ---
 
+## 2026-04-24 — Run 20: Weekly compile (Apr 23 email digest + Apr 24 X bookmarks + MEMORY rot + freshness audit)
+
+**Trigger:** `/brain weekly compile` invocation. Two new raw files since Run 19:
+- `raw/email-digest-2026-04-23.md` (committed Apr 23 18:31 by `email-digest` job — 24-hour window Apr 22–23)
+- `raw/x-bookmarks-2026-04-24.md` (captured Apr 24 10:58 via gstack /browse — 82 bookmarks Feb 4–Apr 24, account `@roarkittys`)
+
+**Pages created (3):**
+- [[wiki/people/marilyn-eden]] — the previously-nameless "Eden — Website discovery" (Apr 8) prospect now has a full name + Apr 23 reactivation timeline (Teams 5pm CDT meeting accepted same day)
+- [[wiki/people/kemi-riley-telfort]] — Aeparmia Engineering, met at Heritage Session networking event, first inbound Apr 23
+- [[wiki/summaries/x-bookmarks-2026-04-24]] — 82-bookmark digest organized by Andres's working themes (harness engineering, Managed Agents ecosystem, vertical AI, GTM reality check, local inference)
+
+**Pages updated (5):**
+- [[wiki/people/becky-torres]] — Apr 23 personal warm signal (Andres brought his mom by SIREN, Becky forwarded brand link from her sister); last_contact → 2026-04-23
+- [[wiki/people/roxana-yglesias]] — Apr 23 "Brand Info" email (Canva asset handover continuing); last_contact → 2026-04-23
+- [[wiki/concepts/claude-code]] — Apr 14–24 update: Routines vs Schedules vs /loop trio, Recaps, adaptive thinking on Opus 4.7, Claude Doctor, Compound Engineering v3
+- [[wiki/concepts/managed-agents]] — Apr 17–22 update: Hermes use-case list (mvanhorn), Clawputer cloud GBrain, OpenClaw security 3-level fix
+- [[wiki/concepts/linkedin-gtm]] — ⚠️ Apr 21 algorithm shift section: Paolo Scales says AI content tactics from 6 months ago killing reach; Apr 4 Logan Gott playbook now suspect
+
+**Cleanup work this run (no source ingestion):**
+- **MEMORY.md priority rot pass** — applied weekly compile rules: items in 🔥 Immediate >14d old → Deferred; 📅 Next 2–3 weeks ranges ended >14d ago → Deferred; Verify items from sources >60d old → Closed; Closed/Archive >30d → deleted. Last-updated bumped to 2026-04-24.
+- **Wiki freshness audit** — flagged orphaned wiki pages (`Last updated:` >60d AND zero inbound wikilinks) with `stale: true` frontmatter. See compile report for full list.
+- **Link integrity** — verified every wikilink in `index.md` resolves to an existing file.
+
+**Key intelligence from Run 20:**
+
+1. **The "Eden" carryover finally has a name.** "Eden — Website discovery" has been on every weekly punch list since Apr 8. Marilyn Eden (Orphic Creative) accepted a same-day Teams invite Apr 23 — first response in 15 days. The prospect was tracked anonymously this whole time; the new people page closes that data-quality gap.
+2. **First Heritage Session networking signal.** Kemi Riley-Telfort (Aeparmia Engineering) is the first documented inbound from the Heritage Session local event. Worth marking Heritage Session as a known channel (alongside Buda HIVE, EDC outbound, iMessage referrals).
+3. **Becky Torres relationship moved from vendor to neighbor.** Andres bringing his mom by SIREN, Becky forwarding her sister's brand link — first non-business touchpoint with a paying client. Strengthens the case-study + referral story for [[wiki/orgs/siren-beauty]].
+4. **The harness layer matured fast.** Three weeks of bookmarks show Claude Code automation moving from "you build it" to "Anthropic ships it" — Routines, Recaps, adaptive thinking, Claude Doctor are all now native or near-native. Andres's launchd-based Brain automation deserves a comparison pass against Routines.
+5. **🔥 LinkedIn algorithm playbook may be stale.** The Apr 4 Logan Gott framework that anchors [[wiki/concepts/linkedin-gtm]] is contradicted by Paolo Scales's Apr 21 thread ("AI content is dead, tactics from 6 months ago killing reach"). Before the next LinkedIn push, reconcile. The 11%-vs-35% AI-SDR meeting-to-pipeline gap (itsalexvacca Apr 14) is supporting evidence: AI-assisted outbound is hitting limits.
+6. **Hermes Agent now has a use-case shape.** First non-hype list of what people actually do with Hermes (mvanhorn Apr 19): pre-call research, proposal writing, CRM sync. Direct overlap with Moil's customer-success workflow — worth evaluating Hermes vs Pi for the proposal-writing case.
+7. **EDC outbound machine is at full throttle.** 20+ cold sends Apr 23 across three template variants ("Something we didn't expect" / "What entrepreneurs see" / "Last note") targeting EDCs and chambers (Boston, Worcester, Western Mass, Frederick, Melrose, MetroWest, Charles County, Burlington, Nashoba Valley, Amy Gowan AAEDC, Joe Venhuizen Envision Greater FDL). Largest single-day outbound volume since pipeline tracking began.
+8. **Self-note discipline showing up.** Andres sent himself a `cs@moilapp.com` reminder Apr 23 04:04 — "send letter to EDC, call Juan, reply to Jennifer, reply to Desiree." Email-to-self as a working memory tool is a habit worth recognizing rather than systematizing away.
+9. **Mark Cuban frame is direct ammo for Moil.** "Real AI money is 1 vertical, 1 workflow, 1 painful problem" (WorkflowWhisper Apr 18) — single sharpest distillation of Moil's narrow-ICP thesis. Quote candidate for a pitch deck.
+10. **Stitch 2.0 + DESIGN.md spec open-sourced.** Could become a Moil internal convention for client-site work — "stops apps looking like AI slop" pattern. Adoption decision is low-cost, high-leverage.
+
+**Summary:** Run 20 is a hygiene-first run. Two new sources (a low-volume email digest + a high-volume bookmarks dump), three new wiki pages (two thin people pages closing carryover gaps + one summary), three concept-page updates absorbing two weeks of harness/agent/GTM signal. The bigger work was the MEMORY.md priority rot pass and the wiki freshness audit — see `quartz/content/raw/compile-2026-04-24.md` for the full report. (Wiki freshness audit found zero stale orphans this run, which is itself a signal — every one of the 261 wiki pages is reached by at least one inbound wikilink and no page is older than 60 days.)
+
+---
+
 ## 2026-04-23 — Run 19: Apr 22 email digest + Apr 23 Megan CRM/Google setup
 
 **Trigger:** Automated scan for unprocessed raw files. Two new files since Run 18:

@@ -149,6 +149,16 @@ Single-day outbound: **~25 emails** — mostly breakup / close-out cadence acros
 
 **Signal:** The Apr 21 day was dominated by **breakup cadence in Canada + Illinois + New Hampshire** — ending sequences, not starting them. First documented cross-border close-out cluster (ON + Toronto). Pipeline hygiene is running at full tilt.
 
+### Cold campaign — Apr 23 update (20+ sends across three template variants)
+
+Source: [[raw/email-digest-2026-04-23]]
+
+Highest single-day cold-outbound volume since pipeline tracking began. **20+ sent emails Apr 23** across three template variants: "Something we didn't expect" (EDC-feedback narrative), "What entrepreneurs see" / "3-minute walkthrough" (21-question demo), "Last note" / "Should I close this out?" (breakup line). Targets concentrated in MA + MD + WI: Boston Chamber, Worcester Chamber, Western Mass EDC, MetroWest, Melrose Chamber, Frederick Chamber, Charles County Chamber, Burlington Area Chamber, Nashoba Valley Chamber, Amy Gowan (AAEDC), Joe Venhuizen (Envision Greater FDL), plus SMB targets at Associated Environmental Systems, Semtech Solutions, CWI Medical, LCOC.
+
+Inbound this day: Roxana Yglesias (Alloy ATX brand assets), [[wiki/people/becky-torres|Becky Torres]] (mom-visit follow-up + sister's brand link), [[wiki/people/marilyn-eden|Marilyn Eden]] (Eden discovery reactivated, Teams 5pm CDT accepted same-day), [[wiki/people/kemi-riley-telfort|Kemi Riley-Telfort]] (Aeparmia Engineering, Heritage Session networking event follow-up — first documented inbound from that event), Kate Silvas (Helotes Zoom), [[wiki/people/rashaka-boykins|Rashaka Boykins]] (second product question in 27 hours after 6-week silence).
+
+**Signal:** Apr 23 is the campaign's **highest-volume outbound day** but pairs with a notably broad inbound surface — paying customers, warm-prospect reactivation, fresh networking-event leads, and government-channel touches all in the same 24 hours. The bridge from cold-volume to warm-pipeline is showing.
+
 ### Cold campaign — Apr 22 update (largest single-day breakup wave; Helotes proposal out)
 
 Source: [[raw/email-digest-2026-04-22]]
