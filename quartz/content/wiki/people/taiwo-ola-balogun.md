@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-23
+last_contact: 2026-04-24
 tags:
   - graph/spoke
   - person/team
@@ -8,8 +8,8 @@ tags:
 # Taiwo Ola-Balogun
 
 **Type:** person
-**Last updated:** 2026-04-23
-**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026), [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]]
+**Last updated:** 2026-04-24
+**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026), [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/teams-2026-04-24]] (9 messages 1:1, Apr 24)
 **Related:** [[wiki/people/adeleke-tolulope]], [[wiki/people/jacob-oluwole]], [[wiki/moil/product-roadmap]], [[wiki/meetings/2026-04-23-megan-crm-google-setup]]
 
 ---
@@ -147,6 +147,17 @@ First time Taiwo joined a live **customer** setup call (not a team-internal one)
 - **Pace signal:** Andres told Megan, *"For Taiwo right now, it's almost 11 PM, so I know him — he'll probably work a little bit on this today, but tomorrow morning he'll definitely work on it."* Taiwo confirmed: *"I did push the code to GitHub. I'll test it this night. If I have any issues with testing, I'm going to get back to you."* Still late-night pattern from Nigeria side, but voluntary and bounded — not the Apr 18 "2 AM my time" frustration pattern.
 
 **New pattern:** Taiwo is now the named engineer for the FitLogic case-study handoff (Apr 28 go-live, Apr 29 walkthrough). First time a Moil 360 customer has a single engineer attached to their end-to-end deployment rather than rotating support.
+
+## April 24, 2026 — First Voluntary Weekend Commitment
+
+Source: [[raw/teams-2026-04-24]], [[wiki/meetings/2026-04-24-teams-daily-ops]]
+
+- **Volunteered weekend Apr 25–26 work on Inna + Connectex.** Quote (6:57 PM): *"I have the weekend to work on Inna and connectex"* — first time Taiwo has explicitly committed to weekend work. Pattern shift from Apr 18 time-zone boundary → Apr 21 revenue urgency → Apr 24 weekend volunteer.
+- **Surfaced a status-gap on Inna.** Andres at 4:12 PM: *"Where are we on Inna? whats left to do there?"* Taiwo: *"I thought you worked on Inna already"* — first signal that ownership of Inna is unclear between Andres and Taiwo. Worth resolving before the weekend sprint.
+- **Confirmed Supabase opened for FitLogic Apr 23.** *"We opened a supabase yesterday for fitlogic"* (6:50 PM) — backend infra layer continues from the Apr 23 customer setup call.
+- **Asked about account scope.** *"I need the supabase credentials also and the resend email"* + *"Hello, for what account?"* Andres clarified: *"They all login with github"* — universal GitHub-as-SSO pattern confirmed for the engineering side.
+
+See [[wiki/meetings/2026-04-24-teams-daily-ops]].
 
 ## Contact
 

@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-21
+last_contact: 2026-04-24
 tags:
   - graph/hub
   - person/team
@@ -8,8 +8,8 @@ tags:
 # Jacob Oluwole
 
 **Type:** person
-**Last updated:** 2026-04-21
-**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/email-history-2months-2026-04-12]], [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026)
+**Last updated:** 2026-04-24
+**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/email-history-2months-2026-04-12]], [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026), [[raw/teams-2026-04-24]] (39 messages 1:1, Apr 24)
 **Related:** [[wiki/moil/positioning]], [[wiki/people/adeleke-tolulope]], [[wiki/people/abiodun-solomon]], [[wiki/people/taiwo-ola-balogun]]
 
 ---
@@ -140,6 +140,21 @@ Source: [[raw/teams-2026-04-21]]
 - **Business Coach "stagebeta broken?" check-in** (6:26 PM) — still debugging the Apr 18 regression thread.
 
 See [[wiki/meetings/2026-04-21-teams-daily-ops]].
+
+## April 24, 2026 — Conversion-Strategy Coaching + Megan Handoff Clarification + Voiceover Decision
+
+Source: [[raw/teams-2026-04-24]], [[wiki/meetings/2026-04-24-teams-daily-ops]]
+
+- **Outbound-messaging coaching from Andres.** Jacob posted his Apr 23 outreach batch to a group ("posted it yesterday to the group"). Andres's Apr 24 review: *"I saw a few of them but none of them really sell or give the buyer any insight into anything we are offering!! Completely missed opportunity to convert over 2000 businesses but we have to do it right."* Andres pushed Jacob upstream — *"What was the strategy you used to make the decision for the comments you sent and posted? How were they driven to convert?"* — strategy-before-execution coaching.
+- **Megan handoff clarified Apr 29.** Jacob asked at 3:48 PM: *"Were you able to have the handoff call with Megan yesterday?"* Andres: *"Jacob, yes sir!! Not a handoff, we are doing that next Wednesday!"* — confirms the [[MEMORY]] sprint plan; the Apr 23 call was setup, not handoff.
+- **Voiceover + mobile feedback on the Clio demo video.** Jacob proactively reviewed Andres's Clio demo video, asked for mobile-friendly format ("Can it be for mobile? I am finding it hard to see") and pushed for AI voiceover ("Is it possible for you to prompt the ai to add the voice over?"). Andres acknowledged the mobile point and committed to add voiceover. Pacing decision: slower playback (2 min) vs. faster — Jacob: "The slower version makes much sense but it increases the time to almost 2mins." Andres: "Slower" + *"That's ok, I am using this for an event tonight!!!"*
+- **Auto-assign Moil 360 license feature in dev.** Jacob explained at 5:12 AM: *"We are already working on this feature… where by we don't wait till they sign up before we assign the Moil 360 license to users."* Removes the wait-for-signup friction surfaced repeatedly Apr 17–21.
+- **Bottleneck question on a backend feature.** Andres at 12:01 PM: *"We have been working on this… yet hasn't been fixed! What's the bottleneck?"* Jacob's answer named Steve (Adeleke) as iterating because the AI agent output was not first-pass-clean: *"Steve began work on it yesterday... he said the AI is not doing exactly what he is asking it... so He is doing it again."* + *"I'll speak to Ablad and try to communicate what you were talking about to him..."* — Jacob brokering between Andres and Ablad on the AI-adoption argument from Moil Marketing.
+- **Sent license to "her" last week** (Andres asked about a customer): Jacob *"I sent her a license last week… waiting for her to sign up so we can add the Moil360"* (5:11 AM) — license-distribution lag continuing.
+- **Shared a 241MB SharePoint video** at 6:53 PM (`moilapp-my.sharepoint.com/:v:/p/andres/...`) — context not specified in messages.
+- **Andres's "I'm this close to closing our full marketing department"** to Jacob 12:00 PM (1:1) — direct escalation re Ablad's AI attitude. Jacob is being looped in as the operations bridge to communicate the position back to Ablad.
+
+See [[wiki/meetings/2026-04-24-teams-daily-ops]].
 
 ## Gaps
 

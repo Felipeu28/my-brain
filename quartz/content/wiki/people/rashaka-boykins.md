@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-22
+last_contact: 2026-04-24
 tags:
   - graph/spoke
   - person/customer
@@ -9,8 +9,8 @@ referred_by: "[[wiki/people/daniel-mann]]"
 # Rashaka Boykins
 
 **Type:** person
-**Last updated:** 2026-04-23
-**Source:** [[raw/meetings/]], [[raw/email-digest-2026-04-21]], [[raw/email-digest-2026-04-22]]
+**Last updated:** 2026-04-25
+**Source:** [[raw/meetings/]], [[raw/email-digest-2026-04-21]], [[raw/email-digest-2026-04-22]], [[raw/email-digest-2026-04-24]]
 **Related:** [[wiki/moil/pipeline]], [[wiki/moil/customers]], [[wiki/moil/gtm]]
 
 ---
@@ -41,6 +41,22 @@ Same-thread follow-up at 01:57 UTC: Rashaka asked whether **Moil drives web/soci
 - *Traffic driving:* Moil generates and publishes content (blog, social) with built-in CTAs; primary motion is outbound sequences feeding discovery + Coach-driven site and social.
 - *LinkedIn / Instagram:* Native posting on social is roadmap; today's workflow is generate-in-Moil → copy-paste-post. Honesty over spin.
 
+## Apr 24 — Website Live + Pricing Offer Active
+
+Source: [[raw/email-digest-2026-04-24]]
+
+Apr 24 09:39 — Andres opened the day with *"Happy Friday! Touching base — my offer stands, full year $600 vs $900 monthly."* Pricing offer now explicit: **$600/year (one-time) OR $900/month**. Frames the annual as the obvious value play.
+
+Apr 24 13:29 — Rashaka replied: *"There are several questions. There are always questions. My website was completed this morning."* Two beats:
+1. **Her website went live Apr 24 morning** — first concrete asset she now needs to layer Moil onto. Conversion moment.
+2. *"There are always questions"* — playful but signals she's still in evaluation mode, not ready to commit.
+
+Apr 24 13:56 — Andres replied: *"What are some of the questions I can help with? I'm here to help."* Open invitation; ball back in her court.
+
+**Pricing math (for next reply):** $600/year = $50/mo equivalent. $900/month = $10,800/year. The 18× spread between the two options exists to nudge an annual prepay. If she wants monthly, the $900 price is intentionally aggressive — the cheap option is locking in for a year. Worth being explicit about the tier difference (what does $900/mo include that $600/year doesn't?) so she doesn't read it as arbitrary.
+
+**Next steps update:** Pricing offer is now in the open. Conversion gate is now her question batch — if she actually sends them, this becomes a closeable deal in days, not weeks.
+
 ## Why Two Calls? (Feb–Mar)
 
 The back-to-back calls (Feb 27 → Mar 5) suggest either:
@@ -50,9 +66,10 @@ The back-to-back calls (Feb 27 → Mar 5) suggest either:
 
 ## Next Steps
 
-- [ ] **🔥 Reply to both Apr 21 + Apr 22 inbound questions** in one consolidated email — adaptive LLM marketing, traffic driving, LinkedIn/Instagram reality (native posting is roadmap, copy-paste today)
-- [ ] Offer a short follow-up demo / proposal now that she's actively re-engaged
-- [ ] Tag as warm re-engagement in pipeline
+- [x] ~~Reply to Apr 21 + Apr 22 inbound questions~~ — **DONE Apr 24** (open invitation sent: "What are some of the questions I can help with?")
+- [ ] **🔥 Wait for Rashaka's batched questions** (she said "There are several questions"); reply with answer + close on $600/yr vs $900/mo
+- [ ] Tier-difference clarification ready: what does $900/mo include that $600/yr doesn't (avoid pricing-feels-arbitrary read)
+- [ ] Tag as warm-converting re-engagement in pipeline (was warm; now site-live, pricing-on-table)
 
 <!-- AUTO-ACTIVITY:start -->
 ## Recent Activity (auto)

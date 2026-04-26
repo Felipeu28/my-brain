@@ -2,7 +2,7 @@
 tags:
   - graph/leaf
 type: hot-cache
-last_updated: 2026-04-24
+last_updated: 2026-04-26
 ---
 # Brain Hot Cache
 
@@ -31,26 +31,26 @@ Updated automatically by:
 ## Recent Queries
 
 <!-- ENTRIES:query -->
-- 2026-04-24 14:14 — Session end: [Brain/KB] Run the weekly knowledge base compile and cleanup. Today is 2026-04-24.  ## PART… — 4 new files · 18 edits
-- 2026-04-24 13:01 — Session end: [Brain/KB] Let's create a full research, analysis and implementation plan to be able to hav… — 77 new files · 109 edits
-- 2026-04-24 12:24 — Session end: [Brain/KB] Let's create a full research, analysis and implementation plan to be able to hav… — 77 new files · 109 edits
-- 2026-04-24 12:02 — Session end: [Brain/Auto] You are Andres's plan radar. Every day at noon you scan recent Brain activity an… — 2 new files
-- 2026-04-24 11:35 — Session end: [Brain/KB] Let's create a full research, analysis and implementation plan to be able to hav… — 77 new files · 109 edits
-- 2026-04-24 11:30 — Session end: [Brain/Auto] You are Andres's plan radar. Every day at noon you scan recent Brain activity an… — 1 new files
-- 2026-04-24 11:25 — Session end: [Brain/Auto] Generate a one-page implementation plan for Andres Urrego at Moil.  Topic reques… — 1 new files
-- 2026-04-24 11:18 — Session end: [Brain/KB] Let's create a full research, analysis and implementation plan to be able to hav… — 65 new files · 92 edits
-- 2026-04-24 11:13 — Session end: [Brain/KB] Let's create a full research, analysis and implementation plan to be able to hav… — 65 new files · 92 edits
-- 2026-04-24 11:11 — Session end: [Brain/Auto] You are Andres's strategy operator. Every Sunday evening you synthesize a week o… — 1 new files
-- 2026-04-24 11:05 — Session end: [Clio] URGENT: Clio (luna-brain) voice chat is completely broken. Andres needs a full e… — 3 chapters · 1 new files · 31 edits · 6 commits
-- 2026-04-24 11:04 — Session end: [Brain/KB] Let's create a full research, analysis and implementation plan to be able to hav… — 60 new files · 86 edits
-- 2026-04-24 11:01 — Session end: [Brain/KB] Let's create a full research, analysis and implementation plan to be able to hav… — 60 new files · 86 edits
-- 2026-04-24 11:00 — Session end: [Brain/Auto] You are Andres Urrego's editor. Every evening you distill his X bookmarks from t… — 1 new files
-- 2026-04-24 10:58 — Session end: [Brain/KB] Parse raw X bookmarks page text into a structured markdown file.  Input: /tmp/xb… — 1 new files
-- 2026-04-24 10:52 — Session end: [Clio] URGENT: Clio (luna-brain) voice chat is completely broken. Andres needs a full e… — 3 chapters · 1 new files · 31 edits · 6 commits
-- 2026-04-24 10:50 — Session end: [Brain/Auto] You are parsing raw scraped text from Andres's X.com bookmarks page into a struc… — 1 new files
-- 2026-04-24 10:49 — Session end: [Brain/KB] Let's create a full research, analysis and implementation plan to be able to hav… — 60 new files · 85 edits
-- 2026-04-24 10:48 — Session end: [Brain/KB] Let's create a full research, analysis and implementation plan to be able to hav… — 60 new files · 85 edits
-- 2026-04-24 10:48 — Session end: [Brain/KB] Let's create a full research, analysis and implementation plan to be able to hav… — 60 new files · 85 edits
+- 2026-04-26 06:00 — Session end: [Claude] You are the Moil Brain's daily cross-source intelligence analyst.  You are readi… — 8 events
+- 2026-04-25 19:31 — Session end: [Brain/Auto] You are Andres Urrego's editor. Every evening you distill his X bookmarks from t… — 1 new files
+- 2026-04-25 19:26 — Session end: [Clio] Do a full regression audit of all voice and UI changes that have landed on main … — 14 edits · 1 commits
+- 2026-04-25 19:25 — Session end: [Clio] The previous audit session (worktree at /Users/jarvisurrego/luna-brain/.claude/w… — 1 commits
+- 2026-04-25 19:01 — Session end: [Brain/Auto] You are parsing raw scraped text from Andres's X.com bookmarks page into a struc… — 1 new files
+- 2026-04-25 18:59 — Session end: [Brain/KB] Let's review all of our current "automations" and find out if they are all runni… — 5 edits
+- 2026-04-25 18:35 — Session end: [Brain/KB] Let's review all of our current "automations" and find out if they are all runni… — 5 edits
+- 2026-04-25 18:34 — Session end: [Brain/Auto] You are Andres's strategy operator. Every Sunday evening you synthesize a week o… — 1 new files · 2 edits
+- 2026-04-25 18:29 — Session end: [Brain/KB] http://localhost:3047/ How come we didn't get an update on Friday? is this autom… — 2 edits · 2 commits
+- 2026-04-25 18:26 — Session end: [Brain/KB] Let's review all of our current "automations" and find out if they are all runni… — 54 events
+- 2026-04-25 18:25 — Session end: [Brain/KB] http://localhost:3047/ How come we didn't get an update on Friday? is this autom… — 2 edits
+- 2026-04-25 18:12 — Session end: [Brain/KB] Let's review all of our current "automations" and find out if they are all runni… — 36 events
+- 2026-04-25 18:10 — Session end: [Brain/KB] http://localhost:3047/ How come we didn't get an update on Friday? is this autom… — 24 events
+- 2026-04-25 18:09 — Session end: [Brain/KB] Check for any new files in raw/ and raw/onedrive-transcripts/ that haven't been … — 1 new files · 16 edits
+- 2026-04-25 18:02 — Session end: [Brain/Auto] Pull today's Microsoft Teams meeting transcripts and add them to the Brain.  1. … — 37 events
+- 2026-04-25 12:27 — Session end: [Clio] The user says: "in the existing side by side deployment we made the orb no longe… — 6 edits · 2 commits
+- 2026-04-25 12:01 — Session end: [Brain/Auto] You are Andres's plan radar. Every day at noon you scan recent Brain activity an… — 1 new files
+- 2026-04-25 11:10 — Session end: [Clio] Two things:  ## 1. Merge PR #25 Run: `gh pr merge 25 --merge --auto` or `gh pr m… — 13 edits · 1 commits
+- 2026-04-25 10:59 — Session end: [Clio] URGENT landscape UI fix for Clio. Andres shared a photo showing the iPad in land… — 3 edits · 1 commits
+- 2026-04-25 10:59 — Session end: [Clio] URGENT landscape UI fix for Clio. Andres shared a photo showing the iPad in land… — 3 edits · 1 commits
 <!-- /ENTRIES:query -->
 
 ## Recent Saves

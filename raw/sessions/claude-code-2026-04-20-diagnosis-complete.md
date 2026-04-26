@@ -3,14 +3,14 @@ type: claude-code-session
 session_id: 9c3c7c3b-4a15-4c3a-8348-96160dcf7dbe
 project: Brain/KB/worktree
 date: 2026-04-20
-duration_minutes: 865
+duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base--claude-worktrees-objective-panini-6019e0/9c3c7c3b-4a15-4c3a-8348-96160dcf7dbe.jsonl
 ---
 # Claude Code Session — Diagnosis complete
 
-**Date:** 2026-04-20 (session ran 2026-04-20T22:29 → 2026-04-21T12:54)
+**Date:** 2026-04-20 (session ran 2026-04-20T22:29 → )
 **Project:** Brain/KB/worktree
-**Duration:** 865 min
+**Duration:** None min
 **Volume:** 2 user messages · 9 assistant responses · 29 tool calls
 
 ## Chapters

@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-21
+last_contact: 2026-04-24
 tags:
   - graph/spoke
   - person/team
@@ -8,8 +8,8 @@ tags:
 # Abiodun Adekanmi (Ablad)
 
 **Type:** person
-**Last updated:** 2026-04-20
-**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026)
+**Last updated:** 2026-04-24
+**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-24]] (38 messages in Moil Marketing, Apr 24)
 **Related:** [[wiki/people/jacob-oluwole]], [[wiki/moil/positioning]], [[wiki/people/inna-benyukhis]]
 
 > **Name correction:** Teams profile shows "Abiodun Adekanmi" — previous meeting transcripts referenced "Abiodun Solomon." The Teams name is authoritative. "Ablad" remains team nickname.
@@ -111,6 +111,35 @@ Source: [[raw/teams-2026-04-20]]
 - **Post-Apr 18 recovery:** After the "fees" miscommunication and the content rhythm pushback, Abiodun delivered on time with a clear channel-visible manifest — rhythm appears to have been absorbed.
 
 See [[wiki/meetings/2026-04-20-teams-daily-ops]].
+
+## April 24, 2026 — First Documented AI-Adoption Clash with Andres
+
+Source: [[raw/teams-2026-04-24]], [[wiki/meetings/2026-04-24-teams-daily-ops]]
+
+A 38-message back-and-forth in the Moil Marketing channel (11:42 AM – 12:47 PM) — the first time the long-running Andres ↔ Ablad AI-adoption tension surfaced as a structured argument with both sides on record.
+
+**Trigger:** Andres shared a Hewar tweet about GPT Image 2. Abiodun's review: *"the tweet is hardly about the GPT Image 2 release"* / *"Hewar did one tweet and went on to promote his branding agency"* / called it implicitly *"rage-bait"*.
+
+**Andres's pattern claim:** *"Everytime we have ever talked about AI for two years, you have a attitude towards it that is dismissing! Like I said, I recommend things and everyone can figure out what they do with it, you can take this as an emotional conversation or one you can learn from as you continue to adapt to the fast changing AI!"*
+
+**Abiodun's defense:** *"I use AI all the time. it makes my work easier."* + *"HeyGen was not giving us what we wanted. It cannot lift from our website. It doubles the work. The video I did for this week was made purely with Capcut and items I lifted from our website."* + *"I think you have a lot to say, some you have said in the past and repeating. It is frustrating when you dismiss opinions."*
+
+**Andres's escalation:** *"There is a big difference and a big gap between what you are saying and the reality of AI in design! You don't have to believe me, you just won't hear it from me anymore!"* — first time Andres signaled disengagement from the persuasion attempt.
+
+**Andres's framing as leadership growth:** *"As your leader my goal is to make sure you can grow, and growth can be uncomfortable! But I can say I am happy I have pushed you beyond..."*
+
+**Andres's escalation to Jacob (1:1, 12:00 PM):** *"Ablad is going to upset me if he doesn't change his attitude"* and *"I'm this close to closing our full marketing department"* — the only time on record Andres has named the marketing-department-closure threat.
+
+**Partial reconciliation:** Abiodun praised Andres's Clio demo video at 12:37 PM — *"The video you made for Clio, AMAZING!!! Now I'd like to know how you did it"* — explicit ask to learn the workflow. Followed by *"That was why I stopped them"* (referring to a tools test).
+
+**Behavioral data points from the same day:**
+- Tested GPT's Photoshop extension and Figma integration extensively Apr 23 ("I did an extensive use of GPT yesterday")
+- Made a flyer "purely with ChatGPT" to demonstrate AI capability + showed it
+- Moil HeyGen login expired during the day; asked Jacob to refresh
+
+**Tools-fit position:** HeyGen is the contested tool. Abiodun's stance: it doesn't lift from the website, it doubles work. Andres's stance: keep it, use the new HeyGen hyperframes, stop wasting credits. Decision pending.
+
+**Why this matters:** The argument crystallizes a structural gap that was previously implicit — Andres expects Moil to be at the AI frontier as a company *because Moil sells AI*; Abiodun's actual workflow optimizes for delivery quality, not tool experimentation. Both are reasonable; the gap is the org expectation. The Apr 24 exchange is the first documented case where the gap is named on both sides.
 
 ## Gaps
 

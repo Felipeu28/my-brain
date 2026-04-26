@@ -3,15 +3,15 @@ type: claude-code-session
 session_id: c614ad39-3f68-4926-b032-41b464e0e9c1
 project: Clio/worktree
 date: 2026-04-15
-duration_minutes: 8389
+duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-nice-dirac/c614ad39-3f68-4926-b032-41b464e0e9c1.jsonl
 ---
 # Claude Code Session — Wave 1c — strict auth + cleanup
 
-**Date:** 2026-04-15 (session ran 2026-04-15T20:46 → 2026-04-21T16:35)
+**Date:** 2026-04-15 (session ran 2026-04-15T20:46 → )
 **Project:** Clio/worktree
-**Duration:** 8389 min
-**Volume:** 82 user messages · 268 assistant responses · 720 tool calls
+**Duration:** None min
+**Volume:** 97 user messages · 348 assistant responses · 947 tool calls
 
 ## Chapters
 
@@ -20,6 +20,9 @@ source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brai
 - Phase α1 — Dynamic profile creation
 - Phase α2 — COPPA + data deletion
 - Phase α3 — Security hardening
+- Phase α4 — Safety escalation MVP
+- Phase α5 — Privacy Policy + ToS
+- Phase α6 — Session caps
 
 ## Ask
 
@@ -63,10 +66,21 @@ source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brai
 - feat(α2): COPPA disclosure + parent-initiated data deletion
 - feat(α3): security hardening — AUTH_ENFORCE default strict + RLS + NOT NULL
 - fix(api-keys): detect non-ASCII in ANTHROPIC_API_KEY before fetch throws
+- feat(α4): mental-health + safety escalation MVP
+- fix(recommendations): α3 auth regression — Opportunities panel dead for parents
+- feat(α5): public Privacy + Terms page at /privacy
+- polish(α5): Privacy & Terms link colors match vellum design
+- feat(α6): daily session caps per age tier with parent-configurable preset
+- fix(profiles): companion_gender migration + defensive fallbacks
+- feat(landing): open for signups — replace waitlist with direct sign-up flow
+- feat(β1): operator email alerts on critical handler failures
+- fix(launch): four pre-launch UX bugs Andres flagged on a dogfood pass
+- chore(api): drop column-missing retry fallbacks after migrations applied
+- fix(voice): Web Audio API as primary playback substrate (kills iOS autoplay dance)
 
 ## Files touched
 
-**Created (23):**
+**Created (35):**
   - `/Users/jarvisurrego/.gstack/projects/Felipeu28-Lunabella/jarvisurrego-claude/nice-dirac-design-20260415-163247.md`
   - `/Users/jarvisurrego/.gstack/projects/Felipeu28-Lunabella/jarvisurrego-claude-nice-dirac-eng-review-test-plan-20260417-093104.md`
   - `/Users/jarvisurrego/luna-brain/supabase/migrations/20260418000000_voice_id_es.sql`
@@ -90,6 +104,18 @@ source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brai
   - `/Users/jarvisurrego/luna-brain/apps/web/src/components/CoppaDisclosure.tsx`
   - `/Users/jarvisurrego/luna-brain/supabase/migrations/20260421000001_row_level_security.sql`
   - `/Users/jarvisurrego/luna-brain/supabase/migrations/20260421000002_owner_id_not_null.sql`
+  - `/Users/jarvisurrego/luna-brain/api/_safety.ts`
+  - `/Users/jarvisurrego/luna-brain/supabase/migrations/20260421000003_parent_flags_severity.sql`
+  - `/Users/jarvisurrego/luna-brain/api/parent/acknowledge-flag.ts`
+  - `/Users/jarvisurrego/luna-brain/apps/web/src/components/SafetyIncidents.tsx`
+  - `/Users/jarvisurrego/luna-brain/apps/web/src/pages/PrivacyPolicy.tsx`
+  - `/Users/jarvisurrego/luna-brain/apps/web/src/lib/sessionCap.ts`
+  - `/Users/jarvisurrego/luna-brain/apps/web/src/components/SessionGate.tsx`
+  - `/Users/jarvisurrego/luna-brain/supabase/migrations/20260425000000_companion_gender.sql`
+  - `/Users/jarvisurrego/luna-brain/apps/web/src/landing/sections/SignupSection.tsx`
+  - `/Users/jarvisurrego/luna-brain/api/_alerts.ts`
+  - `/Users/jarvisurrego/luna-brain/supabase/migrations/20260425000001_onboarding_complete.sql`
+  - `/Users/jarvisurrego/luna-brain/docs/brain-plan.md`
 
 **Edited (11):**
   - `/Users/jarvisurrego/luna-brain/apps/web/.env.example`
@@ -104,22 +130,16 @@ source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brai
   - `/Users/jarvisurrego/luna-brain/api/quests/generate.ts`
   - `/Users/jarvisurrego/luna-brain/api/reflections/weekly.ts`
 
-## Wiki entities referenced (3)
+## Wiki entities referenced (5)
 
+- [[wiki/moil/customers]]
 - [[wiki/moil/directory]]
+- [[wiki/moil/metrics]]
 - [[wiki/moil/pipeline]]
 - [[wiki/projects/lunabella]]
 
 ## Final user direction
 
-1. done
-2. 2. it didnt exist
-3. done
-4. done
-5. Notea attachhed
-6. done
-7. Done
-8. run it
+Amazing, love this!
 
-
-{"status":"ok","checks":{"supabase_server":{"status":"ok"},"supabase_client":{"status":"ok"},"supabase_project":{"status":"ok","detail":"server: iplauuoymvnqqbeeffxh, client: iplauuoymvnqqbeeffxh"},"profile_probe":{"status":"ok","detail":"found: annabella (Annabella), evie (Evaluna)"},"claude":{"status":"error","detail":"Cannot convert argument to a ByteString because the character at index 20 has a value...
+go look at apps/web/src/lib/tts.ts right now and ship the Web Audio playback fix as a focused PR

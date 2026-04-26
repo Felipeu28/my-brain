@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-21
+last_contact: 2026-04-24
 tags:
   - graph/hub
   - person/team
@@ -8,8 +8,8 @@ tags:
 # Adeleke Tolulope (Steve)
 
 **Type:** person
-**Last updated:** 2026-04-21
-**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026)
+**Last updated:** 2026-04-24
+**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026), [[raw/teams-2026-04-24]] (Moil Team + 1:1 Apr 24)
 **Related:** [[wiki/people/jacob-oluwole]], [[wiki/people/taiwo-ola-balogun]], [[wiki/moil/positioning]], [[wiki/moil/product-roadmap]]
 
 ---
@@ -146,3 +146,14 @@ See [[wiki/meetings/2026-04-21-teams-daily-ops]].
 - Exact location (likely Nigeria based on power outage context)
 - Compensation terms unknown
 - Facebook account access issue (Apr 7–8) — may still be unresolved
+
+## April 24, 2026 — Auto-Assign License (Staging) + Onboarding-Guide Routing
+
+Source: [[raw/teams-2026-04-24]], [[wiki/meetings/2026-04-24-teams-daily-ops]]
+
+- **Auto-assign Moil 360 license is on staging.** Andres asked the Moil Team channel at 8:37 PM (Sun Show event in progress) for a way to give a free month to anyone signing up over the weekend. Adeleke flagged the constraint: *"That will be on staging and it's going to take a while before we can push to prod"* — feature exists, ship-readiness gap on a real-world conversion event.
+- **Proposed routing the existing in-app guide for new-user onboarding.** When Andres surfaced the customer-feedback gap (*"they logged in and didn't know what to do next?"*), Adeleke responded: *"On Moil? We have guide already there"* + *"But if they ask the little guide, it can direct them tho"* + *"It can ask them what they want to do and then guide them"* — first articulated routing pattern for the existing in-app guide. Andres agreed on the redesign-for-discoverability angle.
+- **AI-iteration on prod work confirmed by Jacob.** Jacob's status to Andres at 12:05 PM: *"Steve began work on it yesterday... he said the AI is not doing exactly what he is asking it... so He is doing it again."* Confirms the Apr 21 Claude-Code-pushed-fix pattern but with first-pass-clean as the unmet bar — multiple iterations needed to land output to spec.
+- **Acknowledged the chats Andres sent.** *"Okay sir"* (11:22 AM) — chats-review still pending follow-through.
+
+See [[wiki/meetings/2026-04-24-teams-daily-ops]].

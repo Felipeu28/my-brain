@@ -87,6 +87,12 @@ tags:
 
 Confirmed: [[wiki/people/megan-miller|Megan Miller]] · [[wiki/people/laura-niebauer|Laura Niebauer]] · [[wiki/people/sarah-hive-cohort|Sarah]] · [[wiki/people/carol-hive-cohort|Carol]] · [[wiki/people/terry-hive-cohort|Terry]] · [[wiki/people/liz-hive-cohort|Liz]] · [[wiki/people/miguel|Miguel]] · [[wiki/people/kim-dowers|Kim Dowers]]
 
+## 📰 Press & Media
+
+| Outlet | Contact | Status | First touch |
+|--------|---------|--------|-------------|
+| VoyageAustin Magazine | [[wiki/people/jessica-voyage-austin|Jessica]] (editorial) | 🟡 Interview request inbound | 2026-04-24 |
+
 ## 👨‍👩‍👧 Personal & Family
 
 | Person | Relationship |

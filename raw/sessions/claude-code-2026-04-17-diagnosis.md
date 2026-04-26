@@ -3,14 +3,14 @@ type: claude-code-session
 session_id: 69cb40c2-ad54-4c63-854c-2fb50eb5d3ee
 project: Brain/Automations/worktree
 date: 2026-04-17
-duration_minutes: 1555
+duration_minutes: 11928
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-pi-workspace--claude-worktrees-suspicious-stonebraker-47f252/69cb40c2-ad54-4c63-854c-2fb50eb5d3ee.jsonl
 ---
 # Claude Code Session — Diagnosis
 
-**Date:** 2026-04-17 (session ran 2026-04-17T20:09 → 2026-04-18T22:05)
+**Date:** 2026-04-17 (session ran 2026-04-17T20:09 → 2026-04-26T02:58)
 **Project:** Brain/Automations/worktree
-**Duration:** 1555 min
+**Duration:** 11928 min
 **Volume:** 4 user messages · 41 assistant responses · 92 tool calls
 
 ## Chapters

@@ -4,6 +4,88 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ---
 
+## 2026-04-25 — Run 22: Apr 24 email digest (Joshua redlined contract + Inna podcast directive + Rashaka pricing offer + first press inquiry)
+
+**Trigger:** Automated scan for unprocessed raw files. One new file since Run 21:
+- `raw/email-digest-2026-04-24.md` (committed Apr 24 18:32 by `email-digest` job — 24-hour window Apr 23–24)
+
+**Pages created (1):**
+- [[wiki/people/jessica-voyage-austin]] — first press inquiry on record (VoyageAustin Magazine editorial team, interview request Apr 24 12:42 PM CDT)
+
+**Pages updated (4):**
+- [[wiki/people/joshua-edmond]] — new "Apr 24, 2026 — Redlined Contract + HIVE Strategist PSAs" section: Joshua sent redlined FAVE&SAVE / HIVE Strategist PSAs back to Shannon Cameron Apr 24 13:08; meeting invite same day at 11:46 AM. First time Joshua's contract edits are on the record. Andres needs to be on the meeting and align before Shannon countersigns. last_contact → 2026-04-24
+- [[wiki/people/rashaka-boykins]] — new "Apr 24 — Website Live + Pricing Offer Active" section: Andres opened Apr 24 09:39 with explicit *"$600/year vs $900/month"* pricing offer; Rashaka replied 13:29 *"my website was completed this morning"* + *"there are several questions"*; Andres replied 13:56 with open invitation. 18× spread between annual prepay vs monthly is intentional — annual is the value play. Conversion gate is now her question batch. last_contact → 2026-04-24
+- [[wiki/people/inna-benyukhis]] — new "Apr 23 — Podcast Video Directive (Approval-Loop Workflow)" section: Apr 23 21:43 directive *"Please create the content. Send it to me for review. Then post on both LinkedIn and IG."* Three-step approval-loop workflow now formalized; resolves the Apr 20 IG-tagging question — Inna chose Option A (Moil posts directly with her review). last_contact → 2026-04-23
+- [[wiki/people/becky-torres]] — new "Apr 24 — Two-Way Family-Inclusive Touchpoint" section: Andres replied 08:38 *"my wife was impressed with the shampoo too"* — first organic Mariana ↔ Moil-client crossover. Vendor-to-neighbor frame no longer one-sided. last_contact → 2026-04-24
+- [[MEMORY]] — new "🔥 Apr 24 inbox — Contract reviews + Press + Customer directives" block at top of Immediate: Joshua redline review pre-meeting, VoyageAustin reply, Inna podcast slicing, Rashaka question-batch wait, Apollo first-name mapping audit, Victor Escamilla / Buda UDC reply
+
+**Key intelligence from Run 22:**
+
+1. **Joshua Edmond redlined the HIVE Strategist PSAs contract.** Apr 21 Shannon Cameron forwarded the PSAs; Apr 24 Joshua replied with redlines + a meeting invite. The Cohort 4 contract is at "review complete with edits" status. Critical: Andres needs to be on Joshua's meeting (or pre-aligned with Joshua) before Shannon countersigns — single-position is the only safe play with the public-facing Incubator Strategist Team title at stake.
+
+2. **Rashaka pricing offer is on the table — annual prepay is the value play.** $600/year vs $900/month — 18× spread by design. Her website went live Apr 24 morning, which is the conversion moment. She's in question-batch mode (*"there are always questions"*). Likely closeable in days if Andres handles the question reply tightly.
+
+3. **Inna's IG/LinkedIn tagging question is resolved.** Apr 20 the team flagged Option A (Moil gets direct access) vs Option B (send-and-post). Apr 23 21:43 Inna chose Option A explicitly: *"Please create the content. Send it to me for review. Then post on both LinkedIn and IG."* The 2 March podcast videos she sent Apr 21 are now actionable — Jacob/Ablad slice → Inna review → Moil publish. Removes the Apr 20 ambiguity blocker.
+
+4. **First press inquiry on record (VoyageAustin Magazine).** Cold inbound from Jessica @ voyageaustin.com — local-Austin-entrepreneur Q&A format. Low edit pressure, third-party-verifiable, useful for `moilapp.com/about` press section + chamber/EDC outbound social proof. Worth saying yes fast.
+
+5. **Apollo merge-bug flag.** Apr 24 09:03 outbound greeted "Joseph" but the address was `wilkinsonroger860@gmail.com` (Roger Wilkinson). First-name field decoupled from email field somewhere in the Apollo sequence pipeline. Audit before next batch — this kind of error makes the founder-tone outbound look sloppy.
+
+6. **Becky Torres relationship now bidirectional.** Apr 23 Andres brought his mom by SIREN; Apr 24 Andres looped Mariana into the SIREN product experience (*"my wife was impressed with the shampoo too"*). Mariana being impressed with a customer's product organically is the first Mariana ↔ Moil-client crossover — referral pathway through the Buda small-business network without push.
+
+7. **Andres-to-Andres email-as-memory pattern continues.** Apr 24 Andres sent himself an `cs@moilapp.com` reminder list (covered in Run 20). The Apr 23 04:04 self-note + Apr 24 outbound rhythm is a stable pattern — recognize as habit, don't systematize away.
+
+8. **Joshua Edmond's Apr 24 second email (received from Andres's view) is reading as three contracts moving in parallel.** PSAs review thread, redlined contract, and a meeting invite — same day, same partner. Cohort 4 prep is now the highest-velocity contract thread in the Brain.
+
+9. **The Therese Gordon / Mike Hardill / Christy Trammell / Rosanne Ford / Otis Rawl / Lori Smith / Nicole Quiroga break-up batch (Apr 24 morning) is the second day of "Should I close this out? / Last note" template usage.** Continues the Apr 23 EDC outbound pattern noted in Run 20 — same templates, different prospects, no responses to log yet.
+
+10. **Brian Dyer (Buda EDC) lunch-with-Andres-and-John accepted.** Apr 24 10:41 calendar accept. The Andres + John (Costilla) + Brian Dyer triad is the operational Buda EDC working group — first explicit lunch booking on record.
+
+**Summary:** Run 22 is a single-source run (Apr 24 email digest, ~75 emails). Lower volume than Run 21 but high-density on commitments and contract movement. Three deals advanced (Joshua Edmond contract redline, Rashaka pricing-on-table, Inna podcast workflow unblocked) and one new channel opened (VoyageAustin press). MEMORY.md sits at 142 lines, well inside the 200-line cap. Source count: 299 → 300.
+
+---
+
+## 2026-04-24 — Run 21: Apr 24 Teams digest (marketing-team escalation + Sun Show event + weekend dev sprint)
+
+**Trigger:** Automated scan for unprocessed raw files. One new file since Run 20:
+- `raw/teams-2026-04-24.md` (committed Apr 24 18:07 by `teams-daily` job — 99 messages across 5 threads, Apr 24)
+
+**Pages created (1):**
+- [[wiki/meetings/2026-04-24-teams-daily-ops]] — Apr 24 Teams digest covering three story arcs: Andres ↔ Ablad AI-adoption clash, founder-built Clio demo videos at `clioremembers.com/demo`, and the Sun Show evening event with the free-month-license ship-readiness gap
+
+**Pages updated (5):**
+- [[wiki/people/abiodun-solomon]] — new "Apr 24 — First Documented AI-Adoption Clash with Andres" section: 38-message Moil Marketing thread crystallizing the long-running AI-tools-adoption tension; both positions on record; partial reconciliation when Abiodun praised the Clio demo video; HeyGen tools-fit decision pending; last_contact → 2026-04-24
+- [[wiki/people/jacob-oluwole]] — new "Apr 24 — Conversion-Strategy Coaching + Megan Handoff Clarification + Voiceover Decision" section: Andres-as-coach pushing strategy-before-execution on Apr 23 outbound batch; Megan handover confirmed Apr 29 (not Apr 23, not Apr 30); voiceover + mobile feedback on Clio demo video; auto-assign Moil 360 license feature in dev; Jacob brokering between Andres and Ablad; last_contact → 2026-04-24
+- [[wiki/people/taiwo-ola-balogun]] — new "Apr 24 — First Voluntary Weekend Commitment" section: Apr 25–26 weekend Inna + Connectex sprint volunteered (pace-shift continuing from Apr 18→21→24); Inna ownership-ambiguity surfaced ("I thought you worked on Inna already"); GitHub-as-universal-SSO confirmed; last_contact → 2026-04-24
+- [[wiki/people/adeleke-tolulope]] — new "Apr 24 — Auto-Assign License (Staging) + Onboarding-Guide Routing" section: auto-assign-Moil-360-license is staging-only on Sun Show event night; proposed routing pattern for the existing in-app guide for new-user onboarding ("if they ask the little guide, it can direct them"); AI-iteration on prod work confirmed (multiple passes to spec); last_contact → 2026-04-24
+- [[MEMORY]] — new "🔥 Apr 24 → next-week — Marketing + Onboarding + Demo-video workflow" block: Ablad agreement, demo-video workflow, in-app guide redesign, auto-assign license to prod, Taiwo weekend sprint, Jacob outbound rework, HeyGen re-auth, HeyGen subscription decision
+
+**Key intelligence from Run 21:**
+
+1. **First documented Andres ↔ Ablad AI-adoption clash on the record.** Two years of background tension turned into a 38-message structured argument in the Moil Marketing channel (Apr 24 11:42 AM – 12:47 PM), with both positions visible. Andres's frame: Moil sells AI but its marketing team is slow to adopt AI tools, wastes HeyGen credits, misses opportunities. Abiodun's frame: AI tools are used daily, HeyGen specifically doesn't lift from the website (doubles work), Andres dismisses opinions and repeats past arguments. Andres ended with disengagement signal — *"you just won't hear it from me anymore!"* — and a private escalation to Jacob: *"I'm this close to closing our full marketing department."* First time the marketing-department-closure threat is on record.
+
+2. **Founder-built Clio demo videos bypassing the marketing team.** Andres has been creating product demo videos using AI tools (HeyGen + ChatGPT image2 + Capcut). Live artifact: `clioremembers.com/demo`. Used at the Sun Show event Apr 24. Andres named the pattern in the team channel: *"This is what happens when people make me mad! I build."* Implicit message inside the team: the founder can ship a polished demo video faster than the design team — the AI-adoption gap is no longer rhetorical.
+
+3. **Megan FitLogic handover confirmed Apr 29 (not Apr 23, not Apr 30).** Jacob asked if the handoff happened yesterday; Andres clarified *"Not a handoff, we are doing that next Wednesday!"* Removes ambiguity from the FitLogic CRM handoff sprint timeline. Apr 23 was setup; Apr 29 is the formal walkthrough.
+
+4. **First voluntary Taiwo weekend commitment.** *"I have the weekend to work on Inna and connectex"* (6:57 PM, 1:1 with Andres). Pattern shift continuing: Apr 18 time-zone boundary → Apr 21 revenue urgency → Apr 24 weekend volunteer. Inna ownership-ambiguity surfaced live: *"I thought you worked on Inna already"* — needs resolution before the sprint.
+
+5. **Sun Show event = first real-world ship-readiness gap on Moil 360 conversion flow.** Andres asked at 8:37 PM (event in progress) for a way to give a free one-month license to weekend signups. Adeleke flagged the auto-assign-license feature is staging-only, not pushable to prod by tonight. The product has a feature for what the founder needs at a live conversion event — but it's not shipped. Manual workaround implied.
+
+6. **Jacob's outbound is strategy-thin, not effort-thin.** Andres reviewed Jacob's Apr 23 group outreach batch: *"Completely missed opportunity to convert over 2000 businesses but we have to do it right."* Pushed Jacob upstream — *"What was the strategy you used to make the decision for the comments you sent and posted? How were they driven to convert?"* Coaching pattern shift from execution review to strategy review.
+
+7. **AI-iteration on prod work is real, not first-pass-clean.** Jacob's status to Andres on a stuck backend feature: *"Steve began work on it yesterday... he said the AI is not doing exactly what he is asking it... so He is doing it again."* Confirms the Apr 21 Claude-Code-pushed-fix pattern but with first-pass-clean as the unmet bar — multiple iterations needed to land output to spec. The AI-driven dev pattern works but requires more loops than expected.
+
+8. **Onboarding gap re-surfaces as customer feedback, not internal hypothesis.** Andres at 12:09 PM: *"Client feedback, they logged in and didn't know what to do next?"* The onboarding-revamp work Andres sent "last week" is now justified by an external complaint. Adeleke proposed routing the existing in-app guide ("if they ask the little guide, it can direct them") — discoverability of the guide is the immediate fix, not the guide's content.
+
+9. **HeyGen subscription is at decision-point.** Login expired during the Apr 24 ideological debate. Abiodun's stance: HeyGen doesn't lift from the website, it doubles work. Andres's stance: keep it, use HeyGen hyperframes, stop wasting credits. The Apr 24 working capital + workflow-fit decision is now explicit, not background.
+
+10. **Jacob is operational broker between Andres and Ablad.** Quote: *"I'll speak to Ablad and try to communicate what you were talking about to him..."* (12:08 PM). Jacob taking the position-translator role inside the AI-adoption argument — first time the operational-bridge function applies to a leadership-level conflict, not just delivery coordination.
+
+**Summary:** Run 21 is a single-source run (Apr 24 Teams digest) but high-signal — the kind of day that produces precedents rather than incremental updates. The Andres ↔ Ablad clash is the first marketing-team-closure-threat on record; the Clio demo video at `clioremembers.com/demo` is the first founder-built artifact bypassing the design team; Taiwo's weekend volunteer is the first non-pushed weekend commitment; the Sun Show event surfaced the auto-assign-license ship-readiness gap. MEMORY.md sits at 133 lines, well inside the 200-line cap. New "Apr 24 → next-week" block added at the top of Immediate.
+
+---
+
 ## 2026-04-24 — Run 20: Weekly compile (Apr 23 email digest + Apr 24 X bookmarks + MEMORY rot + freshness audit)
 
 **Trigger:** `/brain weekly compile` invocation. Two new raw files since Run 19:

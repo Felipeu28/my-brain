@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-17
+last_contact: 2026-04-24
 tags:
   - graph/spoke
   - person/partner
@@ -8,9 +8,9 @@ tags:
 # Joshua Edmond
 
 **Type:** person
-**Last updated:** 2026-04-19
-**Source:** [[raw/buda-hive-edc-2026-04-11]], [[wiki/meetings/2026-03-12-sosx-buda-hive]], [[raw/email-digest-2026-04-17]]
-**Related:** [[wiki/people/jacquie-martinez]], [[wiki/people/casey-earley]], [[wiki/concepts/buda-hive]], [[wiki/orgs/buda-edc]]
+**Last updated:** 2026-04-25
+**Source:** [[raw/buda-hive-edc-2026-04-11]], [[wiki/meetings/2026-03-12-sosx-buda-hive]], [[raw/email-digest-2026-04-17]], [[raw/email-digest-2026-04-24]]
+**Related:** [[wiki/people/jacquie-martinez]], [[wiki/people/casey-earley]], [[wiki/people/shannon-cameron]], [[wiki/concepts/buda-hive]], [[wiki/orgs/buda-edc]]
 
 ---
 
@@ -40,3 +40,14 @@ Separate but parallel consulting contracts: FAVE&SAVE LLC (Joshua) and Moil Ente
 ## Added Scope
 
 Joshua proposed adding creation of the training program by September 1 — jointly developed by the HIVE and the Incubator Strategist Team.
+
+## Apr 24, 2026 — Redlined Contract + HIVE Strategist PSAs
+
+Source: [[raw/email-digest-2026-04-24]]
+
+Three emails Apr 24:
+- **11:46 AM** — Meeting invite sent
+- **13:08** — *"Redlined Contract"* sent from joshua@jucoai.com (redlined version of the FAVE&SAVE / HIVE Strategist PSAs Shannon Cameron forwarded Apr 21)
+- **13:53** — Reply on the *"Re: FW: HIVE Strategist PSAs"* thread: *"Hi Shannon, thanks for giving us the opportunity to review the contract."*
+
+First time Joshua has put redlined contract language on the record back to Shannon — moves the Cohort 4 contract from "received PSAs" (Apr 21) → "review complete with edits" (Apr 24). The Apr 24 11:46 AM meeting invite implies a follow-up call to align before Shannon countersigns. **Andres needs to review the redline before the meeting** so he can support a single position when Joshua + Andres are on with Shannon. Open: when does this meeting happen, and is Andres on the invite?

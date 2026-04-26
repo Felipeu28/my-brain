@@ -3,14 +3,14 @@ tags:
   - graph/spoke
   - person/customer
 status: active
-last_contact: 2026-04-21
+last_contact: 2026-04-23
 client: "[[wiki/orgs/ladyboss]]"
 ---
 # Inna Benyukhis
 
 **Type:** person
-**Last updated:** 2026-04-20
-**Source:** [[raw/imessages-people-2026-04-09]], [[raw/outlook-emails-2026-04-09]], [[raw/github-project-tracker]], [[raw/teams-2026-04-12]], [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/hive-inna]], [[raw/hive-inna-s-website-feedback]], [[raw/hive-empowered-nutrition-project-breakdown]], [[raw/hive-coaching-session-summary]], [[raw/email-history-6months-2026-04-14]], [[raw/teams-2026-04-20]]
+**Last updated:** 2026-04-25
+**Source:** [[raw/imessages-people-2026-04-09]], [[raw/outlook-emails-2026-04-09]], [[raw/github-project-tracker]], [[raw/teams-2026-04-12]], [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/hive-inna]], [[raw/hive-inna-s-website-feedback]], [[raw/hive-empowered-nutrition-project-breakdown]], [[raw/hive-coaching-session-summary]], [[raw/email-history-6months-2026-04-14]], [[raw/teams-2026-04-20]], [[raw/email-digest-2026-04-24]]
 **Related:** [[wiki/moil/gtm]], [[wiki/concepts/buda-hive]], [[wiki/people/abiodun-solomon]]
 
 ---
@@ -106,6 +106,19 @@ Abiodun delivered Inna's content batch on Sunday Apr 19 (announced Apr 20 8:55 A
 - **Animated flyers:** Apr 17, 18, 19, 21
 - **Created videos:** Apr 21 + Apr 30 Women's mental-health
 
+## Apr 23 — Podcast Video Directive (Approval-Loop Workflow)
+
+Source: [[raw/email-digest-2026-04-24]]
+
+Apr 23 21:43 from `healthy@empoweredwithinna.com` on the *"Re: 2 podcast videos"* thread: *"Please create the content. Send it to me for review. Then post on both LinkedIn and IG."*
+
+Three-step approval-loop workflow now formalized:
+1. **Moil creates** (Ablad + Jacob slice the 2 March podcast videos Inna sent Apr 21)
+2. **Inna reviews** (sign-off before publish)
+3. **Moil posts on LinkedIn + IG** — explicit confirmation that Inna wants Moil posting on both platforms
+
+This **resolves the Apr 20 "Option A vs Option B" tagging question** — Inna chose Option A (Moil gets direct access to post on both LinkedIn + IG). Andres now has the unblock to push Jacob/Ablad on a deliverable date.
+
 ## Instagram Tagging SOP Needed
 
 Source: [[raw/teams-2026-04-20]]
@@ -132,7 +145,8 @@ Also: Inna has been sharing LinkedIn URLs for tagging — pending clarification 
 - [ ] Review and merge Inna-CRM open PR
 - [ ] Decide: revive or archive Inna-Marketing-Calendar
 - [ ] Website: find hosting access → send redesign questionnaire → begin build
-- [ ] Choose IG tagging approach (direct access vs. send-and-post) and confirm LinkedIn scope
+- [x] ~~Choose IG tagging approach~~ — **RESOLVED Apr 23**: Inna chose Option A (Moil posts on both LinkedIn + IG with her review)
+- [ ] **🔥 Slice 2 March podcast videos → review by Inna → publish on LinkedIn + IG** (Jacob/Ablad)
 
 ## Relationship Notes
 

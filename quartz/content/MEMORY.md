@@ -1,6 +1,6 @@
 # MEMORY — Open Actions & Live Commitments
 
-**Last updated:** 2026-04-24 (Run 20 — weekly compile: priority rot rules applied, no items hit demotion threshold this week)
+**Last updated:** 2026-04-25 (Run 22 — Apr 24 email digest ingested: Joshua redlined contract, Inna podcast directive, Rashaka pricing offer live, VoyageAustin first press inquiry)
 **Purpose:** Single source of truth for open action items extracted from ingested raw sources.
 
 > Relationship/concept context: [[index]] · Ingestion history: [[log]]
@@ -12,6 +12,26 @@
 ---
 
 ## 🔥 Immediate — This Week (Apr 23–29, 2026)
+
+### 🔥 Apr 24 inbox — Contract reviews + Press + Customer directives
+Source: [[raw/email-digest-2026-04-24]]
+- [ ] **🔥 Andres:** Review [[wiki/people/joshua-edmond|Joshua Edmond's]] redlined HIVE Strategist PSAs contract (sent Apr 24 13:08 to Shannon Cameron) **before the Apr 24 meeting** he scheduled — be on Joshua's invite, align on edits before Shannon countersigns
+- [ ] **🔥 Andres:** Reply to Jessica @ VoyageAustin Magazine (interview request Apr 24 12:42) — accept; ask for question list. See [[wiki/people/jessica-voyage-austin]]
+- [ ] **🔥 Jacob + Ablad:** Slice 2 March podcast videos for [[wiki/people/inna-benyukhis|Inna]] → review by Inna → publish on **LinkedIn + IG** (her directive Apr 23: "create, send for review, then post on both"). Resolves the Apr 20 Option A/B tagging question — Inna chose direct-access posting
+- [ ] **Andres:** Wait on [[wiki/people/rashaka-boykins|Rashaka's]] question batch (her site went live Apr 24); reply with answers + close on $600/yr vs $900/mo. Tier-difference clarification ready before sending
+- [ ] **Apollo data hygiene:** Outbound Apr 24 09:03 greeted "Joseph" but address was `wilkinsonroger860@gmail.com` (Roger Wilkinson). Likely Apollo merge bug — audit sequence first-name mapping before next batch
+- [ ] **Andres:** Respond to Victor Escamilla / City of Buda — *"UDC Update — Informal Group Session 2"* invite Apr 24 16:13 (city stakeholder slot)
+
+### 🔥 Apr 24 → next-week — Marketing + Onboarding + Demo-video workflow
+Source: [[wiki/meetings/2026-04-24-teams-daily-ops]]
+- [ ] **🔥 Andres + Ablad:** Reach a working agreement on AI-tool adoption pace; argument unresolved Apr 24 — Andres ended with *"you just won't hear it from me anymore"* and *"I'm this close to closing our full marketing department"* (1:1 to Jacob 12:00 PM). Decision needed before next content cycle
+- [ ] **🔥 Andres:** Build reproducible demo-video workflow (Clio template applied to all Moil features). First artifact live: `clioremembers.com/demo`. Used at Sun Show Apr 24
+- [ ] **🔥 Andres:** Redesign in-app onboarding guide for discoverability — client feedback Apr 24 ("they logged in and didn't know what to do next?")
+- [ ] **🔥 Adeleke:** Push auto-assign-Moil-360-license feature from staging to prod — ship-readiness gap surfaced live during Sun Show event
+- [ ] **🔥 Taiwo Apr 25–26 weekend:** Inna + Connectex (volunteered); resolve Inna ownership ambiguity first ("I thought you worked on Inna already")
+- [ ] **Jacob:** Rework outbound messaging to be conversion-driven, not vague — Andres flagged Apr 23 group post missed 2000+ business conversions; coaching focus on strategy-before-execution
+- [ ] **Jacob:** Re-auth HeyGen login for Abiodun (expired Apr 24 12:47 PM)
+- [ ] **HeyGen subscription decision:** keep + maximize credits, drop, or replace with ChatGPT image2 + Capcut workflow
 
 ### 🔥 Apr 23 → Apr 29 — FitLogic CRM handoff sprint
 Source: [[wiki/meetings/2026-04-23-megan-crm-google-setup]], [[wiki/orgs/fitlogic]]

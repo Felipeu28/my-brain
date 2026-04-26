@@ -3,14 +3,14 @@ tags:
   - graph/spoke
   - person/customer
 status: active
-last_contact: 2026-04-23
+last_contact: 2026-04-24
 client: "[[wiki/orgs/siren-beauty]]"
 ---
 # Becky Torres
 
 **Type:** person
-**Last updated:** 2026-04-24
-**Source:** [[raw/email-history-2months-2026-04-12]], [[raw/email-history-6months-2026-04-14]], [[raw/hive-siren-beauty-wellness-strategy-plan]], [[raw/email-digest-2026-04-23]]
+**Last updated:** 2026-04-25
+**Source:** [[raw/email-history-2months-2026-04-12]], [[raw/email-history-6months-2026-04-14]], [[raw/hive-siren-beauty-wellness-strategy-plan]], [[raw/email-digest-2026-04-23]], [[raw/email-digest-2026-04-24]]
 **Related:** [[wiki/orgs/siren-beauty]], [[wiki/moil/customers]], [[wiki/moil/pipeline]]
 
 ---
@@ -53,6 +53,14 @@ Full website redesign + digital strategy for Siren Beauty & Wellness (see [[wiki
 Source: [[raw/email-digest-2026-04-23]]
 
 Becky emailed Apr 23 at 19:57 thanking Andres for bringing his mom by SIREN; forwarded a brand link from her sister (a graphic designer). First documented social/family touchpoint between Becky and Andres outside the business engagement — the founder relationship is moving from vendor to neighbor. Worth noting for case-study language and ongoing referral-source potential.
+
+## Apr 24, 2026 — Two-Way Family-Inclusive Touchpoint
+
+Source: [[raw/email-digest-2026-04-24]]
+
+Apr 24 08:38 — Andres replied to Becky's brand-link forward: *"Thank you so much for everything. My wife was impressed with the shampoo too."* Two beats:
+1. **Family extends both ways now** — Becky met Andres's mom Apr 23; Andres looped Mariana into the SIREN product experience same week. The vendor-to-neighbor frame is no longer one-sided.
+2. **Product-pull signal from a non-customer (Mariana).** Mariana being "impressed with the shampoo" is the first organic Mariana ↔ Moil-client crossover. Could surface a referral pathway through the Buda small-business network without Andres having to push it.
 
 ## Connections
 
