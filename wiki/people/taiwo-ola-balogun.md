@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-24
+last_contact: 2026-04-26
 tags:
   - graph/spoke
   - person/team
@@ -8,8 +8,8 @@ tags:
 # Taiwo Ola-Balogun
 
 **Type:** person
-**Last updated:** 2026-04-24
-**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026), [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/teams-2026-04-24]] (9 messages 1:1, Apr 24)
+**Last updated:** 2026-04-26
+**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026), [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/teams-2026-04-24]] (9 messages 1:1, Apr 24), [[raw/teams-2026-04-26]] (4 messages 1:1, Apr 26)
 **Related:** [[wiki/people/adeleke-tolulope]], [[wiki/people/jacob-oluwole]], [[wiki/moil/product-roadmap]], [[wiki/meetings/2026-04-23-megan-crm-google-setup]]
 
 ---
@@ -158,6 +158,13 @@ Source: [[raw/teams-2026-04-24]], [[wiki/meetings/2026-04-24-teams-daily-ops]]
 - **Asked about account scope.** *"I need the supabase credentials also and the resend email"* + *"Hello, for what account?"* Andres clarified: *"They all login with github"* — universal GitHub-as-SSO pattern confirmed for the engineering side.
 
 See [[wiki/meetings/2026-04-24-teams-daily-ops]].
+
+## April 26, 2026 — Loading-State UX Pickup
+
+Source: [[raw/teams-2026-04-26]]
+
+- Andres shared an X loading-state UX reference (12:36 AM): *"https://x.com/bzagrodzki/status/2048091983328223415 We need this for Moil"*. Taiwo replied 8:22 PM same day: *"Checked that out already. We will implement that loading state"* — same-day acknowledgement + implementation commit. Andres's confirmation: *"There's a few of them, look really nice"* (8:22 PM).
+- Pattern: founder-shared X reference → engineer follow-through within hours, no clarifying questions. Continues the Apr 24 weekend-volunteer ownership posture.
 
 ## Contact
 

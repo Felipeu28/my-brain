@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-24
+last_contact: 2026-04-26
 tags:
   - graph/spoke
   - person/team
@@ -8,8 +8,8 @@ tags:
 # Abiodun Adekanmi (Ablad)
 
 **Type:** person
-**Last updated:** 2026-04-24
-**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-24]] (38 messages in Moil Marketing, Apr 24)
+**Last updated:** 2026-04-26
+**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-24]] (38 messages in Moil Marketing, Apr 24), [[raw/teams-2026-04-26]] (12 messages in Moil Marketing, Apr 26)
 **Related:** [[wiki/people/jacob-oluwole]], [[wiki/moil/positioning]], [[wiki/people/inna-benyukhis]]
 
 > **Name correction:** Teams profile shows "Abiodun Adekanmi" — previous meeting transcripts referenced "Abiodun Solomon." The Teams name is authoritative. "Ablad" remains team nickname.
@@ -140,6 +140,18 @@ A 38-message back-and-forth in the Moil Marketing channel (11:42 AM – 12:47 PM
 **Tools-fit position:** HeyGen is the contested tool. Abiodun's stance: it doesn't lift from the website, it doubles work. Andres's stance: keep it, use the new HeyGen hyperframes, stop wasting credits. Decision pending.
 
 **Why this matters:** The argument crystallizes a structural gap that was previously implicit — Andres expects Moil to be at the AI frontier as a company *because Moil sells AI*; Abiodun's actual workflow optimizes for delivery quality, not tool experimentation. Both are reasonable; the gap is the org expectation. The Apr 24 exchange is the first documented case where the gap is named on both sides.
+
+## April 26, 2026 — Reconciliation + HeyGen Reset + IG Landscape Tactic
+
+Source: [[raw/teams-2026-04-26]]
+
+Two days after the Apr 24 AI-adoption clash, the working relationship reset in the Moil Marketing channel (8:02–8:09 PM Apr 26):
+
+- **HeyGen access restored.** Abiodun: *"Hi Andres Urrego please are you available to log me in on HeyGen?"* (8:02 PM); the previous link had expired. Andres sent a fresh login link same minute. Abiodun: *"Thank you. I am in"* (8:04 PM). Resolves the Apr 24 HeyGen-login-expired item.
+- **Abiodun praised Andres's Moil video.** Andres: *"I appreciate you putting the work in! You rock! Did you have a chance to watch the video I created for Moil? We could use better background music"* (8:06 PM). Abiodun replied with two specific asks: *"These ones sir?"* (8:06 PM) and *"Yes sir. Can you make a copy without the background sound?"* (8:08 PM) — first time Abiodun has actively engaged with a founder-built video as raw material to remix rather than competition.
+- **IG landscape tactic.** Abiodun: *"There is a way we can use it on IG even though it's in landscape. Viewers will rotate their phones if we prompt them right"* (8:09 PM) → *"Viewers will rotate their phones if we prompt them right"* (8:09 PM). First explicit format-routing strategy from the marketing side — landscape source video can be deployed on IG with the right viewer prompt, no re-render needed.
+
+**Pattern:** The Apr 24 *"you just won't hear it from me anymore"* disengagement is now bracketed by a 48-hour collaborative reset. The Clio demo video (Apr 24) → Moil video (Apr 26) sequence shows the founder-built artifact pipeline becoming a shared asset rather than a wedge. Marketing-department-closure threat has not recurred.
 
 ## Gaps
 

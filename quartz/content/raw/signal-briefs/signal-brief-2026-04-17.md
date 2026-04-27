@@ -4,6 +4,8 @@ date: 2026-04-17
 generated_at: 2026-04-22 10:32
 source_files: 18
 source_types: 2
+ingested: true
+ingested_at: 2026-04-27
 ---
 
 ## Signal Brief — 2026-04-17

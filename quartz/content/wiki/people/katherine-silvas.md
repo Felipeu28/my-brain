@@ -34,6 +34,12 @@ From her Mar 31 email:
 
 This is a direct buying signal — she wants Moil embedded in the Helotes incubator program. Similar structure to [[wiki/orgs/buda-edc|Buda EDC]] + HIVE.
 
+## Personal-context warmth signal (Apr 16, 2026)
+
+Source: [[raw/signal-briefs/signal-brief-2026-04-16]]
+
+In her Apr 16 reply to Andres, Kate volunteered an unusual personal note — a *"sorry to hear about child in hospital"* scheduling sensitivity, with [[wiki/people/mayra-adams|Mayra Adams]] looped in as exec secretary. The daily-correlator flagged this as atypical warmth from a gov-EDC contact. Operating note for any future call: **acknowledge the personal context before pitching** — the relational opening is unusually warm for a city-government channel and should be reciprocated.
+
 ## Meetings
 
 | Date | Type |

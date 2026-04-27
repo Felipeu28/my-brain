@@ -1,6 +1,6 @@
 # Moil Brain — Master Index
 
-**Last compiled:** 2026-04-25 (Run 22 — Apr 24 email digest: Joshua redlined contract + Inna podcast directive + Rashaka pricing offer + VoyageAustin first press inquiry) · **Total wiki pages:** 263 · **Raw sources:** 300
+**Last compiled:** 2026-04-27 (Run 24 — Signal-brief backfill: 10 daily-correlator briefs Apr 15–26 + Apr 24 compile report consolidated into [[wiki/summaries/signal-briefs-2026-04-15-26]]) · **Total wiki pages:** 264 · **Raw sources:** 378
 
 > **Canonical operating truth lives outside the wiki:** if status or architecture notes here conflict with newer operating reality, use `~/My Brain/CURRENT_STATE.md` first.
 
@@ -33,7 +33,7 @@
 | [[wiki/orgs/README|orgs/]] | 21 | Customer, partner, and prospect organizations |
 | [[wiki/concepts/README|concepts/]] | 35 | Frameworks, mental models, products, programs |
 | [[wiki/radar/README|radar/]] | 2 | Append-only changelogs for fast-moving topics |
-| [[wiki/summaries/README|summaries/]] | 18 | One structured summary per raw source |
+| [[wiki/summaries/README|summaries/]] | 19 | One structured summary per raw source |
 | [[wiki/meetings/README|meetings/]] | 64 | Meeting records + async threads — decisions and action items |
 
 See also: [[wiki/meetings/historical-transcripts-index]] — raw transcripts not yet promoted to structured pages (24 transcripts catalogued, 7 previously-orphan meeting pages linked).

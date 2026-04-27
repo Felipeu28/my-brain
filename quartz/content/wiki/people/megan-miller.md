@@ -117,3 +117,16 @@ Megan represents the solo/small-team healthcare practitioner segment — a high-
 - **2026-04-21** · `teams` · 89-min CRM onboarding; exported Keap contacts and reviewed website redesign · also: email-digest
 - **2026-04-23** · `teams` · 40-min Google Cloud OAuth + GitHub/Supabase/Resend account setup; Apr 29 handover scheduled; Apr 28 go-live target
 <!-- AUTO-ACTIVITY:end -->
+
+## Daily-correlator signal pattern (Apr 15–26)
+
+Source: [[wiki/summaries/signal-briefs-2026-04-15-26]]
+
+Megan was the most-flagged person across the 12-day signal-brief series — alternating between **active multi-channel firefights** and **pre-launch silences**:
+
+- **Apr 15** silence anomaly: 8-day email gap from Apr 7 while CRM was nominally in flight. Resolved Apr 21 with the 89-min working session.
+- **Apr 21** active flag: surfaced in **all four source types** (Teams, email, Moil Team chat, MEMORY) with 5 open Andres-owned actions — volume disproportionate to current revenue.
+- **Apr 23** cross-source connection: Teams locked Apr 28 go-live + Jacob's morning Business Coach fix → reframed as "one integrated launch, not two tracks."
+- **Apr 26** silence anomaly: zero mentions in a 96-file day, two business days before Mon Apr 28 go-live and three before Wed Apr 29 9:30 AM CT handover. Daily-correlator: "the silence to break tomorrow."
+
+**Operating takeaway:** the correlator is reliable on Megan — every brief that flagged her was correctly anticipating workload spikes or pre-go-live silences. Future runs should weight repeat-customer anomalies higher.

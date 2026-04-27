@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-24
+last_contact: 2026-04-26
 tags:
   - graph/hub
   - person/team
@@ -8,8 +8,8 @@ tags:
 # Adeleke Tolulope (Steve)
 
 **Type:** person
-**Last updated:** 2026-04-24
-**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026), [[raw/teams-2026-04-24]] (Moil Team + 1:1 Apr 24)
+**Last updated:** 2026-04-26
+**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026), [[raw/teams-2026-04-24]] (Moil Team + 1:1 Apr 24), [[raw/teams-2026-04-26]] (1 message 1:1, Apr 26)
 **Related:** [[wiki/people/jacob-oluwole]], [[wiki/people/taiwo-ola-balogun]], [[wiki/moil/positioning]], [[wiki/moil/product-roadmap]]
 
 ---
@@ -157,3 +157,10 @@ Source: [[raw/teams-2026-04-24]], [[wiki/meetings/2026-04-24-teams-daily-ops]]
 - **Acknowledged the chats Andres sent.** *"Okay sir"* (11:22 AM) — chats-review still pending follow-through.
 
 See [[wiki/meetings/2026-04-24-teams-daily-ops]].
+
+## April 26, 2026 — High-Value-Asset Model Cost Evaluation Asked
+
+Source: [[raw/teams-2026-04-26]]
+
+- Andres pinged Adeleke 1:1 at 12:36 AM Apr 26 with `https://x.com/gdb/status/2048162286838444511` (Greg Brockman / OpenAI post): *"Have we reviewed the cost of this model? We should definitely start using for high value assets… and maybe even for Moil360 depending on cost"* — first explicit founder-driven ask for a cost/quality evaluation on a new model specifically scoped to "high value assets" first, Moil 360 second. Continues the Apr 15 OpenAI cost-audit thread; this time the framing is *which assets justify a premium model* rather than *cut spend everywhere*.
+- No reply on record yet — action sits with Adeleke for a written cost-vs-value comparison before Moil 360 production usage.
