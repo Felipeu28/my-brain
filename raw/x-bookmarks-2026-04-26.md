@@ -1,5 +1,7 @@
 ---
 type: bookmark
+ingested: true
+ingested_at: 2026-04-27
 ---
 
 # X Bookmarks — 2026-04-26

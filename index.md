@@ -1,6 +1,6 @@
 # Moil Brain — Master Index
 
-**Last compiled:** 2026-04-27 (Run 24 — Signal-brief backfill: 10 daily-correlator briefs Apr 15–26 + Apr 24 compile report consolidated into [[wiki/summaries/signal-briefs-2026-04-15-26]]) · **Total wiki pages:** 264 · **Raw sources:** 378
+**Last compiled:** 2026-04-27 (Run 25 — Apr 26 X bookmarks 192-item cumulative re-capture; Apr 25–26 delta summary at [[wiki/summaries/x-bookmarks-2026-04-26]]) · **Total wiki pages:** 265 · **Raw sources:** 378
 
 > **Canonical operating truth lives outside the wiki:** if status or architecture notes here conflict with newer operating reality, use `~/My Brain/CURRENT_STATE.md` first.
 

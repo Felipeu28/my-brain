@@ -5,7 +5,7 @@ tags:
 # Moil — Go-to-Market Motion
 
 **Type:** moil-topic
-**Last updated:** 2026-04-23
+**Last updated:** 2026-04-27
 **Source:** [[raw/moil-documents-2026-04-09]], [[raw/moilapp-website-2026-04-09]], [[raw/teams-2026-04-12]], [[raw/email-digest-2026-04-14]], [[raw/email-digest-2026-04-15]], [[raw/email-digest-2026-04-17]], [[raw/email-digest-2026-04-20]], [[raw/email-digest-2026-04-21]], [[raw/email-digest-2026-04-22]]
 **Related:** [[wiki/moil/positioning]], [[wiki/moil/icp]], [[wiki/concepts/buda-hive]], [[wiki/people/travis-sutherland]], [[wiki/people/daniel-guadiano]], [[wiki/people/renee-simmons]], [[wiki/people/adam-maxon]], [[wiki/people/irma-mason]], [[wiki/people/elisa-alaniz]], [[wiki/people/katherine-silvas]], [[wiki/orgs/helotes-edc]]
 
@@ -52,6 +52,7 @@ Average deal size: ~$300/year blended across tiers
 - **Email/sequencing:** Outlook via m365 (once installed). Manual for now.
 - **Calendar booking:** Calendly (Inna used it). No formal tool standardized yet.
 - **Analytics:** Moil internal dashboard + blog analytics
+- **Watch list — Signal outbound stack** ([@JaySahnan](https://x.com/JaySahnan) Apr 26, open-sourced on GitHub) — entire cold-outbound automation stack, "stop paying thousands for platforms." Worth a code-walk before any new outbound-platform investment. See [[wiki/summaries/x-bookmarks-2026-04-26]].
 
 ## Current experiments
 
