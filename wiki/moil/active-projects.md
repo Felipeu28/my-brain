@@ -20,12 +20,12 @@ tags:
 
 | Client org | Owner / contact | Product | Repo | Deal value | Last biz touch | Status |
 |------------|-----------------|---------|------|------------|----------------|--------|
-| [[wiki/orgs/fitlogic|FitLogic / FxMed]] | [[wiki/people/megan-miller|Megan Miller]] | Moil hiring platform + coaching | `Moil-Landingpages/fit-logic` | Active, first hire in progress | 2026-03-20 | 🟢 Active |
+| [[wiki/orgs/fitlogic|FitLogic / FxMed]] | [[wiki/people/megan-miller|Megan Miller]] | Moil hiring + Moil 360 + CRM (sequences, sender domain, Gmail/Calendar OAuth) | `Moil-Landingpages/fit-logic` | Active, first hire in progress | 2026-04-28 | 🟢 **Deploy tonight Apr 28**; Apr 29 walkthrough |
 | [[wiki/orgs/meridian-buda|Meridian Buda]] | [[wiki/people/travis-sutherland|Travis Sutherland]] | Full custom ticketed-events platform (Stripe, organizer dashboard) | `Moil-Landingpages/meridian-buda` | ✅ CLOSED Apr 9 | 2026-04-13 | 🟢 Active — building |
 | [[wiki/orgs/zoiwell|Zoiwell]] | [[wiki/people/travis-sutherland|Travis Sutherland]] | Moil 360 1-year license | (verify repo in yaml) | ~$900/yr | 2026-04-13 | 🟢 Active |
 | [[wiki/orgs/buda-edc|Buda EDC / HIVE]] | [[wiki/people/jennifer-storm|Jennifer Storm]] | Per-cohort licensing (B2G) + Incubator Strategist contract | `Moil-Landingpages/BUDAEDC`, `Moil-Code/buda-hive` | Per-cohort | 2026-04-15 (Board vote) | 🟢 Active — Cohort 4 Apr 20 |
 | [[wiki/orgs/siren-beauty|Siren Beauty]] | [[wiki/people/becky-torres|Becky Torres]] | Vercel site + Moil 360 | `Moil-Landingpages/Siren-Beauty` | $2,200 paid Apr 6 | 2026-04-06 | 🟢 Active — account setup |
-| [[wiki/orgs/connectex|Connectex]] | [[wiki/people/mark-polanco|Mark Polanco]] | Multi-quarter service | `Moil-Landingpages/connectex` + `Felipeu28/connectex-website` | Multi-quarter invoice | 2026-04-09 | 🟢 Closed Apr 9 — verify payment |
+| [[wiki/orgs/connectex|Connectex]] | [[wiki/people/mark-polanco|Mark Polanco]] | Custom landing page + `/CRM` + `/ticketing` + Knowledge Base | `Moil-Landingpages/connectex` + `Felipeu28/connectex-website` (+ Taiwo's landing-page repo, **push pending Apr 28**) | 1 down + 3 quarterly over 9 months — full invoice up front for Buda EDC reimbursement | 2026-04-28 | 🟢 Apr 28 walkthrough done; **go-live early next week** pending Squarespace login |
 | [[wiki/orgs/ladyboss|LadyBoss]] | [[wiki/people/inna-benyukhis|Inna Benyukhis]] | Moil360 + CRM + calendar | `Moil-Landingpages/Inna-CRM`, `Moil-Landingpages/Inna-Marketing-Calendar` | $400 monthly retainer | 2026-04-08 | 🟢 Active coaching |
 | [[wiki/orgs/titan-tech|Titan Tech Authority]] | [[wiki/people/jacob-centeno|Jacob Centeno]] | Moil Starter plan | — | $15/mo ($180/yr) | 2026-04-08 | 🟢 Onboarded |
 | [[wiki/orgs/pure-serenity|PureSerenity]] | jilledegs01@gmail.com | Moil 360 license + Vercel site | `Moil-Landingpages/PureSerenity` | License | 2026-04-10 | 🟢 Active |

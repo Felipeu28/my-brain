@@ -3,14 +3,14 @@ tags:
   - graph/spoke
   - person/customer
 status: active
-last_contact: 2026-04-23
+last_contact: 2026-04-28
 client: "[[wiki/orgs/ladyboss]]"
 ---
 # Inna Benyukhis
 
 **Type:** person
-**Last updated:** 2026-04-25
-**Source:** [[raw/imessages-people-2026-04-09]], [[raw/outlook-emails-2026-04-09]], [[raw/github-project-tracker]], [[raw/teams-2026-04-12]], [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/hive-inna]], [[raw/hive-inna-s-website-feedback]], [[raw/hive-empowered-nutrition-project-breakdown]], [[raw/hive-coaching-session-summary]], [[raw/email-history-6months-2026-04-14]], [[raw/teams-2026-04-20]], [[raw/email-digest-2026-04-24]]
+**Last updated:** 2026-04-28
+**Source:** [[raw/imessages-people-2026-04-09]], [[raw/outlook-emails-2026-04-09]], [[raw/github-project-tracker]], [[raw/teams-2026-04-12]], [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/hive-inna]], [[raw/hive-inna-s-website-feedback]], [[raw/hive-empowered-nutrition-project-breakdown]], [[raw/hive-coaching-session-summary]], [[raw/email-history-6months-2026-04-14]], [[raw/teams-2026-04-20]], [[raw/email-digest-2026-04-24]], [[raw/email-digest-2026-04-27]], [[raw/teams-transcript-website-update-review-call-2026-04-28]]
 **Related:** [[wiki/moil/gtm]], [[wiki/concepts/buda-hive]], [[wiki/people/abiodun-solomon]]
 
 ---
@@ -138,15 +138,25 @@ Also: Inna has been sharing LinkedIn URLs for tagging — pending clarification 
 - **2026-04-21** · `email-digest` · sent 2 March podcast videos for Jacob/Ablad to slice for social
 <!-- AUTO-ACTIVITY:end -->
 
+## Apr 27 — Podcast Videos Sent + Apr 28 Demo Slipped
+
+Source: [[raw/email-digest-2026-04-27]], [[raw/teams-transcript-website-update-review-call-2026-04-28]]
+
+- **Apr 27 10:43** — [[wiki/people/jacob-oluwole|Jacob]] sent Inna 2 podcast video links + cover thumbnails (resolves the Apr 23 "create the content" directive). Followed up Apr 27 15:02 explaining **portrait format works best for IG Reels** (clarifies the Apr 21 podcast videos Inna sent in landscape).
+- **Apr 28 in-person meeting confirmed** for 4 PM CT (per Apr 27 morning briefing).
+- **Apr 28 — CRM dashboard demo slipped one week.** Inna messaged Andres saying she's busy → demo pushed back. Gives Taiwo + Jacob time to fix two live bugs Jacob hit while testing as `jacob@mylab.com`: contact-add hang and Gemini API key not working. Taiwo plans to grab the same key used on FitLogic. See [[wiki/meetings/2026-04-28-website-update-review-internal]].
+
 ## Open Items
 
-- [ ] Fix CRM contact pipeline display (contacts not showing)
+- [ ] Fix CRM contact-add hang (Jacob testing as `jacob@mylab.com` Apr 28 — system stops responding mid-add)
+- [ ] Fix Gemini API key on Inna CRM (Taiwo to grab the same key used on FitLogic)
 - [ ] Add campaigns API key to Inna's account
 - [ ] Review and merge Inna-CRM open PR
 - [ ] Decide: revive or archive Inna-Marketing-Calendar
 - [ ] Website: find hosting access → send redesign questionnaire → begin build
 - [x] ~~Choose IG tagging approach~~ — **RESOLVED Apr 23**: Inna chose Option A (Moil posts on both LinkedIn + IG with her review)
-- [ ] **🔥 Slice 2 March podcast videos → review by Inna → publish on LinkedIn + IG** (Jacob/Ablad)
+- [x] ~~Slice 2 March podcast videos~~ — **DELIVERED Apr 27** (Jacob sent video links + cover thumbnails; portrait format used per IG Reels constraint)
+- [ ] **Inna review** + publish to LinkedIn + IG (next step in the 3-step approval-loop workflow)
 
 ## Relationship Notes
 

@@ -3,15 +3,15 @@ github_repo: Moil-Landingpages/Siren-Beauty
 tags:
   - graph/spoke
 status: active
-last_contact: 2026-04-09
+last_contact: 2026-04-28
 owner: "[[wiki/people/becky-torres]]"
 ---
 # Siren Beauty & Wellness
 
 **Type:** organization
-**Last updated:** 2026-04-21
-**Source:** [[raw/teams-2026-04-12]], [[raw/email-history-6months-2026-04-14]], [[raw/hive-siren-beauty-wellness-strategy-plan]]
-**Related:** [[wiki/people/becky-torres]], [[wiki/moil/customers]], [[wiki/moil/pipeline]]
+**Last updated:** 2026-04-28
+**Source:** [[raw/teams-2026-04-12]], [[raw/email-history-6months-2026-04-14]], [[raw/hive-siren-beauty-wellness-strategy-plan]], [[raw/teams-transcript-website-update-review-call-2026-04-28]]
+**Related:** [[wiki/people/becky-torres]], [[wiki/moil/customers]], [[wiki/moil/pipeline]], [[wiki/meetings/2026-04-28-website-update-review-internal]]
 
 ---
 
@@ -215,6 +215,16 @@ Becky admires this regenerative aesthetics brand (3 Austin locations, 25+ team, 
 ## GitHub
 
 - [Moil-Landingpages/Siren-Beauty](https://github.com/Moil-Landingpages/Siren-Beauty) — client site (last push Apr 6, 2026 🟢)
+
+## Apr 28, 2026 — Brand Kit Delivered + `brand.md` Repo Pattern Established
+
+Source: [[wiki/meetings/2026-04-28-website-update-review-internal]]
+
+Becky sent her **full brand kit** during the Apr 28 1 PM internal call. Andres downloaded it live and forwarded to Taiwo + Jacob. Plan: add as **`brand.md`** to the Siren-Beauty repo so all future engineering and content work matches her brand DNA.
+
+This is the **first time a customer's brand kit is becoming a repo-level artifact** at Moil. Extends the per-asset MD-file pattern Andres is rolling out across Moil 360 (`user.md`, `design.md`, `agent.md`, `brand.md` per profile) — practical implementation of the YC RFS *"build for agents, not the agent"* framing, where any external agent entering Moil can consume context.
+
+**Replicable for other clients** — once Siren's brand-kit-as-`brand.md` is in place, every subsequent Moil engagement (Connectex, FitLogic, Inna) can adopt the same pattern.
 
 ## Connections
 

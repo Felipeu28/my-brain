@@ -5,7 +5,7 @@ tags:
 # Moil — Go-to-Market Motion
 
 **Type:** moil-topic
-**Last updated:** 2026-04-27
+**Last updated:** 2026-04-28
 **Source:** [[raw/moil-documents-2026-04-09]], [[raw/moilapp-website-2026-04-09]], [[raw/teams-2026-04-12]], [[raw/email-digest-2026-04-14]], [[raw/email-digest-2026-04-15]], [[raw/email-digest-2026-04-17]], [[raw/email-digest-2026-04-20]], [[raw/email-digest-2026-04-21]], [[raw/email-digest-2026-04-22]]
 **Related:** [[wiki/moil/positioning]], [[wiki/moil/icp]], [[wiki/concepts/buda-hive]], [[wiki/people/travis-sutherland]], [[wiki/people/daniel-guadiano]], [[wiki/people/renee-simmons]], [[wiki/people/adam-maxon]], [[wiki/people/irma-mason]], [[wiki/people/elisa-alaniz]], [[wiki/people/katherine-silvas]], [[wiki/orgs/helotes-edc]]
 
@@ -174,6 +174,22 @@ Single-day outbound: **24 sent emails** — the largest single-day volume of bre
 - **Team-internal forward:** Megan's "Email address to use as 'from' for campaigns" question forwarded to Taiwo — followed through from Apr 21 deliverability firefight into Apr 22 engineering queue.
 
 **Signal:** Apr 22 is the campaign's **pipeline-close day**. More breakup emails than any prior day; two warm re-opens; one new SMB vertical test; and the first EDC proposal outside Buda is on a decision-maker's desk. Outbound cadence is consciously pruning the long tail while the Helotes and Astra conversations move to written artifacts.
+
+### Cold campaign — Apr 27 update (largest WI/MS push; Queen Creek workshop confirmation)
+
+Source: [[raw/email-digest-2026-04-27]]
+
+Single-day outbound: **18+ chamber/EDC emails** across all four template variants. Heavy Wisconsin + Mississippi concentration.
+
+- **"3-minute walkthrough" / "What entrepreneurs see" demo:** Mitchell Swenson (waupacaareachamber.com), Jayme Sellen (tedcor.org), Kari Swirth (greaterbeloitchamber.org), Sherri Yandry (saukvillechamber.org), April Kopitzke (newlondonchamber.com), Ashley Demuth (menomoniechamber.org), Ronda May (jessaminechamber.org — KY), Tina Snyder (hcplky.org — KY), Gwendolyn Howard (medc.ms), Hunter Gardner (selecthinds.com — MS).
+- **"Something we didn't expect" / "Interesting feedback from an EDC" narrative:** Michelle Allison (angletonchamber.org), Scott Rosenow (wmc.org), Scott Waller (msmec.com), Debi Green (greaterjacksonpartnership.com), Virginia James (corinthjewelers.com — MS).
+- **"One challenge we keep hearing" coaching-bottleneck:** Tracy Propst (beaverdamchamber.com), Allyson Wisniewski (chippewachamber.org), Carol Fahrenkrog (bayfield.org).
+- **"Last note" close-out:** John Hall (jhall@marshalltown.org) — final follow-up.
+- **Operational confirmation:** [[wiki/people/kim-dowers|Kim Dowers]] / Queen Creek Chamber sent the Zoom link for the **Apr 28 9:00 AM AZ workshop** (Tue Apr 28 11 AM CT). Andres confirmed ready + accepted calendar invite.
+- **Civic engagement:** [[wiki/people/victor-escamilla|Victor Escamilla]] / City of Buda sent revised Apr 27 invite for the UDC Update focus group session 2 (business owners + merchants) — reply still open.
+- **Geographic footprint:** Wisconsin (8 — biggest state day this campaign), Mississippi (4 — first major MS volume), Kentucky (2), Texas (1 — Angleton), Iowa (1).
+
+**Signal:** Apr 27 is the campaign's **biggest Wisconsin push** (8 in one day) and the **first major MS volume** (4 in one day after one-offs in prior weeks). State-cluster strategy is hardening: pick a state, push hard for one day, move to the next. Pairs with the Queen Creek workshop going live Apr 28 — the **first webinar/workshop conversion** of an Apr cold-campaign target into a live customer event.
 
 ### Warm community referrals (Apr 19–21)
 

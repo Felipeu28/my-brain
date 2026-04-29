@@ -26,7 +26,7 @@ Domain: `fitlogicfunctionalmedicine.com` (GoDaddy). Sending address to be: `Mega
 ## Deal Status
 
 - **Moil hiring:** ✅ Active — first hire imminent as of Apr 12, 2026; second job posted Apr 12
-- **Moil 360 CRM:** 🟢 Infrastructure wired Apr 23 — go-live target **Mon 2026-04-28**. Taiwo testing through weekend
+- **Moil 360 CRM:** 🟢 Infrastructure wired Apr 23 — go-live target **Mon 2026-04-28**. **Apr 28 update:** Taiwo flagged FitLogic *"is not set to go tomorrow"*; committed to deploy tonight Apr 28 (push to Vercel, set env vars, test contacts upload + Google account connection) so it's ready Apr 29. Adding readable WYSIWYG email editor + variable selector (replicating from Inna). See [[wiki/meetings/2026-04-28-website-update-review-internal]]
 - **Moil 360 / Coach:** ✅ Working again for Megan as of Apr 23 (Jacob confirmed the fix by email that morning)
 - **Website:** External vendor Electric Bricks mid-redesign; **Megan + vendor compliance meeting Fri 2026-04-24 12:30 PM CT** (Andres plans to attend) — "doctor vs. health coach" scope-of-practice issue is non-negotiable
 - **Payment plan ask (Apr 19, 2026):** Megan emailed asking to switch from **$500/mo × 3 to $250/mo × 6** — same total, stretched. Needs a revenue/collection decision + reply ([[raw/email-digest-2026-04-20]])

@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-26
+last_contact: 2026-04-28
 tags:
   - graph/spoke
   - person/team
@@ -8,8 +8,8 @@ tags:
 # Taiwo Ola-Balogun
 
 **Type:** person
-**Last updated:** 2026-04-26
-**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026), [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/teams-2026-04-24]] (9 messages 1:1, Apr 24), [[raw/teams-2026-04-26]] (4 messages 1:1, Apr 26)
+**Last updated:** 2026-04-28
+**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026), [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/teams-2026-04-24]] (9 messages 1:1, Apr 24), [[raw/teams-2026-04-26]] (4 messages 1:1, Apr 26), [[raw/teams-transcript-website-update-review-call-2026-04-28]], [[raw/teams-transcript-mark-polanco-andres-2026-04-28]]
 **Related:** [[wiki/people/adeleke-tolulope]], [[wiki/people/jacob-oluwole]], [[wiki/moil/product-roadmap]], [[wiki/meetings/2026-04-23-megan-crm-google-setup]]
 
 ---
@@ -165,6 +165,19 @@ Source: [[raw/teams-2026-04-26]]
 
 - Andres shared an X loading-state UX reference (12:36 AM): *"https://x.com/bzagrodzki/status/2048091983328223415 We need this for Moil"*. Taiwo replied 8:22 PM same day: *"Checked that out already. We will implement that loading state"* — same-day acknowledgement + implementation commit. Andres's confirmation: *"There's a few of them, look really nice"* (8:22 PM).
 - Pattern: founder-shared X reference → engineer follow-through within hours, no clarifying questions. Continues the Apr 24 weekend-volunteer ownership posture.
+
+## April 28, 2026 — Repo Discipline Hard Rule + FitLogic Tonight Plan + Mark Walkthrough Tech Support
+
+Source: [[raw/teams-transcript-website-update-review-call-2026-04-28]], [[raw/teams-transcript-mark-polanco-andres-2026-04-28]], [[wiki/meetings/2026-04-28-website-update-review-internal]], [[wiki/meetings/2026-04-28-mark-polanco-connectex-walkthrough]]
+
+- **Repo visibility crisis surfaced — 15 minutes before the Mark Polanco walkthrough.** Andres asked which repo Taiwo was working on for Connectex. Taiwo: *"I moved it to my landing page, but I don't think I've pushed it."* Andres realized he was about to show Mark *the same thing he showed three weeks ago*. Pushed firmly: *"Just push it, push it to the new repo, because the repo that you moved it to is empty… I'm never going to push to main, but I need visibility."* **First time Andres has framed repo push discipline as a non-negotiable team-wide rule.** Taiwo committed: *"I'm going to push it. I'm going to push it."*
+- **Volunteered to deploy FitLogic tonight Apr 28.** *"Need to work on getting feed logic sets like today… because feed logic is not set to go tomorrow, but if we work on it today, we'll be able to get set for tomorrow."* Plan: finalize, push, deploy on Vercel, set environmental variables, test contacts upload + Google account connection. Initially proposed 10 PM Nigeria time (~4 PM CT) — Andres pushed back: *"Put it on my calendar. I'm very flexible, but flexible needs to mean we meet in the middle. I can't always meet you at 2 AM or 11 PM."* Pattern continues from Apr 18 time-zone boundary → Apr 21 revenue urgency → Apr 26 loading-state pickup → Apr 28 calendar-etiquette ask.
+- **Implemented readable WYSIWYG email editor on Inna; replicating to FitLogic.** Email editor was HTML-only ("I don't think she should be typing HTML on that box"). New editor has bold/italics + **variable selector** for contacts, email, distance — user clicks to insert variables instead of writing template syntax. Plans to replicate Inna implementation onto FitLogic.
+- **Joined the 1:45 PM Mark Polanco walkthrough mid-call** to add Gemini API key for ConnectX campaign builder so the Verizon T77 LTE test campaign could run. First time Taiwo has been on a customer call as live tech support. Confirmed by Andres mid-call: *"I'm going to add my developer and my project manager so they can listen in. They can listen in and we make sure that we don't miss anything before the delivery."*
+- **Vercel env-var security observation.** Noted that Vercel no longer shows previous env-var values when editing — *"probably for security."* Continues his Apr 21 OG-image / partners@moilapp.com deliverability awareness pattern.
+- **Diagnosed Jacob's hardware constraint live.** Jacob's HP screen height (568 px) is causing scrolling friction in Inna CRM testing — *"Your screen is very, very small. The height of your screen is, I think, 568 pixels."* Surfaced as a UX signal for the engineering team without being a build issue.
+
+See [[wiki/meetings/2026-04-28-website-update-review-internal]] and [[wiki/meetings/2026-04-28-mark-polanco-connectex-walkthrough]].
 
 ## Contact
 

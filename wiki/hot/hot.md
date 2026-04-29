@@ -2,7 +2,7 @@
 tags:
   - graph/leaf
 type: hot-cache
-last_updated: 2026-04-28
+last_updated: 2026-04-29
 ---
 # Brain Hot Cache
 
@@ -32,26 +32,26 @@ Updated automatically by:
 ## Recent Queries
 
 <!-- ENTRIES:query -->
+- 2026-04-29 08:49 — Q: "What are the 3 most important things I should focus on today? Consider: open dea" → # Top 3 Focus Areas — Wed Apr 29, 2026
+- 2026-04-29 08:49 — Session end: [Brain/KB] You are the Moil Brain query engine. Answer this question using the Brain's know… — 20 events
+- 2026-04-29 08:48 — Session end: [Brain/Auto] You are the Moil Brain's daily cross-source intelligence analyst.  You are readi… — 9 events
+- 2026-04-29 08:48 — Session end: [Brain/Auto] Run the morning briefing. Execute these steps:  1. Fetch today's calendar: bash … — 1 new files
+- 2026-04-29 06:00 — Session end: [Claude] You are the Moil Brain's daily cross-source intelligence analyst.  You are readi… — 9 events
+- 2026-04-28 19:31 — Session end: [Brain/Auto] You are Andres Urrego's editor. Every evening you distill his X bookmarks from t… — 1 new files
+- 2026-04-28 18:37 — Session end: [Brain/KB] Check for any new files in raw/ and raw/onedrive-transcripts/ that haven't been … — 3 new files · 32 edits
+- 2026-04-28 18:32 — Session end: [Brain/Auto] Read these two JSON files of today's email activity and create a structured Brai… — 1 new files
+- 2026-04-28 18:20 — Session end: [Brain/Auto] Pull today's Microsoft Teams meeting transcripts and add them to the Brain.  1. … — 96 events
+- 2026-04-28 12:01 — Session end: [Brain/Auto] You are Andres's plan radar. Every day at noon you scan recent Brain activity an… — 1 new files
+- 2026-04-28 10:24 — Session end: [Brain/KB] Set up Cloudflare Pages to deploy the private GitHub repo Felipeu28/my-brain (a … — 27 events
+- 2026-04-28 10:21 — Session end: [Brain/KB] The GitHub repo Felipeu28/my-brain has a failing GitHub Pages deployment. The bu… — 35 events
+- 2026-04-28 10:17 — Session end: [Clio] I want you to analyze this graph and diagnose all the mising connections, and wh… — 6 new files · 17 edits · 2 commits
+- 2026-04-28 10:14 — Session end: [Clio] Let's do a full security audit for Clio, including our full main repo!! — 7 new files · 21 edits
+- 2026-04-28 09:58 — Session end: [Clio] I want you to analyze this graph and diagnose all the mising connections, and wh… — 5 new files · 16 edits · 1 commits
+- 2026-04-28 09:53 — Session end: [Clio] I want you to analyze this graph and diagnose all the mising connections, and wh… — 5 new files · 16 edits · 1 commits
+- 2026-04-28 09:51 — Session end: [Clio] Let's do a full security audit for Clio, including our full main repo!! — 2 new files
+- 2026-04-28 09:40 — Session end: [Clio] I want you to analyze this graph and diagnose all the mising connections, and wh… — 5 new files · 16 edits · 1 commits
+- 2026-04-28 09:39 — Session end: [Clio] Let's work on the design for the brain graph, its confined to alittle box so whe… — 2 new files · 22 edits · 2 commits
 - 2026-04-28 09:07 — Session end: [Brain/Auto] Run the morning briefing. Execute these steps:  1. Fetch today's calendar: bash … — 73 events
-- 2026-04-28 09:07 — Session end: [Brain/Auto] Run the morning briefing. Execute these steps:  1. Fetch today's calendar: bash … — 68 events
-- 2026-04-28 08:51 — Session end: [Brain/Auto] Run the morning briefing. Execute these steps:  1. Fetch today's calendar: bash … — 62 events
-- 2026-04-28 06:00 — Session end: [Claude] You are the Moil Brain's daily cross-source intelligence analyst.  You are readi… — 8 events
-- 2026-04-27 22:40 — Session end: [Clio] I want you to analyze this graph and diagnose all the mising connections, and wh… — 5 new files · 16 edits · 1 commits
-- 2026-04-27 22:40 — Session end: [Clio] Let's work on the design for the brain graph, its confined to alittle box so whe… — 2 new files · 22 edits · 2 commits
-- 2026-04-27 22:35 — Session end: [Clio] I want you to analyze this graph and diagnose all the mising connections, and wh… — 5 new files · 16 edits · 1 commits
-- 2026-04-27 22:32 — Session end: [Clio] Let's work on the design for the brain graph, its confined to alittle box so whe… — 2 new files · 19 edits · 1 commits
-- 2026-04-27 22:32 — Session end: [Clio] I want you to analyze this graph and diagnose all the mising connections, and wh… — 5 new files · 16 edits
-- 2026-04-27 22:15 — Session end: [Clio] Let's work on the design for the brain graph, its confined to alittle box so whe… — 2 new files · 12 edits
-- 2026-04-27 22:05 — Session end: [Clio] Let's work on the design for the brain graph, its confined to alittle box so whe… — 2 new files · 12 edits
-- 2026-04-27 19:31 — Session end: [Brain/Auto] You are Andres Urrego's editor. Every evening you distill his X bookmarks from t… — 1 new files
-- 2026-04-27 18:31 — Session end: [Brain/Auto] Read these two JSON files of today's email activity and create a structured Brai… — 1 new files
-- 2026-04-27 18:22 — Session end: [Brain/KB] Check for any new files in raw/ and raw/onedrive-transcripts/ that haven't been … — 1 new files · 7 edits
-- 2026-04-27 18:16 — Session end: [Brain/Auto] Pull today's Microsoft Teams meeting transcripts and add them to the Brain.  1. … — 49 events
-- 2026-04-27 12:01 — Session end: [Clio] Let's work on the design for the brain graph, its confined to alittle box so whe… — 1 new files · 1 edits
-- 2026-04-27 12:01 — Session end: [Brain/Auto] You are Andres's plan radar. Every day at noon you scan recent Brain activity an… — 1 new files
-- 2026-04-27 11:38 — Session end: [Clio] Let's work on the design for the brain graph, its confined to alittle box so whe… — 1 new files
-- 2026-04-27 11:32 — Session end: [Clio] Let's work on the design for the brain graph, its confined to alittle box so whe… — 16 events
-- 2026-04-27 09:03 — Session end: [Brain/Auto] Generate Moil's 4-week rolling content calendar. Execute these steps:  1. Read ~… — 1 new files
 <!-- /ENTRIES:query -->
 
 ## Recent Saves

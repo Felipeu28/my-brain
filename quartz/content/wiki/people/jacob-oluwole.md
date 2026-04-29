@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-24
+last_contact: 2026-04-28
 tags:
   - graph/hub
   - person/team
@@ -8,8 +8,8 @@ tags:
 # Jacob Oluwole
 
 **Type:** person
-**Last updated:** 2026-04-24
-**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/email-history-2months-2026-04-12]], [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026), [[raw/teams-2026-04-24]] (39 messages 1:1, Apr 24)
+**Last updated:** 2026-04-28
+**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/email-history-2months-2026-04-12]], [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026), [[raw/teams-2026-04-24]] (39 messages 1:1, Apr 24), [[raw/email-digest-2026-04-27]], [[raw/teams-transcript-website-update-review-call-2026-04-28]]
 **Related:** [[wiki/moil/positioning]], [[wiki/people/adeleke-tolulope]], [[wiki/people/abiodun-solomon]], [[wiki/people/taiwo-ola-balogun]]
 
 ---
@@ -155,6 +155,30 @@ Source: [[raw/teams-2026-04-24]], [[wiki/meetings/2026-04-24-teams-daily-ops]]
 - **Andres's "I'm this close to closing our full marketing department"** to Jacob 12:00 PM (1:1) — direct escalation re Ablad's AI attitude. Jacob is being looped in as the operations bridge to communicate the position back to Ablad.
 
 See [[wiki/meetings/2026-04-24-teams-daily-ops]].
+
+## April 27, 2026 — Outbound Day + Linda Meeting Setup
+
+Source: [[raw/email-digest-2026-04-27]]
+
+- **Sent 8 separate emails Apr 27** to Inna, Linda, Andres, and a Sunfield Spray Tans customer:
+  - Two clarifying emails confirming Linda's *Website Updates Discussion* is **Apr 28 at 1pm CT** (first send had wrong date — corrected immediately).
+  - Sent Inna 2 podcast video links + cover thumbnails; followed up explaining portrait format works best for IG Reels.
+  - Notified Sunfield Spray Tans the post-business-plan error has been resolved.
+  - Forwarded Andres a monetization milestone email + an "Exciting Times for ATX Shine!" engagement email.
+
+## April 28, 2026 — Internal Engineering Review (Linda no-show)
+
+Source: [[raw/teams-transcript-website-update-review-call-2026-04-28]], [[wiki/meetings/2026-04-28-website-update-review-internal]]
+
+- **Set up Linda meeting himself.** Sent the invite, confirmed availability with her by email — Linda did not join. Andres asked twice whether Linda accepted; Jacob clarified that he sets meetings on calendars without requiring acceptance from invitees ("Most of the time I never accept your invite, but I have it on my calendar"). Workflow signal — Jacob doesn't rely on accept signals; he takes the calendar entry as the commitment.
+- **Tested Inna's CRM live as `jacob@mylab.com`.** Reported bugs in real time: adding contacts hangs ("My system has stopped moving. It's hanging"), screen freezes mid-test, schedule-appointment feature unclear, button states ambiguous. **Jacob is now the named QA tester on Inna's CRM.**
+- **Asked the unifying-CRM question.** *"Why can't we have a unified CRM where I will get charged?"* Andres explained the deliberate multi-CRM learning sprint: build Inna + Connect X + FitLogic → identify the best one → white-label → sell. *"Right now nothing works because we haven't finished a single project all the way through the finish line."* Jacob accepted the framing.
+- **Sent Gmail to Taiwo for Google OAuth test-user list** so he could connect a Gmail to Inna's CRM and test the Gmail/Calendar integration end-to-end.
+- **Hardware constraint surfaced.** Taiwo flagged Jacob's screen height (568px) as the reason scrolling feels cramped on his HP — first time the team has named Jacob's small-screen workflow as a UX signal for the engineering team.
+- **Outbound campaign coordination.** Andres asked if Jacob had messaged the people Andres tagged in the social-media group; Jacob hadn't started yet, planned to do it after his QA pass. Plan: Andres to send a draft message; they'll split the list.
+- **Personal context — Apr 27:** posted *"Trying to box, I mean, that's that's…"* — light banter referencing Andres's $200/month Claude spend vs. 6 deals closed last month bringing 20× that in pipeline.
+
+See [[wiki/meetings/2026-04-28-website-update-review-internal]].
 
 ## Gaps
 

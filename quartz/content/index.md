@@ -1,6 +1,6 @@
 # Moil Brain — Master Index
 
-**Last compiled:** 2026-04-27 (Run 25 — Apr 26 X bookmarks 192-item cumulative re-capture; Apr 25–26 delta summary at [[wiki/summaries/x-bookmarks-2026-04-26]]) · **Total wiki pages:** 265 · **Raw sources:** 378
+**Last compiled:** 2026-04-28 (Run 26 — Apr 27 email digest + Apr 28 Mark Polanco walkthrough + internal engineering review ingested; new pages: 2 meeting + 1 person ([[wiki/people/victor-escamilla]])) · **Total wiki pages:** 268 · **Raw sources:** 382
 
 > **Canonical operating truth lives outside the wiki:** if status or architecture notes here conflict with newer operating reality, use `~/My Brain/CURRENT_STATE.md` first.
 
@@ -28,13 +28,13 @@
 | Folder | Count | What's in it |
 |---|---|---|
 | [[wiki/moil/README|moil/]] | 11 | Moil business — positioning, ICP, GTM, customers, competitors, metrics, product roadmap, active-projects |
-| [[wiki/people/README|people/]] | 51 | Personal network — family, friends, customers, collaborators, team |
+| [[wiki/people/README|people/]] | 52 | Personal network — family, friends, customers, collaborators, team |
 | [[wiki/minds/README|minds/]] | 11 | Public AI thought leaders tracked from afar |
 | [[wiki/orgs/README|orgs/]] | 21 | Customer, partner, and prospect organizations |
 | [[wiki/concepts/README|concepts/]] | 35 | Frameworks, mental models, products, programs |
 | [[wiki/radar/README|radar/]] | 2 | Append-only changelogs for fast-moving topics |
 | [[wiki/summaries/README|summaries/]] | 19 | One structured summary per raw source |
-| [[wiki/meetings/README|meetings/]] | 64 | Meeting records + async threads — decisions and action items |
+| [[wiki/meetings/README|meetings/]] | 66 | Meeting records + async threads — decisions and action items |
 
 See also: [[wiki/meetings/historical-transcripts-index]] — raw transcripts not yet promoted to structured pages (24 transcripts catalogued, 7 previously-orphan meeting pages linked).
 

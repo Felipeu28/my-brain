@@ -4,6 +4,67 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ---
 
+## 2026-04-28 — Run 26: Apr 27 email digest + Apr 28 Mark Polanco walkthrough + Apr 28 internal engineering review
+
+**Trigger:** Automated scan for unprocessed `raw/` files. Three new files since Run 25:
+- `raw/email-digest-2026-04-27.md` (committed Apr 27 18:31 by `email-digest` job — 24-hour window Apr 26–27)
+- `raw/teams-transcript-mark-polanco-andres-2026-04-28.md` (Apr 28 18:20 — 35-min Teams call, Mark Polanco × Andrés × Taiwo)
+- `raw/teams-transcript-website-update-review-call-2026-04-28.md` (Apr 28 18:20 — 58-min Teams call, internal Moil engineering review after Linda no-show)
+
+**Pages created (3):**
+- [[wiki/meetings/2026-04-28-mark-polanco-connectex-walkthrough]] — first customer-facing walkthrough of the new Connectex landing page + CRM/ticketing build since the Apr 9 close
+- [[wiki/meetings/2026-04-28-website-update-review-internal]] — internal engineering review (Linda no-show), covering Inna, Connect X, FitLogic, Siren Beauty, and the moilapp.com SEO crisis
+- [[wiki/people/victor-escamilla]] — civic contact at City of Buda (UDC update); referenced twice in MEMORY (Apr 24 + Apr 27 invites) but no page existed
+
+**Pages updated (10):**
+- [[wiki/people/mark-polanco]] — Apr 28 walkthrough section: site reaction (*"100x better"*), 9-month payment plan + EDC reimbursement pattern, BuiltFirst marketplace billing block, public ticketing portal decision, mid-May lunch
+- [[wiki/orgs/connectex]] — full Apr 28 build state (landing page, CRM, ticketing, Knowledge Base, Resources/blog plan), repo discipline issue, payment + EDC reimbursement pattern, phone update to 330-812-5750
+- [[wiki/people/jacob-oluwole]] — Apr 27 outbound day (8 emails to Inna/Linda/Andres/Sunfield Spray Tans), Apr 28 internal review (live Inna CRM QA as `jacob@mylab.com`, hardware constraint at 568px screen height, unifying-CRM question)
+- [[wiki/people/taiwo-ola-balogun]] — Apr 28 repo discipline hard rule, FitLogic deploy-tonight commitment + calendar etiquette ask, Inna readable WYSIWYG editor + variable selector pattern, joined Mark walkthrough as live tech support
+- [[wiki/people/kim-dowers]] — Apr 27 sent Zoom link; Apr 28 11 AM CT (= 9 AM AZ) Queen Creek workshop went live
+- [[wiki/people/john-costilla]] — Apr 27 *"FW: Follow Up — Let's discuss?"* (priority #1 in morning briefing, no reply captured Apr 27, carried into Apr 28)
+- [[wiki/people/inna-benyukhis]] — Apr 27 podcast videos delivered (Jacob sent links + thumbnails, portrait format for IG Reels); Apr 28 demo slipped 1 week (Inna unavailable; gives team time to fix contact-add hang + Gemini API key)
+- [[wiki/orgs/siren-beauty]] — brand kit delivered Apr 28; new `brand.md` repo pattern as the first per-customer brand-as-artifact (extends YC RFS *"build for agents"* framing)
+- [[wiki/orgs/fitlogic]] — Apr 28 deploy-tonight plan; readable WYSIWYG editor + variable selector pattern replicating from Inna; Apr 29 walkthrough still locked
+- [[wiki/moil/active-projects]] — Connectex row updated (custom landing page + CRM + ticketing + KB; 1 down + 3 quarterly; Apr 28 walkthrough done, go-live early next week pending Squarespace login). FitLogic row updated (deploy tonight Apr 28; Apr 29 walkthrough)
+- [[wiki/moil/gtm]] — new "Cold campaign — Apr 27 update" section (18+ chamber/EDC emails, biggest WI day at 8, first major MS volume at 4, Queen Creek workshop confirmed, Buda UDC civic engagement)
+- [[MEMORY]] — major restructure: closed completed items (Inna podcast videos delivered, HeyGen re-auth resolved); opened ~12 new Apr 28 items (Connectex go-live sprint, FitLogic deploy tonight, Inna fixes, moilapp.com SEO, John Costilla reply, Victor Escamilla reply, Siren brand.md). Now 155 lines (was 172).
+- [[index]] — Run 26 header, raw source count 315 → 318, wiki page count 266 → 269, meetings count 64 → 66, people count 51 → 52
+
+**Key intelligence from Run 26:**
+
+1. **Repo discipline becomes a non-negotiable team-wide rule (Apr 28).** [[wiki/people/taiwo-ola-balogun|Taiwo]] had moved the Connectex repo to "his landing page" but never pushed — Andres had zero visibility going into the 1:45 PM Mark walkthrough. *"I'm never going to push to main, but I need visibility."* This is the **fourth compounding ownership gate over 10 days**: Apr 18 time-zone boundary → Apr 21 revenue urgency → Apr 24 weekend ownership → Apr 28 repo push discipline.
+
+2. **moilapp.com SEO crisis surfaces as a workstream (Apr 28).** Andres ran a full SEO audit — only **~12 of ~60 pages indexed**, schemas wrong, robots.txt wrong. *"Two years of accumulated SEO debt — we're literally unfindable."* New rule: same SEO discipline applies to all client builds going forward. First time moilapp.com SEO is on the record as its own workstream.
+
+3. **Per-customer brand-kit-as-`brand.md` becomes a repo pattern (Apr 28).** Becky Torres sent her [[wiki/orgs/siren-beauty|Siren Beauty]] brand kit during the call; Andres plans to add it as `brand.md` in the repo. Extends the per-asset MD-file pattern (`user.md`, `design.md`, `agent.md`, `brand.md`) toward the **YC RFS framing** Andres riffed on mid-call: *"YC just published RFS. One category is startups that build for agents. We have all the data already. Once we upgrade the 21 questions flow, it's a chat. From there, game over."* Per-profile MD files = practical implementation of agent-readable Moil context.
+
+4. **Unified-CRM strategy is explicit, deliberate.** Jacob asked *"Why can't we have a unified CRM?"* during the Apr 28 call. Andres: *"That's the goal. Build Inna + Connect X + FitLogic, see which works, white-label, sell. Right now nothing works because we haven't finished a single project all the way through the finish line."* Multi-CRM approach codified as deliberate learning sprint, not duplication.
+
+5. **Connectex 9-month unconditional-support framing (Apr 28).** Payment terms locked: 1 down + 3 quarterly over 9 months. Andres explicit: *"Unconditional support during 9 months — we'll tweak as we go, not pay-locked tiers."* Combined with the **front-loaded-invoice + Buda EDC reimbursement** structure ($10K cap split across marketing/equipment/software), this becomes a **replicable customer-finance pattern** for any Buda-area customer eligible for EDC funds.
+
+6. **AI tier-1 ticket triage as the differentiated story (Connectex).** Verizon/Yealink troubleshooting docs upload to Knowledge Base → AI handles first-pass tickets → only escalations hit Mark. Public ticketing portal at `connectex.net/ticketing` doubles as a passive inbound-lead channel (any Google searcher becomes a tracked lead).
+
+7. **Apr 27 outbound = biggest Wisconsin day on record** (8 chamber emails to WI in one day) + first major Mississippi volume (4). State-cluster strategy is hardening: pick a state, push hard for one day, move to the next. Pairs with the Apr 28 [[wiki/people/kim-dowers|Kim Dowers]] / Queen Creek workshop going live — **first webinar/workshop conversion of an Apr cold-campaign target into a live customer event**.
+
+8. **Inna content delivery loop closing.** Apr 23 directive (*"create, send for review, then post on both"*) → Apr 27 Jacob delivered the videos with portrait format for IG Reels → Apr 28 4 PM CT in-person meeting confirmed. The 3-step approval-loop workflow is operating end-to-end. CRM demo slipped 1 week (Inna unavailable), giving the team time to fix the contact-add hang and Gemini API key Jacob hit live as `jacob@mylab.com`.
+
+9. **Hardware as a UX signal.** Taiwo diagnosed Jacob's HP screen height (568 px) as the reason scrolling feels cramped during Inna QA. First time the team has named a developer's screen size as a signal for product UX decisions.
+
+10. **John Costilla "Let's discuss?" still open.** Andres's closest friend AND Buda EDC inside contact pinged Apr 27 08:17 with an unspecified subject; flagged priority #1 in the morning briefing; **no reply captured in Apr 27 sent items**. Worth a same-day call back since it was specifically called out as priority #1 and remained open through the end of Apr 27.
+
+**Action-item delta:**
+- **Closed (3):** Inna podcast videos sliced + delivered (Apr 27 by Jacob); Apr 22 Helotes call already done; HeyGen re-auth (Apr 26).
+- **Opened (~12):** Mark Squarespace login + EDC reimbursement refile + troubleshooting docs; Andres ConnectX phone update + Resources/blog + invoice + push to Squarespace + mid-May lunch; Taiwo push ConnectX repo + add Gemini API key + deploy FitLogic tonight + fix Inna contact-add + Gemini key + add Jacob OAuth user; Andres moilapp.com SEO workstream; Andres Siren `brand.md` add; Andres reply John Costilla + Victor Escamilla.
+
+**MEMORY.md trim:** 172 → 155 lines (well under 200-line cap). Removed past-dated items (Apr 24 Sun Show, Apr 24 Megan × Electric Bricks, Apr 27 HIVE Lunch, Apr 24 Elisa Alaniz call slot — all dates already passed) and consolidated the Apr 21 firefight residue into a single carryover block.
+
+**Sync step:** `bash scripts/sync_wiki.sh` mirrors all updates into `quartz/content/`. **Health step:** `python3 scripts/kb-health.py` after sync.
+
+**Source count:** 315 → 318 (3 new). Wiki page count: 266 → 269 (+3 = 2 meeting + 1 person).
+
+---
+
 ## 2026-04-27 — Run 25: Apr 26 X bookmarks (cumulative 192-item re-capture; Apr 25–26 delta)
 
 **Trigger:** Automated scan for unprocessed `raw/` files. One new file since Run 24:
