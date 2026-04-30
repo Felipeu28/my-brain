@@ -6,7 +6,7 @@ tags:
 # Moil — Client Ledger & Active Projects
 
 **Type:** moil-topic (canonical hub)
-**Last updated:** 2026-04-15
+**Last updated:** 2026-04-29
 **Source:** [[raw/github-activity]] + `pi-workspace/github-repos.yaml` + [[wiki/moil/pipeline]] + Teams + email
 **Related:** [[wiki/moil/customers]], [[wiki/moil/pipeline]], [[wiki/andres/ANDRES]]
 
@@ -20,7 +20,7 @@ tags:
 
 | Client org | Owner / contact | Product | Repo | Deal value | Last biz touch | Status |
 |------------|-----------------|---------|------|------------|----------------|--------|
-| [[wiki/orgs/fitlogic|FitLogic / FxMed]] | [[wiki/people/megan-miller|Megan Miller]] | Moil hiring + Moil 360 + CRM (sequences, sender domain, Gmail/Calendar OAuth) | `Moil-Landingpages/fit-logic` | Active, first hire in progress | 2026-04-28 | 🟢 **Deploy tonight Apr 28**; Apr 29 walkthrough |
+| [[wiki/orgs/fitlogic|FitLogic / FxMed]] | [[wiki/people/megan-miller|Megan Miller]] + [[wiki/people/michelle-fitlogic\|Michelle]] (practice mgr) | Moil hiring + Moil 360 + CRM + Campaigns + Content360 | `Moil-Landingpages/fit-logic` | Active, first hire in progress | 2026-04-29 | 🟢 **DELIVERED Apr 29** — 88-min full walkthrough; first end-to-end Moil 360 delivery. P0 bug list open (pipeline-stage propagation, Content360 Feb-default, edit-image regen, Brand DNA color propagation) |
 | [[wiki/orgs/meridian-buda|Meridian Buda]] | [[wiki/people/travis-sutherland|Travis Sutherland]] | Full custom ticketed-events platform (Stripe, organizer dashboard) | `Moil-Landingpages/meridian-buda` | ✅ CLOSED Apr 9 | 2026-04-13 | 🟢 Active — building |
 | [[wiki/orgs/zoiwell|Zoiwell]] | [[wiki/people/travis-sutherland|Travis Sutherland]] | Moil 360 1-year license | (verify repo in yaml) | ~$900/yr | 2026-04-13 | 🟢 Active |
 | [[wiki/orgs/buda-edc|Buda EDC / HIVE]] | [[wiki/people/jennifer-storm|Jennifer Storm]] | Per-cohort licensing (B2G) + Incubator Strategist contract | `Moil-Landingpages/BUDAEDC`, `Moil-Code/buda-hive` | Per-cohort | 2026-04-15 (Board vote) | 🟢 Active — Cohort 4 Apr 20 |

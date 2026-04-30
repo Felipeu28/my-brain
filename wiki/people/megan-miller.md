@@ -3,15 +3,15 @@ tags:
   - graph/hub
   - person/customer
 status: active
-last_contact: 2026-04-23
+last_contact: 2026-04-29
 client: "[[wiki/orgs/fitlogic]]"
 ---
 # Megan Miller
 
 **Type:** person
-**Last updated:** 2026-04-23
-**Source:** [[raw/imessages-people-2026-04-09]], [[raw/email-history-6months-2026-04-14]], [[raw/teams-transcript-megan-miller-2026-04-21]], [[raw/teams-2026-04-21]], [[raw/email-digest-2026-04-20]], [[raw/email-digest-2026-04-21]], [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/email-digest-2026-04-22]]
-**Related:** [[wiki/orgs/fitlogic]], [[wiki/moil/customers]], [[wiki/moil/gtm]], [[wiki/concepts/smart-hiring]], [[wiki/concepts/moil360]], [[wiki/meetings/2026-04-21-megan-fitlogic-working-session]], [[wiki/meetings/2026-04-23-megan-crm-google-setup]]
+**Last updated:** 2026-04-29
+**Source:** [[raw/imessages-people-2026-04-09]], [[raw/email-history-6months-2026-04-14]], [[raw/teams-transcript-megan-miller-2026-04-21]], [[raw/teams-2026-04-21]], [[raw/email-digest-2026-04-20]], [[raw/email-digest-2026-04-21]], [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/email-digest-2026-04-22]], [[raw/teams-transcript-megan-moil-crm-test-and-delivery-2026-04-29]]
+**Related:** [[wiki/orgs/fitlogic]], [[wiki/moil/customers]], [[wiki/moil/gtm]], [[wiki/concepts/smart-hiring]], [[wiki/concepts/moil360]], [[wiki/people/michelle-fitlogic]], [[wiki/meetings/2026-04-21-megan-fitlogic-working-session]], [[wiki/meetings/2026-04-23-megan-crm-google-setup]], [[wiki/meetings/2026-04-29-megan-fitlogic-crm-delivery]]
 
 ---
 
@@ -130,3 +130,40 @@ Megan was the most-flagged person across the 12-day signal-brief series — alte
 - **Apr 26** silence anomaly: zero mentions in a 96-file day, two business days before Mon Apr 28 go-live and three before Wed Apr 29 9:30 AM CT handover. Daily-correlator: "the silence to break tomorrow."
 
 **Operating takeaway:** the correlator is reliable on Megan — every brief that flagged her was correctly anticipating workload spikes or pre-go-live silences. Future runs should weight repeat-customer anomalies higher.
+
+## April 29, 2026 — Full CRM Test & Delivery Walkthrough (88 min)
+
+Source: [[wiki/meetings/2026-04-29-megan-fitlogic-crm-delivery]] (Teams, 9:30–10:58 AM CT)
+
+End-to-end Moil 360 walkthrough with Megan + Michelle (her practice manager) + Andres. First Moil 360 customer to receive **CRM + Campaigns + Content360 in a single delivery session**. Michelle joined ~2/3 through and immediately became the most useful copy reviewer — Megan named her as the day-to-day platform operator going forward. **Time-to-handover: 8 days from Apr 21 first hands-on tour → Apr 29 customer-driven test post.**
+
+**Key decisions:**
+- **Posting cadence:** daily, not weekly. On image+video days, post twice.
+- **Email rollout:** ~10/day cadence, rotate variants — never blast 5,000 cold leads with the same template.
+- **Tone:** hook-style openers (*"You may be wondering…"*) over founder-led (*"I wanted to share…"*). Patient-focused, not Megan-focused. Megan: *"I don't care what you want. I want it to be about what they need."*
+- **Lead segmentation:** cold / previous client / active patient / inactive patient / IC-only / massage-only legacy.
+- **Default image format:** Stories (vertical) — performs best on Facebook/Instagram per Andres.
+- **Edits via free-form prompt box, not AI rewrites** — avoid unnecessary API calls.
+- **Test sends only against new test contacts**, never existing customers.
+
+**Bugs Megan hit live (now P0 — next paying Moil 360 customers will hit them):**
+- Pipeline-stage updates in pipeline view don't propagate back to the contact card / analytics
+- Content360 calendar defaulted to **February 28** instead of current month when she opened it
+- "Edit image" appears stuck on the original image (image-to-image vs. text-to-image regression)
+- Brand DNA colors may not propagate into Content360 image generator if the calendar was created before colors were saved
+
+**Feature requests surfaced:**
+- "Last contacted" filter/tab on contacts
+- `previous client` option on lead source / pipeline status
+- Customizable lead-source drop-down: social media, website, driving by, friend/family referral, networking event, **other (with free-text)**
+- Closed-captioning on generated videos (accessibility — Michelle's ask)
+- Centralized link library (paste once, reuse across emails)
+- Chat/FAQ widget tied to FitLogic site once Electric Bricks delivers; book-a-call → Megan's Square calendar
+
+**Operator-level signal:** Megan introduced [[wiki/people/michelle-fitlogic|Michelle]] as her practice manager (started ~2 weeks ago). Michelle drove the live test post and pushed the hook-style opener. **First explicit "owner trains a manager" delivery pattern at Moil 360** — onboarding videos/docs should target the manager, not just the owner.
+
+**Brand-voice rule for FitLogic:** Megan does not want "I" in cold-email opening lines. AI email generation prompt should bias against founder-led openers and toward reader-centered hooks. Worth capturing as a brand DNA field.
+
+**Patient-care interruption mid-call:** Michelle had to phone Buda Drug Store live during the meeting to arrange a medication refill (Megan handed off in real time). Confirms Michelle is a practice manager with prescription/pharmacy authority, not just admin.
+
+**Daily-correlator update:** Apr 29 was the **delivery moment** — multiple anomalies the correlator flagged (Apr 23 "one integrated launch", Apr 26 silence) resolved cleanly here. Megan/Michelle are now in active daily-use mode.

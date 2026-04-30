@@ -8,8 +8,8 @@ tags:
 # Renee Simmons
 
 **Type:** person
-**Last updated:** 2026-04-15
-**Source:** [[raw/email-digest-2026-04-14]]
+**Last updated:** 2026-04-29
+**Source:** [[raw/email-digest-2026-04-14]], [[raw/email-digest-2026-04-28]]
 **Related:** [[wiki/people/rick-bough]], [[wiki/moil/gtm]]
 
 ---
@@ -30,6 +30,12 @@ Extends Moil's presence in the Hays CISD ecosystem (alongside [[wiki/people/rick
 ## Action Items
 
 - [ ] **May 7, 2026** — Career Day presentation at CHES. Prep kid-friendly version of Moil / entrepreneurship talk.
+
+## Apr 28 — Career Day Letter Forwarded
+
+Source: [[raw/email-digest-2026-04-28]]
+
+Renee emailed Apr 28 08:29 (*"Re: Career Day Presentation, May 7"*) — forwarded a letter regarding Career Day at CHES, thanking Andres for supporting students. Logistics confirmation; nothing to action beyond prep.
 
 <!-- AUTO-ACTIVITY:start -->
 ## Recent Activity (auto)

@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-17
+last_contact: 2026-04-28
 tags:
   - graph/spoke
   - person/partner
@@ -8,8 +8,8 @@ tags:
 # Casey Earley
 
 **Type:** person
-**Last updated:** 2026-04-19
-**Source:** [[raw/buda-hive-edc-2026-04-11]], [[raw/email-digest-2026-04-17]]
+**Last updated:** 2026-04-29
+**Source:** [[raw/buda-hive-edc-2026-04-11]], [[raw/email-digest-2026-04-17]], [[raw/email-digest-2026-04-28]]
 **Related:** [[wiki/people/jacquie-martinez]], [[wiki/people/joshua-edmond]], [[wiki/concepts/buda-hive]]
 
 ---
@@ -36,6 +36,12 @@ Casey is the day-to-day operational person Andres and [[wiki/people/joshua-edmon
 ## Apr 17 — Cohort 4 Folder + Curriculum Coordination
 
 Casey shared the **Cohort 4** OneDrive folder with Andres (both view and edit access) Apr 17. Earlier that day she sent a "TEST" email confirming her new Administrative Coordinator signature block. Same day, [[wiki/people/joshua-edmond|Joshua Edmond]] sent her updated Weeks 1 & 2 print-outs with Business Model Canvas added to Week 2 — she is the curriculum-drop destination on the EDC side.
+
+## Apr 28 — Cohort 4 WhatsApp Invite
+
+Source: [[raw/email-digest-2026-04-28]]
+
+Casey emailed *"Buda HIVE: Cohort 4 WhatsApp Invite"* (Apr 28 13:01) — QR code / link to join the Cohort 4 WhatsApp group for streamlined cohort comms. Cohort 4 started Apr 20; this is the mid-program comms-channel rollout.
 
 ## Context Gaps
 

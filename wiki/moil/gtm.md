@@ -5,8 +5,8 @@ tags:
 # Moil — Go-to-Market Motion
 
 **Type:** moil-topic
-**Last updated:** 2026-04-28
-**Source:** [[raw/moil-documents-2026-04-09]], [[raw/moilapp-website-2026-04-09]], [[raw/teams-2026-04-12]], [[raw/email-digest-2026-04-14]], [[raw/email-digest-2026-04-15]], [[raw/email-digest-2026-04-17]], [[raw/email-digest-2026-04-20]], [[raw/email-digest-2026-04-21]], [[raw/email-digest-2026-04-22]]
+**Last updated:** 2026-04-29
+**Source:** [[raw/moil-documents-2026-04-09]], [[raw/moilapp-website-2026-04-09]], [[raw/teams-2026-04-12]], [[raw/email-digest-2026-04-14]], [[raw/email-digest-2026-04-15]], [[raw/email-digest-2026-04-17]], [[raw/email-digest-2026-04-20]], [[raw/email-digest-2026-04-21]], [[raw/email-digest-2026-04-22]], [[raw/email-digest-2026-04-27]], [[raw/email-digest-2026-04-28]]
 **Related:** [[wiki/moil/positioning]], [[wiki/moil/icp]], [[wiki/concepts/buda-hive]], [[wiki/people/travis-sutherland]], [[wiki/people/daniel-guadiano]], [[wiki/people/renee-simmons]], [[wiki/people/adam-maxon]], [[wiki/people/irma-mason]], [[wiki/people/elisa-alaniz]], [[wiki/people/katherine-silvas]], [[wiki/orgs/helotes-edc]]
 
 ---
@@ -190,6 +190,24 @@ Single-day outbound: **18+ chamber/EDC emails** across all four template variant
 - **Geographic footprint:** Wisconsin (8 — biggest state day this campaign), Mississippi (4 — first major MS volume), Kentucky (2), Texas (1 — Angleton), Iowa (1).
 
 **Signal:** Apr 27 is the campaign's **biggest Wisconsin push** (8 in one day) and the **first major MS volume** (4 in one day after one-offs in prior weeks). State-cluster strategy is hardening: pick a state, push hard for one day, move to the next. Pairs with the Queen Creek workshop going live Apr 28 — the **first webinar/workshop conversion** of an Apr cold-campaign target into a live customer event.
+
+### Cold campaign — Apr 28 update (close-out blitz; New England + EDC story)
+
+Source: [[raw/email-digest-2026-04-28]]
+
+Single-day outbound: **24 chamber/EDC sends**, dominated by close-out / breakup template variants — *"Should I close this out?"* / *"Last note"* (final-follow-up close) plus *"Interesting feedback from an EDC"* / *"Something we didn't expect"* (story-led re-engagement).
+
+- **Close-out template ("Should I close this out?" / "Last note") — 14 sends:** Jon Kostek (easthamptonchamber.org), Brian Reynolds (semtechsolutions.com), Maureen Sullivan (bedfordchamber.org), Maura Aldrich (falmouthchamber.com), Rob Donovan (cwimed.com), Michael Shirley + John O'Rourke (associatedenvironmentalsystems.com), Stephanie Nelson (melrosechamber.org), Ben Stuart (bostonchamber.com), Cheryl Osimo (mbcc.org), Rick Sullivan (westernmassedc.com), Hollie Jones (swcountychamber.com), Kylee Raulerson (southbaldwinchamber.com), John Hall (Apr 27 carry).
+- **EDC-story template ("Interesting feedback from an EDC" / "Something we didn't expect") — 6 sends:** Amy Gowan (aaedc.org — Anne Arundel MD), Xiomara Delobato + Reyad Shah (westernmassedc.com / metrowest.org), Leslie Gould (greaterbeverlychamber.com), Michael Bevilacqua (merrimackvalleychamber.com), Wanda Seliski (wahpetonbreckenridgechamber.com — ND).
+- **3-minute walkthrough demo:** Wanda Seliski (Wahpeton-Breckenridge Chamber).
+- **Operational meeting invites sent:** Taiwo (FW: Brand link / Taiwo & Andres prep, **3 send attempts** Apr 28 14:28–14:34 — duplicate-send signal worth a deliverability check), Adrienne Cisneros.
+- **Geographic footprint:** Massachusetts (10 — biggest state day this campaign and biggest single-state push of any campaign-day so far), Maryland (1), Alabama (1), Georgia (1), North Dakota (1), other (3).
+
+**Signal:** Apr 28 is the **biggest single-state push in the campaign so far (10 Massachusetts touches in one day)**, and is the first day where the **breakup-close template ("Should I close this out?" / "Last note")** dominated the variant mix. The state-cluster strategy from Apr 27 (Wisconsin + Mississippi) repeated: pick a state, push hard, move on. The breakup-close shift suggests Andres is pruning the long-tail of unanswered first-touch contacts to make room for net-new states — the campaign is **moving into its retention-vs-prune decision phase** rather than its expansion phase.
+
+**Operational note (deliverability):** Three back-to-back sends to Taiwo (14:28, 14:28, 14:34) for the same "Taiwo & Andres" Teams meeting invite suggests an Outlook/m365 deliverability hiccup or accidental retry. Worth a check before next outbound batch — the Apollo first-name mismatch flagged Apr 24 + this duplicate-send pattern are starting to look like a class of deliverability/QA issues.
+
+**Inbound from the campaign (Apr 28 vs. Apr 27):** Apr 28 inbound activity is dominated by **non-cold-campaign threads** (Mark Polanco, Inna, Linda website, Sunfield Spray Tans, John Costilla lunch, Renee Simmons Career Day, Casey Earley HIVE WhatsApp, Kim Dowers post-webinar Krystal hand-off, Victor Escamilla revised UDC invite). **Zero direct chamber-EDC inbound replies captured Apr 28** — the close-out variants haven't pulled new replies yet (sent same-day; reply window still open).
 
 ### Warm community referrals (Apr 19–21)
 

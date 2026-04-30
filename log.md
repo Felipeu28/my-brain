@@ -4,6 +4,68 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ---
 
+## 2026-04-29 — Run 27: Apr 28 email digest + Apr 29 Megan FitLogic CRM full delivery walkthrough
+
+**Trigger:** Automated scan for unprocessed `raw/` files. Two new files since Run 26:
+- `raw/email-digest-2026-04-28.md` (committed Apr 28 18:32 by `email-digest` job — 24-hour window Apr 27–28)
+- `raw/teams-transcript-megan-moil-crm-test-and-delivery-2026-04-29.md` (Apr 29 18:18 — 88-min Teams call: Megan + Michelle + Andres, FitLogic CRM full end-to-end delivery)
+
+**Pages created (2):**
+- [[wiki/meetings/2026-04-29-megan-fitlogic-crm-delivery]] — first end-to-end Moil 360 delivery walkthrough (CRM + Campaigns + Content360) in a single 88-min session; P0 bug list captured
+- [[wiki/people/michelle-fitlogic]] — FitLogic practice manager (~2 weeks tenure as of Apr 29); de facto day-to-day Moil 360 operator at FitLogic; first explicit "owner trains a manager" delivery pattern
+
+**Pages updated (10):**
+- [[wiki/people/megan-miller]] — Apr 29 full-delivery section: posting cadence (daily, not weekly), email rollout (~10/day rotate), tone (hook-style openers), lead segmentation taxonomy, P0 bugs hit live, feature requests, Michelle named as day-to-day operator, brand-voice rule
+- [[wiki/orgs/fitlogic]] — Apr 29 delivery state, brand-voice rules section, P0 bug list, lead segmentation, cadence rules, Michelle profile linked, Moil 360 status: delivered Apr 29 (was deploy-tonight Apr 28)
+- [[wiki/people/john-costilla]] — Apr 28 lunch reschedule (resolves the Apr 27 cryptic *"Let's discuss?"* — was lunch logistics; Thursday they're out, Brian booked Friday)
+- [[wiki/people/kim-dowers]] — Apr 28 17:36 post-webinar follow-up looped Andres + Jacob to assist **Krystal** (first post-webinar conversion lead from QC Chamber)
+- [[wiki/people/casey-earley]] — Apr 28 13:01 Cohort 4 WhatsApp invite sent (mid-program comms-channel rollout)
+- [[wiki/people/renee-simmons]] — Apr 28 08:29 Career Day letter forwarded; logistics confirmation for May 7
+- [[wiki/moil/gtm]] — new "Cold campaign — Apr 28 update" section: 24 chamber/EDC sends; **biggest single-state push of the campaign so far (10 Massachusetts touches in one day)**; first day where breakup-close template ("Should I close this out?" / "Last note") dominated the variant mix; deliverability hiccup signal (3 back-to-back Taiwo invites)
+- [[wiki/moil/active-projects]] — FitLogic row: status flipped from "deploy tonight Apr 28" to **"DELIVERED Apr 29 — first end-to-end Moil 360 delivery"**; Michelle linked as practice manager
+- [[MEMORY]] — major restructure: closed Apr 28 FitLogic deploy items + Apr 29 handover (delivered); opened ~12 P0 bug + feature-request items from the live walkthrough; closed John Costilla "FW: Follow Up" (resolved as lunch reschedule); opened John Costilla alternate-day pick + Kim Dowers Krystal handoff + Victor Escamilla revised invite; added May 4 (Christine StJohn lunch) + reorganized May 7 carryover. 168 lines (was 155).
+- [[index]] — Run 27 header, raw source count 318 → 384 (note: prior count 318 was tracking only ingested non-onedrive raw files; reconciled to actual file count), wiki page count 268 → 270 (+2 = 1 meeting + 1 person), meetings count 66 → 67, people count 52 → 53
+
+**Key intelligence from Run 27:**
+
+1. **🟢 First end-to-end Moil 360 delivery completed (Apr 29).** Megan + Michelle + Andres, 88 min. CRM + Campaigns + Content360 walked through with the customer doing the clicks. **Time-to-handover: 8 days from Apr 21 first hands-on tour → Apr 29 customer-driven test post.** Replicable benchmark for future Moil 360 deliveries.
+
+2. **P0 bug list discovered live (now class-wide, not FitLogic-specific):**
+   - Pipeline-stage updates in pipeline view don't propagate back to contact card / analytics roll-up
+   - Content360 calendar defaulted to **Feb 28** instead of current month (stale date param)
+   - "Edit image" appears stuck on the original image (image-to-image vs. text-to-image regression — Megan tried "happy gut" + "image of a person who is happy" — both produced continuations)
+   - Brand DNA colors may not propagate to Content360 image generator if calendar created before colors saved
+   
+   **Why this matters:** the **next paying Moil 360 customers will hit the same bugs**, not just FitLogic. P0 priority because each one degrades the live-walkthrough demo.
+
+3. **Practice-manager pattern emerges (Apr 29).** Michelle (FitLogic practice manager, ~2 weeks tenure) joined ~2/3 through and immediately became the most useful copy reviewer — pushed the **hook-style opener** framing (*"You may be wondering…"*), drove the live test post end-to-end, and surfaced **closed-captioning as accessibility-blocker** feedback (first time accessibility surfaced as Moil 360 customer feedback). Megan: *"That's why I want you here … she's better at putting my thoughts into words."* **First explicit "owner trains a manager" delivery pattern at Moil 360** — onboarding videos/docs should target the manager, not just the owner.
+
+4. **Brand-voice rule for FitLogic AI email generation captured.** Megan does not want "I" in cold-email opening lines: *"Sometimes I'm like, well, I don't care what you want."* Wants reader-centered copy. Hook-style openers (*"You may be wondering…"* / *"Are you still struggling with…"*); never *"I wanted to share…"*. Worth capturing as a Brand DNA field — and worth replicating to other Moil 360 customers (Inna, Roxana, Becky) who might have the same preference.
+
+5. **Apr 28 outbound = biggest single-state push of the campaign so far (10 Massachusetts touches in one day).** First day where the **breakup-close variants** ("Should I close this out?" / "Last note") dominated the mix (14 of 24 sends). Signals the campaign is moving into its **retention-vs-prune decision phase** rather than expansion phase. State-cluster strategy from Apr 27 (WI + MS) repeated cleanly.
+
+6. **Apr 28 deliverability signal — Taiwo invite sent 3 times in 6 minutes (14:28, 14:28, 14:34).** Outlook/m365 hiccup or accidental retry. Combined with the Apr 24 Apollo first-name mismatch (greeted "Joseph" but sent to `wilkinsonroger860@gmail.com`), starts to look like a **class of deliverability/QA issues** worth a dedicated sweep before next outbound batch.
+
+7. **John Costilla "FW: Follow Up — Let's discuss?" resolved as lunch logistics (Apr 28 reply).** The cryptic Apr 27 forward (priority #1 in morning briefing) was Brian-Friday-blocked lunch scheduling, not a strategic Buda EDC pivot. Lunch still open — Andres needs to pick an alternate day next week.
+
+8. **Square calendar surfaces as Moil 360 integration target.** Megan books patient consultations through Square; the future FitLogic chat widget will need to deep-link "book a call" → Square calendar. May overlap with other Moil 360 customers running on Square (Becky / Siren Beauty, who runs nail/lash booking, plausible).
+
+9. **LinkedIn distribution is a positive surprise from Megan/Michelle.** *"I see LinkedIn as an option here … I use LinkedIn a lot. I like that you can maybe do it different."* Multi-platform posting from Content360 lands well. First customer signal that LinkedIn-different-message-from-Facebook is a feature, not a chore.
+
+10. **Kim Dowers post-webinar conversion path is now live.** Apr 28 17:36 Kim looped Andres + Jacob to assist **Krystal** (a QC Chamber member). **First post-Apr-28-webinar conversion candidate** — directly validates the Buda HIVE → out-of-state EDC replication thesis (see [[wiki/orgs/queen-creek-chamber]]).
+
+**Action-item delta:**
+- **Closed (5):** Apr 29 FitLogic handover (delivered); Apr 28 night Taiwo deploy (verified live); Taiwo calendar etiquette (resolved); John Costilla "FW: Follow Up" (resolved as lunch logistics); Apr 28 11 AM CT QC Chamber workshop (went live).
+- **Opened (~14):** 4 P0 bugs (pipeline-stage propagation, Feb-default calendar, edit-image regression, Brand DNA color propagation); 5 features (Last contacted, previous-client status, lead-source dropdown, link library, closed captioning); Andres extract patients vs. non-patients; Andres send Megan platform access; Andres FAQ widget + Square book-a-call; Megan brand colors / Charm export / IC-only tagging / Jill bulk-tag; Andres pick alternate John Costilla lunch day; Andres reply Kim Dowers / Krystal handoff; Taiwo professionalism note (hot mic on client call).
+
+**MEMORY.md trim:** 155 → 168 lines (under 200-line cap). Removed completed Apr 28 deploy items, deduped Renee Simmons (already in Next 2-3 weeks), folded redundant "FitLogic CRM sprint" block into the new Apr 29 P0 section.
+
+**Sync step:** `bash scripts/sync_wiki.sh` mirrors all updates into `quartz/content/`. **Health step:** `python3 scripts/kb-health.py` after sync.
+
+**Source count:** 318 → 383 (reconciled to kb-health canonical .md count; 2 new files this run). Wiki page count: 268 → 270 (+2 = 1 meeting + 1 person).
+
+---
+
 ## 2026-04-28 — Run 26: Apr 27 email digest + Apr 28 Mark Polanco walkthrough + Apr 28 internal engineering review
 
 **Trigger:** Automated scan for unprocessed `raw/` files. Three new files since Run 25:

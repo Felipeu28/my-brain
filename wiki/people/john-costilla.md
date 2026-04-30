@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-27
+last_contact: 2026-04-28
 tags:
   - graph/hub
   - person/personal
@@ -8,8 +8,8 @@ tags:
 # John Costilla
 
 **Type:** person
-**Last updated:** 2026-04-28
-**Source:** [[raw/imessages-people-2026-04-09]], [[raw/email-history-2months-2026-04-12.md]], [[raw/email-digest-2026-04-15]], [[raw/email-digest-2026-04-16]], [[raw/email-digest-2026-04-27]]
+**Last updated:** 2026-04-29
+**Source:** [[raw/imessages-people-2026-04-09]], [[raw/email-history-2months-2026-04-12.md]], [[raw/email-digest-2026-04-15]], [[raw/email-digest-2026-04-16]], [[raw/email-digest-2026-04-27]], [[raw/email-digest-2026-04-28]]
 **Related:** [[wiki/moil/positioning]], [[wiki/orgs/buda-edc]], [[wiki/concepts/buda-hive]], [[wiki/people/joseph-arnke]]
 
 ---
@@ -43,3 +43,9 @@ John is Andres's emotional anchor, community connector, **and an inside contact 
 Source: [[raw/email-digest-2026-04-27]]
 
 John forwarded Andres an unspecified thread Apr 27 08:17 with the note *"Let's discuss?"* (subject: "FW: Follow Up"). Flagged as priority #1 in Andres's morning briefing the same day. **No reply captured in Andres's Apr 27 sent items** — open thread carried into Apr 28. Worth proactive call-back since John is both Andres's closest friend and the inside contact at Buda EDC.
+
+## Apr 28 — Lunch reschedule
+
+Source: [[raw/email-digest-2026-04-28]]
+
+John replied Apr 28 08:23 (*"Re: Lunch with Andres and John"*) — next week works better; Thursday they're out, **Brian booked Friday**, so they need to pick another day. Likely the resolution to the cryptic Apr 27 *"Let's discuss?"* forward (the unspecified thread was probably the lunch logistics). New action: **Andres picks an alternate day next week and replies.**
