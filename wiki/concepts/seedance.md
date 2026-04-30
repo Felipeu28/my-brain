@@ -6,7 +6,7 @@ tags:
 
 **Type:** concept (AI tool)
 **Last updated:** 2026-04-12
-**Source:** [[raw/x-bookmarks-2026-04-11 copy]]
+**Source:** [[raw/x-bookmarks-2026-04-11]]
 **Related:** [[wiki/concepts/ai-video-tools]], [[wiki/concepts/content360]], [[wiki/moil/positioning]]
 
 ---

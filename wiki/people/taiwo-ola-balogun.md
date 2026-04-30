@@ -9,7 +9,7 @@ tags:
 
 **Type:** person
 **Last updated:** 2026-04-28
-**Source:** [[raw/meetings/]] (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026), [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/teams-2026-04-24]] (9 messages 1:1, Apr 24), [[raw/teams-2026-04-26]] (4 messages 1:1, Apr 26), [[raw/teams-transcript-website-update-review-call-2026-04-28]], [[raw/teams-transcript-mark-polanco-andres-2026-04-28]]
+**Source:** `raw/meetings/` (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026), [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/teams-2026-04-24]] (9 messages 1:1, Apr 24), [[raw/teams-2026-04-26]] (4 messages 1:1, Apr 26), [[raw/teams-transcript-website-update-review-call-2026-04-28]], [[raw/teams-transcript-mark-polanco-andres-2026-04-28]]
 **Related:** [[wiki/people/adeleke-tolulope]], [[wiki/people/jacob-oluwole]], [[wiki/moil/product-roadmap]], [[wiki/meetings/2026-04-23-megan-crm-google-setup]]
 
 ---

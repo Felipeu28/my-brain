@@ -109,6 +109,12 @@ def wikilink_to_path(target):
         WIKI_DIR / t / "index.md",
         WIKI_DIR / t / "README.md",
     ]
+    # raw/ targets may also exist only in quartz/content/raw/ (e.g. signal-briefs/,
+    # briefings/, clippings/ are written there directly by automation, not via raw/).
+    # Both contribute to the deployed site, so accept either.
+    if t.startswith("raw/"):
+        candidates.append(KB_DIR / "quartz" / "content" / t_md)
+        candidates.append(KB_DIR / "quartz" / "content" / t / "index.md")
     for c in candidates:
         if c.exists():
             return c

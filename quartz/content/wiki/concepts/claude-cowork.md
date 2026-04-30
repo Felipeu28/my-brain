@@ -10,7 +10,7 @@ tags:
 
 **Type:** concept
 **Last updated:** 2026-04-11
-**Source:** [[raw/brain-guide.md]], [[raw/x-bookmarks-2026-04-11 copy.md]]
+**Source:** [[raw/brain-guide.md]], [[raw/x-bookmarks-2026-04-11.md]]
 **Related:** [[wiki/concepts/claude-code]], [[wiki/concepts/brain-architecture]], [[wiki/concepts/llm-knowledge-bases]]
 
 ---

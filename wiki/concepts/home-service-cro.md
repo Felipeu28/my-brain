@@ -6,7 +6,7 @@ tags:
 
 **Type:** concept (marketing framework)
 **Last updated:** 2026-04-12
-**Source:** [[raw/x-bookmarks-2026-04-11 copy]]
+**Source:** [[raw/x-bookmarks-2026-04-11]]
 **Related:** [[wiki/moil/icp]], [[wiki/concepts/smb-ai-audits]], [[wiki/concepts/ai-cold-outreach]]
 
 ---

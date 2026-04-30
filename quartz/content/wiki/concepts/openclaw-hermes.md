@@ -10,7 +10,7 @@ tags:
 
 **Type:** concept
 **Last updated:** 2026-04-11
-**Source:** [[raw/x-bookmarks-2026-04-11 copy.md]], [[raw/x-bookmarks-2026-04-11.md]]
+**Source:** [[raw/x-bookmarks-2026-04-11.md]], [[raw/x-bookmarks-2026-04-11.md]]
 **Related:** [[wiki/concepts/claude-code]], [[wiki/concepts/claude-cowork]], [[wiki/concepts/managed-agents]]
 
 ---

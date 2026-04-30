@@ -6,7 +6,7 @@ tags:
 
 **Type:** concept
 **Last updated:** 2026-04-12
-**Source:** [[raw/x-bookmarks-2026-04-11 copy]]
+**Source:** [[raw/x-bookmarks-2026-04-11]]
 **Related:** [[wiki/concepts/buda-hive]], [[wiki/concepts/obsidian]], [[wiki/concepts/brain-architecture]], [[wiki/minds/andrej-karpathy]]
 
 ---

@@ -6,7 +6,7 @@ tags:
 
 **Type:** moil-topic
 **Last updated:** 2026-04-15
-**Source:** [[raw/meetings/]] (25 meeting transcripts, Aug 2024–May 2025), [[raw/teams-2026-04-12]] (Apr 2026 engineering sprint), [[raw/teams-2026-04-15]], [[raw/odtr-moilapp_SEO_Implementation_Plan_April2026]]
+**Source:** `raw/meetings/` (25 meeting transcripts, Aug 2024–May 2025), [[raw/teams-2026-04-12]] (Apr 2026 engineering sprint), [[raw/teams-2026-04-15]], [[raw/odtr-moilapp_SEO_Implementation_Plan_April2026]]
 **Related:** [[wiki/moil/positioning]], [[wiki/moil/gtm]], [[wiki/people/adeleke-tolulope]], [[wiki/people/jacob-oluwole]]
 
 ---

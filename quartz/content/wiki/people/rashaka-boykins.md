@@ -10,7 +10,7 @@ referred_by: "[[wiki/people/daniel-mann]]"
 
 **Type:** person
 **Last updated:** 2026-04-25
-**Source:** [[raw/meetings/]], [[raw/email-digest-2026-04-21]], [[raw/email-digest-2026-04-22]], [[raw/email-digest-2026-04-24]]
+**Source:** `raw/meetings/`, [[raw/email-digest-2026-04-21]], [[raw/email-digest-2026-04-22]], [[raw/email-digest-2026-04-24]]
 **Related:** [[wiki/moil/pipeline]], [[wiki/moil/customers]], [[wiki/moil/gtm]]
 
 ---

@@ -6,7 +6,7 @@ tags:
 
 **Type:** moil-topic
 **Last updated:** 2026-04-12
-**Source:** [[raw/moil-documents-2026-04-09]], [[raw/moilapp-website-2026-04-09]], [[raw/meetings/]] (25 meeting transcripts, Aug 2024–May 2025)
+**Source:** [[raw/moil-documents-2026-04-09]], [[raw/moilapp-website-2026-04-09]], `raw/meetings/` (25 meeting transcripts, Aug 2024–May 2025)
 **Related:** [[wiki/moil/icp]], [[wiki/moil/gtm]], [[wiki/concepts/buda-hive]]
 
 ---

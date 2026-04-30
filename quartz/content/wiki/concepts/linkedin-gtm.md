@@ -6,7 +6,7 @@ tags:
 
 **Type:** concept (marketing framework)
 **Last updated:** 2026-04-24
-**Source:** [[raw/x-bookmarks-2026-04-11 copy]], [[raw/x-bookmarks-2026-04-24]]
+**Source:** [[raw/x-bookmarks-2026-04-11]], [[raw/x-bookmarks-2026-04-24]]
 **Related:** [[wiki/moil/gtm]], [[wiki/concepts/gtm-system-multi-channel]], [[wiki/concepts/ai-cold-outreach]]
 
 ---

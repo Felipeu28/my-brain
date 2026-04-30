@@ -6,7 +6,7 @@ tags:
 
 **Type:** concept (business model)
 **Last updated:** 2026-04-12
-**Source:** [[raw/x-bookmarks-2026-04-11 copy]]
+**Source:** [[raw/x-bookmarks-2026-04-11]]
 **Related:** [[wiki/moil/icp]], [[wiki/moil/gtm]], [[wiki/concepts/ai-cold-outreach]], [[wiki/concepts/content360]]
 
 ---

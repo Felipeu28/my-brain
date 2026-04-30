@@ -7,7 +7,7 @@ tags:
 
 **Type:** moil-topic (canonical hub)
 **Last updated:** 2026-04-29
-**Source:** [[raw/github-activity]] + `pi-workspace/github-repos.yaml` + [[wiki/moil/pipeline]] + Teams + email
+**Source:** `raw/github-activity` + `pi-workspace/github-repos.yaml` + [[wiki/moil/pipeline]] + Teams + email
 **Related:** [[wiki/moil/customers]], [[wiki/moil/pipeline]], [[wiki/andres/ANDRES]]
 
 ---

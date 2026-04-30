@@ -6,7 +6,7 @@ tags:
 
 **Type:** concept (AI tool — open source)
 **Last updated:** 2026-04-12
-**Source:** [[raw/x-bookmarks-2026-04-11 copy]]
+**Source:** [[raw/x-bookmarks-2026-04-11]]
 **Related:** [[wiki/concepts/openclaw-hermes]], [[wiki/concepts/local-ai-inference]], [[wiki/concepts/managed-agents]]
 
 ---

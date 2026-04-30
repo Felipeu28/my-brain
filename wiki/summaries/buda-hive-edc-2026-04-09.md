@@ -10,7 +10,7 @@ tags:
 
 **Type:** summary
 **Last updated:** 2026-04-11
-**Source:** [[raw/buda-hive-edс-2026-04-09.md]] (cyrillic "с" in filename)
+**Source:** [[raw/buda-hive-edc-2026-04-09.md]] (originally had a Cyrillic "с" in filename — fixed 2026-04-30)
 **Status:** SUPERSEDED by [[wiki/summaries/buda-hive-edc-2026-04-11]]
 **Related:** [[wiki/concepts/buda-hive]], [[wiki/orgs/buda-edc]], [[wiki/people/jennifer-storm]], [[wiki/people/jacquie-martinez]], [[wiki/people/joshua-edmond]]
 

@@ -6,7 +6,7 @@ tags:
 
 **Type:** concept (framework / product pattern)
 **Last updated:** 2026-04-12
-**Source:** [[raw/x-bookmarks-2026-04-11 copy]]
+**Source:** [[raw/x-bookmarks-2026-04-11]]
 **Related:** [[wiki/concepts/content360]], [[wiki/concepts/ai-video-tools]], [[wiki/concepts/claude-cowork]], [[wiki/moil/gtm]]
 
 ---

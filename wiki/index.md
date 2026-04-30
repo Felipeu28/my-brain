@@ -207,7 +207,7 @@ This is the master index of everything in the Brain. Each entry is a one-line TL
 - [[summaries/teams-2026-04-12|Summary — Teams Digest (Apr 5–12, 2026) — Full 415-Message Ingestion]] — File: raw/teams-2026-04-12.md
 - [[summaries/brain-guide|Summary — The Brain System: A Practical Guide for Andres]] — A meta-guide describing Andres's personal "Brain" system: a five-layer pipeline that turns weekly X bookmarks and other raw signal into a compounding…
 - [[summaries/x-bookmarks-2026-04-11|Summary — X Bookmarks Digest (Apr 11, 2026 — 129 items, "copy" = fuller version)]] — Captured by Claude Cowork for @roarkittys. 129 bookmarks, period Mar 26 – Apr 11, 2026. Categorized across 7 buckets + viral-highlight table + Themes &…
-- [[summaries/x-bookmarks-deep-compile-2026-04-12|X Bookmarks Deep Compile — April 12, 2026]] — Source files: raw/x-bookmarks-2026-04-11 copy (129 items, preferred), raw/x-bookmarks-2026-04-11 (114 items)
+- [[summaries/x-bookmarks-deep-compile-2026-04-12|X Bookmarks Deep Compile — April 12, 2026]] — Source files: raw/x-bookmarks-2026-04-11 (129 items, preferred), raw/x-bookmarks-2026-04-11 (114 items)
 
 ## Minds (10 pages)
 

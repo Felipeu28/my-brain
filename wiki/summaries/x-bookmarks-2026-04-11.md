@@ -10,7 +10,7 @@ tags:
 
 **Type:** summary
 **Last updated:** 2026-04-11
-**Source:** [[raw/x-bookmarks-2026-04-11 copy.md]]
+**Source:** [[raw/x-bookmarks-2026-04-11.md]]
 **Note:** Despite the "copy" name, this is the **fuller** of the two Apr 11 bookmark files — 129 items vs 114, with direct URLs, view counts, and explicit Themes & Takeaways. Prefer this file for synthesis.
 **Related:** [[wiki/concepts/claude-code]], [[wiki/concepts/claude-cowork]], [[wiki/concepts/managed-agents]], [[wiki/concepts/llm-knowledge-bases]], [[wiki/concepts/openclaw-hermes]], [[wiki/concepts/ai-video-tools]], [[wiki/concepts/ai-cold-outreach]]
 

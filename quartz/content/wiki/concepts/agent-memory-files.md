@@ -6,7 +6,7 @@ tags:
 
 **Type:** concept (AI architecture pattern)
 **Last updated:** 2026-04-12
-**Source:** [[raw/x-bookmarks-2026-04-11 copy]]
+**Source:** [[raw/x-bookmarks-2026-04-11]]
 **Related:** [[wiki/concepts/brain-architecture]], [[wiki/concepts/claude-code]], [[wiki/concepts/managed-agents]]
 
 ---

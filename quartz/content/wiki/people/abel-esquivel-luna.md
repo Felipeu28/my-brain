@@ -9,7 +9,7 @@ tags:
 
 **Type:** person
 **Last updated:** 2026-04-12
-**Source:** [[raw/meetings/transcript-2024-11-22-abel-and-andr-s-follow-up-november.md]], [[raw/meetings/2024-08-07-abel-zachary-sales-close-notes-by-gemini.md]]
+**Source:** [[raw/meetings/transcript-2024-11-22-abel-and-andr-s-follow-up-november.md]]
 **Related:** [[wiki/meetings/2024-11-22-abel-zachary-november-followup]], [[wiki/meetings/2024-08-07-abel-zachary-sales-close]], [[wiki/moil/customers]]
 
 ---

@@ -10,7 +10,7 @@ tags:
 
 **Type:** concept
 **Last updated:** 2026-04-24
-**Source:** [[raw/x-bookmarks-2026-04-11 copy.md]], [[raw/x-bookmarks-2026-04-11.md]], [[raw/brain-guide.md]], [[raw/x-bookmarks-2026-04-24]]
+**Source:** [[raw/x-bookmarks-2026-04-11.md]], [[raw/x-bookmarks-2026-04-11.md]], [[raw/brain-guide.md]], [[raw/x-bookmarks-2026-04-24]]
 **Related:** [[wiki/concepts/claude-cowork]], [[wiki/concepts/managed-agents]], [[wiki/concepts/llm-knowledge-bases]], [[wiki/concepts/openclaw-hermes]], [[wiki/concepts/brain-architecture]]
 
 ---

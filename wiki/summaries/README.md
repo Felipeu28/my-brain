@@ -46,7 +46,7 @@ Every file in `../raw/` has a matching summary here. Summaries are the Layer 3 "
 
 ## Known raw/ quirks (documented, not fixed — CLAUDE.md forbids modifying raw/)
 - `raw/buda-hive-edс-2026-04-09.md` — Cyrillic "с" in filename
-- `raw/x-bookmarks-2026-04-11 copy.md` — the fuller version; prefer over its sibling
+- `raw/x-bookmarks-2026-04-11.md` — the fuller version; prefer over its sibling
 
 ## Cadence
 - New summaries appear automatically during ingestion runs

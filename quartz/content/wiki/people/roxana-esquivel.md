@@ -9,7 +9,7 @@ tags:
 
 **Type:** person
 **Last updated:** 2026-04-14
-**Source:** [[raw/meetings/]] — Moil Intro Call
+**Source:** `raw/meetings/` — Moil Intro Call
 **Related:** [[wiki/moil/pipeline]], [[wiki/moil/customers]]
 
 ---

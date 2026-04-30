@@ -264,7 +264,7 @@ Source: [[raw/email-digest-2026-04-17]]
 
 ## GTM updates from meeting transcripts (Aug 2024–May 2025)
 
-Source: [[raw/meetings/]] — 25 meeting transcripts
+Source: `raw/meetings/` — 25 meeting transcripts
 
 ### New channels identified
 
