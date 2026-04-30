@@ -1,0 +1,481 @@
+---
+type: transcript
+---
+
+# 20241217 - Dev call 12_17 - Transcript
+
+**Source:** OneDrive transcript
+**Date:** 2024-12-17
+**Original file:** 20241217 - Dev call 12_17 - Transcript.docx
+
+---
+
+Dec 17, 2024 | Dev call 12/17
+Invited Guests:
+Live Notes | Read Meeting Report
+————————
+Live Transcript
+Andrés Felipe Urrego Martínez (10:46 AM): but the
+Andrés Felipe Urrego Martínez (10:46 AM): You're welcome.
+Andrés Felipe Urrego Martínez (10:46 AM): Oh.
+Andrés Felipe Urrego Martínez (10:45 AM): that.
+Andrés Felipe Urrego Martínez (10:45 AM): Thank you.
+Abiodun Solomon (10:44 AM): on it.
+Abiodun Solomon (10:44 AM): Thank you very much.
+Andrés Felipe Urrego Martínez (10:44 AM): I'll talk to you later. Bye bye.
+Abiodun Solomon (10:44 AM): All right, sounds good man.
+Andrés Felipe Urrego Martínez (10:44 AM): I'll talk to you you later. Please let me know if anything comes I'll message you once the video's ready. All right, sir.
+Abiodun Solomon (10:44 AM): Thank you so much. Thank you.
+Andrés Felipe Urrego Martínez (10:44 AM): I mean just just yeah and then again we can always jump on a quick call, do the same things, go from there.
+Abiodun Solomon (10:44 AM): Yes, yes. on friday actually yes yeah
+Andrés Felipe Urrego Martínez (10:44 AM): Well, sounds good. Thank you so much. Give me posted. Did you like those two extra ideas? that week Did you like the two ideas we just created for the week?
+Abiodun Solomon (10:44 AM): All right.
+Andrés Felipe Urrego Martínez (10:43 AM): Just a phone call away, Lance. Just a phone call away.
+Andrés Felipe Urrego Martínez (10:43 AM): I have it, I'll just, you know, do it as are translated to Spanish to have that ready for you. you, then you can do your thing. But but yeah, I mean, again, you know, let me know. questions come up if you need anything. Obviously, while I'm just.
+Andrés Felipe Urrego Martínez (10:43 AM): Okay, so I'm creating, I'm working on that video right now.
+Andrés Felipe Urrego Martínez (10:43 AM): it like, you know, it's sad.
+Andrés Felipe Urrego Martínez (10:43 AM): You know, just because again, you know, that's where most of our market.
+Abiodun Solomon (10:43 AM): Will you watch me, son?
+Andrés Felipe Urrego Martínez (10:43 AM): Oh, yes.
+Andrés Felipe Urrego Martínez (10:43 AM): Yeah, so then once you have it ready I can post that as well. I honestly, I would actually even invite you to think of the Spanish as the top priority always.
+Abiodun Solomon (10:43 AM): Okay, perfect.
+Abiodun Solomon (10:42 AM): I converted to Spanish and done with it. All I need to do so just put the at the ending the closing and then overlay it with landing page and what what's that thing i should be doing like i'm now
+Andrés Felipe Urrego Martínez (10:42 AM): and I'll work on the video right now. Did you create the Spanish video too? last week? Yes, yes.
+UNKNOWN_SPEAKER (10:42 AM): You.
+Andrés Felipe Urrego Martínez (10:42 AM): to construction or our market, but then at the same time, You know, it's fun. I mean, it's the part. everybody knows it's in the U.S.
+Andrés Felipe Urrego Martínez (10:42 AM): And that's the kind of trivia we should do, right?
+Abiodun Solomon (10:42 AM): Okay.
+Abiodun Solomon (10:41 AM): How many screwdrivers does it take to build a BIOS?
+Abiodun Solomon (10:41 AM): Yes, sir.
+Andrés Felipe Urrego Martínez (10:41 AM): Does that make sense?
+Andrés Felipe Urrego Martínez (10:41 AM): There you go. And then this is the cap.
+Andrés Felipe Urrego Martínez (10:41 AM): This is the image.
+Andrés Felipe Urrego Martínez (10:41 AM): and then we can use this for the caption. Okay. Okay, and then for For the trivia question, we'll do this. is, how many skill work because then you take to build the Empire State, then you can have...
+Andrés Felipe Urrego Martínez (10:41 AM): projected by 7%. thousands of opportunities for skilled workers. That can be the fun fact.
+Andrés Felipe Urrego Martínez (10:40 AM): There you go.
+Andrés Felipe Urrego Martínez (10:40 AM): Or, or maybe you can just do this. Here we go.
+Andrés Felipe Urrego Martínez (10:40 AM): for the for the fun fact right why they use construct direction is booming in 2024.
+Abiodun Solomon (10:40 AM): Well, just the thought, I mean, the...
+Andrés Felipe Urrego Martínez (10:40 AM): Yes. But what do you think of that? I think it looks pretty cool.
+Abiodun Solomon (10:40 AM): See what I'm saying?
+Andrés Felipe Urrego Martínez (10:40 AM): be that long, obviously. I just want you to look and see what from there. used for the images unless you want to use that. do like a little short carousel of fun. like three images. with the context of the caption.
+Andrés Felipe Urrego Martínez (10:39 AM): Caption. Okay. On this one, look Thursday, Ablet, and look I'm adding on the caption, the caption doesn't need to.
+UNKNOWN_SPEAKER (10:39 AM): Okay.
+Andrés Felipe Urrego Martínez (10:39 AM): Guys developers if you want to jump on the call you can i'll finish here with avalanche. I should have said that earlier, whenever we're done with your. the fed
+UNKNOWN_SPEAKER (10:39 AM): Peace.
+Andrés Felipe Urrego Martínez (10:39 AM): Okay.
+Andrés Felipe Urrego Martínez (10:38 AM): Okay, I'm adding Wednesday and Thursday real quick, so let me know. that's Thank you everyone.
+Andrés Felipe Urrego Martínez (10:38 AM): for that one. Now, Wednesday. Wednesday, okay, so that's the show. video I got the script now so let me get
+Andrés Felipe Urrego Martínez (10:38 AM): I'm reviewing now Tuesday. skill labor industry. Okay, here's our caption.
+Andrés Felipe Urrego Martínez (10:38 AM): I just added a caption to Monday.
+Andrés Felipe Urrego Martínez (10:38 AM): Okay, and then I just. Oopsie.
+Andrés Felipe Urrego Martínez (10:37 AM): Hmm.
+Andrés Felipe Urrego Martínez (10:37 AM): Jacob. There you go.
+Andrés Felipe Urrego Martínez (10:37 AM): send you the content. It's working on construction project or that the and we're going to want to post your first job for free. Let me have the caption here for Jake.
+Andrés Felipe Urrego Martínez (10:37 AM): But then Monday, Tuesday, Wednesday, let me see.
+Andrés Felipe Urrego Martínez (10:37 AM): I have the script for the video.
+UNKNOWN_SPEAKER (10:37 AM): Okay.
+Andrés Felipe Urrego Martínez (10:36 AM): Okay, so then I'm gonna add Thursday, Thursday and Friday. Okay, very cool.
+Andrés Felipe Urrego Martínez (10:36 AM): Yeah.
+Abiodun Solomon (10:36 AM): Here's something appreciated
+Andrés Felipe Urrego Martínez (10:36 AM): I can work on it.
+Abiodun Solomon (10:36 AM): Are you working on that?
+Andrés Felipe Urrego Martínez (10:36 AM): Yeah, you have that for on the calendar. I think it's for Wednesday. Is it Wednesday? Yeah, I'm looking at it right now.
+Abiodun Solomon (10:36 AM): Has to go across the easy way. Yes.
+Andrés Felipe Urrego Martínez (10:36 AM): Here's the issue way.
+Andrés Felipe Urrego Martínez (10:35 AM): Okay, so check this one. And I can help you with them. for this week, higher skilled workers.
+Abiodun Solomon (10:35 AM): Thank you very much.
+Andrés Felipe Urrego Martínez (10:35 AM): Okay, very cool.
+Andrés Felipe Urrego Martínez (10:35 AM): Wow.
+Abiodun Solomon (10:35 AM): Okay, nice to sleep.
+Abiodun Solomon (10:34 AM): to turn those. on FIG-3 request. I was just thinking we've done this so bad. So let's focus on the figure.
+Abiodun Solomon (10:34 AM): So, we are seeing. The same thing in different ways, different ways.
+Abiodun Solomon (10:33 AM): Yes, Monday to Wednesday. Somehow we have done a lot of of content and I think that it's getting repetitive but that's not a bad one. since we are trying to communicate the message. that it's true
+Andrés Felipe Urrego Martínez (10:33 AM): Okay, I see the same Okay, yeah, I see it right here. Okay, so... And then you want me to look at week three?
+Abiodun Solomon (10:33 AM): campaign it should be if you enter our Google Workspace. You go to Google You see, like recent... Oh, you're doing in the...
+Abiodun Solomon (10:33 AM): It's a
+Andrés Felipe Urrego Martínez (10:33 AM): Yeah, but where that the Google Sheets saved. I don't see it in the marketing.
+Abiodun Solomon (10:33 AM): that is a Google sheet.
+UNKNOWN_SPEAKER (10:33 AM): No, no, no, no, no. That's a driver.
+Andrés Felipe Urrego Martínez (10:32 AM): You got to enter to Google. Yeah, but in what folder is. the calendar itself. Is it in August? This is in September, October, December.
+Andrés Felipe Urrego Martínez (10:32 AM): Where is the document?
+Abiodun Solomon (10:32 AM): Let's see.
+Abiodun Solomon (10:32 AM): It's a nipple.
+Andrés Felipe Urrego Martínez (10:32 AM): This is for week three, the planned content. Yes.
+Abiodun Solomon (10:31 AM): Can you check the calendar for week three proposed content for Monday, Tuesday and Wednesday, please, on December Absolutely.
+Andrés Felipe Urrego Martínez (10:31 AM): All right, guys. Well, thank you so much. I appreciate it.
+Abiodun Solomon (10:31 AM): All right brother, sounds good. All right.
+Andrés Felipe Urrego Martínez (10:31 AM): I'll grab that one and I'll get that one posted too.
+Abiodun Solomon (10:31 AM): Some stuff on the calendar. I have not done and then The video from last week I haven't seen it That's a pending one that's.
+Andrés Felipe Urrego Martínez (10:31 AM): that needs to be posted.
+Andrés Felipe Urrego Martínez (10:31 AM): If any questions come up. posted about do we have anything else for this week
+Adeleke Tolulope (10:31 AM): Okay. All right, guys. Well, awesome.
+Adeleke Tolulope (10:31 AM): No question for me.
+Andrés Felipe Urrego Martínez (10:31 AM): Steve, any questions on your end?
+Taiwo Ola-Balogun (10:31 AM): I'm not a proper man. Okay.
+Andrés Felipe Urrego Martínez (10:31 AM): Any questions, guys, for me?
+UNKNOWN_SPEAKER (10:31 AM): Okay.
+Andrés Felipe Urrego Martínez (10:30 AM): you know, for us and for you guys too as a team. shame, you know.
+Andrés Felipe Urrego Martínez (10:30 AM): do it consciously, right? you guys to really, really learn this stuff. I want you guys to really really get good at it. I think honestly see that's kind of our bread and butter.
+Andrés Felipe Urrego Martínez (10:30 AM): If you can, please take some time, sit down.
+Taiwo Ola-Balogun (10:30 AM): Take some notes.
+Andrés Felipe Urrego Martínez (10:30 AM): I just sent it to you, just...
+Andrés Felipe Urrego Martínez (10:30 AM): Okay. Yeah. I'll join. I'll sign up on June.
+Adeleke Tolulope (10:30 AM): Is it today? It is today, Edouard.
+Andrés Felipe Urrego Martínez (10:29 AM): So join that call go ahead and sign up for it. I'm gonna jump I'm encourage you both, because you're both looking into the AI agent stuff right now that you do.
+Andrés Felipe Urrego Martínez (10:29 AM): Steve, I want you guys to join this call. I sent you guys a few tweets from
+Andrés Felipe Urrego Martínez (10:29 AM): Please let me know. I'm going to, I'm going to send you guys. Taiwan's I mean, I'm not saying that in the group, but Taiwan's
+Andrés Felipe Urrego Martínez (10:29 AM): All right, so let me make some trans today and I'll try and send that money to him today. But yeah, keep me posted, guys, if you think of anything else that we can do.
+Andrés Felipe Urrego Martínez (10:29 AM): that everything is going to be fine on this end. And so, yeah.
+Andrés Felipe Urrego Martínez (10:28 AM): Right now we can just be there. The best way I can be there for him is letting him take it. time off, right? I mean, just.
+Andrés Felipe Urrego Martínez (10:28 AM): I've kind of just left him alone because there's just nothing we can say. I mean, there's nothing we can say or do. or to make someone feel better. is down time. Time is the only thing that heals.
+Andrés Felipe Urrego Martínez (10:28 AM): that the to
+Abiodun Solomon (10:28 AM): A giant smell for him an email. Yeah, for sure. I think
+Abiodun Solomon (10:28 AM): I was also thinking of doing a What's your word? Like a meal.
+Andrés Felipe Urrego Martínez (10:27 AM): Yeah, it's definitely easier to send it directly to him, for sure.
+Abiodun Solomon (10:27 AM): It does since it's easier to. sending money because it's not the first time so it might be easier.
+Andrés Felipe Urrego Martínez (10:27 AM): I don't know. Yes, I believe it does.
+Andrés Felipe Urrego Martínez (10:27 AM): I mean, hopefully, I mean, I just don't know how do I send Do I just send him the money and say, hey, this is from the team? and I hope that it helps a little bit.
+Andrés Felipe Urrego Martínez (10:27 AM): Yeah, I mean, I guess you know that. Shoot I mean, I wish I could help more but then I gotta again at the end of the month.
+Adeleke Tolulope (10:27 AM): Okay, so we sent him 200 bucks.
+Andrés Felipe Urrego Martínez (10:27 AM): That's long travel, huh? Okay, so then...
+Adeleke Tolulope (10:27 AM): minutes away from this. Oh wow.
+UNKNOWN_SPEAKER (10:27 AM): the
+Taiwo Ola-Balogun (10:26 AM): Okay, I'm seeing they go So I'm like six to seven hours from... Very good, okay.
+Taiwo Ola-Balogun (10:26 AM): But I'm going to those states at the end of the month, around 20 to 29, 30. So I did message Jacob that I'm going to stop by his side.
+Andrés Felipe Urrego Martínez (10:26 AM): Are you going, Taiwo? Are you planning on going? No, sir. No, sir.
+Abiodun Solomon (10:26 AM): Are you going?
+Taiwo Ola-Balogun (10:26 AM): Thank you very much. Thank you.
+Andrés Felipe Urrego Martínez (10:26 AM): How much does it cost for you guys to go like Taiwo? How far is Taiwo? I'm like, 7 hours, 6 to 7 hours.
+Abiodun Solomon (10:26 AM): I believe... four hours, bud. with a road traffic and I'm. Last time I went to Okay. Yeah, yeah, yeah, yeah.
+Andrés Felipe Urrego Martínez (10:26 AM): How far are you Abed?
+Adeleke Tolulope (10:26 AM): Absolutely. So how far are you?
+Andrés Felipe Urrego Martínez (10:25 AM): Only you guys can be there Yeah, I'll be going to.
+Abiodun Solomon (10:25 AM): Yeah. It's significant, you know, actually. I also intend to go to travel down. I think.
+Abiodun Solomon (10:25 AM): It's just to show some support, no matter what you say. It's not like it's a bad life.
+Adeleke Tolulope (10:25 AM): Well, I think it's significant.
+Andrés Felipe Urrego Martínez (10:25 AM): So yeah, I'm.
+Andrés Felipe Urrego Martínez (10:25 AM): It is necessary. I just don't know how much I mean, I'm really bad at these things. You know, I don't know the exchange. I don't know if it would even be significant. I mean, I mean, I know money is money in the end, right?
+Andrés Felipe Urrego Martínez (10:25 AM): I mean, money, money stuff right now. But I mean, it is.
+Adeleke Tolulope (10:25 AM): I don't know. What do you guys think on this?
+Andrés Felipe Urrego Martínez (10:24 AM): that the Thank you.
+Adeleke Tolulope (10:24 AM): Yeah, that would be cool. Yeah, I think that
+Andrés Felipe Urrego Martínez (10:24 AM): hundred bucks that helps.
+Taiwo Ola-Balogun (10:24 AM): Do you think that we send him to him?
+Andrés Felipe Urrego Martínez (10:24 AM): which is, yeah, I...
+Andrés Felipe Urrego Martínez (10:24 AM): Yeah, no, for sure. I mean, I just don't I mean how much?
+Adeleke Tolulope (10:24 AM): OK.
+Andrés Felipe Urrego Martínez (10:24 AM): No, OK.
+Adeleke Tolulope (10:24 AM): How many tokens does it take for Andrés to use them?
+Taiwo Ola-Balogun (10:24 AM): Uh,
+Andrés Felipe Urrego Martínez (10:24 AM): When we're talking to me. like an AI system. Here, here's my token. You first.
+Adeleke Tolulope (10:24 AM): This is awesome.
+Andrés Felipe Urrego Martínez (10:24 AM): tokens. I'm not a GPT. Oh my God.
+Andrés Felipe Urrego Martínez (10:23 AM): Okay. No, don't talk to me.
+Adeleke Tolulope (10:23 AM): the fund of money.
+Andrés Felipe Urrego Martínez (10:23 AM): Okay, and what is, like, maybe.
+UNKNOWN_SPEAKER (10:23 AM): move.
+Adeleke Tolulope (10:23 AM): and let's give him a little talking. to support him in the various ceremonies.
+Adeleke Tolulope (10:23 AM): this week Friday. Okay. So we are suggesting if you can.
+Adeleke Tolulope (10:23 AM): They're gone. Um concerning I said, um I'll message you, but just give me a minute. So concerning Jacob's... um, the event happened. So there will be the barrier.
+Andrés Felipe Urrego Martínez (10:23 AM): All right, guys.
+Abiodun Solomon (10:22 AM): um maybe when my internet is good and i reload my figma Yeah, go ahead and tag me on it and I'll look
+Abiodun Solomon (10:22 AM): Oh, I did a lot. There was screenshots I took from skillets on a long line and under it I created one artboard. But on top here, where we have all those login pages, It's not syncing yet I will try
+Abiodun Solomon (10:22 AM): yet. That's my future.
+Abiodun Solomon (10:22 AM): It's I think it's What I did has not been synced.
+Andrés Felipe Urrego Martínez (10:22 AM): Is that in? No it's not.
+Abiodun Solomon (10:22 AM): the right hand.
+Abiodun Solomon (10:22 AM): Yes, that's top on
+Abiodun Solomon (10:21 AM): negate that my theory that I was this laptop a few hours ago and now i'm not able to access it but it could be my network my internet is
+Abiodun Solomon (10:21 AM): Last place you walked on. way easier. But now, also, the fact that you just switch to a different page. You know, you were on the which are in this design, and I have one. better. So, yeah. 31st companies what will
+Abiodun Solomon (10:21 AM): You know Um Usually, I think it's because you have It's been maybe it's been a while since you. on speaking Israeli good.
+Andrés Felipe Urrego Martínez (10:21 AM): If you're navigating, we start separating.
+Abiodun Solomon (10:21 AM): Yeah, we have a lot of other boards in there. Would it be?
+UNKNOWN_SPEAKER (10:21 AM): the
+Andrés Felipe Urrego Martínez (10:20 AM): quite slow.
+Abiodun Solomon (10:20 AM): Well, that's cool
+Abiodun Solomon (10:20 AM): Let's give it just a second.
+Abiodun Solomon (10:20 AM): Now go to more bits on your left to the left. page you see more details on that page.
+UNKNOWN_SPEAKER (10:20 AM): Okay.
+Andrés Felipe Urrego Martínez (10:19 AM): Which one is it?
+Andrés Felipe Urrego Martínez (10:19 AM): Plot.
+Andrés Felipe Urrego Martínez (10:19 AM): It's probably this one, just a second here.
+Abiodun Solomon (10:19 AM): I'm editing one page.
+Abiodun Solomon (10:19 AM): I should have mentioned you, but even yesterday I was in.
+Abiodun Solomon (10:19 AM): Can you share your screen? Yeah, just a second.
+Abiodun Solomon (10:18 AM): Um, it should be like the first it's On the first add board from the top Here we have the landing pages, the sign-off pages.
+Andrés Felipe Urrego Martínez (10:18 AM): Where would I find it?
+Abiodun Solomon (10:18 AM): Okay, and where is it?
+Taiwo Ola-Balogun (10:18 AM): Thank you for joining us.
+UNKNOWN_SPEAKER (10:18 AM): Oh.
+Abiodun Solomon (10:18 AM): the Let me see if I can log in.
+Andrés Felipe Urrego Martínez (10:17 AM): Can we go over that? the sign you mentioned. Yes, I'm trying to I don't know
+Abiodun Solomon (10:17 AM): Okay, so i'll create one for you, but can we can we go We have you on the call real quick.
+Andrés Felipe Urrego Martínez (10:17 AM): making sure that it's more like, you know, to proceed, you must, you know, you must verify your... Verify your phone number. That's all, that's all really.
+Andrés Felipe Urrego Martínez (10:17 AM): once you have a match, something like that, right? Please verify your numbers as these ads. credibility to your profile. Those are the type of things we do and then you have to by your phone number to follow from here. Canada doesn't feel welcoming.
+Andrés Felipe Urrego Martínez (10:16 AM): you know, just don't overthink it. This app just needs to be a page that kind of lets people know why they're verifying their phone number, you know, something it should be. It should be like like welcoming before we Please verify your phone number. so that employers can reach you.
+Andrés Felipe Urrego Martínez (10:16 AM): I mean, guys, what I always say is,
+Abiodun Solomon (10:16 AM): How are you, man? I'm fine, thank you. So once you are happy.
+Andrés Felipe Urrego Martínez (10:16 AM): Good enough.
+Taiwo Ola-Balogun (10:16 AM): the top. come up with a design for these. on my page, Andy. up and everything. You have to keep them into the um, and play a cycle so Yes, yes this page so Hello, Abiodun.
+Taiwo Ola-Balogun (10:16 AM): I'll be able to say
+Andrés Felipe Urrego Martínez (10:16 AM): So, I'll see you before this week. He's been able to...
+UNKNOWN_SPEAKER (10:16 AM): week.
+Andrés Felipe Urrego Martínez (10:15 AM): agents. I want you to keep me very posted on You find out there what you're learning. you know, kind of work closely with me. But then I guess my question would be what is an achievable and attainable goal for this
+Andrés Felipe Urrego Martínez (10:15 AM): So you're going to be working on this, but then you also want to kind of digging your toes into the AI.
+Taiwo Ola-Balogun (10:15 AM): All the AI models. Yes, you don't need it for it. It was me. So I set all the AI models, the AI studio, using Jupyter Notebook and everything. I did all my tricks.
+Taiwo Ola-Balogun (10:15 AM): Walk with ease. trying to see how... They are being used. work, the architectures and everything. So yesterday, Steve already walked me through how he set up.
+Taiwo Ola-Balogun (10:15 AM): This week, it's... What's up, what's, what's on? What I'm going to be working on this week is... bits of, um,
+Andrés Felipe Urrego Martínez (10:15 AM): You cut out there for a second. Okay, I hear you.
+Taiwo Ola-Balogun (10:15 AM): Yeah, yeah, sorry, sorry.
+Taiwo Ola-Balogun (10:14 AM): It's all works.
+Taiwo Ola-Balogun (10:14 AM): Agents. So I want to see. What I can actually achieve with the agent Excuse me. Just something to just work around, plan. to reach and see how.
+Taiwo Ola-Balogun (10:14 AM): during the weekend. Yeah, but most of the demos I saw was physically Building. decentralized applications. Using, using.
+Taiwo Ola-Balogun (10:14 AM): The stack. So this week also explore. agents. It wasn't. I've seen some demos.
+Taiwo Ola-Balogun (10:13 AM): Well, so I'm I'm just trying to focus. be what I'm going to be doing for this week so this week I'm planning on trying to work more with the AI The. This is my noma on this.
+Taiwo Ola-Balogun (10:13 AM): Yeah, I think we can, I can work with our blogs to look for how we can make this page more elaborate. Very good, very good.
+Andrés Felipe Urrego Martínez (10:13 AM): Yeah, I think we just need to add a little better messaging here so it doesn't feel like a like a daunting task, but more of a security feature for the user.
+Taiwo Ola-Balogun (10:13 AM): on several phone number. Okay.
+UNKNOWN_SPEAKER (10:13 AM): So, um, the...
+UNKNOWN_SPEAKER (10:13 AM): I won't be able to continue.
+Taiwo Ola-Balogun (10:12 AM): password. So I'm trying to sign up, use my. Bye-bye. It continues to take me back to this very fine phone number until I... I won't be able to continue.
+Taiwo Ola-Balogun (10:12 AM): I came out to the email out. staging, staging site. The employees did you say so. And I'm trying to... No, I don't have an email.
+Taiwo Ola-Balogun (10:12 AM): after sometimes. Let's see. email. I think I found my phone on lock. And I can't wait. So, like, after a while,
+Taiwo Ola-Balogun (10:12 AM): I will also use Gizemle to talk about... see also. Let's see. I tried to. with similar password, then it takes me to this. back on page 10.
+Taiwo Ola-Balogun (10:11 AM): Then I did the demo for, so if I'm going to visit the email and password. So if I'm going to visit the email and password to sign up, I won't have to set a password anymore. I'll just verify the phone number and continue to the welcome page. Right, okay
+Andrés Felipe Urrego Martínez (10:11 AM): I don't know. No, no, I think we're good I think we're good. I think we're good.
+Andrés Felipe Urrego Martínez (10:11 AM): now I think I think it seems maybe it just feels a little bit.
+Taiwo Ola-Balogun (10:11 AM): Okay. Well, I think, I think that works.
+Andrés Felipe Urrego Martínez (10:11 AM): sign in okay so then that would I'll allow you to sign in with both.
+Taiwo Ola-Balogun (10:11 AM): that is exactly what happened.
+Andrés Felipe Urrego Martínez (10:11 AM): It asks you for the phone number, right? You verified the phone number. number with the code, then it may just create a password.
+Andrés Felipe Urrego Martínez (10:10 AM): So right now you signed in. And then you created, you shined a light. then you created the, you signed in with Google.
+Taiwo Ola-Balogun (10:10 AM): So they all you have to do your I think for some reason I missed that part.
+Taiwo Ola-Balogun (10:10 AM): to sign in. That first page of the verified phone number. That's why I said the password So if it's a google account, you're able to set your password But if it's a password and email account, you don't need to set the password there again
+Taiwo Ola-Balogun (10:10 AM): Is not the.
+Taiwo Ola-Balogun (10:10 AM): They are slightly different. So that one with Google is just tiers 1 to 3. There's an at in between.
+Andrés Felipe Urrego Martínez (10:10 AM): email with Google.
+Taiwo Ola-Balogun (10:10 AM): So, let me log out. accounts. Okay, let me show the sign with the phone number I use What password do you use? I use, um, I want you to use for your.
+Taiwo Ola-Balogun (10:09 AM): Okay, okay, good. So this, this is the account when I tried to, when I tried to sign into my new accounts using the Google education, this is it.
+Andrés Felipe Urrego Martínez (10:09 AM): Can you can you guys hear me different now or you hear me? Does it sound a little bit different? the same. No, no, no, no.
+UNKNOWN_SPEAKER (10:09 AM): OK.
+Taiwo Ola-Balogun (10:09 AM): It took me to the account.
+Taiwo Ola-Balogun (10:09 AM): Yeah So, I think what I say... for all of us. Now, you can use, you can use your phone number on... the email. So I previously. Try to use the email to sign in.
+Adeleke Tolulope (10:09 AM): Yes, I can hear you clearly.
+UNKNOWN_SPEAKER (10:09 AM): Hello.
+Adeleke Tolulope (10:09 AM): Oh, I can't hear you I know I'll try it out. Maybe it'll be useful. Understood.
+Taiwo Ola-Balogun (10:08 AM): Yes, I'm talking.
+Andrés Felipe Urrego Martínez (10:08 AM): It takes me to the webcam page. Are you talking to me?
+Taiwo Ola-Balogun (10:08 AM): This new Google account. If I can sign in with Google, take me to the World Cup pitch. Right. Yeah.
+Adeleke Tolulope (10:08 AM): So that's now analog.
+Taiwo Ola-Balogun (10:08 AM): So it gives me a password to set my password.
+Andrés Felipe Urrego Martínez (10:05 AM): um explain also is um right now even though let's say every an email is connected to a phone number after after that um verified phone number piece this every email is connected to a phone number so if you have a password on account you can use that password to use either the email or a phone number Yeah.
+Andrés Felipe Urrego Martínez (10:05 AM): See what I'm trying to say? Yes. So what I'm trying to.
+Andrés Felipe Urrego Martínez (10:05 AM): if it's a login with email, with phone number. then they're trying to log in with email, then they can just. do an account with associated to this phone number exists, please try with phone number or I mean with email.
+Taiwo Ola-Balogun (10:05 AM): try that. Or vice versa.
+Taiwo Ola-Balogun (10:05 AM): It's associated with a phone number logging.
+Andrés Felipe Urrego Martínez (10:05 AM): This email is.
+Taiwo Ola-Balogun (10:05 AM): but I tried to sign in with my phone number. I should be able to get a message that says.
+Taiwo Ola-Balogun (10:04 AM): So it doesn't tell you that this account is scamming, it gives you the action that you are going to take next, which is signing with Google. So, for example... an account that it's with email or with Google.
+Taiwo Ola-Balogun (10:04 AM): like like a month ago I think it's probably a month now so there was a message when you are trying to use your phone number and email to sign in and it was a Google authentication you used previously there was a message that tells you to click on sign in with Google to continue
+Taiwo Ola-Balogun (10:04 AM): When I worked on the authentication
+Andrés Felipe Urrego Martínez (10:04 AM): with it.
+Taiwo Ola-Balogun (10:04 AM): County is already associated with the phone number, please log in.
+Taiwo Ola-Balogun (10:04 AM): Yes, I cannot share these messages.
+Andrés Felipe Urrego Martínez (10:03 AM): I mean, then we should, we should have like a message that says if someone tried to log in with the wrong thing, then he can just let him know, like, Oh, try logging in with your phone number. Yes, yes, sir.
+Taiwo Ola-Balogun (10:03 AM): Is you hardly use one of the kitchens type for one type of for one is like one restricts You can only use this for this. Okay. So here's what I think.
+Taiwo Ola-Balogun (10:03 AM): widget as the way before.
+Taiwo Ola-Balogun (10:03 AM): as a password. It has an email and it has a phone number No. Previously, we are using an authentication method. code. Let's now. The authentication methods have logic. the idea of fluid. as well.
+Taiwo Ola-Balogun (10:03 AM): Okay, so... Now, every, every. With this new authentication we are doing, every account, every valid account,
+Andrés Felipe Urrego Martínez (10:03 AM): Go on, I'm listening.
+Andrés Felipe Urrego Martínez (10:02 AM): I'm just trying to think where the confusion could come, right? where we can run it.
+Andrés Felipe Urrego Martínez (10:02 AM): Yeah, I'm just trying to think.
+Andrés Felipe Urrego Martínez (10:02 AM): as long as that they should be able to use that method. then.
+Taiwo Ola-Balogun (10:02 AM): to use that method.
+Taiwo Ola-Balogun (10:02 AM): because there was no password. There was no password. of it. setting a password as long as the password is.
+UNKNOWN_SPEAKER (10:02 AM): sort.
+Taiwo Ola-Balogun (10:02 AM): a password and an image login into their account. Since now we are resetting the power.
+Taiwo Ola-Balogun (10:01 AM): So. a password when they actually put in a phone number. so if as long as the As long as that part, that's. as a parcel, even though it's a recorded case. because he is a good boy.
+Taiwo Ola-Balogun (10:01 AM): that does not make people with It's impossible. Maybe some. Google Authentication to be able to use email and password. to log into the account. That's now what I'm thinking is since now the
+Taiwo Ola-Balogun (10:01 AM): Since if I have a password and If I have an email and password account I can still use my Google authentication to log in. login into my accounts. I think there was previously we did something.
+Andrés Felipe Urrego Martínez (10:01 AM): and there's no way... Because I'm thinking...
+Taiwo Ola-Balogun (10:00 AM): me. Okay. Well, I'm using a Google account. If I want to use a password, I have to have a password. See you guys. I can't use that. I can't use that. I can't use a Google account. I can't use a So let me ask you a question.
+Taiwo Ola-Balogun (10:00 AM): if I'm using a password account. I can use my Google account to log into the same app. account as long as they have the same income.
+Adeleke Tolulope (10:00 AM): Sorry, call me again.
+Taiwo Ola-Balogun (10:00 AM): I can if I'm using a password account. I can actually still use my Google account today. But if I'm using a Google account I can't use my password account to log in.
+Taiwo Ola-Balogun (10:00 AM): He wants to sign in with Google This this Thank you.
+Taiwo Ola-Balogun (10:00 AM): And they. the Yeah, so.
+Andrés Felipe Urrego Martínez (10:00 AM): Very good.
+Taiwo Ola-Balogun (09:59 AM): So, this is my love game. Very good. Okay.
+Taiwo Ola-Balogun (09:59 AM): Bye bye.
+Taiwo Ola-Balogun (09:59 AM): So, this is... let me try to take a picture for... So you can take a picture. See you, man.
+Andrés Felipe Urrego Martínez (09:59 AM): Do you want to? Okay, very good.
+UNKNOWN_SPEAKER (09:59 AM): OK.
+Andrés Felipe Urrego Martínez (09:59 AM): So you can log in with Fox.
+Taiwo Ola-Balogun (09:59 AM): I can't log out. I'm trying to log in.
+UNKNOWN_SPEAKER (09:59 AM): Okay.
+Taiwo Ola-Balogun (09:58 AM): I think I can tell Andrés if there's any content you can write on that. Tell Ablad if there's any content you can write on that.
+Andrés Felipe Urrego Martínez (09:58 AM): reach you. Uh stuff like that. You know what I mean? Like that it adds value to the client that the people do actually understand why it's good.
+Andrés Felipe Urrego Martínez (09:58 AM): Yeah, I think the message for phone number verification should also. with me, please verify your phone number and remember that you know businesses will use this phone number to
+Taiwo Ola-Balogun (09:58 AM): me into the home page.
+Taiwo Ola-Balogun (09:58 AM): So when I click on this update on update authentication it is
+Adeleke Tolulope (09:58 AM): Wow, nice.
+Taiwo Ola-Balogun (09:58 AM): I've sent it to the group.
+Taiwo Ola-Balogun (09:57 AM): Um, there's a, there's a, um, security restriction since I'm, I'm sending, um, let me, let me screenshot the code formats, um, into the group. So I was going to say the code formats. So I'm using authentication code templates. So there's a security, um, still on it that it doesn't show for decades. It only shows on your mobile phone.
+Andrés Felipe Urrego Martínez (09:57 AM): Yes.
+Taiwo Ola-Balogun (09:57 AM): Also, those coaches are going to
+Taiwo Ola-Balogun (09:57 AM): with a very good practice. Mm-hmm.
+Taiwo Ola-Balogun (09:57 AM): Thank you. Welcome.
+Taiwo Ola-Balogun (09:57 AM): Thanks.
+Taiwo Ola-Balogun (09:56 AM): Good on a business phone So Let me try that again.
+Taiwo Ola-Balogun (09:56 AM): This is actually going to
+Taiwo Ola-Balogun (09:56 AM): I'm gonna get this.
+Taiwo Ola-Balogun (09:56 AM): So we are fine for now bye again.
+Taiwo Ola-Balogun (09:56 AM): This one doesn't actually include password the password. So that's the conversion. sometimes provides in there. So actually give them information.
+Taiwo Ola-Balogun (09:55 AM): I wrote this, it was actually for both the AUTH and the email. I can't change it.
+Andrés Felipe Urrego Martínez (09:55 AM): you can set a password, but they already set up a password Yes, I think the one.
+Taiwo Ola-Balogun (09:55 AM): Password so I went to my email a kudos and a link was sent to my email Then from there I click on a link it takes me to this But but look what it says after verifying your phone number
+Andrés Felipe Urrego Martínez (09:55 AM): Sorry, hold on a second. What was the process here? How did you get to this verification of the phone number? that what did you log in with? No, I log with my email.
+Andrés Felipe Urrego Martínez (09:55 AM): Let's go.
+Taiwo Ola-Balogun (09:55 AM): Okay, wait a second.
+Andrés Felipe Urrego Martínez (09:55 AM): Let's see.
+Taiwo Ola-Balogun (09:54 AM): So, um, yeah, the goal is when I click this registration link is to take me to where i'm going to verify my phone number No, yeah, this is a good question. Yeah, I'm considering the fact that... I do have a password.
+Taiwo Ola-Balogun (09:54 AM): oh my email i'll be able to like verify the um we are using um this magical style not sort of magical that was still like a magic link Thank you.
+Taiwo Ola-Balogun (09:54 AM): So, I think.
+Taiwo Ola-Balogun (09:54 AM): So let me click on the sign up. That's uh Thank you very much.
+UNKNOWN_SPEAKER (09:54 AM): Okay
+Taiwo Ola-Balogun (09:53 AM): Steve, can you please document this?
+Taiwo Ola-Balogun (09:53 AM): Um
+Taiwo Ola-Balogun (09:53 AM): Oh, he's still complaining I'm sure.
+Taiwo Ola-Balogun (09:53 AM): Yes.
+Taiwo Ola-Balogun (09:52 AM): So now let me just uses a method. I don't think he's gonna stand up.
+Taiwo Ola-Balogun (09:52 AM): just on. So this time back in some. So let me load that again and see. Delete the accounts. Just see.
+Taiwo Ola-Balogun (09:52 AM): Listen back into my account. I just created
+Taiwo Ola-Balogun (09:52 AM): Let me first sign in with the phone number I just created. So this to send into my accounts. So this sends back into my accounts.
+Adeleke Tolulope (09:52 AM): Email and password. Let's take it to the phone.
+Adeleke Tolulope (09:52 AM): if I sign up with email.
+Taiwo Ola-Balogun (09:52 AM): So I'm going back to the homepage.
+Taiwo Ola-Balogun (09:51 AM): and indicates the safety password. So save it.
+Taiwo Ola-Balogun (09:51 AM): Notch.
+Taiwo Ola-Balogun (09:51 AM): I know. I know. Um, what's up? Um, Yeah. so long it's so All right, so I will start setting a new password.
+Taiwo Ola-Balogun (09:51 AM): He doesn't, he doesn't, and I think. He's a publicist of
+Taiwo Ola-Balogun (09:51 AM): That's an easy code.
+Taiwo Ola-Balogun (09:50 AM): BYE! you.
+Taiwo Ola-Balogun (09:50 AM): Pull up, now it's up.
+Taiwo Ola-Balogun (09:50 AM): Okay.
+Taiwo Ola-Balogun (09:50 AM): So verify phone number. So he could not be sent to heaven.
+Taiwo Ola-Balogun (09:50 AM): to this aspect here today. We go to this class.
+Taiwo Ola-Balogun (09:50 AM): So I'm going to be Google. So the first place is So it is, I think we're able to get.
+Taiwo Ola-Balogun (09:49 AM): Let's do it.
+Taiwo Ola-Balogun (09:49 AM): I think I know where I am now.
+UNKNOWN_SPEAKER (09:49 AM): Oh.
+Taiwo Ola-Balogun (09:48 AM): I'm going to go back out again. I thought this was going to be easy. Thank you.
+Adeleke Tolulope (09:48 AM): Are you feeling fast?
+Taiwo Ola-Balogun (09:48 AM): We'll do more. Give us a little time. Please.
+Taiwo Ola-Balogun (09:47 AM): So I want to quickly present to my left. So long. I'm going to eat this. Okay. Thank you.
+Adeleke Tolulope (09:47 AM): I think he still is.
+Taiwo Ola-Balogun (09:47 AM): Thank you very much. Sorry, come to me.
+UNKNOWN_SPEAKER (09:47 AM): Okay.
+Taiwo Ola-Balogun (09:47 AM): actually happened if I regularly open it. Probably because I did open it for some time. That's what happened.
+Taiwo Ola-Balogun (09:46 AM): That is the first time. it has happened, probably because if. Yeah. I regularly open the communication. service. That's my not
+Adeleke Tolulope (09:46 AM): restart itself or stop itself again.
+Adeleke Tolulope (09:46 AM): Okay, maybe maybe Maybe you should look for him in his office. settings so that it won't Where is it gone?
+Taiwo Ola-Balogun (09:46 AM): actually where the error is coming from. Then when I separated the communication, I saw that it was giving me an error relating to my channel ID. I'm using the China ID, so I had to go back to Azure and look at it. It's probably because the China ID is not running and you can't actually identify it.
+Taiwo Ola-Balogun (09:45 AM): and we start some things that I was able to because I was I was like very very concerned that was causing the error I just tested it um the previous day and it was working well and everything Then when I went back again, it was no longer working. I wanted to do the demo with Andrés. So I was like very concerned. Then I looked at my code, everything was fine. The same thing, the output is... So, I would like to start pitching. I start running them individually to know which part is up.
+Taiwo Ola-Balogun (09:45 AM): I can't send the message, I was getting an error. I'm going to stop and go back to our room.
+Taiwo Ola-Balogun (09:45 AM): on your code or anywhere you cannot access.
+Adeleke Tolulope (09:45 AM): I think they often force those kind of things but that doesn't mean that the service won't be going on within your base. Yeah, the service is there.
+Taiwo Ola-Balogun (09:45 AM): caused our service, I don't know how they did it.
+Taiwo Ola-Balogun (09:44 AM): So for me, I'm going to start Thanks a lot for now and bye. I'm trying to test what we couldn't do last week. Once I noticed last week when I went to look at the issue, I think I could say on the group was actually.
+Andrés Felipe Urrego Martínez (09:44 AM): Okay, very good. Chai, we'll hop off for you.
+Adeleke Tolulope (09:44 AM): I know it's going to take some time but at least we very very close to Mickey's of the movie. the end of the week. Those are my two plans.
+Adeleke Tolulope (09:43 AM): The straight goal for me is to, one, make sure that I perfect this existing recommendation system in case of this vector unknown. We shall perfect it and then release it. to production so that people can start. and gain the... we've done on the recommendations. And also the second thing is, I'm measuring that. Um, um. I keep training the model and I'm Moodle, Ready and North.
+Adeleke Tolulope (09:43 AM): Yeah.
+Andrés Felipe Urrego Martínez (09:43 AM): Yeah, what are some goals for you? What are some straight goals for you here?
+Andrés Felipe Urrego Martínez (09:43 AM): Very good. Very good. So what are you guys thinking? from your point of view, what can we achieve this week?
+Adeleke Tolulope (09:43 AM): So I think that is it. In the meantime, while training this model, we should make sure that we should perfect the recommendation that we have presently and test it out properly and then release to production so that we can have more information, more data set, more tags on different jobs that we can train the model again to keep learning and keep learning. Perfect. No, I agree.
+Adeleke Tolulope (09:42 AM): that we're going to be Once I'm done with this one, then we can see how better the tags are to the first application. The first and second attrition.
+Adeleke Tolulope (09:42 AM): This family restaurant see Yeah, I'm oh yeah, I know where I land enough. So even presently. This morning, I plan to to tell you on the Koyas Libori. So, this morning... I already processed the information and I'm currently... training the mood and now on those tasks.
+Adeleke Tolulope (09:41 AM): do both from the first that I passed. random ones, just like we've seen. in the Let me get the image.
+Adeleke Tolulope (09:41 AM): residential building. Can you see that most of these things are closer to a plumbing job. There are some words that we can find within any description relating to a plumbing or a construction job. So these words, these... the kind of keyword I'm expecting from the moment.
+Adeleke Tolulope (09:41 AM): okay look at this look at the tags now i said for for plumb for plumb maintenance compliance but we see all that is applied.
+Adeleke Tolulope (09:41 AM): Okay.
+Andrés Felipe Urrego Martínez (09:40 AM): We can just pick the top ten.
+Adeleke Tolulope (09:40 AM): are very, very similar and it can cause. Conflicts why China?
+Adeleke Tolulope (09:40 AM): The reason why, okay, let me show you. This is why I don't want us to go with the skews because Jobs keys are
+Andrés Felipe Urrego Martínez (09:40 AM): address for the AI is, you know, it's skills not tag so try it with skills and you'll probably see a difference there.
+Andrés Felipe Urrego Martínez (09:40 AM): get or print top skin. skills relating to the office. The tag is the term that we use. but the actual term that needs to be addressed.
+Adeleke Tolulope (09:40 AM): What are those? Here's what I told you last time is get.
+Adeleke Tolulope (09:39 AM): look at look at look at even this week How does weak even... um relate to office at this time
+Andrés Felipe Urrego Martínez (09:39 AM): I wonder why it makes kitchen. I wonder why it had kitchen.
+Adeleke Tolulope (09:39 AM): I don't want to add duplicate tags. assistant, environment, kitchen, office. to follow procedure of substance use.
+Adeleke Tolulope (09:39 AM): So I said, It's you to offer assistance for me. them in ascending order. Do not duplicate them. I don't
+Andrés Felipe Urrego Martínez (09:39 AM): This is the second iteration for the keyboard.
+Adeleke Tolulope (09:38 AM): it didn't use its own knowledge base. It's making use of something, a code known as like trying to write a code to get some words from the experience. So it's not well, it's not better enough. But for the tags that I said we should use, those tags are more closer to the jobs than this kind of code. of keywords.
+Adeleke Tolulope (09:38 AM): I passed to it, most of their keywords are not really, really in line with the job title. Because I passed the data set to Chargibility and instructed Chargibility to look at their description and help me to extract keywords that are similar to that particular job title. And that is why Chargibility just performed some random getting of some words.
+Adeleke Tolulope (09:37 AM): Look at the keywords. This is the keyword part. Survey, server, requirement, server, requirement, job, inquiries, restaurant, server. It's just repeating some of the stuff. And this fly biscuit is the name of a website. It's the name of a website. So in short, what I can deduce from this performance is that the data sets we are
+Adeleke Tolulope (09:37 AM): This is a concentration specialist creates complete job posting for a waiter job for me, and it's created server job for me complete.
+Adeleke Tolulope (09:37 AM): Can I thank you all for me again? We do the returns. It does not return the keyword itself. These are the responsibilities. So the iteration one takes some time to process or to return the correct information based on the runtime I give to it. But for the second iteration,
+Adeleke Tolulope (09:36 AM): in line with chef or something like kitchen can be considered something like ingredients, can be considered something like dishes, can be considered restaurants, something like that can be considered. That's why I said we should go with these. That's. from Joe's. So now this is the actual like the first time I saw it.
+Adeleke Tolulope (09:36 AM): the first iteration is that I have to pass in some other, um, more explanation, more prompts. Can you tell me the keyword? Can you tell me the keyword from the input provided? Can you tell me the keyword? Don't return the job title alone back to me. So, look at the keyword generated for chef. Now, this is what I'm talking about. Can you see plan, oversee, environment, prioritize, kitchen, procedure, and these things are not really, really, really
+Adeleke Tolulope (09:36 AM): Perform. than the previous one. So these were the keywords. for the first iteration and what I notice about
+UNKNOWN_SPEAKER (09:35 AM): Thanks.
+Adeleke Tolulope (09:35 AM): What is it called? Information, similar job or similar data set I used to train it. For example, this chef now, within the list of data sets, there are these old parts. Can you see my mouse? So, like, while testing, I'm passing another job that I know that is not within the training data set. and the first attrition of the puff. Well, let me guys save you.
+Adeleke Tolulope (09:35 AM): to return similar.
+Adeleke Tolulope (09:34 AM): So, this is the first saturation. I can't, I can't agree with much. So it's better to create a job that's done before. I am PewDieChef. Then it looks and what I noticed about the modern It's trash
+Adeleke Tolulope (09:34 AM): Oh.
+Andrés Felipe Urrego Martínez (09:34 AM): Let's hear it.
+Adeleke Tolulope (09:34 AM): Um The one on Friday and the one that came on Sunday. I can share my screen. can now show you the image. deep problems. Please, please do.
+Adeleke Tolulope (09:33 AM): more similar jobs to that particular tax. That's why I proceeded to into Recommendation on the employer employer slide and I production this morning, so I'm going to testing and testing. clear the object from my hand but if you If you want to see the picture... picture of the improvements in the
+Adeleke Tolulope (09:33 AM): that um... already, then we can and train this model that we are trying to... to just generate this keyword for us. with such kind of information is going to improve the work and the tags that we are getting from the model will be very, very valid. They will be very, very close in getting...
+Adeleke Tolulope (09:32 AM): because it's currently even running right now. on my system. Um, it's just from me. I will suggest if you can. If we can go with this, with our first approach of the recommendation system that we are generating tags from each of the jobs based on their title, we are generating tags from them. Then once we have a very vast data set,
+Adeleke Tolulope (09:32 AM): I think it's like 200 close But this morning when I Um, I already worked on that I'm getting that I think there are like 1,000 close jobs. So I also added it to it, merge it together and then start the training again.
+Adeleke Tolulope (09:32 AM): If you keep learning and learning forget its past. knowledge. We have to, for example We have to keep increasing. the data will keep increasing. The first saturation I did, I think I used... it is something rose that.
+Adeleke Tolulope (09:31 AM): If I ask you to give me a keyword. or a plumber. look at the tags I used to train it. It's okay. to come back. for me. So I'm currently learning. I'm currently training it now. Remember to keep training. I think I
+Adeleke Tolulope (09:31 AM): The ID started running again. this morning. I extracted those information from the... And then use those tags. I use those tags as the keyword. for each of your types to see notice. each job has its own respective target. the description. I'm trying to change the models so that even If I pass in
+Adeleke Tolulope (09:31 AM): Some did that state on a little bit. that I already used the first model I trained to extract tasks from it, like the roles, the responsibilities, and probably some skills, specifically based on that particular job title. So, my plan now is that
+Adeleke Tolulope (09:30 AM): I noticed that. the keywords is returning. like t-tax, there's a tuning. I'm not good enough So my suggestion is that For example, since we already have...
+Adeleke Tolulope (09:30 AM): The attrition 90 Friday When I did I did another iteration of on Saturday, which he knew on Saturday. Is this on? Yeah. So I didn't It's The result is in bits. Better than the previous one
+Adeleke Tolulope (09:30 AM): window. The window is going to look through the experience and engage. from each convective vector. The matching can be. Um, done. Yeah. For the window, yeah on Friday.
+Adeleke Tolulope (09:29 AM): deploy the model to a GPU server, and then from the GPU server, we just communicate to it with an API. It's going to increase the speed at which the model works on the task given to it. But currently, it's currently running on the CPU on our current virtual machine that we deployed our front-end and back-end to. So that means if you have the new profile is going to... about what was the reality experience. That's where we are making some retarding.
+Andrés Felipe Urrego Martínez (09:29 AM): Is this a GPU issue? Yeah, yeah, if we can, if we can.
+Adeleke Tolulope (09:29 AM): the employer side and as well on the employee side. But take note that while doing it to see some results might take some time due to the model that is running on the server. So the speed is not yet optimized enough. What are we looking to do to optimize that speed?
+Adeleke Tolulope (09:29 AM): create new account as well and test the matching.
+Adeleke Tolulope (09:28 AM): of making use of the. recommendation approach that we are use of tags and like vectors and everything. versus to stay jeans to... today, so I'm going to be testing it out. creating different new accounts soon.
+Adeleke Tolulope (09:28 AM): to be used of. I can look into that later. Yeah, um the updates. Presently, I'm done with the employer side of things.
+Adeleke Tolulope (09:28 AM): that the It doesn't seem to correct the...
+Andrés Felipe Urrego Martínez (09:28 AM): So, okay. Well, let's go to the update.
+Andrés Felipe Urrego Martínez (09:27 AM): and We're not sure if you saw that on the group, but we. got $25,000 approved to national. that kind of, you know, shows us we're kinda good there for a little while.
+Andrés Felipe Urrego Martínez (09:27 AM): But the good thing is that You know that now we know that as long as we're using. their credits, then we're good to go.
+Andrés Felipe Urrego Martínez (09:27 AM): them. Yeah, yeah. We need to look and see what we can do there. Yeah. Yeah, we need, look and see what other. tools we can use again you know just make sure that we're using those credits 25 K's quite a bit
+Andrés Felipe Urrego Martínez (09:27 AM): Um, okay, so. Um, let's see. I was just trying to. see what else what other tools we can use through
+UNKNOWN_SPEAKER (09:26 AM): OK.
+Andrés Felipe Urrego Martínez (09:26 AM): I mean, that's that's just. If I already have a profile and I go back. and regenerate my. summary based on the profile. Just just keep an eye on that.
+Adeleke Tolulope (09:26 AM): I think it can be fixed on staging. Okay, so if that has been fixed, can you guys push that out?
+Andrés Felipe Urrego Martínez (09:26 AM): The summary thing yet, have we?
+Andrés Felipe Urrego Martínez (09:26 AM): If you go through the process and you try to go back, feeding to that, you know, like we, we haven't fixed the
+Andrés Felipe Urrego Martínez (09:26 AM): Yeah, yeah, I just think I just don't know if a lot of this stuff we just need to keep fixing or if it's just better for us to. Just wait it out, you know, just wait it out until we that the
+Andrés Felipe Urrego Martínez (09:25 AM): the fifth and see what we can do. As far as those bugs go. but I'll get back to you guys from the bugs.
+Andrés Felipe Urrego Martínez (09:25 AM): just yesterday and then.
+Adeleke Tolulope (09:25 AM): Wow, this is nice.
+Andrés Felipe Urrego Martínez (09:25 AM): new users and we had about five new resumes. Wow.
+Adeleke Tolulope (09:25 AM): Let me check. Let me check.
+UNKNOWN_SPEAKER (09:25 AM): Yesterday?
+Andrés Felipe Urrego Martínez (09:25 AM): Good morning. Good afternoon to you. Good morning. Did you guys see how many resumes we got? created yesterday?
+Andrés Felipe Urrego Martínez (09:24 AM): Very good and I email.
+Adeleke Tolulope (09:24 AM): I've been running everything I've been doing so far. Beautiful.
+UNKNOWN_SPEAKER (09:24 AM): Yeah.
+Andrés Felipe Urrego Martínez (09:24 AM): Are you using on Azure AI studio? Have you logged into it yet? Got it.
+Andrés Felipe Urrego Martínez (09:24 AM): and I think it was called Inception, yeah. Bye-bye.
+Adeleke Tolulope (09:24 AM): I call, that was called in media in September.
+Andrés Felipe Urrego Martínez (09:24 AM): Mm-hmm.
+Andrés Felipe Urrego Martínez (09:24 AM): I'll be really really cool. I'm still waiting to hear back from the NVIDIA Yeah, thanks.
+Adeleke Tolulope (09:23 AM): request for a quota for one of the servers. I'll see if... Okay, I'm going to grant it to us. Yeah, that would be awesome.
+Andrés Felipe Urrego Martínez (09:23 AM): to balance your mind.
+Andrés Felipe Urrego Martínez (09:23 AM): Yeah, yeah, probably. I mean, you can look.
+Adeleke Tolulope (09:23 AM): Um, the GPU server on that.
+Adeleke Tolulope (09:23 AM): try to request for
+Andrés Felipe Urrego Martínez (09:23 AM): Excited yeah $25,000 man approved on Microsoft, so I'm very very pumped about that That was nice. Yes, absolutely. That's a lot of money.
+Andrés Felipe Urrego Martínez (09:23 AM): Did you see we got 25K, man? I'm so excited.
+Andrés Felipe Urrego Martínez (09:22 AM): Okay, perfect.
+Adeleke Tolulope (09:22 AM): So it will be joining very soon.

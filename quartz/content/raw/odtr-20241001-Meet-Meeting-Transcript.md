@@ -1,0 +1,92 @@
+---
+type: transcript
+---
+
+# 20241001 Meet Meeting Transcript
+
+**Date:** 2024-10-01
+**Type:** meeting-transcript
+
+---
+
+Oct 1, 2024 | Meet Meeting
+Invited Guests:
+Live Notes | Read Meeting Report
+————————
+Live Transcript
+(11:40 AM):
+Andrés Felipe Urrego Martínez (11:39 AM): I'm just in the Independence Day. So, have a wonderful day, guys. Take care. Thank you for everything you do. Bye-bye.
+Andrés Felipe Urrego Martínez (11:39 AM): Take care. Thank you very much. Those were not gunshots, okay? Those were fireworks.
+Taiwo Ola-Balogun (11:39 AM): Happy holidays.
+Andrés Felipe Urrego Martínez (11:39 AM): Have a good holiday.
+Dafne Gutierrez Loya (11:39 AM): Bye. Take care, guys.
+Andrés Felipe Urrego Martínez (11:39 AM): All right. Bye. Have a good day, everyone.
+Andrés Felipe Urrego Martínez (11:38 AM): We're building directly from feedback, from our customers' feedback, and not a lot of startups have that possibility. So let's embrace it. Let's make the best of it. Let's continue to build a product for the customers that we're serving, and we will continue to see them adapting to it. The easier it gets, the faster they're going to go tell everybody else, because now anybody they know can use it. So again, thanks a lot for all you do. Hakuna Matata But have a wonderful rest of your day, and I'll talk to you
+Andrés Felipe Urrego Martínez (11:38 AM): that we receive constantly. So again, like I said last time, we learned that we need to take a step back and take this one step at a time. We're doing an amazing job, guys. We're
+Andrés Felipe Urrego Martínez (11:38 AM): People will tell you, I haven't heard of anything like this before. For real, is it free? Why do you guys get out of it? How you know how awesome you guys are helping. Like it's Spanish and English. Wow, this is great Nobody else is doing so. I mean, this is feedback.
+Dafne Gutierrez Loya (11:38 AM): that that that you know.
+Andrés Felipe Urrego Martínez (11:37 AM): Thank you very much. Have a wonderful rest of your day. If any questions come up, you know, I just look, I continue to be so bullish and excited about what we're building anytime I go anywhere. I mean, you can ask Dafne. I mean, she saw it firsthand. People are very grateful for the fact that.
+Andrés Felipe Urrego Martínez (11:37 AM): done, like, you know, like, magic because these guys Um again, thank you
+Andrés Felipe Urrego Martínez (11:37 AM): Just kidding, but yeah, ask all the questions you need. Honestly, we're available. The good thing about the guys is that they are seven hours ahead. So it always feels like we're communicating with people. Right, we're gonna talk to him today and say like awesome stuff that you know maybe can be fixed and worked on and then we wake up and it's like
+Andrés Felipe Urrego Martínez (11:37 AM): gonna I usually tell it you know I told Jacob when I first gave him social media I say you know I'm gonna take it slow you got about three days Um, so, uh, we're, you know, That's kind of what what the same message goes to you, right? We're gonna take it slow. You got about three days to We had it figured.
+Andrés Felipe Urrego Martínez (11:36 AM): So just take your time. We're going to take it slow.
+Andrés Felipe Urrego Martínez (11:36 AM): back right you know so so yeah I mean, good mentality will work. any day, every day, whatever we need. Guys, thank you so much. Dafne, thank you so much for joining the call. Thank you. Thank you for being part of it.
+Andrés Felipe Urrego Martínez (11:36 AM): The time will come that we'll be that busy right that we'll just, you know, we're so that we're having to work that many hours a day. because we're just banking and there's no
+Andrés Felipe Urrego Martínez (11:36 AM): We work every day, man. I'll work every day. that you guys want to work so yeah I mean Yeah, we'll work Christmas. New Year's, you know, anything. I mean, I'm there. I mean, hopefully, hopefully.
+Andrés Felipe Urrego Martínez (11:36 AM): and We do. Oh, yeah.
+Jacob Oluwole (11:36 AM): And it's been two hours.
+Jacob Oluwole (11:36 AM): Oh my
+Andrés Felipe Urrego Martínez (11:35 AM): Is it a national holiday today in Nigeria? Yeah Can you remind me why do we still have the call? I'm sorry.
+Abiodun Solomon (11:35 AM): Oh, did you?
+Dafne Gutierrez Loya (11:35 AM): question for my hand. Thank you.
+Andrés Felipe Urrego Martínez (11:35 AM): So questions, so lots of things. I don't know.
+Andrés Felipe Urrego Martínez (11:35 AM): Doubts. I don't want to hear them. So yes.
+Dafne Gutierrez Loya (11:35 AM): Very good. All right, any questions, anybody?
+Andrés Felipe Urrego Martínez (11:35 AM): until he can actually walk. through and show you around. the meta for business. Yes that's good.
+Andrés Felipe Urrego Martínez (11:35 AM): Jacob. If you have He can continue the posting for now and then you'll have access to do in the comments for example for now
+Andrés Felipe Urrego Martínez (11:34 AM): and we can start doing some of that work.
+Dafne Gutierrez Loya (11:34 AM): I'll give you access to let's say our Facebook site.
+Andrés Felipe Urrego Martínez (11:34 AM): You know create. How do we post them? Are we scheduling the posts? How do we connect? How do we how do we communicate with you know with ab lad? You know where does he provide us the new content? So all of those little things so that we can start showing join you around and then hopefully.
+Andrés Felipe Urrego Martínez (11:34 AM): the options, you know, what are we doing next?
+Andrés Felipe Urrego Martínez (11:34 AM): Jacob can set up a time to talk this week. week. I'll join for the first call. kind of like to show you around. what we've been doing to post how he spoke. What type of posts we're doing? do we create the captions once we create
+Dafne Gutierrez Loya (11:34 AM): Did Jacob, maybe you?
+Andrés Felipe Urrego Martínez (11:33 AM): So let's just go over that tomorrow. Tomorrow we'll just basically, again, Dafne, go through any notes, make any notes that you can find from the content that we have, any ideas for other content, and then tomorrow we'll review the existing content that we have that will continue to be posted this week. Okay, yes
+Andrés Felipe Urrego Martínez (11:33 AM): kind of review any marketing material that we currently have available. we already have some like last week. week and the week before, we still have some content that we we are going to use.
+Andrés Felipe Urrego Martínez (11:33 AM): And then we'll have our call. We can have it tomorrow, Since we had this one for development today, we can have the call if that is available tomorrow, 930. And then
+Dafne Gutierrez Loya (11:33 AM): post more things. Absolutely love it.
+Dafne Gutierrez Loya (11:33 AM): Yes. So yes, I'll take a look like more detail. detail to see what. I don't know what recommendations I can make Oh, how do great.
+UNKNOWN_SPEAKER (11:33 AM): Okay.
+Andrés Felipe Urrego Martínez (11:33 AM): to actually grab those initial templates and then make Yes.
+Andrés Felipe Urrego Martínez (11:32 AM): It's actually really nice but we also rely a lot on Adelaide. and then he's great at, you know, the science skills too.
+Andrés Felipe Urrego Martínez (11:32 AM): Yeah, look at the videos Daphne as well. Well, see what feedback you can. from those, you know, we are doing some. Actually, we're relying a lot on AI to create our videos today.
+Andrés Felipe Urrego Martínez (11:32 AM): gather some feedback on those as well.
+Andrés Felipe Urrego Martínez (11:32 AM): Good things that will look as far as like, okay Obviously moving forward. I mean, if it, you know, carousels to look at those so that you can get
+Andrés Felipe Urrego Martínez (11:32 AM): Yes, so make it All right, good.
+Dafne Gutierrez Loya (11:32 AM): was really small so you could like I couldn't really see it. Okay.
+Dafne Gutierrez Loya (11:31 AM): Like to what to? Like how to make it more attracting But that's one of the ideas. yes, that if there's going to be a lot of text, like make it on different images. Instead of just one because there was one where it was just one picture and the text.
+Andrés Felipe Urrego Martínez (11:31 AM): you know, shorter, but what do we replace it with, you know? How do, what do you recommend? Yes, that's what I was gonna look at.
+Andrés Felipe Urrego Martínez (11:31 AM): post and going forward we say, You know, we say, oh, okay, let's make it easier. Let's make it.
+Andrés Felipe Urrego Martínez (11:31 AM): and then replace it for what? So if we do less text, let's say we find a few.
+Andrés Felipe Urrego Martínez (11:31 AM): Yeah, I think it's worth it. can see there's some of those images that might be patched. with too much text.
+Andrés Felipe Urrego Martínez (11:31 AM): Yeah.
+Andrés Felipe Urrego Martínez (11:31 AM): We have the posts, so. So it would be good to. review those that.
+Dafne Gutierrez Loya (11:30 AM): And some of, yeah. I saw one that it was like. Very small text.
+Andrés Felipe Urrego Martínez (11:30 AM): Is that what you're noticing right now? Yes.
+Andrés Felipe Urrego Martínez (11:30 AM): you notice that we have too much text on some of the
+Dafne Gutierrez Loya (11:30 AM): make, you know, how you can the Yes, instead of just one and having having all the taxes in just one picture?
+Dafne Gutierrez Loya (11:30 AM): um I don't know for example uh because maybe less text and or if there's gonna be more text um maybe put like on Instagram
+Dafne Gutierrez Loya (11:30 AM): That's good, but just maybe try. out another way to advertise it. to make it more attractive to people? So, but, but, but what exactly?
+Andrés Felipe Urrego Martínez (11:29 AM): Yes, no, I saw that I saw that you post like both Spanish and English, so that's
+Andrés Felipe Urrego Martínez (11:29 AM): And that's, that's the thing that I do want you to really focus on is doing that review right off of. while we have posted, while we could, you know, post about, you know, new, if there's something that we've miss that we haven't posted yet about that we can post about, of course, to continue to increase the engagement.
+Andrés Felipe Urrego Martínez (11:29 AM): people, both on Instagram and Facebook.
+Andrés Felipe Urrego Martínez (11:29 AM): Like, cause you know, we, we, we, we actually, that's exactly what we do, right? Weekly, we either post. both content for businesses and
+Dafne Gutierrez Loya (11:29 AM): but what I meant was to put to advertise it like on social media to 100% Yes, to put it there. So did you go through our social media?
+Dafne Gutierrez Loya (11:29 AM): Sorry, but I was thinking more, I mean, that's a good idea. I was saying to explain what MOYL does and what it is for.
+Dafne Gutierrez Loya (11:28 AM): You said yesterday to put the, what's the word you call? Yes, to put like- what you offer through the Moyo app, like to put it on the business.
+Andrés Felipe Urrego Martínez (11:28 AM): How we can get more out of it? Yeah. Yeah. So we'll definitely Mm-hmm. And instead, since...
+Andrés Felipe Urrego Martínez (11:28 AM): We talked to Ablet yesterday about that. We're going to probably have a little chat and go over that business card and see how we can make it better.
+Dafne Gutierrez Loya (11:28 AM): on the business card so when you give it out, they know. Immediately what it is about like they read Yeah, and that's definitely something.
+Dafne Gutierrez Loya (11:28 AM): Trying to like think or give an idea of how we will like make more sense of what MOYL is and I saw Facebook and you already have it there. I mean MOYL jobs and playoffs so I think that I don't know My recommendation will be to add
+Andrés Felipe Urrego Martínez (11:28 AM): I mean, it's not...
+Andrés Felipe Urrego Martínez (11:27 AM): the playoffs. You know, people know jobs and employers, right?
+Dafne Gutierrez Loya (11:27 AM): This is a mobile jobs and negotiations and players.

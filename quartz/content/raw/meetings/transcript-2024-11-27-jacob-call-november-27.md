@@ -1,0 +1,270 @@
+---
+type: transcript
+---
+
+# Meeting Transcript: Jacob Call November 27
+**Date:** 2024-11-27
+**Participants:** Jacob; Andres Urrego
+**Source:** OneDrive/Meet Recordings/c_jacob_call_nov27.docx
+**Type:** 1on1
+
+---
+
+Nov 27, 2024 | Jacob Call
+Invited Guests:
+Live Notes | Read Meeting Report
+————————
+Live Transcript
+Andrés Felipe Urrego Martínez (10:03 AM): Bye-bye.
+Andrés Felipe Urrego Martínez (10:03 AM): Talk to you soon.
+Abiodun Solomon (10:03 AM): Thank you so much.
+Andrés Felipe Urrego Martínez (10:03 AM): Please let me know if you guys have any questions.
+UNKNOWN_SPEAKER (10:03 AM): Okay.
+Andrés Felipe Urrego Martínez (10:03 AM): I think.
+Abiodun Solomon (10:03 AM): We got the answer.
+Andrés Felipe Urrego Martínez (10:02 AM): We're seeing.
+Andrés Felipe Urrego Martínez (10:02 AM): You know, you've lost your mind.
+Andrés Felipe Urrego Martínez (10:01 AM): Thank you so much. That's just crazy.
+Andrés Felipe Urrego Martínez (10:01 AM): Thank you very much. Thank you. All right, guys. Oh, my God. All right. Thank you.
+Andrés Felipe Urrego Martínez (10:01 AM): trusting us to post over 80 jobs for Jesse. 99th. If I may sit down, otherwise, when I return, I'll finish.
+Andrés Felipe Urrego Martínez (10:01 AM): you know, over 80 jobs. Oh, God. That looks pretty strong. He's.
+Andrés Felipe Urrego Martínez (10:00 AM): That says something else. Like, are you a consultant in business? And then we can say some factory trusts today to post over. Um over
+Andrés Felipe Urrego Martínez (10:00 AM): Yes, I can. Later on, we can do a post.
+Abiodun Solomon (10:00 AM): Yeah, sorry, can you hear me?
+Andrés Felipe Urrego Martínez (10:00 AM): Hello?
+Andrés Felipe Urrego Martínez (10:00 AM): Yeah, we need to create a post that says we have. Something that says, Zachary is posting. Over 80 jobs, you know, has. We've hit over 80 jobs all of it for 700. See ya.
+Andrés Felipe Urrego Martínez (09:59 AM): The problem is that we told them on Friday that on Monday we would start doing at least one or two jobs of the new site they shared with us. So they're going to post all of these jobs with us, right? And then, and then, and then. Jacob, can you write this down if you are listening? We need to create a post that says
+Andrés Felipe Urrego Martínez (09:59 AM): It's already 700 views on the video or 800 views on the video. So, I mean, thank you for that because the slides came out really good. On the Zachary jobs, just. If we can get maybe one or two a day. When you have a chance, we can worry about the English for this week. We'll worry about the Spanish for next week.
+Andrés Felipe Urrego Martínez (09:59 AM): And then, you know, Jacob mentioned, you know, I talked to him. He said he did. He did. He told you about the job postings we're going to do for Zachary. Um, if you can do if you can do this, oh by the way By the way, thank you for those slides from the other day. saved my life. There were you know people really liked it. At some point it was like 20 people, but there's
+Abiodun Solomon (09:59 AM): Thank you so much.
+UNKNOWN_SPEAKER (09:59 AM): Perfect.
+Andrés Felipe Urrego Martínez (09:59 AM): Alright.
+Andrés Felipe Urrego Martínez (09:58 AM): from the beginning because honestly the rest of it is very engaging because he's walking you through it. Everything's happening fast. Um, you know, so, so, yeah. It's a good opportunity for us to put our name. out there from the first moment, right?
+Abiodun Solomon (09:58 AM): Is it like you said the The sound, the voicing says it all. We also have resources that we can use, like the landing page to say more. Exactly, just to at least
+Abiodun Solomon (09:58 AM): Like you said the...
+Andrés Felipe Urrego Martínez (09:58 AM): you know, from your end. sense when you think about it. Okay, yeah, this actually does make it better to. able to capture the user from the first moment. Thank you.
+UNKNOWN_SPEAKER (09:58 AM): Awesome, awesome.
+Abiodun Solomon (09:58 AM): and we can meet some interesting people. The website and maybe I'll get some Oh, yeah. Do you see what I'm trying to say though, right? Right. Yeah. Yes.
+Abiodun Solomon (09:57 AM): You see what I'm trying to. I'm going to mix it up. I'm going to mix it up.
+Andrés Felipe Urrego Martínez (09:57 AM): the two minutes when you say it just takes two minutes when it says it takes two minutes to post a job right or post a job in just two minutes i think it's something like that i can't remember exactly what it says but but that's a good opportunity right there to kind of uh i don't know make it a big deal right maybe it's a it's a still image of like two minutes boom or I don't know.
+Andrés Felipe Urrego Martínez (09:57 AM): If you can't because it's too long, then do the landing page and something that Creates urgency around it.
+Abiodun Solomon (09:57 AM): Yeah, part of the website, the landing page, if you can use it for 10 seconds, fine.
+Andrés Felipe Urrego Martínez (09:57 AM): But I just say that what you can't change is just the video.
+Andrés Felipe Urrego Martínez (09:57 AM): But if you can, in that, again, the text doesn't have to change the actual script.
+Abiodun Solomon (09:57 AM): Right now, you know, I think you can.
+Abiodun Solomon (09:56 AM): Okay, so Does it make sense? I use the landing page and parts of the website that follow the sound, the audio. Yeah, yeah
+Andrés Felipe Urrego Martínez (09:56 AM): Just really, really, really careful. captured the audience. so that they can leave us in that first 10 seconds.
+Abiodun Solomon (09:56 AM): And then and then you go straight into. Here's how you do it right but but I think we kind of missed an opportunity there in those first 10 seconds to.
+Andrés Felipe Urrego Martínez (09:56 AM): for you.
+Andrés Felipe Urrego Martínez (09:56 AM): dashboard because that's where it is. because that's where that starts, but. It's really important when you have before that. which is the two-minute job posting. Coach, is this a headache?
+Andrés Felipe Urrego Martínez (09:56 AM): And actually, I did an exercise with Jacob. You could cut the video at the 10 seconds. and then just do the captions and say, Why don't you post your job in just a minute? right and then it starts from your
+Abiodun Solomon (09:55 AM): Again, after the 10 seconds. Everything's perfect.
+Andrés Felipe Urrego Martínez (09:55 AM): highlighted and jubilant.
+UNKNOWN_SPEAKER (09:55 AM): Right.
+Andrés Felipe Urrego Martínez (09:55 AM): So I think we have an opportunity there to actually.
+Abiodun Solomon (09:55 AM): impact things that actually make us Pretty much.
+Andrés Felipe Urrego Martínez (09:55 AM): You know, we. Those are impact words, right?
+Andrés Felipe Urrego Martínez (09:55 AM): Just trying to figure out, I don't know. I mean, you know, it's when it says post a job.
+Abiodun Solomon (09:55 AM): So, it could be.
+Andrés Felipe Urrego Martínez (09:55 AM): Yeah, well obviously for these. version. It should be a good opportunity to like, oh, because he says it on the right.
+Andrés Felipe Urrego Martínez (09:55 AM): You know, the initial landing page for.
+UNKNOWN_SPEAKER (09:55 AM): Okay.
+Andrés Felipe Urrego Martínez (09:54 AM): Um, you know, I think I think it might have been a missed opportunity to add maybe, you know, the initial the initial landing page.
+Andrés Felipe Urrego Martínez (09:54 AM): is and they kind of. one to the next very fast, but nothing about it. Look, after the first 10 seconds, everything stands out. It like hooks you between the video and the audio. The first 10 seconds, I feel like that's where our problem's gonna be.
+Andrés Felipe Urrego Martínez (09:54 AM): the AI images, we keep the AI images.
+Abiodun Solomon (09:54 AM): So we.
+Andrés Felipe Urrego Martínez (09:54 AM): Well, to me, not to. one or it should be the most engaging part of the video, right?
+Abiodun Solomon (09:54 AM): So, to me, those are those.
+Andrés Felipe Urrego Martínez (09:54 AM): I think we missed an opportunity.
+Abiodun Solomon (09:54 AM): 10 seconds, 11 seconds.
+Andrés Felipe Urrego Martínez (09:54 AM): Wow, look, I gotta keep it short, but I love the video. Really, really, really liked it. I mean, overall, very good feedback. My only my only others. here would be on the... On the first...
+Abiodun Solomon (09:54 AM): Good afternoon, brother.
+Andrés Felipe Urrego Martínez (09:53 AM): I'm fine Good afternoon.
+Abiodun Solomon (09:53 AM): How are you?
+UNKNOWN_SPEAKER (09:53 AM): There he is.
+Abiodun Solomon (09:53 AM): I think there he is.
+Andrés Felipe Urrego Martínez (09:53 AM): Oh.
+Andrés Felipe Urrego Martínez (09:53 AM): I mean, I can, I can. You can you can talk to him shortly
+Jacob Oluwole (09:53 AM): I don't know. Yeah, absolutely. Absolutely. Thank you. Thank you so much. Jacob if he's not able to That's okay.
+Jacob Oluwole (09:53 AM): I guess. We're going to talk about that. Thank you very much. Yeah.
+Jacob Oluwole (09:52 AM): And that's all I'm going to say. Thank you. Okay, thank you. Thank you.
+Jacob Oluwole (09:52 AM): Thank you very much.
+Jacob Oluwole (09:52 AM): Thanks a lot.
+Jacob Oluwole (09:52 AM): Thank you for joining us. Thank you for joining us. It's time to go. Thank you. Thank you.
+Jacob Oluwole (09:51 AM): Hello. Hello. I think that's a great question. Okay.
+Andrés Felipe Urrego Martínez (09:51 AM): Thank you. Take it off.
+Jacob Oluwole (09:51 AM): Thank you very much.
+UNKNOWN_SPEAKER (09:51 AM): Yes.
+Andrés Felipe Urrego Martínez (09:51 AM): Si, ya. Déjeme ver, pongo aquí la cocina. Thank you very much. Many. Yes.
+Andrés Felipe Urrego Martínez (09:51 AM): Thank you.
+Jacob Oluwole (09:51 AM): Thank you very much. Oh, she's doing it good.
+Andrés Felipe Urrego Martínez (09:51 AM): And that's the good news.
+Jacob Oluwole (09:51 AM): I'm trying to copy the link here.
+UNKNOWN_SPEAKER (09:50 AM): Thank you.
+Jacob Oluwole (09:50 AM): Thank you. It's happening. Again, to the central. We'll see.
+Jacob Oluwole (09:50 AM): Thank you very much. But thank you, guys. I'm going to watch it for days. Thank you so much. I would. Hi.
+Jacob Oluwole (09:50 AM): I'm sorry. Thank you. I'll show you soon. Bye. Oh. Oh.
+Andrés Felipe Urrego Martínez (09:50 AM): No, I think
+Jacob Oluwole (09:49 AM): Thank you. Thank you. Thank you. I'm. Anyone in the team call? Anyone else?
+Jacob Oluwole (09:49 AM): I just couldn't.
+Andrés Felipe Urrego Martínez (09:49 AM): I think so.
+Jacob Oluwole (09:49 AM): Oh, I see.
+Andrés Felipe Urrego Martínez (09:49 AM): He's on the phone.
+Jacob Oluwole (09:49 AM): He's what?
+Jacob Oluwole (09:49 AM): Yeah. Oh.
+Andrés Felipe Urrego Martínez (09:49 AM): Thank you. But I don't know. He's trying to join. It's not asking me to let him in. Please, please don't.
+Andrés Felipe Urrego Martínez (09:48 AM): Okay. I know. Yeah. Always. Always.
+Jacob Oluwole (09:48 AM): Yeah, right now. Thank you for having me.
+Andrés Felipe Urrego Martínez (09:48 AM): I mean, I kind of have to but But we need to, I mean, we can talk to him. I mean, we can talk to him.
+Andrés Felipe Urrego Martínez (09:48 AM): Yeah, yeah, yeah. I'm not dangerous. And what's happening? Thank you. I just don't feel like no.
+Andrés Felipe Urrego Martínez (09:48 AM): I know.
+Jacob Oluwole (09:48 AM): Oh, Abra... Abra is trying to join the call.
+UNKNOWN_SPEAKER (09:48 AM): But...
+Andrés Felipe Urrego Martínez (09:48 AM): Well, I don't think I have anything else. I don't think I have anything If anything comes up, please let me know.
+Andrés Felipe Urrego Martínez (09:48 AM): Okay, Jacob.
+Jacob Oluwole (09:47 AM): Yeah, yeah. Thank you very much.
+Andrés Felipe Urrego Martínez (09:47 AM): I mean, he's always active, he's always responding.
+Jacob Oluwole (09:47 AM): be bogged down with nothing.
+UNKNOWN_SPEAKER (09:47 AM): You know
+Andrés Felipe Urrego Martínez (09:47 AM): Okay. And he's working on the research for the ashram call. No, no, no.
+UNKNOWN_SPEAKER (09:47 AM): Okay.
+Jacob Oluwole (09:47 AM): Please, we need five more votes.
+Jacob Oluwole (09:47 AM): He's fourth year. Yeah.
+Andrés Felipe Urrego Martínez (09:47 AM): Oh, yeah.
+UNKNOWN_SPEAKER (09:47 AM): Yeah.
+Jacob Oluwole (09:47 AM): In the airport. And he is in year four.
+Andrés Felipe Urrego Martínez (09:47 AM): I'm putting my Okay, I can hear you now. He's what?
+Jacob Oluwole (09:47 AM): Hold on.
+Andrés Felipe Urrego Martínez (09:46 AM): Hold on a second.
+Jacob Oluwole (09:46 AM): That's the almost. Anyway. You hear what I'm saying?
+UNKNOWN_SPEAKER (09:46 AM): She what?
+UNKNOWN_SPEAKER (09:46 AM): No. Bye.
+Andrés Felipe Urrego Martínez (09:46 AM): Jesus Christ. In Thailand, I was... Is he doing his finals already?
+Jacob Oluwole (09:46 AM): I don't.
+Andrés Felipe Urrego Martínez (09:46 AM): Hey guys, I'll be out today for the doctor or just met. message me, you know? I'm never going to say no, but I just kind of want to know. You know. you know, if someone's working or not, you know. I mean, that's all it is.
+Andrés Felipe Urrego Martínez (09:46 AM): I don't know what I don't know, so if he doesn't tell me. Those are things that he should just post in the group and say,
+Jacob Oluwole (09:45 AM): So, like I said, we're not going to be available to do any shows today. We're going to be like resting and doing stuff like that. So, it's not today, actually, that, like, I should mention, but I've been asked That's okay. I do. Again, all I'm asking is remember.
+Andrés Felipe Urrego Martínez (09:45 AM): I mean, that's crazy. But I should probably know that.
+Andrés Felipe Urrego Martínez (09:45 AM): and say, hey man, Steve's gonna be out today. But then here I am like, okay, so what is your work? I mean, are we moving? I mean, I know what he's... working now, but are we moving? But then you tell me how his teeth pulled out.
+Jacob Oluwole (09:45 AM): You gotta share this thing. Just send me a quick message.
+UNKNOWN_SPEAKER (09:45 AM): It's hard.
+Andrés Felipe Urrego Martínez (09:45 AM): Thank you, Steve.
+Jacob Oluwole (09:44 AM): but that was Tuesday, he said he went to to treat like you may be sick. If you have the sick, move.
+Jacob Oluwole (09:44 AM): That's where we are at right now. a few weeks to identify. Okay.
+Andrés Felipe Urrego Martínez (09:44 AM): What you're saying is since Monday, that's it. he's working on but you don't have any idea. of where we're at.
+Jacob Oluwole (09:44 AM): collaborative mode. To ask me, but what does that mean? I didn't get a direct answer. I think it was going, it was like, it was, I was actually like tired when he was trying to like do that. He said he will figure it out yet to get that. I should, I will get back at him. So I think that I'm yes. That was it. Not talking about. it flies moving forward.
+Jacob Oluwole (09:43 AM): He said the... Yeah, yeah. that you have to be in
+Jacob Oluwole (09:43 AM): Then we still add the computation. We said it looks like. You can look out I want you to look at my screen. he is trying to like... All right. Thank you very much.
+Andrés Felipe Urrego Martínez (09:43 AM): working on some type of design. What is the development team working on right now, Jacob? The LLM, right? The LLM thing? Yes, yes.
+Jacob Oluwole (09:43 AM): Where are we on?
+Andrés Felipe Urrego Martínez (09:42 AM): Please let me know, I'll jump on a call and in five minutes we'll figure out what it is. But I just don't like those type of things being a task because that's not a task. A task is something that we're technically working on. development, bugs, whatever.
+Andrés Felipe Urrego Martínez (09:42 AM): three minutes it's what am I working on and how do we need what we know what what do we need from Azure to be able to accomplish this thing that's it I mean it's not very complicated And I told Ty yesterday, we shouldn't be researching anything. You guys know this, you guys work with this. What do you need help with? um we need to jump on a cop
+Andrés Felipe Urrego Martínez (09:42 AM): If I write one more time that we're unprepared. The meeting with Asher, I'm gonna, I'm gonna lose the gas. because I've told you this. That's something that takes
+Andrés Felipe Urrego Martínez (09:42 AM): Website where is your business how to log in? I don't know. just update that a little bit, you know, just. because it will affect my Can we get a nod from the developers? group, just ask for it on the group.
+Andrés Felipe Urrego Martínez (09:41 AM): Things every single day we want to be legal thing. the good work. Please, please talk to Ablett. I got it. jump off, but please talk to that. see how soon we can get this video. with some changes to the beginning.
+Andrés Felipe Urrego Martínez (09:41 AM): You know, then we go post them, we share them, and then we have the activity out there to bring people daily, rather than waiting until Friday, pumping Facebook with a bunch of stuff on Friday, and then nobody sees all of it because it was all posted in one day. Just, just think about... what the end goal is. Remember, we want to be able to
+Andrés Felipe Urrego Martínez (09:41 AM): testing and we don't have to test all of it at once. And then we're screwed because we miss things along the way because we're focusing on too many things. Just give me one at a time. move fast, we fix it while you're working on the, I mean, we test it while you're working on the other stuff, then we deliver. more. Same thing, you know, just give us the job post.
+Andrés Felipe Urrego Martínez (09:40 AM): Look, I mean, that's all it is, right? It's just making sure. Again, not wait until the end. We do that on the development. I'm more of like, look, just push it out so we can start
+Jacob Oluwole (09:40 AM): So, I think, I mean, like, before Wednesday or before Thursday, we should have these jobs. But I just think that's part of the response for the league, right? So, I'm sticking with what you said, and I'll go on by that. Thank you. For sure, for sure.
+Jacob Oluwole (09:40 AM): get this thing done, it's all we can. I don't think that will be for the week.
+Jacob Oluwole (09:40 AM): Yes, sir. Yes, sir. I actually do doubt about it. You know. or you give guidance, I'll change that. Yeah, yeah, yeah, yeah. Like pushing Japanese jobs like on that. So I didn't just put this on in doubt.
+Jacob Oluwole (09:40 AM): All right.
+Andrés Felipe Urrego Martínez (09:40 AM): How many can we get today so that we can start delivering to the promise we made to the customer.
+Jacob Oluwole (09:40 AM): How soon can you get this?
+Andrés Felipe Urrego Martínez (09:39 AM): You know the sense of urgency. We need to ask, okay.
+Andrés Felipe Urrego Martínez (09:39 AM): and they don't know, right? always have a clear communication there's always a goal and then there's always what is the deadline when will this be done, right? or depending on the sense of urgency. You were on the call with me, that's why I pointed that out.
+Andrés Felipe Urrego Martínez (09:39 AM): you know, so just just keep an eye out. Remember, let me know. from someone else. If you only give them this task and you don't set a goal or a completion, you're setting yourself up for failure.
+Andrés Felipe Urrego Martínez (09:38 AM): projects delivered to you, you need to set. and the goals need to be tracked. I do this with you every day. when I ask you, how do we do social media today? What was the activity like? And he said, why do you have any? You know, I didn't know about it and remember. If I don't know about it, then, you know. We can't do it, right? I mean, I can't take over. I can at least go and share some of the job posts, whatever.
+Andrés Felipe Urrego Martínez (09:38 AM): You want to change? It's just and again, I'm not I'm not I'm just taking this as a coaching moment, right? is you be able to have.
+Andrés Felipe Urrego Martínez (09:38 AM): If you create this sense of urgency we need to understand is we told the customer this How many a day can you get us while working on the other stuff?
+Jacob Oluwole (09:38 AM): And then we just post them, I mean.
+Andrés Felipe Urrego Martínez (09:38 AM): I now got into a day that would have been sick.
+Andrés Felipe Urrego Martínez (09:38 AM): into his day. It's just when he's doing the video yesterday than today or today I don't know but then again you We talked about this on Monday, Tuesday, Wednesday.
+Andrés Felipe Urrego Martínez (09:37 AM): I understand he wanted to do the video. we pay a thing every month so that we can use it as possible. We used it, then he replaced some of with his own video, then he had to edit it. understand all of that. Creating the two job him just a few minutes and he can squeeze that
+Jacob Oluwole (09:37 AM): Yeah. I don't know. we're doing like a quite stuff like um he said he wanted to do the video They wanted to do it. We know it does things. They wanted to do it with you. It's a non-negotiable. We told the trust.
+Andrés Felipe Urrego Martínez (09:37 AM): But then now we're told Zachary on Thursday Friday. You were there on the call with me when I said on Monday We will start posting and promoting this job Interrupted.
+Jacob Oluwole (09:37 AM): You know it doesn't take a long time.
+Andrés Felipe Urrego Martínez (09:37 AM): You've got to think as a manager and say, hey, you know, we're going to need to at least two of these a day.
+Jacob Oluwole (09:37 AM): And then you gotta get it.
+Andrés Felipe Urrego Martínez (09:37 AM): I mean, we can't just say, hey. do this and then not, you know.
+Jacob Oluwole (09:37 AM): or without deadline.
+Andrés Felipe Urrego Martínez (09:36 AM): until the end you know we just set a date when no further than that day should be done but every day we should be able to just I had an inmate, I had two jobs, three jobs. I mean, it's from what I understand. Placing the name. and the description that's great. So if we found AIDS.
+Andrés Felipe Urrego Martínez (09:36 AM): We just need some every single day though, because we need to be able to post those jobs, Jacob. Why is it that we have this mentality that everything has to be done? Like. This is a perfect example of something that can be. trickled down even to us.
+Jacob Oluwole (09:36 AM): But it was more like giving him a deadline. I think I would tell him that we need it. That's all we can, that's all I can say. My thing is
+Jacob Oluwole (09:35 AM): informed him about it. I told him that Thank you. Wow. Initiate Star Warplay.
+Andrés Felipe Urrego Martínez (09:35 AM): When we talked to Ablad, what did we say about Did we set a deadline?
+Andrés Felipe Urrego Martínez (09:35 AM): Um, okay. And where are we? of the new jobs as far as.
+Jacob Oluwole (09:35 AM): So. So that might be, so I think I can speak my mind out. So I will do that. I will share this. I should go back there. Okay.
+Jacob Oluwole (09:35 AM): Yeah, I posted it before I shared the video. for the content. I should share the content for one device. Hold my mic. I do think What I post on Facebook is what I share on Twitter.
+Jacob Oluwole (09:34 AM): And I was like. I'll leave this comment or share. I feel like you're so yeah. Okay, and the day before.
+Jacob Oluwole (09:34 AM): What's that? I mean, there was no activity that was going on. There was no
+Andrés Felipe Urrego Martínez (09:34 AM): the activity.
+Andrés Felipe Urrego Martínez (09:34 AM): Yeah, how did we do yesterday?
+Jacob Oluwole (09:34 AM): I think. I have no idea. like talks about anything but then he was going like that. like, update me as soon as possible. He don't do anything. So yeah, that's the lesson. And then for social.
+Jacob Oluwole (09:33 AM): email success. Once it's gone, once you speak yesterday Like, I don't know if you got to go to your lectures. Thank you very much.
+Jacob Oluwole (09:33 AM): Thank you. Yeah, I will put my hand up I don't have any updates for my aim.
+Andrés Felipe Urrego Martínez (09:33 AM): Do we have any updates for the call today?
+Jacob Oluwole (09:33 AM): Uh, yeah. Let's do this.
+Jacob Oluwole (09:33 AM): Oh, okay.
+Andrés Felipe Urrego Martínez (09:33 AM): This is how we do it, baby. This is. This is how we're doing. This is how we're This is how.
+Andrés Felipe Urrego Martínez (09:32 AM): Okay.
+Andrés Felipe Urrego Martínez (09:32 AM): What?
+Andrés Felipe Urrego Martínez (09:31 AM): you
+Andrés Felipe Urrego Martínez (09:31 AM): It's okay. It's okay. It's okay.
+Jacob Oluwole (09:31 AM): Hello. What are you doing? Let me call him.
+Jacob Oluwole (09:31 AM): Thank you. So, thanks for being here. Thank you guys. And I just think it's really important to take that into consideration. Thank you. It's.
+UNKNOWN_SPEAKER (09:31 AM): Thank you.
+Jacob Oluwole (09:31 AM): Thank you very much.
+Jacob Oluwole (09:30 AM): Thank you very much. Thank you very much. I think it's going to be.
+Jacob Oluwole (09:30 AM): Thank you so much. No, no, no, no. Okay. Thank you.
+Andrés Felipe Urrego Martínez (09:30 AM): I don't think he's fine.
+Jacob Oluwole (09:30 AM): All right.
+Jacob Oluwole (09:30 AM): Thank you very much. It also is.
+Jacob Oluwole (09:30 AM): I'm a fucking leader.
+Jacob Oluwole (09:29 AM): Thank you. You guys see what I mean? Thank you. Okay. Okay. Thank you. It's. It should be.
+Jacob Oluwole (09:29 AM): Thank you very much. Thank you. Thank you for having me. Thank you very much. Thank you very much.
+Jacob Oluwole (09:29 AM): I'm just kidding.
+Andrés Felipe Urrego Martínez (09:29 AM): There's one person on the line right now. last few days every almost every time that I've. Hello. Hello. average 6 minutes and. seconds so it's getting it's getting Is it going higher?
+Andrés Felipe Urrego Martínez (09:28 AM): 12 users, that's crazy. How is this happening? Let me look at Google Analytics because we'll be able to see if they're coming to regs or how is this happening? Thank you.
+Jacob Oluwole (09:28 AM): I sit down. Yeah, another.
+Jacob Oluwole (09:28 AM): Thank you.
+Andrés Felipe Urrego Martínez (09:28 AM): Got another. to all of you soon.
+Jacob Oluwole (09:28 AM): Oh, my God, Jacob.
+Jacob Oluwole (09:28 AM): Thank you. Thank you.
+Andrés Felipe Urrego Martínez (09:28 AM): Thank you sirs.
+Jacob Oluwole (09:28 AM): So, it is right About.
+Jacob Oluwole (09:27 AM): Thank you. I don't know. It should be. Thank you. I love you.
+Jacob Oluwole (09:27 AM): Thanks.
+Andrés Felipe Urrego Martínez (09:27 AM): seconds. Here it is. Okay, here we go. I'll send it on that group.
+Jacob Oluwole (09:27 AM): Ah, the link to the call. Yeah, give me just two seconds.
+Jacob Oluwole (09:27 AM): I still have that. Can you share with me the link to the form?
+Andrés Felipe Urrego Martínez (09:26 AM): Okay.
+UNKNOWN_SPEAKER (09:26 AM): Okay.
+UNKNOWN_SPEAKER (09:26 AM): Bye.
+Jacob Oluwole (09:25 AM): Thank you very much.
+Andrés Felipe Urrego Martínez (09:25 AM): Yes, if he's available, yeah, for sure.
+Jacob Oluwole (09:25 AM): He's the only one. You see how. Yeah, that's fine.
+Andrés Felipe Urrego Martínez (09:25 AM): Yeah, man, it's just...
+Andrés Felipe Urrego Martínez (09:25 AM): It doesn't have to be a headache. It takes just two minutes sign up as a doctor At the beginning, the business side of the website. that the Um.
+Andrés Felipe Urrego Martínez (09:24 AM): Or until like a couple of days ago. I noticed I was clicking on the wrong screen. Why is it moving? I had no idea. It was weird. so anyway, so. So, yeah. need professionals professionals for your business.
+Andrés Felipe Urrego Martínez (09:24 AM): I guess I've never the I've never used that before.
+Jacob Oluwole (09:24 AM): show. It's on Zoom. That's pretty cool.
+UNKNOWN_SPEAKER (09:24 AM): What's that?
+Andrés Felipe Urrego Martínez (09:24 AM): now like where we're at. If you're sharing screen you manage that screen from the screen sharing.
+Andrés Felipe Urrego Martínez (09:24 AM): Did you know that when you're sharing a screen on Google or like at least on the Google one on the right.
+Andrés Felipe Urrego Martínez (09:24 AM): It's not moral. So like, you know, in there. there's very important things that are said like. like, you know, do this in just 10 seconds and.
+Andrés Felipe Urrego Martínez (09:23 AM): the fifth
+Jacob Oluwole (09:23 AM): Something. Right. or in the white streets, white scholars. Yeah, I mean.
+Jacob Oluwole (09:23 AM): It's not a good day of good observations. Like, I didn't like. On the. on the rituals. Yeah, you're very right about that, because we are trying to like, feed them a good drug, and they have seen it, and they got rituals about it.
+Andrés Felipe Urrego Martínez (09:23 AM): What are your thoughts? I just don't want people to get lost on these first 10 seconds. is when the rest of it is what actually gives you. Yeah, they write about that.
+Jacob Oluwole (09:23 AM): OK. Like. Yeah, I don't know.
+Andrés Felipe Urrego Martínez (09:23 AM): reduced the amount of images that go through. We're not doing that.
+Andrés Felipe Urrego Martínez (09:22 AM): The edit should have ended here. He's the headache. It's stupid. Yeah, I don't know. I just feel like. first 10 seconds could have included a bit of. to a I mean, it's absolutely awesome video, but I think we can. 10 seconds a little bit better.
+Andrés Felipe Urrego Martínez (09:22 AM): and Two minutes. Sign up as an employer. Good job. with more.
+Andrés Felipe Urrego Martínez (09:21 AM): good. It's just a bunch of AI images, you know, like. Look, he could have just we could on. This one we get this this this. and the next picture are like very. they switch very fast. So like there's. many images so we can take out this computer thing.
+Andrés Felipe Urrego Martínez (09:21 AM): But the first part of information.
+Jacob Oluwole (09:21 AM): Yavuz was telling me to that, if I can work it out. I can't copy that. It means that... like mentioned, maybe the first 13 seconds. background coffee dots before posting. Yeah, I mean we can do that, but...
+Andrés Felipe Urrego Martínez (09:21 AM): Yeah.
+Andrés Felipe Urrego Martínez (09:21 AM): Okay, right here the title could be like how to post a job on my lab dot-com and and you can start literally from there. I mean... whatever you like but I feel like you show. Thank you.
+Andrés Felipe Urrego Martínez (09:20 AM): Loyal AI can even create an optional skill test. for candidates with multiple choices. And I can actually start this video at 13 seconds.
+Andrés Felipe Urrego Martínez (09:20 AM): job title and category. Then click generate for me. and watch as 

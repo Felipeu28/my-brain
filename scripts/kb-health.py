@@ -141,19 +141,27 @@ def check_duplicate_raw_files():
 
 
 def check_broken_wikilinks():
-    """Scan every wiki page for wikilinks that don't resolve."""
-    broken = defaultdict(list)  # source_page → [broken_target, ...]
+    """Scan every wiki page for wikilinks that don't resolve.
+
+    Returns (broken_wiki, broken_raw) — split so raw/ misses (which mean a
+    wiki page references a raw source that was never ingested or has been
+    renamed) can be reported separately.
+    """
+    broken_wiki = defaultdict(list)
+    broken_raw = defaultdict(list)
     template_patterns = {"wiki/concepts/X", "wiki/moil/Z", "wiki/people/Y",
                          "wiki/folder/slug", "Display Label", "wiki/...",
                          "wikilinks", "links", "target"}
     for p in WIKI_DIR.rglob("*.md"):
         content = read_file(p)
         for link in extract_wikilinks(content):
-            if link in template_patterns or link.startswith("raw/"):
+            if link in template_patterns:
                 continue
-            if not wikilink_to_path(link):
-                broken[str(p.relative_to(KB_DIR))].append(link)
-    return broken
+            if wikilink_to_path(link):
+                continue
+            bucket = broken_raw if link.startswith("raw/") else broken_wiki
+            bucket[str(p.relative_to(KB_DIR))].append(link)
+    return broken_wiki, broken_raw
 
 
 def check_orphan_wiki_pages():
@@ -293,7 +301,7 @@ def generate_report():
     lines.append("")
 
     # 2. Broken wikilinks
-    broken = check_broken_wikilinks()
+    broken, broken_raw = check_broken_wikilinks()
     total_broken = sum(len(v) for v in broken.values())
     lines.append("## 2. Broken wikilinks")
     if total_broken == 0:
@@ -305,6 +313,20 @@ def generate_report():
             lines.append(f"  - `{src}` → {', '.join(targets)}")
         if len(broken) > 30:
             lines.append(f"  - ...and {len(broken) - 30} more pages")
+    lines.append("")
+
+    # 2b. Broken raw/ wikilinks (404s on the deployed site)
+    total_broken_raw = sum(len(v) for v in broken_raw.values())
+    lines.append("## 2b. Broken raw/ wikilinks (will 404 on deployed site)")
+    if total_broken_raw == 0:
+        lines.append("✅ None")
+    else:
+        errors += total_broken_raw
+        lines.append(f"❌ {total_broken_raw} broken raw/ links across {len(broken_raw)} pages:")
+        for src, targets in sorted(broken_raw.items())[:30]:
+            lines.append(f"  - `{src}` → {', '.join(targets)}")
+        if len(broken_raw) > 30:
+            lines.append(f"  - ...and {len(broken_raw) - 30} more pages")
     lines.append("")
 
     # 3. Orphan pages

@@ -1,0 +1,177 @@
+---
+type: transcript
+---
+
+# 20250108 Nvidia Inception Program Transcript
+
+**Date:** 2025-01-13
+**Type:** meeting-transcript
+
+---
+
+Jan 8, 2025 | Nvidia Inception Program
+Invited Guests:
+Live Notes | Read Meeting Report
+————————
+Live Transcript
+Jacob Oluwole (09:36 AM): I know I wrote to Biden.
+UNKNOWN_SPEAKER (09:33 AM): Thanks.
+Andrés Felipe Urrego Martínez (09:33 AM): how we're gonna do that, how we're gonna. either give you guys access or maybe you guys just have to ask me. for the code. All right, brother. I'll see you in a bit. Talk to you, like, literally just a second. I'll be right there.
+Andrés Felipe Urrego Martínez (09:33 AM): and then I'll jump on the call and we'll figure out.
+Jacob Oluwole (09:33 AM): So he said, I should just tell them to like, push this side. Yeah, yeah, yeah, just the developer.invidia.com.
+Andrés Felipe Urrego Martínez (09:32 AM): If you're talking, okay.
+Andrés Felipe Urrego Martínez (09:32 AM): call, uh, have the guys, uh, you know, go to that developer.invidia.com and then we'll see if I can have you guys all enter a code and then just sign in at different times. See if it lets you sign all at the same time. Um, go ahead and do that. And I'm going to finish this email and I'll be on the call right away.
+Andrés Felipe Urrego Martínez (09:32 AM): Yeah, Jacob, why don't you do me a favor? Why don't you jump over to the
+Andrés Felipe Urrego Martínez (09:32 AM): We're going to change.
+Andrés Felipe Urrego Martínez (09:32 AM): Good morning.
+Andrés Felipe Urrego Martínez (09:32 AM): Smelly
+Andrés Felipe Urrego Martínez (09:31 AM): It shouldn't be.
+Andrés Felipe Urrego Martínez (09:31 AM): I don't have a mic. computer shows
+Andrés Felipe Urrego Martínez (09:31 AM): It is broken.
+Andrés Felipe Urrego Martínez (09:31 AM): What is happening to my computer?
+Andrés Felipe Urrego Martínez (09:30 AM): my screen. Just a second. Just a second.
+Andrés Felipe Urrego Martínez (09:30 AM): Sorry, I'm sending an email, but I don't know why it stopped sharing.
+Jacob Oluwole (09:30 AM): Let me let me know when you're done.
+Andrés Felipe Urrego Martínez (09:30 AM): So I just added you guys anyway, but yeah, that's that's where we request the benefits that we already have Thank you. real quick.
+Andrés Felipe Urrego Martínez (09:29 AM): go to the developer.invidia.com that I sent you. Yeah, that's just the lead for. Yeah, I know. It lets me add. part of the company, but you can't do anything in there.
+Andrés Felipe Urrego Martínez (09:29 AM): Do you have access to it? Oh, no, no, no, no. You gotta get out of there. You gotta get, you gotta go. Did I, I sent you a link, didn't I?
+Jacob Oluwole (09:29 AM): They should.
+Andrés Felipe Urrego Martínez (09:29 AM): yesterday. I'm going to share this with them. Well, see, I still can't access this.
+Andrés Felipe Urrego Martínez (09:29 AM): How awesome is that? And then there's the self pays and then there's the instructor. Augment your LLM usage retrieval. generation the guy should be taking I told you the guy should be taking this as an
+UNKNOWN_SPEAKER (09:29 AM): Three.
+Andrés Felipe Urrego Martínez (09:28 AM): They don't have the thing that says free. Okay. So again, you know, topics get focused on what we're doing right now. Right. I think deep learning is the next step, but we start with gen AI. And fine again. and find what's free out there, building rag agents with LLMs. Look at that. Look at that, three, eight hours.
+Andrés Felipe Urrego Martínez (09:28 AM): Sort by, look, we're gonna do.
+Andrés Felipe Urrego Martínez (09:28 AM): so let's um okay so Anyway, so Jacob, what I wanted you to see is. There is so much. much. Let's just go back here real quick.
+Andrés Felipe Urrego Martínez (09:28 AM): Have you gone? Have you left? All right, cool. Very good.
+Jacob Oluwole (09:28 AM): I want to die on board.
+Andrés Felipe Urrego Martínez (09:28 AM): Hello, lad. Have you left the room? Have you left the room, man? No, I can't hear you.
+Andrés Felipe Urrego Martínez (09:27 AM): And yeah, kind of add this portion of learning and continuous development to our cause. Because like I said, that's very important for you guys and for myself. And if we can create this culture and have it around the company, then I think we're in a good place.
+Andrés Felipe Urrego Martínez (09:27 AM): like, guys, you gotta see this one. I really loved it. And then we watch it.
+Andrés Felipe Urrego Martínez (09:27 AM): We'll do like every day, we'll do a little bit of. We'll do a little bit of training. and learning and development, 10, 15 minutes. If anybody finds any questions, please feel free to contact me. video that they're learning as well that they want to share, they can do that. You can do that, right?
+Andrés Felipe Urrego Martínez (09:27 AM): know at least you know take take some of the initial courses as a team to make sure that we're all on the same page, that we're all learning and understanding and But you know...
+Andrés Felipe Urrego Martínez (09:26 AM): I just, you know, like just just to kind of get everybody in the habit of it and then tomorrow we can talk about what we learned about maybe, you know, we We have let's do this as a team. Let's learn, you know.
+UNKNOWN_SPEAKER (09:26 AM): Okay.
+Andrés Felipe Urrego Martínez (09:26 AM): You know what I'm saying?
+Andrés Felipe Urrego Martínez (09:26 AM): video in our call. And then everybody else has to finish the rest of it on their own.
+Jacob Oluwole (09:26 AM): you watch like 11 minutes of the
+Andrés Felipe Urrego Martínez (09:26 AM): Here's what we're going to do, Jacob. This one is 11. minutes, we're gonna get Yeah.
+Jacob Oluwole (09:26 AM): And taking today, we're going to be.
+UNKNOWN_SPEAKER (09:26 AM): Hello, everyone, and welcome to the Deep Web.
+Andrés Felipe Urrego Martínez (09:26 AM): Oh, my Lord. What in the world?
+Andrés Felipe Urrego Martínez (09:25 AM): that's
+Jacob Oluwole (09:25 AM): How do we get started?
+Jacob Oluwole (09:25 AM): So 0.10 is 0.20. So it's going to be like this.
+Andrés Felipe Urrego Martínez (09:25 AM): I don't think they're two minutes. Nah, I think they're exhausted.
+Andrés Felipe Urrego Martínez (09:25 AM): I think he's got to be two hours.
+Andrés Felipe Urrego Martínez (09:24 AM): world.
+Andrés Felipe Urrego Martínez (09:24 AM): Let's see. I can just click on that button.
+Andrés Felipe Urrego Martínez (09:24 AM): Are you going to get started?
+Andrés Felipe Urrego Martínez (09:23 AM): Are you? Hi.
+Andrés Felipe Urrego Martínez (09:23 AM): Let's see something.
+Jacob Oluwole (09:23 AM): Let's see for a little bit.
+Andrés Felipe Urrego Martínez (09:22 AM): the the
+Andrés Felipe Urrego Martínez (09:22 AM): So how do I start?
+Andrés Felipe Urrego Martínez (09:22 AM): I love you.
+Andrés Felipe Urrego Martínez (09:22 AM): Okay, how do I take this course?
+Jacob Oluwole (09:22 AM): Two hours, ten minutes. I think it's ten minutes, two hours.
+Jacob Oluwole (09:22 AM): I think two minutes. I think two minutes. Four minutes. One minute. Okay.
+Jacob Oluwole (09:21 AM): You can find me on Twitter. Yeah.
+Andrés Felipe Urrego Martínez (09:21 AM): So again, there's a lot to learn. here. Yes.
+Jacob Oluwole (09:21 AM): Okay.
+UNKNOWN_SPEAKER (09:21 AM): application.
+Andrés Felipe Urrego Martínez (09:21 AM): But, you know, it can be due.
+Andrés Felipe Urrego Martínez (09:21 AM): I think Steve was having issue with that.
+Jacob Oluwole (09:20 AM): Deploying a model for interference on a producer's scale. Which one?
+Andrés Felipe Urrego Martínez (09:20 AM): Look.
+Jacob Oluwole (09:20 AM): Okay, there we go.
+Andrés Felipe Urrego Martínez (09:20 AM): new topics. Gen AI.
+Andrés Felipe Urrego Martínez (09:20 AM): Okay, so fine-tune. All right. Okay, check this out. So we'll do
+Andrés Felipe Urrego Martínez (09:19 AM): here. And then we'll go here. Um fine training check this
+Andrés Felipe Urrego Martínez (09:19 AM): Using retrieval augmented generation. Like this, like one hour and complete. free like the guys should take this like. right? but but now check this out so we will get out of the
+Andrés Felipe Urrego Martínez (09:19 AM): Like look, look, augmenting your LLM.
+Jacob Oluwole (09:19 AM): Oh yeah. Oh.
+UNKNOWN_SPEAKER (09:19 AM): Geez.
+Jacob Oluwole (09:19 AM): Oh my God, I'm sorry.
+Jacob Oluwole (09:19 AM): poets. I am not on this.
+Andrés Felipe Urrego Martínez (09:18 AM): Gen AI and large language models training for developers, right? So foundational AI for all from basics to Gen AI practice, generative AI explained, getting started with deep learning so that see some of these, we have to pay for them. and we have some credits for it.
+Andrés Felipe Urrego Martínez (09:18 AM): classes to actually guide us to be able to to learn more. So, so check this out. You have
+Andrés Felipe Urrego Martínez (09:18 AM): Invidia Deep Learning Institute. Institute, so that we have. 25 credits for class. that are actually paid by what I the guys is what we're going to do is we're going to start with the free classes and then you're gonna find some of the paint.
+Andrés Felipe Urrego Martínez (09:18 AM): Access to be able to learn which is this tab right here Okay, so the Vita developer and then check this out. So training, right?
+Andrés Felipe Urrego Martínez (09:17 AM): or I really don't know what that will get you access to. I think that's more like to see what we've been approved and what we haven't been approved. to like request benefits and what Here is where I requested like like the, you know, the,
+Andrés Felipe Urrego Martínez (09:17 AM): Yeah, um now That one I mean, and that was just.
+Jacob Oluwole (09:17 AM): And it's a shot. We try to.
+Jacob Oluwole (09:17 AM): I was like, okay. Inception account has been created for you. Continue the application process. I'll check your windows and I can plug into it. I've been talking to some of these people.
+Jacob Oluwole (09:17 AM): We were approved for the 25,000. Thank you.
+Andrés Felipe Urrego Martínez (09:17 AM): Yeah, I remember. Yeah, she was a brute.
+Andrés Felipe Urrego Martínez (09:16 AM): What? This is approved. Oh, but it was approved
+Andrés Felipe Urrego Martínez (09:16 AM): for the... OK, yeah, I don't know.
+Andrés Felipe Urrego Martínez (09:16 AM): Hmm, let's see if you got any email. Can you check and see if you got an email? This is for
+Jacob Oluwole (09:16 AM): Just a second I'm adding you Is that my
+Andrés Felipe Urrego Martínez (09:15 AM): Okay. Thank you.
+Andrés Felipe Urrego Martínez (09:15 AM): Manage users.
+Andrés Felipe Urrego Martínez (09:15 AM): Let's see, so account... so
+Andrés Felipe Urrego Martínez (09:14 AM): Okay, let me see if I can add someone to okay so if not then unfortunately I'll have to give you access I guess or like give you code. But let's
+Andrés Felipe Urrego Martínez (09:14 AM): Okay.
+Jacob Oluwole (09:14 AM): Yes, I do.
+Andrés Felipe Urrego Martínez (09:14 AM): So yeah, it's developer.invidia.com. Do you have authenticator?
+Andrés Felipe Urrego Martínez (09:14 AM): Okay, so now...
+Andrés Felipe Urrego Martínez (09:14 AM): authenticator code. Please you don't. What do you think?
+Andrés Felipe Urrego Martínez (09:14 AM): So website is, oh. Okay, I'll send it to you in a little bit. Ah, okay. Yeah, so it's going to be yes, it's going to be
+Andrés Felipe Urrego Martínez (09:14 AM): No, no, for sure. But let me
+Jacob Oluwole (09:14 AM): email password login. Yeah, yeah, yeah.
+UNKNOWN_SPEAKER (09:13 AM): Hello. Yeah.
+Jacob Oluwole (09:13 AM): password and login guys.
+Andrés Felipe Urrego Martínez (09:13 AM): Okay, so the website.
+Andrés Felipe Urrego Martínez (09:13 AM): Hello? Bye. Oh.
+Andrés Felipe Urrego Martínez (09:13 AM): It's not a vision. Education or something? Developer is another one.
+Andrés Felipe Urrego Martínez (09:13 AM): When you come here. Well, maybe it's just.
+Jacob Oluwole (09:13 AM): Yeah, you can, right? All right.
+Andrés Felipe Urrego Martínez (09:12 AM): We're all a computer. Okay, so I think you're going to have... ... let me switch to this tab instead. Okay, can you see my screen?
+Jacob Oluwole (09:12 AM): Here we go.
+Andrés Felipe Urrego Martínez (09:12 AM): Sorry, just a second.
+Jacob Oluwole (09:12 AM): I can't see it.
+Jacob Oluwole (09:12 AM): Oh.
+Andrés Felipe Urrego Martínez (09:11 AM): Oh.
+Andrés Felipe Urrego Martínez (09:11 AM): OK, I see. All right, so.
+UNKNOWN_SPEAKER (09:11 AM): years.
+Jacob Oluwole (09:11 AM): Yeah, I think he's good now. Really?
+Andrés Felipe Urrego Martínez (09:11 AM): I don't know. You think it's me? I don't know, nothing has changed.
+Andrés Felipe Urrego Martínez (09:11 AM): Oh, so then I.
+Jacob Oluwole (09:11 AM): Yeah.
+Andrés Felipe Urrego Martínez (09:11 AM): This is worse?
+Jacob Oluwole (09:11 AM): I can. I can. OK. Can you hear me OK? This is worse.
+Jacob Oluwole (09:11 AM): Can you hear me?
+Andrés Felipe Urrego Martínez (09:11 AM): Oh, does it sound echoey? Okay, hold on a second then.
+Andrés Felipe Urrego Martínez (09:11 AM): What's that? Hey, you're connected to your speaker.
+Andrés Felipe Urrego Martínez (09:10 AM): I need to.
+Jacob Oluwole (09:10 AM): Let me.
+Andrés Felipe Urrego Martínez (09:10 AM): How are you doing today? Okay.
+Jacob Oluwole (09:10 AM): Thank you very much for your time.
+Andrés Felipe Urrego Martínez (09:10 AM): Hello, Jacob.
+Jacob Oluwole (09:10 AM): I'm back home.
+Andrés Felipe Urrego Martínez (09:10 AM): Okay, I'm good.
+Andrés Felipe Urrego Martínez (09:09 AM): No, no. I don't know.
+Andrés Felipe Urrego Martínez (09:09 AM): Hello. Ow.
+Andrés Felipe Urrego Martínez (09:07 AM): Fuck it.
+Andrés Felipe Urrego Martínez (09:07 AM): Mhm.
+UNKNOWN_SPEAKER (09:06 AM): Hello?
+Andrés Felipe Urrego Martínez (09:06 AM): Hello?
+Jacob Oluwole (09:06 AM): Let me pick up this voice, my brother. Please, please, go ahead.
+UNKNOWN_SPEAKER (09:06 AM): So.
+Andrés Felipe Urrego Martínez (09:06 AM): No, I'm just kidding.
+Jacob Oluwole (09:06 AM): Hey, are you hearing me now?
+UNKNOWN_SPEAKER (09:06 AM): Okay.
+Jacob Oluwole (09:06 AM): Can you hear me?
+Andrés Felipe Urrego Martínez (09:06 AM): if I'm not mistaken. Oh, you guys here.
+Andrés Felipe Urrego Martínez (09:06 AM): just a bit. Scott. The guys from, what was it? Hold on a second. I think you guys are going to have to to sign in with my email address.
+Andrés Felipe Urrego Martínez (09:05 AM): like a thousand bucks or something it's actually a couple months but that's why we're trying to have... Oh my God, I have an email from that. I'm gonna reply to him right now.
+Jacob Oluwole (09:05 AM): Not a whole lot.
+Jacob Oluwole (09:05 AM): So now that we see running on credit on AWS. Yes. Oh, yeah, yeah, we still have some.
+Andrés Felipe Urrego Martínez (09:05 AM): Um, so I'm always going to try and get as many as we possibly can. because, you know. All right.
+Andrés Felipe Urrego Martínez (09:05 AM): right now, but if you look at If you look at the billing, I mean, it's. The amount of money that we're saving right now. like by having all of this credit.
+Andrés Felipe Urrego Martínez (09:05 AM): Because that, I mean... We don't, obviously we don't see it because we're not paying for it.
+Andrés Felipe Urrego Martínez (09:05 AM): excited, you know, but I got to keep pushing.
+Andrés Felipe Urrego Martínez (09:05 AM): Yeah for asher We went from 5,000. you know, 25,000, you know, so that's, it's really good, really good.
+Andrés Felipe Urrego Martínez (09:04 AM): and then see, you know, try to push and see if we can it approved. We already got the other one, you know, I had to open a couple Okay, this is on the other one, because... for, uh, What's it called for?
+Andrés Felipe Urrego Martínez (09:04 AM): you know, to like actually give it to us. know, I always like to open the cases and
+Andrés Felipe Urrego Martínez (09:04 AM): I mean, that was a little bit of a shock, but hey, you know. I'll still wait. they have no obligation whatsoever, you know, to like.

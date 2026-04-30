@@ -1,7 +1,5 @@
 ---
 type: note
-ingested: true
-ingested_at: 2026-04-18
 ---
 
 # Moil Enterprise — Business Plan

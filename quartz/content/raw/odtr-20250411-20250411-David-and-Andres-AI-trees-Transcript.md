@@ -1,0 +1,280 @@
+---
+type: transcript
+---
+
+# 20250411 - David and Andres - AI trees - Transcript
+
+**Source:** OneDrive transcript
+**Date:** 2025-04-11
+**Original file:** 20250411 - David and Andres - AI trees - Transcript.docx
+
+---
+
+Apr 11, 2025 | David and Andres - AI trees
+Invited Guests: andres@moilapp.com, davidcares33@gmail.com
+Live Notes | Read Meeting Report
+————————
+Live Transcript
+(09:05 AM):
+David Levesque (09:04 AM): So he, well I was talking to them about training these people. do an install seller so that you can do that job. And where it ended up was.
+Andrés Felipe Urrego Martínez (09:04 AM): the fifth How cool is that, right? Yeah, anything and anything that provides. better opportunities, man.
+David Levesque (09:03 AM): Yeah, I just opened it up.
+Andrés Felipe Urrego Martínez (09:03 AM): The Hungry Hill Foundation is...
+David Levesque (09:03 AM): this thing going. I like what you think, yeah.
+David Levesque (09:03 AM): that's doing it and they have the links on the property for 25 years. This is Chase, who's the founder of it. You see my screen, right? Yes, yes, yes. I'm looking at it right now. So the last time I talked to him was like... a year ago, and he was trying to raise $6 million. million dollars to rehab the property I don't know current status is, but I could see this hackathon or sooner actually. Just consider it like being a thing. that could be the catalyst.
+David Levesque (09:03 AM): St. John's property is like I said five acres. There's like three very different on it. The Hungry Hill Foundation is the group
+Andrés Felipe Urrego Martínez (09:02 AM): with giving them that digital presence or educating them around the importance of having a digital presence rather than just keep saying, I'll do whatever, I'll take whatever job, right? It's humanizing the workforce. so so I mean yes I mean they have those programs, if they, you know, if they're educated. if they're trying to get people back on the workforce. Then absolutely, I mean. OK. So here's the article in the paper.
+Andrés Felipe Urrego Martínez (09:02 AM): I mean, I work... days have worked with the Texas Office for Refugees. the city of Austin. as you know, so, so. I like to do a lot of. the little free time education. programs for poor people. improve their chances. of finding a better job and actually building a career. future, right? So it all starts with
+David Levesque (09:02 AM): Potential. Yeah, no, look. You're absolutely right, David.
+David Levesque (09:01 AM): I will put a little bit more thought into the concept of a hackathon if you're cool with that or sound like you are And we could play with it and see How does it fit in? How do we get our returns and what the timeline looks like? I also wanted to say, I've been working with a group East Austin called I don't really, I don't remember what they're called, but they own a... church and five acres of land in East Austin. And it's specifically for developing skills for homeless people or people coming out of jail. Oh, that's not necessarily your initial thought Market I think but I think. They could be a good...
+David Levesque (09:01 AM): Very nice. All right, so I'm going to be on vacation starting tomorrow.
+Andrés Felipe Urrego Martínez (09:01 AM): So that's the goal.
+David Levesque (09:01 AM): could be done, a house like yours. $25,000. Not for me. Got it. under this model that doesn't exist yet. No, no, no, exactly, exactly.
+Andrés Felipe Urrego Martínez (09:01 AM): So we can get your house.
+David Levesque (09:00 AM): And then Savaree, that cuts down on the labor to put it on the roof. So instead of eight hours on the roof, it can be done in one hour. So now you're cutting down the labor a lot. Yeah, very nice.
+David Levesque (09:00 AM): expensive is two reasons. One is the commissions to the salespeople which can be 30% of the price. that $40,000 the salesperson is making. $10,000. Yeah, not kidding you All right, so we can cut out a lot. the salesperson. Of course, the software still needs to make some money. So there's There's still some commission coming to the software company. but it's not as much as a person needs to make. scale and has lower cost of operations.
+David Levesque (09:00 AM): The reason that solar is
+Andrés Felipe Urrego Martínez (09:00 AM): Just put the homeowner self-serving opt-in to say hey, I want to buy that thing.
+David Levesque (08:59 AM): It is designed to make the price go down. One is the cost of customer acquisition. which is 30% the hardware which is 30% and labor, which is 30%. So if we build a tool like this where a homeowner can go and find out their costs without any middleman and any cost of customer acquisition we could cut the price by like Exactly.
+David Levesque (08:59 AM): So here's the thing, Savari is designed to make the The company that I work for is called Savari, right? Yeah.
+Andrés Felipe Urrego Martínez (08:59 AM): that's what I'm talking about $100,000 the Tesla thing or $40,000 to to put the solar panels again. This is a quote where you put your address and it But, but when you think about it, I mean, I'm assuming later on price, I mean, eventually price will continue to go down, becomes more affordable, more, you know, that's the entire plan, I assume.
+Andrés Felipe Urrego Martínez (08:59 AM): Solar used to be a lot more expensive.
+David Levesque (08:58 AM): So there's the Still pricey, is that what you're saying? Is that what you're saying? Solar is pricey? Oh, you're ticking again. Can't hear you. Yeah, sorry, I don't know what keeps happening, but yeah, so.
+Andrés Felipe Urrego Martínez (08:58 AM): Prices have gone down, but it's still pricey, yeah.
+David Levesque (08:58 AM): What do you call it? Simple? Like just do it a high dollar name? that don't have trees, walk around and knock on the doors. That's the way it's been done for the last 20 years. It's still expensive.
+David Levesque (08:58 AM): out of, let's say, 30 million houses. Probably more like, something like 10%. So I guess it's 10 million houses, 12 million houses, somewhere like that. And that's the most dense in the whole country is California. Texas is something like only 250,000 installations. So my. Yeah, my point is that the way that for solar has been done so far it's kind of like very
+David Levesque (08:57 AM): Well, pretty much they just go after the wealthy people that live in bigger Okay, so they're not. the fifth state of California there's something like 1.3 million solar installations.
+Andrés Felipe Urrego Martínez (08:57 AM): make smaller panels that fit those. I don't know how, how we. the industry working on it?
+Andrés Felipe Urrego Martínez (08:57 AM): David, like on the uneven roofs.
+David Levesque (08:57 AM): create a rank for the whole industry working on that.
+Andrés Felipe Urrego Martínez (08:57 AM): Yeah, so the goal is to like.
+David Levesque (08:57 AM): OK, got it.
+Andrés Felipe Urrego Martínez (08:57 AM): because the ones that you said this is good is because fifth The other ones are very, the roof has too many shapes. Yeah, exactly good.
+David Levesque (08:56 AM): are the best without the software doing anything, just like, this is a great roof, this one's not. This is a great group, right? These two are not.
+David Levesque (08:56 AM): Talk to people like, okay, look at this neighborhood, which ones?
+Andrés Felipe Urrego Martínez (08:56 AM): Very nice.
+David Levesque (08:56 AM): Thank you. Very nice.
+Andrés Felipe Urrego Martínez (08:56 AM): That's some very cool stuff that you're working on. You've obviously made some good progress. I mean, you have what matters the most, which is. in the industry, so you know the pain points, you know what needs to be built is just...
+David Levesque (08:56 AM): bills, but it's quite a spreadsheet to calculate all this. over 25 years, you know? And so... Very nice, man.
+David Levesque (08:56 AM): You don't see anything about what created these financials.
+David Levesque (08:55 AM): functionality, right? So you could say, ask a single one-story residence. residential. So yeah, so that exists and. It doesn't have any funding except for my own wallet right now. I'm working on launching it with a few other people. people for the commercial application. and then it needs some more work for that. the residential application because it's quite challenging to come up with these Sitting in here.
+Andrés Felipe Urrego Martínez (08:55 AM): and not the price of the home, not the... Okay, I see, I see what you're saying. Okay, so this is financial. Just kind of like how much it would cost. Right. Got it. Got it. Got it. I see you. So I built all this tagging
+David Levesque (08:55 AM): batteries. Nothing to do with them.
+Andrés Felipe Urrego Martínez (08:55 AM): And we can typically probably pull that from like, I don't know how you've thought. of it by connecting to like Zillow API or you know places where all that information is already available. Well, so this is all financials related to solar and battery.
+David Levesque (08:54 AM): And we're still iterating on this part. This whole section is designed to show you all the financials. property and all that stuff. of the home and yeah.
+David Levesque (08:54 AM): didn't show you anything else that the app could do. It's a great tool for when you're standing next to people and you can just have this conversation about your roof, right? So that was cool. Below this it's not It's not publicly.
+Andrés Felipe Urrego Martínez (08:54 AM): Yeah, very briefly. I think, you know, you said we might not have the best. Right I showed you the I showed you your roof but I don't
+David Levesque (08:54 AM): Oh my I don't know. Yeah The 661 Quarter Avenue.
+Andrés Felipe Urrego Martínez (08:54 AM): No, what's your address again?
+David Levesque (08:54 AM): This is designed so that anybody can come. and type in their address and it will give them without requiring you to put in your email. or any other commitment on your part, right? What's your, did we look at this the other day on your? We did not, no, no, no.
+Andrés Felipe Urrego Martínez (08:54 AM): Where are the young farmers?
+David Levesque (08:54 AM): have some things that it needs.
+David Levesque (08:53 AM): send it over to the AI and make a video of the process. So, when you talk about. gathering like thousands of pictures. train the AI. of pictures with the click of a button using this tool. Very good, very good, that's what you're thinking. So that's pretty cool So this is pretty much ready. for Prime Time and ready to launch and could be like. the anchor brand for the hackathon because it doesn't
+David Levesque (08:53 AM): You know, so So this tool, in terms of... taking pictures, what it does is... I don't have it here. So in the development environment, I can click... And it will take a picture a screenshot of this
+UNKNOWN_SPEAKER (08:53 AM): Of course.
+David Levesque (08:52 AM): the closest utility poles and transformers because If I'm going to invest in solar panels, let's say on this, I need to know if I also have this cost of upgrading the transformer.
+David Levesque (08:52 AM): buildings in Austin on a map. not all of them, but the ones that I haven't rated so far. And then I haven't ranked by the number of sites, the amount of solar energy. panels you can put on it. It outputs how much revenue that product is making. I love it. For this, you don't need the tree analysis, right? But what you do need is where are the
+Andrés Felipe Urrego Martínez (08:52 AM): So this is all the commercial buildings.
+Andrés Felipe Urrego Martínez (08:52 AM): I was following that one but I think once you
+David Levesque (08:52 AM): I don't know. I don't know what I did.
+Andrés Felipe Urrego Martínez (08:52 AM): Oh, God. Did you?
+David Levesque (08:51 AM): build this and what it does is It basically makes an index of all the properties in the system. city. You can see here all the properties in Austin and it ranks them by how much solar you can put on the roof. I don't think I'm seeing your screen.
+David Levesque (08:51 AM): but there's so many variables that go into it like the shading. on the roof and the sides of the roof and the sides of the solar panel. and the budget and the rate for the utility. and there's like 15 variables that go into this algorithm to optimize for this. So it's quite as blissful. if you could build an algorithm to do it, you know? The other thing I've built, and this is not... Build with AI at all. This is actually built Not coding, but no code. Oh, okay, yeah, yeah, no code out. Yeah, so I built this over the last, it took me.
+David Levesque (08:50 AM): That's a huge problem in the industry the way it's done today is I do I do a design for solar panels And then I guess how many batteries and I look at it, and then I guess again, and then I guess again. It's like Takes a half hour or 45 minutes to try to optimize And maybe if you have a lot of experience you could optimize from the beginning
+UNKNOWN_SPEAKER (08:50 AM): Exactly.
+Andrés Felipe Urrego Martínez (08:50 AM): And I love this. And this is for you to charge your Tesla. at home to build a battery that will charge your Tesla at home.
+David Levesque (08:50 AM): people and lead people through this, right? but I'm thinking it can help. I love it, man.
+David Levesque (08:50 AM): Yeah, so All that would be fun to do at a, like in a hackathon. And then you become the expert as the person in Austin area who did coaching.
+UNKNOWN_SPEAKER (08:50 AM): Mm-hmm.
+Andrés Felipe Urrego Martínez (08:50 AM): You know, if I select this option. options, the return on the IRR 9,000% or 90,000%. and understand where it's making those mistakes in the calculation because if the formulas are there, Right? to the wrong formula, it said.
+Andrés Felipe Urrego Martínez (08:49 AM): you take that IRR and then copy And then you go back to your chair. chat and you say, explain to me how.
+David Levesque (08:49 AM): So. He says return on investment nine. Oh yeah. So it's doing some kind of weird. Okay. So you take that.
+Andrés Felipe Urrego Martínez (08:49 AM): Where are the results not accurate?
+David Levesque (08:49 AM): to have, you know, this is the bit. the formulas so the reason why it doesn't work I don't know but that's where it takes like, not just one party.
+David Levesque (08:49 AM): I agree with you. What I like about this is it basically all the variables for you quickly. and consistently, right? That's a huge valuable thing.
+UNKNOWN_SPEAKER (08:49 AM): Right.
+David Levesque (08:48 AM): Now we're talking deeper level, right? So if we did the hackathon on Friday night you're getting used to the whole concept. Saturday you're doing... Sunday you're actually doing messing with visual code Now you're really learning something. Right.
+Andrés Felipe Urrego Martínez (08:48 AM): reiterating, that's how I like to do it. I like to grab the code and then put it on visual code and then. mess with it until I'm start getting the results that I want. want. That's cool.
+Andrés Felipe Urrego Martínez (08:48 AM): Well, you can definitely eat or aid better. because you know and again you're going to have to. make sure that it has. that you obviously that you have everything you need. to be able to run it but but he should at least at least for
+David Levesque (08:48 AM): You think it might perform better by doing that?
+Andrés Felipe Urrego Martínez (08:48 AM): You can start tweaking things. If you, if you, if you, for example, if you're copying this code, putting it into visual code, running it on your, on your, um, on your local host, and then, and then you can start actually playing it directly from a website. Like if it was a true application, you know what I mean?
+Andrés Felipe Urrego Martínez (08:47 AM): You said it's not accurate at all. That's okay. You have the basics. You have what you need. to capture the information you need. Now you work on how do we make it more accurate. it. Right. So, and again, you know, the little button there for up and down. Yeah. I mean, that, that, that makes sense. Right. But once you have that on a, on an actual, even if you run this through code on your, on your local machine, it's going to actually be a lot more functional than it might be here. Does that make sense?
+Andrés Felipe Urrego Martínez (08:47 AM): So kind of is a little bit frustrating iterating well but that's because it's in here I mean once you take this and then and you actually build it, then you can. start playing with it. But I mean, look, I mean, that's the beauty of it. It's knowing that you can and then from there.
+David Levesque (08:47 AM): Like, this took me an hour to prompt and build. But it's not accurate at all, right? It's not right. You know, when we go down here, you can see 700% return. That's not right, you know. So there's this kind of thing that. like when I make this change I want it to change the stuff down. Right, right. And it doesn't do it.
+David Levesque (08:46 AM): conversation with ChatGP trying to say, okay, I have a test I drive 250 miles a week and my household KWH load is 1,000 KWH. How many solar panels and how many batteries do I need to offset my dough. That's the problem that I gave to and it came out with this interface, which is pretty good. You can do the number of power walls, and you can see down here. calculating the return and the monthly production. Isn't that pretty cool?
+UNKNOWN_SPEAKER (08:46 AM): I do.
+Andrés Felipe Urrego Martínez (08:46 AM): You see my screen now?
+David Levesque (08:46 AM): that when we were at dinner? Let's look at it.
+David Levesque (08:45 AM): is a way of building a buzz without a lot of... I don't have to pay our PR firm $5,000 a month. For sure, exactly. Plus, it also meets the other goals of building up this. and of thinking this way. And that's what you kept trying to say to me the other night. It's about how you approach. Letting the AI solve the problem for you. You know, let me just show you two other things And then wrap up if you want so what I actually The battery thing I did. Day. Day.
+David Levesque (08:44 AM): I could see there could be a lot of customers and at the same time I feel like it needs to be that people realize it and see somebody else do it. Right. Bye. I don't know if that's wrong thinking or... not the right process or not. It's just what I've experienced. in my 20 years of B2B sales. Yeah, anyway, I like what you're saying. And to me, the... The path forward is something like, see how. long or costly it is to build something like a said, simple, just count the trees and put it out there and try to build a buzz around it. You know that's why I like I love it.
+David Levesque (08:44 AM): So it's pretty interesting. So I think they could be. for what we're talking about and building.
+Andrés Felipe Urrego Martínez (08:44 AM): Yeah.
+David Levesque (08:44 AM): win something. Which is a problem. It's a problem because it means the sales people try to over So they can get higher commissions, right? So it's kind of of a interesting dynamic where everything you said seems logical. But in the real world, because of the way they do their business... They don't invest in that kind of stuff now. That's not totally true. There is a platform called called SolarScout, which does you neighborhoods that are the homeowner's likelihood to buy solar, but it doesn't do anything to do with trees or potholes. analysis or yeah.
+David Levesque (08:44 AM): So their thought process doesn't cost me anything unless I...
+David Levesque (08:43 AM): Sorry, I don't want to cut you off. I like what you're saying. Go for it. Here's the funny thing in solar. It doesn't cost them anything because they pay the sales.
+Andrés Felipe Urrego Martínez (08:43 AM): because the immediate use is there. Right. Then something like Moil, for example, Moil takes a little bit longer to build because it's a two sided marketplace. You've got to find the candidates. You've got to find the companies. Now you bring them together. But with this, something like this, you know, you build. You build one tool at a time, one tool at a time. example, okay, you know, maybe there's a small solar company. in town that they don't have anything to... They're not doing what you guys are doing. Okay, so we find some of the counter. tree, something that counts. You have to bring it to them and say, hey, you know, counting trees is company, you know, or measuring them or getting into estimates is costing your company $3,000 a month. How about we charge you 500 bucks a month, right? So you see what I'm saying? Like, here's the funny thing.
+Andrés Felipe Urrego Martínez (08:42 AM): of it as it doesn't take hundreds of thousands of dollars. Look, I mean, you're in the industry. You find, we find three companies. that are willing to pay for a basic or give you a letter of intent. And he will test it out and it works. times are all you need for an investment, right? investor to invest in something like this. Look, the tools like this to me in my head are a lot more scalable than, you know,
+Andrés Felipe Urrego Martínez (08:41 AM): it doesn't take. what it took me, which was a year, to build our initial product. Now we've built on of that twice as much in six months. or twice as much in three months. actually added four tools this you know this year to our pipeline when we took us a year to get one right, but to we're in a world where we can build solutions fast. So you've heard this in tech, right, is, you know. Fuck up fast and fix it fast. That's it. Fuck up fast That's the entire process, right? So, you know, Dustin, I want you to think.
+Andrés Felipe Urrego Martínez (08:41 AM): So tell me this, so Because I get it, right? I mean, and the good thing, David, is that we're in a time and they were.
+David Levesque (08:41 AM): Are you on-ramping into the market? Is it weeks of customer distribution? You know, there's all these challenges. software business going. That I haven't solved for yet, but it sounds like you're doing a lot of coaching around, which is cool. So yeah, do I want Do I have the resources to do that now? Not yet, but I'm building up to like. What would it take to do that and learning what AI can do? to help as part of that process.
+David Levesque (08:40 AM): you know, Twitter and Facebook and Twilio. all those big, huge companies, they have hackathons. all the time to do what you're saying. Yep. And that's kind of a difficult. realm of hackathon than one I've experienced. the fifth company that works in solar, the challenge has been and getting the product. functioning well, and then Like you were saying, do you get funding or do you go get Customers and a lot of times in the b2b world they want us nobody wants to go first. So how do you figure out this?
+David Levesque (08:40 AM): that I've experienced it. I love it.
+David Levesque (08:39 AM): And then the third one I went to was hosted by a college. And for the college... It's good PR for them, but also... shows them as the cool hip, you know. Entity in town where you can then go to college and learn things that you learned over the weekend. So it's like a onboarding thing. So we can engage potentially Austin Community College. in Tillotson or one of those local schools. to host it and the benefit for them is. these high school juniors will make you apply to them. or to go there, right? So those are the ways.
+David Levesque (08:39 AM): They were hosted by Techstars, which is a national. Oh, yeah. Or the other one I went to was. One was hosted by Google, but it wasn't for Google to find people. It was actually a local hospital. that wanted to do a fundraiser so they hosted a weekend Everybody built games for the kids that were getting cancer treatment. And for them they use it as publicity for a lot of For the people that were doing it. It was just to meet other people in the street and build your skills and all that.
+Andrés Felipe Urrego Martínez (08:39 AM): I mean, yes, you go and build your skills and you go and see what you're good at but but at the same time It's usually people looking to hire the best people. That's the only reason why they put it together. So I got you Yeah. that I went to were different.
+Andrés Felipe Urrego Martínez (08:38 AM): that you've been because I usually like again you know I've seen hackathons that are typically you know this these development companies you know they're looking for developers and the hackathon is 100% on
+David Levesque (08:38 AM): It was about meeting people and building my own skills and getting exposure to building a business around an idea and getting feedback from investors. That was all the benefit of it. It wasn't about hiring. at all. That doesn't mean that this one can't be about that. for targeting high school juniors or seniors, that makes sense. typically created those hackathons.
+David Levesque (08:38 AM): I like what you're saying. We can go down that path. Sure, I like what... When I was going to the Agathon,
+Andrés Felipe Urrego Martínez (08:38 AM): You know, we're not gonna hire you and you know, we we also don't have the money to pay you, but we wanted you to come show us your skills. because then it kind of becomes like Oh, well, you made me work all Saturday and... what was the benefit of it kind of thing. So if we have a plan to maybe find other companies that are also hiring, that would be great. Great. Yeah.
+Andrés Felipe Urrego Martínez (08:37 AM): They have a minute to two minutes to talk about their experience. The companies that are hiring will ask some questions and then they can be either hired on the spot or get an interview. this spot, like, you know, schedule an interview on this. spot. So, you know, we could utilize it. 20 people who can do an episode of the podcast. and then bring the 20 people to present to four or five people. companies and they all come from the hackathon They come, they present, and then they have a chance of being hired. right away. Obviously by then we would have talked to whoever you need. whoever I need, whoever we need, and then, you know, bring everybody to be hired just so that it's not an event where like, Hey,
+Andrés Felipe Urrego Martínez (08:36 AM): working with the Economic Development Corporation here in Buda is to I want to launch a monthly podcast. and it's a live hiring event. So, for example, in this case, We, we, you know, you have a panel, and then you have a candidate, right? So the panel would be for companies that are hiring for that specific industry. In this case, it would be you know, tech. know developers and then we have you know a hundred people sign up you know to participate in the event you have your four or five companies that are hiring, the candidate comes.
+Andrés Felipe Urrego Martínez (08:36 AM): I was going to say, we could probably make more of it, not just for us, but invite a couple of tech companies. You know, once we have it set up, we invite a few tech companies that are looking for branch engineers. They could be small, medium companies that are looking to invest. integrate some AI into their business and then. One of the things that I want to do, and I'm
+David Levesque (08:36 AM): So I don't want to necessarily set that expectation so Lots of people hiring them from engineering, you know.
+David Levesque (08:36 AM): people out of this environment. I like what you're saying that you can focus on and you can kind of promote that to them as the reason they want to build a skill. But I don't think my company. He's in my personal company and the company I work for has the resources. hire somebody to work on it.
+Andrés Felipe Urrego Martínez (08:35 AM): that, you know, that were like, Oh, I need someone like you in my team. OK, and hiring.
+Andrés Felipe Urrego Martínez (08:35 AM): of the six things I can do but only for the sole purpose of because once you're actually judging or looking the work I don't want it to like every I don't want everything to seem like holy shit you awesome what I could have done right awesome things i want to see people
+Andrés Felipe Urrego Martínez (08:35 AM): And then what I like to do because I'll probably jump in. on it myself and then try to figure out how much.
+David Levesque (08:35 AM): like to find a scope for.
+Andrés Felipe Urrego Martínez (08:35 AM): Yeah, I think I think that would be a good idea because you You you know the industry. right so as long as you can put but an outline of like, these are the six things we would like.
+Andrés Felipe Urrego Martínez (08:35 AM): I'm glad you Tell me about a tiki night, because then I know something just happened.
+David Levesque (08:35 AM): back. Yeah, I'm glad.
+David Levesque (08:35 AM): I lost you now. You're muted. I hear the ticking sound.
+David Levesque (08:34 AM): Versus usable so there's like five or six challenges I think that could be explored. I'm not trying to get too wide of a scope, but I just want to put that out there. You hear what I'm thinking about? OK, so that's awesome. So what do you do you want me to put together like a description of what? would be like and who would sponsor them. take in who would be involved in all that stuff. I could do that.
+David Levesque (08:34 AM): idea and in one another Like we have these six problems. We're trying to solve of who wants to do which one. Finding the telephone line, the power pole. finding the substations, And then I have another one, which is finding on a given. roof, how much of that roof is not usable.
+David Levesque (08:33 AM): Yeah, yeah, yeah, for sure. In terms of the problem that needs to be solved, the way I've seen it presented before, we could do it. If I understand what you're saying, you could say, you know, we're just trying to count the trees. That's the problem. All five teams work on that together. you know, not together, but separately. and see what you come up with and have it be a competition. That's cool.
+David Levesque (08:33 AM): Exploring that more so I could put an outline together that's more concrete if you want. And does that make sense?
+Andrés Felipe Urrego Martínez (08:33 AM): to do it the same way. where hurdles would be. thing like this but then you find in line of like, holy shit, I didn't think of that. a great way to see this. Okay, so it sounds like.
+Andrés Felipe Urrego Martínez (08:32 AM): get people to say okay well this is the goal what would you do that could be the first step right okay well here's what we'll do okay now put it into practice that's the second part okay well let's see this is the type of results we're looking for let's see who gets there first or let's see how you get there because the coolest thing about having multiple people working on a task
+Andrés Felipe Urrego Martínez (08:32 AM): how this application would work, right? I mean, because what I like to see. developers or or at least a product uh, a prompt engineer to a least be able to see it all from the beginning, right? At first I need to do the analysis of what is the main goal, which is what I said to you. putting paper what the scope is. Yeah. And then you
+Andrés Felipe Urrego Martínez (08:32 AM): What I would love to do is like you know do it in stages do the hackathon in stages like first stage would be you know, simple analysis, you know, then... you know, getting an outline of
+David Levesque (08:31 AM): What could they create and what roadblocks do they come up with? Do they not know how to do it? how to ask the right questions. Maybe that's the thing. Or maybe they ask too many questions. or it goes into many threads or you don't know what might come up but it would be super cool.
+David Levesque (08:31 AM): of actually producing this thing. that out in the weekend instead of over the course of four months. That's valuable. And the kids don't know what to ask, but. I think if they see you do. did the way you explained it and have you do it two or three times? and then they do it a few times, you know. It's like maybe. I don't know. It's a test. It'd be interesting to explore.
+David Levesque (08:31 AM): And my They don't actually come out with a working product at the end. The benefit for us for you is good publicity for the business business to benefit for me as a potential Software owner at the end is like what? the roadmaps and hurdles and challenges.
+Andrés Felipe Urrego Martínez (08:31 AM): thinking 20 or 30 people you know 30 people show up but then two or three Right. Right. I got you. Yeah.
+David Levesque (08:31 AM): That's what I'm thinking and I'm I'm not thinking two or three people
+Andrés Felipe Urrego Martínez (08:30 AM): Development Corporation here in Buda and then have them do some of that promotion to, hey, you know, we're looking for two, three people and we're going to have a little hackathon on you know, a Saturday, and then we'll put them all in a Kyle library or the Buda library and then and go at it, you know, let's see who brings the best. Right.
+Andrés Felipe Urrego Martínez (08:30 AM): getting in. I mean, I've been working with some Mark. Kyle, Buda, so that we can continue to train these kids that are just going into the workforce. But something like this is actually it would be very helpful. And I know we could totally work. together with the Chamber of Commerce, work with the economic
+Andrés Felipe Urrego Martínez (08:30 AM): I would suggest that Actually, the Monday, Tuesday, Wednesday. about a 40 minute class for three high school. Here in Bimbuda, in Haiti. County. And again, you know, I'm
+David Levesque (08:30 AM): fifth Ability to think you know what's funny.
+Andrés Felipe Urrego Martínez (08:29 AM): get better, right? And it's a fantastic opportunity. community for people in need.
+Andrés Felipe Urrego Martínez (08:29 AM): or at least have an idea of what to do, I guess. Because this hackathon would honestly, I mean, it would be around prompt engineering. It comes down to that, right? and But but a lot of people will be And and then you you bring this team on board and you train them to be
+Andrés Felipe Urrego Martínez (08:29 AM): But would so let me ask you, are you thinking. speaking, as you said, people who want to learn. AI. So is this You know, someone who has some idea of AI and we want to grow them and build them or is this, you know, hey, you know, we actually need you to know what you're doing.
+Andrés Felipe Urrego Martínez (08:28 AM): So I like the low-income because it opens opportunities for you know people who are But, but again, low income.
+David Levesque (08:28 AM): and AI in solar. by Austin Energy, right? Talk to me here.
+David Levesque (08:28 AM): I could see a press release that says, hackathon for low-income kids to learn
+Andrés Felipe Urrego Martínez (08:28 AM): Right, Mario.
+UNKNOWN_SPEAKER (08:28 AM): Mario.
+David Levesque (08:28 AM): are a lot of work to put together. I've organized several of them. I'm just kind of putting it out there that it's a different. a thing that may be worth considering to help us both in a different way. You know, whatever.
+David Levesque (08:28 AM): But another potential view of a path forward that helps your business. Yeah. Explore the space a little more and get more energy in a short amount of time is something like, have a hackathon.
+David Levesque (08:28 AM): and figure it out and that's a piece of.
+David Levesque (08:27 AM): it is. Then you don't need a hackathon. Well, I don't know. We don't need. Hackathon we could do it ourselves, but for the purpose of building up the skill in the community and engaging the community and interest and publicity and for all those benefits. It's true, I could hire... You for like whatever 20 more hours
+David Levesque (08:27 AM): Right, and all that aligns with my experience before in doing hackathons. What I'm thinking since we can get the AI to do most of the work, we don't actually need software. We just need people who can learn. how to ask the right questions and go through iterations like that.
+Andrés Felipe Urrego Martínez (08:27 AM): You know, to become a CEO kind of thing.
+Andrés Felipe Urrego Martínez (08:26 AM): It's one of those things that it depends. Is the money there to pay people to do that? it, or what would technically be the incentive, right? I mean, you could say, hey, You know, we're starting a company that, you know, develops this or that works in solar, but we want to become an AI. tool production company. Mm-hmm, and we're looking for top software engineer in a
+Andrés Felipe Urrego Martínez (08:26 AM): Love hackathons, but the thing is you guys have prices for hackathons, right? You got to have, you know, whether that is, you know, we're hiring our leading software engineer that will take, you know, that will lead the project going forward. right? Or you're going to give them $5,000 to whoever builds whatever night i mean it's just
+David Levesque (08:26 AM): What do you think of that idea?
+David Levesque (08:26 AM): And then one idea I have. is since you're into workforce development. And I wonder if it makes sense. to have like a hackathon. Are you familiar with a hackathon? Like a day, you could start with a day or even just start with an evening. evening where you get a bunch of people in a room. And they play with all this stuff just to see what they can come up with, right?
+David Levesque (08:26 AM): I'm going to show you what I build. I want to show you this other application
+Andrés Felipe Urrego Martínez (08:25 AM): I'm thinking of three things.
+David Levesque (08:25 AM): Both my wife and I had food poisoning. Sorry to hear that. No, no, it's okay. I was just watching.
+Andrés Felipe Urrego Martínez (08:25 AM): sick after the gala? No.
+David Levesque (08:25 AM): on to say that it's possible. is the right customer or it's possible. I just wanted to kind of said that clarifications. What I'm also thinking is Did I show you the other application? than I built? I don't believe so. Okay, so Good question. Did either one of you guys...
+David Levesque (08:25 AM): Potential company.
+UNKNOWN_SPEAKER (08:25 AM): Yeah.
+David Levesque (08:24 AM): I would say that... So this software initiative is my own personal initiative. It's not part of the company that I work for. Okay, and so anything that. I'm investing here is for my own.
+Andrés Felipe Urrego Martínez (08:24 AM): Yeah, I like the way you're thinking.
+Andrés Felipe Urrego Martínez (08:24 AM): build a plan on here's how that would work. And we can sit on another call and say, OK, well, this is how this could work. I could give you two or three options of like, hey, this is how we could accomplish. exactly what you need. And then, I mean, and then go from there, of course. Okay.
+Andrés Felipe Urrego Martínez (08:24 AM): to the AI. We have an AI that works on and then we start getting out of it all the information you need. But of course, that's just my head trying to. by everything it might not be as simple for you guys. guys. So I would love to. if you wanted to put I mean, and obviously there's no commitment here whatsoever. like a scope of work or what you would like. to see and then I can build. Like not the solution but I can build
+Andrés Felipe Urrego Martínez (08:24 AM): It's just you. Pick your area, screenshot, submit.
+David Levesque (08:24 AM): So very simple, very simple.
+Andrés Felipe Urrego Martínez (08:23 AM): want to zoom out and get like per street. or for four streets, whatever, right? Then they can capture that and then we immediately submit that image to the AI for analysis. Does that make sense?
+Andrés Felipe Urrego Martínez (08:23 AM): are in line with the exact. what you need right like if you if you because the way I've been picturing this is an application can be on your phone or you know it's a website that is directly connected to you know, Google Earth, or Google Maps. And then what is, you know, your foreman or whoever Whoever it is, they'll look up on the dress and then zoom out. to get like a neighborhood look or if they were
+Andrés Felipe Urrego Martínez (08:23 AM): Yeah. I can, what I like to do is that you know. Run a couple more tests that are a little bit more
+David Levesque (08:23 AM): what would that process be? And probably the question before that, like you said, who's going to pay for it, right? And so, Um, uh. Here's what I love to do.
+David Levesque (08:22 AM): Thank you for that. I'm thinking about how So I'm thinking of a couple of things. I'm thinking about if we were to to an application that could do it by the neighborhood.
+Andrés Felipe Urrego Martínez (08:22 AM): So, so yeah, I mean, you know, if, if, She says, hey, we're going to need it. I'll be like, let's do it, right? So I'm thinking about This is awesome, thank you.
+Andrés Felipe Urrego Martínez (08:22 AM): Hey, I want to do this We're ready to do it. County built it. I mean, that makes more sense than having to, for example, for me, lot of saves to create something for someone that not going to buy it or someone that doesn't want it. because they feel like everything they're doing now is happening. or is the best way to do it. Totally.
+Andrés Felipe Urrego Martínez (08:21 AM): But again, in her company, she I'm like, oh, this is a nice way to do this. But you know, people might just not even pay attention. because, you know, they have too many three counters. I don't know. Right. Um, you know, so but but again, I I like to usually work with, I know some of my wives. program manager, she runs, you know, this, you know, technology whatever. But for me, I like to work with people that
+Andrés Felipe Urrego Martínez (08:21 AM): I sent her some of this stuff.
+David Levesque (08:21 AM): Love it. That's awesome. Okay, so did you show this to your wife yet? Oh, I did.
+Andrés Felipe Urrego Martínez (08:21 AM): That's super cool.
+Andrés Felipe Urrego Martínez (08:21 AM): I mean, it is definitely much better. You could even use just this. and then hire someone that just count. recounts them from the image to try and like see where the duplicates are, right?
+Andrés Felipe Urrego Martínez (08:20 AM): I feel a little bit better because he's not going to give me trees the first time and then 52 the second time. second, right? Because then, then you're thinking, okay, that's a six, three difference, you know, that's a third of the. account that's not pretty period, right? We want to be within want to fight three difference because then you know that's not going to break the company. But ideally, yes.
+Andrés Felipe Urrego Martínez (08:20 AM): two, three weeks training this, this, and actually get, oh, you know.
+Andrés Felipe Urrego Martínez (08:20 AM): I mean, you know, you don't got a person can we and again, you know, it's This is one morning.
+David Levesque (08:20 AM): Already this seems way better than a human driving around in a vehicle. Oh, yeah. I mean imagine how much money that saves right?
+Andrés Felipe Urrego Martínez (08:20 AM): Sorry, what was that?
+David Levesque (08:20 AM): Sorry. Did you hear me?
+David Levesque (08:20 AM): I mean, already this seems... than a human driving around in a vehicle counting trees.
+Andrés Felipe Urrego Martínez (08:20 AM): You train according to the need. models will give you very basic information. that sometimes can be enough. scale it into an actual application, then You definitely wanted to do what you wanted to do. structured and accurate way. Yeah, maybe.
+Andrés Felipe Urrego Martínez (08:19 AM): and identify the different sites. is learn to like not double count. You know just providing a lot more accurate measurements. Yeah, so we use deep seek and then we use Open AI to kind of do the testing here And he came out really well honestly for for us first test, you know, for a first trial. out. And then obviously, it's just kind of, you know, you
+Andrés Felipe Urrego Martínez (08:19 AM): Yeah, so we didn't, I mean, for training we would, training on a model like this would be more of like, you know, thousands and thousands of pictures so that it and learn from the different sides of trees.
+UNKNOWN_SPEAKER (08:19 AM): of what those things look like and it's counting them.
+David Levesque (08:19 AM): Did you train it at all or does that just happen?
+Andrés Felipe Urrego Martínez (08:19 AM): these things, but it's a very good. what can actually be done. Totally. That was my question.
+Andrés Felipe Urrego Martínez (08:18 AM): two poles on the left, three poles on the north-south. And here's the cool part. It's actually even going to tell you which ones are too close to the power lines. Um, which makes it, I mean, Again, you know, it's... This is this is not a model that has been trained you know, to actually become more efficient around this.
+Andrés Felipe Urrego Martínez (08:18 AM): I promise you you do, but let me just test it out. So I say what if I can she's like well, there's no way can find you know the the the actual. power lines and then I did, right? gave it an image, and then I found all the power. is able to count them all, trees and power. analysis. So now I captured the trees. and the power lines, right? There's 23 visible. power line identification. eight utility poles, three poles on the bottom right.
+Andrés Felipe Urrego Martínez (08:17 AM): a lot of guidance, right? We're just like, hey, let's see how much we can get out of this, how much we can measure, how much we can calculate. So then we can get it to the final estimate, right? I mean, backyard trees, smaller, eight to 10 feet. The front ones, one is actually larger than the other one. And then the cool thing is that I actually went outside of my house and I started looking at them and yes, one is wider. So while the measurements might be exact, it might be 17 feet. The cool thing is we're able to identify down to there is a large your tree than another one. is a And then this was for me to prove her wrong. The second part was just me kind of playing around. I promise she's like, well, we don't need AI in this type of.
+Andrés Felipe Urrego Martínez (08:17 AM): And then, okay, here we go. They get really detailed, right? And again, we did this. called in the morning just kind of, you know, without
+Andrés Felipe Urrego Martínez (08:17 AM): trees, so there's two in the front. that's let's just calculate with the two in the front so that's what it And then he now tells you okay, well those are about a third of the house with. So he tells you each. trees about 13 to 15 feet wide.
+Andrés Felipe Urrego Martínez (08:16 AM): Yeah. We know it appears to cover a fourth to a third of the house with that. And then I said, OK, and then he gives you that. the the canopy diameter right the diameter so you say okay 10 to 15 but then I corrected because I said well actually You know, there are three, there are three.
+David Levesque (08:16 AM): What's that? That's pretty good.
+Andrés Felipe Urrego Martínez (08:16 AM): feet. My house like I think is 47 feet. That's pretty good.
+Andrés Felipe Urrego Martínez (08:16 AM): So the house where the subpoena it approximately. measures the size of the house. It's 40 to 50
+Andrés Felipe Urrego Martínez (08:16 AM): There's just one very small in my backyard. There's big ones on the front and then a big one in the back. it picked up you know, small versus large streets. But here it is, two in the front, two in the back. And then here's where we went into estimating the average size.
+Andrés Felipe Urrego Martínez (08:15 AM): What we did is, okay. Then I asked it, okay, just count it. and a And then I wanted to count. the amount of trees for this house specifically and then the average size. of the tree. which there's actually three, well, there's four.
+UNKNOWN_SPEAKER (08:15 AM): And then.
+Andrés Felipe Urrego Martínez (08:15 AM): was the better result. He still captures some of the trees back here which again for for this house. Honestly, I mean that was my mistake and Now you know how many trees are at the front and how many are the back, which obviously gives you that good visual. We can always count front and back, but then this one I to be actually much better and more accurate. Count.
+Andrés Felipe Urrego Martínez (08:14 AM): So look, dry ashes. Now it's 541. I said, okay. well, let's recalculate the trees and then we did a better job down here. So now, along Quarter Avenue, that's a better job. I said we need to focus on staying around, you know, along the along the the street itself and then here
+David Levesque (08:14 AM): you know, there's 50 houses.
+Andrés Felipe Urrego Martínez (08:14 AM): Total 72 trees. And then I asked it to start annotating, right? So here it tried to capture everything around, right? So this is... You know, I asked it for a quarter. first error he made was, this one is overpopulated with trees. dots for the amount of trees that there is. I think here on the back did a better job than here at the front so I said okay well let's Let's just try and focus. But this kind of goes to what you were saying, you know, can we get picture of large areas, right?
+Andrés Felipe Urrego Martínez (08:13 AM): I like it So I want to show you this. Initially what I did, so I obviously submitted this. said, okay, let's count the trees on both sides. So, the way it counts. trees you know I estimated 30 trees on the left side. on the right 14 trees around the cool this side.
+David Levesque (08:13 AM): set of developing machine learning. to look at the geography can be used across lots of use cases. Mm-hmm. Okay. I like it.
+David Levesque (08:13 AM): important is because depending on where you solar you might have to spend $200,000. dollars to upgrade the transformer. that until you actually look at the property. all this paint work and all that stuff. Absolutely. that by mapping the transports I'm not trying to Like have scope creep or anything. I'm just saying that this kind of
+David Levesque (08:12 AM): Yeah, and in the bigger picture, the... The exercise with the trees is really like a to many other things we could potentially do. do for sure and maybe one of them on most important ones is finding the substations and transformers because Austin Energy doesn't make that data available and
+Andrés Felipe Urrego Martínez (08:12 AM): That's so.
+David Levesque (08:12 AM): So I have a software already that will put in... all the addresses and tell me the irradiance. So... meaning how much sun goes on that roof. a way that's already kind of accounting for the trees. It's only on a house by house level, it's not on a neighborhood. So it'd be cool to sum it up. put a bounding box around an area and and the
+David Levesque (08:11 AM): roof space to tree space or footage of road to tree space or some variable. Mm-hmm. I don't necessarily need down to the granular address the size of the tree. Because once we pick a neighborhood, then you might do the house. Individually and right help determine that size of the tree.
+David Levesque (08:11 AM): is accounted for. So what I'm thinking at a neighborhood or a street level or a city. level? What's the general tree density so that as we're prioritizing parts of the neighborhood, we could prioritize the parts So really a high level like ratio. of, let's say,
+David Levesque (08:11 AM): I like the way you're thinking. I can give you some feedback. When you look at an individual house and you're actually doing solar proposal. The size of the tree is
+Andrés Felipe Urrego Martínez (08:11 AM): Let me share my screen here.
+Andrés Felipe Urrego Martínez (08:10 AM): to identify how tall the tree is. was something that you needed, but I'm assuming. Let me see.
+Andrés Felipe Urrego Martínez (08:10 AM): but with, you know, taking with... in reference the size of the house and then we can measure. how we can get an estimate of a wide. the tree is. Honestly, this week was busy so I haven't had a chance to look at. Hold on a second. To look at like, you know, how could we even identify that's probably going to have to be done with a different model to identify like. like, even if we could.
+Andrés Felipe Urrego Martínez (08:09 AM): just so you get an idea. So you know how my wife works? lines and whatnot. So I started. I just like to see how far we can take things, but I said, look, why not? If I can identify the power lines, we were able to, so that was. and so you can even find the power lines, understand how far. They are from it. And then another thing that I started doing was I was okay. How can I measure the size of the tree? So what I started doing was measuring the size of the tree.
+Andrés Felipe Urrego Martínez (08:09 AM): So let me, I'm gonna pull it up and I'm gonna send it to your email. So, once we're done, I'll send it to you.
+Andrés Felipe Urrego Martínez (08:09 AM): but we're able to do quite a bit. right I mean quite a bit of things so what I'm gonna... is to have a quick word doc here. Um...
+Andrés Felipe Urrego Martínez (08:09 AM): OK, perfect, perfect. OK, sorry, not sure which. going on there. David, so a couple I wanted to really touch base with you, understand a little bit more. more, you know, kind of what you're looking I like I told you the other day. I want to pull up this dog document here. You know, we run couple tests which is actually pretty interesting because You know, that was the first for me.
+David Levesque (08:09 AM): Correct, I don't have the ticking now.
+Andrés Felipe Urrego Martínez (08:08 AM): Google meet because it keeps disconnecting So is the tick that in noise come when? When I go mute, so it's not there anymore.
+David Levesque (08:08 AM): you. so funny.
+David Levesque (08:08 AM): Hello, hello.
+David Levesque (08:08 AM): Hello?
+David Levesque (08:08 AM): So there's some typing going on in the background or tapping or something. You hear that? Is that you? Can you hear me?
+David Levesque (08:07 AM): Yep, that's the same country.
+David Levesque (08:07 AM): Okay, well we won't go there. Wow. Terrible. Okay.
+Andrés Felipe Urrego Martínez (08:07 AM): but it was a bad accident, 220 people. Perished from the roof falling on them. Oh, yeah, I can see that here now on the news.
+UNKNOWN_SPEAKER (08:07 AM): and
+Andrés Felipe Urrego Martínez (08:07 AM): The accident at the. the nightclub?
+Andrés Felipe Urrego Martínez (08:07 AM): I love it. Have you been there I have not told them Dominican Republic, is that where the jet set things
+David Levesque (08:07 AM): Very nice. Very nice. I love it.
+UNKNOWN_SPEAKER (08:06 AM): Yes.
+David Levesque (08:06 AM): Oh, vacation.
+Andrés Felipe Urrego Martínez (08:06 AM): Dominican Republic.
+David Levesque (08:06 AM): I'm going away tomorrow, so lots of things to wrap up before I leave. Very good. Where are you going?
+Andrés Felipe Urrego Martínez (08:06 AM): So how was your week? How was your week? My week was very exciting.
+Andrés Felipe Urrego Martínez (08:06 AM): Yeah, it's gotta be. It's gotta be for sure.
+David Levesque (08:06 AM): He's gotta be.
+Andrés Felipe Urrego Martínez (08:06 AM): I was like, come on. We're usually home by 750. What's happening? Yeah Maybe because it's Friday.
+David Levesque (08:06 AM): I don't know why. Today there was just extra traffic.
+Andrés Felipe Urrego Martínez (08:06 AM): Lots of them are out to school. Great.
+David Levesque (08:06 AM): Kids are off to school? Yeah, yeah.
+Andrés Felipe Urrego Martínez (08:06 AM): Very good. Very good. Yeah.
+David Levesque (08:06 AM): How are you?
+Andrés Felipe Urrego Martínez (08:06 AM): Beautiful day. I'm excited. Lots of good things happening.
+David Levesque (08:06 AM): Hello. Good morning. How are you?
+Andrés Felipe Urrego Martínez (08:06 AM): Oh, there you are.
+David Levesque (08:06 AM): David, good morning.
+David Levesque (08:05 AM): Okay.
+David Levesque (08:05 AM): Can you hear me? I just hear a ticking sound.
+David Levesque (08:05 AM): Hi, Andrés.
+David Levesque (08:04 AM): Good morning.

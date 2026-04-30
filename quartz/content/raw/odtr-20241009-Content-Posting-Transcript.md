@@ -1,0 +1,439 @@
+---
+type: transcript
+---
+
+# 20241009 Content Posting Transcript
+
+**Date:** 2024-10-09
+**Type:** meeting-transcript
+
+---
+
+Oct 9, 2024 | Content posting
+Invited Guests: andres@moilapp.com, dafne@moilapp.com, jacob@moilapp.com, ablad@moilapp.com
+Live Notes | Read Meeting Report
+————————
+Live Transcript
+(04:54 PM):
+(04:53 PM):
+(04:53 PM):
+(11:36 AM):
+Jacob Oluwole (11:34 AM): and save it in the application. Right now. Hello.
+Abiodun Solomon (11:34 AM): So, I can send this.
+Jacob Oluwole (11:34 AM): I wanted. to maybe you'll do it in five.
+Dafne Gutierrez (11:34 AM): No, I can't help.
+Dafne Gutierrez (11:34 AM): Yeah, if you download that thing. I downloaded it, yes.
+Dafne Gutierrez (11:34 AM): Seven and eight.
+Jacob Oluwole (11:34 AM): Doubling. I'm sorry?
+Jacob Oluwole (11:34 AM): I've been down to that seven and eight.
+Abiodun Solomon (11:34 AM): Surprise. Okay.
+Abiodun Solomon (11:33 AM): See what I can do is, uh, Hawaii.
+Abiodun Solomon (11:33 AM): Jacob, we're getting there. What would they be in the same folder when she's? Yes. Okay.
+Jacob Oluwole (11:33 AM): Skip this. So you download it on the group. I will share it as a... document so you can download it from the WhatsApp group.
+Jacob Oluwole (11:33 AM): Let me share it. I'm done. I share it. So you skip it. You skip this. Skip it.
+Abiodun Solomon (11:33 AM): Okay, would you... I just hear the...
+Dafne Gutierrez (11:33 AM): It is not. Thank you. Oh.
+Dafne Gutierrez (11:33 AM): see benefits like that.
+Jacob Oluwole (11:33 AM): But.
+Dafne Gutierrez (11:32 AM): Yes.
+Dafne Gutierrez (11:32 AM): And then do that for all of them?
+Jacob Oluwole (11:32 AM): Okay.
+Jacob Oluwole (11:32 AM): Here, download.
+Jacob Oluwole (11:32 AM): Can this download of that the older?
+Jacob Oluwole (11:32 AM): Not English. Yeah.
+Jacob Oluwole (11:32 AM): So.
+Dafne Gutierrez (11:32 AM): Okay, are you, can you see it? Yeah, I can see.
+Jacob Oluwole (11:32 AM): It's my wife.
+UNKNOWN_SPEAKER (11:32 AM): No. Oh.
+Jacob Oluwole (11:32 AM): here download yeah you're not showing your screen though I'm not.
+Abiodun Solomon (11:31 AM): Thank you.
+Jacob Oluwole (11:31 AM): Yeah, download each of them.
+Jacob Oluwole (11:31 AM): I'm going to download. the pages like that. Yeah, yeah. Download.
+Jacob Oluwole (11:31 AM): All right.
+Dafne Gutierrez (11:31 AM): okay but uh no you Hasn't been updated. Thank you.
+Dafne Gutierrez (11:31 AM): Yeah, but that's. like yeah you can you we can use that again So they can, they can. All right.
+Abiodun Solomon (11:31 AM): Can I send it in the last time? OK.
+Abiodun Solomon (11:31 AM): No, we haven't, but yes.
+Dafne Gutierrez (11:30 AM): Yes, OK. You have been doing that, you have been putting the... their posts again?
+Abiodun Solomon (11:30 AM): So, if it is a different we can do or in Make it or find it whichever.
+Abiodun Solomon (11:30 AM): mentioned that if you look through the Instagram page if you see an old post of your photo for anything that we can. Get it up again. You can do it. I mean, it's not like anybody goes back and dig in on Ticketmaster.
+Abiodun Solomon (11:30 AM): Yes, easy one.
+Dafne Gutierrez (11:30 AM): Can post all like older posts that you have. post and then Again, post them.
+Dafne Gutierrez (11:30 AM): When we had the last call. He said that we can.
+Abiodun Solomon (11:30 AM): What did you say, please?
+Dafne Gutierrez (11:30 AM): ones to write and then put the. again. I didn't hear.
+Dafne Gutierrez (11:29 AM): Okay, okay and then just said that like we. Posts like some of the older ones
+Abiodun Solomon (11:29 AM): In fact, I've done that before for eight years. the carousel post to a video instead. It was in France. So, France.
+Dafne Gutierrez (11:29 AM): So you're saying on Tuesday it doesn't really have to be a carousel, like I can add something else, like a short video or a post and then put the idea?
+Abiodun Solomon (11:29 AM): So we look at it, we follow the link. to extract the sound we do that and use it pretty much. Yeah. OK.
+Dafne Gutierrez (11:29 AM): I think this can be something we can that marketing group.
+Dafne Gutierrez (11:28 AM): Okay, like share it through like if I if there's a video that we can replicate like I send it to.
+Abiodun Solomon (11:28 AM): kids.
+Abiodun Solomon (11:28 AM): you or anything that is short video that can be. catchy so if you see anything on instagram that looks like okay this work or a concept, an idea that we can easily execute.
+Abiodun Solomon (11:28 AM): okay yes so you can look at the calendar you can look at september september is kind of cool we did it like that then You can look at August. You see how they have been. We are filling up October now. and it's kind of CMT so whatever it is For example, Wednesday is a trending video.
+Abiodun Solomon (11:28 AM): tweak it. So, if you have any idea that you want to discuss, let's say, I mean, that you want us to push, we can always put it on the calendar. Just like inform the okay. Yeah Let's put this one here or reshuffle it anyway We are pretty much open to doing anything that works.
+Abiodun Solomon (11:27 AM): credit does not have to be Kiva. We can actually
+Abiodun Solomon (11:27 AM): We have, on Monday, we have a still image design. On Tuesday, usually a carousel. Wednesday is a short video. Then Thursday, a review from Facebook. And Friday, trivia or questions. So those Thursday and Friday, the thing that static, you don't have to be reviews.
+Abiodun Solomon (11:27 AM): We won't be done.
+Abiodun Solomon (11:27 AM): The content calendar, the one I shared with you. It's a Google Sheet. If you open it, You see that the Oktober, we have not fooded. So...
+Dafne Gutierrez (11:27 AM): Thank you so.
+Abiodun Solomon (11:27 AM): Oh no, no, no. I was just listening.
+Abiodun Solomon (11:27 AM): Also, definitely. Yeah. The, I'm sorry, did I distract you?
+Jacob Oluwole (11:26 AM): You have the next slide. Let me see.
+Dafne Gutierrez (11:26 AM): Then what?
+Jacob Oluwole (11:26 AM): Have you been able like say the oblique slices.
+Jacob Oluwole (11:26 AM): the reason why we are posting every day and also we have calendar so we just put our ideas on there. I'm done. So that's it. two things I wanted to make sure you saw.
+Jacob Oluwole (11:26 AM): Oh, that's mine. Oh, that's mine. That's mine. That's mine. around them who, yeah, I'll be pleased, I'll be. I don't. I can just give you their contacts there. They are posting content. They are active. chain that we are active on. So that's the more.
+Jacob Oluwole (11:26 AM): So something like that. That's the essence of daily consumption. we are putting our product on. people's hands like we are putting it on their face in their mind. so that they can always, like, oh, yeah, anytime they go.
+Jacob Oluwole (11:25 AM): job, we are pushing, we are like putting on them. mind every day, even if they are not They might have someone like an elitist, like a nipple. or like a friend, oh, I need to post my job somewhere. Yes, I know.
+Jacob Oluwole (11:25 AM): our audience even know what we are doing. Okay, I don't know what to do. Well as we are pushing out our contents every day every now and then like consistently they know okay this is everything is still like, oh, come to mind.
+Jacob Oluwole (11:25 AM): Just keep doing things till we get everything I figure out. Okay, I'll work our way to this manual organically So that okay, we are wishing as much food that we need to reach our getting new followers to the ender People are coming to our website, people get to know us better.
+Jacob Oluwole (11:25 AM): with this problem of this thing this information that we are putting So I think we need to like, okay, how can we do this more? How can we use better so that we can, so that's the. That's the whole idea of daily content.
+Jacob Oluwole (11:24 AM): did use the type of content, the type of content that people want that people were able to share on their field as well. So we need more of those type of content. So we need to know that our audience is particular about what we are expecting them to do and telling them how much like F's.
+Jacob Oluwole (11:24 AM): like last week now that we were like, um,
+Jacob Oluwole (11:24 AM): where we want it to be. So we need to keep on doing things that And you need to keep on doing this. So in the end, I was like... go out what really works and which one We should do the more.
+Jacob Oluwole (11:24 AM): Come on, Hank. So let's keep our audience. to the algorithm, like the cognitive source. start pushing our content where we want to.
+Jacob Oluwole (11:23 AM): I'm not saying she will be working on it, but if you have any idea, you can always put it up. then we can always like find, stay strong. I can find good ideas. coming up after. So, we need to like you post. content means like keep pushing out of this.
+Jacob Oluwole (11:23 AM): I feel it though, like.
+Jacob Oluwole (11:23 AM): You have any ideas? If you have any idea, you can just make a guess. going to do.
+Jacob Oluwole (11:23 AM): But I was trying to show you August, October.
+Jacob Oluwole (11:23 AM): help you guys to bring your boxing to more, and like that. something like that. So that's the That's the whole point of the...
+Jacob Oluwole (11:23 AM): Yeah, this is a good question. Let me share it on my field. and educate my audience too. So yeah, we need to like... that more of that like type of context on the type of I was doing.
+Jacob Oluwole (11:23 AM): the person that put up that idea because it was educational and they were able to read through it and everything. I feel like it's not a coincidence that so many people
+Jacob Oluwole (11:22 AM): and to other people, like other audience. share our content that they wish. projects like this jump suit.
+Jacob Oluwole (11:22 AM): to share the content like that. I'm just going to come out.
+Jacob Oluwole (11:22 AM): I think canceling past actors to... I think we are like two people. like here, like to be able to share that content. things.
+Jacob Oluwole (11:22 AM): That's one of the ideas.
+Jacob Oluwole (11:22 AM): It was still about the good and the poor. for educating people again. them back to the product. That's something
+Jacob Oluwole (11:22 AM): I think that one was very, very good. So it's like a box.
+Jacob Oluwole (11:22 AM): images. I'm going to have like two cargo sales. Just everything talking about Maybe sometimes to educate people something like that.
+Jacob Oluwole (11:22 AM): we have videos, those that we have like I don't know, like, maybe still need your calcium, calcium 16.
+Jacob Oluwole (11:21 AM): together okay I want to have this phone like this and on the calendar we see one on Wednesday we have our video One day, maybe still living. those deals.
+Jacob Oluwole (11:21 AM): an idea like how we like him. Get content. I think I already told you I would get content or just like we love my
+Jacob Oluwole (11:21 AM): my god how do we do this thing we've not done anything i wanted to show you um it goes i told you that we have two things what did i show you the calendar maybe we can do something together like um half like um
+Abiodun Solomon (11:21 AM): Oh. Hey.
+Abiodun Solomon (11:21 AM): Thank you.
+Abiodun Solomon (11:20 AM): We're moving on to the next session.
+Abiodun Solomon (11:20 AM): You.
+Abiodun Solomon (11:20 AM): Let's check.
+Jacob Oluwole (11:20 AM): Okay.
+Abiodun Solomon (11:20 AM): How much is that?
+Dafne Gutierrez (11:20 AM): Yes, it is. I'm not seeing anything.
+Jacob Oluwole (11:20 AM): Really?
+Dafne Gutierrez (11:20 AM): It's the same.
+Jacob Oluwole (11:19 AM): And that's the end of the video.
+Jacob Oluwole (11:19 AM): Okay, let's Can you just like cancel out this screen? and come back to it's like we load the application. Just minimize out like I'm just going to see if there are any other questions.
+Dafne Gutierrez (11:19 AM): And it shows.
+Jacob Oluwole (11:19 AM): the English.
+Jacob Oluwole (11:19 AM): I know you're on my screen, let me see.
+Jacob Oluwole (11:19 AM): Let me check your screen.
+Dafne Gutierrez (11:19 AM): It shows the same on mine. Do you see it?
+Dafne Gutierrez (11:19 AM): Okay, look it shows up in the
+Jacob Oluwole (11:19 AM): Yes, it's updated for me.
+Dafne Gutierrez (11:18 AM): It is updated for you, Jacob?
+Jacob Oluwole (11:18 AM): Yeah.
+Jacob Oluwole (11:18 AM): Yes.
+Jacob Oluwole (11:18 AM): I see. I saw that it just updated. It's like 17 or nine.
+Abiodun Solomon (11:18 AM): So I'm going to stop sharing. OK.
+Abiodun Solomon (11:18 AM): We're still learning.
+Jacob Oluwole (11:18 AM): not vanished yet.
+Abiodun Solomon (11:18 AM): you go by a check-in. Yes. Wow.
+Jacob Oluwole (11:17 AM): only when you meet them.
+Abiodun Solomon (11:17 AM): Yes.
+Dafne Gutierrez (11:17 AM): You updated this one too, right?
+Abiodun Solomon (11:17 AM): Okay, the slides, because I have updated them.
+Jacob Oluwole (11:17 AM): What?
+Abiodun Solomon (11:17 AM): Think I'm going to check on your entries.
+Dafne Gutierrez (11:17 AM): Yeah, it looks the same.
+Dafne Gutierrez (11:16 AM): And the same one? Yes. Welcome.
+Jacob Oluwole (11:16 AM): It should be.
+Abiodun Solomon (11:16 AM): What color is this? I am on.
+Abiodun Solomon (11:16 AM): And it's fresh.
+Abiodun Solomon (11:16 AM): Maybe.
+Dafne Gutierrez (11:16 AM): I don't know my head. It's a detail Mm-hmm joining, too to close it?
+Abiodun Solomon (11:15 AM): Wow. Maybe Let me go back
+Abiodun Solomon (11:15 AM): So many places.
+Dafne Gutierrez (11:15 AM): You upload it on here, so it should be this one? Yes.
+Dafne Gutierrez (11:15 AM): Okay, so you.
+Abiodun Solomon (11:15 AM): in a second I will show you a live chat box.
+UNKNOWN_SPEAKER (11:15 AM): Okay.
+UNKNOWN_SPEAKER (11:15 AM): previous.
+Abiodun Solomon (11:15 AM): The next one is... Slide six.
+Abiodun Solomon (11:15 AM): Even that they just previewed now I have a bitterness, so while you sleep. same old one.
+Abiodun Solomon (11:15 AM): them on the drive so correct Okay.
+Abiodun Solomon (11:14 AM): Yes, hello.
+Abiodun Solomon (11:14 AM): to the final. Let's upload it now.
+Jacob Oluwole (11:14 AM): Um, oh no, no, thank you I'm already done.
+Jacob Oluwole (11:14 AM): So what I have done is doing that. I haven't any question, Eugene.
+Abiodun Solomon (11:14 AM): Okay, that's it
+Dafne Gutierrez (11:14 AM): Like Mexican traditions movie Thank you.
+Abiodun Solomon (11:14 AM): Yeah, that's like a...
+Abiodun Solomon (11:14 AM): You know, oh, that's good as we get exports to Nigeria and Tapsing.
+Abiodun Solomon (11:13 AM): It is. Again, it's a lot of American stuff.
+Dafne Gutierrez (11:13 AM): I didn't know it was that famous.
+Dafne Gutierrez (11:13 AM): Thank you so much.
+Abiodun Solomon (11:13 AM): Oh, yeah.
+Abiodun Solomon (11:13 AM): Yeah, i'm saying that's okay. Let me see was Nigerian because in the, um, Is this popular song local local
+Dafne Gutierrez (11:13 AM): Yeah, it's just nice.
+Abiodun Solomon (11:13 AM): A lot.
+Dafne Gutierrez (11:13 AM): You like it a lot?
+Abiodun Solomon (11:13 AM): Oh, really?
+Dafne Gutierrez (11:13 AM): Yes, I like it.
+Abiodun Solomon (11:13 AM): Encanto.
+Dafne Gutierrez (11:13 AM): That way.
+Abiodun Solomon (11:13 AM): I wasn't comfortable.
+Dafne Gutierrez (11:12 AM): If I watch animation movies? Yes, sometimes
+Abiodun Solomon (11:12 AM): You do?
+Abiodun Solomon (11:12 AM): You watch animation animation movie Yes. No. A little.
+Abiodun Solomon (11:12 AM): Spanish sounds very very good to my ears. What did you call? to learn.
+Dafne Gutierrez (11:12 AM): OK.
+Abiodun Solomon (11:12 AM): No, no, no, that's good.
+Abiodun Solomon (11:12 AM): Yes, that first mark before G. Did I take it out?
+Dafne Gutierrez (11:12 AM): Are you asking me?
+Abiodun Solomon (11:12 AM): Before G.
+Abiodun Solomon (11:12 AM): That first exclamation mark on it. Very good.
+Jacob Oluwole (11:12 AM): See y'all.
+Jacob Oluwole (11:11 AM): And I'll ask thanks to Mark on the...
+UNKNOWN_SPEAKER (11:11 AM): Yes.
+Jacob Oluwole (11:11 AM): Yes, yes.
+Abiodun Solomon (11:11 AM): Thank you.
+Abiodun Solomon (11:11 AM): Thank you.
+Dafne Gutierrez (11:11 AM): that says there, like up to... Yes, just that like. Yeah. without the other. too.
+Dafne Gutierrez (11:11 AM): You know, we're on the. version that it says thank you. Yes. Okay, so for this Let's put the first letter.
+Dafne Gutierrez (11:11 AM): Okay, I think for this
+UNKNOWN_SPEAKER (11:10 AM): Okay.
+Abiodun Solomon (11:10 AM): I'm asking if this is only thing I need to fix.
+Dafne Gutierrez (11:10 AM): You fix this right this like right?
+Abiodun Solomon (11:10 AM): That's all.
+Abiodun Solomon (11:10 AM): I hope that the English English version
+Abiodun Solomon (11:10 AM): Yes, inside the English.
+Dafne Gutierrez (11:10 AM): Where was it? Oh, yeah.
+Dafne Gutierrez (11:10 AM): Circus city here chopper
+Dafne Gutierrez (11:10 AM): Oh, it was here, right?
+Abiodun Solomon (11:10 AM): Or is there any other thing to add it? Let me see.
+UNKNOWN_SPEAKER (11:09 AM): Okay.
+Abiodun Solomon (11:09 AM): I need to edit.
+Dafne Gutierrez (11:09 AM): Is that the only slide?
+Abiodun Solomon (11:09 AM): Is that the only slide I have to change as well? Is that the only what I'm saying?
+Abiodun Solomon (11:09 AM): yes for the spanish version is
+Jacob Oluwole (11:09 AM): The English question, um, definitely.
+Abiodun Solomon (11:09 AM): updated the file. Thank you.
+Jacob Oluwole (11:09 AM): Let me have a look at it.
+Jacob Oluwole (11:09 AM): Okay, now I can't see your screen that much.
+Jacob Oluwole (11:08 AM): Okay.
+Dafne Gutierrez (11:08 AM): June. I just click on October.
+Jacob Oluwole (11:08 AM): Now, you see that's July. On that, if you see July, August, September. that.
+Dafne Gutierrez (11:08 AM): Just like him.
+Dafne Gutierrez (11:08 AM): Okay, so on what week? Are we on?
+Jacob Oluwole (11:06 AM): If I put you together by sharing your screen all right.
+Jacob Oluwole (11:06 AM): So you can just go through it.
+Dafne Gutierrez (11:06 AM): Yes, I see it.
+Jacob Oluwole (11:06 AM): Okay, yes.
+Jacob Oluwole (11:06 AM): Yes, on the drive, yeah. Okay.
+Dafne Gutierrez (11:06 AM): On the drive?
+Dafne Gutierrez (11:06 AM): My marketing calendar. Okay, it's only here on the
+Jacob Oluwole (11:06 AM): Through my calendar?
+Jacob Oluwole (11:06 AM): Can you, can you, do you have a chance to like go? calendar from your end. Darlene.
+Abiodun Solomon (11:06 AM): So let's look at.
+Abiodun Solomon (11:05 AM): Yes, yes, I can.
+Jacob Oluwole (11:05 AM): that one nozzle also affecting the shape. Thank you.
+Jacob Oluwole (11:05 AM): checking the Spanish version.
+Jacob Oluwole (11:05 AM): So So, this is it.
+Jacob Oluwole (11:05 AM): Okay, okay, okay.
+Abiodun Solomon (11:05 AM): But I'm fixing what we need right now.
+Jacob Oluwole (11:05 AM): to your system right now.
+Jacob Oluwole (11:05 AM): If you wait, we are waiting for you to like it.
+Abiodun Solomon (11:05 AM): No, no I'm doing it already. I'm doing good.
+Jacob Oluwole (11:05 AM): all you're doing is after the...
+Jacob Oluwole (11:05 AM): Everything is now.
+Abiodun Solomon (11:04 AM): Arms from marching.
+Abiodun Solomon (11:04 AM): It's getting better.
+Abiodun Solomon (11:04 AM): I'm going to put my system.
+Abiodun Solomon (11:04 AM): I need to do it.
+Abiodun Solomon (11:04 AM): Okay, let me find it. It's quite slow.
+Abiodun Solomon (11:04 AM): I can send one now.
+Abiodun Solomon (11:04 AM): Oh, yes.
+Abiodun Solomon (11:04 AM): Inside. In the dimension?
+Jacob Oluwole (11:04 AM): Zing Chief. Or inside, like the memory?
+Jacob Oluwole (11:04 AM): Longer, longer. I'm Jimmy Longa.
+Abiodun Solomon (11:03 AM): is longer than. Thanks. previous times. So I'm trying to fix it.
+Abiodun Solomon (11:03 AM): So when I slice the image.
+Abiodun Solomon (11:03 AM): question. Well, so When I, I have to delete this. I have it as a document on its own already anyways, but the space died contained while he was there. He's still being exported.
+Abiodun Solomon (11:03 AM): Oh, and uh, so I. But the image is longer because I already duplicated the ads bot for the Spanish
+Jacob Oluwole (11:03 AM): What is it?
+Abiodun Solomon (11:03 AM): I have a little challenge.
+Jacob Oluwole (11:03 AM): Hi.
+UNKNOWN_SPEAKER (11:03 AM): Yes.
+Abiodun Solomon (11:02 AM): It's
+Abiodun Solomon (11:01 AM): Thank you.
+Jacob Oluwole (10:57 AM): All right.
+Abiodun Solomon (10:56 AM): Bye.
+Dafne Gutierrez (10:56 AM): Okay, let me check the Spanish version.
+Abiodun Solomon (10:56 AM): in about three or so weeks actually.
+Abiodun Solomon (10:56 AM): Okay, I need to update the slide six that we are correcting something. I'm still exporting.
+Jacob Oluwole (10:56 AM): Wait, have you uploaded it? Oh, you're gonna upload it? No, like, I'm looking to upload.
+Dafne Gutierrez (10:56 AM): Do I share my do I keep sharing? I'm sharing my screen.
+Abiodun Solomon (10:56 AM): Is that a question?
+Dafne Gutierrez (10:56 AM): Can I share my screen again?
+Jacob Oluwole (10:56 AM): Okay.
+Abiodun Solomon (10:55 AM): Thank you.
+Abiodun Solomon (10:54 AM): What do you say?
+Jacob Oluwole (10:53 AM): we'll push down to do production. Thank you.
+Abiodun Solomon (10:53 AM): You go off with the the whatsapp integration Yeah, I'm always working on it, but we would like to add something.
+Jacob Oluwole (10:52 AM): Tsk. Let me see
+Jacob Oluwole (10:52 AM): Sound of water flowing.
+Dafne Gutierrez (10:52 AM): I'm gonna sign in to the to Instagram and Facebook, okay?
+Dafne Gutierrez (10:52 AM): on Facebook and Instagram.
+Dafne Gutierrez (10:52 AM): Let me go to the MOYL profile.
+Jacob Oluwole (10:52 AM): Yes. Facebook and Instagram. Okay.
+Dafne Gutierrez (10:52 AM): So I'm gonna share it Facebook and Instagram?
+Jacob Oluwole (10:51 AM): And.
+Jacob Oluwole (10:51 AM): I think maybe we wait for him to do that one before we post. So you can download the rest. Do you know the number one that is having that issue so you can... Let us go down for a while.
+Dafne Gutierrez (10:51 AM): So go back.
+Abiodun Solomon (10:51 AM): I'll read slide six and update it on that folder. Very good.
+UNKNOWN_SPEAKER (10:51 AM): Okay.
+Dafne Gutierrez (10:51 AM): Okay, yes, that's good.
+Dafne Gutierrez (10:50 AM): Can I provide feedback?
+Abiodun Solomon (10:50 AM): Slide 6.
+Abiodun Solomon (10:50 AM): I'll take a breath and update it, that's ...
+Abiodun Solomon (10:50 AM): I'll take.
+Jacob Oluwole (10:50 AM): It's like we have like chat.
+Abiodun Solomon (10:50 AM): Like which part, please?
+Jacob Oluwole (10:50 AM): So maybe we can just remove that first. I'm gonna have a quick like.
+Jacob Oluwole (10:50 AM): You also have a live chat option. I think I removed that. It's part of what we want to make. Okay.
+Dafne Gutierrez (10:49 AM): Guess I'm waiting. It says here where I'm reading Yeah, I see that.
+Jacob Oluwole (10:49 AM): Oh, okay.
+Dafne Gutierrez (10:49 AM): Not yet.
+Jacob Oluwole (10:49 AM): Oh, OK.
+Dafne Gutierrez (10:49 AM): Also, there is a live chat. on the website already? No.
+Dafne Gutierrez (10:48 AM): Oh, so I need to check first. everything is okay. Yeah I am.
+Jacob Oluwole (10:48 AM): What did you say?
+Dafne Gutierrez (10:48 AM): I didn't get you.
+Dafne Gutierrez (10:48 AM): I'll read through it and check if I everything is okay?
+Jacob Oluwole (10:48 AM): Sometimes grammatical error is possible one. Anyway, we will not add any of this. issue.
+Jacob Oluwole (10:48 AM): Bye, boys.
+Jacob Oluwole (10:48 AM): That's all we'll do actually.
+Jacob Oluwole (10:48 AM): Check for typos.
+Jacob Oluwole (10:48 AM): So can you just read through the contents to see if there is anything?
+Jacob Oluwole (10:47 AM): What to do? Yeah. Thanks to you guys. Okay.
+Jacob Oluwole (10:47 AM): Just click on it without opening. Just click on it. So you can just scroll to the left
+Jacob Oluwole (10:47 AM): One, two, three, four.
+Dafne Gutierrez (10:47 AM): So opening.
+Jacob Oluwole (10:47 AM): Yeah.
+Jacob Oluwole (10:47 AM): Let me see. that's OK. Is it an opening?
+Jacob Oluwole (10:47 AM): Open. I think you should be able to see open. Open it.
+Jacob Oluwole (10:47 AM): Okay, yeah, then you see.
+Jacob Oluwole (10:46 AM): points you have in download. I think without one of that, you know, I'm not using a good job. naming them one, two, three, like you cannot just I like to view it before you just.
+Dafne Gutierrez (10:46 AM): No, no.
+Jacob Oluwole (10:46 AM): Yeah.
+Dafne Gutierrez (10:46 AM): Okay.
+Jacob Oluwole (10:46 AM): So we have two primal cells here. English and Spanish. So that's all I want to post here. So I just was like, I want you to. you want to post it. So you can just click on it. Download those.
+Jacob Oluwole (10:46 AM): Which one, I'm sorry? so you can go to the october contents now full of the october 2024 Yes.
+Jacob Oluwole (10:46 AM): like pull up the...
+Jacob Oluwole (10:45 AM): So we have like Okumba content now. So you can go to Okumba Core Data.
+Dafne Gutierrez (10:45 AM): Yeah, you see my.
+Jacob Oluwole (10:45 AM): Oh, marketing.
+Jacob Oluwole (10:45 AM): Yeah, yeah, so.
+Dafne Gutierrez (10:45 AM): OK.
+Jacob Oluwole (10:45 AM): Yeah, I know. I can see you. Now, if you go last year. Oh, sure.
+Jacob Oluwole (10:45 AM): The bottom of your screen here. Not on the side, bottom of the screen.
+Jacob Oluwole (10:45 AM): I'm seeing your mic on there. I'm seeing I'm not seeing that too. I want to appreciate.
+Jacob Oluwole (10:45 AM): home screen, not home screen.
+Jacob Oluwole (10:45 AM): share it and you feel fine. Are you seeing it?
+Jacob Oluwole (10:45 AM): I see.
+Jacob Oluwole (10:45 AM): like the home screen.
+Jacob Oluwole (10:45 AM): visual. Can you please stop now? future of life, just take it away from me.
+Dafne Gutierrez (10:45 AM): Oh. Hi, Jimmy.
+Jacob Oluwole (10:45 AM): Right.
+Jacob Oluwole (10:44 AM): Go back to the drive.
+Dafne Gutierrez (10:44 AM): You should be able to see.
+Jacob Oluwole (10:44 AM): It's in the meeting, the meeting, the meeting. Yeah, amazing, yeah. Okay. Okay.
+Jacob Oluwole (10:44 AM): Can you just flip the... a little bit?
+Jacob Oluwole (10:44 AM): like if you see Please cut them. Can you? food and push off this meaty stuff, like.
+Jacob Oluwole (10:44 AM): Hesitate of that search. Hesitate of it. Let me, let me save this moment. Thank you. I'm talking to my end.
+Jacob Oluwole (10:44 AM): Oh, no. now Oh, hold on a minute.
+Dafne Gutierrez (10:44 AM): Okay, okay.
+Dafne Gutierrez (10:44 AM): I'm all good on that stage.
+Jacob Oluwole (10:43 AM): So slow down. Go to shed. That's a shed. below or on that day. What was that?
+Dafne Gutierrez (10:43 AM): And yeah, click on that one to see Yeah.
+Jacob Oluwole (10:43 AM): Yeah, you should see. You can actually select any of the add another account. accounts. Thank you.
+Dafne Gutierrez (10:43 AM): And then I sign in with the. oil right?
+Dafne Gutierrez (10:43 AM): I'm quitting.
+Dafne Gutierrez (10:42 AM): Yeah, exactly.
+Jacob Oluwole (10:42 AM): That one, right?
+Jacob Oluwole (10:42 AM): Alright, download the new drive. You can actually hear everything from here.
+Dafne Gutierrez (10:42 AM): But I don't think I downloaded the...
+Dafne Gutierrez (10:42 AM): the business suite and the authentic. Okay.
+Jacob Oluwole (10:42 AM): I don't know. download.
+Dafne Gutierrez (10:42 AM): I think I downloaded it.
+UNKNOWN_SPEAKER (10:42 AM): I don't know.
+Dafne Gutierrez (10:42 AM): Yeah, Google Drive, yeah.
+Abiodun Solomon (10:42 AM): Oh, Google Drive?
+Abiodun Solomon (10:41 AM): It's an iPhone, so yeah, I have to...
+Jacob Oluwole (10:41 AM): And you need to like, you have a good time. on your phone, right?
+Abiodun Solomon (10:41 AM): All right, send to the group now, so you can follow that. Okay.
+UNKNOWN_SPEAKER (10:41 AM): now. Okay, yes.
+Dafne Gutierrez (10:41 AM): Okay, do you just send it to me? Yeah, I'll send it on WhatsApp.
+Abiodun Solomon (10:41 AM): If you click on the link you see that it take you to the drive.
+Abiodun Solomon (10:41 AM): a link here from here.
+Dafne Gutierrez (10:41 AM): Yeah, thank you.
+Abiodun Solomon (10:41 AM): Oh, you're already on this file. OK.
+Abiodun Solomon (10:41 AM): That's me.
+Dafne Gutierrez (10:40 AM): And.
+Abiodun Solomon (10:40 AM): Oh.
+Abiodun Solomon (10:40 AM): I can see the calendar. All right, I'll check. Mhm.
+Abiodun Solomon (10:40 AM): again.
+Abiodun Solomon (10:40 AM): Oh, is this your definitely at Moilab.com. Yes. Okay. I'm, not sure that was where I shared it to but anyways
+Abiodun Solomon (10:39 AM): Yes. Oh.
+Abiodun Solomon (10:39 AM): Yes, go down some.
+Abiodun Solomon (10:39 AM): Because I also did share with her.
+Abiodun Solomon (10:39 AM): All right.
+Dafne Gutierrez (10:39 AM): So then. Like for Google Drive?
+Abiodun Solomon (10:39 AM): You can? Okay. Yes.
+Dafne Gutierrez (10:39 AM): No. Are you seeing it or no?
+Abiodun Solomon (10:39 AM): Let me see.
+UNKNOWN_SPEAKER (10:39 AM): I can't I can see
+Abiodun Solomon (10:39 AM): I think my network is very bad.
+Dafne Gutierrez (10:39 AM): Yes, I can see your screen.
+Dafne Gutierrez (10:39 AM): Okay, can you see it now?
+UNKNOWN_SPEAKER (10:38 AM): Yeah.
+Dafne Gutierrez (10:38 AM): Okay, so share screen.
+Dafne Gutierrez (10:38 AM): Let me see.
+Jacob Oluwole (10:38 AM): You don't need to look for the email that I sent you. You just need to go to the... Can you share your screen? Can you share your screen? phone if it's okay with you Let me see, um
+Dafne Gutierrez (10:38 AM): So do I look for the email? sent me the Google Drive.
+Jacob Oluwole (10:37 AM): with the with the email. Okay, good.
+Jacob Oluwole (10:37 AM): Yes, well, yeah.
+Jacob Oluwole (10:37 AM): Are you finding yourself
+Jacob Oluwole (10:36 AM): Yeah, you have access to the drive, right, on the email. So you have a Google Drive on your mobile, on your mobile phone, on your phone. Yes, let me see. Yeah, yes, yes, yes.
+Dafne Gutierrez (10:36 AM): Yeah, if I have it on the email.
+UNKNOWN_SPEAKER (10:36 AM): We need to drive.
+Jacob Oluwole (10:36 AM): If you have to. Oh, okay.
+Abiodun Solomon (10:36 AM): system if she has three okay okay okay can get
+Jacob Oluwole (10:36 AM): She's saying she can't get.
+Dafne Gutierrez (10:36 AM): but say I can get my. Let me see if I need to. Or is it OK with the phone? What is it?
+Jacob Oluwole (10:36 AM): Maybe you can share your screen.
+Dafne Gutierrez (10:36 AM): My fault, Janine. My... my PC.
+Jacob Oluwole (10:35 AM): on Meta for Business. So maybe, are you joining with your PC or you're joining the call with your. mobile phone device.
+Jacob Oluwole (10:35 AM): to like be the one to post on our on the platform on the Facebook Excuse me. Excuse me. and using the method for business and maybe posting individually or think directly on scheduling on.
+Jacob Oluwole (10:35 AM): because one is that I...
+Jacob Oluwole (10:35 AM): So today we have like quite like things I wanted to discuss.
+Jacob Oluwole (10:35 AM): So yeah, I still monitor it. I agree.
+Dafne Gutierrez (10:35 AM): Okay. Oh, yeah.
+Jacob Oluwole (10:35 AM): It's five hours.
+Jacob Oluwole (10:35 AM): Maybe it's just one for us, maybe minus five. for you guys.
+Dafne Gutierrez (10:34 AM): On my invitation, it's a. 30 p.m. Universal time so I thought he was 930 AM on my time. Oh, UTC.
+Dafne Gutierrez (10:34 AM): 330 PM on.
+Jacob Oluwole (10:34 AM): I'm sorry for keeping you waiting for two minutes. When I joined, I was still on the I don't want to keep you waiting, mom. I wouldn't be having you. This is all I joined. I'm muted for a while. Oh, yeah, it's.
+Jacob Oluwole (10:34 AM): We feel like finished job.
+Dafne Gutierrez (10:34 AM): just joining the call.
+Jacob Oluwole (10:34 AM): As a result, set is is here, which is getting important. So we can like, join XOMR. our team meeting. We had the team meeting today. That was but I'm an avalanche.
+UNKNOWN_SPEAKER (10:34 AM): Sorry.
+Dafne Gutierrez (10:34 AM): Oh, yes, I thought it was.
+Dafne Gutierrez (10:34 AM): Oh, it cut off a little.
+Jacob Oluwole (10:33 AM): about that. I thought it's like. I'm just, okay, wait, wait. That one, I'm sorry.
+Dafne Gutierrez (10:33 AM): I got confused earlier. the with the Universal time and I joined like Because that's like...
+Jacob Oluwole (10:33 AM): Thank you for asking. that's awesome.
+Dafne Gutierrez (10:33 AM): I'm doing all right.
+Jacob Oluwole (10:33 AM): Good. Morning to you. Hi, Jacob. Good morning. How are you doing today? I'm doing good. How are you?
+UNKNOWN_SPEAKER (10:33 AM): So, hello, Devlin.
+Dafne Gutierrez (10:32 AM): Oh.

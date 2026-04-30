@@ -1,0 +1,249 @@
+---
+type: transcript
+---
+
+# 20241127 Cardo Busqueda Empleo Transcript
+
+**Date:** 2024-11-27
+**Type:** meeting-transcript
+
+---
+
+Nov 27, 2024 | Cardo - Búsqueda Empleo
+Invited Guests:
+Live Notes | Read Meeting Report
+————————
+Live Transcript
+Andrés Felipe Urrego Martínez (02:19 PM): Muchísimas gracias.
+Andrés Felipe Urrego Martínez (02:19 PM): ¡Joder!
+Andrés Felipe Urrego Martínez (02:19 PM): para la gente de Coahuila. para que van a ir a resumir y a empezar a compartir. ahora. OK, I appreciate it.
+Ricardo Van Arcken (02:19 PM): Es que todo está lleno, tío. Y ahora después.
+Ricardo Van Arcken (02:19 PM): a ver cuál es...
+Andrés Felipe Urrego Martínez (02:19 PM): y si quieren para ir entrando y van mirando por ahí. con los que trabajamos en San Antonio.
+UNKNOWN_SPEAKER (02:19 PM): en el mundo. No sé cómo te puede tomar mucho tiempo, mira qué más que sabes. en el año que viene. Así que, bueno, yo creo que eso es todo.
+Ricardo Van Arcken (02:19 PM): y escuchar una cercana de ellos.
+Andrés Felipe Urrego Martínez (02:19 PM): con el Instituto Público Central, pero de apoyo. No, no.
+Andrés Felipe Urrego Martínez (02:18 PM): Y cuando termines de actualizar tu perfil, me avisas. Y yo te vuelvo y te llamo cuando termines de comer. Para mostrarte los trabajos que pedimos.
+Andrés Felipe Urrego Martínez (02:18 PM): No, no, no.
+Andrés Felipe Urrego Martínez (02:18 PM): Thank you. ¡Andrés! ¡Andrés! y que te está comiendo.
+Andrés Felipe Urrego Martínez (02:18 PM): You can. I hope so, because we miss you. Thank you.
+Andrés Felipe Urrego Martínez (02:18 PM): Okay, I'm done! Hello. Thank you. I'll let her help me, and then we can have a little chat.
+Andrés Felipe Urrego Martínez (02:18 PM): We got that.
+Andrés Felipe Urrego Martínez (02:17 PM): I don't know. Yeah, absolutely. I was not there.
+Andrés Felipe Urrego Martínez (02:17 PM): Thank you so much.
+UNKNOWN_SPEAKER (02:17 PM): foreign I don't know.
+Andrés Felipe Urrego Martínez (02:17 PM): Okay.
+UNKNOWN_SPEAKER (02:17 PM): you. you.
+Andrés Felipe Urrego Martínez (02:17 PM): Yeah. No, but they were good. Unbelievable. Okay.
+Andrés Felipe Urrego Martínez (02:17 PM): ¡Mira lo que se me han empujado! Thank you for your attention. YOU STOLE MY VIDEO! No, no, no, no, no. Is there nothing else?
+Andrés Felipe Urrego Martínez (02:16 PM): Sí. Sí.
+Andrés Felipe Urrego Martínez (02:16 PM): Muchas gracias. ¡Hola! Bueno, ahora sí, gracias.
+Andrés Felipe Urrego Martínez (02:16 PM): Sí. Sí.
+UNKNOWN_SPEAKER (02:16 PM): ¿Vale?
+Ricardo Van Arcken (02:16 PM): La supervisa ha completado el 80%.
+Andrés Felipe Urrego Martínez (02:16 PM): Muchas gracias. No, no, no, no.
+Ricardo Van Arcken (02:16 PM): Perfecto, perfecto, envidia.
+Ricardo Van Arcken (02:16 PM): con la luz.
+Andrés Felipe Urrego Martínez (02:15 PM): Yo voy a traer esa foto. Un momento.
+Andrés Felipe Urrego Martínez (02:15 PM): No, no, no. Muchas gracias.
+Andrés Felipe Urrego Martínez (02:15 PM): de la actualización. Gracias a ustedes. en español, con el oído.
+Andrés Felipe Urrego Martínez (02:15 PM): más kills, etcétera. en el futuro.
+Andrés Felipe Urrego Martínez (02:15 PM): Bueno, ahora estamos en el creado.
+Ricardo Van Arcken (02:15 PM): Un saludo.
+Andrés Felipe Urrego Martínez (02:15 PM): Entonces, ahora le seguí. Continuar, guardar y continuar.
+Ricardo Van Arcken (02:14 PM): por parte de la Junta de Extremadura, que es la Junta de Extremadura de Extremadura,
+Andrés Felipe Urrego Martínez (02:14 PM): tal y de poder conseguir un empleo. Así que, gracias.
+Andrés Felipe Urrego Martínez (02:14 PM): Sí, porque así, mira, inclusivas tenemos...
+Andrés Felipe Urrego Martínez (02:14 PM): chau.
+Andrés Felipe Urrego Martínez (02:13 PM): 1, 2, 3...
+Andrés Felipe Urrego Martínez (02:13 PM): lo mismo atrás.
+Andrés Felipe Urrego Martínez (02:13 PM): y le añade experiencias para que te aparezca. Subí.
+Ricardo Van Arcken (02:13 PM): Listo, ya no más. Ya, la experiencia, la experiencia.
+Andrés Felipe Urrego Martínez (02:12 PM): de manera directa.
+Andrés Felipe Urrego Martínez (02:12 PM): de la comunidad autónoma. Gracias. para revisar que todo esté bien.
+Andrés Felipe Urrego Martínez (02:12 PM): O sea, utilizar las herramientas que tenéis en frente. tuyo. Ahora le añadir experiencia. Dicho ahora subí. Y dale click a la.
+UNKNOWN_SPEAKER (02:12 PM): ¿Entonces?
+Andrés Felipe Urrego Martínez (02:12 PM): Y eso es el tipo de cosas que tienes que aprenderte para cuando vayas a una entrevista, weón. Así es que tienes que aprender a hablar de vos mismo, porque esto lo que hicimos fue utilizar la información que vos le diste y ponerla más bonita.
+Andrés Felipe Urrego Martínez (02:12 PM): de generar experiencia. Ahora lee eso.
+Andrés Felipe Urrego Martínez (02:12 PM): Bueno, bueno, está bien. Dale, listo.
+Ricardo Van Arcken (02:12 PM): Bueno, cable trace.
+Andrés Felipe Urrego Martínez (02:12 PM): y le pone la esencia.
+Andrés Felipe Urrego Martínez (02:12 PM): T, R, A, Y, pero separado.
+UNKNOWN_SPEAKER (02:12 PM): ¿Qué?
+Ricardo Van Arcken (02:11 PM): ¿Puede ser el cable 3? El cable 3 es que... ¿Qué?
+Andrés Felipe Urrego Martínez (02:11 PM): que No.
+Andrés Felipe Urrego Martínez (02:11 PM): O sea, si lo vas a poner, pues ponle tú. Y eso es lo que está pasando. para la instalación de pipes.
+Ricardo Van Arcken (02:11 PM): O pipas, o tubería.
+Ricardo Van Arcken (02:11 PM): Pepe. OK.
+Andrés Felipe Urrego Martínez (02:11 PM): We're on PE. PE.
+Ricardo Van Arcken (02:11 PM): No, porque le pones agua.
+Andrés Felipe Urrego Martínez (02:11 PM): Es paipe, peipe. Peipe. Pe-e. No, Pe-i-pe. Pe-i.
+Andrés Felipe Urrego Martínez (02:11 PM): Es la tubería.
+Ricardo Van Arcken (02:11 PM): Bye.
+Andrés Felipe Urrego Martínez (02:11 PM): en inglés.
+Andrés Felipe Urrego Martínez (02:10 PM): No, no estoy pensando.
+Ricardo Van Arcken (02:10 PM): Y si hay algún certificado.
+UNKNOWN_SPEAKER (02:10 PM): vocabulario.
+Andrés Felipe Urrego Martínez (02:10 PM): Eso es muy importante.
+Ricardo Van Arcken (02:10 PM): ¿Qué tipo de cables?
+Andrés Felipe Urrego Martínez (02:10 PM): ¿Cuál era el... yo te invito a que lo pensé. ¿Qué hacía, cuál era mi función? ¿Cuáles eran los resultados? Y si hubo algún error. reconocimiento.
+Andrés Felipe Urrego Martínez (02:09 PM): Ah, por eso te digo que en el 2023 me decís mayo. Ok, listo. Entonces aquí... ahora sí pone aquí en tus propias palabras tu responsabilidad es el logro, dale.
+Andrés Felipe Urrego Martínez (02:09 PM): Y terminaste en mayo de este año?
+Ricardo Van Arcken (02:09 PM): en el mundo. Por eso, maldito.
+Andrés Felipe Urrego Martínez (02:09 PM): la traducción de Google para SQA. 2023 Chocaco, no es Chicago. en el mundo.
+Andrés Felipe Urrego Martínez (02:09 PM): Esto es lo malo de que trabajas. Pero igual tampoco van a llamar a todas las empresas, entonces ya. de la comunidad autónoma.
+Andrés Felipe Urrego Martínez (02:09 PM): con diferentes compañías. Porque si no pareciera que no duras en ningún empleo.
+Andrés Felipe Urrego Martínez (02:09 PM): Listo, vale. Agosto de 2023, ¿no? 2024. No, pero ya ha hecho un trabajo de...
+Andrés Felipe Urrego Martínez (02:08 PM): en el futuro. electricidad, como si fuera uno. si empezaste en octubre del año pasado. pasado con el tour del año pasado y hasta ahora.
+UNKNOWN_SPEAKER (02:08 PM): de la
+UNKNOWN_SPEAKER (02:08 PM): Bueno, Marique, no está...
+Andrés Felipe Urrego Martínez (02:08 PM): Ahorita se llama journeyman. Sí.
+Andrés Felipe Urrego Martínez (02:08 PM): ¿Cuál es el puesto de función laboral? ¿Qué hacías? Cable runner. Listo.
+Andrés Felipe Urrego Martínez (02:08 PM): Bueno, ya tenía una fecha. Te lo prometo que de algo te puedo servir.
+Andrés Felipe Urrego Martínez (02:08 PM): Cuando te llamen por una entrevista o me inscribe, tengo la entrevista. día y me siento un día todo el día o sea un par de por estos grupos y practicamos como entrevistas. en el mundo.
+Andrés Felipe Urrego Martínez (02:07 PM): O sea, eso todo te suma. a la de la OK, I run cables. Eso no, así no te va a contratar nadie. presentes del pueblo de Otego.
+Andrés Felipe Urrego Martínez (02:07 PM): en el mundo, en el mundo, en el mundo. todo el mundo.
+Andrés Felipe Urrego Martínez (02:07 PM): de la pandemia. Y nos vemos en el siguiente vídeo.
+Andrés Felipe Urrego Martínez (02:07 PM): en el mundo.
+Ricardo Van Arcken (02:07 PM): Pero como es que yo le detenía aparte lo de la electricidad.
+Ricardo Van Arcken (02:07 PM): No, sola el papa, sola los albernes. Sí, pero algo muy diferente.
+Andrés Felipe Urrego Martínez (02:07 PM): en la arena. Ok. que logística nacional. Ahora que.
+Andrés Felipe Urrego Martínez (02:07 PM): experiencia laboral.
+Ricardo Van Arcken (02:06 PM): más. Y ya le voy a editar aquí.
+Andrés Felipe Urrego Martínez (02:06 PM): a los usuarios.
+Andrés Felipe Urrego Martínez (02:06 PM): para que Entonces, venía, venía aquí en el empleo. No, sube, sube, sube, sube. Aquí en Google. Baja, baja, baja.
+Andrés Felipe Urrego Martínez (02:06 PM): a los usuarios de la plataforma.
+Andrés Felipe Urrego Martínez (02:06 PM): Así que, gracias. No te lo estoy dejando. Estoy intentando pensar qué puede ser. y darle a aquel sándwich. en un hamburguesa acá arriba a la derecha.
+Andrés Felipe Urrego Martínez (02:06 PM): USA, sí, claro. ¿Vos cambiaste tu apellido como estaba escrito? Ban. Solo un.
+Andrés Felipe Urrego Martínez (02:06 PM): Y ya sabéis... 4, 07, 11, cárcel, 06.
+Andrés Felipe Urrego Martínez (02:05 PM): Listo, regresamos Antico, regresa.
+UNKNOWN_SPEAKER (02:05 PM): OK.
+Ricardo Van Arcken (02:05 PM): No sé qué me está diciendo.
+Andrés Felipe Urrego Martínez (02:05 PM): No, sigue apareciendo.
+Andrés Felipe Urrego Martínez (02:05 PM): en el mundo.
+Andrés Felipe Urrego Martínez (02:05 PM): Hoy en día, con los servicios artificiales, no hay riesgo. Y nunca nada mal en inglés porque lo puedes pedir. OK. de la regla listo.
+Andrés Felipe Urrego Martínez (02:05 PM): en el programa. Ajá. Coordinador.
+Andrés Felipe Urrego Martínez (02:04 PM): Ok, programa coordinador, que es eso, o coordinador de programa o programa coordinador. Programas para la naturaleza.
+Andrés Felipe Urrego Martínez (02:04 PM): Vamos a ver.
+Ricardo Van Arcken (02:03 PM): Subtítulos por la comunidad de Amara.org
+Ricardo Van Arcken (02:03 PM): Yo no tengo Google Media aquí, eso me abrió por el Gmail. Bueno, por eso en el browser.
+Andrés Felipe Urrego Martínez (02:03 PM): ¿Puedes aparecer ahora?
+Andrés Felipe Urrego Martínez (02:03 PM): en el mundo.
+Ricardo Van Arcken (02:03 PM): Nada, no lo padecí, nada, solo... Mora con Panda, Google Meet.
+Andrés Felipe Urrego Martínez (02:03 PM): Sí, justo, a ver, o sea, mira.
+Ricardo Van Arcken (02:03 PM): Fajer, Roddy no enseñaba nada, ¿verdad?
+Andrés Felipe Urrego Martínez (02:03 PM): No, no, que me tengo que ir de burcha, me tengo que salir.
+Andrés Felipe Urrego Martínez (02:02 PM): me sigue diciendo mensajero Ya tienen los 3 empleos. Y ponete a mirar a ver cual viene mejor los bonos
+Andrés Felipe Urrego Martínez (02:02 PM): porque ellos tienen una empresa y contratan gente. para hacer K-MOD en FIBRA para hacer esta caminata.
+UNKNOWN_SPEAKER (02:02 PM): con
+Ricardo Van Arcken (02:02 PM): ron cable cable ron pónganlo ahí.
+Andrés Felipe Urrego Martínez (02:02 PM): Y eso es lo que está pasando. como se llama el puesto?
+Andrés Felipe Urrego Martínez (02:02 PM): electricidad y que lo que está haciendo
+Andrés Felipe Urrego Martínez (02:02 PM): que hacer. O sea, ¿qué estabas haciendo? Ahorita estabas trabajando. como empleado o cuando estás trabajando, estás trabajando como manager, como hay. Como mente. Ahorita donde está ahorita? empleado.
+Andrés Felipe Urrego Martínez (02:02 PM): en el lado de... operaciones, verdad que... Porque va a ser Scheduling o no va a ser Scheduling.
+Andrés Felipe Urrego Martínez (02:01 PM): Shelter manager, asistente. ¿Cómo? o Assistant Sales.
+Andrés Felipe Urrego Martínez (02:01 PM): No, solo tengo uno. el programa. coordinador, asistente.
+Andrés Felipe Urrego Martínez (02:01 PM): o no te periódico. Ok. ¿Tienes tres? en la respuesta hay tres cuestiones.
+Andrés Felipe Urrego Martínez (02:01 PM): Y te llegó el mensaje de texto y todo.
+Ricardo Van Arcken (02:01 PM): No me sale ninguno de teléfono.
+Andrés Felipe Urrego Martínez (02:01 PM): Me dice mensaje.
+Andrés Felipe Urrego Martínez (02:01 PM): que hay en el mundo. los tenías aquí en esta página de experiencia laboral.
+Andrés Felipe Urrego Martínez (02:00 PM): Stay tuned.
+Andrés Felipe Urrego Martínez (02:00 PM): Ok, so united.
+Ricardo Van Arcken (02:00 PM): Y bueno, muchas gracias por estar con nosotros.
+Ricardo Van Arcken (02:00 PM): ese tema de la construcción como tal, muchos años. ¿Qué tal?
+Ricardo Van Arcken (02:00 PM): me llamó a pedirme como consejo una cosa. y yo quedé un poco bloqueado. muchas políticas en eso. a escuchar. Ya dio dios.
+Ricardo Van Arcken (02:00 PM): por el mazo. en el país.
+Andrés Felipe Urrego Martínez (02:00 PM): que muy despreocupada.
+Andrés Felipe Urrego Martínez (01:59 PM): Y, bueno, yo creo que eso es todo por hoy. por ejemplo. Pero bueno, listo. Entonces, digamos que
+Andrés Felipe Urrego Martínez (01:59 PM): a través de la página web. No, ese sí no, porque no sería un especialista. crisis, non profit operations.
+Andrés Felipe Urrego Martínez (01:59 PM): Yo te lo he dicho varias veces, tienes que estrellarte un un par de veces porque aplicarlo es fácil. Listo, entonces Program Manager, pues ya me dijiste que yo sea un poquito ya más... en el país.
+Andrés Felipe Urrego Martínez (01:59 PM): Y obviamente también contribuir a la que sería tu tarea, entonces ya tienes la herramienta. mientras intentamos, pero si no uno se queda siempre. O sea, hay que otra vez tomar riesgos de... ese tipo, aplicar una posición más arriba de la que vos. para que te des cuenta cómo es el tipo de aplicación.
+Andrés Felipe Urrego Martínez (01:59 PM): en el futuro. Gracias. porque no se puede. y tener las herramientas para ir aprendiendo.
+Andrés Felipe Urrego Martínez (01:58 PM): No dejes que aprender sea una barrera. para que pueda escribir.
+Ricardo Van Arcken (01:58 PM): Esto lo digo porque ya esto, en mayoría de los casos, despiden más adelante, lo despiden muchas veces, un estudio como el de... Y lo otro con el problema es que...
+Andrés Felipe Urrego Martínez (01:58 PM): que tomar un test. que lo haces, o sea, si no tenés...
+Andrés Felipe Urrego Martínez (01:58 PM): no son personas que han estudiado. o una carrera para esto. si no, lo que tienes que tener es experiencia. en el mundo.
+Andrés Felipe Urrego Martínez (01:58 PM): en el país. porque ahí va a entrar Trump y le van a quitar todo el... funding. Y ellos, los case workers,
+Andrés Felipe Urrego Martínez (01:58 PM): O sea, yo estoy ahorita, hicimos partnership. con el Texas Office for Refugees, hasta ahí. de los
+Ricardo Van Arcken (01:57 PM): Para más que el case les bien, a lo mejor el case les bien usar una transcripción. Y si hay una certificación, ¿es sencilla?
+UNKNOWN_SPEAKER (01:57 PM): O sea, literalmente dentro de...
+Andrés Felipe Urrego Martínez (01:57 PM): ¿Cuál es el problema?
+Ricardo Van Arcken (01:57 PM): cosas bien. Ok, mira podría ser.
+Ricardo Van Arcken (01:57 PM): de cómo se pronuncia.
+Andrés Felipe Urrego Martínez (01:57 PM): que buscar en internet. Imagínenlo.
+Ricardo Van Arcken (01:57 PM): Ok, dame tres ejemplos de cosas.
+Ricardo Van Arcken (01:57 PM): con quien, ok, en los...
+Andrés Felipe Urrego Martínez (01:57 PM): y que estás haciendo para aprender el inglés?
+Ricardo Van Arcken (01:57 PM): que me he cortado con el pie en la parte lingüista. Okay.
+Andrés Felipe Urrego Martínez (01:57 PM): y que te faltaba hacer bien. Digamos que.
+Ricardo Van Arcken (01:56 PM): que hayan todos, el PIB en sí se recarga de la parte logística, de la parte administrativa.
+Ricardo Van Arcken (01:56 PM): corre te encargar de delegar. está como tal y de por lo recién. del comportamiento de problemas.
+Ricardo Van Arcken (01:56 PM): El supervisor se encarga más.
+Ricardo Van Arcken (01:56 PM): el superlocal, si hay logística. en un shelter diferente como aquí. Los clientes son logísticos. supervisor? No.
+UNKNOWN_SPEAKER (01:56 PM): No.
+Ricardo Van Arcken (01:56 PM): ¿No?
+Andrés Felipe Urrego Martínez (01:56 PM): Pero no, eso es como el Logistics Supervisor.
+Ricardo Van Arcken (01:56 PM): Shelter supervisor.
+Andrés Felipe Urrego Martínez (01:56 PM): Ya, pero así es que hundo. O sea, pero decime, pues, pues, hablar es que.
+Andrés Felipe Urrego Martínez (01:56 PM): en el mundo.
+Andrés Felipe Urrego Martínez (01:55 PM): Aha. Listo. antepaja que pusiste el interés laboral. Supervisor.
+Ricardo Van Arcken (01:55 PM): Hoy en Tenerlaura.
+Ricardo Van Arcken (01:55 PM): listo guardar guardar y continuar
+Andrés Felipe Urrego Martínez (01:55 PM): Subtítulos por la comunidad de Amara.org
+Andrés Felipe Urrego Martínez (01:55 PM): cambiarlo entonces de una vez.
+Ricardo Van Arcken (01:55 PM): Damos el escrito, lo pedimos, damos el pedido.
+Andrés Felipe Urrego Martínez (01:54 PM): Vamos a editarlo, pero estoy...
+Ricardo Van Arcken (01:54 PM): Ay, ¿qué te pasa?
+Andrés Felipe Urrego Martínez (01:54 PM): Ok.
+Andrés Felipe Urrego Martínez (01:54 PM): Ok, le voy a ponerle. ¿Qué idioma quieres que esté tu currículum le bajar en inglés?
+Ricardo Van Arcken (01:54 PM): cuál es el negro minimalista. ¿Cómo se llama? Negro minimalista.
+Ricardo Van Arcken (01:54 PM): para que ponga de vidrio standoff la pantalla.
+Andrés Felipe Urrego Martínez (01:54 PM): Proceder. A mí me gusta mucho que el negro minimalista esté aquí.
+UNKNOWN_SPEAKER (01:54 PM): Listo.
+Ricardo Van Arcken (01:54 PM): los recursos. Esto ya procede.
+Andrés Felipe Urrego Martínez (01:54 PM): en el momento en el momento en el
+Andrés Felipe Urrego Martínez (01:54 PM): Ahora entonces vamos al panel, dale Generar CV y vas a darle Seleccione un
+Ricardo Van Arcken (01:54 PM): Ok, listo.
+Andrés Felipe Urrego Martínez (01:53 PM): Ah, pero si bajo mis currículums te aparecen cuántos? Me aparecen dos.
+Ricardo Van Arcken (01:53 PM): comentar a un amigo.
+Ricardo Van Arcken (01:53 PM): General Seved, Ministerio de la Hora, Recuperación y Salud.
+Andrés Felipe Urrego Martínez (01:53 PM): ¿Qué te parece, bienvenido Ricardo? Sí, característico.
+Andrés Felipe Urrego Martínez (01:53 PM): a la derecha.
+Ricardo Van Arcken (01:53 PM): my resume, my job, message.
+Andrés Felipe Urrego Martínez (01:53 PM): Okay. Uh, listo. Get that by the AC. That's more proof.
+Andrés Felipe Urrego Martínez (01:53 PM): Bye.
+Andrés Felipe Urrego Martínez (01:52 PM): Wait for me here.
+Andrés Felipe Urrego Martínez (01:52 PM): listo entonces ya entraste foreign
+Andrés Felipe Urrego Martínez (01:52 PM): Okay, so young trust a list of
+Andrés Felipe Urrego Martínez (01:52 PM): Um, okay. Ah, listo, muy pronto.
+Andrés Felipe Urrego Martínez (01:52 PM): comentar como antes. Sí, un día eso y ya.
+Ricardo Van Arcken (01:51 PM): Ya está, ya está.
+UNKNOWN_SPEAKER (01:51 PM): Ajá.
+Ricardo Van Arcken (01:51 PM): Ya, ¿qué hago? Listo, ¿qué pasó? ¿Ya entraste?
+Ricardo Van Arcken (01:51 PM): un saludo
+Andrés Felipe Urrego Martínez (01:51 PM): con el teléfono.
+Andrés Felipe Urrego Martínez (01:50 PM): A ver, tengo un saludo entonces. Ajá.
+Ricardo Van Arcken (01:50 PM): No, no, no.
+Andrés Felipe Urrego Martínez (01:50 PM): es que hacer el sign in with Google.
+UNKNOWN_SPEAKER (01:50 PM): es el
+Andrés Felipe Urrego Martínez (01:50 PM): Y 06...
+Ricardo Van Arcken (01:50 PM): No. Jiménez.
+Andrés Felipe Urrego Martínez (01:50 PM): manera. Van Ricard 06.
+Andrés Felipe Urrego Martínez (01:50 PM): the I'm I don't know del equipo argentino. pregunta que paso con tu imagen.
+Andrés Felipe Urrego Martínez (01:49 PM): Okay.
+Ricardo Van Arcken (01:49 PM): signal.
+Ricardo Van Arcken (01:49 PM): When a little bit.
+Ricardo Van Arcken (01:49 PM): This email have been registered on another email.
+UNKNOWN_SPEAKER (01:49 PM): Why?
+Ricardo Van Arcken (01:48 PM): This email is okay now.
+UNKNOWN_SPEAKER (01:48 PM): I'm.
+Ricardo Van Arcken (01:48 PM): or noise.
+Ricardo Van Arcken (01:48 PM): He told me that it was an email.
+Ricardo Van Arcken (01:48 PM): Thank you.
+Ricardo Van Arcken (01:48 PM): Yeah.
+Ricardo Van Arcken (01:47 PM): Let's get back in our...
+Andrés Felipe Urrego Martínez (01:47 PM): you. We are doing login in mobile, please.
+Andrés Felipe Urrego Martínez (01:47 PM): No, no.
+Andrés Felipe Urrego Martínez (01:47 PM): Listen, don't say that.
+UNKNOWN_SPEAKER (01:47 PM): Yeah.

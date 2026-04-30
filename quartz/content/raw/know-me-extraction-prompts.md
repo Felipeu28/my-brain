@@ -1,7 +1,5 @@
 ---
 type: reference
-ingested: true
-ingested_at: 2026-04-18
 ---
 
 # Know Me — Extraction Prompts for The Brain

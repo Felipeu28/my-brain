@@ -1,0 +1,14 @@
+---
+type: program-doc
+---
+
+# Inna
+
+**Source:** OneDrive HIVE/client document
+**Original file:** Inna.docx
+
+---
+
+Empowered Nutrition and Wellness!Holistic Nutritionist:Started due to daughters' illness in 2011, for about 4 years looking for answers, heart issues, then suicidal thoughts, therapy and lots of meds, very compassionate and can relte to the pain others feel. Eduaction and empowerment Bought into program for other providers like her, chiropractors, energy healers, holistic nutritionists. Website is currently managed by previous We can find out where is hosted, try to get access to the website, and manage internally, leaning more towards creating your own. Revamp of website (Send a website creation thought provoking questionnaire) $150 an hour currently Currently have an Instagram account, not using a whole lot, had a marketing person who created branding, business cards, posted every single day, both insta and FB.SFM (simplified functional. Medicine) brought company who did ads, go high level framework, not currently doing anything with it. Will need to confirm if access is currently free, $600 a month for ads, no results. $2400 month. #1 marketing person: $750 a month for 3 months, $650 for 6 months. Doubled in followers, but nothing else changed. #2 marketing person: Needed someone with high level experience, currently hired Atomic productions, started May 1st, $695 for social media, $800 for Facebook ads and tracking on high level, $600 for ads per month and $200 for fixing the ad copy. Results so far: Instagram has grown 10 followers, they post 4 times a week, posts do not do very well. $1300 per month. $1000 one-time fees. Currently working with a business coach: $300 month Current niche is Today I am working with women over 40 regain their energy, emotional balance and confidence through root testing and personalized nutrition. Functional lab testing.Send booking link, will meet again next week. Send my phone number:
+Marketing and emails campaigns with ½ the money. $8400 for a website. Add yourself to more groups on the market. Send link to moil business plan creator$200 facebook consulting fee$4 ads, $1 dollar per day each day while paused. Meta Ads: Being managed through there. Initial concern is:
+Initial consultation is $99, test is $325, then we talk about supplements, which is $200$624 Total.
