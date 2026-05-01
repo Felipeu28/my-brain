@@ -1,6 +1,6 @@
 # MEMORY — Open Actions & Live Commitments
 
-**Last updated:** 2026-04-30 (Run 28 — Apr 29 email digest + Apr 30 Heather Skeen + Carolina HIVE Cohort 4 1:1s + Apr 30 email digest ingested)
+**Last updated:** 2026-05-01 (Run 30 — weekly compile + cleanup; no new raw sources since Run 28; Apr 11–17 carryover demoted to Deferred per priority-rot rules)
 **Purpose:** Single source of truth for open action items extracted from ingested raw sources.
 
 > Relationship/concept context: [[index]] · Ingestion history: [[log]]
@@ -133,20 +133,6 @@ Source: [[wiki/meetings/2026-04-21-teams-daily-ops]], [[wiki/meetings/2026-04-21
 
 ---
 
-## 🔥 Carried from last week (Apr 11–17)
-
-(Closed Apr 30: EDC × GIS WebTech AI call locked Wed May 13; HIVE Cohort 4 launch + curriculum prep superseded by active 1:1 cadence)
-
-- [ ] **🔥 Adeleke:** Audit entire Moil codebase for OpenAI API usage; migrate gpt-4o → gpt-5-mini. **Now urgent — see Apr 29 AI-spend block above** (rotate keys after audit)
-- [ ] **Respond to Adam Maxon** (adamm@pfdevelopment.com) re Pflugerville Mentor Day. See [[wiki/people/adam-maxon]]
-- [ ] **Adeleke + Jacob:** Rotate GitHub webhook secrets per Apr 14 security alert
-- [ ] **Reply to Jesutomilola Omoniyi** (Google xWF) — two Apr 15 follow-ups trying to reschedule; pick a time next week/month
-- [ ] **Review 2025 1040** in TaxDome — Melissa Jarbo back from leave; new secure message from Martin Kutac; Ingrid refund/liability form flagged
-- [ ] **Identify new social media client** Andres signed; confirm Abiodun capacity
-- [ ] **Product UX:** Fix employer cannot see applicant phone/email in Moil; clarify notification system when candidate messages via Moil; reply to Megan Miller with workaround + ETA
-
----
-
 ## 📅 Next 2–3 weeks (Apr 29 – May 12)
 
 - [ ] **May 4 12pm CDT** — Christine StJohn × Andres lunch at Unwrapped Uncorked (Kathryn Eyers — confirmed Apr 28)
@@ -187,6 +173,15 @@ See [[log.md]] Run 15 for full context. Still live:
 - [ ] **Jul 1, 2026** — Shay Foley / Johns Creek Chamber re-engage (chamber budget year starts). Pitch AI tools for entrepreneurs w/ Buda EDC reference. [[wiki/people/shay-foley]]
 - [ ] **Sep 1, 2026** — Buda HIVE training program curriculum jointly with HIVE + Incubator Strategist Team
 - [ ] **Post-Apr 15** — CampaignOS with Jennifer Storm: circle back on MVP scope; Andres offered "little to no cost" — decide commitment level. [[wiki/concepts/campaignos]]
+
+### Demoted 2026-05-01 from "Carried from last week (Apr 11–17)" — >14 days carried
+- [ ] **Adeleke:** Audit entire Moil codebase for OpenAI API usage; migrate gpt-4o → gpt-5-mini. Cross-ref active urgent path: Apr 29 AI-spend block in 🔥 Immediate (rotate keys after audit)
+- [ ] **Respond to Adam Maxon** (adamm@pfdevelopment.com) re Pflugerville Mentor Day. See [[wiki/people/adam-maxon]]
+- [ ] **Adeleke + Jacob:** Rotate GitHub webhook secrets per Apr 14 security alert
+- [ ] **Reply to Jesutomilola Omoniyi** (Google xWF) — two Apr 15 follow-ups trying to reschedule; pick a time
+- [ ] **Review 2025 1040** in TaxDome — Melissa Jarbo back from leave; new secure message from Martin Kutac; Ingrid refund/liability form flagged
+- [ ] **Identify new social media client** Andres signed; confirm Abiodun capacity
+- [ ] **Product UX:** Fix employer cannot see applicant phone/email in Moil; clarify notification system when candidate messages via Moil; reply to Megan Miller with workaround + ETA
 
 ---
 
