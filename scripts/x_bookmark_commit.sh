@@ -26,6 +26,7 @@ echo ""
 echo "📦 Committing to GitHub..."
 git add .
 git commit -m "X bookmarks — $TODAY" || echo "Nothing new to commit."
+git pull --rebase --autostash felipeu28 main 2>/dev/null || git rebase --abort 2>/dev/null || true
 git push felipeu28 main
 
 echo ""
