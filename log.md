@@ -4,6 +4,84 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ---
 
+## 2026-04-30 — Run 28: Apr 29 + Apr 30 email digests + Apr 30 Heather Skeen + Carolina HIVE Cohort 4 1:1s
+
+**Trigger:** Automated scan for unprocessed `raw/` files. Four new files since Run 27:
+- `raw/email-digest-2026-04-29.md` (committed Apr 29 18:32 by `email-digest` job — 24-hour window Apr 28–29; 24 sent / 15 received emails)
+- `raw/teams-transcript-heather-skeen-2026-04-30.md` (Apr 30 18:18 — 62-min Teams 1:1: Andres × Heather Skeen, HIVE Cohort 4)
+- `raw/teams-transcript-carolina-2026-04-30.md` (Apr 30 18:19 — 47-min Teams 1:1: Andres × Carolina ("Caro"), HIVE Cohort 4, Spanish)
+- `raw/email-digest-2026-04-30.md` (committed Apr 30 18:32 by `email-digest` job — 24-hour window Apr 29–30; 25+ sent / 16 received; **biggest single-day outbound day of the campaign with MN + WI + MS state clusters**)
+
+**Pages created (5):**
+- [[wiki/people/heather-skeen]] — BCBA founder of [[wiki/orgs/providence-behavior-therapy]]; HIVE Cohort 4
+- [[wiki/people/carolina-caro]] — Mexico City → Buda; designer + yoga + holistic psychology; HIVE Cohort 4; women-coworking pivot
+- [[wiki/orgs/providence-behavior-therapy]] — Heather's multidisciplinary therapy practice (behavior + speech + counseling + ASL)
+- [[wiki/meetings/2026-04-30-heather-skeen-coaching]] — first HIVE Cohort 4 1:1; daycare PD wedge locked
+- [[wiki/meetings/2026-04-30-carolina-coaching]] — first HIVE Cohort 4 1:1; women-coworking pivot from holistic spa
+
+**Pages updated (11):**
+- [[wiki/people/casey-earley]] — Apr 29 Cohort 4 Session 2 forwarding (Joshua small-group prep); Apr 30 routed Heather to her 1:1 after sign-on issues; now has Heather's direct cell
+- [[wiki/people/john-costilla]] — Apr 29 **Wed May 13, 9–11 AM CT virtual meeting locked** with [[wiki/people/joseph-arnke]] / Michael Cleary (GIS WebTech) — first firm date on the EDC-website-AI-tools workstream live since Apr 10; Andres also forwarded the morning briefing to John (first time the Brain Briefing has been shared with a non-Moil contact) + shared OneDrive doc *"business-coach-95s"*; Apr 30 Cleary confirmed he'll send the calendar invite
+- [[wiki/people/kim-dowers]] — Apr 29 Jacob took ownership of the Krystal post-webinar onboarding (replied direct, original invite likely went to spam); Jacob also flagged internal license-resend reminder for Kim from Partners Dashboard. **Apr 30 — Kim resent the inactive licenses + check has been mailed for hosting the Apr 28 webinar (first revenue-flow signal from QC Chamber)**
+- [[wiki/people/joshua-edmond]] — Apr 29 Cohort 4 Session 2 small-group prep (met with the cohort, finalizing small group sessions before May 4 — first evidence Joshua is doing 1:1-style cohort segmentation work mid-program); **Apr 30 21:06 UTC forwarded the Cohort 4 PSA from Jacqueline Martinez to Andres + Shannon — contract execution stage**
+- [[wiki/people/mark-polanco]] — Verizon One Talk User Guides delivered Apr 29 02:02 UTC (closes the Verizon T77 doc ask from the Apr 28 walkthrough); Andres forwarded to Taiwo at 12:25 UTC for Connectex docs/ticketing test
+- [[wiki/people/jacob-oluwole]] — Apr 29 named operational owner of the QC Chamber post-webinar onboarding pipeline; sent internal license-resend reminder to Andres re: Kim
+- [[wiki/people/abiodun-solomon]] — Apr 29 13:35 UTC: Inna podcast video taking longer than expected (cleaning silent fillers while keeping flow)
+- [[wiki/people/adeleke-tolulope]] — Apr 29 10:24 UTC: flagged **suspicious $3.6K Gemini spend** + Google project at risk of suspension; proposed audit-or-migrate path. Combined with Andres' Apr 29 02:41 self-forwarded OpenAI 80%-threshold alert: **two AI-spend anomalies in 8 hours across two providers**
+- [[wiki/people/renee-simmons]] — Apr 29 carryover; **Apr 30 — Career Day expanded into business-owner cohort recruitment (Salon One Twelve confirmed; KW realtor Allison Pflaum checking in; Proof Liquor & Deli politely declined kid audience but offered alternate topic)**
+- [[wiki/people/anita-lansing]] — **Apr 30 19:48 UTC: spontaneous Cohort 2/3 grad re-engagement signal** — forwarded *"48 Hours to Go…"* with *"This is what I was talking about! I'm going to start getting it set up."* First spontaneous re-engagement of the Apr digests
+- [[wiki/people/hive-cohort-members]] — added Cohort 4 column + new Cohort 4 section listing Apr 30 1:1s; flagged Cohort 3 Carol as a possible match for Cohort 4 Carolina (last-name TBD, worth confirming with Casey/Jacquie)
+
+**Pages updated (orgs + business):**
+- [[wiki/orgs/buda-edc]] — Cohort 4 row updated: Week 2 done Apr 28 (Shannon attended), first 1:1s Apr 30, Joshua running small-group cuts for Session 3 (May 4); HIVE-Clients-Also-Using-Moil expanded with Heather + Carolina
+- [[wiki/moil/gtm]] — added "Cold campaign — Apr 29 update" + "Apr 30 update" + "Hays CISD Career Day — network-recruitment expansion" sections. Apr 29: first deliberate 4-narrative day (24 sends); first NBCC reply on record (Charles DeBow); first west-coast SMB Belmont-Buda template. Apr 30: biggest geographic-concentration day (MN + WI + MS clusters in one day, 25+ sends); first Apollo auto-bounce (Mitchell Swenson, Waupaca); Kim Dowers check-mailed signal; Anita Lansing spontaneous re-engagement
+
+**Pages updated (operating layer):**
+- [[MEMORY]] — major restructure: opened ~14 new Apr 29–30 items (Heather + Caro coaching follow-through, Andres house drop-by, May 13 GIS WebTech meeting, AI-spend audit P0, NBCC reply follow-up, west-coast SMB cold-batch tracking, Cohort 4 PSA execution, Career Day cohort recruitment, Anita re-engagement reply, Apollo cleanup pass); closed Mark Verizon-doc ask + Kim Krystal-handoff (Jacob owns) + Kim license-resend (Kim self-resolved Apr 30) + Andres same-day post-coaching follow-ups + EDC × GIS WebTech call (now scheduled) + Cohort 4 launch; trimmed Apr 28 inbox + carried-from-last-week + closed Inna deploy items. 200 lines (was 168, hit hard cap exactly).
+- [[index]] — Run 28 header, raw source count 383 → 387 (4 new files), wiki page count 270 → 275 (+5 = 2 meetings + 2 people + 1 org), meetings count 67 → 69, people count 53 → 55, orgs count 21 → 22
+
+**Key intelligence from Run 28:**
+
+1. **🟢 HIVE Cohort 4 1:1 cadence is now live (Apr 30).** Two 1:1s back-to-back: Heather Skeen at 11 AM CT, Carolina ("Caro") at 12 PM CT. Both produced **clear MVP wedges** in a single session — Heather → daycare CEU/PD annual contracts (~$1,000/yr); Caro → women-focused coworking (replace $2,500/mo Airbnb). **Cohort 4 1:1 → MVP-decision conversion rate so far: 2/2.** Worth tracking as the cohort cadence continues.
+
+2. **Heather "Providence" rebrand under attorney consult.** *Providence Behavior Therapy* → likely *Providence Counseling and Therapy*; *Providence Consulting* spun out as a separate LLC for the training arm to insulate clinical liability. Trigger was Shannon (HIVE Cohort 4) confirming Apr 28 that she dismissed Providence on first read because the name read as behavior-only — **first on-record example of a HIVE cohort participant giving direct positioning feedback to another cohort participant**.
+
+3. **🔥 Buda EDC × GIS WebTech AI virtual meeting LOCKED for Wed May 13, 9–11 AM CT.** First firm date on the EDC-website-AI-tools workstream that's been cooking since John Costilla's Apr 10 *"Agentic AI / always on site selector tool"* signal. Direct line to the **Moil-AI-as-EDC-website-infra** product expansion path that would be a B2G-template replicable to other EDCs.
+
+4. **🚨 AI-spend observability is now a recurring P0.** Two anomalies in 8 hours Apr 29: (a) Andres self-forwarded OpenAI 80%-threshold alert (*"Something is going on with our open ai key!! How else are we using it?"*); (b) Adeleke flagged **suspicious $3.6K Gemini spend** + Google project suspension risk. Continues the Apr 15 OpenAI cost-audit thread + Apr 26 high-value-asset model-cost ask. Needs a **per-feature accounting** (not just a cost cut) before next billing cycle — and an audit-vs-migrate decision on the Google project that holds OAuth + Places API.
+
+5. **🟢 First NBCC reply in the cold campaign (Apr 29).** Charles DeBow / National Black Chamber of Commerce replied to *"3-minute walkthrough"* with *"Moil's structured guided approach is directionally aligned with where many entrepreneurship ecosystems are heading."* **First on-record reply from a national-org chamber/EDC partner** in the cold campaign — warm tone, framed as ecosystem-fit. Treat as a real lead and pull NBCC out of the breakup queue.
+
+6. **🟢 Apr 29 = biggest single-day outbound (24 sends across 4 template variants).** First deliberate multi-narrative day in the campaign — 7 close-out + 4 west-coast SMB Belmont-Buda transformation + 4 SMB cold + 3 EDC-story + 2 walkthrough demo. The west-coast Belmont-Buda variant is a **brand-new template** that converts the Apr 29 morning FitLogic delivery into outbound asset by the same afternoon. Worth tracking reply rate before scaling.
+
+7. **Casey Earley confirmed as the first call when HIVE participants get stuck on logistics.** Apr 30: Heather couldn't sign on to Teams; emailed Casey + Jacquie marking it urgent; Casey called Andres mid-setup, got Heather's direct number, called her, re-routed her into the call. **Operational-glue role surfaces again** — same pattern as the Apr 28 WhatsApp invite she sent.
+
+8. **Joshua Edmond is doing mid-program 1:1-style cohort segmentation.** First evidence (Apr 29) that he's doing **small-group cuts of Cohort 4 before Session 3 (May 4)** — not just session delivery. Refines the Joshua/Andres co-Strategist model: Joshua is now demonstrably scoping participant subgroups, which makes the joint contract structure load-bearing in a new way.
+
+9. **Jacob is now the named operational owner of the QC Chamber post-webinar onboarding pipeline.** Apr 29 11:26 he replied directly to Krystal (post-webinar lead from Apr 28 Queen Creek workshop); Apr 29 15:57 he sent Andres an internal license-resend reminder for Kim. Mirrors his FitLogic / Inna QA-owner pattern from Apr 28 — **Jacob's operational scope is widening from internal QA to external customer-facing follow-through**.
+
+10. **Andres forwarded a *Brain Briefing* to John Costilla for the first time.** Apr 29 16:04 UTC: *"Fw: Brain Briefing - 2026-04-29 — real action, not just a summary."* **First time the Brain Briefing artifact has been shared with a non-Moil contact**. Frames the Brain output as a credibility/sales asset (John works at Buda EDC + is Andres's closest personal friend). Worth tracking whether John forwards it inside the EDC.
+
+11. **🟢 First QC Chamber revenue-flow signal (Apr 30).** Kim Dowers: *"Re: Moil Follow up — check has been mailed."* **First on-record monetary outcome from a partner-org webinar engagement** (the Apr 28 Queen Creek workshop that Kim hosted). Closes the Apr 28 webinar economic loop: workshop → Krystal post-webinar lead (Jacob owns) → check in the mail. Models the unit economics of out-of-state chamber partnerships.
+
+12. **🟢 Cohort 4 PSA round-trip closed in 9 days (Apr 30).** Shannon Cameron forwarded the original PSAs Apr 21 → Joshua redlined them Apr 24 → Jacqueline Martinez issued the formal *"Professional Service Agreement"* → Joshua forwarded it to Andres + Shannon Apr 30 21:06 UTC. **Andres now needs to read + countersign.** First time the Joshua/Andres co-Strategist contract has reached signature stage with this turnaround speed.
+
+13. **🟢 Career Day → Buda business-owner cohort recruitment (Apr 30).** Andres opened *"Business Experts helping Hays CISD"* and pulled Salon One Twelve (confirmed) + KW realtor Allison Pflaum (checking in) + Proof Liquor & Deli (polite decline + alternate-topic offer) inside 24 hours. **First time a community-event ask is being used as a community-network-building tool** rather than a one-off speaking gig. Replicable as a HIVE-adjacent recruitment loop.
+
+14. **🟡 First contact-departed bounce in the Apr campaign (Apr 30).** Mitchell Swenson (Waupaca Area Chamber) auto-replied that he's no longer at the org. Combined with the Apr 24 first-name mismatch ("Joseph" → Roger Wilkinson) and the Apr 28 triple-send to Taiwo, this is now a **growing class of Apollo data-quality / deliverability issues** that warrants a single cleanup pass before next outbound batch.
+
+**Action-item delta:**
+- **Closed (~10):** Mark Verizon One Talk docs delivered Apr 29; Andres forwarded to Taiwo same day; Kim Krystal handoff (Jacob owns); **Kim license-resend self-resolved Apr 30**; Andres same-day post-coaching follow-ups to Caro + Heather DELIVERED Apr 30; Joseph Arnke / GIS WebTech AI meeting date now confirmed (Wed May 13); Cohort 4 launch + curriculum prep superseded by active 1:1 cadence; FitLogic deploy + Megan calendar etiquette items closed; HeyGen re-auth (Apr 26).
+- **Opened (~14):** Andres house drop-by at Caro's; Andres save Heather's HIPAA cell; **Andres read + countersign Cohort 4 PSA**; Caro homework set (Moil signup, customer interviews, floorplan-to-revenue map, bathroom blocker, spa-amenity monetization); Heather homework set (daycare PD research, market rates, package 3–4 bundles, prospect list, attorney consult, NC fall pricing fix); Wed May 13 GIS WebTech meeting prep; Adeleke audit-vs-migrate decision on Google project + Gemini spend root-cause; Andres / Adeleke per-feature AI-spend accounting; Andres reply to Charles DeBow / NBCC; Career Day cohort recruitment (slot details to Allison + Rebecca; reply to John); Andres reply to Anita Lansing; Apollo data-quality cleanup pass.
+
+**MEMORY.md trim:** 168 → 200 lines (hit hard cap exactly — closed Apr 28 inbox + carried-from-last-week + closed Inna deploy items inline; reorganized Next-2-3-weeks into forward-looking only).
+
+**Sync step:** `bash scripts/sync_wiki.sh` mirrors all updates into `quartz/content/`. **Health step:** `python3 scripts/kb-health.py` after sync.
+
+**Source count:** 383 → 387 (4 new). Wiki page count: 270 → 275 (+5 = 2 meetings + 2 people + 1 org).
+
+---
+
 ## 2026-04-29 — Run 27: Apr 28 email digest + Apr 29 Megan FitLogic CRM full delivery walkthrough
 
 **Trigger:** Automated scan for unprocessed `raw/` files. Two new files since Run 26:

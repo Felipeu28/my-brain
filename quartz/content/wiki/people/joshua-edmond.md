@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-24
+last_contact: 2026-04-29
 tags:
   - graph/spoke
   - person/partner
@@ -8,8 +8,8 @@ tags:
 # Joshua Edmond
 
 **Type:** person
-**Last updated:** 2026-04-25
-**Source:** [[raw/buda-hive-edc-2026-04-11]], [[wiki/meetings/2026-03-12-sosx-buda-hive]], [[raw/email-digest-2026-04-17]], [[raw/email-digest-2026-04-24]]
+**Last updated:** 2026-04-30
+**Source:** [[raw/buda-hive-edc-2026-04-11]], [[wiki/meetings/2026-03-12-sosx-buda-hive]], [[raw/email-digest-2026-04-17]], [[raw/email-digest-2026-04-24]], [[raw/email-digest-2026-04-29]], [[raw/email-digest-2026-04-30]]
 **Related:** [[wiki/people/jacquie-martinez]], [[wiki/people/casey-earley]], [[wiki/people/shannon-cameron]], [[wiki/concepts/buda-hive]], [[wiki/orgs/buda-edc]]
 
 ---
@@ -51,3 +51,17 @@ Three emails Apr 24:
 - **13:53** — Reply on the *"Re: FW: HIVE Strategist PSAs"* thread: *"Hi Shannon, thanks for giving us the opportunity to review the contract."*
 
 First time Joshua has put redlined contract language on the record back to Shannon — moves the Cohort 4 contract from "received PSAs" (Apr 21) → "review complete with edits" (Apr 24). The Apr 24 11:46 AM meeting invite implies a follow-up call to align before Shannon countersigns. **Andres needs to review the redline before the meeting** so he can support a single position when Joshua + Andres are on with Shannon. Open: when does this meeting happen, and is Andres on the invite?
+
+## Apr 29, 2026 — Cohort 4 Session 2 small-group prep
+
+Source: [[raw/email-digest-2026-04-29]], [[raw/email-digest-2026-04-30]]
+
+Joshua replied to [[wiki/people/casey-earley|Casey]]'s *"Buda HIVE - Cohort 4 Session 2"* forward at 18:31 UTC: *"Met with them today; will finalize small group sessions before next Monday."* Confirms Joshua is leading the **small-group cuts for Cohort 4 Session 2** (the next Monday is May 4 — Cohort 4's Week 3). First evidence Joshua is doing 1:1-style cohort segmentation work mid-program, not just session delivery.
+
+The Apr 30 digest expands the note: *"they loved the small group sessions idea"* — cohort-side validation of the segmentation approach, not just an internal Joshua decision.
+
+## Apr 30, 2026 — PSA forwarded from Jacqueline Martinez
+
+Source: [[raw/email-digest-2026-04-30]]
+
+At 21:06 UTC Joshua forwarded the *"Professional Service Agreement"* received from [[wiki/people/jacquie-martinez|Jacqueline Martinez]] (Buda EDC) to Andres, cc [[wiki/people/shannon-cameron|Shannon Cameron]]. **Cohort 4 contract execution is now formally with Joshua + Andres.** Combined with the Apr 24 redlined version Joshua sent Shannon, the contract has now made the round-trip: Shannon (Apr 21) → Joshua redline (Apr 24) → Jacqueline-issued PSA (Apr 30) → Joshua + Andres for signature. Andres needs to read it before countersigning.

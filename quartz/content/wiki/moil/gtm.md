@@ -5,8 +5,8 @@ tags:
 # Moil — Go-to-Market Motion
 
 **Type:** moil-topic
-**Last updated:** 2026-04-29
-**Source:** [[raw/moil-documents-2026-04-09]], [[raw/moilapp-website-2026-04-09]], [[raw/teams-2026-04-12]], [[raw/email-digest-2026-04-14]], [[raw/email-digest-2026-04-15]], [[raw/email-digest-2026-04-17]], [[raw/email-digest-2026-04-20]], [[raw/email-digest-2026-04-21]], [[raw/email-digest-2026-04-22]], [[raw/email-digest-2026-04-27]], [[raw/email-digest-2026-04-28]]
+**Last updated:** 2026-04-30
+**Source:** [[raw/moil-documents-2026-04-09]], [[raw/moilapp-website-2026-04-09]], [[raw/teams-2026-04-12]], [[raw/email-digest-2026-04-14]], [[raw/email-digest-2026-04-15]], [[raw/email-digest-2026-04-17]], [[raw/email-digest-2026-04-20]], [[raw/email-digest-2026-04-21]], [[raw/email-digest-2026-04-22]], [[raw/email-digest-2026-04-27]], [[raw/email-digest-2026-04-28]], [[raw/email-digest-2026-04-29]], [[raw/email-digest-2026-04-30]]
 **Related:** [[wiki/moil/positioning]], [[wiki/moil/icp]], [[wiki/concepts/buda-hive]], [[wiki/people/travis-sutherland]], [[wiki/people/daniel-guadiano]], [[wiki/people/renee-simmons]], [[wiki/people/adam-maxon]], [[wiki/people/irma-mason]], [[wiki/people/elisa-alaniz]], [[wiki/people/katherine-silvas]], [[wiki/orgs/helotes-edc]]
 
 ---
@@ -208,6 +208,53 @@ Single-day outbound: **24 chamber/EDC sends**, dominated by close-out / breakup 
 **Operational note (deliverability):** Three back-to-back sends to Taiwo (14:28, 14:28, 14:34) for the same "Taiwo & Andres" Teams meeting invite suggests an Outlook/m365 deliverability hiccup or accidental retry. Worth a check before next outbound batch — the Apollo first-name mismatch flagged Apr 24 + this duplicate-send pattern are starting to look like a class of deliverability/QA issues.
 
 **Inbound from the campaign (Apr 28 vs. Apr 27):** Apr 28 inbound activity is dominated by **non-cold-campaign threads** (Mark Polanco, Inna, Linda website, Sunfield Spray Tans, John Costilla lunch, Renee Simmons Career Day, Casey Earley HIVE WhatsApp, Kim Dowers post-webinar Krystal hand-off, Victor Escamilla revised UDC invite). **Zero direct chamber-EDC inbound replies captured Apr 28** — the close-out variants haven't pulled new replies yet (sent same-day; reply window still open).
+
+### Cold campaign — Apr 29 update (highest single-day volume + first NBCC reply)
+
+Source: [[raw/email-digest-2026-04-29]]
+
+Single-day outbound: **24 sends** running **four template variants in parallel** for the first time in the campaign — prior days have leaned on one or two narratives at a time.
+
+- **Close-out template ("Should I close this out?" / "Last note") — 7 sends:** Elizabeth Obrien (uschamber.com), James Harmon (maine.rr.com), Kathryn Yoakum (raleighchamber.org), Rachapa Lau (apacc.net), Tilak Mohan (michigan.org / MEDC), Adam Farrah (ucedc.com), implicit Maine cluster.
+- **"Buda business looks 10x bigger now" (story-led cold) — 4 sends:** David Mann (guckenheimer.com — Belmont), Shayan Guha (avocadopos.com — SF), Jessica Reicher (wbhq.com — Irvine), Rob Pieroth (thinkpositiveenergy.com — Glendora). All four are **west-coast SMB targets** opened with the same Belmont-Buda transformation narrative ("Belmont SMB went from embarrassed to 3 posts/week with Content 360"). First time the FitLogic / Inna-style Content360 transformation story is on-record as a cold-outbound hook.
+- **"Most SMB owners tell us the same thing…" (SMB cold) — 4 sends:** Brian Strange (donstrange.com), Kara Hamilton (pabellefoods.com), Tiffany Clarkson (thegrowthhaussalon.com), Annie Grinstead (positiveenergyevents.com). Direct-to-business-owner variant, less geographic clustering, multi-vertical (catering, salon, events).
+- **EDC-story / partner-anecdote ("Interesting feedback from an EDC" / "Something we didn't expect") — 3 sends:** Katie Parks (medco-corp.com), Nicholas Lucas (uschamber.com), Lisa Widmaier (esahec.org).
+- **3-minute walkthrough demo — 2 sends:** Carol Vaccaro (pointpleasantbeachnj.com), Charles DeBow (nationalbcc.org / NBCC).
+
+**Inbound replies captured Apr 29:**
+- **🟢 Charles DeBow (NBCC) replied to *"3-minute walkthrough"*** at 15:43 UTC: *"Moil's structured guided approach is directionally aligned with where many entrepreneurship ecosystems are heading."* **First on-record reply from a national-org chamber/EDC partner** in the cold campaign — tone is warm, framed as ecosystem-fit rather than commercial-fit. Andres re-pushed another walkthrough same day at 12:33 UTC (sent before reply landed). Treat as a **second-touch real lead** — drop NBCC into a separate follow-up cadence rather than the breakup queue.
+- **🟢 Michael Cleary (giswebtech.com) replied to *"Re: Follow Up"*** at 14:39 UTC offering availability; Andres + John Costilla locked the **Wed May 13, 9–11 AM CT virtual meeting** (see [[wiki/people/john-costilla|John Costilla]] / [[wiki/orgs/buda-edc|Buda EDC × GIS WebTech AI]] thread). **First firm date on the EDC-website-AI-tools thread** that's been cooking since John's Apr 10 *"Agentic AI / always on site selector tool"* signal.
+
+**Signal:** Apr 29 is the **biggest single-day outbound of the campaign** at **24 sends across 4 distinct template variants** — the first deliberate multi-narrative day. The west-coast SMB push using the **Content 360 Belmont transformation story** is a brand-new hook (4 sends, all west-coast) that **converts the FitLogic delivery success (Apr 29 morning) into outbound asset by the same afternoon**. **Two real inbound replies in one day** (NBCC + GIS WebTech / Cleary) — first day with multiple warm chamber/EDC reactions. The campaign is now **converting Apr 27–28's outbound volume into inbound conversations**.
+
+### Cold campaign — Apr 30 update (Minnesota + Wisconsin saturation; first Mitchell Swenson auto-bounce)
+
+Source: [[raw/email-digest-2026-04-30]]
+
+Single-day outbound: **25+ sends** (digest paginated at 25; more sends earlier in the window per `@odata.nextLink` flag) — campaign breaks the prior-day record again.
+
+- **Geographic concentration:** **Minnesota cluster** dominant (Stillwater, Cuyuna Lakes, Excelsior–Lake Minnetonka, Burnsville, Elk River, Marshall, Minnesota Chamber, St. Paul) + **Wisconsin cluster** (Beaver Dam, New London, Menomonie, Waupaca, Chippewa) + **Mississippi cluster** (Select Hinds, Hernando Main Street, Corinth/Alcorn Alliance, Southaven, Oxford-Lafayette EDF). KY (Jessamine, HCPL) + isolated others.
+- **Template variants in use:** *"Interesting feedback from an EDC"* / *"Something we didn't expect"* (story-led) — at least 9 sends; *"Should I close this out?"* / *"Last note"* (close-out) — at least 6 sends; *"3-minute walkthrough"* (demo) — at least 3 sends. Multi-narrative pattern from Apr 29 continues.
+- **🟡 Mitchell Swenson (Waupaca Area Chamber) auto-bounce:** Mitchell is no longer at the org. **First documented Apollo data-quality bounce in the Apr campaign**; pairs with the Apr 24 first-name mismatch ("Joseph" vs. Roger Wilkinson) and the Apr 28 triple-send to Taiwo as a **growing class of deliverability/QA issues**. Worth a single Apollo cleanup pass before next outbound batch.
+
+**Inbound from the campaign Apr 30:**
+- 🟢 Charles DeBow / NBCC reply (**Apr 29** — surfaces in Apr 30 digest as carryover); first national-org reply on record.
+- 🟢 Michael Cleary / GIS WebTech confirmed he'd send the **May 13 calendar invite** for the Buda EDC × GIS WebTech AI virtual meeting (Andres on the invite).
+- 🟢 [[wiki/people/kim-dowers|Kim Dowers]] / Queen Creek replied to Jacob's Apr 29 license-resend nudge: **"Found the resend feature and resent inactive licenses"** + separately *"Re: Moil Follow up — check has been mailed"* for hosting the Apr 28 webinar. **First explicit revenue-flow signal from a partner-org webinar engagement.**
+- 🟢 [[wiki/people/anita-lansing|Anita Lansing]] / Organically Whole forwarded a *"48 Hours to Go…"* notification: *"This is what I was talking about! I'm going to start getting it set up."* **First spontaneous re-engagement signal from a Cohort 2/3 grad in the Apr digests.**
+
+**Signal:** Apr 30 closes the week as the campaign's **biggest geographic-concentration day** — three strong state clusters in a single day (MN + WI + MS), continuing the Apr 27 (WI/MS) and Apr 28 (MA) state-cluster pattern. The combination of **(a) first auto-bounce + (b) check-in-the-mail signal + (c) Cohort grad re-engagement signal + (d) first NBCC reply** all in one digest is the strongest multi-channel inbound day of the campaign so far.
+
+### Hays CISD Career Day — network-recruitment expansion (Apr 30)
+
+Source: [[raw/email-digest-2026-04-30]]
+
+Andres expanded the May 7 [[wiki/people/renee-simmons|Renee Simmons]] / CHES Career Day from a solo presentation into a **business-owner cohort recruitment**. New thread *"Business Experts helping Hays CISD"* — Andres pitched fellow Buda business owners to join him as kid-friendly career speakers. Replies captured Apr 30:
+- **Allison Pflaum (KW realtor):** checking in for a spot — hasn't seen more info yet
+- **Rebecca Acosta-Ojeda (Salon One Twelve):** *"You can count on Salon one 12!"* — confirmed in
+- **John (Proof Liquor & Deli):** politely declined the kid audience but offered to speak on **"Texas Petition Strategies"** as an alternate topic
+
+**Signal:** First time a community-event invitation (Career Day) is being used as a **community-network-building tool** rather than a one-off speaking gig. Worth tracking how many Buda business owners Andres can pull through a single Hays CISD ask — could become a replicable HIVE-adjacent recruitment loop.
 
 ### Warm community referrals (Apr 19–21)
 

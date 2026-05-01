@@ -1,6 +1,6 @@
 # Moil Brain — Master Index
 
-**Last compiled:** 2026-04-29 (Run 27 — Apr 28 email digest + Apr 29 Megan FitLogic CRM full delivery walkthrough ingested; new pages: 1 meeting + 1 person ([[wiki/people/michelle-fitlogic]])) · **Total wiki pages:** 270 · **Raw sources:** 383
+**Last compiled:** 2026-04-30 (Run 28 — Apr 29 + Apr 30 email digests + Apr 30 HIVE Cohort 4 1:1s ingested ([[wiki/people/heather-skeen]] + [[wiki/people/carolina-caro]]); new pages: 2 meetings + 2 people + 1 org ([[wiki/orgs/providence-behavior-therapy]])) · **Total wiki pages:** 275 · **Raw sources:** 387
 
 > **Canonical operating truth lives outside the wiki:** if status or architecture notes here conflict with newer operating reality, use `~/My Brain/CURRENT_STATE.md` first.
 
@@ -28,13 +28,13 @@
 | Folder | Count | What's in it |
 |---|---|---|
 | [[wiki/moil/README|moil/]] | 11 | Moil business — positioning, ICP, GTM, customers, competitors, metrics, product roadmap, active-projects |
-| [[wiki/people/README|people/]] | 53 | Personal network — family, friends, customers, collaborators, team |
+| [[wiki/people/README|people/]] | 55 | Personal network — family, friends, customers, collaborators, team |
 | [[wiki/minds/README|minds/]] | 11 | Public AI thought leaders tracked from afar |
-| [[wiki/orgs/README|orgs/]] | 21 | Customer, partner, and prospect organizations |
+| [[wiki/orgs/README|orgs/]] | 22 | Customer, partner, and prospect organizations |
 | [[wiki/concepts/README|concepts/]] | 35 | Frameworks, mental models, products, programs |
 | [[wiki/radar/README|radar/]] | 2 | Append-only changelogs for fast-moving topics |
 | [[wiki/summaries/README|summaries/]] | 19 | One structured summary per raw source |
-| [[wiki/meetings/README|meetings/]] | 67 | Meeting records + async threads — decisions and action items |
+| [[wiki/meetings/README|meetings/]] | 69 | Meeting records + async threads — decisions and action items |
 
 See also: [[wiki/meetings/historical-transcripts-index]] — raw transcripts not yet promoted to structured pages (24 transcripts catalogued, 7 previously-orphan meeting pages linked).
 

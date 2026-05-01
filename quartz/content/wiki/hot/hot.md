@@ -32,6 +32,15 @@ Updated automatically by:
 ## Recent Queries
 
 <!-- ENTRIES:query -->
+- 2026-04-30 19:31 — Session end: [Brain/Auto] You are Andres Urrego's editor. Every evening you distill his X bookmarks from t… — 1 new files
+- 2026-04-30 18:42 — Session end: [Brain/KB] Check for any new files in raw/ and raw/onedrive-transcripts/ that haven't been … — 5 new files · 65 edits
+- 2026-04-30 18:32 — Session end: [Brain/Auto] Read these two JSON files of today's email activity and create a structured Brai… — 1 new files
+- 2026-04-30 18:29 — Session end: [Brain/KB] 404 erros still present  https://my-brain-two.vercel.app/raw/hive-series-based-h… — 1 new files · 9 edits · 2 commits
+- 2026-04-30 18:19 — Session end: [Brain/Auto] Pull today's Microsoft Teams meeting transcripts and add them to the Brain.  1. … — 2 new files
+- 2026-04-30 18:17 — Session end: [Brain/KB] 404 erros still present  https://my-brain-two.vercel.app/raw/hive-series-based-h… — 1 new files · 9 edits · 2 commits
+- 2026-04-30 12:01 — Session end: [Brain/Auto] You are Andres's plan radar. Every day at noon you scan recent Brain activity an… — 1 new files
+- 2026-04-30 09:24 — Session end: [Brain/KB] 404 erros still present  https://my-brain-two.vercel.app/raw/hive-series-based-h… — 1 new files · 5 edits · 1 commits
+- 2026-04-30 08:56 — Session end: [Brain/KB] The GitHub repo Felipeu28/my-brain has a failing GitHub Pages deployment. The bu… — 70 events
 - 2026-04-30 08:48 — Session end: [Brain/Auto] Run the morning briefing. Execute these steps:  1. Fetch today's calendar: bash … — 1 new files
 - 2026-04-30 06:00 — Session end: [Claude] You are the Moil Brain's daily cross-source intelligence analyst.  You are readi… — 8 events
 - 2026-04-29 19:31 — Session end: [Brain/Auto] You are Andres Urrego's editor. Every evening you distill his X bookmarks from t… — 1 new files
@@ -43,15 +52,6 @@ Updated automatically by:
 - 2026-04-29 08:49 — Session end: [Brain/KB] You are the Moil Brain query engine. Answer this question using the Brain's know… — 20 events
 - 2026-04-29 08:48 — Session end: [Brain/Auto] You are the Moil Brain's daily cross-source intelligence analyst.  You are readi… — 9 events
 - 2026-04-29 08:48 — Session end: [Brain/Auto] Run the morning briefing. Execute these steps:  1. Fetch today's calendar: bash … — 1 new files
-- 2026-04-29 06:00 — Session end: [Claude] You are the Moil Brain's daily cross-source intelligence analyst.  You are readi… — 9 events
-- 2026-04-28 19:31 — Session end: [Brain/Auto] You are Andres Urrego's editor. Every evening you distill his X bookmarks from t… — 1 new files
-- 2026-04-28 18:37 — Session end: [Brain/KB] Check for any new files in raw/ and raw/onedrive-transcripts/ that haven't been … — 3 new files · 32 edits
-- 2026-04-28 18:32 — Session end: [Brain/Auto] Read these two JSON files of today's email activity and create a structured Brai… — 1 new files
-- 2026-04-28 18:20 — Session end: [Brain/Auto] Pull today's Microsoft Teams meeting transcripts and add them to the Brain.  1. … — 96 events
-- 2026-04-28 12:01 — Session end: [Brain/Auto] You are Andres's plan radar. Every day at noon you scan recent Brain activity an… — 1 new files
-- 2026-04-28 10:24 — Session end: [Brain/KB] Set up Cloudflare Pages to deploy the private GitHub repo Felipeu28/my-brain (a … — 27 events
-- 2026-04-28 10:21 — Session end: [Brain/KB] The GitHub repo Felipeu28/my-brain has a failing GitHub Pages deployment. The bu… — 35 events
-- 2026-04-28 10:17 — Session end: [Clio] I want you to analyze this graph and diagnose all the mising connections, and wh… — 6 new files · 17 edits · 2 commits
 <!-- /ENTRIES:query -->
 
 ## Recent Saves

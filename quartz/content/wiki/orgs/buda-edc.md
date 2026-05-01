@@ -48,7 +48,7 @@ Andres Urrego and [[wiki/people/joshua-edmond|Joshua Edmond]] serve as **Incubat
 |---|---|---|
 | Cohorts 1–2 | 2024–2025 | ✅ Complete; graduates include Anita Lansing, Jacob Campbell, Desiree Steele, Kerry Ann Pearce |
 | Cohort 3 | Late 2025 | ✅ Complete; certificates presented at SoSX Mar 12, 2026 |
-| **Cohort 4** | **Apr 20 – Jun 8, 2026** | 🔥 Active — starts Apr 20, every Monday |
+| **Cohort 4** | **Apr 20 – Jun 8, 2026** | 🔥 Active — Week 2 done Apr 28 (Shannon Cameron in attendance); first 1:1s landed Apr 30 ([[wiki/people/heather-skeen|Heather Skeen]], [[wiki/people/carolina-caro|Carolina]]); Joshua Edmond running small-group cuts before Session 3 (May 4) |
 
 **Fiscal year:** Ends June 30. New budget year starts July 1.
 **Contract renewal:** Andres submitted contract to Board Apr 2, 2026. Board approval deadline: Apr 15, 2026.
@@ -94,4 +94,6 @@ John Costilla emailed Andres ("Call today") about an EDC website project and ask
 - [[wiki/people/inna-benyukhis|Inna Benyukhis]] — Empowered Nutrition with Inna (holistic nutrition)
 - [[wiki/people/becky-torres|Becky Torres]] — Siren Beauty & Wellness (website project)
 - Anita Lansing — Organically Whole (business plan via Moil)
+- [[wiki/people/heather-skeen|Heather Skeen]] — [[wiki/orgs/providence-behavior-therapy|Providence Behavior Therapy]] (HIVE Cohort 4)
+- [[wiki/people/carolina-caro|Carolina]] — women-focused coworking concept (HIVE Cohort 4; signed up for Moil first month free Apr 30)
 - Multiple cohort graduates using Moil platform licenses

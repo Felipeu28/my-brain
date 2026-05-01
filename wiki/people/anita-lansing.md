@@ -3,7 +3,7 @@ name: anita-lansing
 description: Active Moil customer — Organically Whole Health & Wellness, business plan + LiftFund referral
 type: person
 status: active
-last_contact: 2026-03-31
+last_contact: 2026-04-30
 tags:
   - graph/spoke
   - person/customer
@@ -13,8 +13,8 @@ client: "[[wiki/orgs/organically-whole]]"
 # Anita Lansing
 
 **Type:** person
-**Last updated:** 2026-04-12
-**Source:** [[raw/email-history-2026-04-12.md]]
+**Last updated:** 2026-04-30
+**Source:** [[raw/email-history-2026-04-12.md]], [[raw/email-digest-2026-04-30]]
 **Related:** [[wiki/moil/customers]], [[wiki/moil/gtm]], [[wiki/concepts/buda-hive]]
 
 ---
@@ -39,3 +39,9 @@ Most active email contact in the Apr 3-12 window (9 emails). Building her busine
 ## Moil Relevance
 - **Case study candidate:** Health/wellness entrepreneur using Moil to build a business plan AND get referred to funding. This is the "AI Co-Founder" story Moil sells.
 - **LiftFund referral pipeline:** If Moil consistently feeds entrepreneurs into LiftFund, that's a partner channel worth formalizing.
+
+## Apr 30, 2026 — Re-engagement signal
+
+Source: [[raw/email-digest-2026-04-30]]
+
+Anita forwarded Andres a *"48 Hours to Go…"* notification at 19:48 UTC with the note *"This is what I was talking about! I'm going to start getting it set up."* **First spontaneous re-engagement signal from a Cohort 2/3 grad in the Apr digests** — Anita is back in the active loop without needing a prompt. Worth a same-week reply to keep momentum.

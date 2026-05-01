@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-28
+last_contact: 2026-04-30
 tags:
   - graph/spoke
   - person/partner
@@ -8,8 +8,8 @@ tags:
 # Casey Earley
 
 **Type:** person
-**Last updated:** 2026-04-29
-**Source:** [[raw/buda-hive-edc-2026-04-11]], [[raw/email-digest-2026-04-17]], [[raw/email-digest-2026-04-28]]
+**Last updated:** 2026-04-30
+**Source:** [[raw/buda-hive-edc-2026-04-11]], [[raw/email-digest-2026-04-17]], [[raw/email-digest-2026-04-28]], [[raw/email-digest-2026-04-29]], [[raw/teams-transcript-heather-skeen-2026-04-30]]
 **Related:** [[wiki/people/jacquie-martinez]], [[wiki/people/joshua-edmond]], [[wiki/concepts/buda-hive]]
 
 ---
@@ -42,6 +42,18 @@ Casey shared the **Cohort 4** OneDrive folder with Andres (both view and edit ac
 Source: [[raw/email-digest-2026-04-28]]
 
 Casey emailed *"Buda HIVE: Cohort 4 WhatsApp Invite"* (Apr 28 13:01) — QR code / link to join the Cohort 4 WhatsApp group for streamlined cohort comms. Cohort 4 started Apr 20; this is the mid-program comms-channel rollout.
+
+## Apr 29 — Cohort 4 Session 2 forwarding (Joshua small-group prep)
+
+Source: [[raw/email-digest-2026-04-29]]
+
+Casey forwarded *"Buda HIVE - Cohort 4 Session 2"* to Andres (14:49 UTC); [[wiki/people/joshua-edmond|Joshua Edmond]] replied (18:31 UTC) confirming he met with the cohort and will finalize small group sessions before next Monday. Casey closed the loop with *"Thank you!"* (18:35 UTC). Mid-program cohort coordination — Joshua-led small-group cuts for Session 2.
+
+## Apr 30 — Got Heather Skeen onto her 1:1 with Andres
+
+Source: [[raw/teams-transcript-heather-skeen-2026-04-30]]
+
+[[wiki/people/heather-skeen|Heather Skeen]] (HIVE Cohort 4) couldn't sign on to her 11 AM CT 1:1 with Andres — emailed Casey + Jacquie marking it urgent. Casey called Andres mid-setup, got Heather's direct number, called her, and re-routed her into the Teams call. Same operational-glue role surfaced again: Casey is the first call when participants get stuck on logistics. Now has Heather's direct cell.
 
 ## Context Gaps
 

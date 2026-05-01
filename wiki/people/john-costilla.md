@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-28
+last_contact: 2026-04-29
 tags:
   - graph/hub
   - person/personal
@@ -8,8 +8,8 @@ tags:
 # John Costilla
 
 **Type:** person
-**Last updated:** 2026-04-29
-**Source:** [[raw/imessages-people-2026-04-09]], [[raw/email-history-2months-2026-04-12.md]], [[raw/email-digest-2026-04-15]], [[raw/email-digest-2026-04-16]], [[raw/email-digest-2026-04-27]], [[raw/email-digest-2026-04-28]]
+**Last updated:** 2026-04-30
+**Source:** [[raw/imessages-people-2026-04-09]], [[raw/email-history-2months-2026-04-12.md]], [[raw/email-digest-2026-04-15]], [[raw/email-digest-2026-04-16]], [[raw/email-digest-2026-04-27]], [[raw/email-digest-2026-04-28]], [[raw/email-digest-2026-04-29]]
 **Related:** [[wiki/moil/positioning]], [[wiki/orgs/buda-edc]], [[wiki/concepts/buda-hive]], [[wiki/people/joseph-arnke]]
 
 ---
@@ -49,3 +49,11 @@ John forwarded Andres an unspecified thread Apr 27 08:17 with the note *"Let's d
 Source: [[raw/email-digest-2026-04-28]]
 
 John replied Apr 28 08:23 (*"Re: Lunch with Andres and John"*) — next week works better; Thursday they're out, **Brian booked Friday**, so they need to pick another day. Likely the resolution to the cryptic Apr 27 *"Let's discuss?"* forward (the unspecified thread was probably the lunch logistics). New action: **Andres picks an alternate day next week and replies.**
+
+## Apr 29 — Buda EDC × GIS WebTech AI virtual meeting locked + morning briefing forwarded
+
+Source: [[raw/email-digest-2026-04-29]]
+
+- **08:18 UTC — John proposed Wed May 13, 9–11 AM CT virtual meeting** with [[wiki/people/joseph-arnke|Joseph Arnke]] / Michael Cleary (`michael@giswebtech.com`) on the AI tools for EDC website thread; looped Andres in. Andres accepted same day at 11:00 UTC; calendar acceptance 11:00 UTC. **First firm date on the John × GIS WebTech AI workstream** that has been on the radar since John's Apr 10 *"Agentic AI / always on site selector tool"* signal. (Apr 30 follow-up: Cleary confirmed he'd send the calendar invite — Andres is on it.)
+- **16:04 UTC — Andres forwarded John the *"Brain Briefing - 2026-04-29"*** with the note *"real action, not just a summary."* First time Andres has sent the morning briefing to a non-Moil contact — frames the Brain output as a credibility/sales artifact for John (who works at Buda EDC + is the closest personal friend).
+- **21:10 UTC — Andres shared OneDrive doc *"business-coach-95s"* with John.** Standalone share — content not in the digest but worth tracking as part of the John pre-May-13-meeting prep loop.

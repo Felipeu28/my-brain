@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-28
+last_contact: 2026-04-29
 tags:
   - graph/spoke
   - person/customer
@@ -9,8 +9,8 @@ client: "[[wiki/orgs/connectex]]"
 # Mark Polanco
 
 **Type:** person
-**Last updated:** 2026-04-28
-**Source:** [[raw/imessages-people-2026-04-09]], [[raw/email-history-2months-2026-04-12]], [[raw/email-digest-2026-04-27]], [[raw/teams-transcript-mark-polanco-andres-2026-04-28]]
+**Last updated:** 2026-04-30
+**Source:** [[raw/imessages-people-2026-04-09]], [[raw/email-history-2months-2026-04-12]], [[raw/email-digest-2026-04-27]], [[raw/teams-transcript-mark-polanco-andres-2026-04-28]], [[raw/email-digest-2026-04-29]]
 **Related:** [[wiki/orgs/connectex]], [[wiki/moil/customers]], [[wiki/moil/pipeline]], [[wiki/meetings/2026-04-28-mark-polanco-connectex-walkthrough]]
 
 ---
@@ -65,7 +65,7 @@ Mutual contact Patrick is hosting an event at "Back Nine on Davis Lane" (South A
 
 - [ ] **Mark:** Send Squarespace login (so Andres can push the new site live)
 - [ ] **Mark:** Refile Buda EDC reimbursement application ASAP
-- [ ] **Mark:** Send 4–5 troubleshooting documents (Verizon, Yealink) for Knowledge Base seeding
+- [x] ~~**Mark:** Send 4–5 troubleshooting documents (Verizon, Yealink) for Knowledge Base seeding~~ — **partially DELIVERED Apr 29 02:02 UTC**: Mark sent *"Verizon One Talk User Guides"* with attached device user guides, excited about website launch. Andres forwarded to Taiwo same day (12:25 UTC) to add to Connectex docs + use to test ticketing
 - [ ] **Mark:** Contact BuiltFirst about marketplace billing block (after submitting EDC application)
 - [ ] **Andres:** Update site phone to 330-812-5750
 - [ ] **Andres:** Build Resources/blog section live by next week (Mark's SEO play)

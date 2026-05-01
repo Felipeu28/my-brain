@@ -33,9 +33,20 @@ Extends Moil's presence in the Hays CISD ecosystem (alongside [[wiki/people/rick
 
 ## Apr 28 — Career Day Letter Forwarded
 
-Source: [[raw/email-digest-2026-04-28]]
+Source: [[raw/email-digest-2026-04-28]], [[raw/email-digest-2026-04-29]]
 
-Renee emailed Apr 28 08:29 (*"Re: Career Day Presentation, May 7"*) — forwarded a letter regarding Career Day at CHES, thanking Andres for supporting students. Logistics confirmation; nothing to action beyond prep.
+Renee emailed Apr 28 08:29 (*"Re: Career Day Presentation, May 7"*) — forwarded a letter regarding Career Day at CHES, thanking Andres for supporting students. Logistics confirmation; nothing to action beyond prep. Re-surfaced in the Apr 29 digest as still-open inbox for tracking — no Andres reply captured yet.
+
+## Apr 30 — Career Day expanded into Buda business-owner recruitment
+
+Source: [[raw/email-digest-2026-04-30]], [[wiki/moil/gtm]]
+
+Andres opened a *"Business Experts helping Hays CISD"* thread to recruit other Buda business owners as kid-friendly career speakers alongside him. Apr 30 replies:
+- **Allison Pflaum** (KW realtor) — checking in for a spot
+- **Rebecca Acosta-Ojeda** (Salon One Twelve) — confirmed in: *"You can count on Salon one 12!"*
+- **John** (Proof Liquor & Deli) — politely declined the kid audience; offered *"Texas Petition Strategies"* as an alternate topic
+
+The Career Day is now a **business-owner cohort recruitment moment**, not a one-off speaking gig. Andres needs to send the slot details to Allison + Rebecca + reply to John politely declining the alternate topic.
 
 <!-- AUTO-ACTIVITY:start -->
 ## Recent Activity (auto)
