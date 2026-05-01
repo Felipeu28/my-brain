@@ -37,6 +37,8 @@ Every file in `../raw/` has a matching summary here. Summaries are the Layer 3 "
 - [[wiki/summaries/imessages-people-2026-04-09]] — Relationship intelligence from iMessages
 - [[wiki/summaries/outlook-emails-2026-04-09]] — Inbox digest Apr 9
 - [[wiki/summaries/facebook-pages-2026-04-09]] — AIbyAndres + MoilWorks FB pages
+- [[wiki/summaries/email-history-2months-2026-04-12]] — 2-month email backfill (preferred for decision context)
+- [[wiki/summaries/email-history-9months-2026-04-15]] — 9-month contact-frequency reference (Run 29)
 
 ### Weekly bookmark sweeps
 - [[wiki/summaries/x-bookmarks-2026-04-11]] — ⭐ 129 items (preferred for synthesis)

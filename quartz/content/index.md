@@ -1,6 +1,6 @@
 # Moil Brain — Master Index
 
-**Last compiled:** 2026-04-30 (Run 28 — Apr 29 + Apr 30 email digests + Apr 30 HIVE Cohort 4 1:1s ingested ([[wiki/people/heather-skeen]] + [[wiki/people/carolina-caro]]); new pages: 2 meetings + 2 people + 1 org ([[wiki/orgs/providence-behavior-therapy]])) · **Total wiki pages:** 275 · **Raw sources:** 387
+**Last compiled:** 2026-05-01 (Run 29 — historical-backfill ingestion sweep: 374 raw files marked `ingested: true` across meetings/transcripts, sessions, hive-program docs, email digests Apr 14–29, teams Apr 12–26, signal-briefs Apr 26–30, x-bookmarks, weekly-sessions, OneDrive transcript duplicates, and email/teams history dumps; new page: [[wiki/summaries/email-history-9months-2026-04-15]]; signal-briefs summary extended to Apr 30 ([[wiki/summaries/signal-briefs-2026-04-15-26]])) · **Total wiki pages:** 276 · **Raw sources:** 387
 
 > **Canonical operating truth lives outside the wiki:** if status or architecture notes here conflict with newer operating reality, use `~/My Brain/CURRENT_STATE.md` first.
 
@@ -33,7 +33,7 @@
 | [[wiki/orgs/README|orgs/]] | 22 | Customer, partner, and prospect organizations |
 | [[wiki/concepts/README|concepts/]] | 35 | Frameworks, mental models, products, programs |
 | [[wiki/radar/README|radar/]] | 2 | Append-only changelogs for fast-moving topics |
-| [[wiki/summaries/README|summaries/]] | 19 | One structured summary per raw source |
+| [[wiki/summaries/README|summaries/]] | 20 | One structured summary per raw source |
 | [[wiki/meetings/README|meetings/]] | 69 | Meeting records + async threads — decisions and action items |
 
 See also: [[wiki/meetings/historical-transcripts-index]] — raw transcripts not yet promoted to structured pages (24 transcripts catalogued, 7 previously-orphan meeting pages linked).

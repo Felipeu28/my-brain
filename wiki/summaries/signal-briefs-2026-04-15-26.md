@@ -2,11 +2,11 @@
 tags:
   - graph/leaf
 ---
-# Signal Briefs — Apr 15–26, 2026 (Daily Correlator Series)
+# Signal Briefs — Apr 15–30, 2026 (Daily Correlator Series)
 
 **Type:** summary
-**Last updated:** 2026-04-27
-**Source:** [[raw/signal-briefs/signal-brief-2026-04-15]], [[raw/signal-briefs/signal-brief-2026-04-16]], [[raw/signal-briefs/signal-brief-2026-04-17]], [[raw/signal-briefs/signal-brief-2026-04-18]], [[raw/signal-briefs/signal-brief-2026-04-21]], [[raw/signal-briefs/signal-brief-2026-04-22]], [[raw/signal-briefs/signal-brief-2026-04-23]], [[raw/signal-briefs/signal-brief-2026-04-24]], [[raw/signal-briefs/signal-brief-2026-04-25]], [[raw/signal-briefs/signal-brief-2026-04-26]]
+**Last updated:** 2026-05-01
+**Source:** [[raw/signal-briefs/signal-brief-2026-04-15]], [[raw/signal-briefs/signal-brief-2026-04-16]], [[raw/signal-briefs/signal-brief-2026-04-17]], [[raw/signal-briefs/signal-brief-2026-04-18]], [[raw/signal-briefs/signal-brief-2026-04-21]], [[raw/signal-briefs/signal-brief-2026-04-22]], [[raw/signal-briefs/signal-brief-2026-04-23]], [[raw/signal-briefs/signal-brief-2026-04-24]], [[raw/signal-briefs/signal-brief-2026-04-25]], [[raw/signal-briefs/signal-brief-2026-04-26]], [[raw/signal-briefs/signal-brief-2026-04-27]], [[raw/signal-briefs/signal-brief-2026-04-28]], [[raw/signal-briefs/signal-brief-2026-04-29]], [[raw/signal-briefs/signal-brief-2026-04-30]]
 **Related:** [[wiki/people/megan-miller]], [[wiki/people/adeleke-tolulope]], [[wiki/people/abiodun-solomon]], [[wiki/people/jacob-oluwole]], [[wiki/people/katherine-silvas]], [[wiki/people/jesutomilola-omoniyi]], [[wiki/people/rashaka-boykins]], [[wiki/people/jacquie-martinez]], [[wiki/concepts/brain-architecture]]
 
 ---
@@ -61,6 +61,36 @@ Apr 16 active-person flag surfaced [[wiki/people/katherine-silvas|Kate Silvas]]'
 
 Apr 17 brief documented that the morning briefing LaunchAgent had been broken since Apr 14 — Andres read a "potentially incomplete brief" before the hardening commit landed. Apr 25 brief reported the X bookmarks scrape captured zero items (raw scroll buffer empty), breaking the daily-capture pattern — possible gstack /browse auth/session expiry. **Operating implication:** The Brain's intelligence pipelines need a heartbeat — the existing `outputs/health/heartbeat-*.md` job should also surface ingestion-completeness for Teams + bookmarks + email each day. See [[wiki/concepts/brain-architecture]].
 
+## Apr 27–30 extension (Run 29 update)
+
+### 8. Megan Miller silent → 1-day go-live (Apr 27)
+
+Apr 27 brief flagged **zero Megan/FitLogic mentions** with Mon Apr 28 go-live and Wed Apr 29 handover one and two business days out. Brief explicit ask: "proactive Andres ping tonight." Pattern matches the Apr 15 / Apr 26 silence anomalies — the correlator has now flagged Megan's silences as predictive of upcoming workload spikes 3 times in 12 days.
+
+### 9. "No surprises" rule — visibility failures stack across teams (Apr 28)
+
+Apr 28 brief named two parallel visibility failures in one day: Taiwo never pushed Connectex repo (forced repo-visibility hard rule on internal review call); Kim Dowers looped Andres + Jacob in to "assist Krystal" on a live Queen Creek webinar with **no prior heads-up in the inbox**. Brief: "Andres is being surprised at meeting-time on work others have been doing for days. Worth naming as a single 'no surprises' rule." Pairs with [[wiki/meetings/2026-04-28-website-update-review-internal]].
+
+### 10. AI-spend panic + Content360 P0 are the same root cause (Apr 29)
+
+Apr 29 brief connected the OpenAI threshold-alert forward + suspicious **$3.6K Gemini spend** with Megan's same-day FitLogic walkthrough finding **image-gen regression** (Edit image stuck, no new outputs). "The cost burn isn't producing working generations — pointing to a runaway/looping call path, not legitimate usage." Reframes the Apr 15 audit thread: cost panic and Content360 P0 likely share root cause. See [[wiki/people/adeleke-tolulope]] Apr 29.
+
+### 11. John Costilla three-thread day → Buda EDC site-selector concrete (Apr 29)
+
+Apr 29 active flag: John Costilla in three email threads in one day — lunch reschedule, **May 13 9–11 AM CT** GIS WebTech AI virtual meeting locked, and Andres sharing `business-coach-95s` to John via OneDrive. Carries the Apr 11–17 Buda-EDC-site-selector deal into a concrete date + looped-in vendor (Michael Cleary). See [[wiki/people/john-costilla]] + log.md Run 28.
+
+### 12. Inna silence compounds (Apr 28, 29, 30) — 3-day silence anomaly
+
+Three consecutive briefs (Apr 28, 29, 30) flagged Inna Benyukhis silence: Apr 28 in-person assumed-but-unverified; Apr 29 Ablad cleaning podcast video, no Inna response; Apr 30 still no direct touch despite mid-delivery retainer. **First 3-day-running silence anomaly in the series** — different from Megan (cyclic spike-then-silence pattern). Worth a Friday nudge before slip compounds. See [[wiki/people/inna-benyukhis]].
+
+### 13. "Service-to-the-community pulls in operators" template (Apr 30)
+
+Apr 30 brief connected Heather's HIVE 1:1 daycare CEU wedge with Hays CISD Career Day → business-owner cohort recruitment. Both surfaced same pattern: **community-event ask doubling as cohort-recruitment funnel**. Replicable template forming across two unrelated workstreams (HIVE + Career Day). See [[wiki/meetings/2026-04-30-heather-skeen-coaching]] + log.md Run 28 item 13.
+
+### 14. Joshua Edmond → de facto Buda EDC contract conduit (Apr 30)
+
+Apr 30 active flag: Joshua hit three threads in one day — forwarded Cohort 4 PSA from Jacqueline Martinez, confirmed *"loved the small group sessions,"* his Apr 24 redline closed the round-trip. Andres countersign on PSA = gating action this week. Confirms Apr 18 thesis that the Joshua/Andres co-Strategist contract is structural, not transactional. See [[wiki/people/joshua-edmond]].
+
 ## What did NOT need its own wiki page
 
 - **Apr 15** Siren Beauty cross-connection (Becky already updated through Apr 24).
@@ -68,6 +98,10 @@ Apr 17 brief documented that the morning briefing LaunchAgent had been broken si
 - **Apr 21** `partners@moilapp.com` deliverability ceiling (already documented as P0 across [[wiki/people/megan-miller]], [[wiki/people/jacob-oluwole]], MEMORY).
 - **Apr 24** Jacob load-bearing relationship + AI-tools clash with Ablad (already on [[wiki/people/jacob-oluwole]], [[wiki/people/abiodun-solomon]] Apr 24 sections).
 - **Apr 26** Founder-X-link pattern (already on [[wiki/people/taiwo-ola-balogun]], [[wiki/people/adeleke-tolulope]], [[wiki/people/abiodun-solomon]] Apr 26 sections; this page captures the pattern itself).
+- **Apr 27** Megan silence pre-go-live (already on [[wiki/people/megan-miller]] Apr 27 section).
+- **Apr 28** Jacob 8-email day + internal review pushback (already on [[wiki/meetings/2026-04-28-website-update-review-internal]] + [[wiki/people/jacob-oluwole]]).
+- **Apr 29** John Costilla three-thread day (already on [[wiki/people/john-costilla]] Apr 29 + log.md Run 28).
+- **Apr 30** Heather + Hays CISD pattern (already on [[wiki/meetings/2026-04-30-heather-skeen-coaching]] + log.md Run 28).
 
 ## Operational implications
 

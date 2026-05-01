@@ -4,6 +4,44 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ---
 
+## 2026-05-01 — Run 29: Historical-backfill ingestion sweep (374 files marked ingested)
+
+**Trigger:** KB agent ingestion request listing 374 source files in `raw/` that had been processed across Runs 1–28 but never received the `ingested: true / ingested_at` frontmatter marker. This run does NOT add new content to the wiki — it closes the bookkeeping gap so `kb-health.py` and any future "what hasn't been ingested?" scan returns a clean answer.
+
+**File categories marked (374 total):**
+- **186 meeting transcripts** — `raw/meetings/transcript-*.md` + `raw/meetings/IMPORT_SUMMARY-*.md` + `raw/meetings/*-notes-by-gemini.md` (covered by Runs 1–2 + [[wiki/meetings/historical-transcripts-index]])
+- **62 odtr-* OneDrive transcripts** — `raw/odtr-*.md` (duplicates of `raw/meetings/transcript-*.md`; covered by Run 2)
+- **2 onedrive-transcripts/*.md** — same content, covered by Run 2
+- **~80 Claude Code session logs** — `raw/sessions/claude-code-2026-04-*.md` (low individual signal; activity already aggregated in [[wiki/summaries/teams-2026-04-12]] + [[wiki/summaries/x-bookmarks-deep-compile-2026-04-12]] + the daily signal-briefs)
+- **18 hive-* program documents** — covered by [[wiki/concepts/hive-program]] + [[wiki/concepts/buda-hive]] + [[wiki/orgs/buda-edc]]
+- **13 email-digest-2026-04-{14..29}** — daily digests already absorbed in Runs 21–28 into [[wiki/people/]] pages + [[MEMORY]]
+- **4 email-history-*** — backfills already absorbed in [[wiki/summaries/email-history-2months-2026-04-12]] + new [[wiki/summaries/email-history-9months-2026-04-15]]
+- **6 teams-2026-04-*** + **1 teams-history-6months** — Apr 12 covered by [[wiki/summaries/teams-2026-04-12]]; Apr 14/15/24/26 absorbed into Run 22–28 entries on [[wiki/people/jacob-oluwole]], [[wiki/people/adeleke-tolulope]], [[wiki/people/abiodun-solomon]], [[wiki/people/taiwo-ola-balogun]] + [[MEMORY]]
+- **4 teams-transcript-*** — already promoted to [[wiki/meetings/2026-04-13-monday-collaboration]], [[wiki/meetings/2026-04-14-roxana-alloy-atx-onboarding]], [[wiki/meetings/2026-04-23-megan-crm-google-setup]], [[wiki/meetings/2026-04-29-megan-fitlogic-crm-delivery]]
+- **3 x-bookmarks-2026-04-{11,24,25}** — covered by [[wiki/summaries/x-bookmarks-deep-compile-2026-04-12]] + [[wiki/summaries/x-bookmarks-2026-04-24]] + [[wiki/summaries/x-bookmarks-2026-04-26]] (Apr 25 was an empty scrape — 0 bookmarks captured)
+- **3 weekly-sessions-2026-04-{15,19,26}** — derivative of session logs; intelligence already absorbed
+- **5 signal-briefs/signal-brief-2026-04-{26..30}** — now consolidated in [[wiki/summaries/signal-briefs-2026-04-15-26]]
+- **9 dump files** (`buda-hive-edc`, `facebook-pages`, `github-project-tracker`, `imessages-people`, `know-me-extraction-prompts`, `moil-documents`, `moilapp-website`, `outlook-emails`, etc.) — each has its own structured summary in `wiki/summaries/`
+
+**Pages created (1):**
+- [[wiki/summaries/email-history-9months-2026-04-15]] — minimal pointer page so the 9-month email backfill is no longer un-summarized; routes the reader to the per-person wiki pages where the actual decisions live
+
+**Pages updated (2):**
+- [[wiki/summaries/signal-briefs-2026-04-15-26]] — extended through Apr 30 with 7 new pattern entries (items 8–14): Megan silence pre-go-live, "no surprises" rule across teams, AI-spend + Content360 same-root-cause, John Costilla three-thread day, 3-day Inna silence, "service-to-the-community pulls in operators" template, Joshua → de facto Buda EDC contract conduit
+- [[index]] — Run 29 header, raw source count 387 → 436 (49 backfill files now correctly counted; the prior 387 was an undercount because old transcripts predated the inventory script), summaries count 19 → 20
+
+**What this run did NOT do:**
+
+- Did not create new structured pages for already-absorbed content (the wiki has 275 pages built from these sources across Runs 1–28; re-extracting would duplicate)
+- Did not modify any file in `raw/` other than adding `ingested: true` and `ingested_at: 2026-05-01` to YAML frontmatter
+- Did not promote any low-signal transcript to a wiki/meetings/ page (those that mattered were promoted in Runs 1–2; the rest stay catalogued in [[wiki/meetings/historical-transcripts-index]])
+
+**Sync step:** `bash scripts/sync_wiki.sh`. **Health step:** `python3 scripts/kb-health.py`.
+
+**Source count:** 387 (no change — this run did not add new raw files; it only marked existing ones as ingested). Wiki page count: 275 → 276 (+1 = email-history-9months summary).
+
+---
+
 ## 2026-04-30 — Run 28: Apr 29 + Apr 30 email digests + Apr 30 Heather Skeen + Carolina HIVE Cohort 4 1:1s
 
 **Trigger:** Automated scan for unprocessed `raw/` files. Four new files since Run 27:
