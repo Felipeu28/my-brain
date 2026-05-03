@@ -1,7 +1,7 @@
 ---
 type: claude-code-session
 session_id: 01b2917d-a14d-4fc3-9854-366d4eab6701
-project: -
+project: "-"
 date: 2026-05-03
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-/01b2917d-a14d-4fc3-9854-366d4eab6701.jsonl
