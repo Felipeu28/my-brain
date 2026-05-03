@@ -41,7 +41,7 @@ _Updated: 2026-05-03 11:02 (window: 2026-04-26 → 2026-05-03)_
 - Cross-sell: does Travis want Moil 360 layered on Meridian like Zoiwell already has?
 - Last business touch was Apr 13 — is a status check overdue?
 
-## Connections
+## Related
 
 - [[wiki/orgs/meridian-buda]]
 - [[wiki/orgs/zoiwell]]

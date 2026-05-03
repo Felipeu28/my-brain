@@ -44,7 +44,7 @@ _Updated: 2026-05-03 11:02 (window: 2026-04-26 → 2026-05-03)_
 - Electric Bricks website redesign — when does it ship so Moil can layer CRM forms on top?
 - First Moil-sourced hire — confirmed and started?
 
-## Connections
+## Related
 
 - [[wiki/orgs/fitlogic]]
 - [[wiki/people/megan-miller]]

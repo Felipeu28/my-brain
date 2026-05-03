@@ -49,7 +49,7 @@ _Updated: 2026-05-03 11:02 (window: 2026-04-26 → 2026-05-03)_
 - Business Plan Creator product (Tier 2) — is Cohort 4 the test bed, and what's the feedback loop?
 - AEDO accreditation push — does Moil have a role in supporting Jennifer's IEDC application materials?
 
-## Connections
+## Related
 
 - [[wiki/orgs/buda-edc]]
 - [[wiki/people/jennifer-storm]]

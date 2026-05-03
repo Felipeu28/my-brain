@@ -58,7 +58,7 @@ _Updated: 2026-05-03 11:02 (window: 2026-04-26 → 2026-05-03)_
 - Is there a hire to make? Taiwo + Jacob + Andres is the current bench against 12+ active clients.
 - Helotes EDC reply is 15 days overdue — strategic priority or let it cool?
 
-## Connections
+## Related
 
 - [[wiki/projects/clio]]
 - [[wiki/projects/fitlogic]]

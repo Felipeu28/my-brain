@@ -46,7 +46,7 @@ _Updated: 2026-05-03 11:02 (window: 2026-04-26 → 2026-05-03)_
 - Once go-live is done, what's the cadence — quarterly check-ins, or active platform engagement?
 - Is Connectex a reference customer for the next B2B services pitch?
 
-## Connections
+## Related
 
 - [[wiki/orgs/connectex]]
 - [[wiki/people/mark-polanco]]

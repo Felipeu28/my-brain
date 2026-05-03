@@ -67,7 +67,7 @@ _Updated: 2026-05-03 11:02 (window: 2026-04-26 → 2026-05-03)_
 - Curriculum intelligence (Phase 4) — which school's curriculum does Annabella pilot first?
 - Is Clio a Moil-adjacent product or strictly personal? (Affects whether to invest in growth infra.)
 
-## Connections
+## Related
 
 - [[wiki/projects/lunabella]]
 - [[wiki/projects/moil]]
