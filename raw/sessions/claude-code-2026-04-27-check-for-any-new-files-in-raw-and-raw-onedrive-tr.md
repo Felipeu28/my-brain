@@ -30,7 +30,8 @@ If nothing new is found, say so and exit cleanly.
 **Edited (1):**
   - `/Users/jarvisurrego/My Brain/knowledge-base/index.md`
 
-## Wiki entities referenced (2)
+## Wiki entities referenced (3)
 
+- [[wiki/projects/moil]]
 - [[wiki/summaries/x-bookmarks-2026-04-24]]
 - [[wiki/summaries/x-bookmarks-2026-04-26]]

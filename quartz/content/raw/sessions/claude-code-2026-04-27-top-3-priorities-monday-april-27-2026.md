@@ -38,7 +38,7 @@ Updated automatically by:
 - `brain-ingest.sh` — after each ingestion run
 - `brain-query.sh` — after each...
 
-## Wiki entities referenced (12)
+## Wiki entities referenced (13)
 
 - [[wiki/andres/ANDRES]]
 - [[wiki/hot/relationship-radar]]
@@ -52,3 +52,4 @@ Updated automatically by:
 - [[wiki/people/katherine-silvas]]
 - [[wiki/people/megan-miller]]
 - [[wiki/people/rashaka-boykins]]
+- [[wiki/projects/fitlogic]]

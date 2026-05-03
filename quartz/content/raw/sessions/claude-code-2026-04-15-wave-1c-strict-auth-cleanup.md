@@ -137,12 +137,13 @@ source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brai
   - `/Users/jarvisurrego/luna-brain/api/quests/generate.ts`
   - `/Users/jarvisurrego/luna-brain/api/reflections/weekly.ts`
 
-## Wiki entities referenced (5)
+## Wiki entities referenced (6)
 
 - [[wiki/moil/customers]]
 - [[wiki/moil/directory]]
 - [[wiki/moil/metrics]]
 - [[wiki/moil/pipeline]]
+- [[wiki/projects/clio]]
 - [[wiki/projects/lunabella]]
 
 ## Final user direction

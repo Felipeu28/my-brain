@@ -29,7 +29,7 @@ If nothing new is found, say so and exit cleanly.
   - `/Users/jarvisurrego/My Brain/knowledge-base/wiki/meetings/2026-04-28-website-update-review-internal.md`
   - `/Users/jarvisurrego/My Brain/knowledge-base/wiki/people/victor-escamilla.md`
 
-## Wiki entities referenced (6)
+## Wiki entities referenced (7)
 
 - [[wiki/meetings/2026-04-28-mark-polanco-connectex-walkthrough]]
 - [[wiki/meetings/2026-04-28-website-update-review-internal]]
@@ -37,3 +37,4 @@ If nothing new is found, say so and exit cleanly.
 - [[wiki/orgs/connectex]]
 - [[wiki/people/mark-polanco]]
 - [[wiki/people/victor-escamilla]]
+- [[wiki/projects/connectex]]

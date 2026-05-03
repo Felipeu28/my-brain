@@ -34,7 +34,7 @@ If nothing new is found, say so and exit cleanly.
 **Edited (1):**
   - `/Users/jarvisurrego/My Brain/knowledge-base/wiki/people/anita-lansing.md`
 
-## Wiki entities referenced (7)
+## Wiki entities referenced (8)
 
 - [[wiki/meetings/2026-04-30-carolina-coaching]]
 - [[wiki/meetings/2026-04-30-heather-skeen-coaching]]
@@ -43,3 +43,4 @@ If nothing new is found, say so and exit cleanly.
 - [[wiki/people/carolina-caro]]
 - [[wiki/people/heather-skeen]]
 - [[wiki/people/hive-cohort-members]]
+- [[wiki/projects/moil]]

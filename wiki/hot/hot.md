@@ -33,6 +33,10 @@ Updated automatically by:
 ## Recent Queries
 
 <!-- ENTRIES:query -->
+- 2026-05-03 10:32 — Session end: [Brain/KB] URGENT — full diagnosis needed. The "Deploy Quartz site to GitHub Pages" workflo… — 3 new files · 8 edits · 8 commits
+- 2026-05-03 10:27 — Session end: [Clio] Parallel track: adopt Garry Tan's `gstack` pattern for Clio dev velocity. Tan pu… — 1 new files
+- 2026-05-03 10:12 — Session end: [Brain/KB] URGENT — full diagnosis needed. The "Deploy Quartz site to GitHub Pages" workflo… — 2 edits · 3 commits
+- 2026-05-03 09:40 — Session end: [Brain/KB] URGENT — full diagnosis needed. The "Deploy Quartz site to GitHub Pages" workflo… — 2 edits · 3 commits
 - 2026-05-03 09:18 — Session end: [Brain/KB] URGENT — full diagnosis needed. The "Deploy Quartz site to GitHub Pages" workflo… — 1 edits · 2 commits
 - 2026-05-03 09:13 — Session end: [Brain/KB] URGENT — full diagnosis needed. The "Deploy Quartz site to GitHub Pages" workflo… — 1 edits · 2 commits
 - 2026-05-03 06:00 — Session end: [Claude] You are the Moil Brain's daily cross-source intelligence analyst.  You are readi… — 9 events
@@ -49,10 +53,6 @@ Updated automatically by:
 - 2026-05-02 19:31 — Session end: [Brain/Auto] You are Andres Urrego's editor. Every evening you distill his X bookmarks from t… — 1 new files
 - 2026-05-02 18:25 — Session end: [Brain/KB] Check for any new files in raw/ and raw/onedrive-transcripts/ that haven't been … — 2 new files · 30 edits
 - 2026-05-02 18:15 — Session end: [Brain/Auto] Pull today's Microsoft Teams meeting transcripts and add them to the Brain.  1. … — 18 events
-- 2026-05-02 12:01 — Session end: [Brain/Auto] You are Andres's plan radar. Every day at noon you scan recent Brain activity an… — 1 new files
-- 2026-05-02 06:00 — Session end: [Claude] You are the Moil Brain's daily cross-source intelligence analyst.  You are readi… — 8 events
-- 2026-05-01 19:31 — Session end: [Brain/Auto] You are Andres Urrego's editor. Every evening you distill his X bookmarks from t… — 1 new files
-- 2026-05-01 18:31 — Session end: [Brain/Auto] Read these two JSON files of today's email activity and create a structured Brai… — 1 new files
 <!-- /ENTRIES:query -->
 
 ## Recent Saves

@@ -30,6 +30,7 @@ Pull today's Microsoft Teams meeting transcripts and add them to the Brain.
    - Full transcript text
    - Key decisions and action items extracted...
 
-## Wiki entities referenced (1)
+## Wiki entities referenced (2)
 
 - [[wiki/moil/pipeline]]
+- [[wiki/projects/moil]]

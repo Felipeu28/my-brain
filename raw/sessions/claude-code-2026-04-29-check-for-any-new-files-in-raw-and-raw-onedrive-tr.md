@@ -28,7 +28,7 @@ If nothing new is found, say so and exit cleanly.
   - `/Users/jarvisurrego/My Brain/knowledge-base/wiki/meetings/2026-04-29-megan-fitlogic-crm-delivery.md`
   - `/Users/jarvisurrego/My Brain/knowledge-base/wiki/people/michelle-fitlogic.md`
 
-## Wiki entities referenced (10)
+## Wiki entities referenced (12)
 
 - [[wiki/meetings/2026-04-29-megan-fitlogic-crm-delivery]]
 - [[wiki/moil/active-projects]]
@@ -40,3 +40,5 @@ If nothing new is found, say so and exit cleanly.
 - [[wiki/people/megan-miller]]
 - [[wiki/people/michelle-fitlogic]]
 - [[wiki/people/renee-simmons]]
+- [[wiki/projects/fitlogic]]
+- [[wiki/projects/moil]]

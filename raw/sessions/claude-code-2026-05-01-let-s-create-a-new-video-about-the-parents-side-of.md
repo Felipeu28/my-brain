@@ -76,11 +76,13 @@ Let's create the full implementation plan and follow the plugin
   - `/Users/jarvisurrego/clio-video/scripts/tts.ts`
   - `/Users/jarvisurrego/clio-video/scripts/music.ts`
 
-## Wiki entities referenced (3)
+## Wiki entities referenced (5)
 
 - [[wiki/moil/metrics]]
 - [[wiki/moil/pipeline]]
+- [[wiki/projects/clio]]
 - [[wiki/projects/lunabella]]
+- [[wiki/projects/moil]]
 
 ## Final user direction
 

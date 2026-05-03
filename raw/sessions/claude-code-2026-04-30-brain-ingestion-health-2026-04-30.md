@@ -45,7 +45,7 @@ What other pages are doing this and why?
   - `/Users/jarvisurrego/My Brain/knowledge-base/.claude/worktrees/objective-lumiere-3b25d8/wiki/moil/active-projects.md`
   - `/Users/jarvisurrego/My Brain/knowledge-base/.claude/worktrees/objective-lumiere-3b25d8/wiki/summaries/buda-hive-edc-2026-04-09.md`
 
-## Wiki entities referenced (19)
+## Wiki entities referenced (21)
 
 - [[wiki/concepts/buda-hive]]
 - [[wiki/concepts/claude-code]]
@@ -63,6 +63,8 @@ What other pages are doing this and why?
 - [[wiki/people/carolina-caro]]
 - [[wiki/people/heather-skeen]]
 - [[wiki/people/inna-benyukhis]]
+- [[wiki/projects/fitlogic]]
+- [[wiki/projects/moil]]
 - [[wiki/summaries/buda-hive-edc-2026-04-09]]
 - [[wiki/summaries/imessages-people-2026-04-09]]
 - [[wiki/summaries/x-bookmarks-2026-04-11]]

@@ -31,6 +31,10 @@ Let's do a full security audit for Clio, including our full main repo!!
 **Edited (1):**
   - `/Users/jarvisurrego/luna-brain/.claude/worktrees/pensive-solomon-475879/vercel.json`
 
+## Wiki entities referenced (1)
+
+- [[wiki/projects/clio]]
+
 ## Final user direction
 
 Base directory for this skill: /Users/jarvisurrego/.claude/skills/gstack-upgrade

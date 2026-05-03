@@ -39,9 +39,10 @@ The previous audit session (worktree at /Users/jarvisurrego/luna-brain/.claude/w
   - `/Users/jarvisurrego/luna-brain/.claude/worktrees/house-cleanup/.gitignore`
   - `/Users/jarvisurrego/luna-brain/.claude/worktrees/house-cleanup/AGENTS.md`
 
-## Wiki entities referenced (1)
+## Wiki entities referenced (2)
 
 - [[wiki/moil/directory]]
+- [[wiki/projects/clio]]
 
 ## Final user direction
 

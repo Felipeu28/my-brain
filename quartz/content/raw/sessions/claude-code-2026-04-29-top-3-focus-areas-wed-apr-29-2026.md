@@ -38,7 +38,7 @@ Updated automatically by:
 - `brain-ingest.sh` — after each ingestion run
 - `brain-query.sh` — after each...
 
-## Wiki entities referenced (13)
+## Wiki entities referenced (16)
 
 - [[wiki/meetings/2026-04-28-mark-polanco-connectex-walkthrough]]
 - [[wiki/meetings/2026-04-28-website-update-review-internal]]
@@ -53,3 +53,6 @@ Updated automatically by:
 - [[wiki/people/mark-polanco]]
 - [[wiki/people/megan-miller]]
 - [[wiki/people/rashaka-boykins]]
+- [[wiki/projects/connectex]]
+- [[wiki/projects/fitlogic]]
+- [[wiki/projects/moil]]

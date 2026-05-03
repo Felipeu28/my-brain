@@ -32,9 +32,10 @@ I want you to analyze this graph and diagnose all the mising connections, and wh
   - `/Users/jarvisurrego/luna-brain/.claude/worktrees/busy-lumiere-b6ec37/apps/api/src/lib/edge-synthesis.ts`
   - `/Users/jarvisurrego/luna-brain/.claude/worktrees/busy-lumiere-b6ec37/api/admin/synthesize-edges-all.ts`
 
-## Wiki entities referenced (2)
+## Wiki entities referenced (3)
 
 - [[wiki/moil/directory]]
+- [[wiki/projects/clio]]
 - [[wiki/projects/lunabella]]
 
 ## Final user direction

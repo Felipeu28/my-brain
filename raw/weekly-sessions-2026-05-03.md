@@ -1,76 +1,25 @@
 ---
 type: claude-code-weekly-rollup
 week_start: 2026-04-26
-session_count: 78
+session_count: 72
 ---
 # Claude Code — Week of 2026-04-26
 
-**78 sessions** across all projects:
+**72 sessions** across all projects:
 
-- 192 user messages · 785 assistant responses · 2461 tool calls
-- 117 files created · 11 files edited · 27 commits
+- 190 user messages · 858 assistant responses · 2650 tool calls
+- 129 files created · 14 files edited · 37 commits
+- _(7 automation self-runs filtered out — see ingest-claude-sessions.py:is_automation_self_run)_
 
 ## By project
 
 | Project | Sessions | Commits | Files |
 |---------|----------|---------|-------|
-| - | 7 | 0 | 0 |
 | Brain/Automations | 42 | 0 | 34 |
 | Brain/KB | 14 | 0 | 20 |
-| Brain/KB/worktree | 6 | 11 | 7 |
+| Brain/KB/worktree | 6 | 20 | 15 |
 | Clio | 1 | 0 | 45 |
-| Clio/worktree | 8 | 16 | 22 |
-
-## - (7 sessions)
-
-### 2026-04-27 — You are the Moil Brain's daily cross-source intelligence analyst. (0 min)
-
-- **Ask:** You are the Moil Brain's daily cross-source intelligence analyst.
-
-You are reading one day of ingested data from Andres Urrego's personal brain system — the founder of Moil. Source types include: Team
-- **Full summary:** [[raw/sessions/claude-code-2026-04-27-you-are-the-moil-brain-s-daily-cross-source-intell]]
-
-### 2026-04-28 — You are the Moil Brain's daily cross-source intelligence analyst. (None min)
-
-- **Ask:** You are the Moil Brain's daily cross-source intelligence analyst.
-
-You are reading one day of ingested data from Andres Urrego's personal brain system — the founder of Moil. Source types include: Team
-- **Full summary:** [[raw/sessions/claude-code-2026-04-28-you-are-the-moil-brain-s-daily-cross-source-intell]]
-
-### 2026-04-29 — You are the Moil Brain's daily cross-source intelligence analyst. (None min)
-
-- **Ask:** You are the Moil Brain's daily cross-source intelligence analyst.
-
-You are reading one day of ingested data from Andres Urrego's personal brain system — the founder of Moil. Source types include: Team
-- **Full summary:** [[raw/sessions/claude-code-2026-04-29-you-are-the-moil-brain-s-daily-cross-source-intell]]
-
-### 2026-04-30 — You are the Moil Brain's daily cross-source intelligence analyst. (None min)
-
-- **Ask:** You are the Moil Brain's daily cross-source intelligence analyst.
-
-You are reading one day of ingested data from Andres Urrego's personal brain system — the founder of Moil. Source types include: Team
-- **Full summary:** [[raw/sessions/claude-code-2026-04-30-you-are-the-moil-brain-s-daily-cross-source-intell]]
-
-### 2026-05-01 — You are the Moil Brain's daily cross-source intelligence analyst. (None min)
-
-- **Ask:** You are the Moil Brain's daily cross-source intelligence analyst.
-
-You are reading one day of ingested data from Andres Urrego's personal brain system — the founder of Moil. Source types include: Team
-- **Full summary:** [[raw/sessions/claude-code-2026-05-01-you-are-the-moil-brain-s-daily-cross-source-intell]]
-
-### 2026-05-02 — You are the Moil Brain's daily cross-source intelligence analyst. (None min)
-
-- **Ask:** You are the Moil Brain's daily cross-source intelligence analyst.
-
-You are reading one day of ingested data from Andres Urrego's personal brain system — the founder of Moil. Source types include: Team
-- **Full summary:** [[raw/sessions/claude-code-2026-05-02-you-are-the-moil-brain-s-daily-cross-source-intell]]
-
-### 2026-05-03 — You are the Moil Brain's daily cross-source intelligence analyst. (None min)
-
-- **Ask:** You are the Moil Brain's daily cross-source intelligence analyst.
-
-You are reading one day of ingested data from Andres Urrego's personal brain system — the founder of Moil. Source types include: Team
-- **Full summary:** [[raw/sessions/claude-code-2026-05-03-you-are-the-moil-brain-s-daily-cross-source-intell]]
+| Clio/worktree | 9 | 17 | 29 |
 
 ## Brain/Automations (42 sessions)
 
@@ -552,11 +501,12 @@ Output file path (MANDATORY — use Write tool to save):
 - **Files:** 1 new · 0 edited
 - **Full summary:** [[raw/sessions/claude-code-2026-05-03-you-are-surfacing-patterns-from-the-last-7-days-of]]
 
-### 2026-05-03 — URGENT — full diagnosis needed. The "Deploy Quartz site to GitHub Pages" workflo (16 min)
+### 2026-05-03 — Morning Briefing — Wednesday, April 29, 2026 (117 min)
 
 - **Ask:** URGENT — full diagnosis needed. The "Deploy Quartz site to GitHub Pages" workflow on Felipeu28/my-brain failed AGAIN at 9:04 (build failed in 25 seconds, deploy skipped). It also failed earlier today
-- **Commits:** 2
-- **Full summary:** [[raw/sessions/claude-code-2026-05-03-urgent-full-diagnosis-needed-the-deploy-quartz-sit]]
+- **Commits:** 11
+- **Files:** 6 new · 2 edited
+- **Full summary:** [[raw/sessions/claude-code-2026-05-03-morning-briefing-wednesday-april-29-2026]]
 
 ## Clio (1 sessions)
 
@@ -568,7 +518,7 @@ This should be how c
 - **Files:** 43 new · 2 edited
 - **Full summary:** [[raw/sessions/claude-code-2026-05-01-let-s-create-a-new-video-about-the-parents-side-of]]
 
-## Clio/worktree (8 sessions)
+## Clio/worktree (9 sessions)
 
 ### 2026-04-26 — Plan: Fix live issues + clean house (5379 min)
 
@@ -631,3 +581,10 @@ Let's review and resolve to be able to push whatever updates in here that we sti
 - **Ask:** Now let's audit why anytime i am on a opage and click refresh it takes me back to the profile picker. Also did we remove parents pin access?
 - **Commits:** 1
 - **Full summary:** [[raw/sessions/claude-code-2026-05-01-now-let-s-audit-why-anytime-i-am-on-a-opage-and-cl]]
+
+### 2026-05-03 — Week 1 execution (44 min)
+
+- **Ask:** Parallel track: adopt Garry Tan's `gstack` pattern for Clio dev velocity. Tan publicly cites 600k lines in 60 days running 10–15 parallel agents with named specialists (CEO, Designer, QA, SRE, etc.).
+- **Commits:** 1
+- **Files:** 6 new · 1 edited
+- **Full summary:** [[raw/sessions/claude-code-2026-05-03-week-1-execution]]
