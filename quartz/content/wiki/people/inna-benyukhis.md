@@ -3,7 +3,7 @@ tags:
   - graph/spoke
   - person/customer
 status: active
-last_contact: 2026-04-28
+last_contact: 2026-05-01
 client: "[[wiki/orgs/ladyboss]]"
 ---
 # Inna Benyukhis

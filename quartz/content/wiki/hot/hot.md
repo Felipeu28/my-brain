@@ -33,6 +33,9 @@ Updated automatically by:
 ## Recent Queries
 
 <!-- ENTRIES:query -->
+- 2026-05-03 11:24 — Session end: [Brain/KB] init — 1 new files
+- 2026-05-03 11:23 — Session end: [Clio] Parallel track: adopt Garry Tan's `gstack` pattern for Clio dev velocity. Tan pu… — 1 chapters · 13 new files · 9 edits · 6 commits
+- 2026-05-03 11:11 — Session end: [Brain/KB] URGENT — full diagnosis needed. The "Deploy Quartz site to GitHub Pages" workflo… — 6 new files · 22 edits · 12 commits
 - 2026-05-03 10:32 — Session end: [Brain/KB] URGENT — full diagnosis needed. The "Deploy Quartz site to GitHub Pages" workflo… — 3 new files · 8 edits · 8 commits
 - 2026-05-03 10:27 — Session end: [Clio] Parallel track: adopt Garry Tan's `gstack` pattern for Clio dev velocity. Tan pu… — 1 new files
 - 2026-05-03 10:12 — Session end: [Brain/KB] URGENT — full diagnosis needed. The "Deploy Quartz site to GitHub Pages" workflo… — 2 edits · 3 commits
@@ -50,9 +53,6 @@ Updated automatically by:
 - 2026-05-02 21:02 — Session end: [Brain/KB] Base directory for this skill: /Users/jarvisurrego/.claude/skills/setup-browser-… — 61 events
 - 2026-05-02 21:02 — Session end: [Brain/KB] You are surfacing patterns from the last 7 days of Andres's working life — code,… — 1 new files
 - 2026-05-02 21:02 — Session end: [Brain/KB] Base directory for this skill: /Users/jarvisurrego/.claude/skills/setup-browser-… — 51 events
-- 2026-05-02 19:31 — Session end: [Brain/Auto] You are Andres Urrego's editor. Every evening you distill his X bookmarks from t… — 1 new files
-- 2026-05-02 18:25 — Session end: [Brain/KB] Check for any new files in raw/ and raw/onedrive-transcripts/ that haven't been … — 2 new files · 30 edits
-- 2026-05-02 18:15 — Session end: [Brain/Auto] Pull today's Microsoft Teams meeting transcripts and add them to the Brain.  1. … — 18 events
 <!-- /ENTRIES:query -->
 
 ## Recent Saves
