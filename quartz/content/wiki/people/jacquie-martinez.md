@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-21
+last_contact: 2026-05-01
 client: "[[wiki/orgs/buda-edc]]"
 tags:
   - graph/spoke
@@ -9,8 +9,8 @@ tags:
 # Jacquie Martinez
 
 **Type:** person
-**Last updated:** 2026-04-15
-**Source:** [[raw/buda-hive-edc-2026-04-11]], m365 email (Mar–Apr 2026 contract thread)
+**Last updated:** 2026-05-01
+**Source:** [[raw/buda-hive-edc-2026-04-11]], m365 email (Mar–Apr 2026 contract thread), [[raw/email-digest-2026-05-01]]
 **Related:** [[wiki/people/jennifer-storm]], [[wiki/people/joshua-edmond]], [[wiki/orgs/buda-edc]], [[wiki/concepts/buda-hive]], [[wiki/concepts/hive-program]]
 
 ---
@@ -39,6 +39,8 @@ Jacquie is the **day-to-day operational contact** for the Buda HIVE relationship
 | 2026-04-14 | Prep meeting at Buda HIVE (10:30am–12:00pm) — coordinate final stance before Board review |
 | 2026-04-15 | **🔥 Board vote on Incubator Strategist contracts** (Moil Enterprises Inc. + FAVE&SAVE LLC) |
 | 2026-04-15 | Sent Cohort 4 onboarding email: "Buda HIVE — Your Cohort Journey Begins Soon" (details + what to know before start) |
+| 2026-04-30 21:06 UTC | Issued the formal Cohort 4 *"Professional Service Agreement"* — Joshua forwarded to Andres + Shannon for countersignature |
+| 2026-05-01 19:59 UTC | Re: PSA — *"Let's plan to meet Monday 9am in the HIVE conference room; calendar invite to follow."* Andres accepted same day. **First in-person PSA review meeting locked for Mon May 4** |
 
 ## Why She Matters
 

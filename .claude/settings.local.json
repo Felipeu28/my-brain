@@ -14,7 +14,10 @@
       "Bash(python3 -c \"import sys,json; d=json.loads\\(sys.stdin.read\\(\\)\\); print\\(f'Count: {len\\(d.get\\(\\\\\"value\\\\\",d if isinstance\\(d,list\\) else []\\)\\)}'\\); [print\\(f'  {m.get\\(\\\\\"receivedDateTime\\\\\",\\\\\"?\\\\\"\\)[:10]} | {m.get\\(\\\\\"subject\\\\\",\\\\\"?\\\\\"\\)[:60]}'\\) for m in \\(d.get\\('value',d if isinstance\\(d,list\\) else []\\)\\)[:5]]\")",
       "Bash(python3 -c ':*)",
       "Bash(python3:*)",
-      "Read(//tmp/**)"
+      "Read(//tmp/**)",
+      "Bash(~/.claude/skills/gstack/browse/dist/browse cookies *)",
+      "Bash(bash *)",
+      "Bash(echo \"--- exit: $? ---\")"
     ]
   }
 }

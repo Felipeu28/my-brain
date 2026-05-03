@@ -5,8 +5,8 @@ tags:
 # Moil — Go-to-Market Motion
 
 **Type:** moil-topic
-**Last updated:** 2026-04-30
-**Source:** [[raw/moil-documents-2026-04-09]], [[raw/moilapp-website-2026-04-09]], [[raw/teams-2026-04-12]], [[raw/email-digest-2026-04-14]], [[raw/email-digest-2026-04-15]], [[raw/email-digest-2026-04-17]], [[raw/email-digest-2026-04-20]], [[raw/email-digest-2026-04-21]], [[raw/email-digest-2026-04-22]], [[raw/email-digest-2026-04-27]], [[raw/email-digest-2026-04-28]], [[raw/email-digest-2026-04-29]], [[raw/email-digest-2026-04-30]]
+**Last updated:** 2026-05-01
+**Source:** [[raw/moil-documents-2026-04-09]], [[raw/moilapp-website-2026-04-09]], [[raw/teams-2026-04-12]], [[raw/email-digest-2026-04-14]], [[raw/email-digest-2026-04-15]], [[raw/email-digest-2026-04-17]], [[raw/email-digest-2026-04-20]], [[raw/email-digest-2026-04-21]], [[raw/email-digest-2026-04-22]], [[raw/email-digest-2026-04-27]], [[raw/email-digest-2026-04-28]], [[raw/email-digest-2026-04-29]], [[raw/email-digest-2026-04-30]], [[raw/email-digest-2026-05-01]]
 **Related:** [[wiki/moil/positioning]], [[wiki/moil/icp]], [[wiki/concepts/buda-hive]], [[wiki/people/travis-sutherland]], [[wiki/people/daniel-guadiano]], [[wiki/people/renee-simmons]], [[wiki/people/adam-maxon]], [[wiki/people/irma-mason]], [[wiki/people/elisa-alaniz]], [[wiki/people/katherine-silvas]], [[wiki/orgs/helotes-edc]]
 
 ---
@@ -244,6 +244,22 @@ Single-day outbound: **25+ sends** (digest paginated at 25; more sends earlier i
 - 🟢 [[wiki/people/anita-lansing|Anita Lansing]] / Organically Whole forwarded a *"48 Hours to Go…"* notification: *"This is what I was talking about! I'm going to start getting it set up."* **First spontaneous re-engagement signal from a Cohort 2/3 grad in the Apr digests.**
 
 **Signal:** Apr 30 closes the week as the campaign's **biggest geographic-concentration day** — three strong state clusters in a single day (MN + WI + MS), continuing the Apr 27 (WI/MS) and Apr 28 (MA) state-cluster pattern. The combination of **(a) first auto-bounce + (b) check-in-the-mail signal + (c) Cohort grad re-engagement signal + (d) first NBCC reply** all in one digest is the strongest multi-channel inbound day of the campaign so far.
+
+### Cold campaign — May 1 update (close-out blitz; first PSA-meeting + TEDC keynote land same day)
+
+Source: [[raw/email-digest-2026-05-01]], [[raw/signal-briefs/signal-brief-2026-05-01]]
+
+Single-day outbound: **24 sends** — heavy break-up day across the prospect list.
+
+- **Template mix:** *"Should I close this out?"* / *"Last note"* close-out (≥ 13 sends — Lori Coulter, Scott Rosenow, Michelle Allison, Amy Gowan, Thomas O'Rourke, Leslie Gould, Reyad Shah, Mandy Power, Michael Bevilacqua, Tee Rowe, Xiomara Delobato, Tracy Propst (Beaver Dam), April Kopitzke (New London), Ashley Demuth (Menomonie)); *"Something we didn't expect"* / *"Interesting feedback from an EDC"* social-proof (≥ 6 sends — Wanda Seliski (Wahpeton-Breckenridge), Sherri Yandry (Saukville), Jayme Sellen (TEDCO), Joe Venhuizen (Envision Greater Fond du Lac)); *"3-minute walkthrough"* demo to **Jeff Griffin (Sioux Falls)** — first South Dakota touch.
+- **Inbound from the campaign May 1:**
+  - 🟢 **Mon May 4 9 AM CT in-person PSA review locked** with [[wiki/people/jacquie-martinez|Jacquie Martinez]] in the HIVE conference room — closes the Apr 30 PSA execution thread.
+  - 🟢 **TEDC Mid-Year Conference keynote slot confirmed for Friday June 19 at 8 AM** (Hilton Granite Park, Plano TX) by [[wiki/people/sarah-miller|Sarah Miller]]. **First Texas Economic Development Council speaking commitment** — state-level industry stage.
+  - 🟢 [[wiki/people/john-costilla|John Costilla]] strong praise on the *business-coach-95s* videos; Andres offered to walk John through the video-creation workflow on his brand. **John shifting from EDC partner → active co-marketing surface this week.**
+  - 🟢 [[wiki/people/jennifer-storm|Jennifer Storm]] *Letter of Recommendation* request → finalized + sent same day. Closed loop.
+  - 🟢 **Marilyn Martinez (Nuovo Entertainment)** identified as the primary contact on the long-orphan Nuovo client; *Website Discussion* call accepted (16:20 UTC). See [[wiki/orgs/nuovo-entertainment]] + [[wiki/people/marilyn-martinez]].
+
+**Signal:** May 1 closes the Apr 30 momentum loop. Three meaningful inbound conversions (PSA mtg + TEDC keynote + John video co-marketing offer) land in the same digest as a 13-send break-up blitz — the **break-up template is now a routine prospect-list cleanup tool, not a last-ditch tactic**, and the campaign's compounding effect is showing up as inbound/calendar wins on the same day. The *"Something we didn't expect"* / *"Interesting feedback from an EDC"* story-led variant is now the primary forward-motion template (≥ 6 sends today + 9 sends Apr 30) — proven enough that "EDC-feedback social proof" should be tracked as a named template alongside the demo + close-out variants.
 
 ### Hays CISD Career Day — network-recruitment expansion (Apr 30)
 

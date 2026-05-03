@@ -1,19 +1,19 @@
 ---
 github_repo: Moil-Landingpages/Nuovo-Enterteinment
-owner: null
+owner: "[[wiki/people/marilyn-martinez]]"
 status: active
-last_contact: 2026-04-09
+last_contact: 2026-05-01
 tags:
   - graph/spoke
 ---
 # Nuovo Entertainment
 
 **Type:** organization
-**Last updated:** 2026-04-15
-**Source:** [[raw/teams-2026-04-12]], [[raw/email-history-2months-2026-04-12]], [[raw/github-project-tracker]]
-**Related:** [[wiki/people/john-costilla]], [[wiki/moil/customers]]
+**Last updated:** 2026-05-01
+**Source:** [[raw/teams-2026-04-12]], [[raw/email-history-2months-2026-04-12]], [[raw/github-project-tracker]], [[raw/email-digest-2026-05-01]]
+**Related:** [[wiki/people/marilyn-martinez]], [[wiki/people/john-costilla]], [[wiki/moil/customers]]
 
-> **⚠️ Ownership unknown.** Active Moil-Landingpages client with deployed site but no identified human contact. Ask John Costilla for the introduction + fill in this page. Highest-priority org with an unidentified owner.
+> **✅ Owner identified May 1, 2026:** [[wiki/people/marilyn-martinez|Marilyn Martinez]] (`marilyn@nuovoentertainment.com`). Andres accepted a *Website Discussion* calendar invite May 1 16:20 UTC.
 
 ---
 
@@ -35,9 +35,9 @@ Nuovo Entertainment is a Moil-Landingpages client with an active site. The name 
 
 ## Open Items
 
-- Identify primary contact name and email
-- Confirm exact nature of the business
-- Connect with John Costilla to understand the relationship context
+- [x] ~~Identify primary contact name and email~~ — **CLOSED 2026-05-01**: [[wiki/people/marilyn-martinez|Marilyn Martinez]] (`marilyn@nuovoentertainment.com`)
+- [ ] Run the May *Website Discussion* call — capture next-phase scope; decide if site-only or convert to Moil 360
+- [ ] Confirm with [[wiki/people/john-costilla|John Costilla]] whether Marilyn is part of the Buda community network
 
 ## Moil Relevance
 

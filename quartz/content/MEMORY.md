@@ -1,6 +1,6 @@
 # MEMORY — Open Actions & Live Commitments
 
-**Last updated:** 2026-05-01 (Run 30 — weekly compile + cleanup; no new raw sources since Run 28; Apr 11–17 carryover demoted to Deferred per priority-rot rules)
+**Last updated:** 2026-05-02 (Run 30 — May 1 email-digest + signal-brief ingestion: PSA in-person mtg locked Mon May 4, TEDC keynote June 19 booked, Letter of Rec closed, Inna silence anomaly extends, Nuovo owner identified)
 **Purpose:** Single source of truth for open action items extracted from ingested raw sources.
 
 > Relationship/concept context: [[index]] · Ingestion history: [[log]]
@@ -15,8 +15,8 @@
 Source: [[wiki/meetings/2026-04-30-heather-skeen-coaching]], [[wiki/meetings/2026-04-30-carolina-coaching]], [[raw/email-digest-2026-04-30]]
 - [ ] **Andres:** Drop by [[wiki/people/carolina-caro|Caro's]] house in person — Austin Street behind [[wiki/orgs/meridian-buda|Meridian]] (Apr 30 / May 1 / Mon May 4 before HIVE all open). Walk the floorplan in person to validate the women-coworking layout
 - [ ] **Andres:** Save [[wiki/people/heather-skeen|Heather Skeen]]'s HIPAA-compliant cell number (routes from office line to cell)
-- [x] ~~**Andres:** Same-day post-coaching follow-ups to Caro + Heather~~ — DELIVERED Apr 30 18:12 (Heather: *"Great session today – next steps & focus / you don't need to build something complex"*) + 18:16 (Caro: *"¡Me encantó tu idea, Caro! Próximos pasos"*, Spanish)
-- [ ] **🔥 Andres:** **Read + countersign the Cohort 4 PSA** — Joshua forwarded the *"Professional Service Agreement"* from [[wiki/people/jacquie-martinez|Jacqueline Martinez]] to Andres + Shannon Apr 30 21:06 UTC. Round-trip complete: Shannon (Apr 21) → Joshua redline (Apr 24) → Jacqueline-issued PSA (Apr 30) → Andres signature
+- [x] ~~Same-day post-coaching follow-ups to Caro + Heather~~ — DELIVERED Apr 30
+- [ ] **🔥 Andres:** **Read + countersign the Cohort 4 PSA at the Mon May 4 9 AM in-person review** — [[wiki/people/jacquie-martinez|Jacquie]] locked the meeting in the HIVE conference room (May 1 19:59 UTC; Andres accepted same day). Round-trip: Shannon Apr 21 → Joshua redline Apr 24 → Jacquie-issued PSA Apr 30 → in-person sign Mon May 4. **Pre-read the PSA Sun May 3 evening + bring marked-up copy.**
 - [ ] **Caro homework:** complete Moil 21 questions (signed up first month free during the call); interview 5–10 women from Cohort 4 to validate ICP and willingness to pay; map floorplan to revenue
 - [ ] **Heather homework:** research daycare PD requirements (12 domains, hours, certification cycle); research market rates for CEU providers in TX; package 3–4 program bundles at ~$1,000/yr per daycare; build 25-mile-radius daycare prospect list (postcard + 3-email sequence + call); attorney consult on "Providence Counseling and Therapy" name change (insurance-contract impact); fix the $500/3hr pricing for the NC fall engagement
 
@@ -47,11 +47,6 @@ Source: [[raw/email-digest-2026-04-29]], [[wiki/people/adeleke-tolulope]]
 Source: [[raw/email-digest-2026-04-29]], [[wiki/moil/gtm]]
 - [ ] **🔥 Andres:** Reply to **Charles DeBow (NBCC)** — first on-record reply from a national chamber/EDC partner in the cold campaign (*"directionally aligned with where many entrepreneurship ecosystems are heading"*). Drop NBCC into a separate follow-up cadence rather than the breakup queue
 - [ ] **Andres:** Track Belmont-Buda *"this Buda business looks 10x bigger now"* west-coast cold-send batch (David Mann / Shayan Guha / Jessica Reicher / Rob Pieroth) — this is a **brand-new template** that converts FitLogic's Apr 29 morning delivery into outbound asset by the same afternoon. Watch for replies; if pattern works, replicate
-
-### 🔥 Apr 29 — Krystal post-webinar onboarding (Jacob owns)
-Source: [[raw/email-digest-2026-04-29]]
-- [x] ~~**Jacob:** Reply to Krystal (Queen Creek post-webinar lead) — original invite likely went to spam~~ — DELIVERED Apr 29 11:26 UTC; offered to help
-- [x] ~~**Andres / Jacob:** Actually nudge [[wiki/people/kim-dowers|Kim Dowers]] to **resend license invite links from the Partners Dashboard**~~ — **CLOSED Apr 30 15:00 UTC**: Kim found the resend feature and resent inactive licenses. Same digest: Kim *"check has been mailed"* for hosting the Apr 28 webinar — first revenue-flow signal from QC Chamber
 
 ### 🔥 Apr 29 — FitLogic delivered; P0 bug list from live walkthrough
 Source: [[wiki/meetings/2026-04-29-megan-fitlogic-crm-delivery]]
@@ -92,6 +87,14 @@ Source: [[wiki/meetings/2026-04-28-website-update-review-internal]], [[wiki/meet
 ### 🔥 Apr 28 — moilapp.com SEO emergency
 Source: [[wiki/meetings/2026-04-28-website-update-review-internal]]
 - [ ] **🔥 Andres:** SEO audit + fixes on **moilapp.com** — only ~12 of ~60 pages indexed; schemas wrong; robots.txt wrong; *"two years of accumulated SEO debt — we're literally unfindable"*. Workstream rule: same SEO discipline applies to all client builds going forward
+
+### 🔥 May 1 — TEDC keynote booked + John co-marketing offer + Inna silence anomaly + Nuovo owner found
+Source: [[raw/email-digest-2026-05-01]], [[raw/signal-briefs/signal-brief-2026-05-01]]
+- [ ] **🔥 Andres:** Prep TEDC Mid-Year Conference keynote — **Fri Jun 19 at 8 AM, Hilton Granite Park, Plano TX** ([[wiki/people/sarah-miller|Sarah Miller]] booked May 1). First TEDC slot. Define talk angle: Buda EDC × Moil B2G template scaled to TX-statewide audience
+- [ ] **🔥 Andres:** Walk [[wiki/people/john-costilla|John Costilla]] through the **video-creation workflow built on his brand** (offered May 1 21:40 UTC after John's praise on the *business-coach-95s* videos). Natural anchor: Mon May 4 in-person at HIVE for PSA mtg (Andres on-site adjacent to John)
+- [ ] **🟡 Andres or Jacob:** Nudge [[wiki/people/inna-benyukhis|Inna]] directly if no reply on the May 1 podcast video re-cuts by May 4–5 — silence is now the longest in any thread Inna is a party to in the Apr–May window. Blocks LinkedIn/IG publish queued since Apr 27
+- [ ] **Andres:** Run the [[wiki/people/marilyn-martinez|Marilyn Martinez]] / [[wiki/orgs/nuovo-entertainment|Nuovo Entertainment]] *Website Discussion* call (accepted May 1 16:20 UTC). First conversation with the Nuovo owner since the org page was created with "ownership unknown" in Run 6. Capture next-phase scope; decide site-only vs. Moil 360 conversion
+- [ ] **Andres:** Track May 1 cold campaign as the **"break-up day as routine cleanup"** signal — 13 close-out sends ran in parallel with 3 meaningful inbound conversions (PSA mtg + TEDC keynote + John co-marketing). Worth replicating cadence: weekly close-out blitz alongside story-led + demo sends
 
 ### 🔥 Apr 28 inbox — Open replies
 - [ ] **🔥 Andres:** Reply to [[wiki/people/john-costilla|John Costilla]] — pick alternate lunch day next week (Mon/Tue/Wed open since Thu/Fri taken)
@@ -135,9 +138,11 @@ Source: [[wiki/meetings/2026-04-21-teams-daily-ops]], [[wiki/meetings/2026-04-21
 
 ## 📅 Next 2–3 weeks (Apr 29 – May 12)
 
+- [ ] **🔥 Mon May 4 9 AM CT** — In-person Cohort 4 PSA review with [[wiki/people/jacquie-martinez|Jacquie Martinez]] at the HIVE conference room (locked May 1)
 - [ ] **May 4 12pm CDT** — Christine StJohn × Andres lunch at Unwrapped Uncorked (Kathryn Eyers — confirmed Apr 28)
 - [ ] **May 7** — Renee Simmons / Hays CISD Career Day at CHES — now a multi-business-owner cohort (Salon One Twelve + Allison Pflaum confirmed/checking-in; see Apr 30 block)
 - [ ] **Wed May 13, 9–11 AM CT** — Buda EDC × GIS WebTech AI virtual meeting (John Costilla + Michael Cleary)
+- [ ] **Fri Jun 19, 8 AM CT** — **TEDC Mid-Year Conference keynote**, Hilton Granite Park, Plano TX (booked by [[wiki/people/sarah-miller|Sarah Miller]] May 1). First TX statewide EDC speaking slot
 - [ ] **🔥 Helotes EDC** — Moil Partnership Proposal out since Apr 22. **Nudge by ~Apr 29–May 6 if silent.** See [[wiki/orgs/helotes-edc]], [[wiki/people/katherine-silvas]]
 - [ ] **[[wiki/people/daniel-guadiano|Daniel Guadiano]] / Astra Restaurant** — both Apr 22/23 slots proposed went without confirmation; re-propose new slot or close. First hospitality ICP if it closes
 - [ ] **Reply to [[wiki/people/irma-mason|Irma Mason]]** re: Mrs. Unger job-search referral — still open from Apr 19

@@ -9,7 +9,7 @@ client: "[[wiki/orgs/ladyboss]]"
 # Inna Benyukhis
 
 **Type:** person
-**Last updated:** 2026-04-28
+**Last updated:** 2026-05-01
 **Source:** [[raw/imessages-people-2026-04-09]], [[raw/outlook-emails-2026-04-09]], [[raw/github-project-tracker]], [[raw/teams-2026-04-12]], [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/hive-inna]], [[raw/hive-inna-s-website-feedback]], [[raw/hive-empowered-nutrition-project-breakdown]], [[raw/hive-coaching-session-summary]], [[raw/email-history-6months-2026-04-14]], [[raw/teams-2026-04-20]], [[raw/email-digest-2026-04-24]], [[raw/email-digest-2026-04-27]], [[raw/teams-transcript-website-update-review-call-2026-04-28]]
 **Related:** [[wiki/moil/gtm]], [[wiki/concepts/buda-hive]], [[wiki/people/abiodun-solomon]]
 
@@ -137,6 +137,14 @@ Also: Inna has been sharing LinkedIn URLs for tagging — pending clarification 
 
 - **2026-04-21** · `email-digest` · sent 2 March podcast videos for Jacob/Ablad to slice for social
 <!-- AUTO-ACTIVITY:end -->
+
+## May 1 — Re-cut podcast videos delivered; Inna silence anomaly
+
+Source: [[raw/email-digest-2026-05-01]], [[raw/signal-briefs/signal-brief-2026-05-01]]
+
+- **May 1 14:59 UTC** — [[wiki/people/jacob-oluwole|Jacob]] sent two updated podcast video versions (*with* and *without* rotate feature; *"ums"* removed, silent fillers cleaned while keeping flow). Resolves the Apr 29 13:35 UTC *"taking longer than expected"* delivery status from Ablad.
+- **No reply from Inna across the May 1 digest** despite the Apr 28 in-person meeting and a 1-week-slipped CRM demo. **The 3-step approval loop (Jacob → Inna → publish) is stalled on her side**, blocking the LinkedIn/IG publish that has been queued since Apr 27. Silence is the longest in any thread Inna is a party to in the Apr–May window.
+- **Watch:** if no reply by May 4–5, Andres should nudge directly. The Mon May 4 PSA meeting at HIVE puts Andres in Buda — a same-day text ping is cheap.
 
 ## Apr 27 — Podcast Videos Sent + Apr 28 Demo Slipped
 

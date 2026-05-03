@@ -1,6 +1,6 @@
 # Moil Brain — Master Index
 
-**Last compiled:** 2026-05-01 (Run 29 — historical-backfill ingestion sweep: 374 raw files marked `ingested: true` across meetings/transcripts, sessions, hive-program docs, email digests Apr 14–29, teams Apr 12–26, signal-briefs Apr 26–30, x-bookmarks, weekly-sessions, OneDrive transcript duplicates, and email/teams history dumps; new page: [[wiki/summaries/email-history-9months-2026-04-15]]; signal-briefs summary extended to Apr 30 ([[wiki/summaries/signal-briefs-2026-04-15-26]])) · **Total wiki pages:** 276 · **Raw sources:** 387
+**Last compiled:** 2026-05-02 (Run 30 — May 1 email-digest + signal-brief ingestion: 2 new people pages ([[wiki/people/sarah-miller]], [[wiki/people/marilyn-martinez]]) + 7 page updates (john-costilla, jacquie-martinez, jennifer-storm, jacob-oluwole, inna-benyukhis, buda-edc, nuovo-entertainment, gtm); Mon May 4 9 AM in-person PSA review locked, TEDC keynote June 19 booked, Letter of Rec closed, Inna silence anomaly extends, Nuovo Entertainment owner identified) · **Total wiki pages:** 278 · **Raw sources:** 388
 
 > **Canonical operating truth lives outside the wiki:** if status or architecture notes here conflict with newer operating reality, use `~/My Brain/CURRENT_STATE.md` first.
 
@@ -28,7 +28,7 @@
 | Folder | Count | What's in it |
 |---|---|---|
 | [[wiki/moil/README|moil/]] | 11 | Moil business — positioning, ICP, GTM, customers, competitors, metrics, product roadmap, active-projects |
-| [[wiki/people/README|people/]] | 55 | Personal network — family, friends, customers, collaborators, team |
+| [[wiki/people/README|people/]] | 57 | Personal network — family, friends, customers, collaborators, team |
 | [[wiki/minds/README|minds/]] | 11 | Public AI thought leaders tracked from afar |
 | [[wiki/orgs/README|orgs/]] | 22 | Customer, partner, and prospect organizations |
 | [[wiki/concepts/README|concepts/]] | 35 | Frameworks, mental models, products, programs |

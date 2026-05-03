@@ -2,7 +2,7 @@
 tags:
   - graph/leaf
 type: hot-cache
-last_updated: 2026-05-01
+last_updated: 2026-05-03
 ---
 # Brain Hot Cache
 
@@ -33,26 +33,26 @@ Updated automatically by:
 ## Recent Queries
 
 <!-- ENTRIES:query -->
-- 2026-05-01 14:06 — Session end: [Brain/KB] Run the weekly knowledge base compile and cleanup. Today is 2026-05-01.  ## PART… — 2 new files · 3 edits
-- 2026-05-01 13:59 — Session end: [Clio] Let's create a new video about the parents side of clio, you can use browser, I … — 59 new files · 53 edits
-- 2026-05-01 13:55 — Session end: [Clio] Let's create a new video about the parents side of clio, you can use browser, I … — 59 new files · 53 edits
-- 2026-05-01 13:53 — Session end: [Clio] Let's create a new video about the parents side of clio, you can use browser, I … — 59 new files · 53 edits
-- 2026-05-01 13:41 — Session end: [Clio] Let's create a new video about the parents side of clio, you can use browser, I … — 47 new files · 44 edits
-- 2026-05-01 13:33 — Session end: [Clio] Let's create a new video about the parents side of clio, you can use browser, I … — 47 new files · 37 edits
-- 2026-05-01 13:31 — Session end: [Clio] Let's create a new video about the parents side of clio, you can use browser, I … — 47 new files · 36 edits
-- 2026-05-01 13:30 — Session end: [Clio] Now let's audit why anytime i am on a opage and click refresh it takes me back t… — 1 new files · 2 edits · 1 commits
-- 2026-05-01 13:29 — Session end: [Clio] Now let's audit why anytime i am on a opage and click refresh it takes me back t… — 1 new files · 2 edits · 1 commits
-- 2026-05-01 13:28 — Session end: [Clio] https://github.com/Felipeu28/Clio/compare/main...claude/gracious-nobel-356df5?ex… — 2 new files · 23 edits · 5 commits
-- 2026-05-01 13:27 — Session end: [Clio] Now let's audit why anytime i am on a opage and click refresh it takes me back t… — 1 new files · 2 edits
-- 2026-05-01 13:27 — Session end: [Clio] https://github.com/Felipeu28/Clio/compare/main...claude/gracious-nobel-356df5?ex… — 2 new files · 23 edits · 5 commits
-- 2026-05-01 13:26 — Session end: [Clio] Let's create a new video about the parents side of clio, you can use browser, I … — 47 new files · 35 edits
-- 2026-05-01 13:25 — Session end: [Clio] Let's create a new video about the parents side of clio, you can use browser, I … — 47 new files · 35 edits
-- 2026-05-01 13:17 — Session end: [Clio] Let's create a new video about the parents side of clio, you can use browser, I … — 47 new files · 33 edits
-- 2026-05-01 13:14 — Session end: [Clio] Now let's audit why anytime i am on a opage and click refresh it takes me back t… — 12 events
-- 2026-05-01 13:13 — Session end: [Clio] https://github.com/Felipeu28/Clio/compare/main...claude/gracious-nobel-356df5?ex… — 1 new files · 14 edits · 4 commits
-- 2026-05-01 13:12 — Session end: [Clio] https://github.com/Felipeu28/Clio/compare/main...claude/gracious-nobel-356df5?ex… — 1 new files · 14 edits · 4 commits
-- 2026-05-01 13:00 — Session end: [Clio] https://github.com/Felipeu28/Clio/compare/main...claude/gracious-nobel-356df5?ex… — 1 new files · 11 edits · 3 commits
-- 2026-05-01 12:52 — Session end: [Clio] https://github.com/Felipeu28/Clio/compare/main...claude/gracious-nobel-356df5?ex… — 1 new files · 11 edits · 3 commits
+- 2026-05-03 06:00 — Session end: [Claude] You are the Moil Brain's daily cross-source intelligence analyst.  You are readi… — 9 events
+- 2026-05-02 21:38 — Session end: [Brain/KB] Base directory for this skill: /Users/jarvisurrego/.claude/skills/setup-browser-… — 1 edits
+- 2026-05-02 21:36 — Session end: [Brain/KB] Base directory for this skill: /Users/jarvisurrego/.claude/skills/setup-browser-… — 1 edits
+- 2026-05-02 21:35 — Session end: [Brain/KB] You are parsing raw scraped text from Andres's X.com bookmarks page into a struc… — 2 new files
+- 2026-05-02 21:33 — Session end: [Brain/KB] Base directory for this skill: /Users/jarvisurrego/.claude/skills/setup-browser-… — 1 edits
+- 2026-05-02 21:13 — Session end: [Brain/Auto] You are parsing raw scraped text from Andres's X.com bookmarks page into a struc… — 2 new files
+- 2026-05-02 21:05 — Session end: [Brain/Auto] You are parsing raw scraped text from Andres's X.com bookmarks page into a struc… — 1 new files
+- 2026-05-02 21:04 — Session end: [Brain/KB] 404 erros still present  https://my-brain-two.vercel.app/raw/hive-series-based-h… — 3 new files · 16 edits · 9 commits
+- 2026-05-02 21:02 — Session end: [Brain/KB] Base directory for this skill: /Users/jarvisurrego/.claude/skills/setup-browser-… — 61 events
+- 2026-05-02 21:02 — Session end: [Brain/KB] You are surfacing patterns from the last 7 days of Andres's working life — code,… — 1 new files
+- 2026-05-02 21:02 — Session end: [Brain/KB] Base directory for this skill: /Users/jarvisurrego/.claude/skills/setup-browser-… — 51 events
+- 2026-05-02 19:31 — Session end: [Brain/Auto] You are Andres Urrego's editor. Every evening you distill his X bookmarks from t… — 1 new files
+- 2026-05-02 18:25 — Session end: [Brain/KB] Check for any new files in raw/ and raw/onedrive-transcripts/ that haven't been … — 2 new files · 30 edits
+- 2026-05-02 18:15 — Session end: [Brain/Auto] Pull today's Microsoft Teams meeting transcripts and add them to the Brain.  1. … — 18 events
+- 2026-05-02 12:01 — Session end: [Brain/Auto] You are Andres's plan radar. Every day at noon you scan recent Brain activity an… — 1 new files
+- 2026-05-02 06:00 — Session end: [Claude] You are the Moil Brain's daily cross-source intelligence analyst.  You are readi… — 8 events
+- 2026-05-01 19:31 — Session end: [Brain/Auto] You are Andres Urrego's editor. Every evening you distill his X bookmarks from t… — 1 new files
+- 2026-05-01 18:31 — Session end: [Brain/Auto] Read these two JSON files of today's email activity and create a structured Brai… — 1 new files
+- 2026-05-01 18:17 — Session end: [Brain/KB] Check for any new files in raw/ and raw/onedrive-transcripts/ that haven't been … — 49 events
+- 2026-05-01 18:15 — Session end: [Brain/Auto] Pull today's Microsoft Teams meeting transcripts and add them to the Brain.  1. … — 24 events
 <!-- /ENTRIES:query -->
 
 ## Recent Saves

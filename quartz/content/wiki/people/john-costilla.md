@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-29
+last_contact: 2026-05-01
 tags:
   - graph/hub
   - person/personal
@@ -8,8 +8,8 @@ tags:
 # John Costilla
 
 **Type:** person
-**Last updated:** 2026-04-30
-**Source:** [[raw/imessages-people-2026-04-09]], [[raw/email-history-2months-2026-04-12.md]], [[raw/email-digest-2026-04-15]], [[raw/email-digest-2026-04-16]], [[raw/email-digest-2026-04-27]], [[raw/email-digest-2026-04-28]], [[raw/email-digest-2026-04-29]]
+**Last updated:** 2026-05-01
+**Source:** [[raw/imessages-people-2026-04-09]], [[raw/email-history-2months-2026-04-12.md]], [[raw/email-digest-2026-04-15]], [[raw/email-digest-2026-04-16]], [[raw/email-digest-2026-04-27]], [[raw/email-digest-2026-04-28]], [[raw/email-digest-2026-04-29]], [[raw/email-digest-2026-05-01]]
 **Related:** [[wiki/moil/positioning]], [[wiki/orgs/buda-edc]], [[wiki/concepts/buda-hive]], [[wiki/people/joseph-arnke]]
 
 ---
@@ -57,3 +57,12 @@ Source: [[raw/email-digest-2026-04-29]]
 - **08:18 UTC — John proposed Wed May 13, 9–11 AM CT virtual meeting** with [[wiki/people/joseph-arnke|Joseph Arnke]] / Michael Cleary (`michael@giswebtech.com`) on the AI tools for EDC website thread; looped Andres in. Andres accepted same day at 11:00 UTC; calendar acceptance 11:00 UTC. **First firm date on the John × GIS WebTech AI workstream** that has been on the radar since John's Apr 10 *"Agentic AI / always on site selector tool"* signal. (Apr 30 follow-up: Cleary confirmed he'd send the calendar invite — Andres is on it.)
 - **16:04 UTC — Andres forwarded John the *"Brain Briefing - 2026-04-29"*** with the note *"real action, not just a summary."* First time Andres has sent the morning briefing to a non-Moil contact — frames the Brain output as a credibility/sales artifact for John (who works at Buda EDC + is the closest personal friend).
 - **21:10 UTC — Andres shared OneDrive doc *"business-coach-95s"* with John.** Standalone share — content not in the digest but worth tracking as part of the John pre-May-13-meeting prep loop.
+
+## May 1 — business-coach-95s praise + co-marketing offer
+
+Source: [[raw/email-digest-2026-05-01]]
+
+- **14:23 UTC — John replied** to the *"business-coach-95s shared"* thread with strong praise on the videos, story, pitch deck, and messaging. First explicit positive feedback from John on Moil-produced video content built around his brand.
+- **21:40 UTC — Andres replied** offering to **walk John through the video-creation workflow** built on his brand. Frames the *business-coach-95s* artifact as a co-marketing reusable asset rather than a one-off.
+- **Cc context:** John was also cc'd on the [[wiki/people/jennifer-storm|Jennifer Storm]] *Letter of Recommendation* thread (May 1 13:06 UTC ask → 14:59 UTC delivery), keeping him looped on Moil ↔ EDC artifacts.
+- **Signal:** Combined with the May 13 GIS WebTech meeting + the Apr 29 Brain Briefing forward + the *business-coach-95s* share, John is shifting **from EDC partner → active co-marketing surface this week**. The Mon May 4 in-person at HIVE (PSA meeting with Jacquie) puts Andres on-site adjacent to John — natural moment to cement the video-workflow walkthrough.

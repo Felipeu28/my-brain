@@ -1,17 +1,17 @@
 ---
 type: claude-code-session
 session_id: c614ad39-3f68-4926-b032-41b464e0e9c1
-project: Clio/worktree
+project: Clio
 date: 2026-04-15
 duration_minutes: None
-source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-nice-dirac/c614ad39-3f68-4926-b032-41b464e0e9c1.jsonl
+source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain/c614ad39-3f68-4926-b032-41b464e0e9c1.jsonl
 ---
 # Claude Code Session — Wave 1c — strict auth + cleanup
 
 **Date:** 2026-04-15 (session ran 2026-04-15T20:46 → )
-**Project:** Clio/worktree
+**Project:** Clio
 **Duration:** None min
-**Volume:** 97 user messages · 348 assistant responses · 947 tool calls
+**Volume:** 112 user messages · 400 assistant responses · 1070 tool calls
 
 ## Chapters
 
@@ -77,10 +77,16 @@ source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brai
 - fix(launch): four pre-launch UX bugs Andres flagged on a dogfood pass
 - chore(api): drop column-missing retry fallbacks after migrations applied
 - fix(voice): Web Audio API as primary playback substrate (kills iOS autoplay dance)
+- fix(ingest): stop silently losing kids' brain memory on Gemini cascade fail
+- feat(backfill): scripts/backfill-extractions.js — recover lost brain memory
+- fix(ux): trust pass — orb click target, pause thresholds, gender propagation
+- fix(ux): Phase 3 + 4 — orb landscape, autogrow input, hear-it-again, paced reveal
+- fix(backfill): try stable Gemini models first + retry on 400
+- feat(alerts): email Andres every time a new family / sibling signs up
 
 ## Files touched
 
-**Created (35):**
+**Created (36):**
   - `/Users/jarvisurrego/.gstack/projects/Felipeu28-Lunabella/jarvisurrego-claude/nice-dirac-design-20260415-163247.md`
   - `/Users/jarvisurrego/.gstack/projects/Felipeu28-Lunabella/jarvisurrego-claude-nice-dirac-eng-review-test-plan-20260417-093104.md`
   - `/Users/jarvisurrego/luna-brain/supabase/migrations/20260418000000_voice_id_es.sql`
@@ -116,6 +122,7 @@ source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brai
   - `/Users/jarvisurrego/luna-brain/api/_alerts.ts`
   - `/Users/jarvisurrego/luna-brain/supabase/migrations/20260425000001_onboarding_complete.sql`
   - `/Users/jarvisurrego/luna-brain/docs/brain-plan.md`
+  - `/Users/jarvisurrego/luna-brain/scripts/backfill-extractions.js`
 
 **Edited (11):**
   - `/Users/jarvisurrego/luna-brain/apps/web/.env.example`
@@ -140,6 +147,4 @@ source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brai
 
 ## Final user direction
 
-Amazing, love this!
-
-go look at apps/web/src/lib/tts.ts right now and ship the Web Audio playback fix as a focused PR
+And is this a good time to setup the emails those families will receive explaining how Clio can help and what clio is and does Maybe they can be branded like Clio

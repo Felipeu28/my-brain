@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-15
+last_contact: 2026-05-01
 tags:
   - graph/hub
   - person/partner
@@ -9,8 +9,8 @@ client: "[[wiki/orgs/buda-edc]]"
 # Jennifer Storm
 
 **Type:** person
-**Last updated:** 2026-04-15
-**Source:** [[raw/buda-hive-edc-2026-04-11]]
+**Last updated:** 2026-05-01
+**Source:** [[raw/buda-hive-edc-2026-04-11]], [[raw/email-digest-2026-05-01]]
 **Related:** [[wiki/people/jacquie-martinez]], [[wiki/concepts/buda-hive]], [[wiki/concepts/aedo]], [[wiki/concepts/campaignos]], [[wiki/meetings/2026-03-12-sosx-buda-hive]]
 
 ---
@@ -43,6 +43,8 @@ Key ally for [[wiki/moil/positioning|Moil]]. Collegial, warm, mutually supportiv
 | Jan 12, 2026 | Re: Notes for Campaign AI | Andres → Jennifer. "Love this :-) I am on it this week!" |
 | Mar 30, 2026 | Re: Notes for CampaignOS | Andres → Jennifer. Offered to build MVP at near-zero cost with dev credits. |
 | Apr 10, 2026 | Letter of Recommendation | AEDO letter submitted. Jennifer: "This is perfect. Thank you so so much!" |
+| May 1, 2026 13:06 UTC | Re: Letter of Recommendation Request (Jennifer Storm → Andres) | Asked Andres to **finalize and return the letter same morning — submitting today** |
+| May 1, 2026 14:59 UTC | Re: Letter of Recommendation Request (Andres → Jennifer + John Costilla) | **Apologized for the delay; sent the finalized letter.** Closed loop |
 
 ## Why This Relationship Matters
 

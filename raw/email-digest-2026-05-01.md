@@ -1,6 +1,8 @@
 ---
 tags:
   - graph/leaf
+ingested: true
+ingested_at: 2026-05-02
 ---
 
 # Email Digest — 2026-05-01

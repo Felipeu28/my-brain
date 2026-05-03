@@ -3,14 +3,14 @@ type: claude-code-session
 session_id: b263401a-8c20-4ad5-a633-d9c15ea1f7b0
 project: Clio/worktree
 date: 2026-04-25
-duration_minutes: 609
+duration_minutes: 5823
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-compassionate-sutherland-b231a2/b263401a-8c20-4ad5-a633-d9c15ea1f7b0.jsonl
 ---
 # Claude Code Session — Do a full regression audit of all voice and UI changes that have landed on main
 
-**Date:** 2026-04-25 (session ran 2026-04-25T16:48 → 2026-04-26T02:58)
+**Date:** 2026-04-25 (session ran 2026-04-25T16:48 → 2026-04-29T17:51)
 **Project:** Clio/worktree
-**Duration:** 609 min
+**Duration:** 5823 min
 **Volume:** 1 user messages · 18 assistant responses · 78 tool calls
 
 ## Ask

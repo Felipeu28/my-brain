@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-28
+last_contact: 2026-05-01
 tags:
   - graph/hub
   - person/team
@@ -8,7 +8,7 @@ tags:
 # Jacob Oluwole
 
 **Type:** person
-**Last updated:** 2026-04-28
+**Last updated:** 2026-05-01
 **Source:** `raw/meetings/` (multiple meeting transcripts), [[raw/email-history-2months-2026-04-12]], [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026), [[raw/teams-2026-04-24]] (39 messages 1:1, Apr 24), [[raw/email-digest-2026-04-27]], [[raw/teams-transcript-website-update-review-call-2026-04-28]]
 **Related:** [[wiki/moil/positioning]], [[wiki/people/adeleke-tolulope]], [[wiki/people/abiodun-solomon]], [[wiki/people/taiwo-ola-balogun]]
 
@@ -179,6 +179,13 @@ Source: [[raw/teams-transcript-website-update-review-call-2026-04-28]], [[wiki/m
 - **Personal context — Apr 27:** posted *"Trying to box, I mean, that's that's…"* — light banter referencing Andres's $200/month Claude spend vs. 6 deals closed last month bringing 20× that in pipeline.
 
 See [[wiki/meetings/2026-04-28-website-update-review-internal]].
+
+## May 1, 2026 — Inna podcast video re-cut delivered + Kim resend confirmation
+
+Source: [[raw/email-digest-2026-05-01]]
+
+- **14:59 UTC — Sent Inna two updated versions** of the podcast videos on the *"Re: 2 podcast videos"* thread — *with* and *without* the rotate feature, *"ums" removed, silent fillers cleaned while keeping flow*. Continues the 3-step approval-loop workflow on Inna's Apr 23 directive (Apr 27 originals → Apr 29 *"taking longer than expected"* status → May 1 re-cut delivered). **No reply from [[wiki/people/inna-benyukhis|Inna]] in the May 1 window** — silence anomaly continues.
+- **17:36 UTC — Re: Quick Reminder: Resend Invite Links to Kim Dowers** — confirmed Kim resent the invites; offered further help. Closes Jacob's named QC Chamber post-webinar onboarding ownership thread (now: lead resolved, customer self-served, Jacob is the resilient point of contact).
 
 ## Gaps
 

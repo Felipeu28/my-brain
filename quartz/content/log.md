@@ -4,6 +4,58 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ---
 
+## 2026-05-02 — Run 30: May 1 email digest + signal brief ingestion
+
+**Trigger:** Automated scan for unprocessed `raw/` files. Two new files since Run 29:
+- `raw/email-digest-2026-05-01.md` (committed May 1 18:31 by `email-digest` job — 24-hour window Apr 30–May 1; 13 received / 24 sent)
+- `quartz/content/raw/signal-briefs/signal-brief-2026-05-01.md` (committed May 2 06:00 by `daily-correlator.py` — May 1 cross-source synthesis)
+
+**Pages created (2):**
+- [[wiki/people/sarah-miller]] — Buda EDC license coordination + external speaking-slot bookings; booked Andres into TEDC June 19 keynote slot. First direct booking contact May 1; previously surfaced only in the Apr 12 2-month email backfill (3-email license-coordination thread)
+- [[wiki/people/marilyn-martinez]] — Identified primary contact at [[wiki/orgs/nuovo-entertainment|Nuovo Entertainment]] (`marilyn@nuovoentertainment.com`); closes the long-orphan "ownership unknown" gap on the Nuovo org page since Run 6
+
+**Pages updated (8):**
+- [[wiki/people/john-costilla]] — May 1 strong praise on the *business-coach-95s* videos; Andres offered to walk John through the video-creation workflow built on his brand. **John is shifting from EDC partner → active co-marketing surface this week**. Cc'd on the Jennifer Storm Letter of Recommendation thread
+- [[wiki/people/jacquie-martinez]] — Issued the formal Cohort 4 PSA Apr 30 21:06 UTC; locked **Mon May 4 9 AM CT in-person PSA review** in the HIVE conference room (May 1 19:59 UTC). Andres accepted same day. **First in-person PSA review meeting between Andres and Jacquie since the Apr 15 Board vote**
+- [[wiki/people/jennifer-storm]] — May 1 13:06 UTC asked Andres to finalize and return the AEDO Letter of Recommendation same morning; Andres apologized for the delay and sent the finalized letter at 14:59 UTC (cc John Costilla). Closed loop
+- [[wiki/people/jacob-oluwole]] — May 1 14:59 UTC sent Inna two updated podcast video versions (with/without rotate; "ums" and silent fillers cleaned); 17:36 UTC confirmed Kim Dowers resent invites and offered further help (closing his named QC Chamber post-webinar onboarding ownership thread)
+- [[wiki/people/inna-benyukhis]] — Re-cut podcast videos delivered May 1; **no reply from Inna across the May 1 digest** despite the Apr 28 in-person and 1-week-slipped CRM demo. The 3-step approval loop (Jacob → Inna → publish) is **stalled on her side**, blocking the LinkedIn/IG publish queued since Apr 27. Longest silence in any thread Inna is a party to in the Apr–May window
+- [[wiki/orgs/buda-edc]] — Sarah Miller added to staff list; new sections for "Cohort 4 PSA — In-person review locked Mon May 4" and "TEDC Mid-Year Conference (June 19, 2026)"
+- [[wiki/orgs/nuovo-entertainment]] — Marilyn Martinez identified as primary contact (closes the "ownership unknown" gap from Run 6); status updated; "Identify primary contact" open item closed; new open items for the May Website Discussion call + John Costilla community-tie confirmation
+- [[wiki/moil/gtm]] — added "Cold campaign — May 1 update" section: 24 sends, 13 close-out / 6 story-led / 3 demo (incl. first South Dakota touch via Jeff Griffin / Sioux Falls); 5 inbound conversion signals (PSA mtg + TEDC keynote + John video co-marketing + Letter of Rec close + Nuovo owner identified) all in same digest. **Break-up template now functions as routine prospect-list cleanup tool, not last-ditch tactic**. *"EDC-feedback social proof"* variant should be tracked as a named template alongside demo + close-out
+
+**Pages updated (operating layer):**
+- [[MEMORY]] — opened ~5 new May 1 items (TEDC Jun 19 keynote prep, John video-workflow walkthrough at Mon May 4 anchor, Inna direct nudge if no reply by May 4–5, Marilyn / Nuovo Website Discussion call, May 1 break-up-day cadence template); closed Apr 29 Krystal block (both items DELIVERED) + compacted same-day post-coaching follow-up entry; Apr 30 PSA countersign re-anchored to the Mon May 4 in-person review; added Mon May 4 9 AM PSA mtg + Fri Jun 19 8 AM TEDC keynote to "Next 2–3 weeks". 200 lines (hit hard cap exactly).
+- [[index]] — Run 30 header, raw source count 387 → 389 (2 new files), wiki page count 276 → 278 (+2 = 2 people), people count 55 → 57
+
+**Key intelligence from Run 30:**
+
+1. **🟢 Cohort 4 PSA round-trip lands in-person Mon May 4.** [[wiki/people/jacquie-martinez|Jacquie]] locked the meeting in the HIVE conference room (May 1 19:59 UTC) — **first in-person PSA review meeting between Andres and Jacquie since the Apr 15 Board vote**. Round-trip: Shannon Apr 21 → Joshua redline Apr 24 → Jacquie-issued PSA Apr 30 → Andres signs in person May 4 (10 days, end-to-end). The in-person format upgrades the contract motion from email-thread to relationship-anchored, and puts Andres on-site adjacent to John Costilla — natural anchor for the video-workflow walkthrough Andres offered the same day.
+
+2. **🟢 First TEDC speaking commitment locked: Fri Jun 19, 8 AM, Plano TX.** [[wiki/people/sarah-miller|Sarah Miller]] booked Andres into the **TEDC Mid-Year Conference** keynote slot (Hilton Granite Park). **First Texas Economic Development Council speaking slot** for Andres — a state-level industry stage that scales the Buda EDC × Moil B2G template beyond Buda's audience. Sarah also surfaces as a new BEDC contact owning license coordination + external bookings — operational counterpart to Jacquie on the Moil-license side.
+
+3. **🟢 John Costilla shifting from EDC partner → active co-marketing surface.** May 1 strong praise on the *business-coach-95s* videos ("strong praise on videos, story, pitch deck and messaging"); Andres offered to walk John through the video-creation workflow built on his brand. Combined with: (a) Apr 29 Brain Briefing forward, (b) Apr 29 OneDrive *business-coach-95s* share, (c) Wed May 13 GIS WebTech AI meeting, (d) cc on the Jennifer Storm Letter of Recommendation thread — John is now generating co-marketing surface area that wasn't there a week ago.
+
+4. **🟡 Inna silence anomaly extends — longest of the month.** Jacob delivered re-cut podcast videos May 1 14:59 UTC (with/without rotate; *"ums"* and silent fillers cleaned). **No reply from Inna across the May 1 digest** despite the Apr 28 in-person meeting and a 1-week-slipped CRM demo. The 3-step approval loop (Jacob → Inna → publish) is **stalled on her side**, blocking the LinkedIn/IG publish queued since Apr 27. If no reply by May 4–5, Andres should nudge directly — Mon May 4 in Buda is a cheap text-ping moment.
+
+5. **🟢 Long-orphan Nuovo Entertainment owner identified.** [[wiki/people/marilyn-martinez|Marilyn Martinez]] (`marilyn@nuovoentertainment.com`) accepted a *Website Discussion* calendar invite May 1 16:20 UTC. **Closes the "ownership unknown" gap that has been on the org page since Run 6.** The May call is the moment to capture next-phase scope and decide whether to convert to a Moil 360 license. Worth confirming with John Costilla whether Marilyn is part of the Buda community network (John named "Nuovo" in earlier email threads).
+
+6. **🟢 Letter of Recommendation closed in 11 minutes wall-clock under same-morning deadline.** Jennifer asked Andres at 13:06 UTC to finalize and return same morning; Andres delivered at 14:59 UTC (cc John Costilla). **First time the AEDO support-letter pattern has run in same-day same-morning rapid mode** — Apr 10 was a deliberate slower process. Models the operational responsiveness Andres is willing to extend to Jennifer specifically.
+
+7. **🟢 May 1 = "break-up day as routine cleanup" pattern fully formed.** 24 sends — 13 close-out (*"Should I close this out?"* / *"Last note"*) + 6 story-led (*"Something we didn't expect"* / *"Interesting feedback from an EDC"*) + 3 demo (*"3-minute walkthrough"*). Combined with 9 story-led sends Apr 30, the **EDC-feedback social-proof variant should be tracked as a named template** alongside demo + close-out. The break-up template is now a routine prospect-list cleanup tool, not a last-ditch tactic — and it ran in parallel with **5 meaningful inbound conversions in the same digest** (PSA mtg + TEDC keynote + John video co-marketing + Letter of Rec close + Nuovo owner identified). **The compounding effect of the campaign is now showing up as same-day inbound wins.**
+
+8. **First South Dakota touch.** *"3-minute walkthrough"* demo to Jeff Griffin (Sioux Falls) — extends the Apr cold campaign's geographic footprint into SD for the first time.
+
+**Action-item delta:**
+- **Closed (~3):** Apr 29 Krystal post-webinar onboarding (Jacob delivered Apr 29 + Kim self-resolved Apr 30); Letter of Recommendation request (delivered May 1 14:59 UTC); Apr 30 same-day post-coaching follow-ups (DELIVERED — entry compacted to one line).
+- **Opened (~5):** TEDC Jun 19 keynote prep + talk angle definition; John video-creation-workflow walkthrough (anchor: Mon May 4 in Buda); Inna direct nudge if no reply by May 4–5; Marilyn / Nuovo Website Discussion call; track May 1 break-up-day cadence as replicable template.
+
+**Sync step:** `bash scripts/sync_wiki.sh` mirrors all updates into `quartz/content/`. **Health step:** `python3 scripts/kb-health.py` after sync. Both source files marked `ingested: true / ingested_at: 2026-05-02`.
+
+**Source count:** 387 → 388 (+1 in `raw/` — email-digest-2026-05-01.md; signal-brief lives in `quartz/content/raw/signal-briefs/` and is not counted by `kb-health.py`'s RAW_DIR rglob). Wiki page count: 276 → 278 (+2 = 2 people).
+
+---
+
 ## 2026-05-01 — Run 29: Historical-backfill ingestion sweep (374 files marked ingested)
 
 **Trigger:** KB agent ingestion request listing 374 source files in `raw/` that had been processed across Runs 1–28 but never received the `ingested: true / ingested_at` frontmatter marker. This run does NOT add new content to the wiki — it closes the bookkeeping gap so `kb-health.py` and any future "what hasn't been ingested?" scan returns a clean answer.

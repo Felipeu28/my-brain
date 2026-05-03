@@ -3,15 +3,15 @@ github_repo: Moil-Landingpages/BUDAEDC, Moil-Code/buda-hive
 tags:
   - graph/spoke
 status: active
-last_contact: 2026-04-15
+last_contact: 2026-05-01
 owner: "[[wiki/people/jennifer-storm]]"
 ---
 # Buda EDC
 
 **Type:** organization
-**Last updated:** 2026-04-22
-**Source:** [[raw/buda-hive-edc-2026-04-11]], [[raw/hive-buda-hive-sosx-run-of-show]], [[raw/hive-coaching-session-summary]], [[raw/hive-series-based-hive-program]], [[raw/email-digest-2026-04-21]]
-**Related:** [[wiki/concepts/buda-hive]], [[wiki/concepts/aedo]], [[wiki/people/jennifer-storm]], [[wiki/people/shannon-cameron]], [[wiki/people/jacquie-martinez]], [[wiki/people/casey-earley]], [[wiki/people/joshua-edmond]]
+**Last updated:** 2026-05-01
+**Source:** [[raw/buda-hive-edc-2026-04-11]], [[raw/hive-buda-hive-sosx-run-of-show]], [[raw/hive-coaching-session-summary]], [[raw/hive-series-based-hive-program]], [[raw/email-digest-2026-04-21]], [[raw/email-digest-2026-04-30]], [[raw/email-digest-2026-05-01]]
+**Related:** [[wiki/concepts/buda-hive]], [[wiki/concepts/aedo]], [[wiki/people/jennifer-storm]], [[wiki/people/shannon-cameron]], [[wiki/people/jacquie-martinez]], [[wiki/people/casey-earley]], [[wiki/people/sarah-miller]], [[wiki/people/joshua-edmond]]
 
 ---
 
@@ -83,7 +83,20 @@ See [[wiki/concepts/hive-program]] for the full series-based curriculum (Hatch �
 - [[wiki/people/shannon-cameron|Shannon Cameron]] — Director of Operations. First surfaced Apr 21, 2026 forwarding HIVE Strategist PSA assets.
 - [[wiki/people/jacquie-martinez|Jacquie Martinez]] — Asst. Director, Small Business. Manages HIVE operations day-to-day.
 - [[wiki/people/casey-earley|Casey Earley]] — Administrative Coordinator. Cohort 4 logistics + curriculum coordination.
+- [[wiki/people/sarah-miller|Sarah Miller]] — License coordination + external speaking-slot bookings. Booked Andres into TEDC June 19 keynote slot.
 - [[wiki/people/joshua-edmond|Joshua Edmond]] — Co-Incubator Strategist alongside Andres.
+
+## Cohort 4 PSA — In-person review locked Mon May 4
+
+Source: [[raw/email-digest-2026-04-30]], [[raw/email-digest-2026-05-01]]
+
+The Cohort 4 *Professional Service Agreement* round-tripped Apr 21 → May 1 in 10 days: Shannon Cameron forwarded original PSAs Apr 21 → Joshua redlined them Apr 24 → [[wiki/people/jacquie-martinez|Jacqueline Martinez]] issued the formal PSA Apr 30 → Joshua forwarded it to Andres + Shannon Apr 30 21:06 UTC → Jacquie scheduled the in-person review **Mon May 4 9 AM CT in the HIVE conference room** (May 1 19:59 UTC). Andres accepted same day. **First in-person PSA review meeting between Andres and Jacquie since the Apr 15 Board vote.**
+
+## TEDC Mid-Year Conference (June 19, 2026)
+
+Source: [[raw/email-digest-2026-05-01]]
+
+[[wiki/people/sarah-miller|Sarah Miller]] confirmed Andres is presenting at the **TEDC Mid-Year Conference, Friday June 19 at 8 AM, Hilton Granite Park, Plano TX**. Andres accepted same day. **First Texas Economic Development Council speaking commitment** for Andres — a state-level industry stage that scales the Buda EDC × Moil B2G template beyond Buda's audience.
 
 ## EDC Website / AI Tools Call (Apr 15, 2026)
 
