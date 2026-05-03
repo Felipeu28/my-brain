@@ -1,7 +1,7 @@
 ---
 type: claude-code-session
 session_id: 47197d5b-8ca4-4a44-80e5-92f7e49ab0f0
-project: Brain/KB/worktree
+project: "Brain/KB/worktree"
 date: 2026-04-28
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base--claude-worktrees-keen-rosalind-236b84/47197d5b-8ca4-4a44-80e5-92f7e49ab0f0.jsonl

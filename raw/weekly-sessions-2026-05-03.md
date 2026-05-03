@@ -1,14 +1,14 @@
 ---
 type: claude-code-weekly-rollup
 week_start: 2026-04-26
-session_count: 77
+session_count: 78
 ---
 # Claude Code — Week of 2026-04-26
 
-**77 sessions** across all projects:
+**78 sessions** across all projects:
 
-- 189 user messages · 764 assistant responses · 2392 tool calls
-- 117 files created · 11 files edited · 25 commits
+- 192 user messages · 785 assistant responses · 2461 tool calls
+- 117 files created · 11 files edited · 27 commits
 
 ## By project
 
@@ -17,7 +17,7 @@ session_count: 77
 | - | 7 | 0 | 0 |
 | Brain/Automations | 42 | 0 | 34 |
 | Brain/KB | 14 | 0 | 20 |
-| Brain/KB/worktree | 5 | 9 | 7 |
+| Brain/KB/worktree | 6 | 11 | 7 |
 | Clio | 1 | 0 | 45 |
 | Clio/worktree | 8 | 16 | 22 |
 
@@ -512,7 +512,7 @@ Input: the raw text below is the concatenation of the page text after 20 scroll 
 - **Files:** 1 new · 0 edited
 - **Full summary:** [[raw/sessions/claude-code-2026-05-03-you-are-parsing-raw-scraped-text-from-andres-s-x-c]]
 
-## Brain/KB/worktree (5 sessions)
+## Brain/KB/worktree (6 sessions)
 
 ### 2026-04-27 — Andres got a "Daily signal" email/note saying "No bookmarks captured yesterday" (None min)
 
@@ -551,6 +551,12 @@ Output file path (MANDATORY — use Write tool to save):
 /Users/jarvisurrego/My Brain
 - **Files:** 1 new · 0 edited
 - **Full summary:** [[raw/sessions/claude-code-2026-05-03-you-are-surfacing-patterns-from-the-last-7-days-of]]
+
+### 2026-05-03 — URGENT — full diagnosis needed. The "Deploy Quartz site to GitHub Pages" workflo (16 min)
+
+- **Ask:** URGENT — full diagnosis needed. The "Deploy Quartz site to GitHub Pages" workflow on Felipeu28/my-brain failed AGAIN at 9:04 (build failed in 25 seconds, deploy skipped). It also failed earlier today
+- **Commits:** 2
+- **Full summary:** [[raw/sessions/claude-code-2026-05-03-urgent-full-diagnosis-needed-the-deploy-quartz-sit]]
 
 ## Clio (1 sessions)
 

@@ -1,7 +1,7 @@
 ---
 type: claude-code-session
 session_id: b35eaddb-0f66-4e20-b333-cda7dd4dbef4
-project: Clio/worktree
+project: "Clio/worktree"
 date: 2026-05-01
 duration_minutes: 82
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-flamboyant-cerf-a5ce6e/b35eaddb-0f66-4e20-b333-cda7dd4dbef4.jsonl

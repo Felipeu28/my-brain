@@ -1,7 +1,7 @@
 ---
 type: claude-code-session
 session_id: 45613f41-bc30-423b-b935-796856c6e51d
-project: Brain/KB/worktree
+project: "Brain/KB/worktree"
 date: 2026-05-03
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base--claude-worktrees-objective-lumiere-3b25d8/45613f41-bc30-423b-b935-796856c6e51d.jsonl

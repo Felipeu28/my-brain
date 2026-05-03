@@ -1,7 +1,7 @@
 ---
 type: claude-code-session
 session_id: 6c4101e6-5446-4055-92ce-00bb0eabf7f1
-project: Clio/worktree
+project: "Clio/worktree"
 date: 2026-04-28
 duration_minutes: 2519
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-busy-lumiere-b6ec37/6c4101e6-5446-4055-92ce-00bb0eabf7f1.jsonl

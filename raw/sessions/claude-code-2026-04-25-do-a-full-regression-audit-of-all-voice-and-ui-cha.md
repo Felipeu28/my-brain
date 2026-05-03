@@ -1,7 +1,7 @@
 ---
 type: claude-code-session
 session_id: b263401a-8c20-4ad5-a633-d9c15ea1f7b0
-project: Clio/worktree
+project: "Clio/worktree"
 date: 2026-04-25
 duration_minutes: 5823
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-compassionate-sutherland-b231a2/b263401a-8c20-4ad5-a633-d9c15ea1f7b0.jsonl

@@ -1,7 +1,7 @@
 ---
 type: claude-code-session
 session_id: e7c8fcb5-dc26-4812-80a3-2b1d0b557554
-project: Brain/Automations
+project: "Brain/Automations"
 date: 2026-04-30
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-pi-workspace/e7c8fcb5-dc26-4812-80a3-2b1d0b557554.jsonl

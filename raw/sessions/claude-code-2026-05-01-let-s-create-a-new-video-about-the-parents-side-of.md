@@ -1,7 +1,7 @@
 ---
 type: claude-code-session
 session_id: 5a69d47a-17a5-4f3a-8ca6-50d0a0f28629
-project: Clio
+project: "Clio"
 date: 2026-05-01
 duration_minutes: 551
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain/5a69d47a-17a5-4f3a-8ca6-50d0a0f28629.jsonl

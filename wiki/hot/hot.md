@@ -33,6 +33,8 @@ Updated automatically by:
 ## Recent Queries
 
 <!-- ENTRIES:query -->
+- 2026-05-03 09:18 — Session end: [Brain/KB] URGENT — full diagnosis needed. The "Deploy Quartz site to GitHub Pages" workflo… — 1 edits · 2 commits
+- 2026-05-03 09:13 — Session end: [Brain/KB] URGENT — full diagnosis needed. The "Deploy Quartz site to GitHub Pages" workflo… — 1 edits · 2 commits
 - 2026-05-03 06:00 — Session end: [Claude] You are the Moil Brain's daily cross-source intelligence analyst.  You are readi… — 9 events
 - 2026-05-02 21:38 — Session end: [Brain/KB] Base directory for this skill: /Users/jarvisurrego/.claude/skills/setup-browser-… — 1 edits
 - 2026-05-02 21:36 — Session end: [Brain/KB] Base directory for this skill: /Users/jarvisurrego/.claude/skills/setup-browser-… — 1 edits
@@ -51,8 +53,6 @@ Updated automatically by:
 - 2026-05-02 06:00 — Session end: [Claude] You are the Moil Brain's daily cross-source intelligence analyst.  You are readi… — 8 events
 - 2026-05-01 19:31 — Session end: [Brain/Auto] You are Andres Urrego's editor. Every evening you distill his X bookmarks from t… — 1 new files
 - 2026-05-01 18:31 — Session end: [Brain/Auto] Read these two JSON files of today's email activity and create a structured Brai… — 1 new files
-- 2026-05-01 18:17 — Session end: [Brain/KB] Check for any new files in raw/ and raw/onedrive-transcripts/ that haven't been … — 49 events
-- 2026-05-01 18:15 — Session end: [Brain/Auto] Pull today's Microsoft Teams meeting transcripts and add them to the Brain.  1. … — 24 events
 <!-- /ENTRIES:query -->
 
 ## Recent Saves

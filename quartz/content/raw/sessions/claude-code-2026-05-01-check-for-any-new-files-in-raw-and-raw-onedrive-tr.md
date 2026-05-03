@@ -1,7 +1,7 @@
 ---
 type: claude-code-session
 session_id: 8d869ffb-7dda-40ac-89e5-fc599b043d8a
-project: Brain/KB
+project: "Brain/KB"
 date: 2026-05-01
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base/8d869ffb-7dda-40ac-89e5-fc599b043d8a.jsonl

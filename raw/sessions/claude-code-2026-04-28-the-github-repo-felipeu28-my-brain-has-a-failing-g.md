@@ -1,7 +1,7 @@
 ---
 type: claude-code-session
 session_id: 272f8ddb-1851-4087-a8c4-0721cd76c1fe
-project: Brain/KB/worktree
+project: "Brain/KB/worktree"
 date: 2026-04-28
 duration_minutes: 2797
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base--claude-worktrees-nostalgic-wozniak-e95f83/272f8ddb-1851-4087-a8c4-0721cd76c1fe.jsonl

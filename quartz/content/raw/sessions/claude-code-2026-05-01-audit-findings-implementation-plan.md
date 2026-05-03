@@ -1,7 +1,7 @@
 ---
 type: claude-code-session
 session_id: 0a11c720-cca2-4f10-8634-c683461de7b5
-project: Clio/worktree
+project: "Clio/worktree"
 date: 2026-05-01
 duration_minutes: 61
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-optimistic-hawking-72add1/0a11c720-cca2-4f10-8634-c683461de7b5.jsonl
