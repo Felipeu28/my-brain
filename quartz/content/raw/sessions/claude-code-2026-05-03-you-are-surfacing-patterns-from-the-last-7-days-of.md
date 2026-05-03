@@ -5,6 +5,8 @@ project: "Brain/KB/worktree"
 date: 2026-05-03
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base--claude-worktrees-objective-lumiere-3b25d8/45613f41-bc30-423b-b935-796856c6e51d.jsonl
+ingested: true
+ingested_at: 2026-05-03
 ---
 # Claude Code Session — You are surfacing patterns from the last 7 days of Andres's working life — code,
 
