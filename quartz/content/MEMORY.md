@@ -1,6 +1,6 @@
 # MEMORY — Open Actions & Live Commitments
 
-**Last updated:** 2026-05-02 (Run 30 — May 1 email-digest + signal-brief ingestion: PSA in-person mtg locked Mon May 4, TEDC keynote June 19 booked, Letter of Rec closed, Inna silence anomaly extends, Nuovo owner identified)
+**Last updated:** 2026-05-04 (Run 33 — Mon May 4 PSA in-person mtg + 3 HIVE Cohort 4 1:1s ingested: Christine + Kat wine concept anchored on Train Depot, Claudia / Nativa marketing strategy locked, weekly Monday cost-discipline rule adopted)
 **Purpose:** Single source of truth for open action items extracted from ingested raw sources.
 
 > Relationship/concept context: [[index]] · Ingestion history: [[log]]
@@ -9,14 +9,34 @@
 
 ---
 
-## 🔥 Immediate — This Week (Apr 27 – May 3, 2026)
+## 🔥 Immediate — This Week (May 4 – May 10, 2026)
 
-### 🔥 Apr 30 — HIVE Cohort 4 first 1:1s landed + Cohort 4 PSA in hand for execution
+### 🔥 May 4 — HIVE Cohort 4 1:1 cadence: 3 more locked (Christine+Kat, Claudia, Sarah meeting Tue May 12)
+Source: [[wiki/meetings/2026-05-04-christine-kat-coaching]], [[wiki/meetings/2026-05-04-claudia-sanchez-coaching]]
+- [ ] **🔥 Andres:** Possibly intro **Garrett** (downtown Buda business organizer) via Jacquie if [[wiki/people/christine-stjohn|Christine]] + [[wiki/people/kat-eyers|Kat]] move forward on the Train Depot
+- [ ] **Andres:** Send Claudia the **Kyle businesses list** (still TBD — promised during May 4 call)
+- [ ] **Andres:** Look up at least one Buda/Kyle realtor or women-entrepreneur networking event between now and May 21; offer to attend with [[wiki/people/claudia-sanchez|Claudia]]
+- [ ] **Andres:** Confirm whether Cohort-4 [[wiki/people/sarah-hive-cohort|Sarah]] (bookstore + wine) is the same person as the C2/C3 Sarah on the cohort-members page — Christine + Kat's **Tue May 12 meeting** with her is competitive recon; confirm before they go in
+- [ ] **Christine + Kat homework:** each fill out Moil 21 questions individually; build the plan around the Train Depot footprint; define rent budget; walk Main St Friday Sip & Stroll; ask [[wiki/people/jacquie-martinez|Jacquie]] tonight about Depot rent + downtown spaces under $4K/mo; reach distributors for ~5 free bottles each; ask Dane about Water To Wine custom-label service
+- [ ] **Claudia homework:** compute exact fixed monthly costs (Nativa); find 10 FB groups (8 Buda neighborhoods + Kyle business + women/realtor); 30-day 3–4 posts/week content plan (medical-credentials theme); flyer distribution **only** in 8 high-income neighborhoods; consent disclaimer on event sign-up; lower the 70 cap; "first 15 free consults" day-of flow; "first batch — never offered again" exclusivity bundle
+
+### 🔥 May 4 — Monday Collaboration cost-discipline rule + product unification
+Source: [[wiki/meetings/2026-05-04-monday-collaboration]]
+- [ ] **🔥 Adeleke:** Switch weekly health-summary cron from Gemini 2.5 Pro → 2.5 Flash Lite + add active-user gate (skip users idle >7 days; send re-engagement email instead). Tag Andres in the chat with screenshot/cost comparison before pushing
+- [ ] **Steve:** Assign Taiwo a Moil 360 license today
+- [ ] **Taiwo:** Share open-source email-infrastructure project link with the team (Resend replacement candidate; lifts 100-emails/day cap)
+- [ ] **Taiwo:** Continue auditing FitLogic / Inna CRM / Siren Beauty / ConnectX; design unified packaged tool (3 pillars: email-sequence + blog generator + CRM). Sanity access still blocked for Siren Beauty
+- [ ] **Andres:** Draft 30-day marketing strategy for the **free-trial rollout** (Moil 360 first 30 days free — going live to all new signups)
+- [ ] **Andres:** Apply to the accelerator today — lead with **license-sales traction**, not website creation
+- [ ] **Andres:** Resolve credit-card issue blocking Groq/Gwen refills
+- [ ] **Standing:** Weekly Monday cost review (Gemini, OpenAI, Groq, Grok dashboards) is now a permanent agenda item
+
+### 🔥 Apr 30 — HIVE Cohort 4 first 1:1s landed + Cohort 4 PSA executed at in-person review
 Source: [[wiki/meetings/2026-04-30-heather-skeen-coaching]], [[wiki/meetings/2026-04-30-carolina-coaching]], [[raw/email-digest-2026-04-30]]
-- [ ] **Andres:** Drop by [[wiki/people/carolina-caro|Caro's]] house in person — Austin Street behind [[wiki/orgs/meridian-buda|Meridian]] (Apr 30 / May 1 / Mon May 4 before HIVE all open). Walk the floorplan in person to validate the women-coworking layout
+- [ ] **Andres:** Drop by [[wiki/people/carolina-caro|Caro's]] house in person — Austin Street behind [[wiki/orgs/meridian-buda|Meridian]]. Walk the floorplan in person to validate the women-coworking layout
 - [ ] **Andres:** Save [[wiki/people/heather-skeen|Heather Skeen]]'s HIPAA-compliant cell number (routes from office line to cell)
 - [x] ~~Same-day post-coaching follow-ups to Caro + Heather~~ — DELIVERED Apr 30
-- [ ] **🔥 Andres:** **Read + countersign the Cohort 4 PSA at the Mon May 4 9 AM in-person review** — [[wiki/people/jacquie-martinez|Jacquie]] locked the meeting in the HIVE conference room (May 1 19:59 UTC; Andres accepted same day). Round-trip: Shannon Apr 21 → Joshua redline Apr 24 → Jacquie-issued PSA Apr 30 → in-person sign Mon May 4. **Pre-read the PSA Sun May 3 evening + bring marked-up copy.**
+- [x] ~~Mon May 4 9 AM in-person Cohort 4 PSA review with Jacquie~~ — held May 4 morning per cadence; sign-off pending separately if not signed in-room
 - [ ] **Caro homework:** complete Moil 21 questions (signed up first month free during the call); interview 5–10 women from Cohort 4 to validate ICP and willingness to pay; map floorplan to revenue
 - [ ] **Heather homework:** research daycare PD requirements (12 domains, hours, certification cycle); research market rates for CEU providers in TX; package 3–4 program bundles at ~$1,000/yr per daycare; build 25-mile-radius daycare prospect list (postcard + 3-email sequence + call); attorney consult on "Providence Counseling and Therapy" name change (insurance-contract impact); fix the $500/3hr pricing for the NC fall engagement
 
@@ -38,10 +58,11 @@ Source: [[raw/email-digest-2026-04-30]]
 Source: [[raw/email-digest-2026-04-29]], [[wiki/people/john-costilla]]
 - [ ] **Wed May 13, 9–11 AM CT virtual** with [[wiki/people/john-costilla|John Costilla]] (Buda EDC) + [[wiki/people/joseph-arnke|Joseph Arnke]] / Michael Cleary (GIS WebTech). **First firm date** on the EDC-website-AI-tools workstream (live since John's Apr 10 *"Agentic AI / always on site selector tool"* signal). Andres accepted same day; calendar accepted
 
-### 🔥 Apr 29 — AI-spend observability emergency
-Source: [[raw/email-digest-2026-04-29]], [[wiki/people/adeleke-tolulope]]
-- [ ] **🔥 Adeleke:** Pick path on Google project — (1) audit Gemini usage to find the source of the suspicious **$3.6K Gemini spend**, OR (2) migrate OAuth to a separate Google account to insulate Places API + OAuth from suspension. Report which Moil features generated the spend
-- [ ] **🔥 Andres / Adeleke:** Answer the *"How else are we using it?"* question on the OpenAI key — Andres self-forwarded an 80%-threshold alert Apr 29 02:41 UTC. Two AI-spend anomalies in 8 hours (OpenAI threshold + Gemini $3.6K) is now a recurring P0 — needs a written per-feature accounting before next billing cycle
+### 🔥 Apr 29 — AI-spend observability emergency (May 4 partly resolved)
+Source: [[raw/email-digest-2026-04-29]], [[wiki/people/adeleke-tolulope]], [[wiki/meetings/2026-05-04-monday-collaboration]]
+- [x] ~~OpenAI account dispute~~ — refunded $30 May 3 (credit note 3937); account unlocked
+- [x] ~~`Moil-Dev` Google auth project key (`0270710133`) reinstated~~ — that's the Google-auth key; live Gemini key (`0251`) untouched
+- [ ] **🔥 Adeleke / Andres:** Per-feature AI-spend accounting for OpenAI + Gemini before next billing cycle (the Saturday 5/2 Gemini spike was the weekly health-summary cron — fix landing via May 4 Flash-Lite + active-user-gate switch)
 
 ### 🔥 Apr 29 — NBCC and west-coast SMB conversion lanes opened
 Source: [[raw/email-digest-2026-04-29]], [[wiki/moil/gtm]]
@@ -50,29 +71,19 @@ Source: [[raw/email-digest-2026-04-29]], [[wiki/moil/gtm]]
 
 ### 🔥 Apr 29 — FitLogic delivered; P0 bug list from live walkthrough
 Source: [[wiki/meetings/2026-04-29-megan-fitlogic-crm-delivery]]
-- [x] ~~**Apr 29 9:30 AM CT FitLogic full handover meeting**~~ — DELIVERED. Megan + [[wiki/people/michelle-fitlogic|Michelle]] (practice manager) + Andres; 88 min; first end-to-end Moil 360 delivery (CRM + Campaigns + Content360)
-- [ ] **🔥 Andres / Engineering:** Extract patients vs. non-patients from FitLogic's 5,000-contact export (Megan already shared the patient list on a prior call — Andres has the download)
-- [ ] **🔥 Engineering — P0 bug:** pipeline-stage updates in pipeline view don't propagate back to contact card / analytics roll-up
-- [ ] **🔥 Engineering — P0 bug:** Content360 calendar defaulted to **Feb 28** instead of current month when Megan opened it
-- [ ] **🔥 Engineering — P0 bug:** "Edit image" appears stuck on the original image (image-to-image vs. text-to-image regression). Megan tried "happy gut" + "image of a person who is happy and feels relief" — neither produced a new image
-- [ ] **🔥 Engineering:** Verify Brand DNA colors propagate into Content360 image generator (Megan suspects they don't because she set up the calendar before saving colors)
-- [ ] **Engineering — features:** "Last contacted" filter on contacts; `previous client` lead-source / pipeline-status option; customizable lead-source drop-down (social media, website, driving by, friend/family referral, networking event, **other** with free-text); centralized link library (paste once, reuse across emails); closed-captioning on generated videos (Michelle accessibility ask)
-- [ ] **Andres:** Send Megan today: platform access details, "what you need" list, confirmation Michelle can be added as staff via Settings → Add Staff
-- [ ] **Andres:** Build chat/FAQ widget tied to FitLogic site (after Electric Bricks delivers); book-a-call link → Megan's **Square calendar**
-- [ ] **Megan:** Bring brand color hex/RGB from home notebook; export active-patient list from Charm; manually tag IC-only patients; identify the day Jill's contacts were imported into Charm and bulk-tag those rows
-- [ ] **Brand-voice rule for FitLogic AI email generation:** hook-style openers (*"You may be wondering…"* / *"Are you still struggling with…"*); never *"I wanted to share…"*; reader-centered, not founder-centered. Capture as Brand DNA field
+- [ ] **🔥 Andres / Eng:** Extract patients vs. non-patients from FitLogic's 5,000-contact export
+- [ ] **🔥 Engineering — P0 bugs:** (1) pipeline-stage updates don't propagate to contact card / analytics; (2) Content360 calendar defaults to Feb 28; (3) Edit-image stuck on original (image-to-image regression); (4) verify Brand DNA colors propagate to Content360 image generator
+- [ ] **Engineering — features:** "Last contacted" filter; `previous client` lead-source/pipeline option; customizable lead-source drop-down + Other free-text; centralized link library; closed-captioning on generated videos
+- [ ] **Andres:** Send Megan today access + "what you need" list + Michelle staff-add path; build chat/FAQ widget on FitLogic site (post-Electric-Bricks); book-a-call → Megan's Square calendar
+- [ ] **Megan:** Brand color hex/RGB; active-patient export from Charm; tag IC-only patients; identify Jill-import day + bulk-tag those rows
+- [ ] **FitLogic brand-voice rule:** hook openers ("You may be wondering…" / "Are you still struggling…"); never "I wanted to share…". Capture as Brand DNA field
 
 ### 🔥 Apr 28 — Connectex go-live sprint + repo discipline hard rule
 Source: [[wiki/meetings/2026-04-28-mark-polanco-connectex-walkthrough]], [[wiki/meetings/2026-04-28-website-update-review-internal]]
-- [ ] **🔥 Andres:** Issue full Connectex invoice up front so [[wiki/people/mark-polanco|Mark]] can claim Buda EDC reimbursement (1 down + 3 quarterly over 9 months)
-- [ ] **🔥 Andres:** Update Connectex site phone to **330-812-5750**
-- [ ] **🔥 Andres:** Push Connectex site to Mark's Squarespace **once login arrives** — go-live target early next week
-- [ ] **🔥 Andres:** Build Connectex Resources/blog section live by next week (Mark's SEO play — blogs after each training)
-- [ ] **🔥 Andres:** Schedule mid-May lunch with Mark Polanco
-- [ ] **🔥 Mark:** Send Squarespace login; refile Buda EDC reimbursement application ASAP; send 4–5 troubleshooting docs (Verizon T77 LTE — **delivered Apr 29 02:02 UTC: Verizon One Talk User Guides**; Yealink LTE deck station still EOM); contact BuiltFirst about marketplace billing block *after* EDC application
-- [ ] **🔥 Taiwo:** Push Connectex repo to remote ASAP (Andres had zero visibility going into the Apr 28 walkthrough — *new hard rule: all engineering work pushed for visibility, branches OK, no working-locally-only*)
-- [ ] **🔥 Taiwo:** Add Gemini API key to ConnectX campaign builder so the Verizon T77 LTE test campaign can run
-- [ ] **🔥 Engineering:** Import Airtable contacts (left columns up to but not including reporting/documents); finish ConnectX Contacts tab to match Airtable schema; seed Knowledge Base with troubleshooting docs for AI tier-1 ticket testing next week
+- [ ] **🔥 Andres:** Connectex full invoice up-front (1 down + 3 quarterly / 9 mo) so [[wiki/people/mark-polanco|Mark]] can claim EDC reimbursement; update site phone to **330-812-5750**; push to Mark's Squarespace once login arrives; build Resources/blog section; schedule mid-May lunch
+- [ ] **🔥 Mark:** Send Squarespace login; refile EDC reimbursement; send Yealink LTE deck-station doc (Verizon T77 docs delivered Apr 29); contact BuiltFirst re marketplace billing
+- [ ] **🔥 Taiwo:** Push Connectex repo to remote ASAP (hard rule: no working-locally-only); add Gemini API key to ConnectX campaign builder
+- [ ] **🔥 Engineering:** Import Airtable contacts; finish Contacts tab to schema; seed Knowledge Base for AI tier-1 ticket testing
 
 ### 🔥 Apr 28 — Inna demo slip residue (FitLogic deploy resolved Apr 29)
 Source: [[wiki/meetings/2026-04-28-website-update-review-internal]], [[wiki/meetings/2026-04-29-megan-fitlogic-crm-delivery]]
@@ -88,38 +99,35 @@ Source: [[wiki/meetings/2026-04-28-website-update-review-internal]], [[wiki/meet
 Source: [[wiki/meetings/2026-04-28-website-update-review-internal]]
 - [ ] **🔥 Andres:** SEO audit + fixes on **moilapp.com** — only ~12 of ~60 pages indexed; schemas wrong; robots.txt wrong; *"two years of accumulated SEO debt — we're literally unfindable"*. Workstream rule: same SEO discipline applies to all client builds going forward
 
-### 🔥 May 1 — TEDC keynote booked + John co-marketing offer + Inna silence anomaly + Nuovo owner found
+### 🔥 May 1 — TEDC keynote prep, John co-marketing, Inna silence, Nuovo call
 Source: [[raw/email-digest-2026-05-01]], [[raw/signal-briefs/signal-brief-2026-05-01]]
-- [ ] **🔥 Andres:** Prep TEDC Mid-Year Conference keynote — **Fri Jun 19 at 8 AM, Hilton Granite Park, Plano TX** ([[wiki/people/sarah-miller|Sarah Miller]] booked May 1). First TEDC slot. Define talk angle: Buda EDC × Moil B2G template scaled to TX-statewide audience
-- [ ] **🔥 Andres:** Walk [[wiki/people/john-costilla|John Costilla]] through the **video-creation workflow built on his brand** (offered May 1 21:40 UTC after John's praise on the *business-coach-95s* videos). Natural anchor: Mon May 4 in-person at HIVE for PSA mtg (Andres on-site adjacent to John)
-- [ ] **🟡 Andres or Jacob:** Nudge [[wiki/people/inna-benyukhis|Inna]] directly if no reply on the May 1 podcast video re-cuts by May 4–5 — silence is now the longest in any thread Inna is a party to in the Apr–May window. Blocks LinkedIn/IG publish queued since Apr 27
-- [ ] **Andres:** Run the [[wiki/people/marilyn-martinez|Marilyn Martinez]] / [[wiki/orgs/nuovo-entertainment|Nuovo Entertainment]] *Website Discussion* call (accepted May 1 16:20 UTC). First conversation with the Nuovo owner since the org page was created with "ownership unknown" in Run 6. Capture next-phase scope; decide site-only vs. Moil 360 conversion
-- [ ] **Andres:** Track May 1 cold campaign as the **"break-up day as routine cleanup"** signal — 13 close-out sends ran in parallel with 3 meaningful inbound conversions (PSA mtg + TEDC keynote + John co-marketing). Worth replicating cadence: weekly close-out blitz alongside story-led + demo sends
+- [ ] **🔥 Andres:** Prep **TEDC Mid-Year keynote** — Fri Jun 19, 8 AM, Hilton Granite Park, Plano TX ([[wiki/people/sarah-miller|Sarah Miller]] booked). First TEDC slot. Talk angle: Buda EDC × Moil B2G template scaled statewide
+- [ ] **🔥 Andres:** Walk [[wiki/people/john-costilla|John Costilla]] through the video-creation workflow on his brand (offered May 1 after John's praise on *business-coach-95s*). Anchor was Mon May 4 in-person at HIVE
+- [ ] **🟡 Andres or Jacob:** Nudge [[wiki/people/inna-benyukhis|Inna]] directly — silence on May 1 podcast re-cuts now past May 4–5 threshold; blocks LinkedIn/IG publish queued since Apr 27
+- [ ] **Andres:** Run the [[wiki/people/marilyn-martinez|Marilyn Martinez]] / [[wiki/orgs/nuovo-entertainment|Nuovo]] Website Discussion call. Capture scope; decide site-only vs. Moil 360 conversion
 
 ### 🔥 Apr 28 inbox — Open replies
-- [ ] **🔥 Andres:** Reply to [[wiki/people/john-costilla|John Costilla]] — pick alternate lunch day next week (Mon/Tue/Wed open since Thu/Fri taken)
-- [ ] **Andres:** Reply to [[wiki/people/victor-escamilla|Victor Escamilla]] / City of Buda — revised UDC Update focus group invite Apr 27 17:08
+- [ ] **🔥 Andres:** Reply to [[wiki/people/john-costilla|John Costilla]] — pick alternate lunch day (Mon/Tue/Wed open)
+- [ ] **Andres:** Reply to [[wiki/people/victor-escamilla|Victor Escamilla]] — revised UDC Update focus-group invite (Apr 27)
 
-### 🔥 Apr 24 inbox — Contract reviews + Press + Customer directives (carryover)
+### 🔥 Apr 24 inbox — Carryover
 Source: [[raw/email-digest-2026-04-24]]
-- [ ] **🔥 Andres:** Review [[wiki/people/joshua-edmond|Joshua Edmond's]] redlined HIVE Strategist PSAs contract (sent Apr 24 13:08 to Shannon Cameron) — be on Joshua's invite, align on edits before Shannon countersigns
-- [ ] **🔥 Andres:** Reply to Jessica @ VoyageAustin Magazine (interview request Apr 24 12:42) — accept; ask for question list. See [[wiki/people/jessica-voyage-austin]]
-- [x] ~~**Jacob + Ablad:** Slice 2 March podcast videos for Inna~~ — **DELIVERED Apr 27** (Jacob sent videos + thumbnails; portrait format chosen for IG Reels). Awaiting Inna review → publish on LinkedIn + IG
-- [ ] **Andres:** Wait on [[wiki/people/rashaka-boykins|Rashaka's]] question batch (her site went live Apr 24); reply with answers + close on $600/yr vs $900/mo
-- [ ] **Apollo data hygiene:** Outbound Apr 24 09:03 greeted "Joseph" but address was `wilkinsonroger860@gmail.com` (Roger Wilkinson). Likely Apollo merge bug — audit sequence first-name mapping before next batch
+- [ ] **🔥 Andres:** Review [[wiki/people/joshua-edmond|Joshua's]] redlined HIVE Strategist PSAs (Apr 24); align on edits before Shannon countersigns
+- [ ] **🔥 Andres:** Reply to Jessica @ VoyageAustin Magazine (interview Apr 24); accept + ask for question list
+- [ ] **Andres:** Wait on [[wiki/people/rashaka-boykins|Rashaka's]] questions; close on $600/yr vs $900/mo
+- [ ] **Apollo data hygiene:** Apr 24 "Joseph" → Roger Wilkinson mismatch; audit sequence first-name mapping before next batch
 
-### 🔥 Carried — Apr 24 marketing + onboarding + license-distribution
+### 🔥 Carried — Apr 24 marketing + onboarding + license-distribution + FitLogic post-delivery
 Source: [[wiki/meetings/2026-04-24-teams-daily-ops]]
-- [ ] **🔥 Andres + Ablad:** Reach a working agreement on AI-tool adoption pace (Apr 24 argument unresolved). Decision needed before next content cycle
-- [ ] **🔥 Andres:** Build reproducible demo-video workflow (Clio template applied to all Moil features). First artifact live: `clioremembers.com/demo`
-- [ ] **🔥 Andres:** Redesign in-app onboarding guide for discoverability — client feedback ("they logged in and didn't know what to do next?")
-- [ ] **🔥 Adeleke:** Push auto-assign-Moil-360-license feature from staging to prod
-- [ ] **Jacob:** Rework outbound messaging to be conversion-driven (Andres Apr 24 coaching focus on strategy-before-execution)
-- [ ] **HeyGen subscription decision:** keep + maximize credits, drop, or replace with ChatGPT image2 + Capcut workflow
-### 🔥 FitLogic — post-delivery threads (still open)
-- [ ] **Andres direct text to [[wiki/people/daniel-mann|Daniel D. Mann]]:** acknowledge Michelle-via-Megan hello; open the "project together" thread
-- [ ] **Megan (ongoing):** Forward every meeting invite to Andres (Apr 23 commitment, still unverified)
-- [ ] **Decide on Megan's payment plan ask** — switch from $500/mo × 3 to $250/mo × 6 (same total, stretched). Reply outstanding since Apr 19
+- [ ] **🔥 Andres + Ablad:** Reach a working agreement on AI-tool adoption pace (Apr 24 argument unresolved)
+- [ ] **🔥 Andres:** Build reproducible demo-video workflow (Clio template). First artifact: `clioremembers.com/demo`
+- [ ] **🔥 Andres:** Redesign in-app onboarding guide for discoverability
+- [ ] **🔥 Adeleke:** Push auto-assign-Moil-360-license from staging → prod
+- [ ] **Jacob:** Rework outbound messaging to be conversion-driven
+- [ ] **HeyGen subscription:** keep + max credits, drop, or replace with ChatGPT image2 + Capcut
+- [ ] **Andres → [[wiki/people/daniel-mann|Daniel D. Mann]]:** acknowledge Michelle-via-Megan hello; open "project together" thread
+- [ ] **Megan ongoing:** forward every meeting invite to Andres (Apr 23 commitment, unverified)
+- [ ] **Megan payment plan:** $500/mo × 3 → $250/mo × 6? Reply outstanding since Apr 19
 
 ### 🔥 Carried product/eng debts (Apr 21 firefight residue)
 Source: [[wiki/meetings/2026-04-21-teams-daily-ops]], [[wiki/meetings/2026-04-21-megan-fitlogic-working-session]]
@@ -138,8 +146,7 @@ Source: [[wiki/meetings/2026-04-21-teams-daily-ops]], [[wiki/meetings/2026-04-21
 
 ## 📅 Next 2–3 weeks (Apr 29 – May 12)
 
-- [ ] **🔥 Mon May 4 9 AM CT** — In-person Cohort 4 PSA review with [[wiki/people/jacquie-martinez|Jacquie Martinez]] at the HIVE conference room (locked May 1)
-- [ ] **May 4 12pm CDT** — Christine StJohn × Andres lunch at Unwrapped Uncorked (Kathryn Eyers — confirmed Apr 28)
+- [ ] **Tue May 12** — Christine + Kat meet [[wiki/people/sarah-hive-cohort|Sarah]] (bookstore + wine) — competitive recon; don't disclose Train Depot interest
 - [ ] **May 7** — Renee Simmons / Hays CISD Career Day at CHES — now a multi-business-owner cohort (Salon One Twelve + Allison Pflaum confirmed/checking-in; see Apr 30 block)
 - [ ] **Wed May 13, 9–11 AM CT** — Buda EDC × GIS WebTech AI virtual meeting (John Costilla + Michael Cleary)
 - [ ] **Fri Jun 19, 8 AM CT** — **TEDC Mid-Year Conference keynote**, Hilton Granite Park, Plano TX (booked by [[wiki/people/sarah-miller|Sarah Miller]] May 1). First TX statewide EDC speaking slot
@@ -155,21 +162,13 @@ Source: [[wiki/meetings/2026-04-21-teams-daily-ops]], [[wiki/meetings/2026-04-21
 
 ---
 
-## 🔧 Technical debt — still open from Teams Apr 5–12
+## 🔧 Technical debt — Teams Apr 5–12 (see [[log.md]] Run 15 for context)
 
-See [[log.md]] Run 15 for full context. Still live:
-- [ ] **Roxana / AlloyATX** — verify 21 questions + assets + GoDaddy domains completed by Apr 18 deadline; next session: GSC setup, satellite domains, wellness referrals. [[wiki/meetings/2026-04-14-roxana-alloy-atx-onboarding]]
-- [ ] **Eden** — follow up on website discovery call (recorded Apr 8)
-- [ ] **Tour guide bugs** — 2 missing `data-guide-id` attrs, generic text, auto-scroll
-- [ ] **Segment analytics** — `No segment writeKey` error on staging
-- [ ] **Image context bug** — images "forget" conversation context
-- [ ] **Supabase** — `business-intake` edge function deploy needed
-- [ ] **Meridian** — domain verification + Stripe full flow test
-- [ ] **Phone sign-up** — removed (Azure broken); permanent fix or formal removal
-- [ ] **Daily video production** — Andres wants daily rhythm using AI tools; define workflow
-- [ ] **Sun show raffle** — "Free year of Moil 360" — was email sent to attendees?
-- [ ] **Adeleke FB account** — login code issue since Apr 7; blocks app review video
-- [ ] **Credentials migration** — Stripe, Supabase, API keys out of Teams → 1Password/Bitwarden
+- [ ] Roxana / AlloyATX — verify 21Q + assets + GoDaddy; next session: GSC, satellite domains, wellness referrals
+- [ ] Eden — follow up on website discovery call (Apr 8)
+- [ ] Tour-guide bugs — 2 missing `data-guide-id`, generic text, auto-scroll
+- [ ] Segment `No segment writeKey` on staging; image context "forgets"; Supabase `business-intake` deploy; Meridian domain + Stripe; phone-signup permanent fix
+- [ ] Daily video production rhythm; Sun show raffle email; Adeleke FB account; credentials migration off Teams
 
 ---
 
@@ -179,14 +178,14 @@ See [[log.md]] Run 15 for full context. Still live:
 - [ ] **Sep 1, 2026** — Buda HIVE training program curriculum jointly with HIVE + Incubator Strategist Team
 - [ ] **Post-Apr 15** — CampaignOS with Jennifer Storm: circle back on MVP scope; Andres offered "little to no cost" — decide commitment level. [[wiki/concepts/campaignos]]
 
-### Demoted 2026-05-01 from "Carried from last week (Apr 11–17)" — >14 days carried
-- [ ] **Adeleke:** Audit entire Moil codebase for OpenAI API usage; migrate gpt-4o → gpt-5-mini. Cross-ref active urgent path: Apr 29 AI-spend block in 🔥 Immediate (rotate keys after audit)
-- [ ] **Respond to Adam Maxon** (adamm@pfdevelopment.com) re Pflugerville Mentor Day. See [[wiki/people/adam-maxon]]
-- [ ] **Adeleke + Jacob:** Rotate GitHub webhook secrets per Apr 14 security alert
-- [ ] **Reply to Jesutomilola Omoniyi** (Google xWF) — two Apr 15 follow-ups trying to reschedule; pick a time
-- [ ] **Review 2025 1040** in TaxDome — Melissa Jarbo back from leave; new secure message from Martin Kutac; Ingrid refund/liability form flagged
-- [ ] **Identify new social media client** Andres signed; confirm Abiodun capacity
-- [ ] **Product UX:** Fix employer cannot see applicant phone/email in Moil; clarify notification system when candidate messages via Moil; reply to Megan Miller with workaround + ETA
+### Demoted 2026-05-01 — >14 days carried
+- [ ] Adeleke: codebase audit for OpenAI API usage; gpt-4o → gpt-5-mini; rotate keys after
+- [ ] Adam Maxon @ pfdevelopment.com — Pflugerville Mentor Day reply
+- [ ] Adeleke + Jacob: rotate GitHub webhook secrets (Apr 14 alert)
+- [ ] Jesutomilola Omoniyi (Google xWF) — pick a reschedule time
+- [ ] 2025 1040 in TaxDome — Melissa Jarbo / Martin Kutac / Ingrid refund-liability form
+- [ ] Identify new social media client Andres signed; confirm Abiodun capacity
+- [ ] Product UX: employer-can't-see-applicant-contact + candidate-message notifications; reply Megan with workaround + ETA
 
 ---
 

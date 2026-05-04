@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-30
+last_contact: 2026-05-04
 tags:
   - graph/hub
   - person/customer
@@ -8,8 +8,8 @@ tags:
 # HIVE Cohort Members (Buda EDC)
 
 **Type:** group reference
-**Last updated:** 2026-04-30
-**Source:** OneDrive Recordings, [[raw/hive-cohort-onboarding-session-feb13-2026]], [[wiki/orgs/buda-edc]], [[raw/teams-transcript-carolina-2026-04-30]], [[raw/teams-transcript-heather-skeen-2026-04-30]]
+**Last updated:** 2026-05-04
+**Source:** OneDrive Recordings, [[raw/hive-cohort-onboarding-session-feb13-2026]], [[wiki/orgs/buda-edc]], [[raw/teams-transcript-carolina-2026-04-30]], [[raw/teams-transcript-heather-skeen-2026-04-30]], [[raw/teams-transcript-claudia-andrés-2026-05-04]], [[raw/teams-transcript-christine-andres-2026-05-04]]
 **Related:** [[wiki/concepts/hive-program]], [[wiki/orgs/buda-edc]], [[wiki/moil/customers]]
 
 ---
@@ -62,11 +62,13 @@ Liz and Miguel (both Buda residents) attended the "Life After the Cohort" onboar
 |---|---|---|
 | 2026-04-30 11 AM CT | [[wiki/people/heather-skeen|Heather Skeen]] / [[wiki/orgs/providence-behavior-therapy|Providence Behavior Therapy]] | Daycare PD wedge locked; rebrand candidate ("Providence Counseling and Therapy") under attorney consult; price-leak fix on $500/3hr |
 | 2026-04-30 12 PM CT | [[wiki/people/carolina-caro|Carolina ("Caro")]] | Pivot to women-focused coworking ("woman cave") in her Austin Street house behind Meridian; signed up for Moil first month free |
+| 2026-05-04 11 AM CT | [[wiki/people/claudia-sanchez|Claudia Sanchez]] / [[wiki/orgs/nativa-medspa|Nativa Med Spa]] | May 21 Hispanic-Chamber ribbon-cutting strategy; medical-credentials differentiation; Buda Chamber membership deferred; ICP = $120K+ households (Ruby Ranch / Elliot Ranch) + realtors/women business-owners |
+| 2026-05-04 12 PM CT | [[wiki/people/christine-stjohn|Christine St John]] + [[wiki/people/kat-eyers|Kat Eyers]] (joint) — wine concept | Anchored entire plan on the **Buda EDC Train Depot** (≈300 sq ft + outdoor patio); skip Roundabout; differentiation = experience + custom-label community wines + Buda wine-tour book; 21-Q homework due individually; **Sarah meeting Tue May 12** as competitive recon |
 
 ## Open Questions
 
 - Laura's last name and business
-- Sarah's last name and business
+- [[wiki/people/sarah-hive-cohort|Sarah]] (C2/C3) — last name may be the **same Sarah** floated for the EDC Roundabout bookstore-with-wine concept (Andres said *"talked Sarah out of it"* in the May 4 Christine + Kat session). If yes, she's a Cohort 4 returning participant — confirm with Jacquie/Casey
 - Carol's last name and business — possibly the same person as Cohort 4's Carolina ("Caro"); check with Casey/Jacquie
 - Terry's last name and business
 - Full list of HIVE Cohort 4 roster (Joshua Edmond mentioned 15 members + small-group prep Apr 29 — request the full roster from Casey)

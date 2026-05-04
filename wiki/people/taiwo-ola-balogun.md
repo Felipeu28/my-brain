@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-28
+last_contact: 2026-05-04
 tags:
   - graph/spoke
   - person/team
@@ -8,8 +8,8 @@ tags:
 # Taiwo Ola-Balogun
 
 **Type:** person
-**Last updated:** 2026-04-28
-**Source:** `raw/meetings/` (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026), [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/teams-2026-04-24]] (9 messages 1:1, Apr 24), [[raw/teams-2026-04-26]] (4 messages 1:1, Apr 26), [[raw/teams-transcript-website-update-review-call-2026-04-28]], [[raw/teams-transcript-mark-polanco-andres-2026-04-28]]
+**Last updated:** 2026-05-04
+**Source:** `raw/meetings/` (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026), [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/teams-2026-04-24]] (9 messages 1:1, Apr 24), [[raw/teams-2026-04-26]] (4 messages 1:1, Apr 26), [[raw/teams-transcript-website-update-review-call-2026-04-28]], [[raw/teams-transcript-mark-polanco-andres-2026-04-28]], [[raw/teams-transcript-monday-collaboration-2026-05-04]]
 **Related:** [[wiki/people/adeleke-tolulope]], [[wiki/people/jacob-oluwole]], [[wiki/moil/product-roadmap]], [[wiki/meetings/2026-04-23-megan-crm-google-setup]]
 
 ---
@@ -178,6 +178,15 @@ Source: [[raw/teams-transcript-website-update-review-call-2026-04-28]], [[raw/te
 - **Diagnosed Jacob's hardware constraint live.** Jacob's HP screen height (568 px) is causing scrolling friction in Inna CRM testing — *"Your screen is very, very small. The height of your screen is, I think, 568 pixels."* Surfaced as a UX signal for the engineering team without being a build issue.
 
 See [[wiki/meetings/2026-04-28-website-update-review-internal]] and [[wiki/meetings/2026-04-28-mark-polanco-connectex-walkthrough]].
+
+## May 4, 2026 — Product unification mandate + email-infrastructure research
+
+Source: [[raw/teams-transcript-monday-collaboration-2026-05-04]], [[wiki/meetings/2026-05-04-monday-collaboration]]
+
+- **Weekend status reported live.** Worked Saturday on FitLogic, Inna CRM, and Siren Beauty. ConnectX skipped — picked up this week. Sanity access for Siren Beauty still blocked; access request sent
+- **Found an open-source email-infrastructure project** as a potential **Resend replacement** that would lift the 100-emails-per-day cap. Plan: clone the repo, bring own infra, eventually replace Resend. Andres approved investigation but framed it as *"small scale for now"* — appropriate for Moil's current SMB customer profile (most send 1–2 mailboxes worth, not 100/day)
+- **Product unification mandate from Andres.** Combine the four side-projects (FitLogic, Inna CRM, Siren Beauty, ConnectX) into a single packaged product Moil can resell to clients. Three product pillars identified: **email-sequence tool** + **blog generator** + **CRM**. Taiwo to lead the audit and unification design
+- **Will receive Moil 360 license today** so he can dogfood the business coach during reading sessions and push it on edge cases. Continues the Apr 28 hot-mic professionalism note — Taiwo as a regular Moil-as-a-customer experiencer
 
 ## Contact
 

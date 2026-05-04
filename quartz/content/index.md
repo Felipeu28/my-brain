@@ -1,6 +1,6 @@
 # Moil Brain — Master Index
 
-**Last compiled:** 2026-05-04 (Run 32 — Frontmatter reconciliation pass: 435 historical raw sources back-stamped with `ingested: true / ingested_at: 2026-05-04` (Runs 1–31 backlog closed); 1 truly new source ingested: signal-brief-2026-05-03 (intelligence already in [[wiki/summaries/brain-audit-2026-05-03]] + [[MEMORY]] Inna 🟡); broken wikilink in [[wiki/weekly/2026-05-04]] fixed; wiki count drift 287→288 reconciled) · **Total wiki pages:** 288 · **Raw sources:** 469
+**Last compiled:** 2026-05-04 (Run 33 — Mon May 4 ingestion: 3 new Teams transcripts (Christine + Kat coaching, Claudia coaching, Monday Collaboration). New wiki: 3 people ([[wiki/people/christine-stjohn]], [[wiki/people/kat-eyers]], [[wiki/people/claudia-sanchez]]) + 3 orgs ([[wiki/orgs/unwrapped-uncorked-events]], [[wiki/orgs/nativa-medspa]], [[wiki/orgs/water-to-wine]]) + 3 meetings ([[wiki/meetings/2026-05-04-christine-kat-coaching]], [[wiki/meetings/2026-05-04-claudia-sanchez-coaching]], [[wiki/meetings/2026-05-04-monday-collaboration]]). Cohort 4 1:1 → MVP-decision conversion now 4/4 (Heather, Caro, Claudia, Christine+Kat). Train Depot opportunity surfaced. Cost-discipline rule + free-trial rollout decided.) · **Total wiki pages:** 297 · **Raw sources:** 473
 
 > **Canonical operating truth lives outside the wiki:** if status or architecture notes here conflict with newer operating reality, use `~/My Brain/CURRENT_STATE.md` first.
 
@@ -28,13 +28,13 @@
 | Folder | Count | What's in it |
 |---|---|---|
 | [[wiki/moil/README|moil/]] | 11 | Moil business — positioning, ICP, GTM, customers, competitors, metrics, product roadmap, active-projects |
-| [[wiki/people/README|people/]] | 57 | Personal network — family, friends, customers, collaborators, team |
+| [[wiki/people/README|people/]] | 60 | Personal network — family, friends, customers, collaborators, team |
 | [[wiki/minds/README|minds/]] | 11 | Public AI thought leaders tracked from afar |
-| [[wiki/orgs/README|orgs/]] | 22 | Customer, partner, and prospect organizations |
+| [[wiki/orgs/README|orgs/]] | 25 | Customer, partner, and prospect organizations |
 | [[wiki/concepts/README|concepts/]] | 35 | Frameworks, mental models, products, programs |
 | [[wiki/radar/README|radar/]] | 2 | Append-only changelogs for fast-moving topics |
 | [[wiki/summaries/README|summaries/]] | 21 | One structured summary per raw source |
-| [[wiki/meetings/README|meetings/]] | 69 | Meeting records + async threads — decisions and action items |
+| [[wiki/meetings/README|meetings/]] | 72 | Meeting records + async threads — decisions and action items |
 
 See also: [[wiki/meetings/historical-transcripts-index]] — raw transcripts not yet promoted to structured pages (24 transcripts catalogued, 7 previously-orphan meeting pages linked).
 

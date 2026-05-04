@@ -4,6 +4,66 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ---
 
+## 2026-05-04 — Run 33: Mon May 4 — 3 Teams transcripts (Christine+Kat, Claudia, Monday Collaboration)
+
+**Trigger:** Automated scan for unprocessed `raw/` files. Three high-signal new files committed by `teams_ingest.sh` at 18:23:
+- `raw/teams-transcript-monday-collaboration-2026-05-04.md` — 52 min, Andres + Adeleke + Taiwo + Jacob + Ablad. **Cost-discipline standing rule + product-unification mandate + free-trial rollout decision.**
+- `raw/teams-transcript-claudia-andrés-2026-05-04.md` — 48 min, Andres × Claudia Sanchez (Nativa Med Spa). **HIVE Cohort 4 1:1.** May 21 grand-opening event strategy + medical-credentials differentiation + ICP shift to $120K+ Buda households.
+- `raw/teams-transcript-christine-andres-2026-05-04.md` — 71 min, Andres × Christine St John × Kat Eyers (joint). **HIVE Cohort 4 1:1.** Wine concept anchored on the Buda EDC Train Depot opportunity.
+
+**Pages created (9):**
+- [[wiki/people/christine-stjohn]] — Buda HIVE Cohort 4; co-founder of unnamed wine concept; Water To Wine club member (resigning); the impulsive jumper
+- [[wiki/people/kat-eyers]] (Kathryn Eyers) — Buda HIVE Cohort 4; founder of [[wiki/orgs/unwrapped-uncorked-events|Unwrapped Uncorked Events]] (~10 yr); the cautious planner; 3 kids
+- [[wiki/people/claudia-sanchez]] — Buda HIVE Cohort 4; founder of [[wiki/orgs/nativa-medspa|Nativa Med Spa]] (1626 corridor); medical-credentials differentiation
+- [[wiki/orgs/unwrapped-uncorked-events]] — Kat's existing service-event business
+- [[wiki/orgs/nativa-medspa]] — Claudia's medical aesthetics practice + May 21 ribbon-cutting
+- [[wiki/orgs/water-to-wine]] — Mill & Grain franchise (Dane); fiercest competitor for the Christine + Kat concept; offered custom-label partnership
+- [[wiki/meetings/2026-05-04-christine-kat-coaching]] — joint 1:1; Train Depot anchored; Roundabout skipped; Sarah meeting locked Tue May 12
+- [[wiki/meetings/2026-05-04-claudia-sanchez-coaching]] — Nativa marketing + opening event strategy; medical-vs-esthetician moat
+- [[wiki/meetings/2026-05-04-monday-collaboration]] — cost-discipline rule + Gemini 2.5 Pro → Flash Lite + product unification + free-trial rollout
+
+**Pages updated (5):**
+- [[wiki/people/hive-cohort-members]] — Cohort 4 table extended with Claudia + Christine + Kat rows; Sarah open-question now flags Cohort 4 returning-participant possibility
+- [[wiki/orgs/buda-edc]] — Cohort 4 row updated with 3 new May 4 1:1s; new "Train Depot opportunity" section (Christine + Kat vs. Sarah, EDC-as-low-risk-landlord framing); HIVE Clients Also Using Moil expanded
+- [[wiki/people/adeleke-tolulope]] — May 4 cost-discipline switch + Saturday Gemini spike root-cause + AI-spend partly-resolved status
+- [[wiki/people/taiwo-ola-balogun]] — May 4 product unification mandate + open-source email-infrastructure project + Moil 360 license dogfooding
+- [[MEMORY]] — added 14 new May 4 items (Cohort 4 1:1 follow-throughs + Monday cost-discipline + free-trial marketing strategy + accelerator application); compacted Apr 24 + Apr 28 + Apr 21 + Apr 29 + technical-debt blocks; closed PSA in-person mtg + Christine StJohn lunch (both held). 199 lines.
+
+**Operating layer:**
+- [[index]] — Run 33 header; raw source count 469 → 472 (+3); wiki page count 288 → 296 (+8); people 57 → 60; orgs 22 → 24; meetings 69 → 72
+
+**Key intelligence from Run 33:**
+
+1. **🟢 HIVE Cohort 4 1:1 → MVP-decision conversion is now 4/4.** All four 1:1s with Cohort 4 participants (Heather Apr 30, Caro Apr 30, Claudia May 4, Christine + Kat May 4) have produced a **clear, narrowed wedge in a single session.** The ratio held even when the format flipped (joint 1:1 with two co-founders). This isn't 4 random data points anymore — it's a repeatable conversion engine for HIVE Cohort 4.
+
+2. **🔥 Train Depot opportunity surfaces as a new EDC product Andres can broker.** The EDC is renovating a downtown Buda Train Depot space (~300 sq ft + outdoor patio) at below-average rent on a 1-yr lease, with city-funded marketing tailwind and a no-pursuit clause if the tenant fails. Andres anchored Christine + Kat's entire HIVE business plan on this footprint — "be the first applicants with a concrete plan" is a deliberate competitive move against Sarah (the bookstore + wine concept). The Depot is **the EDC functioning as low-risk B2G real estate**, not a typical commercial real-estate landlord. The "first applicant with a concrete plan wins" race has ~6 weeks. **First time the EDC's downtown real-estate program shows up as a HIVE deliverable in MEMORY.**
+
+3. **🔥 Sarah (bookstore + wine, C2/C3) is likely Cohort 4 — and a direct competitor for the Depot.** Andres said *"talked Sarah out of [the Roundabout]"* during the Christine + Kat session, and her bookstore+wine concept is now competing for the same Train Depot space. The cohort-members page Sarah row (C2/C3, sarah-hive-cohort.md) may be the same person. Tue May 12 is competitive recon for Christine + Kat. Confirm with Casey/Jacquie.
+
+4. **🔥 Cost-discipline standing rule adopted live.** Andres' new bar applies to every backend feature push: *"Is this the most cost-efficient model that still does the job?"* Saturday's Gemini spike was caused by the weekly health-summary cron iterating every active user's chats with 2.5 Pro. Live root-cause + immediate-switch decision (2.5 Flash Lite + active-user gate) closed in the call. **First time AI-spend has been treated as a recurring engineering-discipline question rather than a one-off audit.** Weekly Monday cost review is now permanent.
+
+5. **🟡 OpenAI + Google project crisis from Apr 29 partly resolved.** OpenAI refunded $30 May 3 (credit note 3937); account unlocked. The reinstated Google project (`Moil-Dev`, key ending `0270710133`) is the **Google-auth key**, not the live Gemini API key (`0251`) — the live billing surface was untouched all along. Per-feature accounting on Gemini + OpenAI still pending.
+
+6. **🟢 Free 30-day Moil trial rolling out to all new signups.** Andres committed to draft the matching marketing strategy. This is the operational complement to the accelerator application (license-sales traction over website-creation framing). Moves Moil from *"opt-in trial"* to *"trial-by-default, monetize after value"* — implications for cold campaign messaging, Moil 360 onboarding flow, and the existing Apr 24 auto-assign-license feature (Adeleke's staging→prod push).
+
+7. **🟢 Product unification mandate.** Taiwo's four side-projects (FitLogic, Inna CRM, Siren Beauty, ConnectX) are now an explicit unified-packaged-product workstream rather than four parallel custom builds. Three pillars: email-sequence + blog generator + CRM. Plus an open-source email-infrastructure project Taiwo identified as a Resend replacement (lifts the 100 emails/day cap). **Concretizes the Apr 28 "build for agents" framing**: Moil sells the package, the package powers each customer build.
+
+8. **🟢 Pricing rule new for the Brain (from Claudia coaching):** *"You give the spot to a person who'll pay you with a discount → you take the spot from a person who could have paid full price."* Discount only after the profit is locked. Generalizable beyond Nativa — applies to Andres' own discount/breakup-day cadence in [[wiki/moil/gtm]].
+
+9. **🟢 Andres' "if I started tomorrow" framing emerges as a recurring coaching tool.** Used identically with Heather (Apr 30 daycare wedge), Caro (Apr 30 women-coworking wedge), Claudia (May 4 fixed-costs gating), and Christine + Kat (May 4 Depot anchor). Worth promoting from coaching-color to a named coaching framework — candidate for [[wiki/concepts/]] page in a future run.
+
+10. **🟢 Christine + Kat are deliberately balanced co-founders.** Christine = "I like to wing it. We'll figure it out." (impulsive jumper). Kat = 10 years of operating Unwrapped Uncorked Events (cautious planner). Andres explicitly framed the pairing as a strength, not a problem to manage. Worth tracking as a HIVE Cohort 4 healthy-pair pattern.
+
+**Action-item delta:**
+- **Closed (~5):** PSA in-person mtg held May 4 morning; Christine StJohn lunch DELIVERED (was on Next-2–3-weeks); OpenAI account dispute (refunded May 3); Moil-Dev Google project reinstated
+- **Opened (~14):** Andres → intro Garrett if Depot path opens; Andres → send Claudia Kyle businesses list; Andres → realtor/women-entrepreneur event for Claudia; Andres → confirm Sarah-C4 identity; Christine + Kat homework (6 items); Claudia homework (8 items); Adeleke → Flash-Lite cron switch + active-user gate; Steve → assign Taiwo Moil 360 license; Taiwo → email infra link + product unification audit; Andres → free-trial marketing strategy; Andres → accelerator application (license-sales framing); Andres → resolve credit-card Groq/Gwen blocker
+
+**Sync step:** `bash scripts/sync_wiki.sh`. **Health step:** `python3 scripts/kb-health.py` (frontmatter-marked source files; 8 new wiki pages). Source files marked `ingested: true / ingested_at: 2026-05-04`.
+
+**Source count:** 469 → 473 (+4: 3 new Teams transcripts ingested + 1 reconciliation drift fixed). Wiki page count: 288 → 297 (+9 = 3 people + 3 orgs + 3 meetings).
+
+---
+
 ## 2026-05-04 — Run 32: Frontmatter reconciliation pass (450 source files) + signal brief 2026-05-03
 
 **Trigger:** Bulk `/brain-ingest`-style request listing 419 historical raw sources (the entire ingestion backlog from Runs 1–31) plus all 236 `raw/sessions/claude-code-*.md` files. Cross-checked against this log: every file in the request was already substantively ingested in an earlier run. The actual gap was that source-file frontmatter was never updated with `ingested: true / ingested_at`, leaving downstream consumers (the `/brain-ingest` skill, kb-health, future re-runs) unable to tell processed sources from unprocessed ones.

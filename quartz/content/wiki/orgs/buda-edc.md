@@ -3,14 +3,14 @@ github_repo: Moil-Landingpages/BUDAEDC, Moil-Code/buda-hive
 tags:
   - graph/spoke
 status: active
-last_contact: 2026-05-01
+last_contact: 2026-05-04
 owner: "[[wiki/people/jennifer-storm]]"
 ---
 # Buda EDC
 
 **Type:** organization
-**Last updated:** 2026-05-01
-**Source:** [[raw/buda-hive-edc-2026-04-11]], [[raw/hive-buda-hive-sosx-run-of-show]], [[raw/hive-coaching-session-summary]], [[raw/hive-series-based-hive-program]], [[raw/email-digest-2026-04-21]], [[raw/email-digest-2026-04-30]], [[raw/email-digest-2026-05-01]]
+**Last updated:** 2026-05-04
+**Source:** [[raw/buda-hive-edc-2026-04-11]], [[raw/hive-buda-hive-sosx-run-of-show]], [[raw/hive-coaching-session-summary]], [[raw/hive-series-based-hive-program]], [[raw/email-digest-2026-04-21]], [[raw/email-digest-2026-04-30]], [[raw/email-digest-2026-05-01]], [[raw/teams-transcript-christine-andres-2026-05-04]], [[raw/teams-transcript-claudia-andrés-2026-05-04]]
 **Related:** [[wiki/concepts/buda-hive]], [[wiki/concepts/aedo]], [[wiki/people/jennifer-storm]], [[wiki/people/shannon-cameron]], [[wiki/people/jacquie-martinez]], [[wiki/people/casey-earley]], [[wiki/people/sarah-miller]], [[wiki/people/joshua-edmond]]
 
 ---
@@ -48,7 +48,7 @@ Andres Urrego and [[wiki/people/joshua-edmond|Joshua Edmond]] serve as **Incubat
 |---|---|---|
 | Cohorts 1–2 | 2024–2025 | ✅ Complete; graduates include Anita Lansing, Jacob Campbell, Desiree Steele, Kerry Ann Pearce |
 | Cohort 3 | Late 2025 | ✅ Complete; certificates presented at SoSX Mar 12, 2026 |
-| **Cohort 4** | **Apr 20 – Jun 8, 2026** | 🔥 Active — Week 2 done Apr 28 (Shannon Cameron in attendance); first 1:1s landed Apr 30 ([[wiki/people/heather-skeen|Heather Skeen]], [[wiki/people/carolina-caro|Carolina]]); Joshua Edmond running small-group cuts before Session 3 (May 4) |
+| **Cohort 4** | **Apr 20 – Jun 8, 2026** | 🔥 Active — Week 2 done Apr 28 (Shannon Cameron in attendance); first 1:1s landed Apr 30 ([[wiki/people/heather-skeen|Heather Skeen]], [[wiki/people/carolina-caro|Carolina]]); Mon May 4 added 3 more 1:1s ([[wiki/people/claudia-sanchez|Claudia Sanchez]] / [[wiki/orgs/nativa-medspa|Nativa]], [[wiki/people/christine-stjohn|Christine St John]] + [[wiki/people/kat-eyers|Kat Eyers]] joint — wine concept); Joshua Edmond running small-group cuts |
 
 **Fiscal year:** Ends June 30. New budget year starts July 1.
 **Contract renewal:** Andres submitted contract to Board Apr 2, 2026. Board approval deadline: Apr 15, 2026.
@@ -109,4 +109,16 @@ John Costilla emailed Andres ("Call today") about an EDC website project and ask
 - Anita Lansing — Organically Whole (business plan via Moil)
 - [[wiki/people/heather-skeen|Heather Skeen]] — [[wiki/orgs/providence-behavior-therapy|Providence Behavior Therapy]] (HIVE Cohort 4)
 - [[wiki/people/carolina-caro|Carolina]] — women-focused coworking concept (HIVE Cohort 4; signed up for Moil first month free Apr 30)
+- [[wiki/people/christine-stjohn|Christine St John]] + [[wiki/people/kat-eyers|Kat Eyers]] — wine-shop concept (HIVE Cohort 4; both completing Moil 21-Q business plans individually with first 30 days free)
+- [[wiki/people/claudia-sanchez|Claudia Sanchez]] — [[wiki/orgs/nativa-medspa|Nativa Med Spa]] (HIVE Cohort 4; ribbon-cutting May 21)
 - Multiple cohort graduates using Moil platform licenses
+
+## Train Depot opportunity (downtown Buda)
+
+Source: [[raw/teams-transcript-christine-andres-2026-05-04]]
+
+The EDC is renovating a downtown Train Depot space (~300 sq ft + outdoor patio) and offering it to a Cohort 4 finalist at **below-average rent on a 1- to 2-year lease**. The EDC handles build-out + city marketing — tenants inherit foot traffic. As of May 4, two known concepts are in the running:
+- **Christine St John + Kat Eyers** — wine shop + experience-based tasting (anchored their entire HIVE business plan on this space May 4)
+- **Sarah** (last name TBD; appears to be the same Sarah from the C2/C3 [[wiki/people/sarah-hive-cohort|sarah-hive-cohort]] page, returning for Cohort 4) — bookstore + wine; previously talked out of the Roundabout location for build-out cost reasons
+
+The EDC will release tenants from the lease if the business doesn't work — taxpayer-funded, not a commercial-real-estate landlord. Decisions expected within ~6 weeks. Intro to **Garrett** (downtown Buda business organizer who runs monthly meetings) is the natural next step once a tenant is selected.

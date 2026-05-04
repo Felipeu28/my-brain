@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-26
+last_contact: 2026-05-04
 tags:
   - graph/hub
   - person/team
@@ -8,8 +8,8 @@ tags:
 # Adeleke Tolulope (Steve)
 
 **Type:** person
-**Last updated:** 2026-04-26
-**Source:** `raw/meetings/` (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026), [[raw/teams-2026-04-24]] (Moil Team + 1:1 Apr 24), [[raw/teams-2026-04-26]] (1 message 1:1, Apr 26)
+**Last updated:** 2026-05-04
+**Source:** `raw/meetings/` (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026), [[raw/teams-2026-04-24]] (Moil Team + 1:1 Apr 24), [[raw/teams-2026-04-26]] (1 message 1:1, Apr 26), [[raw/teams-transcript-monday-collaboration-2026-05-04]]
 **Related:** [[wiki/people/jacob-oluwole]], [[wiki/people/taiwo-ola-balogun]], [[wiki/moil/positioning]], [[wiki/moil/product-roadmap]]
 
 ---
@@ -157,6 +157,17 @@ Source: [[raw/teams-2026-04-24]], [[wiki/meetings/2026-04-24-teams-daily-ops]]
 - **Acknowledged the chats Andres sent.** *"Okay sir"* (11:22 AM) — chats-review still pending follow-through.
 
 See [[wiki/meetings/2026-04-24-teams-daily-ops]].
+
+## May 4, 2026 — Cost-discipline switch + AI-spend resolution
+
+Source: [[raw/teams-transcript-monday-collaboration-2026-05-04]], [[wiki/meetings/2026-05-04-monday-collaboration]]
+
+- **Saturday Gemini spike root-caused.** A weekly health-summary cron iterates every active user's chats to compress them and draft email actions. Adeleke owned the diagnosis live during the call and committed to: (1) **switch the cron from Gemini 2.5 Pro → 2.5 Flash Lite**, and (2) **gate it on user activity** — skip users idle in the past week, send a *"any questions I can answer?"* re-engagement email instead of burning tokens summarizing nothing. Same gate applies to the 7–14 day inactive bucket
+- **OpenAI account dispute resolved Apr 29 → May 3.** OpenAI refunded **$30** (credit note 3937) on May 3 after the suspicious-charge dispute Adeleke raised Apr 29. Account unlocked. No formal explanation in the credit note
+- **Gemini project re-instatement clarified.** The `Moil-Dev` Gemini project key ending `0270710133` was reinstated after a no-payment threat email last week — that's the **Google auth** key. The other Gemini key (`0251`) is the **live Gemini API key** and was never touched. This partly closes the Apr 29 AI-spend P0 in [[MEMORY]]
+- **Cost-discipline standing rule adopted live.** Andres' new bar: before pushing any backend feature, ask *"is this the most cost-efficient model that still does the job?"* — explicitly *not* always-cheapest, but always-cost-checked. Andres self-corrected the team's prior $30 ChatGPT 5 spend that should have used GPT-4o-mini
+- **Active-Moil-360-license assignment to Taiwo** today so Taiwo can dogfood the business coach during reading sessions
+- **Weekly Monday cost review** is now a standing agenda item — Gemini, OpenAI, Groq, Grok dashboards walked together. April Groq spend $7. Two-week Gemini spend ~$10. Andres' bar is ~$2/day max per service at current user count
 
 ## April 26, 2026 — High-Value-Asset Model Cost Evaluation Asked
 
