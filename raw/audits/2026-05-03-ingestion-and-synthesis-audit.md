@@ -3,6 +3,8 @@ type: audit
 date: 2026-05-03
 tags:
   - graph/leaf
+ingested: true
+ingested_at: 2026-05-03
 ---
 
 # Brain Ingestion & Synthesis Audit — 2026-05-03

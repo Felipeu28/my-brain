@@ -4,6 +4,65 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ---
 
+## 2026-05-03 — Run 31: Brain self-audit + 4-week implementation plan + signal brief 2026-05-02
+
+**Trigger:** Automated scan for unprocessed `raw/` files. Four high-signal new files since Run 30:
+- `raw/audits/2026-05-03-ingestion-and-synthesis-audit.md` (Brain end-to-end audit — every launchd job, every synthesis script, every freshness check)
+- `raw/audits/2026-05-03-implementation-plan.md` (4-week phased rollout, 14 items, 7 resolved decisions, Week 1 execution log)
+- `raw/weekly-sessions-2026-05-03.md` (72-session rollup with 7 automation self-runs filtered out — item 8a already shipped)
+- `quartz/content/raw/signal-briefs/signal-brief-2026-05-02.md` (May 2 cross-source: John Costilla praise + Nate Herk Claude Design masterclass; Inna silence anomaly past threshold)
+
+Plus ~30 low-signal session log files in `raw/sessions/claude-code-2026-04-{26..30}-*.md` and `raw/sessions/claude-code-2026-05-{01..03}-*.md` — bookkeeping only, intelligence already absorbed via the daily correlator + per-project rollups (item 6 wrote to `wiki/projects/moil.md` § Last 7 days from these sessions today).
+
+**Pages created (1):**
+- [[wiki/summaries/brain-audit-2026-05-03]] — Routing layer over the audit + implementation plan; captures the 7 resolved decisions, Week 1 shipped status, Week 2–3 open items. Sized as a single summary page (not decomposed) following the [[raw/brain-knowledge-layer-analysis|brain-knowledge-layer-analysis]] precedent — these are meta-content about the Brain, not external knowledge to graph
+
+**Pages updated (1):**
+- [[wiki/summaries/README]] — Brain architecture & meta section now lists the audit summary
+
+**Pages noted (created earlier today by the implementation plan execution, not by this ingestion run):**
+- [[wiki/projects/moil]], [[wiki/projects/clio]], [[wiki/projects/fitlogic]], [[wiki/projects/connectex]], [[wiki/projects/buda-edc-hive]], [[wiki/projects/meridian-buda]] — six startup/client project hub pages, committed `e246967` 2026-05-03
+
+**Operating layer:**
+- [[index]] — Run 31 header, raw source count 388 → 389 (+1 in `raw/audits/`; the implementation plan + signal-brief + weekly-sessions are not in `raw/audits/` and either already counted or live in `quartz/content/raw/`), wiki page count 278 → 279 (+1 = brain-audit summary), summaries 20 → 21
+- [[MEMORY]] — **no update.** Brain self-upgrade items are internal infrastructure, not external commitments to clients/people. They live in [[wiki/summaries/brain-audit-2026-05-03]] for future-Claude reference. Daily action list stays focused on customer/partner work
+
+**Key intelligence from Run 31:**
+
+1. **🔥 Brain self-audit shipped Week 1 in a single day (2026-05-03).** Four critical fixes live: (a) `com.moil.brain.entity-graph.plist` loaded into launchd — `wiki/hot/relationship-radar.md` was frozen at Apr 22 for 11+ days, morning briefing's "going cold" list was running on stale data; (b) freshness sentinel (`bin/sentinel.sh` + `sentinel-config.tsv` + plist + email-on-critical) deployed and wired into morning briefing; (c) `weekly-operating-brief.sh` schedule moved Sunday 20:00 → Monday 08:00 (laptop reliably awake then); (d) `scrape-x-bookmarks.sh` now quarantines 0-item runs to `*.zero-YYYY-MM-DD.md` and exits 2 instead of silently committing 234-byte placeholder files.
+
+2. **🔥 The Brain is "input-rich, reflection-poor" — and the audit is the receipts.** Capture layer was working (morning briefing, Teams pull, email digest, X bookmarks, Claude sessions, GitHub activity, ChromaDB index = 3,156 chunks daily). Read-back layer was silently dead: entity-graph plist never loaded, weekly-operating-brief ran exactly once in 30 days (Apr 26), `weekly-sessions-*.md` was mechanical (count + truncated first prompt) polluted by automation-self-runs, **zero scripts queried ChromaDB**, episodic memory was write-only.
+
+3. **Two "broken for 10+ days" failures in one day exposed the same anti-pattern.** GitHub Pages deploy red for 10 days (CI status line shipped 2026-05-03 fixes the surface) AND entity-graph plist unloaded for 11+ days. Both: a job stops running, no destination changes, no human checks. The systematic answer is the freshness sentinel — stat() the log files and destinations, render to markdown, embed in the morning briefing. **Adding observability cannot fail to be observed when the briefing is the readout surface.**
+
+4. **🔥 Six `wiki/projects/` hub pages created today (commit e246967).** All four client projects (FitLogic, Connectex, Buda EDC/HIVE, Meridian Buda) promoted to first-class pages alongside Moil + Clio. Section 3a's "default no" rule for client-as-project was **overridden** — these four are big enough multi-quarter / multi-repo / custom-build engagements to earn their own pages. `bin/project-activity.sh` already ran once today and populated each `## Last 7 days` block from session + git + briefing data.
+
+5. **K&T#1 (Karpathy CLAUDE.md ingest/query/lint loop) treated as already shipped.** Reconciliation between the audit and karpathy-tan-brain-recommendations.md: existing `knowledge-base/CLAUDE.md` + `/brain-ingest`/`/brain-query`/`/brain-lint` slash commands + `kb-health.py` lint pass already cover Karpathy's pattern. Single addition slotted: a Week-3 `## Related`-block lint pass that asserts every `wiki/people/*` and `wiki/projects/*` page carries explicit backlinks. **K&T#1 = done.**
+
+6. **Orphan Claude sessions diagnosed as automation pollution.** All 11 `project: "-"` sessions in `~/.claude/projects/-/` are the daily-correlator's own automated invocations. Cause: launchd job runs `claude` with no working directory, so Claude Code derives the `-` project label. Fix routed to the session-learnings filter (item 8a, **already shipped** — `weekly-sessions-2026-05-03.md` shows *"7 automation self-runs filtered out — see ingest-claude-sessions.py:is_automation_self_run"*).
+
+7. **Forks decided.** `~/agent-canvas-ui` (92 KB, openclaw fork, no recent commits, no brain refs) → delete; `~/wiki-os-brain` (235 MB, Ansub/wiki-os fork, last touched 2026-04-12, no brain refs, was an evaluated Quartz alternative) → archive to `~/archive/`. Andres to execute at his leisure.
+
+8. **K&T#2 (gstack/clio-stack for Clio) routed to a parallel track.** Spinning up as a separate code session in `~/luna-brain`. Out of Brain plan scope.
+
+9. **Signal-brief 2026-05-02 reinforces existing MEMORY items, no new commitments.** Cross-source connection: John Costilla praised the *business-coach-95s* video workflow May 1, Andres bookmarked Nate Herk's Claude Design masterclass (brand → deck → landing → launch video) Apr 29 — Andres is bookmarking the exact production loop he just sold John on. Mon May 4 in-person at HIVE is the natural anchor for the walkthrough commitment (already in MEMORY). Inna silence anomaly: Jacob sent updated podcast cuts May 1 14:59 UTC, **no Inna reply 2026-05-02** — the silence has crossed the May 4–5 nudge threshold MEMORY flagged. Both items already actionable from MEMORY; no update needed.
+
+**Open Week 2–3 items (not yet shipped, tracked in [[wiki/summaries/brain-audit-2026-05-03]]):**
+- Item 6 daily cron schedule for `bin/project-activity.sh`
+- Item 7 morning-briefing restructure (`## This Week — Moil & Clio` + `## Client Project Pulse` injection)
+- Item 8b full session-learnings extractor (LLM pass over per-session JSONL → Decisions / Tools / Recurring frictions / Unresolved). Item 8a (filter) shipped
+- Item 9 wire ChromaDB historical context into `daily-correlator.py` (top-3 active persons → 90-day historical-context block)
+- Item 10 `pattern-surfacer.sh` rolling 28-day pass + Wed/Sun 07:00 schedule
+- Item 11 `compute-last-contact.py --write` mode → `wiki/hot/relationship-signals.md`
+
+**Week 4 items shipped early (commit e340786):** concept-of-the-day rotation, append-and-review inbox, Monday two-sentence pitch + this-week's-mistake briefing block, Related-block lint.
+
+**Sync step:** `bash scripts/sync_wiki.sh` mirrors all updates into `quartz/content/`. **Health step:** `python3 scripts/kb-health.py` after sync. Source files marked `ingested: true / ingested_at: 2026-05-03`.
+
+**Source count:** 388 → 389 (+1 in `raw/audits/`; the second audit file + weekly-sessions are also in `raw/` but were already in the inventory; signal-brief lives in `quartz/content/raw/signal-briefs/` and is not counted by `kb-health.py`'s RAW_DIR rglob). Wiki page count: 278 → 279 (+1 = brain-audit summary).
+
+---
+
 ## 2026-05-02 — Run 30: May 1 email digest + signal brief ingestion
 
 **Trigger:** Automated scan for unprocessed `raw/` files. Two new files since Run 29:

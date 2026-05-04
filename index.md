@@ -1,6 +1,6 @@
 # Moil Brain — Master Index
 
-**Last compiled:** 2026-05-02 (Run 30 — May 1 email-digest + signal-brief ingestion: 2 new people pages ([[wiki/people/sarah-miller]], [[wiki/people/marilyn-martinez]]) + 7 page updates (john-costilla, jacquie-martinez, jennifer-storm, jacob-oluwole, inna-benyukhis, buda-edc, nuovo-entertainment, gtm); Mon May 4 9 AM in-person PSA review locked, TEDC keynote June 19 booked, Letter of Rec closed, Inna silence anomaly extends, Nuovo Entertainment owner identified) · **Total wiki pages:** 278 · **Raw sources:** 388
+**Last compiled:** 2026-05-03 (Run 31 — Brain self-audit + 4-week implementation plan ingestion: Week 1 shipped same-day (entity-graph plist loaded, freshness sentinel live, weekly-operating-brief schedule moved Sun 20:00 → Mon 08:00, X-bookmark zero-item guard), all 6 `wiki/projects/` pages created (Moil, Clio, FitLogic, Connectex, Buda EDC/HIVE, Meridian Buda); 1 new summary page; raw + wiki counts reconciled to actual file counts) · **Total wiki pages:** 287 · **Raw sources:** 469
 
 > **Canonical operating truth lives outside the wiki:** if status or architecture notes here conflict with newer operating reality, use `~/My Brain/CURRENT_STATE.md` first.
 
@@ -33,7 +33,7 @@
 | [[wiki/orgs/README|orgs/]] | 22 | Customer, partner, and prospect organizations |
 | [[wiki/concepts/README|concepts/]] | 35 | Frameworks, mental models, products, programs |
 | [[wiki/radar/README|radar/]] | 2 | Append-only changelogs for fast-moving topics |
-| [[wiki/summaries/README|summaries/]] | 20 | One structured summary per raw source |
+| [[wiki/summaries/README|summaries/]] | 21 | One structured summary per raw source |
 | [[wiki/meetings/README|meetings/]] | 69 | Meeting records + async threads — decisions and action items |
 
 See also: [[wiki/meetings/historical-transcripts-index]] — raw transcripts not yet promoted to structured pages (24 transcripts catalogued, 7 previously-orphan meeting pages linked).

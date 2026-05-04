@@ -23,6 +23,7 @@ Every file in `../raw/` has a matching summary here. Summaries are the Layer 3 "
 ### Brain architecture & meta
 - [[wiki/summaries/brain-guide]] — The 5-layer Brain pipeline guide
 - [[wiki/summaries/know-me-extraction-prompts]] — Interview prompts (Claude/ChatGPT/Grok)
+- [[wiki/summaries/brain-audit-2026-05-03]] — End-to-end Brain audit + 4-week implementation plan (Week 1 shipped 2026-05-03)
 
 ### Moil business
 - [[wiki/summaries/moil-documents-2026-04-09]] — Moil Enterprise business plan (Mar 5)

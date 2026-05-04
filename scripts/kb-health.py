@@ -423,11 +423,44 @@ def generate_report():
     return "\n".join(lines), errors
 
 
+def fix_index_counts():
+    """Rewrite the wiki/raw counts in index.md header to match reality.
+
+    Returns True if the file changed.
+    """
+    if not INDEX_FILE.exists():
+        return False
+    content = INDEX_FILE.read_text()
+    actual_wiki = len(list(WIKI_DIR.rglob("*.md")))
+    actual_raw = len(list(RAW_DIR.rglob("*.md")))
+    new_content = re.sub(
+        r"(Total wiki pages:\*\*\s*)\d+",
+        rf"\g<1>{actual_wiki}",
+        content,
+    )
+    new_content = re.sub(
+        r"(Raw sources[^:]*:\*\*\s*)\d+",
+        rf"\g<1>{actual_raw}",
+        new_content,
+    )
+    if new_content != content:
+        INDEX_FILE.write_text(new_content)
+        return True
+    return False
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--write", action="store_true", help="Also write to outputs/health/")
     ap.add_argument("--fail-on-errors", action="store_true", help="Exit 1 if errors found")
+    ap.add_argument("--fix-index", action="store_true", help="Auto-rewrite index.md wiki/raw counts to match reality")
     args = ap.parse_args()
+
+    if args.fix_index:
+        if fix_index_counts():
+            print("✓ index.md counts updated", file=sys.stderr)
+        else:
+            print("✓ index.md counts already correct", file=sys.stderr)
 
     report, errors = generate_report()
     print(report)

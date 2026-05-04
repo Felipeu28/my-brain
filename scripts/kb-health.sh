@@ -10,7 +10,7 @@ set -e
 cd "$(dirname "$0")/.."
 
 if [[ "$1" == "--strict" ]]; then
-  python3 scripts/kb-health.py --write --fail-on-errors
+  python3 scripts/kb-health.py --write --fix-index --fail-on-errors
 else
-  python3 scripts/kb-health.py --write
+  python3 scripts/kb-health.py --write --fix-index
 fi

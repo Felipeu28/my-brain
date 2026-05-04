@@ -4,6 +4,8 @@ date: 2026-05-03
 tags:
   - graph/leaf
 companion: raw/audits/2026-05-03-ingestion-and-synthesis-audit.md
+ingested: true
+ingested_at: 2026-05-03
 ---
 
 # Moil Brain — 4-Week Implementation Plan (2026-05-03)

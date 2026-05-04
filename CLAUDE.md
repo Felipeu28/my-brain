@@ -187,41 +187,47 @@ All four commit-producing scripts (`teams_ingest.sh`, `x_bookmark_commit.sh`, `m
 
 These commands are available when working in this vault. Run them by typing the command in any Claude session opened in this folder.
 
+> **Write zone:** ALL commands write to `wiki/` (and `raw/` for outputs/), NEVER to `quartz/content/`. After writes complete, run `bash scripts/sync_wiki.sh` then commit + push to `felipeu28 main`. The architectural rule at the top of this file is the single source of truth.
+
 ### /brain-ingest
-Process all files in `quartz/content/raw/` that have no `ingested: true` in their frontmatter.
+Process all files in `raw/` that have no `ingested: true` in their frontmatter.
 
 For each unprocessed file:
 1. Read and classify by type: `article | tweet | thread | transcript | idea | bookmark | briefing | calendar`
 2. Extract: key concepts, people mentioned, orgs mentioned, tldr (1-2 sentences max)
-3. Find or create the most relevant wiki page(s) in `quartz/content/wiki/` and add a wikilink + fact from this source
-4. Update `quartz/content/wiki/index.md` with a TLDR entry if this is a new page
+3. Find or create the most relevant wiki page(s) in `wiki/` and add a wikilink + fact from this source
+4. Update `index.md` Source Inventory + stats if this is a new page
 5. Add `ingested: true` and `ingested_at: YYYY-MM-DD` to the source file's frontmatter
-6. Commit all changes and push to felipeu28
+6. Append entry to `log.md`
+7. Run `bash scripts/sync_wiki.sh && python3 scripts/kb-health.py --fix-index`
+8. Commit + push to `felipeu28 main`
 
 Signal rule: Skip anything that isn't 80%+ relevant to Andres's core domains (Moil, AIbyAndres, Brain/PKM, community, family, personal growth). Log skipped files.
 
 ### /brain-query [question]
-Answer a question using knowledge stored in `quartz/content/wiki/`.
+Answer a question using knowledge stored in `wiki/`.
 
-1. Search wiki/ for pages relevant to the question
-2. Return a cited answer with [[wikilink]] references
-3. Save the answer to `quartz/content/raw/outputs/YYYY-MM-DD-[slug].md`
-4. If the answer reveals a gap in the Brain, create a stub page for that topic
-5. Commit and push new outputs
+1. Search `wiki/` for pages relevant to the question
+2. Return a cited answer with `[[wikilink]]` references
+3. Save the answer to `raw/outputs/YYYY-MM-DD-[slug].md`
+4. If the answer reveals a gap in the Brain, create a stub page for that topic in `wiki/`
+5. Run `bash scripts/sync_wiki.sh`, commit + push new outputs
 
 ### /brain-explore [topic]
 Browse a topic area within the Brain.
 
-1. Find all pages in wiki/ related to [topic] (search titles, tags, content)
+1. Find all pages in `wiki/` related to [topic] (search titles, tags, content)
 2. Show the connection map: what links to it, what it links to
 3. Surface 3 pages that logically should exist but don't
 4. Suggest 2 cross-hub connections that aren't yet made
 
 ### /brain-lint
-Monthly quality audit. Run after bulk ingestion or monthly.
+Monthly quality audit. Run after bulk ingestion or monthly. Now consolidated with the `## Related`-block linter — both run from one entry point.
 
 1. Find all wiki pages with fewer than 150 words → report as stubs
 2. Find all wiki pages with no incoming wikilinks → report as orphans
 3. Find pages on the same topic that may contradict each other
-4. Report everything — don't auto-fix
-5. Save report to `quartz/content/raw/outputs/brain-lint-YYYY-MM-DD.md`
+4. Find all `wiki/people/*` and `wiki/projects/*` pages missing a `## Related` section (delegated to `pi-workspace/bin/lint-related.sh`)
+5. Report everything — don't auto-fix
+6. Save report to `raw/outputs/brain-lint-YYYY-MM-DD.md`
+7. Run `bash scripts/sync_wiki.sh`, commit + push
