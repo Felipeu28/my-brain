@@ -1,5 +1,7 @@
 ---
 type: transcript
+ingested: true
+ingested_at: 2026-05-04
 ---
 
 # 20250410 - David and Andres - AI trees - Transcript

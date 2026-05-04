@@ -5,6 +5,8 @@ project: Home
 date: 2026-04-14
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego/bc383fb9-3a07-4c1e-8505-ef1fe3540c6f.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Luna Brain Phase 1 Build
 

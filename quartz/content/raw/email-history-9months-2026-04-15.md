@@ -1,3 +1,7 @@
+---
+ingested: true
+ingested_at: 2026-05-04
+---
 # Email History — 9 Months (Jul 2025 – Apr 2026)
 
 ## Summary

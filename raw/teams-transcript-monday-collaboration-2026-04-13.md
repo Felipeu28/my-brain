@@ -1,5 +1,7 @@
 ---
 type: transcript
+ingested: true
+ingested_at: 2026-05-04
 ---
 
 # Teams Transcript: Monday Collaboration — 2026-04-13

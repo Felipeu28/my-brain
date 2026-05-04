@@ -1,5 +1,7 @@
 ---
 type: transcript
+ingested: true
+ingested_at: 2026-05-04
 ---
 
 # Meeting Transcript: Moneta Ventures Presentation

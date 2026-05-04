@@ -5,6 +5,8 @@ project: "Brain/KB"
 date: 2026-04-27
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base/fbab11d3-5259-436d-9611-5c66c4802c96.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Top 3 Priorities — Monday, April 27, 2026
 

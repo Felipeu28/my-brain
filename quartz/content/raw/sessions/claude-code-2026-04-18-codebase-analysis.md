@@ -5,6 +5,8 @@ project: Clio/worktree
 date: 2026-04-18
 duration_minutes: 1172
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-cool-germain-3901b1/d32f9280-d15c-4f0a-b247-626d00700cbf.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Codebase Analysis
 

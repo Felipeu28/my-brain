@@ -5,6 +5,8 @@ project: Brain/KB/worktree
 date: 2026-04-17
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base--claude-worktrees-xenodochial-albattani-c9b85f/49003bbe-bfab-4ec7-a2cc-081ff9477012.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — SECURITY INCIDENT: A Google Gemini API key was exposed when the repo was made pu
 

@@ -5,6 +5,8 @@ project: Clio/worktree
 date: 2026-04-15
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-busy-haslett/a9ef900f-fdb8-4cbb-b2c3-e20469601519.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — <command-message>init</command-message>
 

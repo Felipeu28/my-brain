@@ -5,6 +5,8 @@ project: "Clio/worktree"
 date: 2026-04-25
 duration_minutes: 5823
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-compassionate-sutherland-b231a2/b263401a-8c20-4ad5-a633-d9c15ea1f7b0.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Do a full regression audit of all voice and UI changes that have landed on main
 

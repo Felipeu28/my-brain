@@ -5,6 +5,8 @@ project: Brain/KB/worktree
 date: 2026-04-22
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base--claude-worktrees-confident-cray-8bb0c6/110b3aeb-9173-4352-bcdb-af5760f8a563.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Morning Briefing — <weekday>, <date>
 

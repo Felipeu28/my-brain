@@ -1,5 +1,7 @@
 ---
 type: transcript
+ingested: true
+ingested_at: 2026-05-04
 ---
 
 # Moil Marketing Call 2025-05-19 - Notes by Gemini

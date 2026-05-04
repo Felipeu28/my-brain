@@ -1,5 +1,7 @@
 ---
 type: program-doc
+ingested: true
+ingested_at: 2026-05-04
 ---
 
 # AI_Panel_Presentation_Guide_Long_Version

@@ -5,6 +5,8 @@ project: Clio/worktree
 date: 2026-04-25
 duration_minutes: 721
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-magical-pasteur-4b5da5/efb2dbce-fbe0-4711-93d2-c1f9f3291d37.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — URGENT multi-issue fix for Clio. Andres says voice is the core product feature a
 

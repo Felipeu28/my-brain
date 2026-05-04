@@ -1,5 +1,7 @@
 ---
 type: transcript
+ingested: true
+ingested_at: 2026-05-04
 ---
 
 # Meeting: Jacob & Andres - 2025_02_05 06_02 CST - Transcript

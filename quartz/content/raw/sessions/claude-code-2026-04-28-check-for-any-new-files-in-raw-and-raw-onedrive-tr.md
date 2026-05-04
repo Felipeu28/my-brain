@@ -5,6 +5,8 @@ project: "Brain/KB"
 date: 2026-04-28
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base/68f97ae1-2f27-4fdb-86e0-9ae6d00e24c7.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Check for any new files in raw/ and raw/onedrive-transcripts/ that haven't been
 

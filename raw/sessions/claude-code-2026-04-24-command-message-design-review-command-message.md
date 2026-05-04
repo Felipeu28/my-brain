@@ -5,6 +5,8 @@ project: Clio/worktree
 date: 2026-04-24
 duration_minutes: 3017
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-affectionate-newton-592801/bbe4c17b-bb2c-46b1-8e49-fce659d57dbf.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — <command-message>design-review</command-message>
 

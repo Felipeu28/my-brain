@@ -5,6 +5,8 @@ project: Clio/worktree
 date: 2026-04-23
 duration_minutes: 3359
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-affectionate-engelbart-5eb74f/e9ede2a1-be1f-4ca7-9df8-a3ce27d33529.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Voice audit — reading all files
 

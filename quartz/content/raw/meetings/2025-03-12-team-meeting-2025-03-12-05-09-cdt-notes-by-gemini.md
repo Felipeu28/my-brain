@@ -1,5 +1,7 @@
 ---
 type: transcript
+ingested: true
+ingested_at: 2026-05-04
 ---
 
 # Meeting: Team Meeting - 2025_03_12 05_09 CDT - Notes by Gemini

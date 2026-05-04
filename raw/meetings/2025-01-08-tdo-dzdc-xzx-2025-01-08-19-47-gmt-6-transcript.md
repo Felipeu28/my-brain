@@ -1,5 +1,7 @@
 ---
 type: transcript
+ingested: true
+ingested_at: 2026-05-04
 ---
 
 # Meeting: tdo-dzdc-xzx (2025-01-08 19_47 GMT-6) - Transcript

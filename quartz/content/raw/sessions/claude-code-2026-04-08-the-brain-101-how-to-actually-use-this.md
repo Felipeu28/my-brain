@@ -4,6 +4,8 @@ session_id: fca61fb9-3fc9-44df-b540-245452e6e2f2
 date: 2026-04-08
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain/fca61fb9-3fc9-44df-b540-245452e6e2f2.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — The Brain 101 — how to actually use this
 

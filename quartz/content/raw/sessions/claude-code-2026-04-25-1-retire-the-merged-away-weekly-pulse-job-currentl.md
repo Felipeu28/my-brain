@@ -5,6 +5,8 @@ project: Brain/KB/worktree
 date: 2026-04-25
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base--claude-worktrees-stoic-gagarin-e6753d/dab990da-f8e8-446d-8ecf-2f544651a411.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — 1. Retire the merged-away weekly-pulse job (currently loaded)
 

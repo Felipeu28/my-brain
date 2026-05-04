@@ -5,6 +5,8 @@ project: "Brain/Automations"
 date: 2026-04-30
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-pi-workspace/09818c38-8916-46e9-a108-551f9a39df6a.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — You are Andres's plan radar. Every day at noon you scan recent Brain activity an
 

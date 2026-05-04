@@ -5,6 +5,8 @@ project: Clio/worktree
 date: 2026-04-25
 duration_minutes: 645
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-naughty-panini-4b3a78/8d3d3936-61be-43f4-9065-08e8a727e365.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — The user says: "in the existing side by side deployment we made the orb no longe
 

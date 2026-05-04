@@ -5,6 +5,8 @@ project: Clio/worktree
 date: 2026-04-23
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-brave-dewdney-23c2d5/0dfeb457-a83d-43af-bbf3-4b64549bf480.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Clio (luna-brain) app: daughters can't log in — the app shows a fresh onboarding
 

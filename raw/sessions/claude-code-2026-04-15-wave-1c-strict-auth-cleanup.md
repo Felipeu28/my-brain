@@ -5,6 +5,8 @@ project: "Clio"
 date: 2026-04-15
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain/c614ad39-3f68-4926-b032-41b464e0e9c1.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Wave 1c — strict auth + cleanup
 

@@ -1,5 +1,7 @@
 ---
 type: transcript
+ingested: true
+ingested_at: 2026-05-04
 ---
 
 # Meeting Transcript: 2025-05-15-zachary-barker-wyatt-hook

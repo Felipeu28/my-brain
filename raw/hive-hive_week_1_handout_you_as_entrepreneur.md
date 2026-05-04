@@ -1,5 +1,7 @@
 ---
 type: program-doc
+ingested: true
+ingested_at: 2026-05-04
 ---
 
 # HIVE_Week_1_Handout_You_as_Entrepreneur

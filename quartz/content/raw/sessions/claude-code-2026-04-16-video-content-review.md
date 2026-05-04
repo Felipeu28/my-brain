@@ -5,6 +5,8 @@ project: Clio/worktree
 date: 2026-04-16
 duration_minutes: 3150
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-interesting-hopper/bcbdb7a8-ef3e-4773-88fd-1117cc3b410f.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Video content review
 

@@ -5,6 +5,8 @@ project: "Clio/worktree"
 date: 2026-04-28
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-pensive-solomon-475879/0b0a02a9-c167-4cb6-bdfb-df095ee46e3b.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Let's do a full security audit for Clio, including our full main repo!!
 

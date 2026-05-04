@@ -4,6 +4,8 @@ session_id: 3081441a-b1b9-47d7-9146-cf58c4997df5
 date: 2026-04-08
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain/3081441a-b1b9-47d7-9146-cf58c4997df5.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — <command-message>init</command-message>
 

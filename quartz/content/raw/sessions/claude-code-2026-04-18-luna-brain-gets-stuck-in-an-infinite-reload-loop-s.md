@@ -5,6 +5,8 @@ project: Clio/worktree
 date: 2026-04-18
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-romantic-cray-756af3/b82939c5-06b8-4343-ad87-8f0a5733fc80.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Luna Brain gets stuck in an infinite reload loop specifically in Safari. This do
 

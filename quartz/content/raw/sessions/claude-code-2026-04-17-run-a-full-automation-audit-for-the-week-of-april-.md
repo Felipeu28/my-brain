@@ -5,6 +5,8 @@ project: Brain/KB/worktree
 date: 2026-04-17
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base--claude-worktrees-happy-hellman-523610/17f6c42b-c8c9-4e86-902b-c80f6524d108.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Run a full automation audit for the week of April 14–17, 2026. A previous task g
 

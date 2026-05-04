@@ -5,6 +5,8 @@ project: Brain/KB/worktree
 date: 2026-04-21
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base--claude-worktrees-fervent-cohen-88d50b/ec531941-34d7-42bf-b7b9-737774f27f16.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Mapping existing Brain infrastructure
 

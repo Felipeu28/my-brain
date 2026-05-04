@@ -5,6 +5,8 @@ project: Brain/Automations
 date: 2026-04-24
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-pi-workspace/1de9fa07-503f-4872-8e2b-84fb7e0da1b8.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — You are Andres's strategy operator. Every Sunday evening you synthesize a week o
 

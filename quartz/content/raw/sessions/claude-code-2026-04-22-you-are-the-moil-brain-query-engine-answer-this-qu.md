@@ -5,6 +5,8 @@ project: Brain/KB
 date: 2026-04-22
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base/104c89c1-8412-4cdb-9184-eae1499074ac.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — You are the Moil Brain query engine. Answer this question using the Brain's know
 

@@ -1,3 +1,7 @@
+---
+ingested: true
+ingested_at: 2026-05-04
+---
 # Teams Transcript — CRM / Google Setup with Megan
 
 - **Date:** 2026-04-23

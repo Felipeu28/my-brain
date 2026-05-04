@@ -5,6 +5,8 @@ project: "Clio/worktree"
 date: 2026-04-26
 duration_minutes: 5379
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-lucid-ramanujan-e688c3/613c71dd-f512-4aab-ab70-5bb51782012c.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Plan: Fix live issues + clean house
 

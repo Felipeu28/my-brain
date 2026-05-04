@@ -2,7 +2,7 @@
 tags:
   - graph/leaf
 type: hot-cache
-last_updated: 2026-05-03
+last_updated: 2026-05-04
 ---
 # Brain Hot Cache
 
@@ -26,6 +26,7 @@ Updated automatically by:
 ## Recent Ingestions
 
 <!-- ENTRIES:ingest -->
+- 2026-05-04 08:58 — 436 file(s) queued for ingest. Claude exit 0.
 - 2026-05-01 08:57 — 374 file(s) queued for ingest. Claude exit 0.
 - 2026-04-27 08:55 — 11 file(s) queued for ingest. Claude exit 0.
 <!-- /ENTRIES:ingest -->
@@ -33,6 +34,14 @@ Updated automatically by:
 ## Recent Queries
 
 <!-- ENTRIES:query -->
+- 2026-05-04 08:56 — Session end: [Brain/KB] You are the Moil Brain KB Agent. Ingest these unprocessed raw files into wiki pa… — 1 new files · 4 edits
+- 2026-05-04 08:49 — Session end: [Brain/Auto] Run the morning briefing. Execute these steps:  1. Fetch today's calendar: bash … — 1 new files
+- 2026-05-04 08:01 — Session end: [Brain/Auto] You are Andres's strategy operator. Every Sunday evening you synthesize a week o… — 1 new files
+- 2026-05-04 07:44 — Session end: [Brain] Let's do a full review and analysis if everything pushed today.  Let's also audi… — 6 new files · 20 edits · 9 commits
+- 2026-05-04 06:47 — Session end: [Clio] Parallel track: adopt Garry Tan's `gstack` pattern for Clio dev velocity. Tan pu… — 4 chapters · 36 new files · 76 edits · 30 commits
+- 2026-05-04 06:00 — Session end: [Claude] You are the Moil Brain's daily cross-source intelligence analyst.  You are readi… — 9 events
+- 2026-05-04 00:15 — Session end: [Claude] You are an entity-extraction agent for the Moil Brain.  Extract every person men… — 10 events
+- 2026-05-03 21:13 — Session end: [Brain] Let's do a full review and analysis if everything pushed today.  Let's also audi… — 6 new files · 20 edits · 9 commits
 - 2026-05-03 20:43 — Session end: [Brain] Let's do a full review and analysis if everything pushed today.  Let's also audi… — 101 events
 - 2026-05-03 20:31 — Session end: [Brain] Let's do a full review and analysis if everything pushed today.  Let's also audi… — 75 events
 - 2026-05-03 20:21 — Session end: [Clio] In ~/luna-brain/, there's a tracked but orphaned directory at `.claire/worktrees… — 1 edits · 1 commits
@@ -45,14 +54,6 @@ Updated automatically by:
 - 2026-05-03 12:01 — Session end: [Brain/Auto] You are Andres's plan radar. Every day at noon you scan recent Brain activity an… — 1 new files
 - 2026-05-03 11:42 — Session end: [Brain/KB] URGENT — full diagnosis needed. The "Deploy Quartz site to GitHub Pages" workflo… — 18 new files · 42 edits · 17 commits
 - 2026-05-03 11:28 — Session end: [Brain/KB] URGENT — full diagnosis needed. The "Deploy Quartz site to GitHub Pages" workflo… — 9 new files · 38 edits · 14 commits
-- 2026-05-03 11:24 — Session end: [Brain/KB] init — 1 new files
-- 2026-05-03 11:23 — Session end: [Clio] Parallel track: adopt Garry Tan's `gstack` pattern for Clio dev velocity. Tan pu… — 1 chapters · 13 new files · 9 edits · 6 commits
-- 2026-05-03 11:11 — Session end: [Brain/KB] URGENT — full diagnosis needed. The "Deploy Quartz site to GitHub Pages" workflo… — 6 new files · 22 edits · 12 commits
-- 2026-05-03 10:32 — Session end: [Brain/KB] URGENT — full diagnosis needed. The "Deploy Quartz site to GitHub Pages" workflo… — 3 new files · 8 edits · 8 commits
-- 2026-05-03 10:27 — Session end: [Clio] Parallel track: adopt Garry Tan's `gstack` pattern for Clio dev velocity. Tan pu… — 1 new files
-- 2026-05-03 10:12 — Session end: [Brain/KB] URGENT — full diagnosis needed. The "Deploy Quartz site to GitHub Pages" workflo… — 2 edits · 3 commits
-- 2026-05-03 09:40 — Session end: [Brain/KB] URGENT — full diagnosis needed. The "Deploy Quartz site to GitHub Pages" workflo… — 2 edits · 3 commits
-- 2026-05-03 09:18 — Session end: [Brain/KB] URGENT — full diagnosis needed. The "Deploy Quartz site to GitHub Pages" workflo… — 1 edits · 2 commits
 <!-- /ENTRIES:query -->
 
 ## Recent Saves

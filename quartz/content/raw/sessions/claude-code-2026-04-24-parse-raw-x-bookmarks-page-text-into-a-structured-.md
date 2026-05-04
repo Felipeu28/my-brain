@@ -5,6 +5,8 @@ project: Brain/KB/worktree
 date: 2026-04-24
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base--claude-worktrees-confident-cray-8bb0c6/4815efd7-4232-484b-9272-c1cb308fa16f.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Parse raw X bookmarks page text into a structured markdown file.
 

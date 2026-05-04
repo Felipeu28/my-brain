@@ -5,6 +5,8 @@ project: Brain/KB/worktree
 date: 2026-04-18
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base--claude-worktrees-compassionate-wing-44f6d6/fba57870-d522-4dc3-88c4-3ab9f7bfca99.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — In `/Users/jarvisurrego/My Brain/knowledge-base/scripts/whatsapp_parse.py`, the
 

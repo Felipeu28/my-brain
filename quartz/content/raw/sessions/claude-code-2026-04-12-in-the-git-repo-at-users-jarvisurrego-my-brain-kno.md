@@ -4,6 +4,8 @@ session_id: 75c35f1c-1b63-425d-b587-7838e4dcfee3
 date: 2026-04-12
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain/75c35f1c-1b63-425d-b587-7838e4dcfee3.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — In the git repo at /Users/jarvisurrego/My Brain/knowledge-base, rename all the h
 

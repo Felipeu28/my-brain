@@ -5,6 +5,8 @@ project: Clio/worktree
 date: 2026-04-16
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-relaxed-williams/b7f585e0-2007-4606-9847-4c88ae79cb3c.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Open parent dashboard on desktop and mobile
 

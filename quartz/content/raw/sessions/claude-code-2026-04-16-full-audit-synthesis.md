@@ -5,6 +5,8 @@ project: Clio/worktree
 date: 2026-04-16
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-pedantic-lehmann/dccdc689-d1fe-4a97-9b36-cb4df4000217.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Full audit synthesis
 

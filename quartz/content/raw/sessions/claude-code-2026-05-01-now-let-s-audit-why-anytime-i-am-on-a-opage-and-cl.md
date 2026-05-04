@@ -5,6 +5,8 @@ project: "Clio/worktree"
 date: 2026-05-01
 duration_minutes: 17
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-vigilant-bhaskara-3201a7/e8688e4e-5e78-449a-9ee0-816d3c48be96.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Now let's audit why anytime i am on a opage and click refresh it takes me back t
 

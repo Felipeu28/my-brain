@@ -5,6 +5,8 @@ project: Brain/KB/worktree
 date: 2026-04-22
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base--claude-worktrees-sweet-dirac-fc1da4/f2deed5f-676c-430c-a17e-dc9ddcaf1f99.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Option B followup from the Going Cold multi-signal fix (pi-workspace commits a87
 

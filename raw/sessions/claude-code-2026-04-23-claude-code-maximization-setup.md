@@ -5,6 +5,8 @@ project: Brain/KB/worktree
 date: 2026-04-23
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base--claude-worktrees-goofy-aryabhata-226b39/05efda49-7f14-4f91-a54b-078bd67fb26a.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Claude Code Maximization Setup
 

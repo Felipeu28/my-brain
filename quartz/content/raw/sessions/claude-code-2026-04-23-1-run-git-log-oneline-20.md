@@ -5,6 +5,8 @@ project: Clio/worktree
 date: 2026-04-23
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-inspiring-hopper-4c1d67/c69ad811-28af-4c37-b572-2ab8932e6437.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — 1. Run: git log --oneline -20
 

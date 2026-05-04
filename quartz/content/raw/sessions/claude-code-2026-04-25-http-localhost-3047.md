@@ -5,6 +5,8 @@ project: Brain/KB/worktree
 date: 2026-04-25
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base--claude-worktrees-competent-chatterjee-dd9a73/130cc98f-f49d-41c1-9a14-23a896be6f38.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — http://localhost:3047/
 

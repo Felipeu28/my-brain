@@ -4,6 +4,8 @@ session_id: bd838abb-ac81-4270-8333-86cd7d6d6222
 date: 2026-04-11
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain/bd838abb-ac81-4270-8333-86cd7d6d6222.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Moil Brain — Full State Review (April 11, 2026)
 

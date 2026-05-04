@@ -10,6 +10,8 @@ attendees:
   - Andres Urrego (organizer)
   - Carolina ("Caro") (caro0@hotmail.com)
 context: HIVE Cohort 4 one-on-one coaching session
+ingested: true
+ingested_at: 2026-05-04
 ---
 
 # Carolina ("Caro") one-on-one — 2026-04-30

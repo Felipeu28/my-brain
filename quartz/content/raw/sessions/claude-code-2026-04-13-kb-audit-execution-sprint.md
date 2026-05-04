@@ -5,6 +5,8 @@ project: Brain/MyBrain
 date: 2026-04-13
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain/06f1bba9-c500-414b-8a35-5b08aae3247e.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — KB Audit & Execution Sprint
 

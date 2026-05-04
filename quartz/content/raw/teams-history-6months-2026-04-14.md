@@ -1,5 +1,7 @@
 ---
 type: teams-message
+ingested: true
+ingested_at: 2026-05-04
 ---
 
 # Teams 6-Month History (Oct 2025 – Apr 2026)

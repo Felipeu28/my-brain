@@ -5,6 +5,8 @@ project: Clio/worktree
 date: 2026-04-16
 duration_minutes: 247
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-great-black/a9212094-d29d-48b6-83d8-77f1dab8b570.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Clio PR #8 gamification
 

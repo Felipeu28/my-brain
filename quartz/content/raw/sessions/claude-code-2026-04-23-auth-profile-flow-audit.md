@@ -5,6 +5,8 @@ project: Clio/worktree
 date: 2026-04-23
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-elated-archimedes-964e3c/a8b2f5e8-50ef-44db-a37d-b19cb5857e40.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Auth & Profile Flow Audit
 

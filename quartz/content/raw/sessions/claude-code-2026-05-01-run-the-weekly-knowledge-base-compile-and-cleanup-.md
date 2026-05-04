@@ -5,6 +5,8 @@ project: "Brain/KB"
 date: 2026-05-01
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base/dd110ad2-e024-4edb-9e7e-597f83b82103.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Run the weekly knowledge base compile and cleanup. Today is 2026-05-01.
 

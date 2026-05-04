@@ -5,6 +5,8 @@ project: Clio/worktree
 date: 2026-04-16
 duration_minutes: 3891
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-frosty-goldstine/6baf8c93-bc6e-49a7-8129-a98e02964dd2.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Product research: gamification & differentiation
 

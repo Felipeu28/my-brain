@@ -5,6 +5,8 @@ project: Clio/worktree
 date: 2026-04-16
 duration_minutes: 1506
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-mystifying-dubinsky/a21157aa-4064-4059-a7e9-9258f205eb4f.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — <command-message>init</command-message>
 

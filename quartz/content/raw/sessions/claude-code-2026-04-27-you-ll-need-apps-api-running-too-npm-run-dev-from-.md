@@ -5,6 +5,8 @@ project: "Clio/worktree"
 date: 2026-04-27
 duration_minutes: 5808
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-gracious-nobel-356df5/883c7817-ceb0-4cec-bda7-7e4c9cb292eb.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — (you'll need apps/api running too — npm run dev from repo root)
 

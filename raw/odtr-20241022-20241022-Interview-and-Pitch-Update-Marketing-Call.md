@@ -1,5 +1,7 @@
 ---
 type: transcript
+ingested: true
+ingested_at: 2026-05-04
 ---
 
 # 20241022 - Interview and Pitch Update Marketing Call - Transcript

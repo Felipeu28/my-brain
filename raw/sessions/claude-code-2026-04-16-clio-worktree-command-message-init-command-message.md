@@ -5,6 +5,8 @@ project: Clio/worktree
 date: 2026-04-16
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-eager-proskuriakova-16f0f4/6045aa6f-7b62-442e-844c-6577c44d66a6.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — <command-message>init</command-message>
 

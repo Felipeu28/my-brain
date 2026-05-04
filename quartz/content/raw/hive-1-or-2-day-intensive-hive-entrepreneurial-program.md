@@ -1,5 +1,7 @@
 ---
 type: program-doc
+ingested: true
+ingested_at: 2026-05-04
 ---
 
 # 1- or 2-Day Intensive HIVE Entrepreneurial Program

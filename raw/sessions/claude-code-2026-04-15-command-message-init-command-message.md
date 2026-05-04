@@ -5,6 +5,8 @@ project: Clio
 date: 2026-04-15
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain/ef2eaa93-7999-4d4e-9c54-2a67390c69f1.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — <command-message>init</command-message>
 

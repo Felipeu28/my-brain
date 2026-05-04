@@ -5,6 +5,8 @@ project: Brain/Automations
 date: 2026-04-17
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-pi-workspace/da73466b-d17d-4d7a-8006-da4ff2a632b7.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Generate the Moil Brain Weekly Pulse for this week.
 

@@ -4,6 +4,8 @@ session_id: 71a38123-f7a3-47f8-90b1-a2d633b16b1d
 date: 2026-04-12
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain/71a38123-f7a3-47f8-90b1-a2d633b16b1d.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Basic — opens interactive chat session
 

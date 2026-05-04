@@ -5,6 +5,8 @@ project: Brain/KB/worktree
 date: 2026-04-18
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base--claude-worktrees-kind-banzai-8502e5/92f84ba9-dc58-4cfb-9152-54b08dc54df4.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Reading plan & current state
 

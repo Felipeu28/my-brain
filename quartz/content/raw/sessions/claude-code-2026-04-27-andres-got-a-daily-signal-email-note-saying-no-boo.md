@@ -5,6 +5,8 @@ project: "Brain/KB/worktree"
 date: 2026-04-27
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base--claude-worktrees-gallant-cannon-dda405/f352ea1a-ca31-4821-91e4-7b10d4272966.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Andres got a "Daily signal" email/note saying "No bookmarks captured yesterday"
 

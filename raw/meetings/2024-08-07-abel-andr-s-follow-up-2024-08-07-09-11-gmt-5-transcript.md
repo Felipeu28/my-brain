@@ -1,5 +1,7 @@
 ---
 type: transcript
+ingested: true
+ingested_at: 2026-05-04
 ---
 
 # Meeting: Abel & Andrés Follow up (2024-08-07 09_11 GMT-5) - Transcript

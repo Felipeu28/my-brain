@@ -1,5 +1,7 @@
 ---
 type: note
+ingested: true
+ingested_at: 2026-05-04
 ---
 
 # GitHub Project Tracker — Andres Urrego (@Felipeu28)

@@ -5,6 +5,8 @@ project: Clio/worktree
 date: 2026-04-18
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-kind-wilbur-959bf2/e8de8862-d266-453b-8d15-240aa10a8f71.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — All Luna Brain fixes are on branch `claude/cool-germain-3901b1`. They need to re
 

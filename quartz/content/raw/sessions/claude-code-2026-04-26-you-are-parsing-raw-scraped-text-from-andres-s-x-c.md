@@ -5,6 +5,8 @@ project: Brain/Automations
 date: 2026-04-26
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-pi-workspace/fcdb364b-f925-4d39-8b9b-4f644d01df08.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — You are parsing raw scraped text from Andres's X.com bookmarks page into a struc
 

@@ -5,6 +5,8 @@ project: Brain/Automations/worktree
 date: 2026-04-17
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-pi-workspace--claude-worktrees-objective-montalcini-a097f8/f444f521-2f8a-4d05-87de-4f67944b88f4.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Morning Briefing Diagnosis
 

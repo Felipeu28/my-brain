@@ -22,21 +22,21 @@ Bilingual voice-first kids AI companion with persistent memory ("brain graph"), 
 ## Last 7 days
 
 <!-- AUTO: bin/project-activity.sh updates this section daily. Do not edit by hand. -->
-_Updated: 2026-05-03 11:02 (window: 2026-04-26 → 2026-05-03)_
+_Updated: 2026-05-04 08:00 (window: 2026-04-27 → 2026-05-04)_
 
 **Commits (10):**
-- 2026-05-03 docs: add Clio gstack adoption plan (#47)
-- 2026-05-03 fix(web): persist app view via URL routing (#46)
-- 2026-05-03 fix: 401s on gamification + openers, 500 on quests/generate (#45)
-- 2026-05-01 fix(web): persist app view via URL routing (#44)
-- 2026-05-01 fix: 401s on gamification + openers, 500 on quests/generate (#43)
-- 2026-05-01 fix(brain): make graph edges actually visible (#42)
-- 2026-05-01 feat(admin): one-shot edge backfill across every profile (#41)
-- 2026-05-01 feat(admin): one-shot edge backfill across every profile (#40)
-- 2026-05-01 fix(brain): purge dead Gemini IDs from edge synth + add response schema (#39)
-- 2026-05-01 fix(brain): force JSON mode on edge synth + surface real failure reason (#38)
+- 2026-05-04 feat(week4): canary webhook + LLM eval gating + leetspeak safety + CLAUDE.md cleanup (#60)
+- 2026-05-04 feat(agents): wire research-anchored 6-example corpus into clio-parent-comms (#59)
+- 2026-05-03 chore: remove orphaned .claire/ typo dir from prior agent session (#56)
+- 2026-05-03 chore: remove orphan .claire/ typo dir from prior agent session (#55)
+- 2026-05-03 chore(gbrain): reset PGLite to schema v24, reimport, add policy-enforcing wrapper (#54)
+- 2026-05-03 feat(workflow): parallel-sprint model + retro/brain-lint/canary infra (week 3) (#53)
+- 2026-05-03 chore(gbrain): wire PGLite local + per-remote trust tiers (week 2.3) (#52)
+- 2026-05-03 feat(specialists): 5 Clio-only agents + safety/voice/age-tier eval suites (#51)
+- 2026-05-03 fix(api): clear 6 baseline tsc errors + promote typecheck to required CI (#50)
+- 2026-05-03 chore(biome): honor .gitignore via vcs.useIgnoreFile (#49)
 
-**Claude Code sessions (11):**
+**Claude Code sessions (12):**
 - 2026-04-15 — Wave 1c — strict auth + cleanup
 - 2026-04-25 — Do a full regression audit of all voice and UI changes that have landed on main
 - 2026-04-26 — Plan: Fix live issues + clean house

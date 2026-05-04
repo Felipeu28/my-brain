@@ -5,6 +5,8 @@ project: Clio/worktree
 date: 2026-04-19
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-gallant-torvalds-0b2c5c/652641a9-8c96-4796-8e9b-e707eb9a6289.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Codebase exploration
 

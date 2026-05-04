@@ -5,6 +5,8 @@ project: "Brain/Automations"
 date: 2026-04-27
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-pi-workspace/09b8f276-da14-4694-8812-d84de470fbd5.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — You are Andres Urrego's editor. Every evening you distill his X bookmarks from t
 

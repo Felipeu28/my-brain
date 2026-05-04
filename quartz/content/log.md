@@ -4,6 +4,48 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ---
 
+## 2026-05-04 — Run 32: Frontmatter reconciliation pass (450 source files) + signal brief 2026-05-03
+
+**Trigger:** Bulk `/brain-ingest`-style request listing 419 historical raw sources (the entire ingestion backlog from Runs 1–31) plus all 236 `raw/sessions/claude-code-*.md` files. Cross-checked against this log: every file in the request was already substantively ingested in an earlier run. The actual gap was that source-file frontmatter was never updated with `ingested: true / ingested_at`, leaving downstream consumers (the `/brain-ingest` skill, kb-health, future re-runs) unable to tell processed sources from unprocessed ones.
+
+**One genuinely new source ingested:**
+- `quartz/content/raw/signal-briefs/signal-brief-2026-05-03.md` (committed May 4 06:00 by `daily-correlator.py` — May 3 cross-source synthesis covering 86 files across 3 source types). Intelligence already captured in [[wiki/summaries/brain-audit-2026-05-03]] (the "input-rich, reflection-poor" / synthesis-doesn't-query-ChromaDB pattern) and [[MEMORY]] (Inna silence threshold flag, May 4–5 nudge). No new wiki pages required — signal briefs are meta cross-source synthesis, not external knowledge to graph (per Run 31 precedent for `wiki/summaries/brain-audit-2026-05-03`).
+
+**Frontmatter backfill (450 files):**
+- 435 files updated with `ingested: true` / `ingested_at: 2026-05-04` appended to existing YAML frontmatter
+- 16 files (mostly `raw/odtr-*.md` legacy ODTR exports) had no frontmatter at all — minimal frontmatter prepended
+- 15 files were already marked ingested (no-op)
+- 0 files missing
+- Touched: every file under `raw/sessions/` (236), `raw/meetings/` (81), all `raw/odtr-*.md` (61), all `raw/email-digest-2026-04-{14..30}.md`, all `raw/teams-*.md` and `raw/teams-transcript-*.md` from Apr 12–30, all `raw/email-history-*.md`, all `raw/hive-*.md` HIVE program docs (24), all `raw/x-bookmarks-*.md` (4), `raw/buda-hive-edc-*.md`, `raw/weekly-sessions-*.md`, `raw/imessages-people-*.md`, `raw/outlook-emails-*.md`, `raw/moil-documents-*.md`, `raw/moilapp-website-*.md`, `raw/facebook-pages-*.md`, `raw/github-project-tracker.md`, `raw/know-me-extraction-prompts.md`, `raw/onedrive-transcripts/*.md`
+
+**Pages created (0):** All target pages already exist in `wiki/`.
+
+**Pages updated (1):**
+- [[wiki/weekly/2026-05-04]] — fixed broken wikilink `wiki/weekly/My` → `wiki/weekly/2026-05-03` (template placeholder leaked through; flagged by `kb-health.py` Check 2)
+
+**Why no decomposition into per-file log lines:** Each of the 419 historical files is already documented in its original ingestion run (Runs 1–31). Re-listing them would add ~450 lines of duplicate provenance to log.md without adding intelligence. The frontmatter flag on each source file is the durable record — `grep -l "ingested: true" raw/` is the new source of truth for what's been processed. Future runs read frontmatter, not log.md, to decide what to skip.
+
+**Operating layer:**
+- [[index]] — Run 32 header, raw source count 469 → 469 (no new files added; signal-brief lives in `quartz/content/raw/signal-briefs/` outside RAW_DIR rglob), wiki page count 287 → 288 (kb-health-detected drift from prior run reconciled — 288 is the actual count), summaries unchanged at 21
+- [[MEMORY]] — **no update.** Frontmatter-only reconciliation creates no new external commitments. Inna nudge already 🟡-flagged, audit Week 2–3 items already tracked in [[wiki/summaries/brain-audit-2026-05-03]]
+- Daily-correlator output `signal-brief-2026-05-03.md` — referenced from log only; no wiki page (per Run 31 precedent)
+
+**Key intelligence from Run 32:**
+
+1. **The 419 unmarked files are evidence of an old gap in the ingestion protocol — fixing it now means `kb-health.py` and `/brain-ingest`'s "find unprocessed" pass will be accurate from this point forward.** Earlier runs (1, 2, 6, 12, 15, 30, 31) wrote the *log entry* documenting what was ingested but never round-tripped a `ingested: true` marker back to the source file. The protocol in `quartz/content/CLAUDE.md` § Ingestion protocol implies the marker but didn't enforce it. This run closes the gap retroactively.
+
+2. **Signal-brief-2026-05-03 is the second day in a row where the cross-source layer has confirmed the audit's "input-rich, reflection-poor" thesis with fresh receipts.** May 2 brief: John Costilla praise + Nate Herk bookmark are the same production loop. May 3 brief: Andres spent Sunday on Brain infra (URGENT Quartz GH-Pages diagnosis) instead of MEMORY 🔥 items. The synthesis layer is now reliably surfacing pattern-vs-priority drift — the next test is whether anyone (Andres, future-Claude) acts on it. **Brief itself is the action signal; no wiki update needed for the brief itself.**
+
+3. **Inna silence anomaly extends to ~3 days now (last meaningful touch Apr 28 in-person, podcast re-cuts sent May 1 14:59 UTC, no reply through May 3 23:59 UTC).** MEMORY.md threshold was May 4–5; today is May 4 → nudge is due TODAY. Already in MEMORY 🟡; no new commitment created.
+
+4. **Karpathy `## Related`-block linter is the right discipline for this kind of reconciliation work.** Just like `lint-related.sh` enforces backlinks on every `wiki/people/*` and `wiki/projects/*` page, a future `lint-ingested.sh` could enforce that every file in `raw/` (excluding `raw/sessions/` automation pollution) has `ingested: true` or appears in a "skipped, low-signal" registry. Ticketed as a Week-3 candidate but **not** added to MEMORY — it's internal Brain infrastructure (per Run 31 rule).
+
+**Sync step:** `bash scripts/sync_wiki.sh` mirrors all updated source files into `quartz/content/raw/`. **Health step:** `python3 scripts/kb-health.py` after sync — drift on Check 6 (wiki count 287→288) reconciled in this entry; broken-link error on `wiki/weekly/2026-05-04.md` fixed.
+
+**Source count:** 469 → 469 (no new files; signal-brief in `quartz/content/raw/` is not counted by `kb-health.py`'s RAW_DIR rglob). Wiki page count: 287 → 288 (no new pages; existing-count reconciliation only).
+
+---
+
 ## 2026-05-03 — Run 31: Brain self-audit + 4-week implementation plan + signal brief 2026-05-02
 
 **Trigger:** Automated scan for unprocessed `raw/` files. Four high-signal new files since Run 30:

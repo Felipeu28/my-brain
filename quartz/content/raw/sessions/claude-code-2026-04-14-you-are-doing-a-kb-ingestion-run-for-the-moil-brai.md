@@ -5,6 +5,8 @@ project: Brain/KB
 date: 2026-04-14
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base/ae08fa91-57b2-4b3a-8701-498e9f6b0804.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — You are doing a KB ingestion run for the Moil Brain knowledge base.
 

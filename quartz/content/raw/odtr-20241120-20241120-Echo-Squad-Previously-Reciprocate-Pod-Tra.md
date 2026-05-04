@@ -1,5 +1,7 @@
 ---
 type: transcript
+ingested: true
+ingested_at: 2026-05-04
 ---
 
 # 20241120 - Echo Squad - Previously Reciprocate Pod - Transcript

@@ -4,6 +4,8 @@ session_id: e5997a85-ba2d-4519-b974-cb418630b897
 date: 2026-04-12
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain/e5997a85-ba2d-4519-b974-cb418630b897.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — cd "/Users/jarvisurrego/My Brain/knowledge-base" and rename quartz/content/wiki/
 

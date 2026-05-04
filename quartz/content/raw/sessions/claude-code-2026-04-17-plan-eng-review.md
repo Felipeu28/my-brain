@@ -5,6 +5,8 @@ project: Clio/worktree
 date: 2026-04-17
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-confident-mclean-09f88e/085fc3dd-d4c0-474d-b6ee-33d4c6166937.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — plan-eng-review
 

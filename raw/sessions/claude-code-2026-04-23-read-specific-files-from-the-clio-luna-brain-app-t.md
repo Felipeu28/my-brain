@@ -5,6 +5,8 @@ project: Clio/worktree
 date: 2026-04-23
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-happy-ishizaka-2a6379/41dfdc3f-0b71-4147-8009-19b472720984.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Read specific files from the Clio (luna-brain) app to diagnose a login bug.
 

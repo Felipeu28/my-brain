@@ -5,6 +5,8 @@ project: Brain/Automations/worktree
 date: 2026-04-17
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-pi-workspace--claude-worktrees-clever-dhawan-30d2ef/4a591d7e-f6e7-4847-a6ad-9180e17d8f0e.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Script fixes
 

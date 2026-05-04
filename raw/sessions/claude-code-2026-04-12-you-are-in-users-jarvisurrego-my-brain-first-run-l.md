@@ -4,6 +4,8 @@ session_id: 8c1df55b-23e3-439e-96f6-914ba85855f3
 date: 2026-04-12
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain/8c1df55b-23e3-439e-96f6-914ba85855f3.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — You are in /Users/jarvisurrego/My Brain. First run `ls` to see what's there, the
 

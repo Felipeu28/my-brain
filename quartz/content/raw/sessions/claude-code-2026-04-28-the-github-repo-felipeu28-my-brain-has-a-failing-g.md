@@ -5,6 +5,8 @@ project: "Brain/KB/worktree"
 date: 2026-04-28
 duration_minutes: 2797
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base--claude-worktrees-nostalgic-wozniak-e95f83/272f8ddb-1851-4087-a8c4-0721cd76c1fe.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — The GitHub repo Felipeu28/my-brain has a failing GitHub Pages deployment. The bu
 

@@ -5,6 +5,8 @@ project: Brain/KB
 date: 2026-04-21
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base/0d9aa087-0d52-49d1-8ad6-8c14ebbee8c3.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Brain Audit — 2026-04-11
 

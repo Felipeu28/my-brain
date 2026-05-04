@@ -5,6 +5,8 @@ project: Brain/Automations
 date: 2026-04-24
 duration_minutes: 6
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-pi-workspace/fd782152-794b-4693-bad2-772a1680d269.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Capture Andres's X (Twitter) bookmarks and save them to the Brain knowledge base
 

@@ -5,6 +5,8 @@ project: Clio/worktree
 date: 2026-04-25
 duration_minutes: 656
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-great-kapitsa-94d4d7/35af538b-3cae-4ab1-b5d1-1d4916cfb135.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Two things:
 

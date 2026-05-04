@@ -5,6 +5,8 @@ project: Brain/KB/worktree
 date: 2026-04-22
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base--claude-worktrees-relaxed-lumiere-1d93ef/10f4869a-ff94-45b4-8ef1-bce60b65d494.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — The Brain heartbeat script reports today's morning briefing as "missing" even wh
 

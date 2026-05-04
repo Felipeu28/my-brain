@@ -1,6 +1,6 @@
 # Moil Brain — Master Index
 
-**Last compiled:** 2026-05-03 (Run 31 — Brain self-audit + 4-week implementation plan ingestion: Week 1 shipped same-day (entity-graph plist loaded, freshness sentinel live, weekly-operating-brief schedule moved Sun 20:00 → Mon 08:00, X-bookmark zero-item guard), all 6 `wiki/projects/` pages created (Moil, Clio, FitLogic, Connectex, Buda EDC/HIVE, Meridian Buda); 1 new summary page; raw + wiki counts reconciled to actual file counts) · **Total wiki pages:** 287 · **Raw sources:** 469
+**Last compiled:** 2026-05-04 (Run 32 — Frontmatter reconciliation pass: 435 historical raw sources back-stamped with `ingested: true / ingested_at: 2026-05-04` (Runs 1–31 backlog closed); 1 truly new source ingested: signal-brief-2026-05-03 (intelligence already in [[wiki/summaries/brain-audit-2026-05-03]] + [[MEMORY]] Inna 🟡); broken wikilink in [[wiki/weekly/2026-05-04]] fixed; wiki count drift 287→288 reconciled) · **Total wiki pages:** 288 · **Raw sources:** 469
 
 > **Canonical operating truth lives outside the wiki:** if status or architecture notes here conflict with newer operating reality, use `~/My Brain/CURRENT_STATE.md` first.
 
@@ -108,8 +108,8 @@ See also: [[wiki/meetings/historical-transcripts-index]] — raw transcripts not
 | Radar (changelogs) | 1 | Claude Code changelog |
 | Summaries | 18 | |
 | Folder READMEs | 9 | |
-| **Total wiki files** | **~246** | +1 new page from Run 15 |
-| Raw sources ingested | 213 total | Run 15: teams-2026-04-20.md ingested |
+| **Total wiki files** | **288** | Run 32 reconciled actual count |
+| Raw sources ingested | 469 total | Run 32: 435 historical files back-stamped `ingested: true` (closes Runs 1–31 frontmatter gap); 1 new file = signal-brief-2026-05-03 |
 
 **OneDrive Full Transcripts ingestion completed 2026-04-12 (Run 2):**
 - 25 full transcript files processed (raw/meetings/transcript-* format)

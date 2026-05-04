@@ -5,6 +5,8 @@ project: Clio/worktree
 date: 2026-04-25
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-xenodochial-hoover-1750eb/6b80a806-d821-4e74-9eef-ab0e5b467414.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Diagnosis: P0 Audio Silence — Root Cause Found
 

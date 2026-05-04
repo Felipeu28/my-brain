@@ -2,6 +2,8 @@
 type: bookmark
 captured_by: gstack /browse
 account: "@roarkittys"
+ingested: true
+ingested_at: 2026-05-04
 ---
 
 # X Bookmarks — 2026-04-24

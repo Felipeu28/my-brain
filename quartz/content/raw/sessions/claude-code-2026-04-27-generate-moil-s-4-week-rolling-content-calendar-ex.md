@@ -5,6 +5,8 @@ project: "Brain/Automations"
 date: 2026-04-27
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-pi-workspace/e839cdae-48f0-4f31-84e3-ef1e023c214a.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Generate Moil's 4-week rolling content calendar. Execute these steps:
 

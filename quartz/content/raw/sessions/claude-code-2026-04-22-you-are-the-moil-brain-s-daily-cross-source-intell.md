@@ -5,6 +5,8 @@ project: Brain/KB/worktree
 date: 2026-04-22
 duration_minutes: 0
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base--claude-worktrees-mystifying-cray-3a55cc/59f04e7c-c2e3-404f-a479-3f0f41ceb6a9.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — You are the Moil Brain's daily cross-source intelligence analyst.
 

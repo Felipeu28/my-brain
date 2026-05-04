@@ -1,5 +1,7 @@
 ---
 type: email
+ingested: true
+ingested_at: 2026-05-04
 ---
 
 # Outlook Email Summary

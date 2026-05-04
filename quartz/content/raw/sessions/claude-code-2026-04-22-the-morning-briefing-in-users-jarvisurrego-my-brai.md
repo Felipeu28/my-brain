@@ -5,6 +5,8 @@ project: Brain/KB/worktree
 date: 2026-04-22
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base--claude-worktrees-sad-curran-e5bb16/d07bd54f-339a-49e0-ae16-86f2abe94e9c.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — The morning briefing in `/Users/jarvisurrego/My Brain/pi-workspace/bin/morning-b
 

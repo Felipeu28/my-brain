@@ -5,6 +5,8 @@ project: Brain/KB/worktree
 date: 2026-04-17
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base--claude-worktrees-sweet-mclean-05e02f/9c71a0a5-dcff-458a-9d5b-bb04db64ae9e.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — SECURITY: A Google Gemini API key was exposed in this public repo. Use ONLY Read
 

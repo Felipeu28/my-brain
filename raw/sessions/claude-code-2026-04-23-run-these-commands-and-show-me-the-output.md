@@ -5,6 +5,8 @@ project: Clio/worktree
 date: 2026-04-23
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-elated-sutherland-30db4c/ed8f13c9-2d0e-40a2-b523-d94a29a10759.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Run these commands and show me the output:
 

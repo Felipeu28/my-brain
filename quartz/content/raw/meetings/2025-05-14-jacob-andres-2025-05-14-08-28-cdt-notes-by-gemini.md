@@ -1,5 +1,7 @@
 ---
 type: transcript
+ingested: true
+ingested_at: 2026-05-04
 ---
 
 # Meeting: Jacob & Andres - 2025_05_14 08_28 CDT - Notes by Gemini

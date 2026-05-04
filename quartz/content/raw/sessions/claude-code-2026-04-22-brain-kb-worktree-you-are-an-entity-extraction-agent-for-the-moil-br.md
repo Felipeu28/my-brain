@@ -5,6 +5,8 @@ project: Brain/KB/worktree
 date: 2026-04-22
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base--claude-worktrees-mystifying-cray-3a55cc/fdf3bd27-21c9-40e7-90e4-f396a45c9c92.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — You are an entity-extraction agent for the Moil Brain.
 

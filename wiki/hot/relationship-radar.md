@@ -3,27 +3,27 @@ tags:
   - graph/leaf
 type: hot-file
 auto_generated: true
-last_updated: 2026-04-22
+last_updated: 2026-05-04
 ---
 
 # Relationship Radar
 
-*Auto-generated 2026-04-22. Contacts with `status != archived` and no recorded contact in 14+ days, sorted by relationship priority. Do not edit — regenerated nightly.*
+*Auto-generated 2026-05-04. Contacts with `status != archived` and no recorded contact in 14+ days, sorted by relationship priority. Do not edit — regenerated nightly.*
 
 ## Going cold (needs attention)
 
-- [[wiki/people/terry-hive-cohort|Terry (HIVE Cohort — last name TBD)]] — **107 days** cold (last: 2026-01-05) · `customer` · [[wiki/orgs/buda-edc]]
-- [[wiki/people/carol-hive-cohort|Carol (HIVE Cohort — last name TBD)]] — **83 days** cold (last: 2026-01-29) · `customer` · [[wiki/orgs/buda-edc]]
-- [[wiki/people/sarah-hive-cohort|Sarah (HIVE Cohort — last name TBD)]] — **71 days** cold (last: 2026-02-10) · `customer` · [[wiki/orgs/buda-edc]]
-- [[wiki/people/liz-hive-cohort|Liz (HIVE Cohort — last name TBD)]] — **68 days** cold (last: 2026-02-13) · `customer` · [[wiki/orgs/buda-edc]]
-- [[wiki/people/miguel|Miguel]] — **68 days** cold (last: 2026-02-13) · `customer`
-- [[wiki/people/alison-metgen|Alison (MetGen Health)]] — **60 days** cold (last: 2026-02-21) · `customer`
-- [[wiki/people/brittany-menopausal-clothing|Brittany (Menopausal Clothing Brand — name TBD)]] — **54 days** cold (last: 2026-02-27) · `customer`
-- [[wiki/people/shirlet-oriakhi|Dr. Shirlet Oriakhi]] — **54 days** cold (last: 2026-02-27) · `customer`
-- [[wiki/people/dafne-gutierrez|Dafne Gutierrez]] — **53 days** cold (last: 2026-02-28) · `customer`
-- [[wiki/people/rashaka-boykins|Rashaka Boykins]] — **48 days** cold (last: 2026-03-05) · `customer`
-- [[wiki/people/oscar-esquivel|Oscar Esquivel]] — **47 days** cold (last: 2026-03-06) · `customer` · [[wiki/orgs/alloy-atx]]
-- [[wiki/people/roxana-esquivel|Roxana Esquivel]] — **40 days** cold (last: 2026-03-13) · `customer`
+- [[wiki/people/terry-hive-cohort|Terry (HIVE Cohort — last name TBD)]] — **119 days** cold (last: 2026-01-05) · `customer` · [[wiki/orgs/buda-edc]]
+- [[wiki/people/carol-hive-cohort|Carol (HIVE Cohort — last name TBD)]] — **95 days** cold (last: 2026-01-29) · `customer` · [[wiki/orgs/buda-edc]]
+- [[wiki/people/sarah-hive-cohort|Sarah (HIVE Cohort — last name TBD)]] — **83 days** cold (last: 2026-02-10) · `customer` · [[wiki/orgs/buda-edc]]
+- [[wiki/people/liz-hive-cohort|Liz (HIVE Cohort — last name TBD)]] — **80 days** cold (last: 2026-02-13) · `customer` · [[wiki/orgs/buda-edc]]
+- [[wiki/people/miguel|Miguel]] — **80 days** cold (last: 2026-02-13) · `customer`
+- [[wiki/people/alison-metgen|Alison (MetGen Health)]] — **72 days** cold (last: 2026-02-21) · `customer`
+- [[wiki/people/brittany-menopausal-clothing|Brittany (Menopausal Clothing Brand — name TBD)]] — **66 days** cold (last: 2026-02-27) · `customer`
+- [[wiki/people/shirlet-oriakhi|Dr. Shirlet Oriakhi]] — **66 days** cold (last: 2026-02-27) · `customer`
+- [[wiki/people/dafne-gutierrez|Dafne Gutierrez]] — **65 days** cold (last: 2026-02-28) · `customer`
+- [[wiki/people/oscar-esquivel|Oscar Esquivel]] — **59 days** cold (last: 2026-03-06) · `customer` · [[wiki/orgs/alloy-atx]]
+- [[wiki/people/roxana-esquivel|Roxana Esquivel]] — **52 days** cold (last: 2026-03-13) · `customer`
+- [[wiki/people/zane-gibson|Zane Gibson]] — **50 days** cold (last: 2026-03-15) · `customer` · [[wiki/orgs/txor]]
 
 ---
 

@@ -5,6 +5,8 @@ project: Brain/KB/worktree
 date: 2026-04-18
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base--claude-worktrees-great-heyrovsky-d3071b/0ce94324-d495-4254-bf1e-7eb85fc9ea88.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — The GitHub Pages deploy for `Felipeu28/my-brain` is failing. Build succeeds in ~
 

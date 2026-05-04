@@ -1,5 +1,7 @@
 ---
 type: email
+ingested: true
+ingested_at: 2026-05-04
 ---
 
 # Email History — Oct 2025 to 2026-04-12

@@ -5,6 +5,8 @@ project: Brain/KB
 date: 2026-04-14
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base/8dc8c4eb-aa1c-43d5-a7b6-23ae5aac9345.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Check for any new files in raw/ that haven't been processed yet (not in log.md).
 

@@ -5,6 +5,8 @@ project: Brain/Automations
 date: 2026-04-24
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-pi-workspace/75367b8e-89a0-48b1-9644-beb1af3b9faf.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Generate a one-page implementation plan for Andres Urrego at Moil.
 

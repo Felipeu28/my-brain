@@ -5,6 +5,8 @@ project: Brain/Automations/worktree
 date: 2026-04-17
 duration_minutes: 11928
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-pi-workspace--claude-worktrees-suspicious-stonebraker-47f252/69cb40c2-ad54-4c63-854c-2fb50eb5d3ee.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Diagnosis
 

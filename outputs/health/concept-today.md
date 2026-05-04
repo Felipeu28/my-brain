@@ -1,4 +1,4 @@
-## Concept of the day — [[wiki/concepts/buda-hive|Buda HIVE]]
+## Concept of the day — [[wiki/concepts/campaignos|CampaignOS]]
 
 _Last touched: 2026-04-11_  •  _Type: concept_
 

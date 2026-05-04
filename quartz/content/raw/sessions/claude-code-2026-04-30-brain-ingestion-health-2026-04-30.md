@@ -5,6 +5,8 @@ project: "Brain/KB/worktree"
 date: 2026-04-30
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base--claude-worktrees-objective-lumiere-3b25d8/c5f752e5-4353-4eb4-a1d0-b14f00a8a927.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Brain Ingestion Health — 2026-04-30
 

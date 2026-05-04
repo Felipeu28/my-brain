@@ -5,6 +5,8 @@ project: Clio/worktree
 date: 2026-04-16
 duration_minutes: 1068
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-dazzling-colden/0a120494-293b-47c8-9c19-5568325f21c1.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Clio — Full Implementation
 

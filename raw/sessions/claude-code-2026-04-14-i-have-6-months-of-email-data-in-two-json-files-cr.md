@@ -5,6 +5,8 @@ project: Brain/Automations
 date: 2026-04-14
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-pi-workspace/7dd709c3-663f-489f-a6fc-b80c8827f50f.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — I have 6 months of email data in two JSON files. Create a structured Brain raw s
 

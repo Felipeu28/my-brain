@@ -5,6 +5,8 @@ project: "Clio"
 date: 2026-05-01
 duration_minutes: 551
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain/5a69d47a-17a5-4f3a-8ca6-50d0a0f28629.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Let's create a new video about the parents side of clio, you can use browser, I
 

@@ -5,6 +5,8 @@ project: Clio/worktree
 date: 2026-04-17
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-kind-pare-4d59d3/369c582d-c727-4972-a8c2-a64b084af15d.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Vision vs. Reality Gap Analysis
 

@@ -5,6 +5,8 @@ project: Clio/worktree
 date: 2026-04-25
 duration_minutes: 665
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-reverent-ellis-746dd8/cf9f92ef-c714-4dcd-8501-bbde0318b11a.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — URGENT landscape UI fix for Clio. Andres shared a photo showing the iPad in land
 

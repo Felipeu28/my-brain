@@ -3,6 +3,8 @@ tags:
   - graph/leaf
   - source/teams-transcript
 date: 2026-04-29
+ingested: true
+ingested_at: 2026-05-04
 ---
 
 # Teams Transcript — Megan & Moil — CRM test and delivery

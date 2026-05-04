@@ -5,6 +5,8 @@ project: Clio/worktree
 date: 2026-04-19
 duration_minutes: 1301
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-flamboyant-banach-22d686/5e6b0697-08c0-4b3c-ba71-f5d233c33efd.jsonl
+ingested: true
+ingested_at: 2026-05-04
 ---
 # Claude Code Session — Codebase exploration
 

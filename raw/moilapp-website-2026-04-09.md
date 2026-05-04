@@ -1,5 +1,7 @@
 ---
 type: note
+ingested: true
+ingested_at: 2026-05-04
 ---
 
 # moilapp.com — Website Content

@@ -1,5 +1,7 @@
 ---
 type: transcript
+ingested: true
+ingested_at: 2026-05-04
 ---
 
 # Meeting: HubSpot Marketing Kickoff Call - 2025_04_28 11_58 CDT - Notes by Gemini
