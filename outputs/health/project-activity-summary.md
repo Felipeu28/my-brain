@@ -1,17 +1,17 @@
 ## Per-Project Activity
 
-_Window: 2026-04-27 → 2026-05-04_
+_Window: 2026-04-28 → 2026-05-05_
 
 ### Startups
 
-- **Moil** — 57 signals (0 commits · 39 sessions · 18 mentions)
-- **Clio** — 24 signals (10 commits · 12 sessions · 2 mentions)
+- **Moil** — 197 signals (0 commits · 95 sessions · 102 mentions)
+- **Clio** — 59 signals (10 commits · 43 sessions · 6 mentions)
 
 ### Client projects
 
 | Project | Commits | Sessions | Mentions |
 |---|---|---|---|
-| FitLogic | 0 | 0 | 4 |
-| Connectex | 0 | 0 | 7 |
-| Buda EDC / HIVE | 0 | 0 | 11 |
-| Meridian Buda | 0 | 0 | 2 |
+| FitLogic | 0 | 0 | 12 |
+| Connectex | 0 | 0 | 16 |
+| Buda EDC / HIVE | 0 | 0 | 41 |
+| Meridian Buda | 0 | 0 | 7 |

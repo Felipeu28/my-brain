@@ -1,6 +1,8 @@
 # Moil Brain — Master Index
 
-**Last compiled:** 2026-05-04 (Run 33 — Mon May 4 ingestion: 3 new Teams transcripts (Christine + Kat coaching, Claudia coaching, Monday Collaboration). New wiki: 3 people ([[wiki/people/christine-stjohn]], [[wiki/people/kat-eyers]], [[wiki/people/claudia-sanchez]]) + 3 orgs ([[wiki/orgs/unwrapped-uncorked-events]], [[wiki/orgs/nativa-medspa]], [[wiki/orgs/water-to-wine]]) + 3 meetings ([[wiki/meetings/2026-05-04-christine-kat-coaching]], [[wiki/meetings/2026-05-04-claudia-sanchez-coaching]], [[wiki/meetings/2026-05-04-monday-collaboration]]). Cohort 4 1:1 → MVP-decision conversion now 4/4 (Heather, Caro, Claudia, Christine+Kat). Train Depot opportunity surfaced. Cost-discipline rule + free-trial rollout decided.) · **Total wiki pages:** 297 · **Raw sources:** 473
+**Last compiled:** 2026-05-05 (Run 34 — May 5 ingestion: email-digest 2026-05-04 + signal-briefs 2026-05-03 & 2026-05-04. Updated: [[wiki/people/oscar-esquivel]] (May 4 activation-handoff window), [[wiki/orgs/alloy-atx]], [[wiki/people/inna-benyukhis]] (silence past escalation threshold — 4 days), [[wiki/moil/gtm]] (May 4 cold-campaign update + narrative-as-product convergence). New: [[wiki/people/sarah-cordano]] (Bank OZK banker-of-record stub).) · **Total wiki pages:** 298 · **Raw sources:** 473 (signal-briefs live under quartz/content/raw/signal-briefs/ outside the kb-health RAW_DIR rglob, per Run 32 precedent)
+
+**Previous run header:** Run 33 (2026-05-04) — 3 new Teams transcripts (Christine + Kat coaching, Claudia coaching, Monday Collaboration); Cohort 4 1:1 → MVP-decision conversion 4/4; Train Depot opportunity; cost-discipline rule + free-trial rollout decided.
 
 > **Canonical operating truth lives outside the wiki:** if status or architecture notes here conflict with newer operating reality, use `~/My Brain/CURRENT_STATE.md` first.
 
@@ -28,7 +30,7 @@
 | Folder | Count | What's in it |
 |---|---|---|
 | [[wiki/moil/README|moil/]] | 11 | Moil business — positioning, ICP, GTM, customers, competitors, metrics, product roadmap, active-projects |
-| [[wiki/people/README|people/]] | 60 | Personal network — family, friends, customers, collaborators, team |
+| [[wiki/people/README|people/]] | 61 | Personal network — family, friends, customers, collaborators, team |
 | [[wiki/minds/README|minds/]] | 11 | Public AI thought leaders tracked from afar |
 | [[wiki/orgs/README|orgs/]] | 25 | Customer, partner, and prospect organizations |
 | [[wiki/concepts/README|concepts/]] | 35 | Frameworks, mental models, products, programs |

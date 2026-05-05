@@ -4,6 +4,53 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ---
 
+## 2026-05-05 — Run 34: email-digest 2026-05-04 + signal-briefs 2026-05-03 & 2026-05-04
+
+**Trigger:** KB-agent ingest of three new raw sources committed by automation:
+- `quartz/content/raw/email-digest-2026-05-04.md` (also mirrored at `raw/email-digest-2026-05-04.md`) — Mon May 4 inbox + sent.
+- `quartz/content/raw/signal-briefs/signal-brief-2026-05-03.md` — Sun May 3 cross-source brief (86 files / 3 source types).
+- `quartz/content/raw/signal-briefs/signal-brief-2026-05-04.md` — Mon May 4 cross-source brief (439 files / 14 source types).
+
+**Pages created (1):**
+- [[wiki/people/sarah-cordano]] — Bank OZK banker-of-record stub. Inbound *"Checking in from Bank OZK"* email implies Moil business account opened ~2025-07. First time the banker-of-record surface lands in the Brain. Tagged `graph/leaf` + `person/vendor`.
+
+**Pages updated (4):**
+- [[wiki/people/oscar-esquivel]] — Added 2026-05-04 row to Engagement Timeline + new "May 4 — Activation-handoff window" section. Three threads in one day: ChatGPT-drafted business plan inbound, 6-doc strategy package inbound (Lakeline & Teravista Growth Engines + Events Strategy + Marketing Playbook + Authority Events), paired Roxana onboarding push. Same operational phase that produced the FitLogic P0 bug list.
+- [[wiki/orgs/alloy-atx]] — Timeline extended with May 4 activation-handoff entry.
+- [[wiki/people/inna-benyukhis]] — New "May 3–4 — Silence past escalation threshold (now 4 days)" section. Inna absent from both digests; LinkedIn/IG queue blocked since Apr 27; CRM demo slipped a week; pipeline page (`wiki/moil/pipeline.md`) staleness flagged. Action: direct ping today.
+- [[wiki/moil/gtm]] — New "Cold campaign — May 4 update" section. Captures the **narrative-as-product convergence**: Carol Vaccaro's *"entrepreneurs arrive with research and plan done"* anecdote is the same narrative running on accelerator app + cold outbound + free-trial rollout strategy. Volume dropped from late-Apr peak (24/day) to ~7/day; multiplier moved from send-count to narrative reuse. Also captures the Sarah Cordano banker-of-record + Alyson Williams investor cold-spam flag.
+
+**Pages NOT created (signal-briefs convention):**
+- Per Run 32 + Run 28 precedent, daily signal briefs do **not** get their own wiki pages — they are derivative cross-source synthesis. Their intelligence flows through to the entity pages (Oscar, Alloy ATX, Inna, GTM) and the daily log entry. The Apr 15–30 series consolidation lives at [[wiki/summaries/signal-briefs-2026-04-15-26]]; May briefs are tracked here in log.md headers until the next consolidation pass.
+
+**Operating layer:**
+- [[index]] — Run 34 header; raw source count 473 → 475 (+2: signal-briefs are new files; email-digest already existed at root with the same content); wiki page count 297 → 298 (+1 sarah-cordano); people count 60 → 61.
+- [[MEMORY]] — **no update.** MEMORY.md already at 199/200 lines; today's items are tracked on entity pages + this log entry. Inna nudge already on the page in 🔥-tier; Oscar activation-handoff is live-watch but Andres has the signal via the Oscar entity page recent-activity block.
+
+**Key intelligence from Run 34:**
+
+1. **🔥 Alloy ATX has entered the FitLogic-style activation-handoff window.** Oscar's first-ever 3-thread day (May 4) lines up with Roxana's onboarding push (2 Teams invites + 21-question nudge) — same shape as the FitLogic delivery week that produced the P0 bug list. The window is the moment to lock the success path before drift; the entity page now flags it explicitly so any future ingestion that touches Alloy can reference the pattern instead of re-deriving it.
+
+2. **🔥 Inna silence is now 4 days past the May 4–5 escalation threshold from MEMORY.** Two consecutive signal briefs (May 3 + May 4) flagged it; the email-digest contains zero Inna touches. Three concurrent stalls: LinkedIn/IG publish queue (since Apr 27), CRM demo (slipped one week from Apr 28), retainer trust capital. The Brain has surfaced this through three independent layers (entity page, signal brief, MEMORY) — the next layer that can act is human (Andres direct ping).
+
+3. **🔥 The cold campaign has crossed into "narrative-as-product."** Carol Vaccaro's *"entrepreneurs arrive with research and plan done"* anecdote on May 4 is the **same** narrative running on three surfaces simultaneously: (a) the live accelerator-application drafting (15+ claude-session entries), (b) the 4-prospect EDC outbound batch, (c) the [[wiki/meetings/2026-05-04-monday-collaboration|May 4 Monday Collaboration]] free-trial rollout marketing strategy. The send-volume drop (24/day → ~7/day) is not a slowdown — it's a multiplier shift from raw count to narrative reuse across product surfaces. Worth promoting "EDC-feedback narrative" to a named asset alongside the demo + close-out variants in [[wiki/moil/gtm]] templates.
+
+4. **🟡 First banker-of-record surface in the Brain.** Sarah Cordano (Bank OZK, sarah.cordano@ozk.com) sent the 10-month relationship check-in. Implies the business account opened ~2025-07. Pairs operationally with the May 4 Monday Collaboration credit-card / Groq / Gwen blocker — a banker conversation may be the right channel rather than another support ticket. New entity tagged `graph/leaf` because vendor relationships shouldn't crowd the network graph until they become deal-relevant.
+
+5. **🟡 Investor cold-spam flag (Alyson Williams).** *"$2M to $35M family office allocation"* + sender domain `familyfinanceglobal.info` + round-number framing fit common scam-pattern. Captured in the GTM page as a do-not-respond marker rather than ignored — future runs that see similar inbound should be able to grep this pattern.
+
+6. **🟢 The signal-brief layer is now working as designed.** The May 3 brief flagged Inna silence + Brain-infra-vs-priorities drift; the May 4 brief flagged Oscar activation-handoff + Inna silence extension. Both are propagating to entity pages this run rather than dying inside the brief. The audit thesis from `wiki/summaries/brain-audit-2026-05-03` ("input-rich, reflection-poor") is partially closing — synthesis output is reaching the wiki, even if synthesis scripts still don't read ChromaDB.
+
+**Action-item delta:**
+- **Closed (~0):** None this run — all entries are observation/state-capture rather than action-completion.
+- **Opened (~3):** Andres → direct ping Inna today (silence past threshold); Andres → lock Alloy ATX success path this week (activation-handoff); Andres → consider Bank OZK check-in (low urgency, useful for credit-card escalation).
+
+**Sync step:** `bash scripts/sync_wiki.sh`. **Health step:** `python3 scripts/kb-health.py`. Source files marked `ingested: true / ingested_at: 2026-05-05`.
+
+**Source count:** 473 → 475 (+2: 2 new signal-brief files; the email-digest existed at root before this run, only the quartz mirror is the second copy). Wiki page count: 297 → 298 (+1 sarah-cordano).
+
+---
+
 ## 2026-05-04 — Run 33: Mon May 4 — 3 Teams transcripts (Christine+Kat, Claudia, Monday Collaboration)
 
 **Trigger:** Automated scan for unprocessed `raw/` files. Three high-signal new files committed by `teams_ingest.sh` at 18:23:

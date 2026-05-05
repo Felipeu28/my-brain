@@ -58,6 +58,7 @@ AlloyATX is a fitness/wellness business operating across Lakeline, Round Rock, a
 - Apr 11: Team confirms deal closing
 - **Apr 14: Full onboarding call (90 min). Deal closed. Teams shared folder created. Asset handover initiated.**
 - **Apr 20: 💰 First Stripe payment — $75 for Moil Enterprise subscription** (r.yglesias@alloyatx.com). Deal is live-billing.
+- **May 4: Activation-handoff window** — Oscar 3-thread day (ChatGPT-drafted business plan + 6-doc strategy package for evaluation); Roxana onboarding push (2 Teams invites + 21-question nudge). Same operational phase where FitLogic produced its P0 bug list. See [[raw/signal-briefs/signal-brief-2026-05-04]].
 
 ## Open Items
 

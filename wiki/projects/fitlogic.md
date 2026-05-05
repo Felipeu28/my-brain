@@ -22,13 +22,17 @@ Anchor Moil 360 customer; first end-to-end delivery completed Apr 29 in an 88-mi
 ## Last 7 days
 
 <!-- AUTO: bin/project-activity.sh updates this section daily. Do not edit by hand. -->
-_Updated: 2026-05-04 08:00 (window: 2026-04-27 → 2026-05-04)_
+_Updated: 2026-05-05 08:00 (window: 2026-04-28 → 2026-05-05)_
 
-**Mentions in meetings + raw (4):**
+**Mentions in meetings + raw (12):**
 - [[wiki/meetings/2026-04-28-website-update-review-internal]]
 - [[wiki/meetings/2026-04-29-megan-fitlogic-crm-delivery]]
-- [[raw/teams-transcript-megan-moil-crm-test-and-delivery-2026-04-29]]
-- [[raw/teams-transcript-website-update-review-call-2026-04-28]]
+- [[wiki/meetings/2026-05-04-monday-collaboration]]
+- [[raw/github-project-tracker]]
+- [[raw/teams-2026-04-12]]
+- [[raw/teams-2026-04-15]]
+- [[raw/teams-2026-04-24]]
+- [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]]
 
 ## Recent decisions
 

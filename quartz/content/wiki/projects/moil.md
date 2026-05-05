@@ -21,28 +21,28 @@ Moil is shipping into a stack of 12+ Tier 1 paying clients with first end-to-end
 ## Last 7 days
 
 <!-- AUTO: bin/project-activity.sh updates this section daily. Do not edit by hand. -->
-_Updated: 2026-05-04 08:00 (window: 2026-04-27 → 2026-05-04)_
+_Updated: 2026-05-05 08:00 (window: 2026-04-28 → 2026-05-05)_
 
-**Claude Code sessions (39):**
-- 2026-04-26 — Pull today's Microsoft Teams meeting transcripts and add them to the Brain.
-- 2026-04-26 — You are Andres's plan radar. Every day at noon you scan recent Brain activity an
-- 2026-04-26 — You are Andres's strategy operator. Every Sunday evening you synthesize a week o
-- 2026-04-27 — You are parsing raw scraped text from Andres's X.com bookmarks page into a struc
-- 2026-04-27 — You are the Moil Brain's daily cross-source intelligence analyst.
-- 2026-04-27 — Generate Moil's 4-week rolling content calendar. Execute these steps:
-- 2026-04-27 — Pull today's Microsoft Teams meeting transcripts and add them to the Brain.
-- 2026-04-27 — Read these two JSON files of today's email activity and create a structured Brai
-- 2026-04-27 — Run the morning briefing. Execute these steps:
-- 2026-04-27 — You are Andres's plan radar. Every day at noon you scan recent Brain activity an
-**Mentions in meetings + raw (18):**
+**Claude Code sessions (95):**
+- 2026-04-13 — KB Audit & Execution Sprint
+- 2026-04-14 — Brain System Audit
+- 2026-04-14 — I have 6 months of email data in two JSON files. Create a structured Brain raw s
+- 2026-04-14 — Pull today's Microsoft Teams meeting transcripts and add them to the Brain.
+- 2026-04-14 — Read these two JSON files of today's email activity and create a structured Brai
+- 2026-04-14 — Run the morning briefing. Execute these steps:
+- 2026-04-15 — Pull today's Microsoft Teams meeting transcripts and add them to the Brain.
+- 2026-04-15 — Read these two JSON files of today's email activity and create a structured Brai
+- 2026-04-15 — Run the morning briefing. Execute these steps:
+- 2026-04-16 — Pull today's Microsoft Teams meeting transcripts and add them to the Brain.
+**Mentions in meetings + raw (102):**
 - [[wiki/meetings/2026-04-28-mark-polanco-connectex-walkthrough]]
 - [[wiki/meetings/2026-04-28-website-update-review-internal]]
 - [[wiki/meetings/2026-04-29-megan-fitlogic-crm-delivery]]
 - [[wiki/meetings/2026-04-30-carolina-coaching]]
 - [[wiki/meetings/2026-04-30-heather-skeen-coaching]]
-- [[raw/email-digest-2026-04-27]]
-- [[raw/email-digest-2026-04-28]]
-- [[raw/email-digest-2026-04-29]]
+- [[wiki/meetings/2026-05-04-christine-kat-coaching]]
+- [[wiki/meetings/2026-05-04-monday-collaboration]]
+- [[raw/buda-hive-edc-2026-04-09]]
 
 ## Recent decisions
 

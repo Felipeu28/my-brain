@@ -22,11 +22,16 @@ Closed Apr 9, 2026. Full custom ticketed-events platform — Stripe payments, or
 ## Last 7 days
 
 <!-- AUTO: bin/project-activity.sh updates this section daily. Do not edit by hand. -->
-_Updated: 2026-05-04 08:00 (window: 2026-04-27 → 2026-05-04)_
+_Updated: 2026-05-05 08:00 (window: 2026-04-28 → 2026-05-05)_
 
-**Mentions in meetings + raw (2):**
+**Mentions in meetings + raw (7):**
 - [[wiki/meetings/2026-04-30-carolina-coaching]]
+- [[raw/email-history-9months-2026-04-15]]
+- [[raw/github-project-tracker]]
+- [[raw/imessages-people-2026-04-09]]
+- [[raw/teams-2026-04-12]]
 - [[raw/teams-transcript-carolina-2026-04-30]]
+- [[raw/teams-transcript-monday-collaboration-2026-04-13]]
 
 ## Recent decisions
 

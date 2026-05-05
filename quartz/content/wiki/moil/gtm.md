@@ -5,8 +5,8 @@ tags:
 # Moil — Go-to-Market Motion
 
 **Type:** moil-topic
-**Last updated:** 2026-05-01
-**Source:** [[raw/moil-documents-2026-04-09]], [[raw/moilapp-website-2026-04-09]], [[raw/teams-2026-04-12]], [[raw/email-digest-2026-04-14]], [[raw/email-digest-2026-04-15]], [[raw/email-digest-2026-04-17]], [[raw/email-digest-2026-04-20]], [[raw/email-digest-2026-04-21]], [[raw/email-digest-2026-04-22]], [[raw/email-digest-2026-04-27]], [[raw/email-digest-2026-04-28]], [[raw/email-digest-2026-04-29]], [[raw/email-digest-2026-04-30]], [[raw/email-digest-2026-05-01]]
+**Last updated:** 2026-05-05
+**Source:** [[raw/moil-documents-2026-04-09]], [[raw/moilapp-website-2026-04-09]], [[raw/teams-2026-04-12]], [[raw/email-digest-2026-04-14]], [[raw/email-digest-2026-04-15]], [[raw/email-digest-2026-04-17]], [[raw/email-digest-2026-04-20]], [[raw/email-digest-2026-04-21]], [[raw/email-digest-2026-04-22]], [[raw/email-digest-2026-04-27]], [[raw/email-digest-2026-04-28]], [[raw/email-digest-2026-04-29]], [[raw/email-digest-2026-04-30]], [[raw/email-digest-2026-05-01]], [[raw/email-digest-2026-05-04]], [[raw/signal-briefs/signal-brief-2026-05-04]]
 **Related:** [[wiki/moil/positioning]], [[wiki/moil/icp]], [[wiki/concepts/buda-hive]], [[wiki/people/travis-sutherland]], [[wiki/people/daniel-guadiano]], [[wiki/people/renee-simmons]], [[wiki/people/adam-maxon]], [[wiki/people/irma-mason]], [[wiki/people/elisa-alaniz]], [[wiki/people/katherine-silvas]], [[wiki/orgs/helotes-edc]]
 
 ---
@@ -260,6 +260,26 @@ Single-day outbound: **24 sends** — heavy break-up day across the prospect lis
   - 🟢 **Marilyn Martinez (Nuovo Entertainment)** identified as the primary contact on the long-orphan Nuovo client; *Website Discussion* call accepted (16:20 UTC). See [[wiki/orgs/nuovo-entertainment]] + [[wiki/people/marilyn-martinez]].
 
 **Signal:** May 1 closes the Apr 30 momentum loop. Three meaningful inbound conversions (PSA mtg + TEDC keynote + John video co-marketing offer) land in the same digest as a 13-send break-up blitz — the **break-up template is now a routine prospect-list cleanup tool, not a last-ditch tactic**, and the campaign's compounding effect is showing up as inbound/calendar wins on the same day. The *"Something we didn't expect"* / *"Interesting feedback from an EDC"* story-led variant is now the primary forward-motion template (≥ 6 sends today + 9 sends Apr 30) — proven enough that "EDC-feedback social proof" should be tracked as a named template alongside the demo + close-out variants.
+
+### Cold campaign — May 4 update (EDC-feedback story = same narrative as live accelerator pitch)
+
+Source: [[raw/email-digest-2026-05-04]], [[raw/signal-briefs/signal-brief-2026-05-04]]
+
+Single-day outbound: **7+ chamber/EDC sends** plus close-out variants. Lower volume than late-April peak days but with a tighter narrative.
+
+- **"Interesting feedback from an EDC" (story-led) — 4 sends:** Carol Vaccaro (pointpleasantbeachnj.com — NJ), Heather McIntyre (jeffersoncountywvchamber.org — WV), Christopher Phelan (hunterdon-chamber.org — NJ/CT cluster), Erich Peter (ucedc.com — NJ). The reusable hook: *"Before Moil, entrepreneurs asked advisors to write the plan; now they arrive with research and plan done."* Same anecdote sent in parallel to four prospects.
+- **"Should I close this out?" / "Last note" (close-out) — 3 sends:** Katie Parks (medco-corp.com — Maryland EDC), Lisa Widmaier (esahec.org — Eastern Shore AHEC), Nicholas Lucas (uschamber.com — U.S. Chamber Institute for Legal Reform).
+
+**Cross-source signal (from May 4 brief):** Andres spent the day in **Home/accelerator-application mode** (15+ claude-session entries on *"Build a full accelerator application roadmap and strategy"*) **while** sending the same EDC-feedback narrative to 4 fresh prospects. **The accelerator pitch is being battle-tested in cold outbound the same hour it's being written** — Carol's *"entrepreneurs arrive with research and plan done"* anecdote is the accelerator narrative. This converges the May 4 Monday Collaboration *"license-sales traction over website creation framing"* directive ([[wiki/meetings/2026-05-04-monday-collaboration]]) with the live outbound asset.
+
+**Operational artifact — banking relationship:** [[wiki/people/sarah-cordano|Sarah Cordano]] (Bank OZK) sent a 10-month relationship check-in inbound. Not a deal but a **banker-of-record relationship** worth maintaining — implies the Bank OZK business account opened ~2025-07. First time the banker-of-record surface shows up in the Brain.
+
+**Operational artifact — investor cold spam:** Alyson Williams (familyfinanceglobal.info) inbound claiming to allocate *"$2M to $35M from affiliated family offices to blue-collar job-search"* and naming Moil as top pick. Round-number framing + vague sender domain fit common investor-spam patterns. **Flag and verify before any engagement** — do NOT respond inline; if it warrants a reply, route through public Moil contact channel after independent verification.
+
+**Inbound from the campaign May 4:**
+- 🟡 Linda Horuke (Jungle Flavorz) re-engaging after missed call last week (family unwell) — wants to reschedule the **Website Updates Discussion** call. Carries an Apr-era client thread back into May.
+
+**Signal:** May 4 closes the campaign's **first deliberate "narrative-as-product" day** — the *exact same EDC-feedback anecdote* runs on accelerator app + cold outbound + (per [[wiki/meetings/2026-05-04-monday-collaboration]]) the free-trial rollout marketing strategy queued for the week. Three different surfaces, one shared narrative — **the campaign is now exporting to other Moil sales tools**, not just adding new chamber/EDC names. Volume dropped from late-April peak (24/day) to ~7/day, but the multiplier is in **narrative reuse rather than send count**.
 
 ### Hays CISD Career Day — network-recruitment expansion (Apr 30)
 

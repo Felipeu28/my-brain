@@ -22,9 +22,11 @@ Bilingual voice-first kids AI companion with persistent memory ("brain graph"), 
 ## Last 7 days
 
 <!-- AUTO: bin/project-activity.sh updates this section daily. Do not edit by hand. -->
-_Updated: 2026-05-04 08:00 (window: 2026-04-27 → 2026-05-04)_
+_Updated: 2026-05-05 08:00 (window: 2026-04-28 → 2026-05-05)_
 
 **Commits (10):**
+- 2026-05-05 fix(og): use www.clioremembers.com directly to avoid apex 307 redirect (#62)
+- 2026-05-05 fix(og): render og.svg → og.png + absolute URLs in social card meta tags (#61)
 - 2026-05-04 feat(week4): canary webhook + LLM eval gating + leetspeak safety + CLAUDE.md cleanup (#60)
 - 2026-05-04 feat(agents): wire research-anchored 6-example corpus into clio-parent-comms (#59)
 - 2026-05-03 chore: remove orphaned .claire/ typo dir from prior agent session (#56)
@@ -33,22 +35,24 @@ _Updated: 2026-05-04 08:00 (window: 2026-04-27 → 2026-05-04)_
 - 2026-05-03 feat(workflow): parallel-sprint model + retro/brain-lint/canary infra (week 3) (#53)
 - 2026-05-03 chore(gbrain): wire PGLite local + per-remote trust tiers (week 2.3) (#52)
 - 2026-05-03 feat(specialists): 5 Clio-only agents + safety/voice/age-tier eval suites (#51)
-- 2026-05-03 fix(api): clear 6 baseline tsc errors + promote typecheck to required CI (#50)
-- 2026-05-03 chore(biome): honor .gitignore via vcs.useIgnoreFile (#49)
 
-**Claude Code sessions (12):**
+**Claude Code sessions (43):**
+- 2026-04-15 — <command-message>init</command-message>
+- 2026-04-15 — <command-message>init</command-message>
 - 2026-04-15 — Wave 1c — strict auth + cleanup
-- 2026-04-25 — Do a full regression audit of all voice and UI changes that have landed on main
-- 2026-04-26 — Plan: Fix live issues + clean house
-- 2026-04-27 — <command-message>plan-eng-review</command-message>
-- 2026-04-27 — (you'll need apps/api running too — npm run dev from repo root)
-- 2026-04-28 — I want you to analyze this graph and diagnose all the mising connections, and wh
-- 2026-04-28 — Let's do a full security audit for Clio, including our full main repo!!
-- 2026-05-01 — Audit findings + implementation plan
-- 2026-05-01 — https://github.com/Felipeu28/Clio/compare/main...claude/gracious-nobel-356df5?ex
-- 2026-05-01 — Let's create a new video about the parents side of clio, you can use browser, I
-**Mentions in meetings + raw (2):**
+- 2026-04-16 — Clio — Full Implementation
+- 2026-04-16 — Clio PR #8 gamification
+- 2026-04-16 — <command-message>init</command-message>
+- 2026-04-16 — <command-message>init</command-message>
+- 2026-04-16 — Full audit synthesis
+- 2026-04-16 — Open parent dashboard on desktop and mobile
+- 2026-04-16 — Product research: gamification & differentiation
+**Mentions in meetings + raw (6):**
+- [[wiki/meetings/2026-05-04-christine-kat-coaching]]
+- [[raw/teams-2026-04-24]]
+- [[raw/teams-transcript-christine-andres-2026-05-04]]
 - [[raw/teams-transcript-website-update-review-call-2026-04-28]]
+- [[raw/weekly-sessions-2026-04-26]]
 - [[raw/weekly-sessions-2026-05-03]]
 
 ## Recent decisions

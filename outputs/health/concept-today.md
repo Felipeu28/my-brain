@@ -1,6 +1,6 @@
-## Concept of the day — [[wiki/concepts/campaignos|CampaignOS]]
+## Concept of the day — [[wiki/concepts/moil-team-ops|Moil Team Operating System]]
 
-_Last touched: 2026-04-11_  •  _Type: concept_
+_Last touched: 2026-04-12_  •  _Type: concept_
 
 > (no summary extracted — open the page)
 

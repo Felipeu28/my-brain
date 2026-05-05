@@ -22,16 +22,17 @@ Closed Apr 9, 2026 with full upfront invoice (1 down + 3 quarterly over 9 months
 ## Last 7 days
 
 <!-- AUTO: bin/project-activity.sh updates this section daily. Do not edit by hand. -->
-_Updated: 2026-05-04 08:00 (window: 2026-04-27 → 2026-05-04)_
+_Updated: 2026-05-05 08:00 (window: 2026-04-28 → 2026-05-05)_
 
-**Mentions in meetings + raw (7):**
+**Mentions in meetings + raw (16):**
 - [[wiki/meetings/2026-04-28-mark-polanco-connectex-walkthrough]]
 - [[wiki/meetings/2026-04-28-website-update-review-internal]]
+- [[wiki/meetings/2026-05-04-monday-collaboration]]
 - [[raw/email-digest-2026-04-27]]
 - [[raw/email-digest-2026-04-28]]
 - [[raw/email-digest-2026-04-29]]
 - [[raw/email-digest-2026-04-30]]
-- [[raw/teams-transcript-mark-polanco-andres-2026-04-28]]
+- [[raw/email-history-2026-04-12]]
 
 ## Recent decisions
 
