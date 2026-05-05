@@ -1,8 +1,8 @@
 # Moil Brain — Master Index
 
-**Last compiled:** 2026-05-05 (Run 34 — May 5 ingestion: email-digest 2026-05-04 + signal-briefs 2026-05-03 & 2026-05-04. Updated: [[wiki/people/oscar-esquivel]] (May 4 activation-handoff window), [[wiki/orgs/alloy-atx]], [[wiki/people/inna-benyukhis]] (silence past escalation threshold — 4 days), [[wiki/moil/gtm]] (May 4 cold-campaign update + narrative-as-product convergence). New: [[wiki/people/sarah-cordano]] (Bank OZK banker-of-record stub).) · **Total wiki pages:** 298 · **Raw sources:** 473 (signal-briefs live under quartz/content/raw/signal-briefs/ outside the kb-health RAW_DIR rglob, per Run 32 precedent)
+**Last compiled:** 2026-05-05 (Run 35 — Christy Mawdsley discovery call ingested. New: [[wiki/people/christy-mawdsley]] (warm prospect, Wholeness Acupuncture 78641), [[wiki/orgs/wholeness-acupuncture]], [[wiki/meetings/2026-05-05-christy-mawdsley-discovery]]. Updated: [[wiki/people/roxana-yglesias]] (first outbound referral on record), [[wiki/moil/pipeline]] (warm count 3 → 4)). · **Total wiki pages:** 301 · **Raw sources:** 474
 
-**Previous run header:** Run 33 (2026-05-04) — 3 new Teams transcripts (Christine + Kat coaching, Claudia coaching, Monday Collaboration); Cohort 4 1:1 → MVP-decision conversion 4/4; Train Depot opportunity; cost-discipline rule + free-trial rollout decided.
+**Previous run header:** Run 34 (2026-05-05) — email-digest 2026-05-04 + signal-briefs 2026-05-03 & 2026-05-04; Oscar activation-handoff window; Inna silence past threshold; cold campaign as narrative-as-product; new Sarah Cordano (Bank OZK banker) stub.
 
 > **Canonical operating truth lives outside the wiki:** if status or architecture notes here conflict with newer operating reality, use `~/My Brain/CURRENT_STATE.md` first.
 
@@ -30,13 +30,13 @@
 | Folder | Count | What's in it |
 |---|---|---|
 | [[wiki/moil/README|moil/]] | 11 | Moil business — positioning, ICP, GTM, customers, competitors, metrics, product roadmap, active-projects |
-| [[wiki/people/README|people/]] | 61 | Personal network — family, friends, customers, collaborators, team |
+| [[wiki/people/README|people/]] | 62 | Personal network — family, friends, customers, collaborators, team |
 | [[wiki/minds/README|minds/]] | 11 | Public AI thought leaders tracked from afar |
-| [[wiki/orgs/README|orgs/]] | 25 | Customer, partner, and prospect organizations |
+| [[wiki/orgs/README|orgs/]] | 26 | Customer, partner, and prospect organizations |
 | [[wiki/concepts/README|concepts/]] | 35 | Frameworks, mental models, products, programs |
 | [[wiki/radar/README|radar/]] | 2 | Append-only changelogs for fast-moving topics |
 | [[wiki/summaries/README|summaries/]] | 21 | One structured summary per raw source |
-| [[wiki/meetings/README|meetings/]] | 72 | Meeting records + async threads — decisions and action items |
+| [[wiki/meetings/README|meetings/]] | 73 | Meeting records + async threads — decisions and action items |
 
 See also: [[wiki/meetings/historical-transcripts-index]] — raw transcripts not yet promoted to structured pages (24 transcripts catalogued, 7 previously-orphan meeting pages linked).
 

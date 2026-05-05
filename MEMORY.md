@@ -1,6 +1,6 @@
 # MEMORY — Open Actions & Live Commitments
 
-**Last updated:** 2026-05-04 (Run 33 — Mon May 4 PSA in-person mtg + 3 HIVE Cohort 4 1:1s ingested: Christine + Kat wine concept anchored on Train Depot, Claudia / Nativa marketing strategy locked, weekly Monday cost-discipline rule adopted)
+**Last updated:** 2026-05-05 (Run 35 — Christy Mawdsley discovery ingested: first documented Roxana Yglesias outbound referral; warm prospect, free-trial signup pending)
 **Purpose:** Single source of truth for open action items extracted from ingested raw sources.
 
 > Relationship/concept context: [[index]] · Ingestion history: [[log]]
@@ -10,6 +10,10 @@
 ---
 
 ## 🔥 Immediate — This Week (May 4 – May 10, 2026)
+
+### 🔥 May 5 — Christy Mawdsley discovery (Roxana Yglesias referral)
+Source: [[wiki/meetings/2026-05-05-christy-mawdsley-discovery]], [[wiki/people/christy-mawdsley]]
+- [ ] **Andres:** 1:1 onboarding call once Christy completes Moil 21 questions; help her stand up a referral program (her highest-leverage move given word-of-mouth concentration). Watch for free-trial signup at moilab.com (Christymawdsley@gmail.com) + nudge if 21Q not started within 7 days. **First Roxana Yglesias outbound referral on record**
 
 ### 🔥 May 4 — HIVE Cohort 4 1:1 cadence: 3 more locked (Christine+Kat, Claudia, Sarah meeting Tue May 12)
 Source: [[wiki/meetings/2026-05-04-christine-kat-coaching]], [[wiki/meetings/2026-05-04-claudia-sanchez-coaching]]
@@ -164,11 +168,7 @@ Source: [[wiki/meetings/2026-04-21-teams-daily-ops]], [[wiki/meetings/2026-04-21
 
 ## 🔧 Technical debt — Teams Apr 5–12 (see [[log.md]] Run 15 for context)
 
-- [ ] Roxana / AlloyATX — verify 21Q + assets + GoDaddy; next session: GSC, satellite domains, wellness referrals
-- [ ] Eden — follow up on website discovery call (Apr 8)
-- [ ] Tour-guide bugs — 2 missing `data-guide-id`, generic text, auto-scroll
-- [ ] Segment `No segment writeKey` on staging; image context "forgets"; Supabase `business-intake` deploy; Meridian domain + Stripe; phone-signup permanent fix
-- [ ] Daily video production rhythm; Sun show raffle email; Adeleke FB account; credentials migration off Teams
+- [ ] Apr 5–12 Teams residue: Roxana 21Q + assets + GoDaddy + GSC + satellite domains + wellness referrals; Eden website discovery follow-up; tour-guide `data-guide-id` bugs + generic text + auto-scroll; Segment writeKey staging fix + image-context regression + Supabase `business-intake` deploy + Meridian domain/Stripe + phone-signup permanent fix; daily video rhythm; Sun show raffle email; Adeleke FB account; credentials migration off Teams
 
 ---
 

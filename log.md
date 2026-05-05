@@ -4,6 +4,47 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ---
 
+## 2026-05-05 — Run 35: Christy Mawdsley discovery call (Roxana Yglesias outbound referral)
+
+**Trigger:** Single new raw file detected by post-Run-34 scan: `raw/teams-transcript-christy-andres-2026-05-05.md` — 49-min Teams discovery call with Christy Mawdsley (Wholeness Acupuncture and Integrative Medicine, ZIP 78641), referred by [[wiki/people/roxana-yglesias|Roxana Yglesias]] (mutual BNI tie). Signal threshold met (warm prospect + first documented Roxana referral conversion + new entity surface).
+
+**Pages created (3):**
+- [[wiki/people/christy-mawdsley]] — Solo licensed acupuncturist + functional medicine provider, doctoral candidate, three kids. Cash-pay only, women 45–75 ICP, anti-influencer-vibe positioning. Word-of-mouth concentration (Pilates studios + Austin chain of yoga studios + physician referrals). `graph/spoke` + `person/customer`.
+- [[wiki/orgs/wholeness-acupuncture]] — Christy's solo practice; one rented room inside a larger health clinic; ranks #1 in Google for full business name; Instagram `@the_embodied_acupuncturist` exists but empty. `graph/leaf`.
+- [[wiki/meetings/2026-05-05-christy-mawdsley-discovery]] — Meeting record with full decisions + action items + coaching color. `graph/leaf`.
+
+**Pages updated (3):**
+- [[wiki/people/roxana-yglesias]] — Added 2026-05-05 row to engagement timeline: **first documented Moil customer-to-prospect referral conversion of 2026.** `last_contact` bumped Apr 23 → May 5.
+- [[wiki/moil/pipeline]] — Added Christy row to Warm — In Conversation; warm count 3 → 4; total active deals 22 → 23; `last_updated` Apr 14 → May 5.
+- [[MEMORY]] — Added 🔥 May 5 Christy section at top of Immediate-This-Week block; compacted Apr 5–12 Technical-debt block into one consolidated line to stay under 200-line cap (now 199 lines).
+
+**Operating layer:**
+- [[index]] — Run 35 header; raw source count 473 → 474 (+1 christy transcript); wiki page count 298 → 301 (+3); people 61 → 62 (+1 christy); orgs 25 → 26 (+1 wholeness-acupuncture); meetings 72 → 73 (+1 discovery).
+
+**Key intelligence from Run 35:**
+
+1. **🟢 First documented Moil customer-to-prospect outbound referral conversion of 2026.** Roxana Yglesias (Alloy ATX, paying since Apr 20) actively reached out to Christy and praised Andres as *"honest, trustworthy, good"* — a clean, unsolicited reference call. This is the operational proof that the Apr 14 Roxana onboarding paid forward into a closing-eligible warm pipeline entry within ~3 weeks. The Roxana page now anchors a referral-network sub-pattern; future Roxana-sourced names should grep here.
+
+2. **🔥 Education-as-content-engine wedge confirmed for Moil 360.** Christy's *"there's a lot I just wish I could tell people somewhere so it was like a knowledge hub almost"* (transcript 15:48) is the textbook wedge for Moil 360's monthly education theme. Pairs with Andres' Facebook-over-Instagram framing for the 45–75 segment. **First entity in the Brain that fits the education-themed Moil 360 setting cleanly.**
+
+3. **🔥 Anti-paid-ads framing as discovery-call default.** Andres' *"don't put a penny into ads until we figure out what a strategy looks like"* line landed cleanly with a prospect who was already considering a Meta ad spend. Worth promoting to a named [[wiki/moil/gtm]] sub-pattern alongside the Cohort-4 *"if I started tomorrow"* coaching framework — same surgical-question shape, different problem.
+
+4. **🟢 Cash-pay solo-practitioner ICP candidate.** Christy is the cleanest representative yet of the **cash-pay, women-led, 45–75-clientele, word-of-mouth-saturated** ICP. If she converts post-trial, this slot is a pattern Moil should be hunting for in cold outbound (e.g., functional-medicine practitioners, integrative-clinic operators, naturopaths). Worth flagging to [[wiki/moil/icp]] in a future run if she signs.
+
+5. **🟢 BNI as referral channel signal.** Two independent data points now: Roxana Yglesias (paying customer) and Christy Mawdsley (warm prospect) both quit BNI but the relationship from BNI persisted into a Moil deal. **BNI is acting as a customer-acquisition substrate for Moil even when Andres isn't in the room** — first time this pattern surfaces explicitly in the Brain.
+
+6. **🟡 Demo-bug surfaced live.** Pitch-deck generation produced a one-slide deck on first attempt (Andres labeled it a bug live, retried, second attempt worked). Andres said *"that's a bug on my end"* — not catastrophic but logged for engineering. Pairs with the FitLogic P0 bug list pattern: customer-facing demos are surfacing latent regressions faster than internal QA.
+
+**Action-item delta:**
+- **Closed (~0):** None this run.
+- **Opened (~1):** Andres → 1:1 onboarding call once Christy completes Moil 21 questions; help her stand up referral program post-onboarding (her highest-leverage move). Watch for free-trial signup at moilab.com (Christymawdsley@gmail.com); nudge if 21Q not started within 7 days.
+
+**Sync step:** `bash scripts/sync_wiki.sh`. **Health step:** `python3 scripts/kb-health.py`. Source file marked `ingested: true / ingested_at: 2026-05-05`.
+
+**Source count:** 473 → 474 (+1 christy transcript). Wiki page count: 298 → 301 (+3: christy-mawdsley, wholeness-acupuncture, 2026-05-05-christy-mawdsley-discovery).
+
+---
+
 ## 2026-05-05 — Run 34: email-digest 2026-05-04 + signal-briefs 2026-05-03 & 2026-05-04
 
 **Trigger:** KB-agent ingest of three new raw sources committed by automation:

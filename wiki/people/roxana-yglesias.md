@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-05-04
+last_contact: 2026-05-05
 tags:
   - graph/spoke
   - person/customer
@@ -39,6 +39,7 @@ Roxana Yglesias owns [[wiki/orgs/alloy-atx|AlloyATX]], a fitness/wellness busine
 - **Apr 14: Full onboarding call with Andres (90 min).** Deal confirmed at $75/mo. Asset handover initiated. Shared folder set up in Teams. Market research via 21-question flow as first step. Satellite landing pages planned. Wellness referral network discussed.
 - **Apr 20, 2026:** 💰 **First Stripe payment — $75 for Moil Enterprise subscription** (r.yglesias@alloyatx.com). Deal is now live-billing.
 - **Apr 23, 2026:** Sent "Brand Info" email (empty body — likely Canva attachment/links). Pairs with the same-hour "Business Baskets Portrait" Canva share. Active asset handover continuing.
+- **May 5, 2026:** 🎯 **First outbound referral.** Roxanna referred [[wiki/people/christy-mawdsley|Christy Mawdsley]] (Wholeness Acupuncture, 78641) to Andres via mutual BNI tie. Christy reported Roxanna *"spoke really highly… honest, trustworthy."* 49-min discovery call held same day; Christy committed to free-trial signup. See [[wiki/meetings/2026-05-05-christy-mawdsley-discovery]]. **First documented Moil customer-to-prospect referral conversion of the year.**
 
 ## Referral Potential
 
