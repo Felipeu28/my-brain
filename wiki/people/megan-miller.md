@@ -3,15 +3,15 @@ tags:
   - graph/hub
   - person/customer
 status: active
-last_contact: 2026-05-04
+last_contact: 2026-05-06
 client: "[[wiki/orgs/fitlogic]]"
 ---
 # Megan Miller
 
 **Type:** person
-**Last updated:** 2026-04-29
-**Source:** [[raw/imessages-people-2026-04-09]], [[raw/email-history-6months-2026-04-14]], [[raw/teams-transcript-megan-miller-2026-04-21]], [[raw/teams-2026-04-21]], [[raw/email-digest-2026-04-20]], [[raw/email-digest-2026-04-21]], [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/email-digest-2026-04-22]], [[raw/teams-transcript-megan-moil-crm-test-and-delivery-2026-04-29]]
-**Related:** [[wiki/orgs/fitlogic]], [[wiki/moil/customers]], [[wiki/moil/gtm]], [[wiki/concepts/smart-hiring]], [[wiki/concepts/moil360]], [[wiki/people/michelle-fitlogic]], [[wiki/meetings/2026-04-21-megan-fitlogic-working-session]], [[wiki/meetings/2026-04-23-megan-crm-google-setup]], [[wiki/meetings/2026-04-29-megan-fitlogic-crm-delivery]]
+**Last updated:** 2026-05-06
+**Source:** [[raw/imessages-people-2026-04-09]], [[raw/email-history-6months-2026-04-14]], [[raw/teams-transcript-megan-miller-2026-04-21]], [[raw/teams-2026-04-21]], [[raw/email-digest-2026-04-20]], [[raw/email-digest-2026-04-21]], [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/email-digest-2026-04-22]], [[raw/teams-transcript-megan-moil-crm-test-and-delivery-2026-04-29]], [[raw/teams-transcript-meeting-to-go-over-ongoing-projects-2026-05-06]]
+**Related:** [[wiki/orgs/fitlogic]], [[wiki/moil/customers]], [[wiki/moil/gtm]], [[wiki/concepts/smart-hiring]], [[wiki/concepts/moil360]], [[wiki/people/michelle-fitlogic]], [[wiki/meetings/2026-04-21-megan-fitlogic-working-session]], [[wiki/meetings/2026-04-23-megan-crm-google-setup]], [[wiki/meetings/2026-04-29-megan-fitlogic-crm-delivery]], [[wiki/meetings/2026-05-06-andres-taiwo-ongoing-projects]]
 
 ---
 
@@ -157,6 +157,21 @@ End-to-end Moil 360 walkthrough with Megan + Michelle (her practice manager) + A
 **Patient-care interruption mid-call:** Michelle had to phone Buda Drug Store live during the meeting to arrange a medication refill (Megan handed off in real time). Confirms Michelle is a practice manager with prescription/pharmacy authority, not just admin.
 
 **Daily-correlator update:** Apr 29 was the **delivery moment** — multiple anomalies the correlator flagged (Apr 23 "one integrated launch", Apr 26 silence) resolved cleanly here. Megan/Michelle are now in active daily-use mode.
+
+## May 6, 2026 — Pre-Meeting CRM Test + Domain-Verification Path
+
+Source: [[wiki/meetings/2026-05-06-andres-taiwo-ongoing-projects]]
+
+Andres + Taiwo ran a 110-min internal test of Megan's FitLogic CRM ahead of Andres's afternoon Megan meeting. State going in:
+
+- **5,000-contact upload working** with batch-loading 500 at a time
+- **WYSIWYG email editor working** — bold/italics/links/attachments/variable selector for personalization. Andres on the variable selector: *"That feels personal."*
+- **Send from `Megan@fitlogicfunctionalmedicine.com` is the live blocker** — Resend rejects this sender because the domain isn't verified. Sends silently fall back to Gmail API (Jacob's connected Gmail caught one mid-call). Capture the silent-failover behavior as architectural debt: it masks deliverability errors from the dashboard
+- **Andres's afternoon meeting is scoped to verify Megan's GoDaddy DNS records** — Taiwo to send Andres a screenshot of the Resend verification failure so Andres can show Megan exactly what's needed
+- **Megan added as a test contact** during this call so Andres can demo the live send to her
+- **🔥 Open question (P0):** how scheduled email sequences queue when multiple campaigns collide on the same day past Vercel's 1-cron/day cap or Gmail's 50/day per-account cap. Unverified — Taiwo to research with Claude. Vercel premium ($20/mo) is the upgrade path that lifts the 1-cron limit
+
+**Behavioral note (cross-page):** Megan's `Megan@fitlogicfunctionalmedicine.com` was the planned sender from the Apr 21 working session — three weeks later it's still blocked on her DNS access. The Apr 23 handover plan ("Megan owns everything from day one") creates this exact friction: Moil cannot self-service the domain verification, so every account-owner-permission step has to wait for a real-time meeting with Megan.
 
 <!-- AUTO-ACTIVITY:start -->
 ## Recent Activity (auto)

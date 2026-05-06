@@ -4,14 +4,14 @@ tags:
   - graph/hub
 owner: "[[wiki/people/megan-miller]]"
 status: active
-last_contact: 2026-04-29
+last_contact: 2026-05-06
 ---
 # FitLogic Functional Medicine
 
 **Type:** organization
-**Last updated:** 2026-04-29
-**Source:** [[raw/teams-2026-04-12]], [[raw/email-history-2months-2026-04-12]], [[raw/github-project-tracker.md]], [[raw/teams-2026-04-21]], [[raw/teams-transcript-megan-miller-2026-04-21]], [[raw/email-digest-2026-04-20]], [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/teams-transcript-megan-moil-crm-test-and-delivery-2026-04-29]]
-**Related:** [[wiki/people/megan-miller]], [[wiki/people/michelle-fitlogic]], [[wiki/moil/customers]], [[wiki/moil/pipeline]], [[wiki/concepts/moil360]], [[wiki/meetings/2026-04-21-megan-fitlogic-working-session]], [[wiki/meetings/2026-04-23-megan-crm-google-setup]], [[wiki/meetings/2026-04-29-megan-fitlogic-crm-delivery]]
+**Last updated:** 2026-05-06
+**Source:** [[raw/teams-2026-04-12]], [[raw/email-history-2months-2026-04-12]], [[raw/github-project-tracker.md]], [[raw/teams-2026-04-21]], [[raw/teams-transcript-megan-miller-2026-04-21]], [[raw/email-digest-2026-04-20]], [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/teams-transcript-megan-moil-crm-test-and-delivery-2026-04-29]], [[raw/teams-transcript-meeting-to-go-over-ongoing-projects-2026-05-06]]
+**Related:** [[wiki/people/megan-miller]], [[wiki/people/michelle-fitlogic]], [[wiki/moil/customers]], [[wiki/moil/pipeline]], [[wiki/concepts/moil360]], [[wiki/meetings/2026-04-21-megan-fitlogic-working-session]], [[wiki/meetings/2026-04-23-megan-crm-google-setup]], [[wiki/meetings/2026-04-29-megan-fitlogic-crm-delivery]], [[wiki/meetings/2026-05-06-andres-taiwo-ongoing-projects]]
 
 ---
 
@@ -129,6 +129,35 @@ Source: [[wiki/meetings/2026-04-29-megan-fitlogic-crm-delivery]]
 - Cold-email rollout: ~10/day, rotate variants, never blast all 5,000 with the same template
 - Default image format: Stories (vertical) — performs best on Facebook/Instagram
 - Test sends only against new test contacts, never existing customers
+
+## May 6, 2026 — CRM Live Test + Resend Domain Verification Still Blocked
+
+Source: [[wiki/meetings/2026-05-06-andres-taiwo-ongoing-projects]] (Andres × Taiwo internal working session, no Megan present)
+
+**State of the system going into Andres's afternoon Megan meeting:**
+
+| Layer | Status | Notes |
+|---|---|---|
+| Contact upload (5,000) | ✅ Working | Batch-loading 500 at a time with "load more"; *"so it's loading 500, even if additional 500…"* |
+| WYSIWYG email editor | ✅ Working | Bold, italics, strikethrough, links, attachments, **variable selector** (name/email/etc) — Andres: *"That feels personal."* |
+| Send: Resend → `partners@moylab.com` | ✅ Working | Verified sender domain |
+| Send: Resend → `Megan@fitlogicfunctionalmedicine.com` | ❌ **Blocked** | Domain not verified on Resend; sends silently fail over to Gmail API fallback |
+| Gmail API fallback | ⚠️ Working but masking | Triggers when Resend errors. Convenient but **silent failover masks deliverability failures from the dashboard**. Capture as architectural debt |
+| Open/click tracking | ✅ Working | Successfully logged Jacob's open during the call |
+| Click-tracking redirect URL | ⚠️ Local-only verified | Test sends from Taiwo's local env contained `localhost:3000/api/track-email/...` — needs production re-verify |
+| Test-mode toggle (Resend) | ✅ Working | Megan added as test contact during this call so Andres can demo the live send to her |
+
+**🔥 Resend domain verification is the live blocker.** Currently the only verified Resend sender domain is `moylab.com`. Megan's `fitlogicfunctionalmedicine.com` was attempted as the sender but failed verification. **Andres's afternoon meeting with Megan is scoped to walk her through the GoDaddy DNS records needed.** Taiwo to send Andres a screenshot of the Resend verification failure page so Andres can show Megan exactly what's needed.
+
+**🔥 P0 open question — email queue contention.** With 5,000 contacts × 5-email sequences × multiple campaigns potentially overlapping, Vercel free tier giving 1 cron/day, and Gmail's 50/day per-account cap, behavior when sends exceed daily quota is **completely unverified**. Could silently drop messages, unboundedly delay sends, or both. Andres refused the *"yeah, I think they're going to get sent out on the same day"* answer: *"I don't want us to think. I want us to be 100% sure. Let's not leave any rock unturned."* Taiwo to research with Claude before next iteration. Vercel premium ($20/mo) lifts the 1-cron-per-day cap to hourly — already on the table as the upgrade path.
+
+**Polish items captured for Taiwo this call:**
+- Change `lead_source = "unknown"` → `"initial upload"` in the database for the bulk-import rows (label hygiene for analytics)
+- Separate **AI sequences vs. manual sequences** in the campaigns UI — currently same screen, same buttons, different behavior — confusing
+- Push the latest CRM changes to the **second (production) repo**, not just the staging repo (this is the third surfacing of the Apr 28 hard rule on repo visibility)
+- Confirmed: the Resend → Gmail-API fallback path uses whichever Gmail account is OAuth-connected. During the call, Jacob's Gmail caught a send Resend rejected, because Jacob is the connected user
+
+**Cost-model affirmation:** Andres restated the *"each customer's bot is its own little agent on a $5/mo Gemini 2.0 budget"* pattern — this is the standard for FitLogic-style customer deployments. Aligns with the May 4 Monday Collaboration cost-discipline standing rule.
 
 ## Contacts
 

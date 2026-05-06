@@ -1,8 +1,8 @@
 # Moil Brain — Master Index
 
-**Last compiled:** 2026-05-06 (Run 36 — email-digest 2026-05-05 ingested. New: [[wiki/people/sarah-sanchez]] (warm prospect, Sunfield Spray Tans), [[wiki/orgs/sunfield-spray-tans]], [[wiki/people/linda-horuke]] (warm reschedule), [[wiki/orgs/jungle-flavorz]]. Updated: [[wiki/people/inna-benyukhis]] (silence broken — May 14/18 videos uploaded), [[wiki/people/christine-stjohn]] (Buda Top Neighborhoods data-loss thread, free-trial code-path), [[wiki/people/casey-earley]] (Incubator Strategist SoW calendar accepted), [[wiki/people/oscar-esquivel]], [[wiki/people/sarah-cordano]] (banker repeat check-in), [[wiki/orgs/alloy-atx]], [[wiki/moil/gtm]] (May 5 cold-campaign update — 19 chamber/EDC sends, first warm Moil 360 reply on local-Buda track), [[wiki/moil/pipeline]] (warm count 4 → 6, total 23 → 25)). · **Total wiki pages:** 305 · **Raw sources:** 475
+**Last compiled:** 2026-05-06 (Run 37 — Andres × Taiwo working session ingested ([[raw/teams-transcript-meeting-to-go-over-ongoing-projects-2026-05-06]]). New: [[wiki/meetings/2026-05-06-andres-taiwo-ongoing-projects]] — 110-min internal session covering Siren Beauty design-realignment crisis + FitLogic CRM live-test before Andres's afternoon Megan meeting. Updated: [[wiki/orgs/siren-beauty]] (wrong-staging-build crisis + new "no design changes without explicit ask" rule + brand pruning away from "science"), [[wiki/orgs/fitlogic]] (CRM state-of-system table + Resend domain-verification still blocked + email-queue contention research routed), [[wiki/people/becky-torres]] (reply pending + brand-realignment direction), [[wiki/people/megan-miller]] (afternoon Megan meeting scoped to GoDaddy DNS verification), [[wiki/people/taiwo-ola-balogun]] (Codex deferral, refused-to-assume coaching, third repo-discipline relapse, first unambiguous "well done"), [[MEMORY]] (May 6 block; trim to 200-line cap). **Deferred to Run 38:** `raw/email-digest-2026-05-06.md` (auto-committed by launchd at 18:32 mid-Run-37 — out of scope this run). · **Total wiki pages:** 306 · **Raw sources:** 477
 
-**Previous run header:** Run 35 (2026-05-05) — Christy Mawdsley discovery call (Roxana Yglesias outbound referral); first documented Moil customer-to-prospect referral conversion; warm count 3 → 4.
+**Previous run header:** Run 36 (2026-05-06) — email-digest 2026-05-05 ingested; warm prospects Sarah Sanchez (Sunfield Spray Tans) + Linda Horuke (Jungle Flavorz reschedule); Inna silence broken (May 14/18 videos uploaded).
 
 > **Canonical operating truth lives outside the wiki:** if status or architecture notes here conflict with newer operating reality, use `~/My Brain/CURRENT_STATE.md` first.
 
@@ -36,7 +36,7 @@
 | [[wiki/concepts/README|concepts/]] | 35 | Frameworks, mental models, products, programs |
 | [[wiki/radar/README|radar/]] | 2 | Append-only changelogs for fast-moving topics |
 | [[wiki/summaries/README|summaries/]] | 21 | One structured summary per raw source |
-| [[wiki/meetings/README|meetings/]] | 73 | Meeting records + async threads — decisions and action items |
+| [[wiki/meetings/README|meetings/]] | 74 | Meeting records + async threads — decisions and action items |
 
 See also: [[wiki/meetings/historical-transcripts-index]] — raw transcripts not yet promoted to structured pages (24 transcripts catalogued, 7 previously-orphan meeting pages linked).
 

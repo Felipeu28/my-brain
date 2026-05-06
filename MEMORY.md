@@ -1,6 +1,6 @@
 # MEMORY — Open Actions & Live Commitments
 
-**Last updated:** 2026-05-05 (Run 35 — Christy Mawdsley discovery ingested: first documented Roxana Yglesias outbound referral; warm prospect, free-trial signup pending)
+**Last updated:** 2026-05-06 (Run 37 — Andres × Taiwo working session ingested: Siren Beauty design-realignment crisis + FitLogic CRM live-test; Resend domain-verification with Megan still blocking; email-queue-contention research routed to Taiwo)
 **Purpose:** Single source of truth for open action items extracted from ingested raw sources.
 
 > Relationship/concept context: [[index]] · Ingestion history: [[log]]
@@ -10,6 +10,18 @@
 ---
 
 ## 🔥 Immediate — This Week (May 4 – May 10, 2026)
+
+### 🔥 May 6 — Andres × Taiwo session: Siren Beauty + FitLogic blockers
+Source: [[wiki/meetings/2026-05-06-andres-taiwo-ongoing-projects]]
+- [ ] **🔥 Andres:** Reply to [[wiki/people/becky-torres|Becky's]] email — apologize for the wrong staging build; explain the staging-vs-prod misfire; point her at the corrected build; confirm video-feedback items addressed
+- [ ] **🔥 Andres:** Verify `fitlogicfunctionalmedicine.com` Resend domain with [[wiki/people/megan-miller|Megan]] this afternoon (needs her GoDaddy DNS); demo live send with Megan as test contact
+- [ ] **🔥 Taiwo:** Push FitLogic CRM updates to the **production-side repo** (not just staging) — third surfacing of the Apr 28 push-discipline rule
+- [ ] **🔥 Taiwo:** Research with Claude — email-sequence queue behavior when multiple campaigns collide past Vercel 1-cron/day or Gmail 50/day caps. Don't assume; verify
+- [ ] **Taiwo:** Send Andres screenshot of Resend domain-verification failure page (so Andres can show Megan exactly what's needed on GoDaddy)
+- [ ] **Taiwo:** Make Siren Beauty **mobile responsive** ASAP; confirm "science" wording fully removed; remove duplicate Siren logo from header; bolden header text + add white shadow for hero-image scroll readability
+- [ ] **Taiwo:** Polish FitLogic — rename `lead_source = "unknown"` → `"initial upload"` in DB; split AI vs manual sequences in campaigns UI; fix click-tracking redirect to use prod URL (not `localhost:3000`)
+- [ ] **Standing rule (Siren Beauty engineering):** No proactive design changes — only deliver items Becky explicitly calls out. Reverses prior bias on this account
+- [ ] **Architectural debt — silent failover:** Resend → Gmail-API fallback masks deliverability failures from the dashboard. Capture as known issue; surface failovers in admin UI
 
 ### 🔥 May 5 — Christy Mawdsley discovery (Roxana Yglesias referral)
 Source: [[wiki/meetings/2026-05-05-christy-mawdsley-discovery]], [[wiki/people/christy-mawdsley]]
@@ -39,8 +51,6 @@ Source: [[wiki/meetings/2026-05-04-monday-collaboration]]
 Source: [[wiki/meetings/2026-04-30-heather-skeen-coaching]], [[wiki/meetings/2026-04-30-carolina-coaching]], [[raw/email-digest-2026-04-30]]
 - [ ] **Andres:** Drop by [[wiki/people/carolina-caro|Caro's]] house in person — Austin Street behind [[wiki/orgs/meridian-buda|Meridian]]. Walk the floorplan in person to validate the women-coworking layout
 - [ ] **Andres:** Save [[wiki/people/heather-skeen|Heather Skeen]]'s HIPAA-compliant cell number (routes from office line to cell)
-- [x] ~~Same-day post-coaching follow-ups to Caro + Heather~~ — DELIVERED Apr 30
-- [x] ~~Mon May 4 9 AM in-person Cohort 4 PSA review with Jacquie~~ — held May 4 morning per cadence; sign-off pending separately if not signed in-room
 - [ ] **Caro homework:** complete Moil 21 questions (signed up first month free during the call); interview 5–10 women from Cohort 4 to validate ICP and willingness to pay; map floorplan to revenue
 - [ ] **Heather homework:** research daycare PD requirements (12 domains, hours, certification cycle); research market rates for CEU providers in TX; package 3–4 program bundles at ~$1,000/yr per daycare; build 25-mile-radius daycare prospect list (postcard + 3-email sequence + call); attorney consult on "Providence Counseling and Therapy" name change (insurance-contract impact); fix the $500/3hr pricing for the NC fall engagement
 
@@ -64,8 +74,6 @@ Source: [[raw/email-digest-2026-04-29]], [[wiki/people/john-costilla]]
 
 ### 🔥 Apr 29 — AI-spend observability emergency (May 4 partly resolved)
 Source: [[raw/email-digest-2026-04-29]], [[wiki/people/adeleke-tolulope]], [[wiki/meetings/2026-05-04-monday-collaboration]]
-- [x] ~~OpenAI account dispute~~ — refunded $30 May 3 (credit note 3937); account unlocked
-- [x] ~~`Moil-Dev` Google auth project key (`0270710133`) reinstated~~ — that's the Google-auth key; live Gemini key (`0251`) untouched
 - [ ] **🔥 Adeleke / Andres:** Per-feature AI-spend accounting for OpenAI + Gemini before next billing cycle (the Saturday 5/2 Gemini spike was the weekly health-summary cron — fix landing via May 4 Flash-Lite + active-user-gate switch)
 
 ### 🔥 Apr 29 — NBCC and west-coast SMB conversion lanes opened
@@ -178,14 +186,7 @@ Source: [[wiki/meetings/2026-04-21-teams-daily-ops]], [[wiki/meetings/2026-04-21
 - [ ] **Sep 1, 2026** — Buda HIVE training program curriculum jointly with HIVE + Incubator Strategist Team
 - [ ] **Post-Apr 15** — CampaignOS with Jennifer Storm: circle back on MVP scope; Andres offered "little to no cost" — decide commitment level. [[wiki/concepts/campaignos]]
 
-### Demoted 2026-05-01 — >14 days carried
-- [ ] Adeleke: codebase audit for OpenAI API usage; gpt-4o → gpt-5-mini; rotate keys after
-- [ ] Adam Maxon @ pfdevelopment.com — Pflugerville Mentor Day reply
-- [ ] Adeleke + Jacob: rotate GitHub webhook secrets (Apr 14 alert)
-- [ ] Jesutomilola Omoniyi (Google xWF) — pick a reschedule time
-- [ ] 2025 1040 in TaxDome — Melissa Jarbo / Martin Kutac / Ingrid refund-liability form
-- [ ] Identify new social media client Andres signed; confirm Abiodun capacity
-- [ ] Product UX: employer-can't-see-applicant-contact + candidate-message notifications; reply Megan with workaround + ETA
+### Demoted (>14 days carried — moved to [[log.md]] 2026-05-06 trim block)
 
 ---
 

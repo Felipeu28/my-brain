@@ -35,26 +35,26 @@ Updated automatically by:
 ## Recent Queries
 
 <!-- ENTRIES:query -->
-- 2026-05-06 08:57 — Session end: [Brain/KB] You are the Moil Brain KB Agent. Ingest these unprocessed raw files into wiki pa… — 4 new files · 23 edits
-- 2026-05-06 08:48 — Session end: [Brain/Auto] Run the morning briefing. Execute these steps:  1. Fetch today's calendar: bash … — 1 new files
-- 2026-05-06 08:09 — Session end: [Brain] Please analyze this codebase and create a CLAUDE.md file, which will be given to… — 24 chapters · 78 new files · 60 edits · 28 commits
-- 2026-05-06 08:06 — Session end: [Brain] Please analyze this codebase and create a CLAUDE.md file, which will be given to… — 24 chapters · 78 new files · 60 edits · 28 commits
-- 2026-05-06 07:59 — Session end: [Brain] Please analyze this codebase and create a CLAUDE.md file, which will be given to… — 24 chapters · 78 new files · 60 edits · 28 commits
-- 2026-05-06 07:53 — Session end: [Brain] Let's do a full review and analysis if everything pushed today.  Let's also audi… — 6 new files · 28 edits · 11 commits
-- 2026-05-06 07:52 — Session end: [Brain] Please analyze this codebase and create a CLAUDE.md file, which will be given to… — 23 chapters · 75 new files · 59 edits · 26 commits
-- 2026-05-05 19:31 — Session end: [Brain/Auto] You are Andres Urrego's editor. Every evening you distill his X bookmarks from t… — 1 new files
-- 2026-05-05 18:32 — Session end: [Brain/KB] Check for any new files in raw/ and raw/onedrive-transcripts/ that haven't been … — 3 new files · 12 edits · 1 commits
-- 2026-05-05 18:31 — Session end: [Brain/Auto] Read these two JSON files of today's email activity and create a structured Brai… — 1 new files
-- 2026-05-05 18:24 — Session end: [Brain/Auto] Pull today's Microsoft Teams meeting transcripts and add them to the Brain.  1. … — 1 new files
-- 2026-05-05 12:01 — Session end: [Brain/Auto] You are Andres's plan radar. Every day at noon you scan recent Brain activity an… — 1 new files
-- 2026-05-05 11:00 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 2 new files · 18 edits
-- 2026-05-05 08:54 — Session end: [Brain/KB] You are the Moil Brain KB Agent. Ingest these unprocessed raw files into wiki pa… — 1 new files · 13 edits
-- 2026-05-05 08:54 — Session end: [Brain/KB] URGENT — full diagnosis needed. The "Deploy Quartz site to GitHub Pages" workflo… — 19 new files · 43 edits · 21 commits
-- 2026-05-05 08:51 — Session end: [Brain/KB] You are parsing raw scraped text from Andres's X.com bookmarks page into a struc… — 1 new files
-- 2026-05-05 08:48 — Session end: [Brain/Auto] Run the morning briefing. Execute these steps:  1. Fetch today's calendar: bash … — 1 new files
-- 2026-05-05 07:02 — Session end: [Claude] You are surfacing patterns from the last 28 days of Andres's working life — code… — 1 new files
-- 2026-05-05 06:49 — Session end: [Clio] Parallel track: adopt Garry Tan's `gstack` pattern for Clio dev velocity. Tan pu… — 4 chapters · 36 new files · 79 edits · 33 commits
-- 2026-05-05 06:00 — Session end: [Claude] You are the Moil Brain's daily cross-source intelligence analyst.  You are readi… — 9 events
+- 2026-05-06 18:32 — Session end: [Brain/Auto] Read these two JSON files of today's email activity and create a structured Brai… — 1 new files
+- 2026-05-06 18:29 — Session end: [Clio] I want us to do an audit on the UX and UI for both parents and kids, any type of… — 3 chapters · 7 new files · 72 edits · 8 commits
+- 2026-05-06 18:19 — Session end: [Brain/Auto] Pull today's Microsoft Teams meeting transcripts and add them to the Brain.  1. … — 82 events
+- 2026-05-06 16:40 — Session end: [Clio] I want us to do an audit on the UX and UI for both parents and kids, any type of… — 3 chapters · 7 new files · 68 edits · 7 commits
+- 2026-05-06 16:37 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 33 edits
+- 2026-05-06 16:34 — Session end: [Clio] I want us to do an audit on the UX and UI for both parents and kids, any type of… — 3 chapters · 7 new files · 68 edits · 7 commits
+- 2026-05-06 16:33 — Session end: [Clio] I want us to do an audit on the UX and UI for both parents and kids, any type of… — 3 chapters · 7 new files · 68 edits · 7 commits
+- 2026-05-06 16:32 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 4 new files · 33 edits
+- 2026-05-06 16:28 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 4 new files · 33 edits
+- 2026-05-06 16:27 — Session end: [Clio] I want us to do an audit on the UX and UI for both parents and kids, any type of… — 3 chapters · 7 new files · 58 edits · 6 commits
+- 2026-05-06 16:26 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 4 new files · 33 edits
+- 2026-05-06 16:24 — Session end: [Clio] I want us to do an audit on the UX and UI for both parents and kids, any type of… — 3 chapters · 7 new files · 58 edits · 6 commits
+- 2026-05-06 16:19 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 3 new files · 32 edits
+- 2026-05-06 16:15 — Session end: [Clio] I want us to do an audit on the UX and UI for both parents and kids, any type of… — 3 chapters · 6 new files · 45 edits · 5 commits
+- 2026-05-06 16:13 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 2 new files · 26 edits
+- 2026-05-06 16:05 — Session end: [Clio] I want us to do an audit on the UX and UI for both parents and kids, any type of… — 3 chapters · 5 new files · 45 edits · 4 commits
+- 2026-05-06 14:57 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 2 new files · 26 edits
+- 2026-05-06 14:55 — Session end: [Clio] I want us to do an audit on the UX and UI for both parents and kids, any type of… — 3 chapters · 5 new files · 45 edits · 4 commits
+- 2026-05-06 14:49 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 2 new files · 25 edits
+- 2026-05-06 14:47 — Session end: [Clio] I want us to do an audit on the UX and UI for both parents and kids, any type of… — 3 chapters · 3 new files · 41 edits · 3 commits
 <!-- /ENTRIES:query -->
 
 ## Recent Saves

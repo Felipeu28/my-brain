@@ -3,15 +3,15 @@ tags:
   - graph/spoke
   - person/customer
 status: active
-last_contact: 2026-05-04
+last_contact: 2026-05-06
 client: "[[wiki/orgs/siren-beauty]]"
 ---
 # Becky Torres
 
 **Type:** person
-**Last updated:** 2026-04-25
-**Source:** [[raw/email-history-2months-2026-04-12]], [[raw/email-history-6months-2026-04-14]], [[raw/hive-siren-beauty-wellness-strategy-plan]], [[raw/email-digest-2026-04-23]], [[raw/email-digest-2026-04-24]]
-**Related:** [[wiki/orgs/siren-beauty]], [[wiki/moil/customers]], [[wiki/moil/pipeline]]
+**Last updated:** 2026-05-06
+**Source:** [[raw/email-history-2months-2026-04-12]], [[raw/email-history-6months-2026-04-14]], [[raw/hive-siren-beauty-wellness-strategy-plan]], [[raw/email-digest-2026-04-23]], [[raw/email-digest-2026-04-24]], [[raw/teams-transcript-meeting-to-go-over-ongoing-projects-2026-05-06]]
+**Related:** [[wiki/orgs/siren-beauty]], [[wiki/moil/customers]], [[wiki/moil/pipeline]], [[wiki/meetings/2026-05-06-andres-taiwo-ongoing-projects]]
 
 ---
 
@@ -61,6 +61,18 @@ Source: [[raw/email-digest-2026-04-24]]
 Apr 24 08:38 — Andres replied to Becky's brand-link forward: *"Thank you so much for everything. My wife was impressed with the shampoo too."* Two beats:
 1. **Family extends both ways now** — Becky met Andres's mom Apr 23; Andres looped Mariana into the SIREN product experience same week. The vendor-to-neighbor frame is no longer one-sided.
 2. **Product-pull signal from a non-customer (Mariana).** Mariana being "impressed with the shampoo" is the first organic Mariana ↔ Moil-client crossover. Could surface a referral pathway through the Buda small-business network without Andres having to push it.
+
+## May 6, 2026 — Wrong Staging Build → Brand Realignment + Reply Pending
+
+Source: [[wiki/meetings/2026-05-06-andres-taiwo-ongoing-projects]]
+
+Becky emailed Andres earlier in the week surprised by the Siren Beauty staging build that went live with applied colors she hadn't approved (*"this looks all jumpy"* / *"it doesn't reflect who I am"*). The wrong build was a staging-branch push that wasn't intended for production. The site has since been reverted to the correct build, but Andres still owes her a reply.
+
+**Andres's posture going into the reply:** apologize for the misfire, explain the staging-vs-production confusion, point her to the corrected build, confirm her video-feedback items are now addressed (or in progress).
+
+**Brand-direction signal — Becky is actively pruning the "science" framing.** Her video feedback explicitly asked Moil to remove the word "science" everywhere on the site (*"That's not my vibe."*). This conflicts with Siren Beauty's existing tagline (*"Science-backed aesthetics blended with soulful wellness practices"*) and shifts the brand toward a purer *"feminine, mysticism, philosophy"* axis. Worth capturing in [[wiki/orgs/siren-beauty|the org page's brand.md]] before the next iteration.
+
+**New standing engineering rule on her account:** No proactive design changes without an explicit ask from Becky. Reverses Moil's prior bias on this account. *"Let's not make any more changes to any type of design until she asks for it."*
 
 ## Connections
 

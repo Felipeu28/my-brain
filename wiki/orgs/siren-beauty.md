@@ -3,15 +3,15 @@ github_repo: Moil-Landingpages/Siren-Beauty
 tags:
   - graph/spoke
 status: active
-last_contact: 2026-04-28
+last_contact: 2026-05-06
 owner: "[[wiki/people/becky-torres]]"
 ---
 # Siren Beauty & Wellness
 
 **Type:** organization
-**Last updated:** 2026-04-28
-**Source:** [[raw/teams-2026-04-12]], [[raw/email-history-6months-2026-04-14]], [[raw/hive-siren-beauty-wellness-strategy-plan]], [[raw/teams-transcript-website-update-review-call-2026-04-28]]
-**Related:** [[wiki/people/becky-torres]], [[wiki/moil/customers]], [[wiki/moil/pipeline]], [[wiki/meetings/2026-04-28-website-update-review-internal]]
+**Last updated:** 2026-05-06
+**Source:** [[raw/teams-2026-04-12]], [[raw/email-history-6months-2026-04-14]], [[raw/hive-siren-beauty-wellness-strategy-plan]], [[raw/teams-transcript-website-update-review-call-2026-04-28]], [[raw/teams-transcript-meeting-to-go-over-ongoing-projects-2026-05-06]]
+**Related:** [[wiki/people/becky-torres]], [[wiki/moil/customers]], [[wiki/moil/pipeline]], [[wiki/meetings/2026-04-28-website-update-review-internal]], [[wiki/meetings/2026-05-06-andres-taiwo-ongoing-projects]]
 
 ---
 
@@ -225,6 +225,25 @@ Becky sent her **full brand kit** during the Apr 28 1 PM internal call. Andres d
 This is the **first time a customer's brand kit is becoming a repo-level artifact** at Moil. Extends the per-asset MD-file pattern Andres is rolling out across Moil 360 (`user.md`, `design.md`, `agent.md`, `brand.md` per profile) — practical implementation of the YC RFS *"build for agents, not the agent"* framing, where any external agent entering Moil can consume context.
 
 **Replicable for other clients** — once Siren's brand-kit-as-`brand.md` is in place, every subsequent Moil engagement (Connectex, FitLogic, Inna) can adopt the same pattern.
+
+## May 6, 2026 — Wrong Staging Build Crisis + "No Design Changes Without Ask" Rule
+
+Source: [[wiki/meetings/2026-05-06-andres-taiwo-ongoing-projects]]
+
+**What happened:** A wrong staging build went live on the Siren Beauty site. Becky saw it, emailed Andres surprised — *"this looks all jumpy"* / *"it doesn't reflect who I am"* — and pointed back to her video feedback that hadn't been addressed in the build that shipped. Andres realized internally: she had previously said *"I love what you did here, I love the direction"* in her videos but the staging push reverted to a state with applied colors she hadn't approved.
+
+**New standing rule for Siren Beauty engineering:** *"Let's not make any more changes to any type of design until she asks for it. We need to realign — I'm using her brand."* Reverses Moil's prior bias toward proactive design suggestions. **Only deliver on items she explicitly called out in her video feedback.**
+
+**Brand-anchoring direction (from Becky's video feedback):**
+- **Remove the word "science" everywhere on the site.** *"That's not my vibe."* Conflicts with the existing Siren brand tagline ("Science-backed aesthetics blended with soulful wellness practices") — Becky is **actively pruning the science framing** in favor of the *"feminine, mysticism, philosophy"* axis. Update the Brand DNA / `brand.md` to reflect this evolution
+- The hero image *is* the logo — duplicate "Siren Beauty" wordmark in the top header is redundant and distracting; Becky asked to remove it
+- Header text needs to be **bolder + thicker** with a **white shadow** so it stays readable over the hero image during the scroll-to-fixed-header transition (currently disappears mid-scroll)
+
+**Mobile responsive flagged ASAP** — site currently breaks on phone. Andres logged in mid-call and surfaced this as a P0 visual bug.
+
+**Sanity CMS image-upload constraint:** Non-studio staff cannot upload images via a custom UI; only Sanity studio users can swap images. Decision was *"we don't want that"* — but unclear if Becky knows she has to use the studio (vs. expecting a friendlier upload widget on the marketing pages). Open question for the next Becky-Andres conversation.
+
+**Architectural note:** The CMS / website-builder discussion in this call surfaced Andres's full Moil 360 vision — *"click here, create your website → AI draft → optional CMS attach → optional CRM subscription"* — and Taiwo offered *"I don't think it's very hard to build a content management system."* This positions Siren Beauty's Sanity install as the inspiration for an eventual native Moil 360 CMS layer (Taiwo to lead scoping per the May 4 product-unification mandate).
 
 ## Connections
 

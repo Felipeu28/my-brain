@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-05-04
+last_contact: 2026-05-06
 tags:
   - graph/spoke
   - person/team
@@ -8,9 +8,9 @@ tags:
 # Taiwo Ola-Balogun
 
 **Type:** person
-**Last updated:** 2026-05-04
-**Source:** `raw/meetings/` (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026), [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/teams-2026-04-24]] (9 messages 1:1, Apr 24), [[raw/teams-2026-04-26]] (4 messages 1:1, Apr 26), [[raw/teams-transcript-website-update-review-call-2026-04-28]], [[raw/teams-transcript-mark-polanco-andres-2026-04-28]], [[raw/teams-transcript-monday-collaboration-2026-05-04]]
-**Related:** [[wiki/people/adeleke-tolulope]], [[wiki/people/jacob-oluwole]], [[wiki/moil/product-roadmap]], [[wiki/meetings/2026-04-23-megan-crm-google-setup]]
+**Last updated:** 2026-05-06
+**Source:** `raw/meetings/` (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026), [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/teams-2026-04-24]] (9 messages 1:1, Apr 24), [[raw/teams-2026-04-26]] (4 messages 1:1, Apr 26), [[raw/teams-transcript-website-update-review-call-2026-04-28]], [[raw/teams-transcript-mark-polanco-andres-2026-04-28]], [[raw/teams-transcript-monday-collaboration-2026-05-04]], [[raw/teams-transcript-meeting-to-go-over-ongoing-projects-2026-05-06]]
+**Related:** [[wiki/people/adeleke-tolulope]], [[wiki/people/jacob-oluwole]], [[wiki/moil/product-roadmap]], [[wiki/meetings/2026-04-23-megan-crm-google-setup]], [[wiki/meetings/2026-05-06-andres-taiwo-ongoing-projects]]
 
 ---
 
@@ -187,6 +187,18 @@ Source: [[raw/teams-transcript-monday-collaboration-2026-05-04]], [[wiki/meeting
 - **Found an open-source email-infrastructure project** as a potential **Resend replacement** that would lift the 100-emails-per-day cap. Plan: clone the repo, bring own infra, eventually replace Resend. Andres approved investigation but framed it as *"small scale for now"* — appropriate for Moil's current SMB customer profile (most send 1–2 mailboxes worth, not 100/day)
 - **Product unification mandate from Andres.** Combine the four side-projects (FitLogic, Inna CRM, Siren Beauty, ConnectX) into a single packaged product Moil can resell to clients. Three product pillars identified: **email-sequence tool** + **blog generator** + **CRM**. Taiwo to lead the audit and unification design
 - **Will receive Moil 360 license today** so he can dogfood the business coach during reading sessions and push it on edge cases. Continues the Apr 28 hot-mic professionalism note — Taiwo as a regular Moil-as-a-customer experiencer
+
+## May 6, 2026 — Siren Beauty + FitLogic CRM working session (~110 min)
+
+Source: [[raw/teams-transcript-meeting-to-go-over-ongoing-projects-2026-05-06]], [[wiki/meetings/2026-05-06-andres-taiwo-ongoing-projects]]
+
+- **Codex license deferred — Taiwo's call.** Andres pitched buying a Codex license once the current project gets paid; Taiwo's response: *"Codex, I think Claude is enough for now, sir."* Taiwo confirmed he's actively using Claude Code and it's *"been good, very good."* First time Taiwo has been the one *recommending* a tooling decision rather than receiving one — pattern shift from passive recipient to opinionated user. Ties forward to the May 4 cost-discipline standing rule
+- **Volunteered to scope a CMS build.** When Andres pitched the Moil 360 vision (*"click here, create your website → AI draft → CMS attach → CRM subscription"*), Taiwo responded *"I don't think it's very hard to build a content management system. It's something we can actually build."* Andres: *"I love the way you're thinking, because that's exactly how we gotta think."* Continues May 4 product-unification mandate (Taiwo to lead the FitLogic + Inna CRM + Siren Beauty + ConnectX → unified packaged tool design)
+- **🔥 Repo-discipline relapse, third surfacing in 8 days.** FitLogic CRM updates worked locally but Taiwo had not pushed to the production-side repo (only the staging one). Same gap Andres surfaced Apr 28 (Connectex repo) and reinforced May 4 (push-to-main rule). Three surfacings in 8 days — repetition, not internalization
+- **Refused-to-assume coaching, take 1.** When asked what happens when multiple email sequences collide on the same day past Vercel's 1-cron/day cap, Taiwo answered *"Yeah, I think they're going to get sent out on the same page, because the phone wants this reschedule."* Andres pushed back hard: *"I don't want you to know. I don't want us to think. I want us to be 100% sure. Let's not leave any rock unturned. That's lazy on our end to assume."* Routed as a Claude research task. **First time Andres has explicitly framed engineering reasoning (not just delivery cadence) as a discipline expectation**
+- **Take-ownership-of-deliveries coaching, take 3.** Andres again asked Taiwo to message *"here's what I delivered, here's what's next"* without being prompted. *"I need you to come out of the shadows. It's good to take ownership for the hard work we're putting in."* Same coaching as Apr 28 (post-feature messaging) and May 4 (status-report at standup). Pattern is being reinforced through repetition; Taiwo's response was again *"Yes, sir"* without yet showing the behavior
+- **Built and demoed end-to-end CRM features that work.** WYSIWYG email editor with bold/italics/links/attachments + variable selector (per-contact personalization), batch-loading 500 contacts at a time, open/click tracking with logs, business-card scan, Resend → Gmail-API silent failover. Andres's verdict on the analytics view: *"Awesome. You did awesome here, man. Well done."* — first unambiguous "well done" Andres has given Taiwo in the captured transcripts
+- **Outlook access blocked Taiwo from reading Andres's project-files document.** Self-reported at the start of the call; resolved by Andres sending project files / Inna project link directly via DM. Pattern: Microsoft 365 collaboration friction continues to slow Taiwo's onboarding to Andres's docs
 
 ## Contact
 
