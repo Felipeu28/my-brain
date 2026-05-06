@@ -2,7 +2,7 @@
 tags:
   - graph/leaf
 type: hot-cache
-last_updated: 2026-05-05
+last_updated: 2026-05-06
 ---
 # Brain Hot Cache
 
@@ -34,6 +34,14 @@ Updated automatically by:
 ## Recent Queries
 
 <!-- ENTRIES:query -->
+- 2026-05-06 07:53 — Session end: [Brain] Let's do a full review and analysis if everything pushed today.  Let's also audi… — 6 new files · 28 edits · 11 commits
+- 2026-05-06 07:52 — Session end: [Brain] Please analyze this codebase and create a CLAUDE.md file, which will be given to… — 23 chapters · 75 new files · 59 edits · 26 commits
+- 2026-05-05 19:31 — Session end: [Brain/Auto] You are Andres Urrego's editor. Every evening you distill his X bookmarks from t… — 1 new files
+- 2026-05-05 18:32 — Session end: [Brain/KB] Check for any new files in raw/ and raw/onedrive-transcripts/ that haven't been … — 3 new files · 12 edits · 1 commits
+- 2026-05-05 18:31 — Session end: [Brain/Auto] Read these two JSON files of today's email activity and create a structured Brai… — 1 new files
+- 2026-05-05 18:24 — Session end: [Brain/Auto] Pull today's Microsoft Teams meeting transcripts and add them to the Brain.  1. … — 1 new files
+- 2026-05-05 12:01 — Session end: [Brain/Auto] You are Andres's plan radar. Every day at noon you scan recent Brain activity an… — 1 new files
+- 2026-05-05 11:00 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 2 new files · 18 edits
 - 2026-05-05 08:54 — Session end: [Brain/KB] You are the Moil Brain KB Agent. Ingest these unprocessed raw files into wiki pa… — 1 new files · 13 edits
 - 2026-05-05 08:54 — Session end: [Brain/KB] URGENT — full diagnosis needed. The "Deploy Quartz site to GitHub Pages" workflo… — 19 new files · 43 edits · 21 commits
 - 2026-05-05 08:51 — Session end: [Brain/KB] You are parsing raw scraped text from Andres's X.com bookmarks page into a struc… — 1 new files
@@ -46,14 +54,6 @@ Updated automatically by:
 - 2026-05-04 23:07 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 2 new files · 18 edits
 - 2026-05-04 19:31 — Session end: [Brain/Auto] You are Andres Urrego's editor. Every evening you distill his X bookmarks from t… — 1 new files
 - 2026-05-04 18:42 — Session end: [Brain/KB] Check for any new files in raw/ and raw/onedrive-transcripts/ that haven't been … — 9 new files · 32 edits · 1 commits
-- 2026-05-04 18:31 — Session end: [Brain/Auto] Read these two JSON files of today's email activity and create a structured Brai… — 1 new files
-- 2026-05-04 18:24 — Session end: [Brain/Auto] Pull today's Microsoft Teams meeting transcripts and add them to the Brain.  1. … — 2 new files · 2 edits
-- 2026-05-04 18:04 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 2 new files · 18 edits
-- 2026-05-04 17:17 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 2 new files · 18 edits
-- 2026-05-04 16:54 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 1 new files · 16 edits
-- 2026-05-04 16:50 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 1 new files · 16 edits
-- 2026-05-04 16:43 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 1 new files · 16 edits
-- 2026-05-04 16:14 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 1 new files · 16 edits
 <!-- /ENTRIES:query -->
 
 ## Recent Saves

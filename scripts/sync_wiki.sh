@@ -16,7 +16,8 @@ rsync -a --delete "$KB_DIR/wiki/" "$CONTENT_DIR/wiki/"
 
 echo "[sync] Syncing raw/ → quartz/content/raw/ (additive — automation outputs"
 echo "       like briefings/, clippings/ are written here by other scripts)"
-rsync -a "$KB_DIR/raw/" "$CONTENT_DIR/raw/"
+echo "       Excludes raw/private/ (iMessage personal threads — local-only)"
+rsync -a --exclude='private/' --exclude='private-*' "$KB_DIR/raw/" "$CONTENT_DIR/raw/"
 
 echo "[sync] Syncing root markdown files"
 cp "$KB_DIR/MEMORY.md"   "$CONTENT_DIR/MEMORY.md"

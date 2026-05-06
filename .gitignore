@@ -24,3 +24,7 @@ public/
 scripts/.teams_token.json
 scripts/.teams_config.json
 .gstack/
+
+# Private iMessage pulls (local-only, never deployed)
+raw/private/
+raw/private-*
