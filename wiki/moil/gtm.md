@@ -5,8 +5,8 @@ tags:
 # Moil — Go-to-Market Motion
 
 **Type:** moil-topic
-**Last updated:** 2026-05-05
-**Source:** [[raw/moil-documents-2026-04-09]], [[raw/moilapp-website-2026-04-09]], [[raw/teams-2026-04-12]], [[raw/email-digest-2026-04-14]], [[raw/email-digest-2026-04-15]], [[raw/email-digest-2026-04-17]], [[raw/email-digest-2026-04-20]], [[raw/email-digest-2026-04-21]], [[raw/email-digest-2026-04-22]], [[raw/email-digest-2026-04-27]], [[raw/email-digest-2026-04-28]], [[raw/email-digest-2026-04-29]], [[raw/email-digest-2026-04-30]], [[raw/email-digest-2026-05-01]], [[raw/email-digest-2026-05-04]], [[raw/signal-briefs/signal-brief-2026-05-04]]
+**Last updated:** 2026-05-06
+**Source:** [[raw/moil-documents-2026-04-09]], [[raw/moilapp-website-2026-04-09]], [[raw/teams-2026-04-12]], [[raw/email-digest-2026-04-14]], [[raw/email-digest-2026-04-15]], [[raw/email-digest-2026-04-17]], [[raw/email-digest-2026-04-20]], [[raw/email-digest-2026-04-21]], [[raw/email-digest-2026-04-22]], [[raw/email-digest-2026-04-27]], [[raw/email-digest-2026-04-28]], [[raw/email-digest-2026-04-29]], [[raw/email-digest-2026-04-30]], [[raw/email-digest-2026-05-01]], [[raw/email-digest-2026-05-04]], [[raw/signal-briefs/signal-brief-2026-05-04]], [[raw/email-digest-2026-05-05]]
 **Related:** [[wiki/moil/positioning]], [[wiki/moil/icp]], [[wiki/concepts/buda-hive]], [[wiki/people/travis-sutherland]], [[wiki/people/daniel-guadiano]], [[wiki/people/renee-simmons]], [[wiki/people/adam-maxon]], [[wiki/people/irma-mason]], [[wiki/people/elisa-alaniz]], [[wiki/people/katherine-silvas]], [[wiki/orgs/helotes-edc]]
 
 ---
@@ -280,6 +280,30 @@ Single-day outbound: **7+ chamber/EDC sends** plus close-out variants. Lower vol
 - 🟡 Linda Horuke (Jungle Flavorz) re-engaging after missed call last week (family unwell) — wants to reschedule the **Website Updates Discussion** call. Carries an Apr-era client thread back into May.
 
 **Signal:** May 4 closes the campaign's **first deliberate "narrative-as-product" day** — the *exact same EDC-feedback anecdote* runs on accelerator app + cold outbound + (per [[wiki/meetings/2026-05-04-monday-collaboration]]) the free-trial rollout marketing strategy queued for the week. Three different surfaces, one shared narrative — **the campaign is now exporting to other Moil sales tools**, not just adding new chamber/EDC names. Volume dropped from late-April peak (24/day) to ~7/day, but the multiplier is in **narrative reuse rather than send count**.
+
+### Cold campaign — May 5 update (single-day pipeline-cleanup blitz; 19 chamber/EDC sends)
+
+Source: [[raw/email-digest-2026-05-05]]
+
+Single-day outbound: **19 chamber/EDC sends** + 3 Content360 SMB cold pitches — heaviest pipeline-cleanup day since Apr 28's 14-send close-out blitz. Two narrative variants in parallel.
+
+- **"Should I close this out?" / "Last note" close-out — 11 sends:** Hunter Gardner (Hinds County EDA — MS), Ronda May (Jessamine Chamber — KY), April Kopitzke (New London Chamber — WI), Catherine Sanders (Pike Co. Chamber — MS), Melissa McLean (St. Paul Area Chamber — MN), Hunter Aycock (CDF MS), Robin Anthony-Evenson (Greater Stillwater Chamber — MN), Ashley Demuth (Menomonie Chamber — WI), Kari Swirth (Greater Beloit Chamber — WI), Debbie King (Southaven Chamber — MS), Jessica Holmvig (Cuyuna Lakes Chamber — MN). Geographic clusters: MN (3), WI (3), MS (3), KY (1), other (1).
+- **"Something we didn't expect" / "Interesting feedback from an EDC" story-led — 4 sends:** Tracy Propst (Beaverdam Chamber — WI), Allyson Wisniewski (Chippewa Chamber — WI), Carol Fahrenkrog (Bayfield — WI), Brad Gruhot (Marshall MN). **Wisconsin-saturated narrative variant** — same EDC-feedback story Carol Vaccaro received May 4. Wisconsin is the campaign's first state to have received both a close-out batch AND a story-led re-engagement batch in the same 24 hours.
+- **Content 360 SMB cold pitch — 3 sends:** Debby Larocque (Lone Star Roofing), Akeem Babatunde (CHG), Brooks Graham (Mervin and Sons). All three got *"30 days of content in 20 minutes"* / *"Most SMB owners tell us the same thing…"* — direct-to-business-owner variant, multi-vertical (roofing, healthcare consulting, agribusiness).
+
+**Inbound from the campaign May 5:**
+- 🟢 **Sarah Sanchez (Sunfield Spray Tans)** replied positive to the Moil 360 follow-up: *"Thank you so much, I appreciate it! I will check it out tomorrow!"* — first warm reply on the local-Buda Moil 360 free-trial track. See [[wiki/people/sarah-sanchez]].
+- 🟡 **Linda Horuke (Jungle Flavorz)** carryover from May 4 — Andres reply still pending.
+- 🟡 **Sarah Cordano (Bank OZK)** repeat *"Checking in from Bank OZK"* — same banker-of-record check-in from May 4; still no Andres reply.
+- 🟢 **Casey Earley (Buda EDC)** accepted *"Incubator Strategist - Scope of Work"* calendar invite — first SoW-track calendar lock with Buda EDC. See [[wiki/people/casey-earley]].
+
+**Operational artifact — OpenAI Codex token-limit dispute:** Andres replied 3× to the OpenAI support thread on the *"token of thanks"* sequence. Promised 10x increase didn't honor on `andres@moilapp.com` (the workspace/Business login) — usage burned 100→0% in ~5–8 min on Codex 5.5 high/low across two accounts. Andres asked for a max-plan discount as alternative. Continues the AI-spend observability emergency tracked in [[MEMORY]] (Apr 29 block). Watch for OpenAI's Mon May 6+ reply.
+
+**Operational artifact — Google Cloud compliance appeal:** Google Cloud Compliance requested additional info on the Apr 29 Gemini-API project policy-violation appeal (project 533274749231). Andres confirmed keys revoked + replaced + full audit done; the leaked key was the previously-rotated one. Closes a documentation loop on the Apr 29 AI-spend emergency.
+
+**Operational artifact — Christine St John data-loss:** Christine emailed about Buda Top Neighborhoods data wiped by the **free-30-days release**. Andres looped Steve and Jacob in to investigate. **First data-loss incident from the Moil 360 free-trial code path** queued in [[wiki/meetings/2026-05-04-monday-collaboration|May 4 Monday Collaboration]] for the broader rollout — flag for migration safety verification before more customers are onboarded into the free-trial path. See [[wiki/people/christine-stjohn]].
+
+**Signal:** May 5 is a **pipeline-cleanup-and-cross-sell day**, not a volume day. The 11-send close-out batch is finishing the late-April long-tail (MN/WI/MS clusters), the 4-send story-led variant in Wisconsin is testing whether already-pinged Wisconsin prospects re-open under a different narrative, and the 3-send Content 360 SMB pitch surfaces the **first parallel SMB direct-pitch track** running alongside the chamber/EDC track. Inbound side delivered the **first warm Moil 360 reply on the local-Buda track (Sarah Sanchez)** — converting the May 4 "narrative-as-product" multiplier into a free-trial signup-eligible warm lead. Casey Earley's SoW calendar accept is the first non-cohort, non-PSA contract surface to advance with Buda EDC since the Apr 22 Helotes proposal.
 
 ### Hays CISD Career Day — network-recruitment expansion (Apr 30)
 

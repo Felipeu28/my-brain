@@ -26,6 +26,7 @@ Updated automatically by:
 ## Recent Ingestions
 
 <!-- ENTRIES:ingest -->
+- 2026-05-06 08:57 — 1 file(s) queued for ingest. Claude exit 0.
 - 2026-05-05 08:56 — 3 file(s) queued for ingest. Claude exit 0.
 - 2026-05-04 08:58 — 436 file(s) queued for ingest. Claude exit 0.
 - 2026-05-01 08:57 — 374 file(s) queued for ingest. Claude exit 0.
@@ -34,6 +35,11 @@ Updated automatically by:
 ## Recent Queries
 
 <!-- ENTRIES:query -->
+- 2026-05-06 08:57 — Session end: [Brain/KB] You are the Moil Brain KB Agent. Ingest these unprocessed raw files into wiki pa… — 4 new files · 23 edits
+- 2026-05-06 08:48 — Session end: [Brain/Auto] Run the morning briefing. Execute these steps:  1. Fetch today's calendar: bash … — 1 new files
+- 2026-05-06 08:09 — Session end: [Brain] Please analyze this codebase and create a CLAUDE.md file, which will be given to… — 24 chapters · 78 new files · 60 edits · 28 commits
+- 2026-05-06 08:06 — Session end: [Brain] Please analyze this codebase and create a CLAUDE.md file, which will be given to… — 24 chapters · 78 new files · 60 edits · 28 commits
+- 2026-05-06 07:59 — Session end: [Brain] Please analyze this codebase and create a CLAUDE.md file, which will be given to… — 24 chapters · 78 new files · 60 edits · 28 commits
 - 2026-05-06 07:53 — Session end: [Brain] Let's do a full review and analysis if everything pushed today.  Let's also audi… — 6 new files · 28 edits · 11 commits
 - 2026-05-06 07:52 — Session end: [Brain] Please analyze this codebase and create a CLAUDE.md file, which will be given to… — 23 chapters · 75 new files · 59 edits · 26 commits
 - 2026-05-05 19:31 — Session end: [Brain/Auto] You are Andres Urrego's editor. Every evening you distill his X bookmarks from t… — 1 new files
@@ -49,11 +55,6 @@ Updated automatically by:
 - 2026-05-05 07:02 — Session end: [Claude] You are surfacing patterns from the last 28 days of Andres's working life — code… — 1 new files
 - 2026-05-05 06:49 — Session end: [Clio] Parallel track: adopt Garry Tan's `gstack` pattern for Clio dev velocity. Tan pu… — 4 chapters · 36 new files · 79 edits · 33 commits
 - 2026-05-05 06:00 — Session end: [Claude] You are the Moil Brain's daily cross-source intelligence analyst.  You are readi… — 9 events
-- 2026-05-05 00:17 — Session end: [Claude] You are an entity-extraction agent for the Moil Brain.  Extract every person men… — 9 events
-- 2026-05-04 23:20 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 2 new files · 18 edits
-- 2026-05-04 23:07 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 2 new files · 18 edits
-- 2026-05-04 19:31 — Session end: [Brain/Auto] You are Andres Urrego's editor. Every evening you distill his X bookmarks from t… — 1 new files
-- 2026-05-04 18:42 — Session end: [Brain/KB] Check for any new files in raw/ and raw/onedrive-transcripts/ that haven't been … — 9 new files · 32 edits · 1 commits
 <!-- /ENTRIES:query -->
 
 ## Recent Saves

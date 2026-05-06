@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-05-04
+last_contact: 2026-05-05
 client: "[[wiki/orgs/buda-edc]]"
 tags:
   - graph/spoke
@@ -9,8 +9,8 @@ tags:
 # Christine St John
 
 **Type:** person
-**Last updated:** 2026-05-04
-**Source:** [[raw/teams-transcript-christine-andres-2026-05-04]]
+**Last updated:** 2026-05-05
+**Source:** [[raw/teams-transcript-christine-andres-2026-05-04]], [[raw/email-digest-2026-05-05]]
 **Related:** [[wiki/people/kat-eyers]], [[wiki/orgs/buda-edc]], [[wiki/concepts/hive-program]], [[wiki/people/joshua-edmond]], [[wiki/people/jacquie-martinez]], [[wiki/meetings/2026-05-04-christine-kat-coaching]]
 
 ---
@@ -48,6 +48,14 @@ tags:
 - Ask Jacquie at the cohort session: (a) Depot rent expectations, (b) other downtown Buda spaces under $4K/mo
 - Reach distributors and ask each for ~5 free bottles for opening (lean inventory)
 - Talk to Dane about Water To Wine custom-label service for community/family-named wines
+
+## May 5 — Buda Top Neighborhoods data-loss thread
+
+Source: [[raw/email-digest-2026-05-05]]
+
+- **May 5 21:38 UTC** — Christine emailed about a data-loss issue tied to the **free-30-days release** on Moil 360. Andres replied (apologizing for sending from the Fantelo account), looped in [[wiki/people/adeleke-tolulope|Steve]] and [[wiki/people/jacob-oluwole|Jacob]] to investigate, and confirmed dev + project lead now own the diagnosis.
+- **Pattern flag:** Christine's data was wiped by the same free-trial rollout marketing strategy that Andres queued in [[wiki/meetings/2026-05-04-monday-collaboration|May 4 Monday Collaboration]]. **First documented data-loss incident from the free-trial code path** — relevant operational signal for Adeleke + Jacob to verify migration safety before the broader rollout. Christine appears in both the May 4 Otter meeting (with Kat) and this thread on the same day; engagement intensity is rising.
+- **Andres action:** investigate the free-30-days release → root-cause the data loss → restore Christine's *Buda Top Neighborhoods* work product before the next coaching session.
 
 ## Cross-references
 

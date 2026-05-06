@@ -1,8 +1,8 @@
 # Moil Brain — Master Index
 
-**Last compiled:** 2026-05-05 (Run 35 — Christy Mawdsley discovery call ingested. New: [[wiki/people/christy-mawdsley]] (warm prospect, Wholeness Acupuncture 78641), [[wiki/orgs/wholeness-acupuncture]], [[wiki/meetings/2026-05-05-christy-mawdsley-discovery]]. Updated: [[wiki/people/roxana-yglesias]] (first outbound referral on record), [[wiki/moil/pipeline]] (warm count 3 → 4)). · **Total wiki pages:** 301 · **Raw sources:** 474
+**Last compiled:** 2026-05-06 (Run 36 — email-digest 2026-05-05 ingested. New: [[wiki/people/sarah-sanchez]] (warm prospect, Sunfield Spray Tans), [[wiki/orgs/sunfield-spray-tans]], [[wiki/people/linda-horuke]] (warm reschedule), [[wiki/orgs/jungle-flavorz]]. Updated: [[wiki/people/inna-benyukhis]] (silence broken — May 14/18 videos uploaded), [[wiki/people/christine-stjohn]] (Buda Top Neighborhoods data-loss thread, free-trial code-path), [[wiki/people/casey-earley]] (Incubator Strategist SoW calendar accepted), [[wiki/people/oscar-esquivel]], [[wiki/people/sarah-cordano]] (banker repeat check-in), [[wiki/orgs/alloy-atx]], [[wiki/moil/gtm]] (May 5 cold-campaign update — 19 chamber/EDC sends, first warm Moil 360 reply on local-Buda track), [[wiki/moil/pipeline]] (warm count 4 → 6, total 23 → 25)). · **Total wiki pages:** 305 · **Raw sources:** 475
 
-**Previous run header:** Run 34 (2026-05-05) — email-digest 2026-05-04 + signal-briefs 2026-05-03 & 2026-05-04; Oscar activation-handoff window; Inna silence past threshold; cold campaign as narrative-as-product; new Sarah Cordano (Bank OZK banker) stub.
+**Previous run header:** Run 35 (2026-05-05) — Christy Mawdsley discovery call (Roxana Yglesias outbound referral); first documented Moil customer-to-prospect referral conversion; warm count 3 → 4.
 
 > **Canonical operating truth lives outside the wiki:** if status or architecture notes here conflict with newer operating reality, use `~/My Brain/CURRENT_STATE.md` first.
 
@@ -30,9 +30,9 @@
 | Folder | Count | What's in it |
 |---|---|---|
 | [[wiki/moil/README|moil/]] | 11 | Moil business — positioning, ICP, GTM, customers, competitors, metrics, product roadmap, active-projects |
-| [[wiki/people/README|people/]] | 62 | Personal network — family, friends, customers, collaborators, team |
+| [[wiki/people/README|people/]] | 64 | Personal network — family, friends, customers, collaborators, team |
 | [[wiki/minds/README|minds/]] | 11 | Public AI thought leaders tracked from afar |
-| [[wiki/orgs/README|orgs/]] | 26 | Customer, partner, and prospect organizations |
+| [[wiki/orgs/README|orgs/]] | 28 | Customer, partner, and prospect organizations |
 | [[wiki/concepts/README|concepts/]] | 35 | Frameworks, mental models, products, programs |
 | [[wiki/radar/README|radar/]] | 2 | Append-only changelogs for fast-moving topics |
 | [[wiki/summaries/README|summaries/]] | 21 | One structured summary per raw source |

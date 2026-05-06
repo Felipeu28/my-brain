@@ -4,6 +4,64 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ---
 
+## 2026-05-06 — Run 36: email-digest 2026-05-05 (Inna silence broken; Christine data-loss; Casey Incubator Strategist SoW; first warm Moil 360 local-Buda reply)
+
+**Trigger:** Single new raw file detected post-Run-35: `quartz/content/raw/email-digest-2026-05-05.md` (mirrored at `raw/email-digest-2026-05-05.md`). Tue May 5 inbox + sent — 33 sent emails, 12 received, 19 chamber/EDC outbound, 3 Content360 SMB cold pitches.
+
+**Pages created (4):**
+- [[wiki/people/sarah-sanchez]] — Owner, Sunfield Spray Tans (Buda east-side Sunfield neighborhood). May 5 warm reply *"will check it out tomorrow"* on Moil 360 follow-up. **First warm Moil 360 reply on the local-Buda free-trial track.** `graph/leaf` + `person/customer`.
+- [[wiki/orgs/sunfield-spray-tans]] — Sarah's solo spray-tan business stub. `graph/leaf`.
+- [[wiki/people/linda-horuke]] — Owner, Jungle Flavorz. Re-engaging May 4 after missed Apr 28 Website Updates Discussion call (family illness). `graph/leaf` + `person/customer`.
+- [[wiki/orgs/jungle-flavorz]] — Linda's business stub. `graph/leaf`.
+
+**Pages updated (8):**
+- [[wiki/people/inna-benyukhis]] — Added 🟢 May 5 *"Silence broken: May 14 + 18 videos uploaded"* section. **Closes the 12-day silence flagged in MEMORY's escalation block** (Apr 23 *"Please create the content"* directive → May 5 Google Drive upload). Partial unblock: video-creation pipeline alive; LinkedIn/IG publish-approval queue still pending. `last_contact` 2026-05-04 → 2026-05-05.
+- [[wiki/people/christine-stjohn]] — Added May 5 *"Buda Top Neighborhoods data-loss thread"* section. **First documented data-loss incident from the Moil 360 free-trial code path** — Andres looped Steve + Jacob in to investigate. Operational signal for migration-safety verification before broader free-trial rollout. `last_contact` 2026-05-04 → 2026-05-05.
+- [[wiki/people/casey-earley]] — Added May 5 *"Incubator Strategist Scope of Work accepted"* section. **First Casey-side calendar accept on the SoW track** — the contract surface anchoring Andres's Buda EDC role beyond the per-cohort license. `last_contact` 2026-05-04 → 2026-05-05.
+- [[wiki/people/oscar-esquivel]] — Added May 5 quiet-day note in Recent Activity (no Oscar inbound/outbound; Roxana track stayed active via the Christine St John thread). Source list extended.
+- [[wiki/people/sarah-cordano]] — Engagement Timeline extended with May 5 repeat *"Checking in from Bank OZK"* check-in. Source list extended.
+- [[wiki/orgs/alloy-atx]] — Timeline extended with May 5 quiet-on-thread note (activation-handoff window remains open).
+- [[wiki/moil/gtm]] — New *"Cold campaign — May 5 update"* section. 19 chamber/EDC sends (11 close-out + 4 story-led + 4 Wisconsin saturation) + 3 Content 360 SMB cold pitches (first parallel SMB direct-pitch track running alongside chamber/EDC track). Inbound: Sarah Sanchez warm + Casey Earley SoW accept. Operational artifacts: OpenAI Codex token-limit dispute (3 replies; 10x increase didn't honor on workspace login), Google Cloud compliance appeal (keys revoked + audit confirmed), Christine St John data-loss flag.
+- [[wiki/moil/pipeline]] — Added Sarah Sanchez + Linda Horuke rows to Warm — In Conversation. Warm count 4 → 6; total active deals 23 → 25.
+
+**Pages NOT created:**
+- 19 chamber/EDC cold-outbound recipients (Tracy Propst, Debbie King, Jessica Holmvig, Allyson Wisniewski, Robin Anthony-Evenson, Hunter Aycock, Melissa McLean, Catherine Sanders, April Kopitzke, Ronda May, Hunter Gardner, Kari Swirth, Brad Gruhot, Ashley Demuth, Carol Fahrenkrog) — covered in [[wiki/moil/gtm]] May 5 update; no inbound replies; no individual pages until they re-engage.
+- 3 Content 360 SMB cold-outbound recipients (Debby Larocque / Lone Star Roofing, Akeem Babatunde / CHG, Brooks Graham / Mervin and Sons) — same reason.
+- Alyson Williams (Family Finance Global) — flagged as likely investor cold-spam in [[wiki/moil/gtm]] May 4 update; no page until verified.
+- Abiodun Adekanmi Teams asset drop — already covered by [[wiki/people/abiodun-solomon]] standing operational pattern (no incremental page-worthy signal).
+
+**Operating layer:**
+- [[index]] — Run 36 header; raw source count 474 → 475 (+1 email-digest-2026-05-05); wiki page count 301 → 305 (+4); people 62 → 64 (+2 sarah-sanchez, linda-horuke); orgs 26 → 28 (+2 sunfield-spray-tans, jungle-flavorz).
+- [[MEMORY]] — **no update.** MEMORY.md at 199/200 lines. May 5 items either (a) update existing MEMORY blocks (Inna silence resolved → tracked on entity page), (b) flow to entity pages (Sarah Sanchez + Linda Horuke + Casey SoW → page-level open items), or (c) ride existing carryover blocks (OpenAI / Google Cloud → already in Apr 29 AI-spend emergency). Christine data-loss is operationally captured on her entity page; if it escalates, promote to MEMORY.
+
+**Key intelligence from Run 36:**
+
+1. **🟢 Inna silence broken at exactly the escalation threshold.** Inna's May 5 02:20 UTC *"Videos for 05/14 & 05/18"* email lands within the same 24-hour window where MEMORY's Apr 29 *"silence past May 4–5 threshold"* watch was set. **The escalation system worked as designed** — the threshold was set on May 1, surfaced through three layers (entity page, signal brief, MEMORY) by May 4, and the relationship self-corrected on May 5 without requiring the direct-ping action item to fire. First documented case where the Brain's silence-tracking infrastructure let an action item resolve naturally before the human-trigger step. Worth flagging as a pattern: **silence-as-signal works**, but only if the threshold is explicit and the entity page surfaces it.
+
+2. **🔥 First data-loss incident from the Moil 360 free-trial code path.** Christine St John's Buda Top Neighborhoods data was wiped by the **same free-30-days release** Andres queued in [[wiki/meetings/2026-05-04-monday-collaboration|May 4 Monday Collaboration]] for the broader rollout. The data-loss surfaced **before** the marketing rollout went wide — a fortunate sequencing. Steve + Jacob now own the diagnosis. **Migration-safety verification should block the broader rollout** until the free-trial code path is validated. Pairs with the Apr 29 FitLogic P0 bug list pattern: customer-facing surfaces are surfacing latent regressions faster than internal QA — the operational-discipline question is whether free-trial customers absorb the rollout-bug penalty or whether internal QA catches it first.
+
+3. **🟢 First warm Moil 360 reply on the local-Buda free-trial track.** Sarah Sanchez (Sunfield Spray Tans) is the first solo-services SMB on Andres's local-Buda list to send a warm acknowledgement of a Moil 360 follow-up. Pairs with Christy Mawdsley (Run 35 — referral-driven) and Linda Horuke (Run 36 — re-engaging) to give the local-Buda track three concurrent warm prospects in the **first week the free-trial-rollout marketing strategy is queued**. The free-trial multiplier (1 cold pitch → 1 warm reply on the local list) is the leading indicator that the May 4 rollout strategy will compound.
+
+4. **🟢 First non-cohort, non-PSA Buda EDC contract surface to advance.** Casey Earley accepted the *Incubator Strategist Scope of Work* calendar invite — the contract surface anchoring Andres's Buda EDC role beyond the per-cohort license. First written-contract advance with Buda EDC since the Apr 22 Helotes proposal (which itself was outside Buda). Sequenced behind the May 4 in-person PSA review with Jacquie. **Watch the SoW meeting outcome** — this is where Andres's annual EDC compensation/scope likely formalizes.
+
+5. **🟡 OpenAI Codex token-limit dispute — workspace vs. personal account scoping.** OpenAI's *"10x increase as token of thanks"* gift didn't honor on `andres@moilapp.com` because the increase was scoped to personal ChatGPT, not the workspace/Business login. Andres burned 100→0% in 5–8 min on Codex 5.5 high/low. Asked for a max-plan discount as alternative. Continues the Apr 29 AI-spend observability emergency — the operational lesson is that **workspace-scoped vs. personal-scoped account boundaries are a budget-line variable**, not just an admin distinction. Watch May 6+ for OpenAI's reply.
+
+6. **🟢 Google Cloud compliance appeal moved to documentation phase.** Google asked for *"additional info on remediation steps"* — Andres confirmed keys revoked + replaced + full audit done; previously-leaked key was the rotated one. Closes the active-firefight phase of the Apr 29 Gemini-API project policy-violation appeal. Now operational documentation rather than blocked-account triage.
+
+7. **🟡 Wisconsin became first state to receive both a close-out batch AND a story-led re-engagement batch in same 24 hours.** Three close-out (April Kopitzke / New London, Ashley Demuth / Menomonie, Kari Swirth / Greater Beloit) + four story-led (Tracy Propst / Beaverdam, Allyson Wisniewski / Chippewa, Carol Fahrenkrog / Bayfield, Brad Gruhot / Marshall MN — bordering MN). First documented case of the campaign **A/B-testing the same state on the same day with two opposing template intents** (prune vs. re-engage). If a Wisconsin contact replies to the story-led variant after a prior close-out from the same Andres email, that's strong evidence the breakup-line is functioning as a re-open trigger rather than a goodbye.
+
+8. **🟢 Content 360 SMB direct-pitch track now running parallel to chamber/EDC track.** Three SMB sends May 5 (Lone Star Roofing, CHG, Mervin and Sons) under the *"30 days of content in 20 minutes"* / *"Most SMB owners tell us the same thing…"* variants — multi-vertical (roofing, healthcare consulting, agribusiness). First daily cadence of SMB-direct outbound running alongside chamber/EDC. Pairs with the Apr 29 west-coast SMB push (David Mann, Shayan Guha, Jessica Reicher, Rob Pieroth) — the **SMB direct-pitch track is graduating from one-off batches to a daily lane**.
+
+**Action-item delta:**
+- **Closed (~1):** Inna silence-past-escalation watch (entity page) — silence broken May 5 02:20 UTC.
+- **Opened (~3):** Andres → reply to Linda Horuke with two reschedule slots (carry over from May 4); Andres → watch for Sarah Sanchez free-trial signup at moilab.com (sunfieldspraytans@gmail.com), nudge in 7 days if no signup; Engineering (Steve + Jacob) → root-cause Christine St John's Buda Top Neighborhoods data-loss in the free-trial code path before broader rollout.
+
+**Sync step:** `bash scripts/sync_wiki.sh`. **Health step:** `python3 scripts/kb-health.py`. Source files (`raw/email-digest-2026-05-05.md` + `quartz/content/raw/email-digest-2026-05-05.md`) marked `ingested: true / ingested_at: 2026-05-06`.
+
+**Source count:** 474 → 475 (+1 email-digest). Wiki page count: 301 → 305 (+4: sarah-sanchez, sunfield-spray-tans, linda-horuke, jungle-flavorz).
+
+---
+
 ## 2026-05-05 — Run 35: Christy Mawdsley discovery call (Roxana Yglesias outbound referral)
 
 **Trigger:** Single new raw file detected by post-Run-34 scan: `raw/teams-transcript-christy-andres-2026-05-05.md` — 49-min Teams discovery call with Christy Mawdsley (Wholeness Acupuncture and Integrative Medicine, ZIP 78641), referred by [[wiki/people/roxana-yglesias|Roxana Yglesias]] (mutual BNI tie). Signal threshold met (warm prospect + first documented Roxana referral conversion + new entity surface).

@@ -8,8 +8,8 @@ tags:
 # Sarah Cordano
 
 **Type:** person
-**Last updated:** 2026-05-04
-**Source:** [[raw/email-digest-2026-05-04]]
+**Last updated:** 2026-05-05
+**Source:** [[raw/email-digest-2026-05-04]], [[raw/email-digest-2026-05-05]]
 **Related:** [[wiki/moil/gtm]]
 
 ---
@@ -28,6 +28,7 @@ Bank OZK is Moil's banker-of-record. Sarah is the relationship contact — not a
 |------|-------|
 | ~2025-07 | Moil business account opened (inferred from "10 months since" framing) |
 | 2026-05-04 | Sarah sent *"Checking in from Bank OZK"* — wants to schedule a check-in and be Moil's business banking team |
+| 2026-05-05 | Inbound *"Checking in from Bank OZK"* (Patrick's office) repeated — explicit *"10 months since you opened the account"* framing. Same ask: schedule a check-in. No Andres reply yet |
 
 ## Open Items
 

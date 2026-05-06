@@ -45,6 +45,8 @@ last_contact: 2026-04-14
 | **Kristi Hales / WorldLink Medical** | khales@worldlinkmedical.com | Health/pharma | Deferred | Apr 9 | 5 | *"More time in May"* — schedule for May |
 | **Merrie Santana** | merriebbf@gmail.com | HIVE service | Booked Mar 31 | Mar 31 | 14 | Confirm delivery; any follow-up needed? |
 | **[[wiki/people/christy-mawdsley|Christy Mawdsley]] / Wholeness Acupuncture** | Christymawdsley@gmail.com | Business Coach (free trial) → Moil 360 | Discovery done — free-trial signup pending | May 5 | 0 | Roxana Yglesias referral; 1:1 onboarding once 21Q complete; $60 first-month if she upgrades to 360 from start of trial |
+| **[[wiki/people/sarah-sanchez|Sarah Sanchez]] / Sunfield Spray Tans** | sunfieldspraytans@gmail.com | Moil 360 (free trial) | Warm reply — *"will check it out tomorrow"* | May 5 | 0 | Local east-side Buda SMB; watch for free-trial signup; nudge in 7d if no signup |
+| **[[wiki/people/linda-horuke|Linda Horuke]] / Jungle Flavorz** | jungleflavorz@gmail.com | Website Updates Discussion | Re-engaging after missed call (family illness) | May 4 | 1 | Reply with 2 reschedule slots; re-open window is day-or-two after re-engagement |
 
 ## 🔵 Partnerships — Revenue Generating
 
@@ -69,10 +71,10 @@ last_contact: 2026-04-14
 |-------|-------|-------------------|
 | Closed Apr 2026 | 10 | ~$5,000–8,000 |
 | Hot / In Delivery | 3 | Ongoing MRR |
-| Warm | 4 | ~$2,000–5,000 |
+| Warm | 6 | ~$2,000–5,000 |
 | Partnerships (active) | 2 | ~$5,000–10,000 |
 | Cold/Deferred | 4 | — |
-| **Total active pipeline** | **23 deals** | |
+| **Total active pipeline** | **25 deals** | |
 
 ---
 
