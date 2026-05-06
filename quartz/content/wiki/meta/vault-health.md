@@ -2,24 +2,24 @@
 tags:
   - graph/leaf
 type: vault-health
-last_run: 2026-05-03
+last_run: 2026-05-06
 ---
 
-# Vault Health — 2026-05-03
+# Vault Health — 2026-05-06
 
-Scanned **270** wiki pages. Found **736** total issues across 9 checks.
+Scanned **301** wiki pages. Found **324** total issues across 9 checks.
 
 | Check | Issues |
 |-------|--------|
-| Orphans (no backlinks) | 16 |
-| Dead wikilinks | 466 |
+| Orphans (no backlinks) | 0 |
+| Dead wikilinks | 30 |
 | Stale pages (>60d) | 0 |
 | Missing frontmatter | 0 |
 | Empty pages (<30 words) | 1 |
-| Duplicate titles | 1 |
-| Broken external URLs | 11 |
-| TODO/FIXME markers | 0 |
-| Missing `## Related` block | 241 |
+| Duplicate titles | 5 |
+| Broken external URLs | 18 |
+| TODO/FIXME markers | 2 |
+| Missing `## Related` block | 268 |
 
 Report only — nothing auto-fixed. Review and fix manually. For
 `## Related` candidates, see `outputs/related-suggestions/queue-*.md`
@@ -27,471 +27,27 @@ Report only — nothing auto-fixed. Review and fix manually. For
 
 ---
 
-## 1. Orphans (16)
+## 1. Orphans (0)
 
-- [[inbox/append]]
-- [[meetings/2025-01-08-ai-presentation]]
-- [[meetings/2025-01-22-team-meeting-ai-model-selection]]
-- [[meetings/2025-01-27-deepseek-model-demo]]
-- [[meetings/2025-01-29-team-meeting-code-dataset]]
-- [[meetings/2025-02-05-jacob-andres-sync]]
-- [[meetings/2025-04-04-team-meeting-algorithm-business-planner]]
-- [[meetings/2025-04-09-jacob-andres-business-plan-hubspot]]
-- [[meetings/2025-04-14-team-meeting-business-plan-template]]
-- [[meetings/2025-04-21-team-meeting-ai-mvp-design-marketing]]
-- [[meetings/2025-04-28-moil-marketing-call-ai-content]]
-- [[meetings/2025-05-19-moil-marketing-call-technical-issues]]
-- [[meetings/historical-transcripts-index]]
-- [[summaries/brain-audit-2026-05-03]]
-- [[summaries/know-me-extraction-prompts]]
-- [[weekly/2026-05-03]]
+_None — all clear._
 
-## 2. Dead Wikilinks (466)
+## 2. Dead Wikilinks (30)
 
 - [[andres/ANDRES]] → `[[outputs/briefing-2026-04-11]]` (unresolved)
-- [[andres/ANDRES]] → `[[MEMORY]]` (unresolved)
-- [[andres/ANDRES]] → `[[wiki/people/README]]` (unresolved)
-- [[andres/ANDRES]] → `[[wiki/meta/vault-health]]` (unresolved)
-- [[andres/ANDRES]] → `[[wiki/meta/brain-upgrade-plan]]` (unresolved)
-- [[concepts/brain-architecture]] → `[[raw/brain-guide.md]]` (unresolved)
 - [[concepts/brain-architecture]] → `[[outputs/synthesis-2026-04]]` (unresolved)
-- [[concepts/claude-code]] → `[[raw/x-bookmarks-2026-04-11.md]]` (unresolved)
-- [[concepts/claude-code]] → `[[raw/x-bookmarks-2026-04-11.md]]` (unresolved)
-- [[concepts/claude-code]] → `[[raw/brain-guide.md]]` (unresolved)
-- [[concepts/claude-cowork]] → `[[raw/brain-guide.md]]` (unresolved)
-- [[concepts/claude-cowork]] → `[[raw/x-bookmarks-2026-04-11.md]]` (unresolved)
-- [[concepts/hive-program]] → `[[raw/hive-series-based-hive-program]]` (unresolved)
-- [[concepts/hive-program]] → `[[raw/hive-buda-hive-sosx-run-of-show]]` (unresolved)
-- [[concepts/hive-program]] → `[[raw/hive-camp]]` (unresolved)
-- [[concepts/hive-program]] → `[[raw/hive-entrepreneur-camp]]` (unresolved)
-- [[concepts/hive-program]] → `[[raw/hive-grok-guide-and-talking-points]]` (unresolved)
-- [[concepts/hive-program]] → `[[raw/hive-1-or-2-day-intensive-hive-entrepreneurial-program]]` (unresolved)
-- [[concepts/hive-program]] → `[[raw/hive-hybrid-hive-entrepreneurial-program]]` (unresolved)
-- [[concepts/hive-program]] → `[[raw/hive-cohort-onboarding-session-feb13-2026]]` (unresolved)
-- [[concepts/managed-agents]] → `[[MEMORY]]` (unresolved)
 - [[concepts/obsidian]] → `[[links]]` (unresolved)
-- [[concepts/openclaw-hermes]] → `[[raw/x-bookmarks-2026-04-11.md]]` (unresolved)
-- [[concepts/openclaw-hermes]] → `[[raw/x-bookmarks-2026-04-11.md]]` (unresolved)
-- [[concepts/seo-implementation-plan]] → `[[raw/odtr-moilapp_SEO_Implementation_Plan_April2026]]` (unresolved)
-- [[meetings/2024-08-07-abel-zachary-sales-close]] → `[[raw/meetings/2024-08-07-abel-andr-s-follow-up-2024-08-07-09-11-gmt-5-transcript]]` (unresolved)
-- [[meetings/2024-10-24-julian-sanchez-video-planning]] → `[[raw/meetings/transcript-2024-10-24-zoom-julian-video-planning.md]]` (unresolved)
-- [[meetings/2024-10-24-julian-sanchez-video-planning]] → `[[raw/meetings/transcript-2024-10-22-julian-sanchez-andres.md]]` (unresolved)
-- [[meetings/2024-10-30-moneta-ventures-investor-panel]] → `[[raw/meetings/transcript-2024-10-30-moneta-ventures-presentation.md]]` (unresolved)
-- [[meetings/2024-10-31-monica-munoz-andry-gahcc-partnership]] → `[[raw/meetings/transcript-2024-10-31-andres-urrego-and-monica-munoz-andry.md]]` (unresolved)
-- [[meetings/2024-11-13-txor-moil-partnership-call]] → `[[raw/meetings/transcript-2024-11-13-txor-moil-call.md]]` (unresolved)
-- [[meetings/2024-11-14-virtual-moil-councilman-velasquez]] → `[[raw/meetings/transcript-2024-11-14-virtual-moil-meeting.md]]` (unresolved)
-- [[meetings/2024-11-22-abel-zachary-november-followup]] → `[[raw/meetings/transcript-2024-11-22-abel-and-andr-s-follow-up-november.md]]` (unresolved)
-- [[meetings/2024-11-25-monica-pena-egbi-echo-squad]] → `[[raw/meetings/transcript-2024-11-25-andres-urrego-monica-pena.md]]` (unresolved)
-- [[meetings/2024-11-27-cardo-resume-building-session]] → `[[raw/meetings/transcript-2024-11-27-cardo-busqueda-empleo.md]]` (unresolved)
-- [[meetings/2024-11-27-jacob-abiodun-video-zachary-jobs]] → `[[raw/meetings/transcript-2024-11-27-jacob-call.md]]` (unresolved)
-- [[meetings/2024-12-03-daniela-castillo-partner-exploration]] → `[[raw/meetings/transcript-2024-12-03-daniela-y-andr-s.md]]` (unresolved)
-- [[meetings/2024-12-03-technical-advisory-azure]] → `[[raw/meetings/transcript-2024-12-03-technical-advisory-andres-urrego.md]]` (unresolved)
-- [[meetings/2024-12-05-jacob-call-social-automation]] → `[[raw/meetings/transcript-2024-12-05-jacob-call-december-5.md]]` (unresolved)
-- [[meetings/2024-batch-low-signal-calls]] → `[[raw/meetings/transcript-2024-11-27-jacob-call-november-27.md]]` (unresolved)
-- [[meetings/2024-batch-low-signal-calls]] → `[[raw/meetings/transcript-2024-12-02-update-meeting-december-2.md]]` (unresolved)
-- [[meetings/2024-batch-low-signal-calls]] → `[[raw/meetings/transcript-2024-12-02-marketing-call-december-2.md]]` (unresolved)
-- [[meetings/2024-batch-low-signal-calls]] → `[[raw/meetings/transcript-2024-12-12-marketing-call-december-12.md]]` (unresolved)
-- [[meetings/2024-batch-low-signal-calls]] → `[[raw/meetings/transcript-2024-12-19-team-call-december-19.md]]` (unresolved)
-- [[meetings/2024-batch-low-signal-calls]] → `[[raw/meetings/transcript-2024-11-20-echo-squad-previously-reciprocate-pod.md]]` (unresolved)
-- [[meetings/2024-batch-low-signal-calls]] → `[[raw/meetings/transcript-2024-10-02-marketing-meeting-october-2.md]]` (unresolved)
-- [[meetings/2024-batch-low-signal-calls]] → `[[raw/meetings/transcript-2024-10-07-moil-marketing-call-october-7.md]]` (unresolved)
-- [[meetings/2024-batch-low-signal-calls]] → `[[raw/meetings/transcript-2025-04-22-txor-moil-resume-building-presentation-virtual.md]]` (unresolved)
-- [[meetings/2025-01-08-ai-presentation]] → `[[raw/meetings/2025-01-08-tdo-dzdc-xzx-2025-01-08-19-47-gmt-6-transcript]]` (unresolved)
-- [[meetings/2025-01-08-nvidia-inception-onboarding]] → `[[raw/meetings/transcript-2025-01-08-nvidia-inception-program.md]]` (unresolved)
-- [[meetings/2025-01-22-team-meeting-ai-model-selection]] → `[[raw/meetings/2025-01-22-team-meeting-2025-01-22-09-29-cst-notes-by-gemini]]` (unresolved)
-- [[meetings/2025-01-27-deepseek-model-demo]] → `[[raw/meetings/2025-01-27-testing-2025-01-27-14-06-cst-notes-by-gemini]]` (unresolved)
-- [[meetings/2025-01-29-team-meeting-code-dataset]] → `[[raw/meetings/2025-01-29-team-meeting-2025-01-29-09-29-cst-notes-by-gemini]]` (unresolved)
-- [[meetings/2025-02-05-jacob-andres-sync]] → `[[raw/meetings/2025-02-05-jacob-andres-2025-02-05-06-02-cst-notes-by-gemini]]` (unresolved)
-- [[meetings/2025-02-28-dafne-job-interview-prep]] → `[[raw/meetings/transcript-2025-02-28-meeting-with-dafne.md]]` (unresolved)
-- [[meetings/2025-03-04-buda-ambassador-followup]] → `[[raw/meetings/transcript-2025-03-04-ambassador-follow-up.md]]` (unresolved)
-- [[meetings/2025-03-12-business-plan-creator-design]] → `[[raw/meetings/transcript-2025-03-12-business-plan-creator-session.md]]` (unresolved)
-- [[meetings/2025-03-12-team-meeting-signup-business-plan-mvp]] → `[[raw/meetings/2025-03-12-team-meeting-2025-03-12-05-09-cdt-notes-by-gemini]]` (unresolved)
-- [[meetings/2025-03-26-rick-bough-hays-cisd]] → `[[raw/meetings/transcript-2025-03-26-rick-and-andres-follow-up.md]]` (unresolved)
-- [[meetings/2025-03-28-jacob-andres-pivot-ai-tools]] → `[[raw/meetings/2025-03-28-jacob-andres-2025-03-28-08-08-cdt-notes-by-gemini]]` (unresolved)
-- [[meetings/2025-03-28-monica-davidson-buda-chamber-restaurant-hiring]] → `[[raw/meetings/transcript-2025-03-28-m-nica-and-andr-s.md]]` (unresolved)
-- [[meetings/2025-04-04-team-meeting-algorithm-business-planner]] → `[[raw/meetings/2025-04-04-team-meeting-2025-04-04-08-39-cdt-notes-by-gemini]]` (unresolved)
-- [[meetings/2025-04-07-moil-marketing-call-toolbox-vision]] → `[[raw/meetings/2025-04-07-moil-marketing-call-2025-04-07-11-25-cdt-notes-by-gemini]]` (unresolved)
-- [[meetings/2025-04-09-jacob-andres-business-plan-hubspot]] → `[[raw/meetings/2025-04-09-jacob-andres-2025-04-09-08-44-cdt-notes-by-gemini]]` (unresolved)
-- [[meetings/2025-04-11-david-levesque-savari-solar]] → `[[raw/meetings/transcript-2025-04-11-david-and-andres-ai-trees-apr-11.md]]` (unresolved)
-- [[meetings/2025-04-11-david-levesque-savari-solar]] → `[[raw/meetings/transcript-2025-04-10-david-and-andres-ai-trees-apr-10.md]]` (unresolved)
-- [[meetings/2025-04-11-team-meeting-prompt-engineering-job-postings]] → `[[raw/meetings/2025-04-11-team-meeting-2025-04-11-09-03-cdt-notes-by-gemini]]` (unresolved)
-- [[meetings/2025-04-14-team-meeting-business-plan-template]] → `[[raw/meetings/2025-04-14-team-meeting-2025-04-14-09-29-cdt-notes-by-gemini]]` (unresolved)
-- [[meetings/2025-04-18-team-meeting-openai-agent-email-marketing]] → `[[raw/meetings/2025-04-18-team-meeting-2025-04-18-08-32-cdt-notes-by-gemini]]` (unresolved)
-- [[meetings/2025-04-21-team-meeting-ai-mvp-design-marketing]] → `[[raw/meetings/2025-04-21-team-meeting-2025-04-21-09-39-cdt-notes-by-gemini]]` (unresolved)
-- [[meetings/2025-04-28-hubspot-kickoff-sebastian-full-transcript]] → `[[raw/meetings/transcript-2025-04-28-hubspot-marketing-kickoff-call.md]]` (unresolved)
-- [[meetings/2025-04-28-hubspot-marketing-kickoff-sebastian]] → `[[raw/meetings/2025-04-28-hubspot-marketing-kickoff-call-2025-04-28-11-58-cdt-notes-by-gemini]]` (unresolved)
-- [[meetings/2025-04-28-moil-marketing-call-ai-content]] → `[[raw/meetings/2025-04-28-moil-marketing-call-2025-04-28-08-09-cdt-notes-by-gemini]]` (unresolved)
-- [[meetings/2025-05-09-manos-de-cristo-workshops]] → `[[raw/meetings/2025-05-09-meeting-started-2025-05-09-11-35-cdt-notes-by-gemini]]` (unresolved)
-- [[meetings/2025-05-14-jacob-andres-business-insights-review]] → `[[raw/meetings/2025-05-14-jacob-andres-2025-05-14-08-28-cdt-notes-by-gemini]]` (unresolved)
-- [[meetings/2025-05-15-zachary-barker-wyatt-hook-enterprise]] → `[[raw/meetings/transcript-2025-05-15-zachary-barker-wyatt-hook.md]]` (unresolved)
-- [[meetings/2025-05-16-team-meeting-platform-review]] → `[[raw/meetings/2025-05-16-team-meeting-2025-05-16-09-28-cdt-notes-by-gemini]]` (unresolved)
-- [[meetings/2025-05-17-prompt-reviews-bpc-quality]] → `[[raw/meetings/transcript-2025-05-17-prompt-reviews.md]]` (unresolved)
-- [[meetings/2025-05-19-moil-marketing-call-technical-issues]] → `[[raw/meetings/2025-05-19-moil-marketing-call-2025-05-19-08-18-cdt-notes-by-gemini]]` (unresolved)
-- [[meetings/2025-05-20-azure-resources-support-call]] → `[[raw/meetings/transcript-2025-05-20-azure-resources-tracking.md]]` (unresolved)
-- [[meetings/2025-05-21-ai-advisory-azure-foundry]] → `[[raw/meetings/transcript-2025-05-21-moil-enterprise-ai-advisory-discovery-call.md]]` (unresolved)
-- [[meetings/2025-05-21-moil-enterprise-ai-advisory]] → `[[raw/odtr-20250521-20250521-Moil-Enterprise-AI-Advisory-Discovery-Tra.md]]` (unresolved)
-- [[meetings/2026-02-13-hive-life-after-cohort-session-2]] → `[[raw/hive-cohort-onboarding-session-feb13-2026]]` (unresolved)
-- [[meetings/2026-04-13-monday-collaboration]] → `[[raw/teams-transcript-monday-collaboration-2026-04-13]]` (unresolved)
-- [[meetings/2026-04-14-roxana-alloy-atx-onboarding]] → `[[raw/teams-transcript-roxana-andres-2026-04-14]]` (unresolved)
-- [[meetings/2026-04-15-teams-daily-ops]] → `[[raw/teams-2026-04-15]]` (unresolved)
-- [[meetings/2026-04-15-teams-daily-ops]] → `[[raw/email-digest-2026-04-14]]` (unresolved)
-- [[meetings/2026-04-15-teams-daily-ops]] → `[[raw/email-digest-2026-04-14]]` (unresolved)
-- [[meetings/2026-04-18-teams-daily-ops]] → `[[raw/teams-2026-04-18]]` (unresolved)
-- [[meetings/2026-04-20-teams-daily-ops]] → `[[raw/teams-2026-04-20]]` (unresolved)
-- [[meetings/2026-04-21-megan-fitlogic-working-session]] → `[[raw/teams-transcript-megan-miller-2026-04-21]]` (unresolved)
-- [[meetings/2026-04-21-teams-daily-ops]] → `[[raw/teams-2026-04-21]]` (unresolved)
-- [[meetings/2026-04-23-megan-crm-google-setup]] → `[[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]]` (unresolved)
-- [[meetings/2026-04-24-teams-daily-ops]] → `[[raw/teams-2026-04-24]]` (unresolved)
-- [[meetings/2026-04-24-teams-daily-ops]] → `[[MEMORY]]` (unresolved)
-- [[meetings/2026-04-24-teams-daily-ops]] → `[[MEMORY]]` (unresolved)
-- [[meetings/2026-04-24-teams-daily-ops]] → `[[MEMORY]]` (unresolved)
-- [[meetings/2026-04-24-teams-daily-ops]] → `[[MEMORY]]` (unresolved)
-- [[meetings/2026-04-28-mark-polanco-connectex-walkthrough]] → `[[raw/teams-transcript-mark-polanco-andres-2026-04-28]]` (unresolved)
-- [[meetings/2026-04-28-website-update-review-internal]] → `[[raw/teams-transcript-website-update-review-call-2026-04-28]]` (unresolved)
-- [[meetings/2026-04-29-megan-fitlogic-crm-delivery]] → `[[raw/teams-transcript-megan-moil-crm-test-and-delivery-2026-04-29]]` (unresolved)
-- [[meetings/2026-04-30-carolina-coaching]] → `[[raw/teams-transcript-carolina-2026-04-30]]` (unresolved)
-- [[meetings/2026-04-30-heather-skeen-coaching]] → `[[raw/teams-transcript-heather-skeen-2026-04-30]]` (unresolved)
-- [[meetings/historical-transcripts-index]] → `[[index]]` (unresolved)
-- [[meetings/teams-attendance-protocol-2026-04]] → `[[MEMORY]]` (unresolved)
-- [[moil/active-projects]] → `[[wiki/people/michelle-fitlogic\]]` (unresolved)
-- [[moil/active-projects]] → `[[wiki/projects/README]]` (unresolved)
-- [[moil/customers]] → `[[raw/email-history-6months-2026-04-14]]` (unresolved)
-- [[moil/customers]] → `[[raw/teams-2026-04-15]]` (unresolved)
-- [[moil/customers]] → `[[raw/email-digest-2026-04-14]]` (unresolved)
-- [[moil/customers]] → `[[wiki/people/marilyn-eden\]]` (unresolved)
-- [[moil/gtm]] → `[[raw/email-digest-2026-04-14]]` (unresolved)
-- [[moil/gtm]] → `[[raw/email-digest-2026-04-15]]` (unresolved)
-- [[moil/gtm]] → `[[raw/email-digest-2026-04-17]]` (unresolved)
-- [[moil/gtm]] → `[[raw/email-digest-2026-04-20]]` (unresolved)
-- [[moil/gtm]] → `[[raw/email-digest-2026-04-21]]` (unresolved)
-- [[moil/gtm]] → `[[raw/email-digest-2026-04-22]]` (unresolved)
-- [[moil/gtm]] → `[[raw/email-digest-2026-04-27]]` (unresolved)
-- [[moil/gtm]] → `[[raw/email-digest-2026-04-28]]` (unresolved)
-- [[moil/gtm]] → `[[raw/email-digest-2026-04-29]]` (unresolved)
-- [[moil/gtm]] → `[[raw/email-digest-2026-04-30]]` (unresolved)
-- [[moil/gtm]] → `[[raw/email-digest-2026-05-01]]` (unresolved)
-- [[moil/gtm]] → `[[raw/email-digest-2026-04-20]]` (unresolved)
-- [[moil/gtm]] → `[[raw/email-digest-2026-04-21]]` (unresolved)
-- [[moil/gtm]] → `[[raw/email-digest-2026-04-23]]` (unresolved)
-- [[moil/gtm]] → `[[raw/email-digest-2026-04-22]]` (unresolved)
-- [[moil/gtm]] → `[[raw/email-digest-2026-04-27]]` (unresolved)
-- [[moil/gtm]] → `[[raw/email-digest-2026-04-28]]` (unresolved)
-- [[moil/gtm]] → `[[raw/email-digest-2026-04-29]]` (unresolved)
-- [[moil/gtm]] → `[[raw/email-digest-2026-04-30]]` (unresolved)
-- [[moil/gtm]] → `[[raw/email-digest-2026-05-01]]` (unresolved)
+- [[moil/gtm]] → `[[raw/signal-briefs/signal-brief-2026-05-04]]` (unresolved)
 - [[moil/gtm]] → `[[raw/signal-briefs/signal-brief-2026-05-01]]` (unresolved)
-- [[moil/gtm]] → `[[raw/email-digest-2026-04-30]]` (unresolved)
-- [[moil/gtm]] → `[[raw/email-digest-2026-04-20]]` (unresolved)
-- [[moil/gtm]] → `[[raw/email-digest-2026-04-21]]` (unresolved)
-- [[moil/gtm]] → `[[raw/email-digest-2026-04-17]]` (unresolved)
-- [[moil/product-roadmap]] → `[[raw/teams-2026-04-15]]` (unresolved)
-- [[moil/product-roadmap]] → `[[raw/odtr-moilapp_SEO_Implementation_Plan_April2026]]` (unresolved)
-- [[orgs/alloy-atx]] → `[[raw/teams-transcript-roxana-andres-2026-04-14]]` (unresolved)
-- [[orgs/alloy-atx]] → `[[raw/email-digest-2026-04-21]]` (unresolved)
-- [[orgs/astra-restaurant]] → `[[raw/email-digest-2026-04-21]]` (unresolved)
-- [[orgs/buda-edc]] → `[[raw/hive-buda-hive-sosx-run-of-show]]` (unresolved)
-- [[orgs/buda-edc]] → `[[raw/hive-coaching-session-summary]]` (unresolved)
-- [[orgs/buda-edc]] → `[[raw/hive-series-based-hive-program]]` (unresolved)
-- [[orgs/buda-edc]] → `[[raw/email-digest-2026-04-21]]` (unresolved)
-- [[orgs/buda-edc]] → `[[raw/email-digest-2026-04-30]]` (unresolved)
-- [[orgs/buda-edc]] → `[[raw/email-digest-2026-05-01]]` (unresolved)
-- [[orgs/buda-edc]] → `[[raw/email-digest-2026-04-30]]` (unresolved)
-- [[orgs/buda-edc]] → `[[raw/email-digest-2026-05-01]]` (unresolved)
-- [[orgs/buda-edc]] → `[[raw/email-digest-2026-05-01]]` (unresolved)
-- [[orgs/coffeespace]] → `[[raw/outlook-emails-2026-04-09.md]]` (unresolved)
-- [[orgs/connectex]] → `[[raw/github-project-tracker.md]]` (unresolved)
-- [[orgs/connectex]] → `[[raw/teams-transcript-mark-polanco-andres-2026-04-28]]` (unresolved)
-- [[orgs/connectex]] → `[[raw/teams-transcript-website-update-review-call-2026-04-28]]` (unresolved)
-- [[orgs/echo-squad]] → `[[raw/odtr-20241120-20241120-Echo-Squad-Previously-Reciprocate-Pod-Tra.md]]` (unresolved)
-- [[orgs/echo-squad]] → `[[raw/odtr-20241125-20241125-Meet-with-Andres-Urrego-and-Monica-Pena-T.md]]` (unresolved)
-- [[orgs/fitlogic]] → `[[raw/github-project-tracker.md]]` (unresolved)
-- [[orgs/fitlogic]] → `[[raw/teams-2026-04-21]]` (unresolved)
-- [[orgs/fitlogic]] → `[[raw/teams-transcript-megan-miller-2026-04-21]]` (unresolved)
-- [[orgs/fitlogic]] → `[[raw/email-digest-2026-04-20]]` (unresolved)
-- [[orgs/fitlogic]] → `[[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]]` (unresolved)
-- [[orgs/fitlogic]] → `[[raw/teams-transcript-megan-moil-crm-test-and-delivery-2026-04-29]]` (unresolved)
-- [[orgs/fitlogic]] → `[[raw/email-digest-2026-04-20]]` (unresolved)
-- [[orgs/helotes-edc]] → `[[raw/email-digest-2026-04-22]]` (unresolved)
-- [[orgs/ladyboss]] → `[[raw/hive-inna]]` (unresolved)
-- [[orgs/ladyboss]] → `[[raw/hive-inna-s-website-feedback]]` (unresolved)
-- [[orgs/ladyboss]] → `[[raw/hive-empowered-nutrition-project-breakdown]]` (unresolved)
-- [[orgs/meridian-buda]] → `[[raw/github-project-tracker.md]]` (unresolved)
-- [[orgs/meridian-buda]] → `[[raw/teams-transcript-monday-collaboration-2026-04-13]]` (unresolved)
-- [[orgs/nuovo-entertainment]] → `[[raw/email-digest-2026-05-01]]` (unresolved)
-- [[orgs/providence-behavior-therapy]] → `[[raw/teams-transcript-heather-skeen-2026-04-30]]` (unresolved)
-- [[orgs/siren-beauty]] → `[[raw/email-history-6months-2026-04-14]]` (unresolved)
-- [[orgs/siren-beauty]] → `[[raw/hive-siren-beauty-wellness-strategy-plan]]` (unresolved)
-- [[orgs/siren-beauty]] → `[[raw/teams-transcript-website-update-review-call-2026-04-28]]` (unresolved)
-- [[orgs/urbanozuela]] → `[[raw/github-project-tracker.md]]` (unresolved)
-- [[people/abel-esquivel-luna]] → `[[raw/meetings/transcript-2024-11-22-abel-and-andr-s-follow-up-november.md]]` (unresolved)
-- [[people/abiodun-solomon]] → `[[raw/teams-transcript-monday-collaboration-2026-04-13]]` (unresolved)
-- [[people/abiodun-solomon]] → `[[raw/teams-2026-04-15]]` (unresolved)
-- [[people/abiodun-solomon]] → `[[raw/teams-2026-04-18]]` (unresolved)
-- [[people/abiodun-solomon]] → `[[raw/teams-2026-04-20]]` (unresolved)
-- [[people/abiodun-solomon]] → `[[raw/teams-2026-04-24]]` (unresolved)
-- [[people/abiodun-solomon]] → `[[raw/teams-2026-04-26]]` (unresolved)
-- [[people/abiodun-solomon]] → `[[raw/teams-2026-04-15]]` (unresolved)
-- [[people/abiodun-solomon]] → `[[raw/teams-2026-04-18]]` (unresolved)
-- [[people/abiodun-solomon]] → `[[raw/teams-2026-04-20]]` (unresolved)
-- [[people/abiodun-solomon]] → `[[raw/teams-2026-04-24]]` (unresolved)
-- [[people/abiodun-solomon]] → `[[raw/teams-2026-04-26]]` (unresolved)
-- [[people/adam-maxon]] → `[[raw/email-digest-2026-04-14]]` (unresolved)
-- [[people/adeleke-tolulope]] → `[[raw/teams-transcript-monday-collaboration-2026-04-13]]` (unresolved)
-- [[people/adeleke-tolulope]] → `[[raw/teams-2026-04-15]]` (unresolved)
-- [[people/adeleke-tolulope]] → `[[raw/teams-2026-04-18]]` (unresolved)
-- [[people/adeleke-tolulope]] → `[[raw/teams-2026-04-20]]` (unresolved)
-- [[people/adeleke-tolulope]] → `[[raw/teams-2026-04-21]]` (unresolved)
-- [[people/adeleke-tolulope]] → `[[raw/teams-2026-04-24]]` (unresolved)
-- [[people/adeleke-tolulope]] → `[[raw/teams-2026-04-26]]` (unresolved)
-- [[people/adeleke-tolulope]] → `[[raw/teams-2026-04-15]]` (unresolved)
-- [[people/adeleke-tolulope]] → `[[raw/teams-2026-04-18]]` (unresolved)
-- [[people/adeleke-tolulope]] → `[[raw/teams-2026-04-20]]` (unresolved)
-- [[people/adeleke-tolulope]] → `[[raw/teams-2026-04-21]]` (unresolved)
-- [[people/adeleke-tolulope]] → `[[raw/teams-2026-04-24]]` (unresolved)
-- [[people/adeleke-tolulope]] → `[[raw/teams-2026-04-26]]` (unresolved)
-- [[people/anita-lansing]] → `[[raw/email-history-2026-04-12.md]]` (unresolved)
-- [[people/anita-lansing]] → `[[raw/email-digest-2026-04-30]]` (unresolved)
-- [[people/anita-lansing]] → `[[raw/email-digest-2026-04-30]]` (unresolved)
-- [[people/becky-torres]] → `[[raw/email-history-6months-2026-04-14]]` (unresolved)
-- [[people/becky-torres]] → `[[raw/hive-siren-beauty-wellness-strategy-plan]]` (unresolved)
-- [[people/becky-torres]] → `[[raw/email-digest-2026-04-23]]` (unresolved)
-- [[people/becky-torres]] → `[[raw/email-digest-2026-04-24]]` (unresolved)
-- [[people/becky-torres]] → `[[raw/email-digest-2026-04-23]]` (unresolved)
-- [[people/becky-torres]] → `[[raw/email-digest-2026-04-24]]` (unresolved)
-- [[people/carolina-caro]] → `[[raw/teams-transcript-carolina-2026-04-30]]` (unresolved)
-- [[people/carolina-caro]] → `[[raw/email-digest-2026-04-30]]` (unresolved)
-- [[people/carolina-caro]] → `[[raw/email-digest-2026-04-30]]` (unresolved)
-- [[people/casey-earley]] → `[[raw/email-digest-2026-04-17]]` (unresolved)
-- [[people/casey-earley]] → `[[raw/email-digest-2026-04-28]]` (unresolved)
-- [[people/casey-earley]] → `[[raw/email-digest-2026-04-29]]` (unresolved)
-- [[people/casey-earley]] → `[[raw/teams-transcript-heather-skeen-2026-04-30]]` (unresolved)
-- [[people/casey-earley]] → `[[raw/email-digest-2026-04-28]]` (unresolved)
-- [[people/casey-earley]] → `[[raw/email-digest-2026-04-29]]` (unresolved)
-- [[people/casey-earley]] → `[[raw/teams-transcript-heather-skeen-2026-04-30]]` (unresolved)
-- [[people/dafne-gutierrez]] → `[[raw/meetings/transcript-2025-02-28-meeting-with-dafne.md]]` (unresolved)
-- [[people/dafne-gutierrez]] → `[[raw/meetings/transcript-2024-10-02-marketing-meeting-october-2.md]]` (unresolved)
-- [[people/daniel-guadiano]] → `[[raw/email-digest-2026-04-21]]` (unresolved)
-- [[people/daniel-mann]] → `[[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]]` (unresolved)
-- [[people/daniela-castillo-canavera]] → `[[raw/meetings/transcript-2024-12-03-daniela-y-andr-s.md]]` (unresolved)
-- [[people/david-levesque]] → `[[raw/meetings/transcript-2025-04-11-david-and-andres-ai-trees-apr-11.md]]` (unresolved)
-- [[people/david-levesque]] → `[[raw/meetings/transcript-2025-04-10-david-and-andres-ai-trees-apr-10.md]]` (unresolved)
-- [[people/elisa-alaniz]] → `[[raw/email-digest-2026-04-20]]` (unresolved)
-- [[people/elisa-alaniz]] → `[[raw/email-digest-2026-04-21]]` (unresolved)
-- [[people/enrique-castro]] → `[[raw/meetings/transcript-2024-10-31-andres-urrego-and-monica-munoz-andry.md]]` (unresolved)
-- [[people/evangeline-sandoval]] → `[[raw/meetings/transcript-2024-11-13-txor-moil-call.md]]` (unresolved)
-- [[people/hazim-mohamad]] → `[[raw/outlook-emails-2026-04-09.md]]` (unresolved)
-- [[people/heather-skeen]] → `[[raw/teams-transcript-heather-skeen-2026-04-30]]` (unresolved)
-- [[people/heather-skeen]] → `[[raw/email-digest-2026-04-30]]` (unresolved)
-- [[people/heather-skeen]] → `[[raw/email-digest-2026-04-30]]` (unresolved)
-- [[people/hive-cohort-members]] → `[[raw/hive-cohort-onboarding-session-feb13-2026]]` (unresolved)
-- [[people/hive-cohort-members]] → `[[raw/teams-transcript-carolina-2026-04-30]]` (unresolved)
-- [[people/hive-cohort-members]] → `[[raw/teams-transcript-heather-skeen-2026-04-30]]` (unresolved)
-- [[people/inna-benyukhis]] → `[[raw/teams-transcript-monday-collaboration-2026-04-13]]` (unresolved)
-- [[people/inna-benyukhis]] → `[[raw/hive-inna]]` (unresolved)
-- [[people/inna-benyukhis]] → `[[raw/hive-inna-s-website-feedback]]` (unresolved)
-- [[people/inna-benyukhis]] → `[[raw/hive-empowered-nutrition-project-breakdown]]` (unresolved)
-- [[people/inna-benyukhis]] → `[[raw/hive-coaching-session-summary]]` (unresolved)
-- [[people/inna-benyukhis]] → `[[raw/email-history-6months-2026-04-14]]` (unresolved)
-- [[people/inna-benyukhis]] → `[[raw/teams-2026-04-20]]` (unresolved)
-- [[people/inna-benyukhis]] → `[[raw/email-digest-2026-04-24]]` (unresolved)
-- [[people/inna-benyukhis]] → `[[raw/email-digest-2026-04-27]]` (unresolved)
-- [[people/inna-benyukhis]] → `[[raw/teams-transcript-website-update-review-call-2026-04-28]]` (unresolved)
-- [[people/inna-benyukhis]] → `[[raw/teams-2026-04-20]]` (unresolved)
-- [[people/inna-benyukhis]] → `[[raw/email-digest-2026-04-24]]` (unresolved)
-- [[people/inna-benyukhis]] → `[[raw/teams-2026-04-20]]` (unresolved)
-- [[people/inna-benyukhis]] → `[[raw/email-digest-2026-05-01]]` (unresolved)
+- [[moil/gtm]] → `[[raw/signal-briefs/signal-brief-2026-05-04]]` (unresolved)
+- [[orgs/alloy-atx]] → `[[raw/signal-briefs/signal-brief-2026-05-04]]` (unresolved)
 - [[people/inna-benyukhis]] → `[[raw/signal-briefs/signal-brief-2026-05-01]]` (unresolved)
-- [[people/inna-benyukhis]] → `[[raw/email-digest-2026-04-27]]` (unresolved)
-- [[people/inna-benyukhis]] → `[[raw/teams-transcript-website-update-review-call-2026-04-28]]` (unresolved)
-- [[people/irma-mason]] → `[[raw/email-digest-2026-04-20]]` (unresolved)
-- [[people/irma-mason]] → `[[raw/email-digest-2026-04-21]]` (unresolved)
-- [[people/jacob-centeno]] → `[[raw/email-digest-2026-04-15]]` (unresolved)
-- [[people/jacob-oluwole]] → `[[raw/teams-transcript-monday-collaboration-2026-04-13]]` (unresolved)
-- [[people/jacob-oluwole]] → `[[raw/teams-2026-04-15]]` (unresolved)
-- [[people/jacob-oluwole]] → `[[raw/teams-2026-04-18]]` (unresolved)
-- [[people/jacob-oluwole]] → `[[raw/teams-2026-04-20]]` (unresolved)
-- [[people/jacob-oluwole]] → `[[raw/teams-2026-04-21]]` (unresolved)
-- [[people/jacob-oluwole]] → `[[raw/teams-2026-04-24]]` (unresolved)
-- [[people/jacob-oluwole]] → `[[raw/email-digest-2026-04-27]]` (unresolved)
-- [[people/jacob-oluwole]] → `[[raw/teams-transcript-website-update-review-call-2026-04-28]]` (unresolved)
-- [[people/jacob-oluwole]] → `[[raw/teams-2026-04-15]]` (unresolved)
-- [[people/jacob-oluwole]] → `[[raw/teams-2026-04-18]]` (unresolved)
-- [[people/jacob-oluwole]] → `[[raw/teams-2026-04-20]]` (unresolved)
-- [[people/jacob-oluwole]] → `[[raw/teams-2026-04-21]]` (unresolved)
-- [[people/jacob-oluwole]] → `[[raw/teams-2026-04-24]]` (unresolved)
-- [[people/jacob-oluwole]] → `[[MEMORY]]` (unresolved)
-- [[people/jacob-oluwole]] → `[[raw/email-digest-2026-04-27]]` (unresolved)
-- [[people/jacob-oluwole]] → `[[raw/teams-transcript-website-update-review-call-2026-04-28]]` (unresolved)
-- [[people/jacob-oluwole]] → `[[raw/email-digest-2026-05-01]]` (unresolved)
-- [[people/jacquie-martinez]] → `[[raw/email-digest-2026-05-01]]` (unresolved)
-- [[people/jennifer-storm]] → `[[raw/email-digest-2026-05-01]]` (unresolved)
-- [[people/jessica-voyage-austin]] → `[[raw/email-digest-2026-04-24]]` (unresolved)
-- [[people/jesutomilola-omoniyi]] → `[[raw/email-digest-2026-04-15]]` (unresolved)
-- [[people/jesutomilola-omoniyi]] → `[[raw/email-digest-2026-04-16]]` (unresolved)
-- [[people/jill-pureserenity]] → `[[raw/email-digest-2026-04-21]]` (unresolved)
-- [[people/jill-pureserenity]] → `[[raw/email-digest-2026-04-21]]` (unresolved)
-- [[people/jill-pureserenity]] → `[[MEMORY]]` (unresolved)
-- [[people/john-costilla]] → `[[raw/email-history-2months-2026-04-12.md]]` (unresolved)
-- [[people/john-costilla]] → `[[raw/email-digest-2026-04-15]]` (unresolved)
-- [[people/john-costilla]] → `[[raw/email-digest-2026-04-16]]` (unresolved)
-- [[people/john-costilla]] → `[[raw/email-digest-2026-04-27]]` (unresolved)
-- [[people/john-costilla]] → `[[raw/email-digest-2026-04-28]]` (unresolved)
-- [[people/john-costilla]] → `[[raw/email-digest-2026-04-29]]` (unresolved)
-- [[people/john-costilla]] → `[[raw/email-digest-2026-05-01]]` (unresolved)
-- [[people/john-costilla]] → `[[raw/email-digest-2026-04-27]]` (unresolved)
-- [[people/john-costilla]] → `[[raw/email-digest-2026-04-28]]` (unresolved)
-- [[people/john-costilla]] → `[[raw/email-digest-2026-04-29]]` (unresolved)
-- [[people/john-costilla]] → `[[raw/email-digest-2026-05-01]]` (unresolved)
-- [[people/joseph-arnke]] → `[[raw/email-digest-2026-04-15]]` (unresolved)
-- [[people/joshua-edmond]] → `[[raw/email-digest-2026-04-17]]` (unresolved)
-- [[people/joshua-edmond]] → `[[raw/email-digest-2026-04-24]]` (unresolved)
-- [[people/joshua-edmond]] → `[[raw/email-digest-2026-04-29]]` (unresolved)
-- [[people/joshua-edmond]] → `[[raw/email-digest-2026-04-30]]` (unresolved)
-- [[people/joshua-edmond]] → `[[raw/email-digest-2026-04-24]]` (unresolved)
-- [[people/joshua-edmond]] → `[[raw/email-digest-2026-04-29]]` (unresolved)
-- [[people/joshua-edmond]] → `[[raw/email-digest-2026-04-30]]` (unresolved)
-- [[people/joshua-edmond]] → `[[raw/email-digest-2026-04-30]]` (unresolved)
-- [[people/julian-sanchez]] → `[[raw/meetings/transcript-2024-10-24-zoom-julian-video-planning.md]]` (unresolved)
-- [[people/julian-sanchez]] → `[[raw/meetings/transcript-2024-10-22-julian-sanchez-andres.md]]` (unresolved)
-- [[people/katherine-silvas]] → `[[raw/email-digest-2026-04-22]]` (unresolved)
+- [[people/inna-benyukhis]] → `[[raw/signal-briefs/signal-brief-2026-05-03]]` (unresolved)
+- [[people/inna-benyukhis]] → `[[raw/signal-briefs/signal-brief-2026-05-04]]` (unresolved)
 - [[people/katherine-silvas]] → `[[raw/signal-briefs/signal-brief-2026-04-16]]` (unresolved)
-- [[people/kemi-riley-telfort]] → `[[raw/email-digest-2026-04-23]]` (unresolved)
-- [[people/kim-dowers]] → `[[raw/email-digest-2026-04-27]]` (unresolved)
-- [[people/kim-dowers]] → `[[raw/email-digest-2026-04-28]]` (unresolved)
-- [[people/kim-dowers]] → `[[raw/email-digest-2026-04-29]]` (unresolved)
-- [[people/kim-dowers]] → `[[raw/email-digest-2026-04-30]]` (unresolved)
-- [[people/liz-hive-cohort]] → `[[raw/hive-cohort-onboarding-session-feb13-2026]]` (unresolved)
-- [[people/marilyn-eden]] → `[[raw/email-digest-2026-04-23]]` (unresolved)
-- [[people/marilyn-martinez]] → `[[raw/email-digest-2026-05-01]]` (unresolved)
-- [[people/mark-polanco]] → `[[raw/email-digest-2026-04-27]]` (unresolved)
-- [[people/mark-polanco]] → `[[raw/teams-transcript-mark-polanco-andres-2026-04-28]]` (unresolved)
-- [[people/mark-polanco]] → `[[raw/email-digest-2026-04-29]]` (unresolved)
-- [[people/mark-polanco]] → `[[raw/teams-transcript-mark-polanco-andres-2026-04-28]]` (unresolved)
-- [[people/mayra-adams]] → `[[raw/email-digest-2026-04-16]]` (unresolved)
-- [[people/megan-miller]] → `[[raw/email-history-6months-2026-04-14]]` (unresolved)
-- [[people/megan-miller]] → `[[raw/teams-transcript-megan-miller-2026-04-21]]` (unresolved)
-- [[people/megan-miller]] → `[[raw/teams-2026-04-21]]` (unresolved)
-- [[people/megan-miller]] → `[[raw/email-digest-2026-04-20]]` (unresolved)
-- [[people/megan-miller]] → `[[raw/email-digest-2026-04-21]]` (unresolved)
-- [[people/megan-miller]] → `[[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]]` (unresolved)
-- [[people/megan-miller]] → `[[raw/email-digest-2026-04-22]]` (unresolved)
-- [[people/megan-miller]] → `[[raw/teams-transcript-megan-moil-crm-test-and-delivery-2026-04-29]]` (unresolved)
-- [[people/megan-miller]] → `[[raw/email-digest-2026-04-20]]` (unresolved)
-- [[people/michelle-fitlogic]] → `[[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]]` (unresolved)
-- [[people/michelle-fitlogic]] → `[[raw/teams-transcript-megan-moil-crm-test-and-delivery-2026-04-29]]` (unresolved)
-- [[people/miguel]] → `[[raw/hive-cohort-onboarding-session-feb13-2026]]` (unresolved)
-- [[people/monica-davidson]] → `[[raw/meetings/transcript-2025-03-28-m-nica-and-andr-s.md]]` (unresolved)
-- [[people/monica-davidson]] → `[[raw/meetings/transcript-2025-03-04-ambassador-follow-up.md]]` (unresolved)
-- [[people/monica-pena]] → `[[raw/meetings/transcript-2024-11-25-andres-urrego-monica-pena.md]]` (unresolved)
-- [[people/paula-florez-estrada]] → `[[raw/meetings/transcript-2025-05-21-moil-enterprise-ai-advisory-discovery-call.md]]` (unresolved)
-- [[people/rashaka-boykins]] → `[[raw/email-digest-2026-04-21]]` (unresolved)
-- [[people/rashaka-boykins]] → `[[raw/email-digest-2026-04-22]]` (unresolved)
-- [[people/rashaka-boykins]] → `[[raw/email-digest-2026-04-24]]` (unresolved)
-- [[people/rashaka-boykins]] → `[[raw/email-digest-2026-04-21]]` (unresolved)
-- [[people/rashaka-boykins]] → `[[raw/email-digest-2026-04-22]]` (unresolved)
-- [[people/rashaka-boykins]] → `[[raw/email-digest-2026-04-24]]` (unresolved)
-- [[people/renee-simmons]] → `[[raw/email-digest-2026-04-14]]` (unresolved)
-- [[people/renee-simmons]] → `[[raw/email-digest-2026-04-28]]` (unresolved)
-- [[people/renee-simmons]] → `[[raw/email-digest-2026-04-28]]` (unresolved)
-- [[people/renee-simmons]] → `[[raw/email-digest-2026-04-29]]` (unresolved)
-- [[people/renee-simmons]] → `[[raw/email-digest-2026-04-30]]` (unresolved)
-- [[people/rick-bough]] → `[[raw/meetings/transcript-2025-03-26-rick-and-andres-follow-up.md]]` (unresolved)
-- [[people/rodney-warner]] → `[[raw/meetings/transcript-2025-05-20-azure-resources-tracking.md]]` (unresolved)
-- [[people/rosemary-gamez]] → `[[raw/email-digest-2026-04-15]]` (unresolved)
-- [[people/roxana-yglesias]] → `[[raw/teams-transcript-roxana-andres-2026-04-14]]` (unresolved)
-- [[people/roxana-yglesias]] → `[[raw/email-digest-2026-04-21]]` (unresolved)
-- [[people/roxana-yglesias]] → `[[raw/email-digest-2026-04-23]]` (unresolved)
-- [[people/sarah-miller]] → `[[raw/email-digest-2026-05-01]]` (unresolved)
-- [[people/sebastian-oviedo]] → `[[raw/meetings/2025-04-28-hubspot-marketing-kickoff-call-2025-04-28-11-58-cdt-notes-by-gemini]]` (unresolved)
-- [[people/shannon-cameron]] → `[[raw/email-digest-2026-04-21]]` (unresolved)
-- [[people/shannon-cameron]] → `[[raw/email-digest-2026-04-21]]` (unresolved)
-- [[people/shay-foley]] → `[[raw/outlook-emails-2026-04-09.md]]` (unresolved)
-- [[people/taiwo-ola-balogun]] → `[[raw/teams-transcript-monday-collaboration-2026-04-13]]` (unresolved)
-- [[people/taiwo-ola-balogun]] → `[[raw/teams-2026-04-15]]` (unresolved)
-- [[people/taiwo-ola-balogun]] → `[[raw/teams-2026-04-18]]` (unresolved)
-- [[people/taiwo-ola-balogun]] → `[[raw/teams-2026-04-20]]` (unresolved)
-- [[people/taiwo-ola-balogun]] → `[[raw/teams-2026-04-21]]` (unresolved)
-- [[people/taiwo-ola-balogun]] → `[[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]]` (unresolved)
-- [[people/taiwo-ola-balogun]] → `[[raw/teams-2026-04-24]]` (unresolved)
-- [[people/taiwo-ola-balogun]] → `[[raw/teams-2026-04-26]]` (unresolved)
-- [[people/taiwo-ola-balogun]] → `[[raw/teams-transcript-website-update-review-call-2026-04-28]]` (unresolved)
-- [[people/taiwo-ola-balogun]] → `[[raw/teams-transcript-mark-polanco-andres-2026-04-28]]` (unresolved)
-- [[people/taiwo-ola-balogun]] → `[[raw/teams-2026-04-15]]` (unresolved)
-- [[people/taiwo-ola-balogun]] → `[[raw/teams-2026-04-18]]` (unresolved)
-- [[people/taiwo-ola-balogun]] → `[[raw/teams-2026-04-20]]` (unresolved)
-- [[people/taiwo-ola-balogun]] → `[[raw/teams-2026-04-21]]` (unresolved)
-- [[people/taiwo-ola-balogun]] → `[[raw/teams-2026-04-24]]` (unresolved)
-- [[people/taiwo-ola-balogun]] → `[[raw/teams-2026-04-26]]` (unresolved)
-- [[people/taiwo-ola-balogun]] → `[[raw/teams-transcript-website-update-review-call-2026-04-28]]` (unresolved)
-- [[people/taiwo-ola-balogun]] → `[[raw/teams-transcript-mark-polanco-andres-2026-04-28]]` (unresolved)
-- [[people/travis-sutherland]] → `[[raw/teams-transcript-monday-collaboration-2026-04-13]]` (unresolved)
-- [[people/victor-escamilla]] → `[[raw/email-digest-2026-04-24]]` (unresolved)
-- [[people/victor-escamilla]] → `[[raw/email-digest-2026-04-27]]` (unresolved)
-- [[people/victor-escamilla]] → `[[MEMORY]]` (unresolved)
-- [[people/wyatt-hook]] → `[[raw/meetings/transcript-2025-05-15-zachary-barker-wyatt-hook.md]]` (unresolved)
-- [[people/zachary-barker]] → `[[raw/odtr-20250515-20250515-Zachary-Barker-and-Wyatt-Hook-Transcript.md]]` (unresolved)
-- [[people/zane-gibson]] → `[[raw/meetings/transcript-2025-04-22-txor-moil-resume-building-presentation-virtual.md]]` (unresolved)
-- [[projects/buda-edc-hive]] → `[[raw/email-digest-2026-04-27]]` (unresolved)
-- [[projects/buda-edc-hive]] → `[[raw/email-digest-2026-04-28]]` (unresolved)
-- [[projects/buda-edc-hive]] → `[[raw/email-digest-2026-04-29]]` (unresolved)
-- [[projects/buda-edc-hive]] → `[[raw/email-digest-2026-04-30]]` (unresolved)
-- [[projects/buda-edc-hive]] → `[[raw/email-digest-2026-05-01]]` (unresolved)
-- [[projects/campaign-control]] → `[[wiki/projects/README]]` (unresolved)
-- [[projects/campaign-control]] → `[[wiki/projects/README]]` (unresolved)
-- [[projects/clio]] → `[[raw/teams-transcript-website-update-review-call-2026-04-28]]` (unresolved)
-- [[projects/clio]] → `[[raw/weekly-sessions-2026-05-03]]` (unresolved)
-- [[projects/clio]] → `[[raw/sessions/claude-code-2026-05-01-audit-findings-implementation-plan]]` (unresolved)
-- [[projects/clio]] → `[[raw/sessions/claude-code-2026-04-25-urgent-multi-issue-fix-for-clio-andres-says-voice-]]` (unresolved)
-- [[projects/connectex]] → `[[raw/email-digest-2026-04-27]]` (unresolved)
-- [[projects/connectex]] → `[[raw/email-digest-2026-04-28]]` (unresolved)
-- [[projects/connectex]] → `[[raw/email-digest-2026-04-29]]` (unresolved)
-- [[projects/connectex]] → `[[raw/email-digest-2026-04-30]]` (unresolved)
-- [[projects/connectex]] → `[[raw/teams-transcript-mark-polanco-andres-2026-04-28]]` (unresolved)
-- [[projects/fantelo]] → `[[wiki/projects/README]]` (unresolved)
-- [[projects/fantelo]] → `[[wiki/projects/README]]` (unresolved)
-- [[projects/fitlogic]] → `[[raw/teams-transcript-megan-moil-crm-test-and-delivery-2026-04-29]]` (unresolved)
-- [[projects/fitlogic]] → `[[raw/teams-transcript-website-update-review-call-2026-04-28]]` (unresolved)
-- [[projects/kyle-buda-spotlight]] → `[[wiki/projects/README]]` (unresolved)
-- [[projects/kyle-buda-spotlight]] → `[[wiki/projects/README]]` (unresolved)
-- [[projects/lunabella]] → `[[raw/KidsGPT/README]]` (unresolved)
-- [[projects/lunabella]] → `[[raw/KidsGPT/implementation-plan]]` (unresolved)
-- [[projects/lunabella]] → `[[raw/KidsGPT/options-analysis]]` (unresolved)
-- [[projects/lunabella]] → `[[wiki/projects/README]]` (unresolved)
-- [[projects/lunabella]] → `[[wiki/projects/README]]` (unresolved)
-- [[projects/magical-reading-adventures]] → `[[wiki/projects/README]]` (unresolved)
-- [[projects/magical-reading-adventures]] → `[[wiki/projects/README]]` (unresolved)
-- [[projects/meridian-buda]] → `[[raw/teams-transcript-carolina-2026-04-30]]` (unresolved)
-- [[projects/meridian-buda]] → `[[raw/teams-transcript-monday-collaboration-2026-04-13]]` (unresolved)
-- [[projects/moil]] → `[[raw/email-digest-2026-04-27]]` (unresolved)
-- [[projects/moil]] → `[[raw/email-digest-2026-04-28]]` (unresolved)
-- [[projects/moil]] → `[[raw/email-digest-2026-04-29]]` (unresolved)
-- [[projects/referred-local]] → `[[wiki/projects/README]]` (unresolved)
-- [[projects/referred-local]] → `[[wiki/projects/README]]` (unresolved)
-- [[projects/vox-trends]] → `[[wiki/projects/README]]` (unresolved)
-- [[projects/vox-trends]] → `[[wiki/projects/README]]` (unresolved)
-- [[summaries/brain-audit-2026-05-03]] → `[[raw/audits/2026-05-03-ingestion-and-synthesis-audit]]` (unresolved)
-- [[summaries/brain-audit-2026-05-03]] → `[[raw/audits/2026-05-03-implementation-plan]]` (unresolved)
-- [[summaries/brain-audit-2026-05-03]] → `[[raw/brain-knowledge-layer-analysis]]` (unresolved)
-- [[summaries/brain-audit-2026-05-03]] → `[[MEMORY]]` (unresolved)
-- [[summaries/brain-guide]] → `[[raw/brain-guide.md]]` (unresolved)
-- [[summaries/buda-hive-edc-2026-04-09]] → `[[raw/buda-hive-edc-2026-04-09.md]]` (unresolved)
-- [[summaries/buda-hive-edc-2026-04-11]] → `[[raw/buda-hive-edc-2026-04-11.md]]` (unresolved)
-- [[summaries/email-history-2026-04-12]] → `[[raw/email-history-2026-04-12.md]]` (unresolved)
-- [[summaries/email-history-2months-2026-04-12]] → `[[raw/email-history-2months-2026-04-12.md]]` (unresolved)
-- [[summaries/email-history-9months-2026-04-15]] → `[[raw/email-history-9months-2026-04-15.md]]` (unresolved)
+- [[people/oscar-esquivel]] → `[[raw/signal-briefs/signal-brief-2026-05-04]]` (unresolved)
 - [[summaries/email-history-9months-2026-04-15]] → `[[wiki/people/]]` (unresolved)
-- [[summaries/facebook-pages-2026-04-09]] → `[[raw/facebook-pages-2026-04-09.md]]` (unresolved)
-- [[summaries/github-project-tracker]] → `[[raw/github-project-tracker.md]]` (unresolved)
-- [[summaries/imessages-people-2026-04-09]] → `[[raw/imessages-people-2026-04-09.md]]` (unresolved)
 - [[summaries/imessages-people-2026-04-09]] → `[[wiki/people/]]` (unresolved)
-- [[summaries/kidsgpt-planning-2026-04]] → `[[raw/KidsGPT/README]]` (unresolved)
-- [[summaries/kidsgpt-planning-2026-04]] → `[[raw/KidsGPT/options-analysis]]` (unresolved)
-- [[summaries/kidsgpt-planning-2026-04]] → `[[raw/KidsGPT/implementation-plan]]` (unresolved)
-- [[summaries/know-me-extraction-prompts]] → `[[raw/know-me-extraction-prompts.md]]` (unresolved)
-- [[summaries/moil-documents-2026-04-09]] → `[[raw/moil-documents-2026-04-09.md]]` (unresolved)
 - [[summaries/moil-documents-2026-04-09]] → `[[wiki/moil/]]` (unresolved)
-- [[summaries/moilapp-website-2026-04-09]] → `[[raw/moilapp-website-2026-04-09.md]]` (unresolved)
-- [[summaries/outlook-emails-2026-04-09]] → `[[raw/outlook-emails-2026-04-09.md]]` (unresolved)
 - [[summaries/signal-briefs-2026-04-15-26]] → `[[raw/signal-briefs/signal-brief-2026-04-15]]` (unresolved)
 - [[summaries/signal-briefs-2026-04-15-26]] → `[[raw/signal-briefs/signal-brief-2026-04-16]]` (unresolved)
 - [[summaries/signal-briefs-2026-04-15-26]] → `[[raw/signal-briefs/signal-brief-2026-04-17]]` (unresolved)
@@ -506,14 +62,7 @@ Report only — nothing auto-fixed. Review and fix manually. For
 - [[summaries/signal-briefs-2026-04-15-26]] → `[[raw/signal-briefs/signal-brief-2026-04-28]]` (unresolved)
 - [[summaries/signal-briefs-2026-04-15-26]] → `[[raw/signal-briefs/signal-brief-2026-04-29]]` (unresolved)
 - [[summaries/signal-briefs-2026-04-15-26]] → `[[raw/signal-briefs/signal-brief-2026-04-30]]` (unresolved)
-- [[summaries/signal-briefs-2026-04-15-26]] → `[[wiki/meta/vault-health]]` (unresolved)
-- [[summaries/teams-2026-04-12]] → `[[raw/teams-2026-04-12]]` (unresolved)
-- [[summaries/x-bookmarks-2026-04-11]] → `[[raw/x-bookmarks-2026-04-11.md]]` (unresolved)
 - [[summaries/x-bookmarks-2026-04-11]] → `[[wiki/concepts/]]` (unresolved)
-- [[summaries/x-bookmarks-2026-04-24]] → `[[raw/x-bookmarks-2026-04-24]]` (unresolved)
-- [[summaries/x-bookmarks-2026-04-24]] → `[[MEMORY]]` (unresolved)
-- [[summaries/x-bookmarks-2026-04-26]] → `[[raw/x-bookmarks-2026-04-26]]` (unresolved)
-- [[summaries/x-bookmarks-2026-04-26]] → `[[MEMORY]]` (unresolved)
 
 ## 3. Stale Pages (0)
 
@@ -527,31 +76,45 @@ _None — all clear._
 
 - [[concepts/fantelo]] (18 words)
 
-## 6. Duplicate Titles (1)
+## 6. Duplicate Titles (5)
 
+- **"concepts — index"** → [[concepts/README]], [[concepts/index]]
+- **"moil — business index"** → [[moil/README]], [[moil/index]]
 - **"meridian buda"** → [[orgs/meridian-buda]], [[projects/meridian-buda]]
+- **"people — personal network index"** → [[people/README]], [[people/index]]
+- **"summaries — index"** → [[summaries/README]], [[summaries/index]]
 
-## 7. Broken External URLs (11)
+## 7. Broken External URLs (18)
 
+- [[meta/vault-health]] — `https://github.com/Moil-Landingpages/meridian-buda```` → 404
+- [[meta/vault-health]] — `https://github.com/Moil-Landingpages/Nuovo-Enterteinment```` → 404
+- [[meta/vault-health]] — `https://github.com/Moil-Landingpages/connectex```` → 404
+- [[meta/vault-health]] — `https://github.com/Moil-Landingpages/Inna-CRM```` → 404
+- [[meta/vault-health]] — `https://github.com/Moil-Landingpages/Inna-Marketing-Calendar```` → 404
+- [[meta/vault-health]] — `https://github.com/Moil-Landingpages/PureSerenity```` → 404
+- [[meta/vault-health]] — `https://github.com/Moil-Landingpages/Siren-Beauty```` → 404
+- [[meta/vault-health]] — `https://github.com/Moil-Landingpages/urbanozuela```` → 404
+- [[meta/vault-health]] — `https://meridian-buda.vercel.app/api/webhooks/stripe````` → 404
+- [[meta/vault-health]] — `https://github.com/Moil-Landingpages/BUDAEDC```` → 404
+- [[meta/vault-health]] — `https://github.com/Felipeu28/Lunabella```` → 404
+- [[meta/vault-health]] — `https://github.com/Moil-Landingpages/meridian-buda``` → 404
+- [[meta/vault-health]] — `https://github.com/Moil-Landingpages/Nuovo-Enterteinment``` → 404
+- [[meta/vault-health]] — `https://github.com/Moil-Landingpages/connectex``` → 404
+- [[meta/vault-health]] — `https://github.com/Moil-Landingpages/Inna-CRM``` → 404
+- [[meta/vault-health]] — `https://github.com/Moil-Landingpages/meridian-buda`` → 404
+- [[meta/vault-health]] — `https://github.com/Moil-Landingpages/Nuovo-Enterteinment`` → 404
 - [[moil/customers]] — `https://github.com/Moil-Landingpages/meridian-buda` → 404
-- [[moil/customers]] — `https://github.com/Moil-Landingpages/Nuovo-Enterteinment` → 404
-- [[orgs/connectex]] — `https://github.com/Moil-Landingpages/connectex` → 404
-- [[orgs/ladyboss]] — `https://github.com/Moil-Landingpages/Inna-CRM` → 404
-- [[orgs/ladyboss]] — `https://github.com/Moil-Landingpages/Inna-Marketing-Calendar` → 404
-- [[orgs/pure-serenity]] — `https://github.com/Moil-Landingpages/PureSerenity` → 404
-- [[orgs/siren-beauty]] — `https://github.com/Moil-Landingpages/Siren-Beauty` → 404
-- [[orgs/urbanozuela]] — `https://github.com/Moil-Landingpages/urbanozuela` → 404
-- [[people/taiwo-ola-balogun]] — `https://meridian-buda.vercel.app/api/webhooks/stripe`` → 404
-- [[projects/buda-edc-hive]] — `https://github.com/Moil-Landingpages/BUDAEDC` → 404
-- [[projects/clio]] — `https://github.com/Felipeu28/Lunabella` → 404
 
-## 8. TODO / FIXME Markers (0)
+## 8. TODO / FIXME Markers (2)
 
-_None — all clear._
+- [[meta/brain-upgrade-plan]] (`FIXME, TODO`)
+- [[meta/vault-health]] (`FIXME, TODO`)
 
-## 9. Missing `## Related` Block (241)
+## 9. Missing `## Related` Block (268)
 
+- [[README]]
 - [[andres/ANDRES]]
+- [[concepts/README]]
 - [[concepts/aedo]]
 - [[concepts/agent-memory-files]]
 - [[concepts/ai-cold-outreach]]
@@ -572,6 +135,7 @@ _None — all clear._
 - [[concepts/heygen]]
 - [[concepts/hive-program]]
 - [[concepts/home-service-cro]]
+- [[concepts/index]]
 - [[concepts/linkedin-gtm]]
 - [[concepts/llm-knowledge-bases]]
 - [[concepts/local-ai-inference]]
@@ -591,6 +155,7 @@ _None — all clear._
 - [[hot/hot]]
 - [[hot/open-commitments]]
 - [[hot/relationship-radar]]
+- [[index]]
 - [[meetings/2024-08-07-abel-zachary-sales-close]]
 - [[meetings/2024-10-24-julian-sanchez-video-planning]]
 - [[meetings/2024-10-30-moneta-ventures-investor-panel]]
@@ -657,7 +222,14 @@ _None — all clear._
 - [[meetings/2026-04-29-megan-fitlogic-crm-delivery]]
 - [[meetings/2026-04-30-carolina-coaching]]
 - [[meetings/2026-04-30-heather-skeen-coaching]]
+- [[meetings/2026-05-04-christine-kat-coaching]]
+- [[meetings/2026-05-04-claudia-sanchez-coaching]]
+- [[meetings/2026-05-04-monday-collaboration]]
+- [[meetings/2026-05-05-christy-mawdsley-discovery]]
 - [[meetings/teams-attendance-protocol-2026-04]]
+- [[meta/brain-upgrade-plan]]
+- [[meta/vault-health]]
+- [[minds/README]]
 - [[minds/andrej-karpathy]]
 - [[minds/corey-ganim]]
 - [[minds/dario-amodei]]
@@ -668,17 +240,20 @@ _None — all clear._
 - [[minds/jensen-huang]]
 - [[minds/nick-spisak]]
 - [[minds/sam-altman]]
+- [[moil/README]]
 - [[moil/active-projects]]
 - [[moil/competitors]]
 - [[moil/customers]]
 - [[moil/directory]]
 - [[moil/gtm]]
 - [[moil/icp]]
+- [[moil/index]]
 - [[moil/metrics]]
 - [[moil/pipeline]]
 - [[moil/positioning]]
 - [[moil/product-roadmap]]
 - [[moil/referral-partners]]
+- [[orgs/README]]
 - [[orgs/alloy-atx]]
 - [[orgs/astra-restaurant]]
 - [[orgs/buda-chamber]]
@@ -693,6 +268,7 @@ _None — all clear._
 - [[orgs/ladyboss]]
 - [[orgs/manos-de-cristo]]
 - [[orgs/meridian-buda]]
+- [[orgs/nativa-medspa]]
 - [[orgs/nuovo-entertainment]]
 - [[orgs/organically-whole]]
 - [[orgs/providence-behavior-therapy]]
@@ -701,9 +277,13 @@ _None — all clear._
 - [[orgs/siren-beauty]]
 - [[orgs/titan-tech]]
 - [[orgs/txor]]
+- [[orgs/unwrapped-uncorked-events]]
 - [[orgs/urbanozuela]]
+- [[orgs/water-to-wine]]
+- [[orgs/wholeness-acupuncture]]
 - [[orgs/worldlink-medical]]
 - [[orgs/zoiwell]]
+- [[people/README]]
 - [[people/abel-esquivel-luna]]
 - [[people/abiodun-solomon]]
 - [[people/adam-maxon]]
@@ -717,6 +297,8 @@ _None — all clear._
 - [[people/carol-hive-cohort]]
 - [[people/carolina-caro]]
 - [[people/casey-earley]]
+- [[people/christine-stjohn]]
+- [[people/claudia-sanchez]]
 - [[people/crystal-cuzze]]
 - [[people/dafne-gutierrez]]
 - [[people/daniel-guadiano]]
@@ -729,6 +311,7 @@ _None — all clear._
 - [[people/hazim-mohamad]]
 - [[people/heather-skeen]]
 - [[people/hive-cohort-members]]
+- [[people/index]]
 - [[people/ingrid-spiritto]]
 - [[people/inna-benyukhis]]
 - [[people/irma-mason]]
@@ -745,6 +328,7 @@ _None — all clear._
 - [[people/joseph-arnke]]
 - [[people/joshua-edmond]]
 - [[people/julian-sanchez]]
+- [[people/kat-eyers]]
 - [[people/katherine-silvas]]
 - [[people/kemi-riley-telfort]]
 - [[people/kim-dowers]]
@@ -770,6 +354,7 @@ _None — all clear._
 - [[people/rosemary-gamez]]
 - [[people/roxana-esquivel]]
 - [[people/roxana-yglesias]]
+- [[people/sarah-cordano]]
 - [[people/sarah-hive-cohort]]
 - [[people/sarah-miller]]
 - [[people/sebastian-oviedo]]
@@ -783,6 +368,7 @@ _None — all clear._
 - [[people/wyatt-hook]]
 - [[people/zachary-barker]]
 - [[people/zane-gibson]]
+- [[projects/README]]
 - [[projects/campaign-control]]
 - [[projects/fantelo]]
 - [[projects/kyle-buda-spotlight]]
@@ -790,6 +376,8 @@ _None — all clear._
 - [[projects/magical-reading-adventures]]
 - [[projects/referred-local]]
 - [[projects/vox-trends]]
+- [[radar/README]]
 - [[radar/claude-code-changelog]]
 - [[weekly/2026-05-03]]
+- [[weekly/2026-05-04]]
 

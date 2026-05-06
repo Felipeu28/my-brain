@@ -44,7 +44,7 @@ last_contact: 2026-04-14
 | **Daniel Guadiano / Astra Restaurant** | [[wiki/people/daniel-guadiano]] · 210.978.4483 | AI scheduling | Demo needed | Apr 9 | 5 | Offer 30-min scheduling demo |
 | **Kristi Hales / WorldLink Medical** | khales@worldlinkmedical.com | Health/pharma | Deferred | Apr 9 | 5 | *"More time in May"* — schedule for May |
 | **Merrie Santana** | merriebbf@gmail.com | HIVE service | Booked Mar 31 | Mar 31 | 14 | Confirm delivery; any follow-up needed? |
-| **[[wiki/people/christy-mawdsley\|Christy Mawdsley]] / Wholeness Acupuncture** | Christymawdsley@gmail.com | Business Coach (free trial) → Moil 360 | Discovery done — free-trial signup pending | May 5 | 0 | Roxana Yglesias referral; 1:1 onboarding once 21Q complete; $60 first-month if she upgrades to 360 from start of trial |
+| **[[wiki/people/christy-mawdsley|Christy Mawdsley]] / Wholeness Acupuncture** | Christymawdsley@gmail.com | Business Coach (free trial) → Moil 360 | Discovery done — free-trial signup pending | May 5 | 0 | Roxana Yglesias referral; 1:1 onboarding once 21Q complete; $60 first-month if she upgrades to 360 from start of trial |
 
 ## 🔵 Partnerships — Revenue Generating
 
