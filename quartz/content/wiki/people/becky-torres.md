@@ -74,6 +74,21 @@ Becky emailed Andres earlier in the week surprised by the Siren Beauty staging b
 
 **New standing engineering rule on her account:** No proactive design changes without an explicit ask from Becky. Reverses Moil's prior bias on this account. *"Let's not make any more changes to any type of design until she asks for it."*
 
+## May 6, 2026 — Process-confusion signal: "is feedback a call or in-person?"
+
+Source: [[raw/email-digest-2026-05-06]]
+
+Becky sent **two emails on May 6** on the *Re: Website follow up* thread, surfacing a fresh confusion about how the iteration process actually works:
+
+- **14:53 UTC** — *"confused about the process; mainly sending videos for feedback; unsure of next steps"*
+- **19:01 UTC** — *"asks if review is normally a call or in-person — not sure call works for her"*
+
+Andres (with Taiwo + Jacob) had sent a *"We received your initial feedback... excited to continue, looking for any other feedback"* note at 11:21 UTC earlier the same day — but the reply landed her in a *"how do we actually do this?"* state, not a *"great, here's more feedback"* state.
+
+**What this means for Moil's delivery posture:** the May 6 *"no proactive design changes without explicit ask"* standing rule (from the [[wiki/meetings/2026-05-06-andres-taiwo-ongoing-projects|Andres × Taiwo session]]) is necessary but not sufficient — Becky also needs **a clear rhythm/format for how she submits feedback** (video upload? Loom? written email? in-person walkthrough?). The Moil-side process clarification is the unblock, not just deferring to her asks.
+
+**Action ownership:** Jacob/Taiwo + Andres need to give Becky a one-line *"here's exactly how this works"* — pick one feedback channel (likely keep the video format she's already using) and confirm the cadence (e.g. *"send videos any time; we ship a build within 48–72 hours; we'll do a 30-min in-person walkthrough at the SIREN space monthly to align on direction"*). In-person walkthroughs are an option Becky implicitly prefers — leverage the local Buda proximity rather than forcing a phone call.
+
 ## Connections
 
 - [[wiki/orgs/siren-beauty]] — her business

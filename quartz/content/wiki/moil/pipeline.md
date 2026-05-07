@@ -7,7 +7,7 @@ last_contact: 2026-04-14
 # Moil — Active Pipeline
 
 **Type:** moil-topic
-**Last updated:** 2026-05-05
+**Last updated:** 2026-05-07
 **Related:** [[wiki/moil/gtm]], [[wiki/moil/customers]], [[wiki/moil/icp]]
 
 ---
@@ -46,7 +46,7 @@ last_contact: 2026-04-14
 | **Merrie Santana** | merriebbf@gmail.com | HIVE service | Booked Mar 31 | Mar 31 | 14 | Confirm delivery; any follow-up needed? |
 | **[[wiki/people/christy-mawdsley|Christy Mawdsley]] / Wholeness Acupuncture** | Christymawdsley@gmail.com | Business Coach (free trial) → Moil 360 | Discovery done — free-trial signup pending | May 5 | 0 | Roxana Yglesias referral; 1:1 onboarding once 21Q complete; $60 first-month if she upgrades to 360 from start of trial |
 | **[[wiki/people/sarah-sanchez|Sarah Sanchez]] / Sunfield Spray Tans** | sunfieldspraytans@gmail.com | Moil 360 (free trial) | Warm reply — *"will check it out tomorrow"* | May 5 | 0 | Local east-side Buda SMB; watch for free-trial signup; nudge in 7d if no signup |
-| **[[wiki/people/linda-horuke|Linda Horuke]] / Jungle Flavorz** | jungleflavorz@gmail.com | Website Updates Discussion | Re-engaging after missed call (family illness) | May 4 | 1 | Reply with 2 reschedule slots; re-open window is day-or-two after re-engagement |
+| **[[wiki/people/linda-horuke|Linda Horuke]] / Jungle Flavorz** | jungleflavorz@gmail.com | Website Updates Discussion | Linda offered May 7/8 same-day — call lock pending | May 6 | 1 | Lock 30-min call **May 7 or May 8**; high-intent same-day window |
 
 ## 🔵 Partnerships — Revenue Generating
 

@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-30
+last_contact: 2026-05-06
 client: "[[wiki/orgs/buda-edc]]"
 tags:
   - graph/spoke
@@ -10,7 +10,7 @@ tags:
 
 **Type:** person
 **Last updated:** 2026-04-30
-**Source:** [[raw/teams-transcript-heather-skeen-2026-04-30]], [[raw/email-digest-2026-04-30]]
+**Source:** [[raw/teams-transcript-heather-skeen-2026-04-30]], [[raw/email-digest-2026-04-30]], [[raw/email-digest-2026-05-06]]
 **Related:** [[wiki/orgs/providence-behavior-therapy]], [[wiki/concepts/buda-hive]], [[wiki/concepts/hive-program]], [[wiki/orgs/buda-edc]], [[wiki/people/casey-earley]], [[wiki/meetings/2026-04-30-heather-skeen-coaching]]
 
 ---
@@ -73,3 +73,16 @@ tags:
 Source: [[raw/email-digest-2026-04-30]]
 
 At 18:12 UTC (~within 90 min of the session ending) Andres sent *"Great session today – next steps & focus"* with the line *"you don't need to build something complex"* — reinforces the daycare-MVP-not-online-platform decision from the 1:1, and pre-empts the BCBA-online-platform pull. Same-day post-coaching follow-through pattern.
+
+## May 6 — Reply to Andres's Apr 30 follow-up: "loves the feedback, follow up next week or two"
+
+Source: [[raw/email-digest-2026-05-06]]
+
+At 14:45 UTC Heather replied on the *"Re: Great session today – next steps & focus"* thread:
+- **Out Friday catching up** — context for any meeting requests in the May 8 window
+- **Loves the feedback** — explicit acknowledgement of the daycare-MVP-not-online-platform direction
+- **Will follow up next week or two** — sets the next-touch window to **May 13–20**
+
+**What this means:** the Apr 30 coaching has landed. Heather is signaling she wants to do the homework (daycare PD research, market rates, attorney consult) before re-engaging. Don't push for a status update before May 13; let the homework breathe. **Re-engagement trigger:** If silent past May 20, send a short *"how's the daycare prospect list coming?"* nudge.
+
+**Pairs with the same-day Teams invite Andres sent at 16:07 UTC** — *"Meeting Providence Behavioral"* at 119 Cimarron Park Loop, Suite A (Moil HQ), 8:30–10:30 AM. The in-person slot is the natural follow-up venue once Heather has draft research to share.

@@ -1,6 +1,6 @@
 ---
 status: warm
-last_contact: 2026-05-04
+last_contact: 2026-05-06
 tags:
   - graph/leaf
   - person/customer
@@ -9,7 +9,7 @@ tags:
 
 **Type:** person
 **Last updated:** 2026-05-05
-**Source:** [[raw/email-digest-2026-05-04]], [[raw/email-digest-2026-05-05]]
+**Source:** [[raw/email-digest-2026-05-04]], [[raw/email-digest-2026-05-05]], [[raw/email-digest-2026-05-06]]
 **Related:** [[wiki/orgs/jungle-flavorz]], [[wiki/moil/gtm]], [[wiki/moil/pipeline]]
 
 ---
@@ -29,10 +29,13 @@ Linda is on the *Website Updates Discussion* track — a Moil website client thr
 | ~Apr 28 | Original Website Updates Discussion call missed; family illness flagged |
 | 2026-05-04 14:46 UTC | Inbound *"Re: Website Updates Discussion"* — apology for missing the email/call last week; wants to reschedule |
 | 2026-05-05 | No Linda inbound/outbound captured in May 5 digest — reschedule reply still pending Andres |
+| 2026-05-06 11:33 UTC | [[wiki/people/jacob-oluwole|Jacob]] replied asking when Linda is available for a 30-min call |
+| 2026-05-06 15:30 UTC | Linda replied: *"Do you have time today or tomorrow? I will make time on my end."* — same-day high-intent response |
 
 ## Open / next action
 
-- [ ] **Andres:** Reply to Linda with two reschedule slots for the Website Updates Discussion call. Re-engagement window is shortest in the day or two right after a re-open inbound; don't let this slip a third week
+- [x] ~~Reply with two reschedule slots~~ — **DONE May 6** (Jacob handled the reschedule outreach)
+- [ ] **Jacob/Andres:** Lock the 30-min call **May 7 or May 8** — Linda offered *"today or tomorrow"* and the same-day high-intent response window closes fast
 - [ ] If she scopes a website project, evaluate Moil 360 cross-sell similarly to the Marilyn Eden / Nuovo Entertainment website-discovery pattern
 
 ## Connections

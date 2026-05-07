@@ -1,6 +1,6 @@
 ---
 status: warm
-last_contact: 2026-05-04
+last_contact: 2026-05-06
 client: "[[wiki/orgs/alloy-atx]]"
 tags:
   - graph/spoke
@@ -11,7 +11,7 @@ referred_by: "[[wiki/people/daniel-mann]]"
 
 **Type:** person
 **Last updated:** 2026-05-05
-**Source:** m365 email ("Moil App Intro: Andres + Oscar", 4 messages Feb 27 – Mar 6, 2026), [[raw/email-digest-2026-05-04]], [[raw/email-digest-2026-05-05]]
+**Source:** m365 email ("Moil App Intro: Andres + Oscar", 4 messages Feb 27 – Mar 6, 2026), [[raw/email-digest-2026-05-04]], [[raw/email-digest-2026-05-05]], [[raw/email-digest-2026-05-06]]
 **Related:** [[wiki/orgs/alloy-atx]], [[wiki/people/daniel-mann]], [[wiki/people/roxana-yglesias]]
 
 ---
@@ -44,6 +44,19 @@ Oscar surfaced in three threads in a single day for the first time since the Apr
 - **Sent — paired with Roxana:** two Teams invites + 21-question onboarding nudge to Roxana within hours
 
 The signal brief flagged this as the **activation-handoff window** — same operational phase where FitLogic generated its P0 bug list. Treat this week as the moment to lock the success path before he drifts.
+
+## May 6 — Consolidated Business Plan reply (One-Year Plan + 2 Growth Engines + 6 social documents)
+
+Source: [[raw/email-digest-2026-05-06]]
+
+At 21:36 UTC Andres replied (cc'ing himself) to Oscar's May 4 *"Business Plan draft: how detailed do we need?"* thread with a **long consolidated landing**:
+
+- **Scope:** One-Year Plan + **two Growth Engines** (Lakeline + Teravista, matching Oscar's May 4 strategy package) + **six social documents** (the full content stack to feed the Growth Engines)
+- **Significance:** This is Andres's first substantive strategic written reply on the Alloy account post-close. The May 4 activation-handoff window flagged in the signal brief — *"lock the success path before he drifts"* — is now answered in writing rather than just over Teams. Closes Oscar's *"how detailed do we need?"* with a concrete framework rather than a vague *"depends"*
+
+**Watch:** Oscar's reply latency. The May 4 inbound came as 3 separate threads in one day; if his May 7–8 response is silent or short, the activation-handoff window has narrowed and Andres should anchor the next live call before drift sets in. If he engages thread-by-thread, the framework lands and Alloy moves into delivery mode mirroring FitLogic's Apr 21 → Apr 29 cadence.
+
+**Cross-reference:** consolidated reply also went **to self** — Andres-as-his-own-CC is the email-archive pattern Megan committed to on Apr 23 ("forward every meeting invite to Andres"). First documented Andres-side use of the same self-archive discipline on a strategic outbound.
 
 ## Why He Matters
 

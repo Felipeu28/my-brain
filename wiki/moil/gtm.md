@@ -5,8 +5,8 @@ tags:
 # Moil — Go-to-Market Motion
 
 **Type:** moil-topic
-**Last updated:** 2026-05-06
-**Source:** [[raw/moil-documents-2026-04-09]], [[raw/moilapp-website-2026-04-09]], [[raw/teams-2026-04-12]], [[raw/email-digest-2026-04-14]], [[raw/email-digest-2026-04-15]], [[raw/email-digest-2026-04-17]], [[raw/email-digest-2026-04-20]], [[raw/email-digest-2026-04-21]], [[raw/email-digest-2026-04-22]], [[raw/email-digest-2026-04-27]], [[raw/email-digest-2026-04-28]], [[raw/email-digest-2026-04-29]], [[raw/email-digest-2026-04-30]], [[raw/email-digest-2026-05-01]], [[raw/email-digest-2026-05-04]], [[raw/signal-briefs/signal-brief-2026-05-04]], [[raw/email-digest-2026-05-05]]
+**Last updated:** 2026-05-07
+**Source:** [[raw/moil-documents-2026-04-09]], [[raw/moilapp-website-2026-04-09]], [[raw/teams-2026-04-12]], [[raw/email-digest-2026-04-14]], [[raw/email-digest-2026-04-15]], [[raw/email-digest-2026-04-17]], [[raw/email-digest-2026-04-20]], [[raw/email-digest-2026-04-21]], [[raw/email-digest-2026-04-22]], [[raw/email-digest-2026-04-27]], [[raw/email-digest-2026-04-28]], [[raw/email-digest-2026-04-29]], [[raw/email-digest-2026-04-30]], [[raw/email-digest-2026-05-01]], [[raw/email-digest-2026-05-04]], [[raw/signal-briefs/signal-brief-2026-05-04]], [[raw/email-digest-2026-05-05]], [[raw/email-digest-2026-05-06]]
 **Related:** [[wiki/moil/positioning]], [[wiki/moil/icp]], [[wiki/concepts/buda-hive]], [[wiki/people/travis-sutherland]], [[wiki/people/daniel-guadiano]], [[wiki/people/renee-simmons]], [[wiki/people/adam-maxon]], [[wiki/people/irma-mason]], [[wiki/people/elisa-alaniz]], [[wiki/people/katherine-silvas]], [[wiki/orgs/helotes-edc]]
 
 ---
@@ -304,6 +304,28 @@ Single-day outbound: **19 chamber/EDC sends** + 3 Content360 SMB cold pitches �
 **Operational artifact — Christine St John data-loss:** Christine emailed about Buda Top Neighborhoods data wiped by the **free-30-days release**. Andres looped Steve and Jacob in to investigate. **First data-loss incident from the Moil 360 free-trial code path** queued in [[wiki/meetings/2026-05-04-monday-collaboration|May 4 Monday Collaboration]] for the broader rollout — flag for migration safety verification before more customers are onboarded into the free-trial path. See [[wiki/people/christine-stjohn]].
 
 **Signal:** May 5 is a **pipeline-cleanup-and-cross-sell day**, not a volume day. The 11-send close-out batch is finishing the late-April long-tail (MN/WI/MS clusters), the 4-send story-led variant in Wisconsin is testing whether already-pinged Wisconsin prospects re-open under a different narrative, and the 3-send Content 360 SMB pitch surfaces the **first parallel SMB direct-pitch track** running alongside the chamber/EDC track. Inbound side delivered the **first warm Moil 360 reply on the local-Buda track (Sarah Sanchez)** — converting the May 4 "narrative-as-product" multiplier into a free-trial signup-eligible warm lead. Casey Earley's SoW calendar accept is the first non-cohort, non-PSA contract surface to advance with Buda EDC since the Apr 22 Helotes proposal.
+
+### Cold campaign — May 6 update (Content 360 SMB pivot day; 9 SMB pitches + 4 EDC close-outs)
+
+Source: [[raw/email-digest-2026-05-06]]
+
+Single-day outbound: **9 Content 360 SMB cold pitches** + **4 EDC/Chamber close-outs** + 1 Sioux Falls EDC narrative re-engagement. The chamber/EDC chase is **shrinking** while the Content 360 direct-to-SMB lane is **expanding**. First day where SMB sends outnumber chamber/EDC sends — pipeline center-of-gravity has shifted.
+
+- **Content 360 SMB cold pitches — 9 sends across 3 hooks:**
+  - *"30 days of content in 20 minutes"* — Jeff Vickers (sinelliconcepts.com — restaurant concepts), Spencer Gilliam (blackcreekrenovation.com — home renovation), Hasit Ruparel (everythingneon.com — neon signage), Cory Carpenter (blacktiemovingteam.com — moving)
+  - *"your 30-day content plan, automated"* — Hasit Ruparel (everythingneon.com), Ajit Gill (greenfirebio.com — biotech)
+  - *"Most SMB owners tell us the same thing…"* (the *"I know I need to post more"* hook) — Ron Vanwinkle (mccoys.com — building supply / TX), Dave Harycki (roofcrafters.com — roofing / FL), Matt Weber (scoopedcookiedoughbar.com — dessert)
+  - *"Business owners don't expect it to sound this good"* (voice/tone-trained AI angle) — Sunny Somaiya (joinwellnessspace.com — wellness coworking)
+
+  **Vertical spread:** restaurants, home renovation, signage, biotech, building supply, roofing, dessert, wellness coworking, moving. Most diverse SMB-vertical day in the campaign — testing whether the Content 360 narrative crosses verticals or needs vertical-specific framing.
+
+- **EDC/Chamber close-outs — 4 sends:** Wanda Seliski (Wahpeton-Breckenridge Chamber — ND), Jayme Sellen (TEDCOR / Oconto Region — WI), Joe Venhuizen (Envision Greater Fond du Lac — WI), Sherri Yandry (Saukville Chamber — WI). All *"Last note"* / *"Should I close this out?"* close-out template. **Wisconsin cluster pruning continues** — three of the four close-outs are in the WI cluster that's been worked since Apr 16.
+
+- **EDC narrative re-engagement — 1 send:** Jeff Griffin (siouxfalls.com — SD) — *"Interesting feedback from an EDC"* with the variant subject *"Interesting feedback from an EDC"*. Re-uses the Apr 30 / May 4 / May 5 anecdote.
+
+**Inbound from the campaign May 6 — none from cold prospects.** All inbound traffic is **client-side / partner-side**: Becky Torres (Siren — process confusion), Linda Horuke (Jungle Flavorz — May 7/8 reschedule offer), Joshua Edmond (revised Incubator Strategist SoW), Heather Skeen (Apr 30 follow-up reply), Inna (May 14/18 videos uploaded — carryover), Sarah Sanchez (Moil 360 reply — carryover from May 5).
+
+**Signal:** May 6 is the campaign's **first SMB-pivot day** — 9 SMB sends vs. 5 chamber/EDC sends inverts the prior ratio. Pairs with the May 4 *"narrative-as-product"* multiplier and the May 5 first 3-send SMB cohort (Lone Star Roofing, CHG, Mervin and Sons): the SMB cold lane is now a **named track**, not an experiment. Three different *Content 360* hooks tested in parallel (*"30 days of content"*, *"30-day content plan, automated"*, *"Most SMB owners tell us the same thing"*, *"Business owners don't expect it to sound this good"*) — 4 hooks across 9 sends is the most multi-hook SMB day yet. **EDC pipeline pruning continues** in parallel — Wisconsin cluster now mostly closed.
 
 ### Hays CISD Career Day — network-recruitment expansion (Apr 30)
 

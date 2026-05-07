@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-05-04
+last_contact: 2026-05-06
 tags:
   - graph/spoke
   - person/partner
@@ -9,7 +9,7 @@ tags:
 
 **Type:** person
 **Last updated:** 2026-04-30
-**Source:** [[raw/buda-hive-edc-2026-04-11]], [[wiki/meetings/2026-03-12-sosx-buda-hive]], [[raw/email-digest-2026-04-17]], [[raw/email-digest-2026-04-24]], [[raw/email-digest-2026-04-29]], [[raw/email-digest-2026-04-30]]
+**Source:** [[raw/buda-hive-edc-2026-04-11]], [[wiki/meetings/2026-03-12-sosx-buda-hive]], [[raw/email-digest-2026-04-17]], [[raw/email-digest-2026-04-24]], [[raw/email-digest-2026-04-29]], [[raw/email-digest-2026-04-30]], [[raw/email-digest-2026-05-06]]
 **Related:** [[wiki/people/jacquie-martinez]], [[wiki/people/casey-earley]], [[wiki/people/shannon-cameron]], [[wiki/concepts/buda-hive]], [[wiki/orgs/buda-edc]]
 
 ---
@@ -65,6 +65,21 @@ The Apr 30 digest expands the note: *"they loved the small group sessions idea"*
 Source: [[raw/email-digest-2026-04-30]]
 
 At 21:06 UTC Joshua forwarded the *"Professional Service Agreement"* received from [[wiki/people/jacquie-martinez|Jacqueline Martinez]] (Buda EDC) to Andres, cc [[wiki/people/shannon-cameron|Shannon Cameron]]. **Cohort 4 contract execution is now formally with Joshua + Andres.** Combined with the Apr 24 redlined version Joshua sent Shannon, the contract has now made the round-trip: Shannon (Apr 21) → Joshua redline (Apr 24) → Jacqueline-issued PSA (Apr 30) → Joshua + Andres for signature. Andres needs to read it before countersigning.
+
+## May 6, 2026 — Revised Incubator Strategist SoW from morning meeting
+
+Source: [[raw/email-digest-2026-05-06]]
+
+At 17:41 UTC Joshua sent *"Incubator Strategist - Scope of Work"* with the **revised SoW** from a meeting earlier the same morning. Asks Andres to review for further revisions. **First post-meeting same-day revision turnaround on the SoW track** — Joshua is iterating in close to real-time, not letting the contract surface drift.
+
+**Sequence so far on the SoW:**
+1. Apr 21 — Shannon Cameron forwards original PSAs
+2. Apr 24 — Joshua sends redlined version back to Shannon
+3. Apr 30 — Jacqueline Martinez issues PSA back to Joshua + Andres
+4. May 5 — Casey accepts SoW calendar invite (first Casey-side calendar accept on this track — see [[wiki/people/casey-earley]])
+5. **May 6 — Joshua sends revised SoW after morning meeting**
+
+**Andres action:** Review Joshua's May 6 revision before next sync — same posture as the Apr 24 redline review. Andres + Joshua need to be on a single page before the next round trip with Shannon/Jacqueline.
 
 <!-- AUTO-ACTIVITY:start -->
 ## Recent Activity (auto)

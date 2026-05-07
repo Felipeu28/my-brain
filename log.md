@@ -4,6 +4,60 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ---
 
+## 2026-05-07 — Run 38: email-digest 2026-05-06 (Becky process-confusion + Andres reply pending; Joshua revised SoW; Heather post-coaching reply; Linda May 7/8 call window; Oscar consolidated Business Plan reply; first SMB-pivot outbound day)
+
+**Trigger:** Single new raw file detected post-Run-37: `raw/email-digest-2026-05-06.md` (mirrored at `quartz/content/raw/`). Tue May 6 inbox + sent — 19 sent emails (9 Content 360 SMB cold pitches + 4 EDC close-outs + active client/partner replies), 10 received.
+
+**Pages created:** 0 — no new entities surfaced (all senders/recipients are existing pages or one-off cold prospects that don't warrant per-person pages).
+
+**Pages updated (8):**
+- [[wiki/people/becky-torres]] — added "May 6, 2026 — Process-confusion signal: 'is feedback a call or in-person?'" section. Becky sent two emails on May 6 confused about how the iteration process actually works (videos? calls? in-person?). The Apr 28 brand-kit + May 6 "no proactive design changes" rule are necessary but not sufficient — Moil also owes her **process clarity** (one feedback channel + one cadence + an in-person walkthrough option leveraging local Buda proximity). `last_contact` 2026-05-06 (no change — same date as Run 37).
+- [[wiki/people/oscar-esquivel]] — added "May 6 — Consolidated Business Plan reply" section. Andres replied at 21:36 UTC with One-Year Plan + 2 Growth Engines (Lakeline + Teravista) + 6 social documents — first substantive strategic written reply on Alloy account post-close. Closes Oscar's May 4 *"how detailed do we need?"* with a concrete framework. **Watch:** May 7–8 reply latency to confirm activation-handoff window is locking, not drifting. `last_contact` 2026-05-04 → 2026-05-06.
+- [[wiki/people/joshua-edmond]] — added "May 6, 2026 — Revised Incubator Strategist SoW from morning meeting" section. Joshua sent revised SoW at 17:41 UTC after a same-morning meeting — first post-meeting same-day revision turnaround on the SoW track. **Andres action:** review before next Shannon/Jacqueline round-trip. Sequence now: Apr 21 PSAs → Apr 24 redline → Apr 30 Jacqueline-issued PSA → May 5 Casey calendar accept → **May 6 Joshua revised SoW**. `last_contact` 2026-05-04 → 2026-05-06.
+- [[wiki/people/heather-skeen]] — added "May 6 — Reply to Andres's Apr 30 follow-up" section. Heather: out Friday, loves the feedback, will follow up next week or two. **Sets next-touch window to May 13–20**; nudge only if silent past May 20. Pairs with the same-day Teams invite Andres sent at 16:07 UTC for an in-person Providence meeting. `last_contact` 2026-04-30 → 2026-05-06.
+- [[wiki/people/linda-horuke]] — added May 6 timeline rows. Jacob asked when she's available for a 30-min call (11:33 UTC); Linda replied same-day *"Do you have time today or tomorrow? I will make time on my end."* (15:30 UTC). High-intent same-day response window — lock the call **May 7 or May 8**. `last_contact` 2026-05-04 → 2026-05-06.
+- [[wiki/moil/gtm]] — added "Cold campaign — May 6 update (Content 360 SMB pivot day; 9 SMB pitches + 4 EDC close-outs)" section. **First day where SMB sends outnumber chamber/EDC sends** — pipeline center-of-gravity has shifted. 9 Content 360 SMB sends across 4 hooks (*"30 days of content in 20 minutes"*, *"30-day content plan, automated"*, *"Most SMB owners tell us the same thing…"*, *"Business owners don't expect it to sound this good"*). Most diverse SMB-vertical day in the campaign (restaurants, renovation, signage, biotech, building supply, roofing, dessert, wellness coworking, moving). 4 EDC/Chamber close-outs (Wanda Seliski, Jayme Sellen, Joe Venhuizen, Sherri Yandry — Wisconsin cluster pruning). 1 Sioux Falls EDC narrative re-engagement (Jeff Griffin).
+- [[wiki/moil/pipeline]] — refreshed Linda Horuke row to reflect May 6 same-day call-window offer; date stamp refreshed.
+- [[MEMORY]] — added **May 6 email-digest action block** with 8 items (Becky process clarity reply, Joshua SoW review, B-Coach prod error escalation review, xAI Grok 4.3 retirement assessment, Linda May 7/8 lock, Megan afternoon meeting, Oscar reply-latency watch, Heather no-re-engage-before-May-13). **Demoted Apr 21 firefight residue** (10 items, 16-day carry) to this log entry's archive block; compressed older "Demoted" pointer to a single-line reference. **Final count: 198 lines (under 200-line cap).**
+
+**Index update:** [[index]] — Run 38 header; raw source count stays 477 (the May 6 digest was already on disk per Run 37's note that it was auto-committed mid-run); wiki page count stays 306 (no new pages).
+
+**Sync step:** `bash scripts/sync_wiki.sh`. **Health step:** `python3 scripts/kb-health.py`. Source file (`raw/email-digest-2026-05-06.md` + the `quartz/content/raw/` mirror) marked `ingested: true / ingested_at: 2026-05-07`.
+
+**Key intelligence:**
+
+1. **Becky's confusion is a process gap, not a design gap.** The Apr 28 brand kit + May 6 "no proactive design changes" rule address *what* Moil should ship, but Becky's two May 6 emails (*"confused about the process"* + *"is review normally a call or in-person?"*) reveal she also doesn't know *how* to give feedback in a structured way. This is an unblock that requires Moil to publish a one-page process document (or in-conversation framing) — pick one feedback channel, set a cadence, offer the in-person walkthrough at SIREN as the natural anchor. Local Buda proximity is the lever; Andres has met Becky's family already (Apr 23 mom-visit), so an in-person rhythm is the path of least social friction.
+
+2. **The Content 360 SMB cold lane is now a named track, not an experiment.** May 5 had 3 SMB sends; May 6 has 9 SMB sends across 4 distinct hooks. That's a 3× volume jump in 24 hours. The chamber/EDC chase is **shrinking** (only 5 chamber/EDC sends May 6 vs. 19 on May 5) while the Content 360 direct-to-SMB lane is **expanding**. Pipeline center-of-gravity has measurably shifted — worth tracking whether reply rates favor the SMB lane within the 7–14 day window.
+
+3. **Andres's consolidated Business Plan reply to Oscar closes a 2-day open loop.** May 4 was the activation-handoff signal day (*"lock the success path before he drifts"*); May 5 was a quiet day on Oscar; May 6 21:36 UTC the substantive written reply landed (One-Year Plan + 2 Growth Engines + 6 social documents). The framework matches Oscar's May 4 strategy-package structure exactly (Lakeline + Teravista Growth Engines were Oscar's own documents) — which is the right move (mirror his framing) but also means the *content* is largely Oscar's with Andres's structure layered on top. Watch May 7–8 for whether Oscar treats this as the answer or asks for more depth.
+
+4. **Joshua's revised SoW arriving same-day after the morning meeting closes the long-running PSA round-trip.** The SoW track has now been live since Apr 21 (Shannon's original PSAs). Joshua's May 6 revision is the **fifth contract artifact** in the sequence — and the first time a revision has come back same-day after a meeting rather than days later. Suggests SoW velocity is increasing as Joshua + Andres get closer to the actual signature event.
+
+5. **Heather's "loves the feedback, follow up next week or two" is the cleanest post-coaching landing in the Apr 30 cohort batch.** She's not asking for more guidance — she's signaling she's about to do the homework. The MVP wedge is **landed, not drifting**. May 13–20 is the watch window; before then, do not push.
+
+6. **Linda's "today or tomorrow" + "I will make time on my end" is the highest-intent reschedule signal possible.** She offered effort on her side — typical reschedule patterns are passive ("let me know what works for you"). The right Moil response is a same-day or next-day calendar link with 2–3 specific slot offers, not another back-and-forth. If Jacob/Andres let this slide to May 9+, the third silent week begins and the deal cools.
+
+7. **Two production-side escalations forwarded May 6:** (a) **xAI Grok 4.3 release + xAI API model retirement** → Steve to assess impact + ship updates; (b) **B-Coach prod INTERNAL_ERROR** on `/plan/b-coach/profile` → Steve + Jacob to investigate the failed profile creation and close the loop with the affected client. Both forwarded by Andres without resolution captured in the digest. Add to the engineering watch — first model-retirement deadline pressure on Moil's stack since the campaign began.
+
+**Source count:** Stays at 477 (the May 6 digest was already on disk after the Run-37 launchd auto-commit mid-run; this run is the actual ingestion, not a new file landing). Wiki page count stays at 306 (no new pages — all updates were to existing entities).
+
+**Summary:** Run 38 ingests one digest file with no new entities surfaced and 8 page updates plus a MEMORY block addition. The high-signal items are (a) Becky's process-confusion signal that exposes a gap in Moil's iteration workflow, (b) the May 6 SMB-pivot in cold outbound (9 Content 360 SMB sends now exceeding chamber/EDC sends), (c) Andres's substantive Business Plan reply closing the Oscar activation-handoff loop, (d) Joshua's same-day SoW revision accelerating the PSA contract velocity, and (e) two production escalations (xAI retirement + B-Coach profile-creation error) routed to engineering without resolution. The 10 carryover Apr 21 firefight items are demoted to this log entry's archive block.
+
+**Run 38 demote block — Apr 21 firefight residue (16-day carry, owed but archived):**
+- Andres: surface per-campaign click-rate / open-rate dashboard (Megan asked Apr 21)
+- Adeleke: Gemini→Grok→Qwen multi-model fallback for video gen; root-cause image-creation latency + intermittent template fails
+- Jacob + Andres: fix `partners@moilapp.com` deliverability (Megan/Roxana/Jill all hit it; need per-customer sender or infra fix, P0)
+- Product: fix business-plan switching UX bug — class-wide
+- Jacob: resend Moil 360 license links to Megan, Siren, Roxana, Jill (paid Apr 20, never got link)
+- Andres + Jacob: email every Buda cohort licensee with Moil 360 feature updates
+- Security: move `cs@moilapp.com` password off Teams (Jacob leaked Apr 21)
+- Andres: respond to Jacob's PRD proposal (carried from Apr 19)
+- Jacob: fix Business Coach "not responding" bug — `stagebeta broken?` surfaced again Apr 21
+- Andres: fix architectural regression — current app no longer uses business plan as single source of truth
+
+---
+
 ## 2026-05-06 — Run 37: Andres × Taiwo working session (Siren Beauty design crisis + FitLogic CRM live-test; Resend domain still blocked; email-queue contention routed to research)
 
 **Trigger:** Single new raw file detected post-Run-36: `raw/teams-transcript-meeting-to-go-over-ongoing-projects-2026-05-06.md` — 110-min Andres × Taiwo Teams working session (organizer Taiwo, scheduled 10–11 AM CT, ran ~50 min over to 12:31 PM CT). Two engineering deliverables in one session: (1) Siren Beauty website remediation after a wrong staging build went live and Becky pushed back, (2) live test of the FitLogic CRM + Resend email-campaign system before Andres's afternoon Megan meeting.

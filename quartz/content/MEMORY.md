@@ -1,6 +1,6 @@
 # MEMORY — Open Actions & Live Commitments
 
-**Last updated:** 2026-05-06 (Run 37 — Andres × Taiwo working session ingested: Siren Beauty design-realignment crisis + FitLogic CRM live-test; Resend domain-verification with Megan still blocking; email-queue-contention research routed to Taiwo)
+**Last updated:** 2026-05-07 (Run 38 — email-digest 2026-05-06 ingested: Becky process-confusion + Andres reply pending; Joshua revised SoW; Heather post-coaching reply; Linda offered May 7/8; Oscar consolidated Business Plan reply; first SMB-pivot outbound day with 9 Content 360 SMB pitches; xAI Grok 4.3 retirement + B-Coach prod error escalations to engineering)
 **Purpose:** Single source of truth for open action items extracted from ingested raw sources.
 
 > Relationship/concept context: [[index]] · Ingestion history: [[log]]
@@ -10,6 +10,17 @@
 ---
 
 ## 🔥 Immediate — This Week (May 4 – May 10, 2026)
+
+### 🔥 May 6 — Email-digest items requiring action
+Source: [[raw/email-digest-2026-05-06]]
+- [ ] **🔥 Andres + Jacob/Taiwo:** Reply to [[wiki/people/becky-torres|Becky]]'s May 6 process-confusion thread — give her one clear feedback rhythm/format (video uploads + 48–72hr build cycle + monthly in-person walkthrough at SIREN). The "no proactive design changes" rule is necessary but not sufficient — process clarity is the unblock
+- [ ] **🔥 Andres:** Review [[wiki/people/joshua-edmond|Joshua's]] May 6 revised Incubator Strategist SoW (sent 17:41 UTC after this morning's meeting); align before next round-trip with Shannon/Jacqueline
+- [ ] **🔥 Andres:** Review [[wiki/people/adeleke-tolulope|Steve's]] / [[wiki/people/jacob-oluwole|Jacob's]] response on the **B-Coach prod INTERNAL_ERROR** thread — failed profile creation; close the loop with the affected client. Andres forwarded mid-day May 6
+- [ ] **🔥 Steve:** Assess **xAI Grok 4.3 release + xAI API model retirement** impact on Moil; ship updates before retirement deadline. Andres forwarded May 6 05:42 UTC
+- [ ] **Andres / Jacob:** Lock the **Linda Horuke / Jungle Flavorz** 30-min call **May 7 or May 8** — Linda offered *"today or tomorrow"* on May 6; same-day high-intent window closes fast
+- [ ] **Andres:** Hold the **Megan Miller** afternoon meeting (Teams invite sent May 6 21:02 UTC) — scoped to GoDaddy DNS verification for Resend
+- [ ] **Watch:** Oscar Esquivel's reply latency on Andres's May 6 consolidated Business Plan reply (One-Year Plan + 2 Growth Engines + 6 social documents). Silence past May 8 narrows the activation-handoff window — anchor a live call before drift
+- [ ] **No re-engagement before May 13** on [[wiki/people/heather-skeen|Heather Skeen]] — she said *"follow up next week or two"* in her May 6 reply. Let the daycare-PD homework breathe; nudge only if silent past May 20
 
 ### 🔥 May 6 — Andres × Taiwo session: Siren Beauty + FitLogic blockers
 Source: [[wiki/meetings/2026-05-06-andres-taiwo-ongoing-projects]]
@@ -141,18 +152,8 @@ Source: [[wiki/meetings/2026-04-24-teams-daily-ops]]
 - [ ] **Megan ongoing:** forward every meeting invite to Andres (Apr 23 commitment, unverified)
 - [ ] **Megan payment plan:** $500/mo × 3 → $250/mo × 6? Reply outstanding since Apr 19
 
-### 🔥 Carried product/eng debts (Apr 21 firefight residue)
-Source: [[wiki/meetings/2026-04-21-teams-daily-ops]], [[wiki/meetings/2026-04-21-megan-fitlogic-working-session]]
-- [ ] **🔥 Andres:** Surface per-campaign click-rate / open-rate dashboard (Megan asked)
-- [ ] **🔥 Adeleke:** Ship Gemini→Grok→Qwen multi-model fallback for video gen; root-cause image-creation latency + intermittent template fails
-- [ ] **🔥 Jacob + Andres:** Fix `partners@moilapp.com` deliverability — Megan/Roxana/Jill all hit it; need per-customer sender or infra fix, **P0**
-- [ ] **🔥 Product:** Fix business-plan switching UX bug — class-wide
-- [ ] **Jacob:** Resend Moil 360 license links to Megan, Siren, Roxana, Jill (paid Apr 20, never got link)
-- [ ] **Andres + Jacob:** Email every Buda cohort licensee with Moil 360 feature updates
-- [ ] **🔒 Security:** Move `cs@moilapp.com` password off Teams (Jacob leaked Apr 21)
-- [ ] **Andres:** Respond to Jacob's PRD proposal (carried from Apr 19)
-- [ ] **Jacob:** Fix Business Coach "not responding" bug — `stagebeta broken?` surfaced again Apr 21
-- [ ] **Andres:** Fix architectural regression — current app no longer uses business plan as single source of truth
+### 🔥 Carried product/eng debts (Apr 21 firefight residue) — demoted 2026-05-07
+- See [[log.md]] Run 38 demote block (10 items, ages out from active MEMORY at 16-day carry — items still owed but tracked there for archive)
 
 ---
 
@@ -186,10 +187,7 @@ Source: [[wiki/meetings/2026-04-21-teams-daily-ops]], [[wiki/meetings/2026-04-21
 - [ ] **Sep 1, 2026** — Buda HIVE training program curriculum jointly with HIVE + Incubator Strategist Team
 - [ ] **Post-Apr 15** — CampaignOS with Jennifer Storm: circle back on MVP scope; Andres offered "little to no cost" — decide commitment level. [[wiki/concepts/campaignos]]
 
-### Demoted (>14 days carried — moved to [[log.md]] 2026-05-06 trim block)
-
----
-
+### Demoted (>14 days carried — moved to [[log.md]] 2026-05-06 + 2026-05-07 trim blocks)
 ## 🏗️ Strategic — no hard deadline
 
 - [ ] **Fantelo clarification** — pivot, separate venture, or sub-brand? Consumes engineering time w/ no documented strategy. [[wiki/concepts/fantelo]]
