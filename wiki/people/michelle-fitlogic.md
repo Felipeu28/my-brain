@@ -3,15 +3,15 @@ tags:
   - graph/spoke
   - person/customer
 status: active
-last_contact: 2026-04-29
+last_contact: 2026-05-07
 client: "[[wiki/orgs/fitlogic]]"
 ---
 # Michelle (FitLogic Practice Manager)
 
 **Type:** person
-**Last updated:** 2026-04-29
-**Source:** [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/teams-transcript-megan-moil-crm-test-and-delivery-2026-04-29]]
-**Related:** [[wiki/people/megan-miller]], [[wiki/orgs/fitlogic]], [[wiki/people/daniel-mann]], [[wiki/meetings/2026-04-23-megan-crm-google-setup]], [[wiki/meetings/2026-04-29-megan-fitlogic-crm-delivery]], [[wiki/concepts/moil360]]
+**Last updated:** 2026-05-07
+**Source:** [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/teams-transcript-megan-moil-crm-test-and-delivery-2026-04-29]], [[raw/teams-transcript-megan-andres-2026-05-07]]
+**Related:** [[wiki/people/megan-miller]], [[wiki/orgs/fitlogic]], [[wiki/people/daniel-mann]], [[wiki/meetings/2026-04-23-megan-crm-google-setup]], [[wiki/meetings/2026-04-29-megan-fitlogic-crm-delivery]], [[wiki/meetings/2026-05-07-megan-andres-fitlogic-crm-handoff]], [[wiki/concepts/moil360]]
 
 ---
 
@@ -55,6 +55,14 @@ Michelle joined ~2/3 through the call (after handling a Buda Drug Store medicati
 - **Flagged closed-captioning as an accessibility requirement** — *"People with hearing disabilities comment that a lot. I see that a lot that they need to have that."* First time accessibility surfaced as Moil 360 customer feedback. She volunteered to ask her Austin business friend (who solved this on Instagram) for the workaround.
 - **Drove the live test post** — copied the AI-generated post, downloaded the video, switched the Facebook account to the FitLogic page, pasted the caption, attached the video. (Did not publish — *"I'm not going to post it, but I just wanted to go through the process."*)
 - **Suggested the "IC-only" tag** for patients who came in for an initial consultation but never converted — became part of the agreed lead-segmentation taxonomy.
+
+## May 7, 2026 — Cross-mentioned in Megan × Andres CRM handoff (not present)
+
+Source: [[wiki/meetings/2026-05-07-megan-andres-fitlogic-crm-handoff]]
+
+Megan reported Michelle is **excelling at the relational side** — one new patient asked Michelle to be physically present in her appointment because she had no one else to bring. Megan flagged this as a strong organic-fit signal for Michelle's role.
+
+Operationally, **next-week's in-person CRM walkthrough explicitly targets Michelle as the primary trainee** (Andres scheduled the visit with Megan + Michelle together). The "owner trains a manager" pattern continues — Megan starts the CRM tomorrow with low-volume sends + the test-contact flag specifically *"while Michelle learns the system."*
 
 ## Connections
 

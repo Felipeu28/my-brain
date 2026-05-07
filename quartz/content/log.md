@@ -4,6 +4,58 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ---
 
+## 2026-05-07 — Run 39: Megan × Andres FitLogic CRM handoff (Resend domain blocker resolved via `myfitlogic.com` workaround; CRM credentials ship May 8 AM; new "My Life on Purpose" LLC + coaching-cert course; AI-search inbound producing 4–5 calls/day; Cloudflare-locked original domain abandoned)
+
+**Trigger:** Single new raw file detected post-Run-38: `raw/teams-transcript-megan-andres-2026-05-07.md` — ~1h 21min Teams session (3:30–4:55 PM CT, organizer Andres). Two parallel threads: (1) FitLogic business operations update — Michelle training, AI-driven inbound leads, new LLC, pricing rewrite, coaching certification course idea; (2) live demo + setup of the custom Moil CRM/sequence tool, including a workaround for the multi-week Resend domain-verification block.
+
+**Pages created (1):**
+- [[wiki/meetings/2026-05-07-megan-andres-fitlogic-crm-handoff]] — meeting page with key decisions, action items, FitLogic business update, CRM features demoed, patterns observed. `graph/leaf`.
+
+**Pages updated (5):**
+- [[wiki/people/megan-miller]] — added "May 7, 2026 — CRM handoff afternoon meeting + Cloudflare workaround + new LLC" section. New email `connections@myfitlogic.com` added to Email line. **AI-search inbound is now a measurable lead channel** (4–5 calls Tuesday + 2 conversions + waitlist) — first quantified data point. New LLC "My Life on Purpose" approved (separate from FitLogic; likely home for menopause/andropause coaching certification course). Pricing rewrite + $1,600/60-min IC competitor benchmark. `last_contact: 2026-05-06 → 2026-05-07`.
+- [[wiki/orgs/fitlogic]] — added "May 7, 2026 — CRM Handoff Afternoon Meeting + Cloudflare Workaround" section. **🟢 Resend domain blocker resolved via second-domain workaround** after 16 days. Original domain `fitlogicfunctionalmedicine.com` Cloudflare-locked (likely old vendor); pivoted to `myfitlogic.com` (new GoDaddy domain Megan registered + provisioned `connections@myfitlogic.com` via M365 add-on, ~$5/mo). Ships May 8 AM. Customer-onboarding playbook lesson captured: when a deeper layer of the customer's stack is locked, stand up a parallel asset they fully own. `last_contact: 2026-05-06 → 2026-05-07`.
+- [[wiki/people/michelle-fitlogic]] — added "May 7 — Cross-mentioned in Megan × Andres CRM handoff" section. Michelle continues to excel at relational side; **next-week's in-person CRM walkthrough explicitly targets Michelle as the primary trainee**. `last_contact: 2026-04-29 → 2026-05-07`.
+- [[wiki/moil/active-projects]] — refreshed FitLogic row: status now "CRM handoff May 7"; Resend domain blocker resolved via `myfitlogic.com` workaround; AI-search inbound producing 4–5 calls/day; new "My Life on Purpose" LLC + coaching-cert course in development. Last biz touch 2026-04-29 → 2026-05-07.
+- [[MEMORY]] — added 7-item May 7 block at top of "Immediate" section ("Megan × Andres CRM handoff (Resend blocker resolved)"); struck through 3 May 6 items the May 7 meeting closed (Andres-meet-Megan-this-afternoon, fitlogicfunctionalmedicine.com Resend verify, Taiwo screenshot). **Demoted 10-item Apr 24 carryover block** (13-day carry) to this log entry's archive block, plus single-line pointer to Run 38 Apr 21 demote. **Final count: 197 lines (under 200-line cap).**
+
+**Index update:** [[index]] — Run 39 header; raw source count 477 → 478 (+1 Teams transcript); wiki page count 306 → 307 (+1 meeting page); meetings folder count 74 → 75.
+
+**Sync step:** `bash scripts/sync_wiki.sh`. **Health step:** `python3 scripts/kb-health.py`. Source file (`raw/teams-transcript-megan-andres-2026-05-07.md`) marked `ingested: true / ingested_at: 2026-05-07`.
+
+**Key intelligence:**
+
+1. **The Cloudflare workaround closes a 16-day Resend blocker without resolving the underlying access problem.** Megan handed Andres GoDaddy credentials on Apr 21 expecting that to be enough — but Resend verification has needed Cloudflare-layer DNS access ever since, which Megan doesn't have (likely an old vendor configured it). After two failed verification attempts (Apr 23 OAuth call + May 6 internal test), the May 7 decision was to **stop chasing access and stand up a parallel domain Megan fully owns end-to-end**. `myfitlogic.com` registered + provisioned in real-time during the call. **This is a customer-onboarding playbook lesson worth capturing in Moil 360 docs:** when a customer can hand over credentials at one layer of their stack but a deeper layer is locked, the right move is sometimes to spin up a parallel asset they fully own, not to keep chasing the missing access.
+
+2. **AI-search is now a measurable inbound channel for FitLogic — first quantified data point in the campaign.** Megan reported ChatGPT + Claude AI Search drove **4–5 calls Tuesday alone, 2 confirmed conversions, and a small waitlist forming.** This is the first time any Moil customer has produced a quantified AI-search-traffic claim. Validates the lead-source taxonomy added per Megan's Apr 29 ask. If the pattern holds across additional weeks, it strengthens Moil's pitch to other practitioner customers (and potentially shifts the GTM emphasis from chamber/EDC → SMB-with-AI-discoverable-content).
+
+3. **Megan is now operating in dual-business mode — "My Life on Purpose" LLC approved.** Separate entity from FitLogic. Megan is shopping for a new bank + payment processor (not top priority). Likely home for the **menopause/andropause coaching certification course** she's planning. Future Moil 360 surface candidate (course site + email + CRM). Track when Megan formalizes — this could be the first Moil customer to operate two distinct business surfaces on the platform.
+
+4. **Pricing rewrite + $1,600/60-min IC competitor benchmark.** Megan rewrote the FitLogic pricing page after finding it was structured like a blog post listing a la carte service costs; repositioned around membership model. Discovered a competitor charging **$1,600 for a 60-min initial consultation** — orders of magnitude above FitLogic's current pricing. Signals FitLogic is under-priced; worth surfacing back to Megan if she ever revisits pricing.
+
+5. **The "owner trains a manager" pattern continues — next-week in-person walkthrough explicitly targets Michelle.** Megan starts CRM tomorrow with low-volume sends + the test-contact flag specifically *"while Michelle learns the system."* Andres scheduled the next-week in-person visit with Megan + Michelle together. Onboarding videos/docs should target the manager, not the owner.
+
+6. **Megan's competitive data points are unusually load-bearing.** She is one of very few customers actively comparing what other practitioners charge / how they market. Worth capturing her benchmarks systematically — they double as **competitive recon** for Moil's own pricing and positioning across the practitioner ICP.
+
+7. **AI-search-as-inbound + Cloudflare-workaround-customer-playbook are both reusable patterns** worth surfacing back into [[wiki/moil/gtm]] and [[wiki/concepts/moil360]] in a follow-up pass once a second customer instance confirms the pattern (n=1 today).
+
+**Source count:** 477 → 478. Wiki page count: 306 → 307. Meetings count: 74 → 75.
+
+**Summary:** Run 39 ingests one Teams transcript and creates one meeting page + 4 page updates + MEMORY block. The high-signal items are (a) the Cloudflare workaround closing the 16-day Resend blocker via a parallel-asset pattern, (b) AI-search inbound producing the first quantified lead-channel data point at FitLogic, (c) Megan's new "My Life on Purpose" LLC opening a second business surface, (d) the $1,600/60-min IC competitor benchmark, and (e) the continuation of the owner-trains-manager delivery pattern with Michelle as primary trainee. CRM credentials ship tomorrow morning (2026-05-08).
+
+**Run 39 demote block — Apr 24 carryover residue (13-day carry, owed but archived):**
+- Andres + Ablad: AI-tool adoption pace working agreement
+- Andres: reproducible demo-video workflow (Clio template; first artifact `clioremembers.com/demo`)
+- Andres: redesign in-app onboarding guide for discoverability
+- Adeleke: push auto-assign-Moil-360-license from staging → prod
+- Jacob: rework outbound messaging to be conversion-driven
+- HeyGen subscription: keep + max credits, drop, or replace with ChatGPT image2 + Capcut
+- Andres → Daniel D. Mann: acknowledge Michelle-via-Megan hello; open "project together" thread
+- Megan ongoing: forward every meeting invite to Andres (Apr 23 commitment, unverified)
+- Megan payment plan: $500/mo × 3 → $250/mo × 6? Reply outstanding since Apr 19
+- Andres: review Joshua's Apr 24 redlined HIVE Strategist PSAs; reply to Jessica @ VoyageAustin Magazine; Rashaka close on $600/yr vs $900/mo
+
+---
+
 ## 2026-05-07 — Run 38: email-digest 2026-05-06 (Becky process-confusion + Andres reply pending; Joshua revised SoW; Heather post-coaching reply; Linda May 7/8 call window; Oscar consolidated Business Plan reply; first SMB-pivot outbound day)
 
 **Trigger:** Single new raw file detected post-Run-37: `raw/email-digest-2026-05-06.md` (mirrored at `quartz/content/raw/`). Tue May 6 inbox + sent — 19 sent emails (9 Content 360 SMB cold pitches + 4 EDC close-outs + active client/partner replies), 10 received.

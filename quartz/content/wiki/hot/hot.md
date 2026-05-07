@@ -36,6 +36,15 @@ Updated automatically by:
 ## Recent Queries
 
 <!-- ENTRIES:query -->
+- 2026-05-07 18:22 — Session end: [Clio] Parallel track: adopt Garry Tan's `gstack` pattern for Clio dev velocity. Tan pu… — 4 chapters · 38 new files · 84 edits · 35 commits
+- 2026-05-07 18:18 — Session end: [Brain/Auto] Pull today's Microsoft Teams meeting transcripts and add them to the Brain.  1. … — 1 new files
+- 2026-05-07 18:01 — Session end: [Clio] Parallel track: adopt Garry Tan's `gstack` pattern for Clio dev velocity. Tan pu… — 4 chapters · 38 new files · 84 edits · 35 commits
+- 2026-05-07 17:52 — Session end: [Clio] Parallel track: adopt Garry Tan's `gstack` pattern for Clio dev velocity. Tan pu… — 4 chapters · 36 new files · 79 edits · 34 commits
+- 2026-05-07 17:21 — Session end: [Clio] Parallel track: adopt Garry Tan's `gstack` pattern for Clio dev velocity. Tan pu… — 4 chapters · 36 new files · 79 edits · 34 commits
+- 2026-05-07 17:17 — Session end: [Clio] Parallel track: adopt Garry Tan's `gstack` pattern for Clio dev velocity. Tan pu… — 4 chapters · 36 new files · 79 edits · 33 commits
+- 2026-05-07 15:45 — Session end: [Clio] Let's create a new video about the parents side of clio, you can use browser, I … — 61 new files · 64 edits
+- 2026-05-07 14:48 — Session end: [Clio] Let's create a new video about the parents side of clio, you can use browser, I … — 60 new files · 64 edits
+- 2026-05-07 12:01 — Session end: [Brain/Auto] You are Andres's plan radar. Every day at noon you scan recent Brain activity an… — 1 new files
 - 2026-05-07 08:58 — Q: "What are the 3 most important things I should focus on today? Consider: open dea" → # Todays Top 3 — Thursday, May 7, 2026
 - 2026-05-07 08:58 — Session end: [Brain/KB] You are the Moil Brain query engine. Answer this question using the Brain's know… — 21 events
 - 2026-05-07 08:57 — Session end: [Brain/Auto] You are the Moil Brain's daily cross-source intelligence analyst.  You are readi… — 9 events
@@ -47,15 +56,6 @@ Updated automatically by:
 - 2026-05-06 18:33 — Session end: [Brain/KB] Check for any new files in raw/ and raw/onedrive-transcripts/ that haven't been … — 1 new files · 22 edits · 1 commits
 - 2026-05-06 18:32 — Session end: [Brain/Auto] Read these two JSON files of today's email activity and create a structured Brai… — 1 new files
 - 2026-05-06 18:29 — Session end: [Clio] I want us to do an audit on the UX and UI for both parents and kids, any type of… — 3 chapters · 7 new files · 72 edits · 8 commits
-- 2026-05-06 18:19 — Session end: [Brain/Auto] Pull today's Microsoft Teams meeting transcripts and add them to the Brain.  1. … — 82 events
-- 2026-05-06 16:40 — Session end: [Clio] I want us to do an audit on the UX and UI for both parents and kids, any type of… — 3 chapters · 7 new files · 68 edits · 7 commits
-- 2026-05-06 16:37 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 33 edits
-- 2026-05-06 16:34 — Session end: [Clio] I want us to do an audit on the UX and UI for both parents and kids, any type of… — 3 chapters · 7 new files · 68 edits · 7 commits
-- 2026-05-06 16:33 — Session end: [Clio] I want us to do an audit on the UX and UI for both parents and kids, any type of… — 3 chapters · 7 new files · 68 edits · 7 commits
-- 2026-05-06 16:32 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 4 new files · 33 edits
-- 2026-05-06 16:28 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 4 new files · 33 edits
-- 2026-05-06 16:27 — Session end: [Clio] I want us to do an audit on the UX and UI for both parents and kids, any type of… — 3 chapters · 7 new files · 58 edits · 6 commits
-- 2026-05-06 16:26 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 4 new files · 33 edits
 <!-- /ENTRIES:query -->
 
 ## Recent Saves

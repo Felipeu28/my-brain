@@ -1,8 +1,8 @@
 # Moil Brain — Master Index
 
-**Last compiled:** 2026-05-07 (Run 38 — email-digest 2026-05-06 ingested. No new wiki pages created. Updated: [[wiki/people/becky-torres]] (May 6 process-confusion signal — "is feedback a call or in-person?"; reply pending), [[wiki/people/oscar-esquivel]] (consolidated Business Plan reply: One-Year Plan + 2 Growth Engines + 6 social documents), [[wiki/people/joshua-edmond]] (revised Incubator Strategist SoW from this morning's meeting), [[wiki/people/heather-skeen]] (post-coaching reply — "loves the feedback, follow up next week or two"), [[wiki/people/linda-horuke]] (May 7/8 same-day call window opened), [[wiki/moil/gtm]] (May 6 — first SMB-pivot day with 9 Content 360 SMB pitches + 4 EDC close-outs), [[wiki/moil/pipeline]] (Linda updated; date stamps refreshed), [[MEMORY]] (May 6 email-digest action block + Apr 21 firefight residue demoted to log.md). · **Total wiki pages:** 306 · **Raw sources:** 477
+**Last compiled:** 2026-05-07 (Run 39 — Megan × Andres FitLogic CRM handoff meeting ingested. New meeting page: [[wiki/meetings/2026-05-07-megan-andres-fitlogic-crm-handoff]]. Updated: [[wiki/people/megan-miller]] (Cloudflare workaround → `myfitlogic.com` + `connections@myfitlogic.com` new sender; AI-search inbound producing 4–5 calls/day; new "My Life on Purpose" LLC + coaching-cert course), [[wiki/orgs/fitlogic]] (Resend domain blocker resolved via parallel-domain workaround after 16 days; CRM credentials ship May 8 AM; pricing rewrite + $1,600/60-min IC competitor benchmark), [[wiki/people/michelle-fitlogic]] (next-week in-person walkthrough explicitly targets Michelle as primary trainee), [[wiki/moil/active-projects]] (FitLogic row refreshed to May 7 status), [[MEMORY]] (May 7 7-item block; 3 May 6 items struck through; Apr 24 carryover demoted to log.md). · **Total wiki pages:** 307 · **Raw sources:** 478
 
-**Previous run header:** Run 37 (2026-05-06) — Andres × Taiwo working session ingested; Siren Beauty design-realignment crisis + FitLogic CRM live-test; Resend domain-verification with Megan still blocking; email-queue-contention research routed to Taiwo.
+**Previous run header:** Run 38 (2026-05-07) — email-digest 2026-05-06 ingested; Becky process-confusion signal; Joshua revised SoW; Heather post-coaching reply; Linda May 7/8 call window; Oscar consolidated Business Plan reply; first SMB-pivot outbound day.
 
 > **Canonical operating truth lives outside the wiki:** if status or architecture notes here conflict with newer operating reality, use `~/My Brain/CURRENT_STATE.md` first.
 
@@ -36,7 +36,7 @@
 | [[wiki/concepts/README|concepts/]] | 35 | Frameworks, mental models, products, programs |
 | [[wiki/radar/README|radar/]] | 2 | Append-only changelogs for fast-moving topics |
 | [[wiki/summaries/README|summaries/]] | 21 | One structured summary per raw source |
-| [[wiki/meetings/README|meetings/]] | 74 | Meeting records + async threads — decisions and action items |
+| [[wiki/meetings/README|meetings/]] | 75 | Meeting records + async threads — decisions and action items |
 
 See also: [[wiki/meetings/historical-transcripts-index]] — raw transcripts not yet promoted to structured pages (24 transcripts catalogued, 7 previously-orphan meeting pages linked).
 

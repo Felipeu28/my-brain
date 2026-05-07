@@ -3,19 +3,19 @@ tags:
   - graph/hub
   - person/customer
 status: active
-last_contact: 2026-05-06
+last_contact: 2026-05-07
 client: "[[wiki/orgs/fitlogic]]"
 ---
 # Megan Miller
 
 **Type:** person
-**Last updated:** 2026-05-06
-**Source:** [[raw/imessages-people-2026-04-09]], [[raw/email-history-6months-2026-04-14]], [[raw/teams-transcript-megan-miller-2026-04-21]], [[raw/teams-2026-04-21]], [[raw/email-digest-2026-04-20]], [[raw/email-digest-2026-04-21]], [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/email-digest-2026-04-22]], [[raw/teams-transcript-megan-moil-crm-test-and-delivery-2026-04-29]], [[raw/teams-transcript-meeting-to-go-over-ongoing-projects-2026-05-06]]
-**Related:** [[wiki/orgs/fitlogic]], [[wiki/moil/customers]], [[wiki/moil/gtm]], [[wiki/concepts/smart-hiring]], [[wiki/concepts/moil360]], [[wiki/people/michelle-fitlogic]], [[wiki/meetings/2026-04-21-megan-fitlogic-working-session]], [[wiki/meetings/2026-04-23-megan-crm-google-setup]], [[wiki/meetings/2026-04-29-megan-fitlogic-crm-delivery]], [[wiki/meetings/2026-05-06-andres-taiwo-ongoing-projects]]
+**Last updated:** 2026-05-07
+**Source:** [[raw/imessages-people-2026-04-09]], [[raw/email-history-6months-2026-04-14]], [[raw/teams-transcript-megan-miller-2026-04-21]], [[raw/teams-2026-04-21]], [[raw/email-digest-2026-04-20]], [[raw/email-digest-2026-04-21]], [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/email-digest-2026-04-22]], [[raw/teams-transcript-megan-moil-crm-test-and-delivery-2026-04-29]], [[raw/teams-transcript-meeting-to-go-over-ongoing-projects-2026-05-06]], [[raw/teams-transcript-megan-andres-2026-05-07]]
+**Related:** [[wiki/orgs/fitlogic]], [[wiki/moil/customers]], [[wiki/moil/gtm]], [[wiki/concepts/smart-hiring]], [[wiki/concepts/moil360]], [[wiki/people/michelle-fitlogic]], [[wiki/meetings/2026-04-21-megan-fitlogic-working-session]], [[wiki/meetings/2026-04-23-megan-crm-google-setup]], [[wiki/meetings/2026-04-29-megan-fitlogic-crm-delivery]], [[wiki/meetings/2026-05-06-andres-taiwo-ongoing-projects]], [[wiki/meetings/2026-05-07-megan-andres-fitlogic-crm-handoff]]
 
 ---
 
-**Email:** meganmillernp@gmail.com (personal), `Megan@fitlogicfunctionalmedicine.com` (clinic — to be Moil sender)
+**Email:** meganmillernp@gmail.com (personal), `Megan@fitlogicfunctionalmedicine.com` (clinic), `connections@myfitlogic.com` (new outbound sender — created May 7 via GoDaddy MS365 add-on)
 **Title:** Nurse Practitioner (NP) — Functional Medicine & Hormone Specialist
 **Business:** Fit Logic Functional Medicine (see [[wiki/orgs/fitlogic]])
 **Relationship:** Active Moil 360 customer — CRM onboarding in progress (Apr 21 live tour)
@@ -172,6 +172,28 @@ Andres + Taiwo ran a 110-min internal test of Megan's FitLogic CRM ahead of Andr
 - **🔥 Open question (P0):** how scheduled email sequences queue when multiple campaigns collide on the same day past Vercel's 1-cron/day cap or Gmail's 50/day per-account cap. Unverified — Taiwo to research with Claude. Vercel premium ($20/mo) is the upgrade path that lifts the 1-cron limit
 
 **Behavioral note (cross-page):** Megan's `Megan@fitlogicfunctionalmedicine.com` was the planned sender from the Apr 21 working session — three weeks later it's still blocked on her DNS access. The Apr 23 handover plan ("Megan owns everything from day one") creates this exact friction: Moil cannot self-service the domain verification, so every account-owner-permission step has to wait for a real-time meeting with Megan.
+
+## May 7, 2026 — CRM handoff afternoon meeting + Cloudflare workaround + new LLC
+
+Source: [[wiki/meetings/2026-05-07-megan-andres-fitlogic-crm-handoff]] (~1h 21min Teams, 3:30–4:55 PM CT)
+
+**Resend domain blocker resolved via workaround, not access fix.** `fitlogicfunctionalmedicine.com` is locked behind a Cloudflare config Megan can't access (likely an old vendor) — rather than chase access, Megan registered **`myfitlogic.com`** via GoDaddy and created `connections@myfitlogic.com` using GoDaddy's Microsoft 365 add-on (~$5/mo vs. Gmail Workspace's $12). All outbound now runs from this domain where DNS is fully manageable. Closes a **16-day blocker** (open since Apr 21).
+
+**CRM ships tomorrow (2026-05-08 AM):** Andres configures the M365 mailbox for `myfitlogic.com` and sends Megan login credentials wired to `connections@myfitlogic.com`. Megan starts low-volume only (a few emails/day, test-contact flag) while Michelle learns the system. Next-week in-person visit scheduled to walk both of them through together.
+
+**FitLogic business signals:**
+- **AI-search inbound is now a measurable lead channel** — ChatGPT + Claude AI Search drove **4–5 calls Tuesday alone, 2 confirmed conversions**, and a small waitlist. First quantified data point. Validates the lead-source taxonomy added per her Apr 29 ask
+- **Pricing rewrite** — moved away from a la carte/piecemeal pricing to membership model. **Competitive data point: a competitor charges $1,600 for a 60-min IC** (orders of magnitude above FitLogic; signals FitLogic is under-priced)
+- **New LLC approved: "My Life on Purpose"** — separate from FitLogic. Likely home for the **menopause/andropause coaching certification course** Megan is planning. Future Moil 360 surface candidate (course site + email + CRM)
+- **Book draft in progress** — no fixed deadline
+- **Mastermind subscription canceling** — doesn't think she needs it
+- Megan's patient base is ~90% women → Q2 plan to add monthly **Women's Vitality Group Circle** (in-person); quarterly equivalent for men, asked Andres for input on format
+
+**Open product questions (deferred, not committed):** Megan asked for **click-triggered email automation** ("if they clicked, send X"). Andres wants to design the UX so it doesn't feel spammy before committing. Landing pages also deferred until website fully launches.
+
+**Patient quote (worth capturing for brand voice):** *"I asked her, 'what do you need to feel heard, supported, seen?' She said, 'Just keep doing what you're doing — that's exactly why I'm here.'"* — exemplifies the patient-centered tone Megan committed to on Apr 29.
+
+`last_contact: 2026-05-06 → 2026-05-07`
 
 <!-- AUTO-ACTIVITY:start -->
 ## Recent Activity (auto)

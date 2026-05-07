@@ -4,14 +4,14 @@ tags:
   - graph/hub
 owner: "[[wiki/people/megan-miller]]"
 status: active
-last_contact: 2026-05-06
+last_contact: 2026-05-07
 ---
 # FitLogic Functional Medicine
 
 **Type:** organization
-**Last updated:** 2026-05-06
-**Source:** [[raw/teams-2026-04-12]], [[raw/email-history-2months-2026-04-12]], [[raw/github-project-tracker.md]], [[raw/teams-2026-04-21]], [[raw/teams-transcript-megan-miller-2026-04-21]], [[raw/email-digest-2026-04-20]], [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/teams-transcript-megan-moil-crm-test-and-delivery-2026-04-29]], [[raw/teams-transcript-meeting-to-go-over-ongoing-projects-2026-05-06]]
-**Related:** [[wiki/people/megan-miller]], [[wiki/people/michelle-fitlogic]], [[wiki/moil/customers]], [[wiki/moil/pipeline]], [[wiki/concepts/moil360]], [[wiki/meetings/2026-04-21-megan-fitlogic-working-session]], [[wiki/meetings/2026-04-23-megan-crm-google-setup]], [[wiki/meetings/2026-04-29-megan-fitlogic-crm-delivery]], [[wiki/meetings/2026-05-06-andres-taiwo-ongoing-projects]]
+**Last updated:** 2026-05-07
+**Source:** [[raw/teams-2026-04-12]], [[raw/email-history-2months-2026-04-12]], [[raw/github-project-tracker.md]], [[raw/teams-2026-04-21]], [[raw/teams-transcript-megan-miller-2026-04-21]], [[raw/email-digest-2026-04-20]], [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/teams-transcript-megan-moil-crm-test-and-delivery-2026-04-29]], [[raw/teams-transcript-meeting-to-go-over-ongoing-projects-2026-05-06]], [[raw/teams-transcript-megan-andres-2026-05-07]]
+**Related:** [[wiki/people/megan-miller]], [[wiki/people/michelle-fitlogic]], [[wiki/moil/customers]], [[wiki/moil/pipeline]], [[wiki/concepts/moil360]], [[wiki/meetings/2026-04-21-megan-fitlogic-working-session]], [[wiki/meetings/2026-04-23-megan-crm-google-setup]], [[wiki/meetings/2026-04-29-megan-fitlogic-crm-delivery]], [[wiki/meetings/2026-05-06-andres-taiwo-ongoing-projects]], [[wiki/meetings/2026-05-07-megan-andres-fitlogic-crm-handoff]]
 
 ---
 
@@ -21,7 +21,7 @@ Fit Logic Functional Medicine is a solo-NP functional medicine clinic owned by [
 
 Dual product surface: (a) hiring via Moil job postings (first Moil-sourced hire imminent as of Apr 12); (b) Moil 360 full stack — CRM, campaigns, sequences, site deployment, soon a native quiz. An external vendor, **Electric Bricks**, is mid-redesign of the clinic website; Moil is waiting for them to ship before layering CRM forms on top.
 
-Domain: `fitlogicfunctionalmedicine.com` (GoDaddy). Sending address to be: `Megan@fitlogicfunctionalmedicine.com`.
+Domains: `fitlogicfunctionalmedicine.com` (GoDaddy — locked behind a Cloudflare config Megan can't access; abandoned as Resend sender May 7) and **`myfitlogic.com`** (GoDaddy — Megan registered May 7 specifically because DNS is fully manageable end-to-end). **Outbound sender as of May 7: `connections@myfitlogic.com`** via GoDaddy's Microsoft 365 add-on (~$5/mo).
 
 ## Deal Status
 
@@ -158,6 +158,39 @@ Source: [[wiki/meetings/2026-05-06-andres-taiwo-ongoing-projects]] (Andres × Ta
 - Confirmed: the Resend → Gmail-API fallback path uses whichever Gmail account is OAuth-connected. During the call, Jacob's Gmail caught a send Resend rejected, because Jacob is the connected user
 
 **Cost-model affirmation:** Andres restated the *"each customer's bot is its own little agent on a $5/mo Gemini 2.0 budget"* pattern — this is the standard for FitLogic-style customer deployments. Aligns with the May 4 Monday Collaboration cost-discipline standing rule.
+
+## May 7, 2026 — CRM Handoff Afternoon Meeting + Cloudflare Workaround
+
+Source: [[wiki/meetings/2026-05-07-megan-andres-fitlogic-crm-handoff]] (~1h 21min Teams, 3:30–4:55 PM CT, organizer Andres)
+
+**🟢 Resend domain blocker resolved via second-domain workaround.** After 16 days of attempting verification on `fitlogicfunctionalmedicine.com`, Megan and Andres confirmed the original domain is locked behind a Cloudflare config Megan can't access (likely an old vendor set it up). Decision: **stop chasing access — register `myfitlogic.com` and run all outbound from there.** Megan registered the domain via GoDaddy + provisioned `connections@myfitlogic.com` using GoDaddy's Microsoft 365 add-on (~$5/mo vs. Gmail Workspace's $12) during the call. Andres ships the configured mailbox + CRM credentials tomorrow morning (2026-05-08).
+
+**Customer-onboarding playbook lesson — capture in Moil 360 docs:** when a customer can hand over credentials at one layer of their stack but a deeper layer is locked, the right move is sometimes to **stand up a parallel asset they fully own**, not to chase the missing access. Worked at FitLogic.
+
+**Send rollout plan:**
+- Tomorrow AM: CRM credentials + `connections@myfitlogic.com` configured
+- Megan starts low-volume only (a few emails per day, not bulk) using the **test-contact flag** while Michelle learns the system
+- Next-week in-person visit: Andres walks Megan + Michelle through together (manager is the primary trainee, not the owner — pattern continues from Apr 29)
+
+**FitLogic business signals captured:**
+
+| Signal | Detail |
+|---|---|
+| **AI-search inbound (NEW)** | ChatGPT + Claude AI Search → 4–5 calls Tuesday, 2 confirmed conversions, small waitlist forming. **First on-record quantified AI-search-traffic data point** for FitLogic. Validates the lead-source taxonomy added per Apr 29 |
+| **Pricing rewrite** | Pricing page repositioned around membership model (not a la carte). Competitor data point: **$1,600 / 60-min IC** — orders of magnitude above FitLogic; signal that FitLogic is under-priced |
+| **New LLC: My Life on Purpose** | Separate entity from FitLogic. Likely home for the **menopause/andropause coaching certification course** Megan is planning. Future Moil 360 surface candidate (course site + email + CRM) |
+| **Coaching certification course (idea)** | Coaches get certified to support clients through hormonal transition. Larger market for women, men included. Lives under My Life on Purpose, not FitLogic |
+| **Book draft** | In progress, no fixed deadline |
+| **Mastermind subscription** | Megan canceling — doesn't think she needs it |
+| **Women's Vitality Group Circle** | Q2 plan: monthly in-person addition to FitLogic membership offering (90% female patient base). Quarterly equivalent for men under design — Megan asked Andres for input on format |
+
+**Open product asks (deferred):**
+- **Click-triggered email automation** ("if they clicked, send X") — Megan asked. Andres wants to design the UX so it doesn't feel spammy before committing.
+- **Landing pages** — defer until website fully launches; then build SEO-targeted conversion pages for specific services (ear acupuncture, hormone treatment, men's testosterone) only when ROI is clear. Andres's framing: *"Anybody can sell you something to create a landing page. It's being able to create a landing page the right way — one that converts."*
+
+**Patient relationship signal (brand voice):** Megan recounted asking a longtime patient *"what do you need to feel heard, supported, seen?"* — patient replied *"Just keep doing what you're doing — that's exactly why I'm here."* Exemplifies the patient-centered tone Megan committed to on Apr 29 (*"I don't care what you want. I want it to be about what they need."*).
+
+**Operations note — Michelle progress:** Michelle continues to excel at the relational side. One new patient asked her to be physically present in her appointment because she had no one else to bring. Strong organic-fit signal for Michelle's role as the day-to-day operator.
 
 ## Contacts
 

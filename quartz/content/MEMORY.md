@@ -1,6 +1,6 @@
 # MEMORY — Open Actions & Live Commitments
 
-**Last updated:** 2026-05-07 (Run 38 — email-digest 2026-05-06 ingested: Becky process-confusion + Andres reply pending; Joshua revised SoW; Heather post-coaching reply; Linda offered May 7/8; Oscar consolidated Business Plan reply; first SMB-pivot outbound day with 9 Content 360 SMB pitches; xAI Grok 4.3 retirement + B-Coach prod error escalations to engineering)
+**Last updated:** 2026-05-07 (Run 39 — Megan × Andres CRM handoff meeting ingested: Resend domain blocker resolved via `myfitlogic.com` workaround; CRM credentials ship May 8 AM; new "My Life on Purpose" LLC + coaching-cert course; AI-search inbound producing 4–5 calls/day at FitLogic. Closes the 16-day Apr 21 Resend block.)
 **Purpose:** Single source of truth for open action items extracted from ingested raw sources.
 
 > Relationship/concept context: [[index]] · Ingestion history: [[log]]
@@ -11,6 +11,16 @@
 
 ## 🔥 Immediate — This Week (May 4 – May 10, 2026)
 
+### 🔥 May 7 — Megan × Andres CRM handoff (Resend blocker resolved)
+Source: [[wiki/meetings/2026-05-07-megan-andres-fitlogic-crm-handoff]]
+- [ ] **🔥 [2026-05-08 AM] Andres / Eng:** Configure Microsoft 365 mailbox for `myfitlogic.com` in GoDaddy (creds Megan sent on the call); ship Megan CRM login credentials wired to `connections@myfitlogic.com`
+- [ ] **🔥 Andres:** Schedule **next-week in-person visit to FitLogic** to walk Megan + Michelle through the CRM together (manager is the primary trainee, not the owner)
+- [ ] **Andres:** Design the "clicked-link" trigger flow for the CRM (Megan's ask) — manual vs. automated, and how to keep tone non-spammy. Deferred, not committed
+- [ ] **Andres + Megan:** Ongoing Keap contact-list cleanup (~5,341 rows) — duplicates + obvious fakes (`sample@email.com` etc.); Megan starts low-volume only with the test-contact flag while Michelle ramps
+- [ ] **Megan (this week):** Send Andres his lab order (fasting bloodwork, 8–10 vials) — possibly switching from LabCorp to a different vendor; she'll text when it's in the Charm portal
+- [ ] **Megan (Q2):** Add monthly **Women's Vitality Group Circle** (in-person) to FitLogic membership; design quarterly equivalent for men — wants Andres's input on format
+- [ ] **Watch / capture:** "My Life on Purpose" LLC + menopause/andropause coaching-certification course are a future Moil 360 surface (course site + email + CRM). Track when Megan formalizes
+
 ### 🔥 May 6 — Email-digest items requiring action
 Source: [[raw/email-digest-2026-05-06]]
 - [ ] **🔥 Andres + Jacob/Taiwo:** Reply to [[wiki/people/becky-torres|Becky]]'s May 6 process-confusion thread — give her one clear feedback rhythm/format (video uploads + 48–72hr build cycle + monthly in-person walkthrough at SIREN). The "no proactive design changes" rule is necessary but not sufficient — process clarity is the unblock
@@ -18,17 +28,17 @@ Source: [[raw/email-digest-2026-05-06]]
 - [ ] **🔥 Andres:** Review [[wiki/people/adeleke-tolulope|Steve's]] / [[wiki/people/jacob-oluwole|Jacob's]] response on the **B-Coach prod INTERNAL_ERROR** thread — failed profile creation; close the loop with the affected client. Andres forwarded mid-day May 6
 - [ ] **🔥 Steve:** Assess **xAI Grok 4.3 release + xAI API model retirement** impact on Moil; ship updates before retirement deadline. Andres forwarded May 6 05:42 UTC
 - [ ] **Andres / Jacob:** Lock the **Linda Horuke / Jungle Flavorz** 30-min call **May 7 or May 8** — Linda offered *"today or tomorrow"* on May 6; same-day high-intent window closes fast
-- [ ] **Andres:** Hold the **Megan Miller** afternoon meeting (Teams invite sent May 6 21:02 UTC) — scoped to GoDaddy DNS verification for Resend
+- [x] ~~**Andres:** Hold the **Megan Miller** afternoon meeting (Teams invite sent May 6 21:02 UTC) — scoped to GoDaddy DNS verification for Resend~~ ✅ **Held May 7 3:30–4:55 PM CT.** Resolved via `myfitlogic.com` workaround instead of fighting the Cloudflare-locked original domain
 - [ ] **Watch:** Oscar Esquivel's reply latency on Andres's May 6 consolidated Business Plan reply (One-Year Plan + 2 Growth Engines + 6 social documents). Silence past May 8 narrows the activation-handoff window — anchor a live call before drift
 - [ ] **No re-engagement before May 13** on [[wiki/people/heather-skeen|Heather Skeen]] — she said *"follow up next week or two"* in her May 6 reply. Let the daycare-PD homework breathe; nudge only if silent past May 20
 
 ### 🔥 May 6 — Andres × Taiwo session: Siren Beauty + FitLogic blockers
 Source: [[wiki/meetings/2026-05-06-andres-taiwo-ongoing-projects]]
 - [ ] **🔥 Andres:** Reply to [[wiki/people/becky-torres|Becky's]] email — apologize for the wrong staging build; explain the staging-vs-prod misfire; point her at the corrected build; confirm video-feedback items addressed
-- [ ] **🔥 Andres:** Verify `fitlogicfunctionalmedicine.com` Resend domain with [[wiki/people/megan-miller|Megan]] this afternoon (needs her GoDaddy DNS); demo live send with Megan as test contact
+- [x] ~~**🔥 Andres:** Verify `fitlogicfunctionalmedicine.com` Resend domain with Megan this afternoon~~ ✅ **Resolved May 7 via workaround** — original domain Cloudflare-locked; pivoted to `myfitlogic.com` (new domain Megan registered + provisioned `connections@myfitlogic.com` via GoDaddy MS365). Outbound now runs from there
 - [ ] **🔥 Taiwo:** Push FitLogic CRM updates to the **production-side repo** (not just staging) — third surfacing of the Apr 28 push-discipline rule
 - [ ] **🔥 Taiwo:** Research with Claude — email-sequence queue behavior when multiple campaigns collide past Vercel 1-cron/day or Gmail 50/day caps. Don't assume; verify
-- [ ] **Taiwo:** Send Andres screenshot of Resend domain-verification failure page (so Andres can show Megan exactly what's needed on GoDaddy)
+- [x] ~~**Taiwo:** Send Andres screenshot of Resend domain-verification failure page~~ — moot after May 7: Megan stood up `myfitlogic.com` instead of fixing the Cloudflare-locked original
 - [ ] **Taiwo:** Make Siren Beauty **mobile responsive** ASAP; confirm "science" wording fully removed; remove duplicate Siren logo from header; bolden header text + add white shadow for hero-image scroll readability
 - [ ] **Taiwo:** Polish FitLogic — rename `lead_source = "unknown"` → `"initial upload"` in DB; split AI vs manual sequences in campaigns UI; fix click-tracking redirect to use prod URL (not `localhost:3000`)
 - [ ] **Standing rule (Siren Beauty engineering):** No proactive design changes — only deliver items Becky explicitly calls out. Reverses prior bias on this account
@@ -140,20 +150,9 @@ Source: [[raw/email-digest-2026-04-24]]
 - [ ] **Andres:** Wait on [[wiki/people/rashaka-boykins|Rashaka's]] questions; close on $600/yr vs $900/mo
 - [ ] **Apollo data hygiene:** Apr 24 "Joseph" → Roger Wilkinson mismatch; audit sequence first-name mapping before next batch
 
-### 🔥 Carried — Apr 24 marketing + onboarding + license-distribution + FitLogic post-delivery
-Source: [[wiki/meetings/2026-04-24-teams-daily-ops]]
-- [ ] **🔥 Andres + Ablad:** Reach a working agreement on AI-tool adoption pace (Apr 24 argument unresolved)
-- [ ] **🔥 Andres:** Build reproducible demo-video workflow (Clio template). First artifact: `clioremembers.com/demo`
-- [ ] **🔥 Andres:** Redesign in-app onboarding guide for discoverability
-- [ ] **🔥 Adeleke:** Push auto-assign-Moil-360-license from staging → prod
-- [ ] **Jacob:** Rework outbound messaging to be conversion-driven
-- [ ] **HeyGen subscription:** keep + max credits, drop, or replace with ChatGPT image2 + Capcut
-- [ ] **Andres → [[wiki/people/daniel-mann|Daniel D. Mann]]:** acknowledge Michelle-via-Megan hello; open "project together" thread
-- [ ] **Megan ongoing:** forward every meeting invite to Andres (Apr 23 commitment, unverified)
-- [ ] **Megan payment plan:** $500/mo × 3 → $250/mo × 6? Reply outstanding since Apr 19
-
-### 🔥 Carried product/eng debts (Apr 21 firefight residue) — demoted 2026-05-07
-- See [[log.md]] Run 38 demote block (10 items, ages out from active MEMORY at 16-day carry — items still owed but tracked there for archive)
+### 🔥 Carried debts demoted to log.md
+- **Apr 24 carryover** (10 items: Ablad AI-pace, demo-video workflow, in-app onboarding, license auto-assign, conversion-driven outbound, HeyGen decision, Daniel Mann ack, Megan invite-forwarding, Megan $500×3 → $250×6 ask, Joshua redlines/VoyageAustin/Rashaka) — demoted 2026-05-07 (Run 39); see this run's archive block in [[log.md]]
+- **Apr 21 firefight residue** (10 items) — demoted 2026-05-07 (Run 38); see [[log.md]] Run 38 archive block
 
 ---
 
