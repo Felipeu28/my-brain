@@ -5,9 +5,9 @@ tags:
 # AI-Powered Cold Outreach
 
 **Type:** concept
-**Last updated:** 2026-04-12
-**Source:** [[raw/x-bookmarks-2026-04-11]]
-**Related:** [[wiki/moil/gtm]], [[wiki/moil/icp]], [[wiki/concepts/linkedin-gtm]], [[wiki/concepts/smb-ai-audits]]
+**Last updated:** 2026-05-07
+**Source:** [[raw/x-bookmarks-2026-04-11]], [[raw/email-digest-2026-05-06]], [[raw/email-digest-2026-05-07]]
+**Related:** [[wiki/moil/gtm]], [[wiki/moil/icp]], [[wiki/concepts/linkedin-gtm]], [[wiki/concepts/smb-ai-audits]], [[wiki/concepts/content360]], [[wiki/concepts/moil360]]
 
 ---
 
@@ -44,3 +44,26 @@ The key insight from the GTM doc: outbound doesn't work at Moil's price point wi
 3. **SMS test:** Andres texts 10 warm contacts directly about Moil. Compare reply rate to email.
 
 See also [[wiki/concepts/linkedin-gtm]] for the LinkedIn warming layer that makes cold email convert better.
+
+## May 6–7, 2026 — SMB cold-outbound campaign live (Content360 pitch)
+
+Source: [[raw/email-digest-2026-05-06]], [[raw/email-digest-2026-05-07]]
+
+The first SMB-pivot outbound batch began **2026-05-06** and continued **2026-05-07** with ~12+ Content360 pitches sent across construction, real-estate, food-service, and animal-control SMBs. Three rotating subject lines in active test:
+
+| Subject line | Frame | Sample recipients (May 7) |
+|---|---|---|
+| *"30 days of content in 20 minutes"* | Time-savings hook | Brian Anderson (Anderson Roof Repairs), Cynthia Thigpen (Newcastle TX), Jose Mendoza (Axxon Services), Joe Justice (Lanterra Group), Yaniv Dotan (NewEdge RE), Lisa Gallagher (CHG) |
+| *"Most SMB owners tell us the same thing…"* | Pain-mirror hook | Joseph Ortega (Skytex Construction), Gabriel Lopez (BLS Construction Mgmt), Jerry Blaricom (Kari King), Wilson Maclin (Omega Animal Removal), Leonor Ramirez (Barista Kats) |
+| *"Business owners don't expect it to sound this good"* | Voice/brand angle | Savannah Carter (Tiello), Design Dept (Kevin Wood Landscapes), Simon Dockey (Tiello) |
+
+**Operating reads:**
+- This is the **first sustained day-over-day cold outbound campaign at SMB ICP** (vs. the chamber/EDC cold campaign from April). It marks the operational shift from B2G replication → SMB direct.
+- Three subject-line variants under live A/B test — track open and reply rates by variant. The *"Most SMB owners tell us the same thing"* pain-mirror frame is the closest cousin to the @itsalexvacca / @dimitarangg hook patterns above.
+- All sends from `andres@moilapp.com`. **Deliverability risk:** the same address that bounced FitLogic test emails to Gmail spam in April. Watch for reply-rate floor that suggests inbox-placement issues; if response rate < 1%, evaluate domain-warmup or rotation to a secondary outbound domain.
+
+## May 6–7, 2026 — Chamber-breakup follow-ups continuing
+
+Source: [[raw/email-digest-2026-05-07]]
+
+Four *"Should I close this out?"* breakup follow-ups sent **2026-05-07 12:12–12:43 UTC** to silent April chamber/EDC contacts: Hunterdon County Chamber (Christopher Phelan), Point Pleasant Beach Chamber (Carol Vaccaro), UCEDC (Erich Peter), Jefferson County WV Chamber (Heather McIntyre). This is the breakup template (4-of-4) of the [[wiki/concepts/chamber-outreach-2026-04|chamber/EDC cold campaign]] firing on schedule — track which contacts reply to a breakup email vs. which stay silent. Charles DeBow (NBCC) Apr 29 reply established that breakups *do* surface signal from at-most-warm contacts.

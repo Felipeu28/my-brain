@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-05-04
+last_contact: 2026-05-07
 tags:
   - graph/hub
   - person/team
@@ -168,6 +168,14 @@ Source: [[raw/teams-transcript-monday-collaboration-2026-05-04]], [[wiki/meeting
 - **Cost-discipline standing rule adopted live.** Andres' new bar: before pushing any backend feature, ask *"is this the most cost-efficient model that still does the job?"* — explicitly *not* always-cheapest, but always-cost-checked. Andres self-corrected the team's prior $30 ChatGPT 5 spend that should have used GPT-4o-mini
 - **Active-Moil-360-license assignment to Taiwo** today so Taiwo can dogfood the business coach during reading sessions
 - **Weekly Monday cost review** is now a standing agenda item — Gemini, OpenAI, Groq, Grok dashboards walked together. April Groq spend $7. Two-week Gemini spend ~$10. Andres' bar is ~$2/day max per service at current user count
+
+## May 7, 2026 — GCP budget alert: 150% of $20 cap + $19K Gemini-API anomaly
+
+Source: [[raw/email-digest-2026-05-07]]
+
+- **150% budget alert hit on the "Mi cuenta de facturación" GCP account.** Adeleke explained internally at 16:20 UTC: *"I was the one that set the budget alert"* — alert is intentional/configured, not a runaway spend. Andres forwarded the alert to Steve at 16:17 UTC for context
+- **Earlier same-day cost-anomaly alert flagged a $19K spike on the "Gemini API" project.** Andres explicitly connected this to the Clio Gemini-cascade work shipped today (PR #74) — the spike is engineering-attributable, not a billing leak
+- **Continues the May 4 cost-discipline standing rule:** Adeleke's pre-set budget alert *worked* — fired at 150% of cap, prompted internal reconciliation within hours. The Saturday Gemini-spike pattern from Apr 29 is now properly instrumented with budget alerts at the GCP project level
 
 ## April 26, 2026 — High-Value-Asset Model Cost Evaluation Asked
 

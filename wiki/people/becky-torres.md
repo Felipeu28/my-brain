@@ -3,14 +3,14 @@ tags:
   - graph/spoke
   - person/customer
 status: active
-last_contact: 2026-05-06
+last_contact: 2026-05-07
 client: "[[wiki/orgs/siren-beauty]]"
 ---
 # Becky Torres
 
 **Type:** person
-**Last updated:** 2026-05-06
-**Source:** [[raw/email-history-2months-2026-04-12]], [[raw/email-history-6months-2026-04-14]], [[raw/hive-siren-beauty-wellness-strategy-plan]], [[raw/email-digest-2026-04-23]], [[raw/email-digest-2026-04-24]], [[raw/teams-transcript-meeting-to-go-over-ongoing-projects-2026-05-06]]
+**Last updated:** 2026-05-07
+**Source:** [[raw/email-history-2months-2026-04-12]], [[raw/email-history-6months-2026-04-14]], [[raw/hive-siren-beauty-wellness-strategy-plan]], [[raw/email-digest-2026-04-23]], [[raw/email-digest-2026-04-24]], [[raw/teams-transcript-meeting-to-go-over-ongoing-projects-2026-05-06]], [[raw/signal-briefs/signal-brief-2026-05-06]], [[raw/email-digest-2026-05-07]]
 **Related:** [[wiki/orgs/siren-beauty]], [[wiki/moil/customers]], [[wiki/moil/pipeline]], [[wiki/meetings/2026-05-06-andres-taiwo-ongoing-projects]]
 
 ---
@@ -88,6 +88,25 @@ Andres (with Taiwo + Jacob) had sent a *"We received your initial feedback... ex
 **What this means for Moil's delivery posture:** the May 6 *"no proactive design changes without explicit ask"* standing rule (from the [[wiki/meetings/2026-05-06-andres-taiwo-ongoing-projects|Andres × Taiwo session]]) is necessary but not sufficient — Becky also needs **a clear rhythm/format for how she submits feedback** (video upload? Loom? written email? in-person walkthrough?). The Moil-side process clarification is the unblock, not just deferring to her asks.
 
 **Action ownership:** Jacob/Taiwo + Andres need to give Becky a one-line *"here's exactly how this works"* — pick one feedback channel (likely keep the video format she's already using) and confirm the cadence (e.g. *"send videos any time; we ship a build within 48–72 hours; we'll do a 30-min in-person walkthrough at the SIREN space monthly to align on direction"*). In-person walkthroughs are an option Becky implicitly prefers — leverage the local Buda proximity rather than forcing a phone call.
+
+## May 6, 2026 — Daily-correlator: cross-source connection + active flag
+
+Source: [[raw/signal-briefs/signal-brief-2026-05-06]]
+
+The May 6 daily-correlator brief surfaces Becky as the **central unblock of the week** with two analytic frames worth keeping:
+
+- **Cross-source connection:** Becky's two process-confusion emails (14:53, 19:01) landed *before* the Andres × Taiwo internal call locked the *"no proactive design changes until the client explicitly asks"* rule. The rule is therefore a reaction to her confusion, not an independent decision — meaning Andres's reply needs to **ship the rhythm she asked for** (named feedback cadence), not merely the discipline shift.
+- **Active person flag:** Becky hit two source types the same day (email-digest twice, teams once as the subject of the strategic pivot). Signal brief: *"She's signaling that the loop itself is broken — not the deliverable — so the reply must give her a named cadence, not another build."*
+
+**Operating takeaway:** misreading Becky's May 6 emails as a design issue (*more design iterations*) instead of a process issue (*name the cadence*) extends the cycle. The reply must explicitly answer "how do we work together?" — not just push the corrected staging build.
+
+## May 7, 2026 — Andres replied: apology + ask for feedback specifics
+
+Source: [[raw/email-digest-2026-05-07]]
+
+Andres replied to Becky's May 6 process-confusion thread on **May 7 12:18 UTC** — *Re: Website follow up* — apologizing for the accidental weekend push (the wrong staging build that triggered her *"this looks all jumpy"* note) and asking for specifics on what she wants moved. **The reply does not yet ship the named cadence the daily-correlator flagged as the actual unblock** — it apologizes and re-opens the feedback channel without committing to a *"video uploads → 48–72hr build → monthly in-person walkthrough at SIREN"* rhythm. Worth checking whether Becky's next reply re-asks the *"is this a call or in-person?"* question, which would confirm the apology-only reply is insufficient.
+
+`last_contact: 2026-05-06 → 2026-05-07`
 
 ## Connections
 

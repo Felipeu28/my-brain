@@ -3,14 +3,14 @@ github_repo: Moil-Landingpages/BUDAEDC, Moil-Code/buda-hive
 tags:
   - graph/spoke
 status: active
-last_contact: 2026-05-04
+last_contact: 2026-05-07
 owner: "[[wiki/people/jennifer-storm]]"
 ---
 # Buda EDC
 
 **Type:** organization
 **Last updated:** 2026-05-04
-**Source:** [[raw/buda-hive-edc-2026-04-11]], [[raw/hive-buda-hive-sosx-run-of-show]], [[raw/hive-coaching-session-summary]], [[raw/hive-series-based-hive-program]], [[raw/email-digest-2026-04-21]], [[raw/email-digest-2026-04-30]], [[raw/email-digest-2026-05-01]], [[raw/teams-transcript-christine-andres-2026-05-04]], [[raw/teams-transcript-claudia-andrés-2026-05-04]]
+**Source:** [[raw/buda-hive-edc-2026-04-11]], [[raw/hive-buda-hive-sosx-run-of-show]], [[raw/hive-coaching-session-summary]], [[raw/hive-series-based-hive-program]], [[raw/email-digest-2026-04-21]], [[raw/email-digest-2026-04-30]], [[raw/email-digest-2026-05-01]], [[raw/teams-transcript-christine-andres-2026-05-04]], [[raw/teams-transcript-claudia-andrés-2026-05-04]], [[raw/email-digest-2026-05-07]]
 **Related:** [[wiki/concepts/buda-hive]], [[wiki/concepts/aedo]], [[wiki/people/jennifer-storm]], [[wiki/people/shannon-cameron]], [[wiki/people/jacquie-martinez]], [[wiki/people/casey-earley]], [[wiki/people/sarah-miller]], [[wiki/people/joshua-edmond]]
 
 ---
@@ -94,9 +94,11 @@ The Cohort 4 *Professional Service Agreement* round-tripped Apr 21 → May 1 in 
 
 ## TEDC Mid-Year Conference (June 19, 2026)
 
-Source: [[raw/email-digest-2026-05-01]]
+Source: [[raw/email-digest-2026-05-01]], [[raw/email-digest-2026-05-07]]
 
 [[wiki/people/sarah-miller|Sarah Miller]] confirmed Andres is presenting at the **TEDC Mid-Year Conference, Friday June 19 at 8 AM, Hilton Granite Park, Plano TX**. Andres accepted same day. **First Texas Economic Development Council speaking commitment** for Andres — a state-level industry stage that scales the Buda EDC × Moil B2G template beyond Buda's audience.
+
+**May 7 logistics update:** Sarah forwarded the **Hilton reservation confirmation #3467031844** for the Jun-18 night-before stay — booking under Sarah's name with Andres on the room. Andres replied with thanks 22:07 UTC. **Buda EDC is sponsoring travel** — the EDC is treating Andres's TEDC keynote as an EDC-sponsored speaking slot, not a private engagement. Capture as a precedent the next time a TX EDC books Andres to keynote elsewhere.
 
 ## EDC Website / AI Tools Call (Apr 15, 2026)
 

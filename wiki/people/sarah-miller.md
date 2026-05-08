@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-05-01
+last_contact: 2026-05-07
 client: "[[wiki/orgs/buda-edc]]"
 tags:
   - graph/spoke
@@ -9,8 +9,8 @@ tags:
 # Sarah Miller
 
 **Type:** person
-**Last updated:** 2026-05-01
-**Source:** [[wiki/summaries/email-history-2months-2026-04-12]], [[raw/email-digest-2026-05-01]]
+**Last updated:** 2026-05-07
+**Source:** [[wiki/summaries/email-history-2months-2026-04-12]], [[raw/email-digest-2026-05-01]], [[raw/email-digest-2026-05-07]]
 **Related:** [[wiki/orgs/buda-edc]], [[wiki/people/jennifer-storm]], [[wiki/people/jacquie-martinez]], [[wiki/people/casey-earley]]
 
 ---
@@ -28,6 +28,7 @@ Sarah Miller is a [[wiki/orgs/buda-edc|Buda EDC]] staff member who owns license 
 |------|-------|
 | 2026 (pre-Apr) | 3-email thread on *"Re: Buda HIVE Licenses"* — license coordination role at EDC |
 | 2026-05-01 | Confirmed Andres presenting at **TEDC Mid-Year Conference, Friday June 19 at 8 AM, Hilton Granite Park, Plano TX** — Andres accepted same day |
+| 2026-05-07 | Forwarded **Hilton reservation confirmation #3467031844** for Jun-18-2026 (TEDC night-before stay) — Sarah's name on the booking with Andres on the room. Andres replied 22:07 UTC with thanks. **Buda EDC is paying Andres's TEDC travel** — confirms the EDC is treating Andres's TEDC keynote as an EDC-sponsored speaking slot, not a private engagement |
 
 ## Why She Matters
 

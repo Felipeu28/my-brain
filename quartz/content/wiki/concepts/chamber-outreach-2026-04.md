@@ -5,9 +5,9 @@ tags:
 # Chamber & EDC Cold Outreach Campaign — April 2026
 
 **Type:** concept / campaign
-**Last updated:** 2026-04-14
-**Source:** [[raw/email-history-2026-04-12]], [[raw/email-history-2months-2026-04-12]]
-**Related:** [[wiki/moil/gtm]], [[wiki/orgs/buda-edc]], [[wiki/orgs/queen-creek-chamber]]
+**Last updated:** 2026-05-07
+**Source:** [[raw/email-history-2026-04-12]], [[raw/email-history-2months-2026-04-12]], [[raw/email-digest-2026-05-07]]
+**Related:** [[wiki/moil/gtm]], [[wiki/orgs/buda-edc]], [[wiki/orgs/queen-creek-chamber]], [[wiki/concepts/ai-cold-outreach]]
 
 ---
 
@@ -62,3 +62,15 @@ If even 2–3 of these chambers adopt the HIVE model, Moil gets:
 - Built-in user cohorts (chamber members = Moil's ICP)
 - Geographic distribution outside Texas
 - Credibility to raise or pursue larger EDC contracts
+
+## May 7, 2026 — 4-step "Should I close this out?" breakup batch
+
+Source: [[raw/email-digest-2026-05-07]]
+
+Four breakup follow-ups fired **2026-05-07** to chambers/EDCs silent through the original 4-template sequence:
+- **Christopher Phelan** — Hunterdon County Chamber (NJ) — 12:43 UTC
+- **Carol Vaccaro** — Point Pleasant Beach Chamber (NJ) — 12:33 UTC
+- **Erich Peter** — UCEDC (NJ) — 12:22 UTC
+- **Heather McIntyre** — Jefferson County WV Chamber — 12:12 UTC
+
+The breakup is the campaign's signal-extraction tool: *"Should I close this out?"* surfaces last-chance interest from contacts who otherwise would lapse silently. Apr 29 [[wiki/people/adeleke-tolulope|Charles DeBow at NBCC]] precedent (*"directionally aligned…"*) confirms this template *does* generate replies from previously silent contacts. Track: which of the four reply within 7 days vs. confirm silence.

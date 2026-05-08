@@ -1,8 +1,8 @@
 # Moil Brain — Master Index
 
-**Last compiled:** 2026-05-07 (Run 39 — Megan × Andres FitLogic CRM handoff meeting ingested. New meeting page: [[wiki/meetings/2026-05-07-megan-andres-fitlogic-crm-handoff]]. Updated: [[wiki/people/megan-miller]] (Cloudflare workaround → `myfitlogic.com` + `connections@myfitlogic.com` new sender; AI-search inbound producing 4–5 calls/day; new "My Life on Purpose" LLC + coaching-cert course), [[wiki/orgs/fitlogic]] (Resend domain blocker resolved via parallel-domain workaround after 16 days; CRM credentials ship May 8 AM; pricing rewrite + $1,600/60-min IC competitor benchmark), [[wiki/people/michelle-fitlogic]] (next-week in-person walkthrough explicitly targets Michelle as primary trainee), [[wiki/moil/active-projects]] (FitLogic row refreshed to May 7 status), [[MEMORY]] (May 7 7-item block; 3 May 6 items struck through; Apr 24 carryover demoted to log.md). · **Total wiki pages:** 307 · **Raw sources:** 478
+**Last compiled:** 2026-05-08 (Run 40 — email-digest 2026-05-07 + signal-brief 2026-05-06 ingested. **First on-record inbound M&A inquiry**: Chris Gomes / Vision Point Capital. New pages: [[wiki/orgs/vision-point-capital]], [[wiki/people/chris-gomes]]. Updated: [[wiki/people/becky-torres]] (Andres replied May 7 12:18 UTC — apology + ask for specifics; daily-correlator frame: reply doesn't ship the named cadence Becky needs — watch for re-ask), [[wiki/people/megan-miller]] (May 6 silence-anomaly resolved at 3:30 PM CT meeting), [[wiki/people/sarah-miller]] + [[wiki/orgs/buda-edc]] (Hilton Jun 18 reservation #3467031844 confirmed; Buda EDC sponsoring TEDC travel), [[wiki/people/adeleke-tolulope]] (GCP 150% budget alert intentional; $19K Gemini spike attributable to Clio PR #74 — instrumentation working), [[wiki/concepts/ai-cold-outreach]] (first sustained SMB cold-outbound day: 12 pitches across 3 subject-line variants), [[wiki/concepts/chamber-outreach-2026-04]] (4-step *"Should I close this out?"* breakup batch fired May 7), [[MEMORY]] (May 7 6-item block; 2 items struck through; Apr 24 inbox sub-block + Apr 28 inbox compacted). · **Total wiki pages:** 309 · **Raw sources:** 479
 
-**Previous run header:** Run 38 (2026-05-07) — email-digest 2026-05-06 ingested; Becky process-confusion signal; Joshua revised SoW; Heather post-coaching reply; Linda May 7/8 call window; Oscar consolidated Business Plan reply; first SMB-pivot outbound day.
+**Previous run header:** Run 39 (2026-05-07) — Megan × Andres FitLogic CRM handoff meeting ingested. Resend domain blocker resolved via `myfitlogic.com` workaround; CRM credentials ship May 8 AM; new "My Life on Purpose" LLC + coaching-cert course; AI-search inbound producing 4–5 calls/day at FitLogic.
 
 > **Canonical operating truth lives outside the wiki:** if status or architecture notes here conflict with newer operating reality, use `~/My Brain/CURRENT_STATE.md` first.
 
@@ -30,9 +30,9 @@
 | Folder | Count | What's in it |
 |---|---|---|
 | [[wiki/moil/README|moil/]] | 11 | Moil business — positioning, ICP, GTM, customers, competitors, metrics, product roadmap, active-projects |
-| [[wiki/people/README|people/]] | 64 | Personal network — family, friends, customers, collaborators, team |
+| [[wiki/people/README|people/]] | 65 | Personal network — family, friends, customers, collaborators, team |
 | [[wiki/minds/README|minds/]] | 11 | Public AI thought leaders tracked from afar |
-| [[wiki/orgs/README|orgs/]] | 28 | Customer, partner, and prospect organizations |
+| [[wiki/orgs/README|orgs/]] | 29 | Customer, partner, and prospect organizations |
 | [[wiki/concepts/README|concepts/]] | 35 | Frameworks, mental models, products, programs |
 | [[wiki/radar/README|radar/]] | 2 | Append-only changelogs for fast-moving topics |
 | [[wiki/summaries/README|summaries/]] | 21 | One structured summary per raw source |

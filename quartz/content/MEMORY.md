@@ -1,6 +1,6 @@
 # MEMORY — Open Actions & Live Commitments
 
-**Last updated:** 2026-05-07 (Run 39 — Megan × Andres CRM handoff meeting ingested: Resend domain blocker resolved via `myfitlogic.com` workaround; CRM credentials ship May 8 AM; new "My Life on Purpose" LLC + coaching-cert course; AI-search inbound producing 4–5 calls/day at FitLogic. Closes the 16-day Apr 21 Resend block.)
+**Last updated:** 2026-05-08 (Run 40 — email-digest 2026-05-07 + signal-brief 2026-05-06 ingested. **First on-record inbound M&A inquiry**: Chris Gomes / Vision Point Capital. Andres replied to Becky's process-confusion thread (apology, no named cadence yet — watch for re-ask). Hilton Jun 18 TEDC reservation confirmed via Sarah Miller. GCP 150% budget alert fired (intentional; Adeleke set it). First sustained SMB cold-outbound day with 12 pitches across 3 subject-line variants + 4 chamber-breakup follow-ups.)
 **Purpose:** Single source of truth for open action items extracted from ingested raw sources.
 
 > Relationship/concept context: [[index]] · Ingestion history: [[log]]
@@ -10,6 +10,18 @@
 ---
 
 ## 🔥 Immediate — This Week (May 4 – May 10, 2026)
+
+### 🔥 May 7 — Inbound M&A inquiry: Vision Point Capital (FIRST on-record)
+Source: [[raw/email-digest-2026-05-07]], [[wiki/orgs/vision-point-capital]], [[wiki/people/chris-gomes]]
+- [ ] **🔥 Andres:** Decide whether to engage [[wiki/people/chris-gomes|Chris Gomes]] (`chris.gomes@visionpointcapital.com`) on his *"Valuation and EBITDA Multiple for Moil"* inquiry. **First on-record inbound acquisition signal.** Lightweight engage = valuation-multiple benchmark + future option; decline = avoid wasted founder time. Don't ignore — even a polite *"not for sale, but happy to keep in touch"* preserves the relationship
+
+### 🔥 May 7 — Email-digest items requiring action
+Source: [[raw/email-digest-2026-05-07]]
+- [x] ~~**Andres:** Reply to [[wiki/people/becky-torres|Becky's]] May 6 process-confusion thread~~ ✅ **Replied May 7 12:18 UTC** (apology + ask for feedback specifics). **Watch:** reply did *not* ship the named cadence the daily-correlator flagged as the actual unblock — if Becky's next reply re-asks *"is this a call or in-person?"*, the apology-only frame was insufficient and Andres needs to give her a one-line *"video uploads → 48–72hr build → monthly in-person at SIREN"* rhythm
+- [ ] **Andres:** Track replies on the **May 7 chamber-breakup batch** (Hunterdon, Point Pleasant Beach NJ, UCEDC, Jefferson County WV). NBCC Apr 29 precedent says breakups *do* surface signal — score by 7-day reply rate
+- [ ] **Andres:** Watch the **May 7 SMB cold-outbound batch** — first sustained day-over-day SMB campaign with 3 subject-line variants under live A/B test. If reply rate < 1%, evaluate domain-warmup or rotation away from `andres@moilapp.com` (deliverability risk; same address that hit Gmail spam at FitLogic)
+- [x] ~~**Buda EDC / Sarah Miller — Jun-18 hotel logistics**~~ ✅ Hilton reservation #3467031844 confirmed May 7 (Sarah's name, Andres on the room). Buda EDC sponsoring TEDC travel — precedent worth capturing for next EDC-booked keynote
+- [ ] **Adeleke:** GCP 150% budget alert (May 7) was intentional (Adeleke set it). $19K Gemini-API spike connected to PR #74 Clio Gemini-cascade work. **No action required** — instrumentation working as designed; capture as confirmation that May 4 cost-discipline rule + per-project budget alerts are now load-bearing
 
 ### 🔥 May 7 — Megan × Andres CRM handoff (Resend blocker resolved)
 Source: [[wiki/meetings/2026-05-07-megan-andres-fitlogic-crm-handoff]]
@@ -140,18 +152,11 @@ Source: [[raw/email-digest-2026-05-01]], [[raw/signal-briefs/signal-brief-2026-0
 - [ ] **Andres:** Run the [[wiki/people/marilyn-martinez|Marilyn Martinez]] / [[wiki/orgs/nuovo-entertainment|Nuovo]] Website Discussion call. Capture scope; decide site-only vs. Moil 360 conversion
 
 ### 🔥 Apr 28 inbox — Open replies
-- [ ] **🔥 Andres:** Reply to [[wiki/people/john-costilla|John Costilla]] — pick alternate lunch day (Mon/Tue/Wed open)
-- [ ] **Andres:** Reply to [[wiki/people/victor-escamilla|Victor Escamilla]] — revised UDC Update focus-group invite (Apr 27)
-
-### 🔥 Apr 24 inbox — Carryover
-Source: [[raw/email-digest-2026-04-24]]
-- [ ] **🔥 Andres:** Review [[wiki/people/joshua-edmond|Joshua's]] redlined HIVE Strategist PSAs (Apr 24); align on edits before Shannon countersigns
-- [ ] **🔥 Andres:** Reply to Jessica @ VoyageAustin Magazine (interview Apr 24); accept + ask for question list
-- [ ] **Andres:** Wait on [[wiki/people/rashaka-boykins|Rashaka's]] questions; close on $600/yr vs $900/mo
-- [ ] **Apollo data hygiene:** Apr 24 "Joseph" → Roger Wilkinson mismatch; audit sequence first-name mapping before next batch
+- [ ] **🔥 Andres:** Reply to [[wiki/people/john-costilla|John Costilla]] — pick alternate lunch day (Mon/Tue/Wed open); Victor Escamilla UDC Update focus-group invite Apr 27 still open
 
 ### 🔥 Carried debts demoted to log.md
-- **Apr 24 carryover** (10 items: Ablad AI-pace, demo-video workflow, in-app onboarding, license auto-assign, conversion-driven outbound, HeyGen decision, Daniel Mann ack, Megan invite-forwarding, Megan $500×3 → $250×6 ask, Joshua redlines/VoyageAustin/Rashaka) — demoted 2026-05-07 (Run 39); see this run's archive block in [[log.md]]
+- **Apr 24 inbox sub-block** (Joshua redlines, Jessica/VoyageAustin reply, Rashaka close, Apollo Joseph→Roger mismatch) — demoted 2026-05-08 (Run 40); Rashaka still tracked in "Next 2–3 weeks" below
+- **Apr 24 carryover** (10 items) — demoted 2026-05-07 (Run 39); see [[log.md]] Run 39 archive block
 - **Apr 21 firefight residue** (10 items) — demoted 2026-05-07 (Run 38); see [[log.md]] Run 38 archive block
 
 ---
@@ -159,15 +164,14 @@ Source: [[raw/email-digest-2026-04-24]]
 ## 📅 Next 2–3 weeks (Apr 29 – May 12)
 
 - [ ] **Tue May 12** — Christine + Kat meet [[wiki/people/sarah-hive-cohort|Sarah]] (bookstore + wine) — competitive recon; don't disclose Train Depot interest
-- [ ] **May 7** — Renee Simmons / Hays CISD Career Day at CHES — now a multi-business-owner cohort (Salon One Twelve + Allison Pflaum confirmed/checking-in; see Apr 30 block)
+- [x] ~~**May 7** — Renee Simmons / Hays CISD Career Day at CHES~~ — occurred May 7; capture outcomes next run
 - [ ] **Wed May 13, 9–11 AM CT** — Buda EDC × GIS WebTech AI virtual meeting (John Costilla + Michael Cleary)
 - [ ] **Fri Jun 19, 8 AM CT** — **TEDC Mid-Year Conference keynote**, Hilton Granite Park, Plano TX (booked by [[wiki/people/sarah-miller|Sarah Miller]] May 1). First TX statewide EDC speaking slot
 - [ ] **🔥 Helotes EDC** — Moil Partnership Proposal out since Apr 22. **Nudge by ~Apr 29–May 6 if silent.** See [[wiki/orgs/helotes-edc]], [[wiki/people/katherine-silvas]]
 - [ ] **[[wiki/people/daniel-guadiano|Daniel Guadiano]] / Astra Restaurant** — both Apr 22/23 slots proposed went without confirmation; re-propose new slot or close. First hospitality ICP if it closes
 - [ ] **Reply to [[wiki/people/irma-mason|Irma Mason]]** re: Mrs. Unger job-search referral — still open from Apr 19
 - [ ] **🔥 Reply to [[wiki/people/rashaka-boykins|Rashaka Boykins]]** — consolidate answer to Apr 21–22 inbound (LLM marketing + traffic/LinkedIn-IG); close on $600/yr vs $900/mo offered Apr 24
-- [ ] **Re-queue Caroline Mungenast (Birmingham Business Alliance)** — was OOO until Apr 24; she should be back. Re-engage
-- [ ] **Shannon Cameron (Buda EDC)** — open PSA assets she forwarded Apr 21; reply + loop her into broader Moil-EDC context
+- [ ] **Re-queue Caroline Mungenast (Birmingham Business Alliance)** — was OOO until Apr 24; should be back; re-engage. Shannon Cameron PSA assets (Apr 21) also pending reply
 - [ ] **Jacob Centeno referral partnership** — set up lightweight workflow, decide commission/credit model
 - [ ] **Ana Vetencourt (URBANZUELA)** — review Google Doc draft she sent; provide feedback
 - [ ] **Elisa Alaniz follow-up** — Apr 24 phone call slot; outcome not captured — confirm next step or close
@@ -186,7 +190,6 @@ Source: [[raw/email-digest-2026-04-24]]
 - [ ] **Sep 1, 2026** — Buda HIVE training program curriculum jointly with HIVE + Incubator Strategist Team
 - [ ] **Post-Apr 15** — CampaignOS with Jennifer Storm: circle back on MVP scope; Andres offered "little to no cost" — decide commitment level. [[wiki/concepts/campaignos]]
 
-### Demoted (>14 days carried — moved to [[log.md]] 2026-05-06 + 2026-05-07 trim blocks)
 ## 🏗️ Strategic — no hard deadline
 
 - [ ] **Fantelo clarification** — pivot, separate venture, or sub-brand? Consumes engineering time w/ no documented strategy. [[wiki/concepts/fantelo]]
