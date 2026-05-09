@@ -9,8 +9,8 @@ client: "[[wiki/orgs/fitlogic]]"
 # Megan Miller
 
 **Type:** person
-**Last updated:** 2026-05-07
-**Source:** [[raw/imessages-people-2026-04-09]], [[raw/email-history-6months-2026-04-14]], [[raw/teams-transcript-megan-miller-2026-04-21]], [[raw/teams-2026-04-21]], [[raw/email-digest-2026-04-20]], [[raw/email-digest-2026-04-21]], [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/email-digest-2026-04-22]], [[raw/teams-transcript-megan-moil-crm-test-and-delivery-2026-04-29]], [[raw/teams-transcript-meeting-to-go-over-ongoing-projects-2026-05-06]], [[raw/teams-transcript-megan-andres-2026-05-07]], [[raw/signal-briefs/signal-brief-2026-05-06]], [[raw/email-digest-2026-05-07]]
+**Last updated:** 2026-05-09
+**Source:** [[raw/imessages-people-2026-04-09]], [[raw/email-history-6months-2026-04-14]], [[raw/teams-transcript-megan-miller-2026-04-21]], [[raw/teams-2026-04-21]], [[raw/email-digest-2026-04-20]], [[raw/email-digest-2026-04-21]], [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/email-digest-2026-04-22]], [[raw/teams-transcript-megan-moil-crm-test-and-delivery-2026-04-29]], [[raw/teams-transcript-meeting-to-go-over-ongoing-projects-2026-05-06]], [[raw/teams-transcript-megan-andres-2026-05-07]], [[raw/signal-briefs/signal-brief-2026-05-06]], [[raw/email-digest-2026-05-07]], [[raw/signal-briefs/signal-brief-2026-05-07]]
 **Related:** [[wiki/orgs/fitlogic]], [[wiki/moil/customers]], [[wiki/moil/gtm]], [[wiki/concepts/smart-hiring]], [[wiki/concepts/moil360]], [[wiki/people/michelle-fitlogic]], [[wiki/meetings/2026-04-21-megan-fitlogic-working-session]], [[wiki/meetings/2026-04-23-megan-crm-google-setup]], [[wiki/meetings/2026-04-29-megan-fitlogic-crm-delivery]], [[wiki/meetings/2026-05-06-andres-taiwo-ongoing-projects]], [[wiki/meetings/2026-05-07-megan-andres-fitlogic-crm-handoff]]
 
 ---
@@ -202,6 +202,12 @@ Source: [[raw/signal-briefs/signal-brief-2026-05-06]]
 The May 6 daily-correlator flagged Megan as a **silence anomaly** — Andres sent her a Teams invite at 21:02 UTC May 6 for a same-afternoon GoDaddy DNS verification, but no reply or confirmation appeared in May 6 data. Given her pattern through Apr 28–29 (live walkthrough, P0 bug list, brand-DNA work) and the fact that Resend domain verification was the gate on the live demo Andres explicitly wanted to show her, the silent inbox 24h after a same-day invite was unusually quiet — the correlator's read: *"a Thursday morning nudge before the slot drifts."*
 
 **Resolution:** Megan accepted the invite via email **2026-05-07 20:14 UTC** ("Accepted: Megan & Andres @ Thu May 7 3:30pm") and the meeting held that afternoon (3:30–4:55 PM CT). The Cloudflare-locked domain abandoned in favor of `myfitlogic.com` (per [[wiki/meetings/2026-05-07-megan-andres-fitlogic-crm-handoff]]). **The silence anomaly was a calendar latency issue, not a relationship issue** — but the correlator's frame ("worth a Thursday morning nudge") was correct as a hedge.
+
+## 2026-05-07 — Daily-correlator: load-bearing customer of the week
+
+Source: [[raw/signal-briefs/signal-brief-2026-05-07]]
+
+The May 7 daily-correlator flagged Megan as **the load-bearing customer this week**: she surfaces in three source types simultaneously (Teams transcript, email-digest, [2026-05-08 AM] credential-shipping action) and **four downstream commitments — CRM go-live, `myfitlogic.com` provisioning, lab order, in-person training visit — all gate on Andres delivering credentials before her next outbound test.** Single-day cluster of dependencies in a single customer; track delivery slippage carefully because miss = compounding delay across all four threads. *(Cross-source bonus: the same `myfitlogic.com` Cloudflare-workaround that unblocked her also validates a deliverability-hedge architecture for Andres's own SMB cold campaign — see [[wiki/concepts/ai-cold-outreach]].)*
 
 <!-- AUTO-ACTIVITY:start -->
 ## Recent Activity (auto)

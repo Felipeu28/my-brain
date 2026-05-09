@@ -1,6 +1,6 @@
 # MEMORY — Open Actions & Live Commitments
 
-**Last updated:** 2026-05-08 (Run 40 — email-digest 2026-05-07 + signal-brief 2026-05-06 ingested. **First on-record inbound M&A inquiry**: Chris Gomes / Vision Point Capital. Andres replied to Becky's process-confusion thread (apology, no named cadence yet — watch for re-ask). Hilton Jun 18 TEDC reservation confirmed via Sarah Miller. GCP 150% budget alert fired (intentional; Adeleke set it). First sustained SMB cold-outbound day with 12 pitches across 3 subject-line variants + 4 chamber-breakup follow-ups.)
+**Last updated:** 2026-05-09 (Run 41 — signal-brief 2026-05-07 ingested. **Daily-correlator flagged Chris Gomes silence as anomaly** vs Andres's same-day reply cadence — Chris Gomes M&A action upgraded with May 14 deadline. Megan = load-bearing customer of the week (4 dependencies single-day cluster). `myfitlogic.com` Cloudflare-workaround validated as deliverability-hedge architecture for Andres's own SMB cold campaign.)
 **Purpose:** Single source of truth for open action items extracted from ingested raw sources.
 
 > Relationship/concept context: [[index]] · Ingestion history: [[log]]
@@ -12,8 +12,8 @@
 ## 🔥 Immediate — This Week (May 4 – May 10, 2026)
 
 ### 🔥 May 7 — Inbound M&A inquiry: Vision Point Capital (FIRST on-record)
-Source: [[raw/email-digest-2026-05-07]], [[wiki/orgs/vision-point-capital]], [[wiki/people/chris-gomes]]
-- [ ] **🔥 Andres:** Decide whether to engage [[wiki/people/chris-gomes|Chris Gomes]] (`chris.gomes@visionpointcapital.com`) on his *"Valuation and EBITDA Multiple for Moil"* inquiry. **First on-record inbound acquisition signal.** Lightweight engage = valuation-multiple benchmark + future option; decline = avoid wasted founder time. Don't ignore — even a polite *"not for sale, but happy to keep in touch"* preserves the relationship
+Source: [[raw/email-digest-2026-05-07]], [[raw/signal-briefs/signal-brief-2026-05-07]], [[wiki/orgs/vision-point-capital]], [[wiki/people/chris-gomes]]
+- [ ] **🔥 Andres (by May 14):** Send holding reply to [[wiki/people/chris-gomes|Chris Gomes]] (`chris.gomes@visionpointcapital.com`) on his *"Valuation and EBITDA Multiple for Moil"* inquiry. **2026-05-07 daily-correlator flagged silence as anomaly** vs Andres's same-day reply cadence (Becky/Sarah/Adeleke); silence here defaults to *"ignored"* not *"declined gracefully."* Lightweight engage = ask for valuation/EBITDA-multiple benchmark; decline = polite *"not for sale, happy to keep in touch"* — both preserve the data point at zero cost
 
 ### 🔥 May 7 — Email-digest items requiring action
 Source: [[raw/email-digest-2026-05-07]]
