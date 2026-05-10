@@ -2,6 +2,8 @@
 type: claude-code-weekly-rollup
 week_start: 2026-05-03
 session_count: 63
+ingested: true
+ingested_at: 2026-05-10
 ---
 # Claude Code — Week of 2026-05-03
 

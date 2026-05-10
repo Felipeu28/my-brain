@@ -2,7 +2,7 @@
 tags:
   - graph/leaf
 type: hot-cache
-last_updated: 2026-05-09
+last_updated: 2026-05-10
 ---
 # Brain Hot Cache
 
@@ -37,6 +37,10 @@ Updated automatically by:
 ## Recent Queries
 
 <!-- ENTRIES:query -->
+- 2026-05-10 18:15 — Session end: [Brain/Auto] Pull today's Microsoft Teams meeting transcripts and add them to the Brain.  1. … — 25 events
+- 2026-05-10 13:24 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 68 edits
+- 2026-05-10 13:21 — Session end: [Clio] once. a story is created they are not saved, also the UX for stories for all age… — 1 chapters · 7 new files · 53 edits · 6 commits
+- 2026-05-10 12:01 — Session end: [Brain/Auto] You are Andres's plan radar. Every day at noon you scan recent Brain activity an… — 1 new files
 - 2026-05-09 21:14 — Session end: [Clio] once. a story is created they are not saved, also the UX for stories for all age… — 1 chapters · 7 new files · 52 edits · 5 commits
 - 2026-05-09 21:14 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 68 edits
 - 2026-05-09 20:58 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 66 edits
@@ -53,10 +57,6 @@ Updated automatically by:
 - 2026-05-09 18:07 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 56 edits
 - 2026-05-09 18:04 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 56 edits
 - 2026-05-09 18:04 — Session end: [Clio] Analazyse and review our entire bilingual claim, then create the full implementa… — 28 events
-- 2026-05-09 14:44 — Session end: [Clio] once. a story is created they are not saved, also the UX for stories for all age… — 28 events
-- 2026-05-09 14:44 — Session end: [Clio] Analazyse and review our entire bilingual claim, then create the full implementa… — 20 events
-- 2026-05-09 12:01 — Session end: [Brain/Auto] You are Andres's plan radar. Every day at noon you scan recent Brain activity an… — 1 new files
-- 2026-05-09 08:44 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 45 edits
 <!-- /ENTRIES:query -->
 
 ## Recent Saves
