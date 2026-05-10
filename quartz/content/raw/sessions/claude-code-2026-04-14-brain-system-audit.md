@@ -1,19 +1,17 @@
 ---
 type: claude-code-session
 session_id: 70d9b366-0845-4db1-809c-fa64dde33a36
-project: Brain/MyBrain
+project: "Brain/MyBrain"
 date: 2026-04-14
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain/70d9b366-0845-4db1-809c-fa64dde33a36.jsonl
-ingested: true
-ingested_at: 2026-05-04
 ---
 # Claude Code Session — Brain System Audit
 
 **Date:** 2026-04-14 (session ran 2026-04-14T18:37 → )
 **Project:** Brain/MyBrain
 **Duration:** None min
-**Volume:** 28 user messages · 243 assistant responses · 621 tool calls
+**Volume:** 32 user messages · 256 assistant responses · 644 tool calls
 
 ## Chapters
 
@@ -40,6 +38,7 @@ ingested_at: 2026-05-04
 - Claude Code session ingestion
 - Top 30 entity audit + dashboard nav
 - Phase 3: Directory hub
+- iMessage ingestion pipeline
 
 ## Ask
 
@@ -71,10 +70,11 @@ ingested_at: 2026-05-04
 - feat: Claude Code session ingestion — backfill 11 sessions + weekly rollup
 - feat: Phase 1 — top 30 audit critical gap fixes
 - feat: Phase 3 — Directory hub + dashboard quick-access nav
+- feat: iMessage ingestion pipeline (FDA-gated)
 
 ## Files touched
 
-**Created (61):**
+**Created (64):**
   - `/Users/jarvisurrego/My Brain/pi-workspace/github-repos.yaml`
   - `/Users/jarvisurrego/My Brain/pi-workspace/bin/github-activity.sh`
   - `/Users/jarvisurrego/My Brain/pi-workspace/bin/daily-email-digest.sh`
@@ -115,13 +115,13 @@ ingested_at: 2026-05-04
   - `/Users/jarvisurrego/My Brain/knowledge-base/wiki/projects/kyle-buda-spotlight.md`
   - `/Users/jarvisurrego/My Brain/knowledge-base/wiki/projects/vox-trends.md`
   - `/Users/jarvisurrego/My Brain/knowledge-base/wiki/projects/campaign-control.md`
-  - ...and 21 more
+  - ...and 24 more
 
 **Edited (2):**
   - `/Users/jarvisurrego/My Brain/knowledge-base/scripts/teams_ingest.sh`
   - `/Users/jarvisurrego/My Brain/knowledge-base/wiki/meetings/2024-12-03-daniela-castillo-partner-exploration.md`
 
-## Wiki entities referenced (49)
+## Wiki entities referenced (56)
 
 - [[wiki/andres/ANDRES]]
 - [[wiki/concepts/buda-hive]]
@@ -150,6 +150,7 @@ ingested_at: 2026-05-04
 - [[wiki/orgs/meridian-buda]]
 - [[wiki/orgs/organically-whole]]
 - [[wiki/orgs/pure-serenity]]
+- [[wiki/orgs/siren-beauty]]
 - [[wiki/orgs/titan-tech]]
 - [[wiki/orgs/txor]]
 - [[wiki/orgs/zoiwell]]
@@ -169,12 +170,11 @@ ingested_at: 2026-05-04
 - [[wiki/people/roxana-yglesias]]
 - [[wiki/people/travis-sutherland]]
 - [[wiki/people/zachary-barker]]
+- [[wiki/projects/connectex]]
 - [[wiki/projects/fantelo]]
-- [[wiki/projects/magical-reading-adventures]]
-- [[wiki/summaries/x-bookmarks-2026-04-11]]
+- [[wiki/projects/fitlogic]]
+- ...and 6 more
 
 ## Final user direction
 
-From our top 30 people, clients, orgs,  let's make sure we have all of their full wikis and all the connections. Make sure they are all wired correctly. Also is there a way for me to have a clients and orgs direct access on the main dashboard page of the wiki? 
-
-Reserach, analyze, plan then execute
+its done

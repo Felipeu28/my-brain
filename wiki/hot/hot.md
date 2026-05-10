@@ -2,7 +2,7 @@
 tags:
   - graph/leaf
 type: hot-cache
-last_updated: 2026-05-08
+last_updated: 2026-05-09
 ---
 # Brain Hot Cache
 
@@ -37,26 +37,26 @@ Updated automatically by:
 ## Recent Queries
 
 <!-- ENTRIES:query -->
-- 2026-05-08 09:02 — Q: "What are the 3 most important things I should focus on today? Consider: open dea" → # Todays Top 3 — Friday, May 8, 2026
-- 2026-05-08 09:02 — Session end: [Brain/KB] You are the Moil Brain query engine. Answer this question using the Brain's know… — 21 events
-- 2026-05-08 09:01 — Session end: [Brain/Auto] You are the Moil Brain's daily cross-source intelligence analyst.  You are readi… — 9 events
-- 2026-05-08 09:00 — Session end: [Brain/KB] You are the Moil Brain KB Agent. Ingest these unprocessed raw files into wiki pa… — 2 new files · 31 edits
-- 2026-05-08 08:49 — Session end: [Brain/Auto] Run the morning briefing. Execute these steps:  1. Fetch today's calendar: bash … — 1 new files
-- 2026-05-08 08:23 — Session end: [Clio] Base directory for this skill: /Users/jarvisurrego/.claude/skills/gstack  <!-- A… — 9 new files · 15 edits · 4 commits
-- 2026-05-08 08:14 — Session end: [Clio] Base directory for this skill: /Users/jarvisurrego/.claude/skills/gstack  <!-- A… — 6 new files · 13 edits · 3 commits
-- 2026-05-08 08:02 — Session end: [Clio] Base directory for this skill: /Users/jarvisurrego/.claude/skills/gstack  <!-- A… — 5 edits · 1 commits
-- 2026-05-08 07:58 — Session end: [Clio] Base directory for this skill: /Users/jarvisurrego/.claude/skills/gstack  <!-- A… — 5 edits
-- 2026-05-08 07:51 — Session end: [Clio] Base directory for this skill: /Users/jarvisurrego/.claude/skills/gstack  <!-- A… — 70 events
-- 2026-05-07 20:00 — Session end: [Clio] Let's create a new video about the parents side of clio, you can use browser, I … — 61 new files · 64 edits
-- 2026-05-07 19:31 — Session end: [Brain/Auto] You are Andres Urrego's editor. Every evening you distill his X bookmarks from t… — 1 new files
-- 2026-05-07 18:40 — Session end: [Clio] Parallel track: adopt Garry Tan's `gstack` pattern for Clio dev velocity. Tan pu… — 4 chapters · 39 new files · 84 edits · 36 commits
-- 2026-05-07 18:32 — Session end: [Brain/Auto] Read these two JSON files of today's email activity and create a structured Brai… — 1 new files
-- 2026-05-07 18:27 — Session end: [Brain/KB] Check for any new files in raw/ and raw/onedrive-transcripts/ that haven't been … — 1 new files · 19 edits · 1 commits
-- 2026-05-07 18:22 — Session end: [Clio] Parallel track: adopt Garry Tan's `gstack` pattern for Clio dev velocity. Tan pu… — 4 chapters · 38 new files · 84 edits · 35 commits
-- 2026-05-07 18:18 — Session end: [Brain/Auto] Pull today's Microsoft Teams meeting transcripts and add them to the Brain.  1. … — 1 new files
-- 2026-05-07 18:01 — Session end: [Clio] Parallel track: adopt Garry Tan's `gstack` pattern for Clio dev velocity. Tan pu… — 4 chapters · 38 new files · 84 edits · 35 commits
-- 2026-05-07 17:52 — Session end: [Clio] Parallel track: adopt Garry Tan's `gstack` pattern for Clio dev velocity. Tan pu… — 4 chapters · 36 new files · 79 edits · 34 commits
-- 2026-05-07 17:21 — Session end: [Clio] Parallel track: adopt Garry Tan's `gstack` pattern for Clio dev velocity. Tan pu… — 4 chapters · 36 new files · 79 edits · 34 commits
+- 2026-05-09 21:14 — Session end: [Clio] once. a story is created they are not saved, also the UX for stories for all age… — 1 chapters · 7 new files · 52 edits · 5 commits
+- 2026-05-09 21:14 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 68 edits
+- 2026-05-09 20:58 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 66 edits
+- 2026-05-09 20:54 — Session end: [Clio] Analazyse and review our entire bilingual claim, then create the full implementa… — 2 new files · 17 edits · 1 commits
+- 2026-05-09 20:53 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 66 edits
+- 2026-05-09 20:47 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 65 edits
+- 2026-05-09 20:40 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 62 edits
+- 2026-05-09 20:37 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 61 edits
+- 2026-05-09 20:35 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 61 edits
+- 2026-05-09 19:31 — Session end: [Brain/Auto] You are Andres Urrego's editor. Every evening you distill his X bookmarks from t… — 1 new files
+- 2026-05-09 18:23 — Session end: [Brain/KB] Check for any new files in raw/ and raw/onedrive-transcripts/ that haven't been … — 13 edits · 1 commits
+- 2026-05-09 18:15 — Session end: [Brain/Auto] Pull today's Microsoft Teams meeting transcripts and add them to the Brain.  1. … — 21 events
+- 2026-05-09 18:10 — Session end: [Clio] once. a story is created they are not saved, also the UX for stories for all age… — 2 new files · 15 edits
+- 2026-05-09 18:07 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 56 edits
+- 2026-05-09 18:04 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 56 edits
+- 2026-05-09 18:04 — Session end: [Clio] Analazyse and review our entire bilingual claim, then create the full implementa… — 28 events
+- 2026-05-09 14:44 — Session end: [Clio] once. a story is created they are not saved, also the UX for stories for all age… — 28 events
+- 2026-05-09 14:44 — Session end: [Clio] Analazyse and review our entire bilingual claim, then create the full implementa… — 20 events
+- 2026-05-09 12:01 — Session end: [Brain/Auto] You are Andres's plan radar. Every day at noon you scan recent Brain activity an… — 1 new files
+- 2026-05-09 08:44 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 45 edits
 <!-- /ENTRIES:query -->
 
 ## Recent Saves
