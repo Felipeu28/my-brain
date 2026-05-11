@@ -1,17 +1,17 @@
 ---
 github_repo: Moil-Landingpages/BUDAEDC, Moil-Code/buda-hive
 tags:
-  - graph/spoke
+  - graph/hub
 status: active
-last_contact: 2026-05-07
+last_contact: 2026-05-11
 owner: "[[wiki/people/jennifer-storm]]"
 ---
 # Buda EDC
 
 **Type:** organization
-**Last updated:** 2026-05-04
-**Source:** [[raw/buda-hive-edc-2026-04-11]], [[raw/hive-buda-hive-sosx-run-of-show]], [[raw/hive-coaching-session-summary]], [[raw/hive-series-based-hive-program]], [[raw/email-digest-2026-04-21]], [[raw/email-digest-2026-04-30]], [[raw/email-digest-2026-05-01]], [[raw/teams-transcript-christine-andres-2026-05-04]], [[raw/teams-transcript-claudia-andrés-2026-05-04]], [[raw/email-digest-2026-05-07]]
-**Related:** [[wiki/concepts/buda-hive]], [[wiki/concepts/aedo]], [[wiki/people/jennifer-storm]], [[wiki/people/shannon-cameron]], [[wiki/people/jacquie-martinez]], [[wiki/people/casey-earley]], [[wiki/people/sarah-miller]], [[wiki/people/joshua-edmond]]
+**Last updated:** 2026-05-11
+**Source:** [[raw/buda-hive-edc-2026-04-11]], [[raw/hive-buda-hive-sosx-run-of-show]], [[raw/hive-coaching-session-summary]], [[raw/hive-series-based-hive-program]], [[raw/email-digest-2026-04-21]], [[raw/email-digest-2026-04-30]], [[raw/email-digest-2026-05-01]], [[raw/teams-transcript-christine-andres-2026-05-04]], [[raw/teams-transcript-claudia-andrés-2026-05-04]], [[raw/email-digest-2026-05-07]], [[raw/teams-transcript-monday-collaboration-2026-05-11]]
+**Related:** [[wiki/concepts/buda-hive]], [[wiki/concepts/aedo]], [[wiki/people/jennifer-storm]], [[wiki/people/shannon-cameron]], [[wiki/people/jacquie-martinez]], [[wiki/people/casey-earley]], [[wiki/people/sarah-miller]], [[wiki/people/joshua-edmond]], [[wiki/orgs/perseus-defense]]
 
 ---
 
@@ -114,6 +114,18 @@ John Costilla emailed Andres ("Call today") about an EDC website project and ask
 - [[wiki/people/christine-stjohn|Christine St John]] + [[wiki/people/kat-eyers|Kat Eyers]] — wine-shop concept (HIVE Cohort 4; both completing Moil 21-Q business plans individually with first 30 days free)
 - [[wiki/people/claudia-sanchez|Claudia Sanchez]] — [[wiki/orgs/nativa-medspa|Nativa Med Spa]] (HIVE Cohort 4; ribbon-cutting May 21)
 - Multiple cohort graduates using Moil platform licenses
+
+## 2026-05-11 — Magazine spread + Excellence in Innovation finalist + Perseus referral
+
+Source: [[raw/teams-transcript-monday-collaboration-2026-05-11]], [[wiki/meetings/2026-05-11-monday-collaboration]]
+
+Three compounding artifacts in a single week, all sourced from the [[wiki/people/jennifer-storm|Jennifer Storm]] relationship:
+
+1. **Buda EDC magazine published with 2 pages on Moil** — one on the [[wiki/concepts/buda-hive|HIVE]] program, one on Moil itself. **15,000 distribution; every Buda business gets one.** First time a city EDC publication has featured Moil at this scale. Andres on the call: *"a whole city is validating these guys — that is huge … more than any other piece of content we could ever create."* Andres picks up a clean copy 2026-05-11; Ablad to build content around it.
+2. **Moil ("Moil Lab") was a finalist in the "Excellence in Innovation" category** at the Buda business event in 2026 — same category that **[[wiki/orgs/perseus-defense|Perseus Defense]] won.** Moil won "Entrepreneurship Spirit" at the same event in 2025. Andres' read: institutional validation worth more than any organic content Moil could produce.
+3. **Jennifer brokered the [[wiki/orgs/perseus-defense|Perseus Defense]] introduction** for [[wiki/projects/clio|Clio]]'s YC referral path. Email landed a 3-minute reply; meeting Tue 2026-05-12 8 AM CT in Buda with Jennifer present.
+
+**$500K Perseus incentive precedent.** The EDC gave Perseus $500K in incentives in December 2025 to bring HQ to Buda. First publicly captured precedent of the EDC's incentive-led startup recruitment program at this scale; useful as a benchmark when discussing what the EDC is willing to offer for high-conviction founders.
 
 ## Train Depot opportunity (downtown Buda)
 

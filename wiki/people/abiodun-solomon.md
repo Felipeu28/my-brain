@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-05-04
+last_contact: 2026-05-11
 tags:
   - graph/spoke
   - person/team
@@ -8,7 +8,7 @@ tags:
 # Abiodun Adekanmi (Ablad)
 
 **Type:** person
-**Last updated:** 2026-04-26
+**Last updated:** 2026-05-11
 **Source:** `raw/meetings/` (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-24]] (38 messages in Moil Marketing, Apr 24), [[raw/teams-2026-04-26]] (12 messages in Moil Marketing, Apr 26)
 **Related:** [[wiki/people/jacob-oluwole]], [[wiki/moil/positioning]], [[wiki/people/inna-benyukhis]]
 
@@ -152,6 +152,16 @@ Two days after the Apr 24 AI-adoption clash, the working relationship reset in t
 - **IG landscape tactic.** Abiodun: *"There is a way we can use it on IG even though it's in landscape. Viewers will rotate their phones if we prompt them right"* (8:09 PM) → *"Viewers will rotate their phones if we prompt them right"* (8:09 PM). First explicit format-routing strategy from the marketing side — landscape source video can be deployed on IG with the right viewer prompt, no re-render needed.
 
 **Pattern:** The Apr 24 *"you just won't hear it from me anymore"* disengagement is now bracketed by a 48-hour collaborative reset. The Clio demo video (Apr 24) → Moil video (Apr 26) sequence shows the founder-built artifact pipeline becoming a shared asset rather than a wedge. Marketing-department-closure threat has not recurred.
+
+## May 11, 2026 — Holiday-aware planning + drive-check rule + Buda EDC magazine asset
+
+Source: [[raw/teams-transcript-monday-collaboration-2026-05-11]], [[wiki/meetings/2026-05-11-monday-collaboration]]
+
+- **Standing rule, holiday-aware planning.** Andres: *"Ablad needs to think beyond what's in front of him — we all need to have a little bit of beyond what's written down as the responsibilities and say, huh, I wonder what holidays we have this week before I go ahead and create everything."* Trigger: missed [[wiki/people/inna-benyukhis|Inna]]'s May 8 Mother's Day post. Going forward: weekly content list cross-checked against the holiday calendar.
+- **New drive-check rule.** Whenever Inna signals an upload, **check her Google Drive immediately, not later in the week.** Plan the upcoming week's posts around what's there. When an uploaded video doesn't fit the current week, *email Inna asking to slide it to the next week — never silently skip*.
+- **Long-running phone-login blocker named again.** Ablad has been unable to sign into `Ablad@moilapp.com` on his phone for an extended period — *"Yes, it's been very, very long. We attempted a number of times."* Andres assigned the team to contact Microsoft this week if needed. This is the third surfacing of this blocker; track as a hard owner-this-week item.
+- **Buda EDC magazine = primary marketing asset for the week.** Andres delivers a clean photographed copy today (May 11); Ablad to build content around the **2-page Moil + HIVE spread** (15K distribution) plus the **Excellence in Innovation finalist** news. Andres' framing: *"a whole city is validating these guys — that is huge … more than any other piece of content we could ever create."* See [[wiki/orgs/buda-edc]] for context.
+- **Inna missed-video post-mortem.** Ablad's account: he refreshed Inna's drive Monday/Tuesday/Wednesday before building the week's content; Inna then reorganized the folder, which is when the May 8 Mother's Day video (uploaded May 1) appeared. Pattern: drive reorg cadence ≠ content-build cadence — fix is the immediate-check rule above.
 
 ## Gaps
 

@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-05-04
+last_contact: 2026-05-11
 tags:
   - graph/spoke
   - person/customer
@@ -9,9 +9,17 @@ client: "[[wiki/orgs/connectex]]"
 # Mark Polanco
 
 **Type:** person
-**Last updated:** 2026-04-30
-**Source:** [[raw/imessages-people-2026-04-09]], [[raw/email-history-2months-2026-04-12]], [[raw/email-digest-2026-04-27]], [[raw/teams-transcript-mark-polanco-andres-2026-04-28]], [[raw/email-digest-2026-04-29]]
-**Related:** [[wiki/orgs/connectex]], [[wiki/moil/customers]], [[wiki/moil/pipeline]], [[wiki/meetings/2026-04-28-mark-polanco-connectex-walkthrough]]
+**Last updated:** 2026-05-11
+**Source:** [[raw/imessages-people-2026-04-09]], [[raw/email-history-2months-2026-04-12]], [[raw/email-digest-2026-04-27]], [[raw/teams-transcript-mark-polanco-andres-2026-04-28]], [[raw/email-digest-2026-04-29]], [[raw/teams-transcript-monday-collaboration-2026-05-11]]
+**Related:** [[wiki/orgs/connectex]], [[wiki/moil/customers]], [[wiki/moil/pipeline]], [[wiki/meetings/2026-04-28-mark-polanco-connectex-walkthrough]], [[wiki/meetings/2026-05-11-monday-collaboration]]
+
+---
+
+## 2026-05-11 update — First Connectex payment expected next week
+
+Source: [[raw/teams-transcript-monday-collaboration-2026-05-11]]
+
+Andres confirmed on the May 11 Monday Collaboration call that **Mark's first Connectex payment is expected next week** (~May 18 window). Quote: *"Mark will probably pay us sometime next week, the first payment."* This is the first explicit payment-timing signal since the Apr 9 close. Kicks off the "1 down + 3 quarterly over 9 months" cadence agreed in the [[wiki/meetings/2026-04-28-mark-polanco-connectex-walkthrough|Apr 28 walkthrough]]. Together with the city contract payment (delayed by city-lawyer redlining), this is what unlocks Andres catching [[wiki/people/jacob-oluwole|Jacob]] + [[wiki/people/taiwo-ola-balogun|Taiwo]] up on missed pay.
 
 ---
 

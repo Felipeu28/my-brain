@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-05-06
+last_contact: 2026-05-11
 tags:
   - graph/spoke
   - person/team
@@ -8,7 +8,7 @@ tags:
 # Taiwo Ola-Balogun
 
 **Type:** person
-**Last updated:** 2026-05-06
+**Last updated:** 2026-05-11
 **Source:** `raw/meetings/` (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026), [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/teams-2026-04-24]] (9 messages 1:1, Apr 24), [[raw/teams-2026-04-26]] (4 messages 1:1, Apr 26), [[raw/teams-transcript-website-update-review-call-2026-04-28]], [[raw/teams-transcript-mark-polanco-andres-2026-04-28]], [[raw/teams-transcript-monday-collaboration-2026-05-04]], [[raw/teams-transcript-meeting-to-go-over-ongoing-projects-2026-05-06]]
 **Related:** [[wiki/people/adeleke-tolulope]], [[wiki/people/jacob-oluwole]], [[wiki/moil/product-roadmap]], [[wiki/meetings/2026-04-23-megan-crm-google-setup]], [[wiki/meetings/2026-05-06-andres-taiwo-ongoing-projects]]
 
@@ -200,10 +200,20 @@ Source: [[raw/teams-transcript-meeting-to-go-over-ongoing-projects-2026-05-06]],
 - **Built and demoed end-to-end CRM features that work.** WYSIWYG email editor with bold/italics/links/attachments + variable selector (per-contact personalization), batch-loading 500 contacts at a time, open/click tracking with logs, business-card scan, Resend → Gmail-API silent failover. Andres's verdict on the analytics view: *"Awesome. You did awesome here, man. Well done."* — first unambiguous "well done" Andres has given Taiwo in the captured transcripts
 - **Outlook access blocked Taiwo from reading Andres's project-files document.** Self-reported at the start of the call; resolved by Andres sending project files / Inna project link directly via DM. Pattern: Microsoft 365 collaboration friction continues to slow Taiwo's onboarding to Andres's docs
 
+## May 11, 2026 — Moil-owned-email discipline + GitHub/Vercel migration commitment
+
+Source: [[raw/teams-transcript-monday-collaboration-2026-05-11]], [[wiki/meetings/2026-05-11-monday-collaboration]]
+
+- **Personal-Gmail discipline gap surfaced.** Taiwo had created a separate FitLogic Supabase under his personal Gmail because he couldn't access the Moil-owned one. Andres' rule restated: *"if you create a new account, tell us — we have 10 @moilapp.com emails, we shouldn't be using personal Gmail accounts, especially with client data."* Pattern: Taiwo solved the immediate access problem locally rather than asking Andres for the existing Moil-owned credential. Same shape as the Apr 28 / May 4 / May 6 repo-discipline pattern — solve-locally bias.
+- **Volunteered to centralize all FitLogic infrastructure on the new Moil-owned sales email.** Migrating GitHub access + Vercel access from his personal Gmail to the new Moil sales email — *"that's actually the best option, so everything is on one email."* Andres: *"Thank you, Taiwo. Because you're choosing to do the right thing over the amount of work it could take."* First time Taiwo has unprompted-volunteered to take the higher-effort path on credential discipline.
+- **Will document and share the new Supabase he created** so it's not siloed in his account.
+- **2FA blocker today** — needs Megan to read the 2FA code from the new sales email so he can finish wiring. Andres texting Megan in-call to coordinate.
+- **HIPAA boundary internalized** — confirmed his understanding that the Moil-built CRM holds sales prospects only; converted patients exit the Moil system back to Megan's clinical CRM. *"Inbox is going to be loaded from this email"* (the new Moil sales email).
+
 ## Contact
 
 - Teams: Taiwo Ola Balogun
-- Personal Gmail: `taiwotriumphant@gmail.com` (disclosed Apr 20, 2026)
+- Personal Gmail: `taiwotriumphant@gmail.com` (disclosed Apr 20, 2026 — being deprecated for Moil work May 11)
 
 ## Gaps
 

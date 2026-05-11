@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-05-04
+last_contact: 2026-05-11
 tags:
   - graph/hub
   - person/team
@@ -8,7 +8,7 @@ tags:
 # Jacob Oluwole
 
 **Type:** person
-**Last updated:** 2026-05-01
+**Last updated:** 2026-05-11
 **Source:** `raw/meetings/` (multiple meeting transcripts), [[raw/email-history-2months-2026-04-12]], [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026), [[raw/teams-2026-04-24]] (39 messages 1:1, Apr 24), [[raw/email-digest-2026-04-27]], [[raw/teams-transcript-website-update-review-call-2026-04-28]]
 **Related:** [[wiki/moil/positioning]], [[wiki/people/adeleke-tolulope]], [[wiki/people/abiodun-solomon]], [[wiki/people/taiwo-ola-balogun]]
 
@@ -186,6 +186,16 @@ Source: [[raw/email-digest-2026-05-01]]
 
 - **14:59 UTC — Sent Inna two updated versions** of the podcast videos on the *"Re: 2 podcast videos"* thread — *with* and *without* the rotate feature, *"ums" removed, silent fillers cleaned while keeping flow*. Continues the 3-step approval-loop workflow on Inna's Apr 23 directive (Apr 27 originals → Apr 29 *"taking longer than expected"* status → May 1 re-cut delivered). **No reply from [[wiki/people/inna-benyukhis|Inna]] in the May 1 window** — silence anomaly continues.
 - **17:36 UTC — Re: Quick Reminder: Resend Invite Links to Kim Dowers** — confirmed Kim resent the invites; offered further help. Closes Jacob's named QC Chamber post-webinar onboarding ownership thread (now: lead resolved, customer self-served, Jacob is the resilient point of contact).
+
+## May 11, 2026 — Inna→Moil reallocation; 10-DM-conversations-a-day rule
+
+Source: [[raw/teams-transcript-monday-collaboration-2026-05-11]], [[wiki/meetings/2026-05-11-monday-collaboration]]
+
+- **Standing rule, restated as a hard reallocation:** Inna gets exactly the contracted 4 posts/week (2 images + 2 videos). The rest of Jacob's week is Moil. *"Inna doesn't pay us enough for me to pay both of you to spend half your week on her."*
+- **New outbound rule:** **10 real DM conversations a day for Moil, no copy-paste.** Andres: *"Jump on people's DMs — real conversations. We need to stop the copy-paste. Do 10 a day, 10 real conversations a day with people, and move on from the copy-paste that hasn't brought us any results."* — first time Andres has named a specific quantitative outbound target for Jacob; replaces the Apr 24 *"none of them really sell"* post-mortem with a per-day cadence.
+- **Stop above-and-beyond on Inna's account.** Andres: *"Instead of going and finding what else to do for Inna, I need you to go find what else to do for Moil."* Closes the long-running pattern (Apr 21 spam-folder thread, Apr 24 conversion-strategy coaching, Apr 28 Inna QA ownership) where Jacob was incrementally absorbing more Inna scope than the contract priced for.
+- **May 8 Inna Mother's Day video missed.** Inna uploaded the Mother's Day video on **May 1** for posting on **May 8**; the team didn't catch it during their Saturday May 2 weekly content build because the team was checking the drive when there was nothing there yet. Inna emailed at 8:33 AM on May 11 asking why it wasn't posted. Jacob to post it today (Mon May 11). Process change captured under Ablad's update — *check the drive immediately whenever Inna signals an upload, plan upcoming week around it; never silently skip*.
+- **Pay catch-up promised.** Andres confirmed the city contract payment is delayed by city-lawyer redlining; both missed months will be paid in full as soon as it lands. [[wiki/people/mark-polanco|Mark Polanco]]'s first payment expected next week. Andres: *"this is not like other times where it's like, okay guys, I don't know what we're gonna do. No, the money's coming, we just don't have it yet."*
 
 ## Gaps
 

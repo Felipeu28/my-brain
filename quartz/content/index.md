@@ -1,8 +1,8 @@
 # Moil Brain — Master Index
 
-**Last compiled:** 2026-05-11 (Run 43 — 65 Claude Code session-log files in `quartz/content/raw/sessions/` marked ingested as **low-signal session batch — log only** per established precedent (Runs 29, 31, 42). Window 2026-04-14 → 2026-05-10. **~58 routine automation sessions** (morning briefing, plan radar, daily correlator, KB-agent ingest, Teams pull, email-digest reader, X-bookmarks parser, entity-extraction, strategy-operator, editor) — each one was the *runner* of an artifact already ingested by its own Run number. **~7 substantive engineering sessions** (Clio Phase 0 subtraction, Stories ship, bilingual claim audit, gstack voice fix, clio-characters side project, accelerator strategy doc, clio-video Remotion repo) — substance already flows through `wiki/projects/clio.md § Last 7 days` via the daily `bin/project-activity.sh` auto-update, and the accelerator/video work lives in external repos (`~/clio-video`, Accelerator Applications System folder) outside the wiki's ingest scope. No new wiki pages, no new MEMORY actions. · **Total wiki pages:** 309 · **Raw sources:** 543
+**Last compiled:** 2026-05-11 (Run 44 — Monday Collaboration 2026-05-11 ingested. **Perseus Defense YC referral meeting locked Tue May 12 8 AM CT** via [[wiki/people/jennifer-storm|Jennifer Storm]] — first documented YC-alumni-referral attempt for [[wiki/projects/clio|Clio]]. **Buda EDC magazine spread (15K distribution)** with 2 Moil pages + **Moil Lab "Excellence in Innovation" finalist** (won by Perseus in same category) = primary marketing asset this week. **Inna scope reset to 4 posts/week** (apology + scope clarification sent in-call) — first explicit on-record customer-scope cap. **Jacob outreach reallocation:** 10 real DM conversations/day for Moil, no copy-paste — first quantitative outbound target. **Taiwo migrating GitHub + Vercel** under one Moil-owned sales email. **Mark Polanco first Connectex payment expected ~May 18.** Two internal-infra audits (X-bookmarks permanent fix, ingestion deep audit) also marked ingested — operational, no wiki promotion per Run 31 precedent. · **Total wiki pages:** 311 · **Raw sources:** 547
 
-**Previous run header:** Run 42 (2026-05-10) — `weekly-sessions-2026-05-10.md` marked ingested as meta rollup, log only. 63 sessions for week of May 3–10 across 7 projects; 86 commits, 135 files created. No new wiki pages — substance of the week fully ingested across Runs 39–41.
+**Previous run header:** Run 43 (2026-05-11) — 65 Claude Code session-log files marked ingested as low-signal session batch (log only) per Runs 29/31/42 precedent. ~58 routine-automation sessions + ~7 substantive engineering sessions whose substance already flows through `wiki/projects/clio.md` auto-update or lives in external repos.
 
 > **Canonical operating truth lives outside the wiki:** if status or architecture notes here conflict with newer operating reality, use `~/My Brain/CURRENT_STATE.md` first.
 
@@ -104,14 +104,14 @@ See also: [[wiki/meetings/historical-transcripts-index]] — raw transcripts not
 | Moil business | 7 | product-roadmap, gtm, customers updated with Run 4 client links + GitHub repos |
 | People (network) | 48 | +1 from Run 12: ingrid-spiritto (mother-in-law, from iMessages) |
 | Minds (thinkers) | 10 | from X bookmarks deep compile |
-| Orgs (customer/partner) | 14 | +2 from Run 6: echo-squad (new) + buda-edc (expanded) |
+| Orgs (customer/partner) | 15 | +1 from Run 44: [[wiki/orgs/perseus-defense]] (YC S25 defense-tech, Buda HQ; Jennifer Storm referral path for Clio) |
 | Concepts | 37 | +1 from Run 12: fantelo redirect stub (→ wiki/projects/fantelo) |
-| Meetings | 58 | +1 from Run 15: 2026-04-20-teams-daily-ops (Jacob PRD proposal, Adeleke prod fixes, Abiodun Sunday delivery) |
+| Meetings | 59 | +1 from Run 44: [[wiki/meetings/2026-05-11-monday-collaboration]] (Perseus YC referral, magazine spread, Inna scope reset, Jacob outreach reallocation) |
 | Radar (changelogs) | 1 | Claude Code changelog |
 | Summaries | 18 | |
 | Folder READMEs | 9 | |
-| **Total wiki files** | **288** | Run 32 reconciled actual count |
-| Raw sources ingested | 469 total | Run 32: 435 historical files back-stamped `ingested: true` (closes Runs 1–31 frontmatter gap); 1 new file = signal-brief-2026-05-03 |
+| **Total wiki files** | **311** | +2 from Run 44: perseus-defense org + 2026-05-11-monday-collaboration meeting (drift since Run 32 = 21 pages from Runs 33–44) |
+| Raw sources ingested | 547 total | Run 44 (+3): teams-transcript-monday-collaboration-2026-05-11 (substantive ingest) + audits/2026-05-05-x-bookmarks-permanent-fix-research + audits/2026-05-07-ingestion-deep-audit (both internal infra — log only, no wiki promotion per Run 31 precedent) |
 
 **OneDrive Full Transcripts ingestion completed 2026-04-12 (Run 2):**
 - 25 full transcript files processed (raw/meetings/transcript-* format)

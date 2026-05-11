@@ -3,14 +3,14 @@ tags:
   - graph/spoke
   - person/customer
 status: active
-last_contact: 2026-05-05
+last_contact: 2026-05-11
 client: "[[wiki/orgs/ladyboss]]"
 ---
 # Inna Benyukhis
 
 **Type:** person
-**Last updated:** 2026-05-05
-**Source:** [[raw/imessages-people-2026-04-09]], [[raw/outlook-emails-2026-04-09]], [[raw/github-project-tracker]], [[raw/teams-2026-04-12]], [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/hive-inna]], [[raw/hive-inna-s-website-feedback]], [[raw/hive-empowered-nutrition-project-breakdown]], [[raw/hive-coaching-session-summary]], [[raw/email-history-6months-2026-04-14]], [[raw/teams-2026-04-20]], [[raw/email-digest-2026-04-24]], [[raw/email-digest-2026-04-27]], [[raw/teams-transcript-website-update-review-call-2026-04-28]]
+**Last updated:** 2026-05-11
+**Source:** [[raw/imessages-people-2026-04-09]], [[raw/outlook-emails-2026-04-09]], [[raw/github-project-tracker]], [[raw/teams-2026-04-12]], [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/hive-inna]], [[raw/hive-inna-s-website-feedback]], [[raw/hive-empowered-nutrition-project-breakdown]], [[raw/hive-coaching-session-summary]], [[raw/email-history-6months-2026-04-14]], [[raw/teams-2026-04-20]], [[raw/email-digest-2026-04-24]], [[raw/email-digest-2026-04-27]], [[raw/teams-transcript-website-update-review-call-2026-04-28]], [[raw/teams-transcript-monday-collaboration-2026-05-11]]
 **Related:** [[wiki/moil/gtm]], [[wiki/concepts/buda-hive]], [[wiki/people/abiodun-solomon]]
 
 ---
@@ -172,6 +172,31 @@ Source: [[raw/email-digest-2026-04-27]], [[raw/teams-transcript-website-update-r
 - **2026-05-04** · `email-digest` · podcast video being edited by Ablad to clean silent fillers
 - **2026-04-21** · `email-digest` · sent 2 March podcast videos for Jacob/Ablad to slice for social
 <!-- AUTO-ACTIVITY:end -->
+
+## May 11, 2026 — Mother's Day video missed; **scope reset to 4 posts/week**
+
+Source: [[raw/teams-transcript-monday-collaboration-2026-05-11]], [[wiki/meetings/2026-05-11-monday-collaboration]]
+
+**Trigger:** Inna emailed at 8:33 AM 2026-05-11: *"I'm disappointed. I also want to ask about the video that was recorded May 8th and not posted. I see that you post on Monday, Wednesdays and Fridays. The calendar has every day. I record various videos and they may not be for those days. Can you please make sure that the videos that are recorded do get posted, even if they're not Monday, Wednesday, or Friday."*
+
+**What happened.** Inna uploaded a Mother's Day video on **May 1** intended for the **May 8** post. The team did the weekly content build on Saturday May 2; Ablad refreshed the drive Mon–Wed before that and saw nothing; the video was apparently uploaded into a folder structure that the team didn't re-check during the build pass. Net: the team posted 5 pieces of content for the week but missed the Mother's Day video.
+
+**Andres's reset on the call (sent same morning):**
+
+> "My premise to you from day one was that we post 4 times a week, two images, two videos. From day one we have delivered technically 4 videos, 2 animated images, 5 8-second videos, and two fully edited videos per week. Today we are sharing to tens of groups and [boosting] the engagement of your account."
+
+**Two principles landed:**
+
+1. **The contract is 4 posts/week, 2 images + 2 videos — not 30 days/month.** Inna's daily-cadence expectation needs resetting. The 30-day calendar exists so the team can pick the **best** content to post, not so they post every day.
+2. **Jacob's effort is being reallocated from Inna to Moil** (see [[wiki/people/jacob-oluwole]] for the new 10-DM-conversations-a-day rule). The team will not continue copy-paste DM replies on Inna's account; she gets exactly what's contracted. Andres on the call: *"Inna doesn't pay us enough for me to pay both of you to spend half your week on her."*
+
+**Process changes** (owner: Ablad — see [[wiki/people/abiodun-solomon]]):
+
+- Check Inna's Google Drive **immediately** when she signals an upload (not later in the week).
+- Cross-check the weekly content list against the **holiday calendar** — Mother's Day was the trigger; should not have been missed.
+- When an uploaded video doesn't fit the current week, **email Inna asking to slide it to the next week** — never silently skip.
+
+**Posture going forward.** Andres on the call: *"Clients are clients — we bow down, we understand, we accept the mistakes we have made. But also, we gotta get some respect."* This is the **first explicit on-record customer-scope cap** for Inna. Likely template for similar resets if other small-retainer customers stretch scope past contract.
 
 ## Open Items
 
