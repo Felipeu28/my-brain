@@ -5,6 +5,8 @@ project: "Clio/worktree"
 date: 2026-05-10
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-blissful-edison-c11190/aefa3b23-35a2-4766-9479-ceab6f1b0345.jsonl
+ingested: true
+ingested_at: 2026-05-11
 ---
 # Claude Code Session — <command-message>setup-gbrain</command-message>
 

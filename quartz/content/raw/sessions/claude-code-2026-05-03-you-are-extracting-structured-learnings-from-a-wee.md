@@ -5,6 +5,8 @@ project: "Brain/KB/worktree"
 date: 2026-05-03
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base--claude-worktrees-modest-raman-44205a/01e73e38-ac43-40ba-a131-cf521bd3f207.jsonl
+ingested: true
+ingested_at: 2026-05-11
 ---
 # Claude Code Session — You are extracting structured learnings from a week of Andres Urrego's Claude Co
 

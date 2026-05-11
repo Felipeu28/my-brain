@@ -5,6 +5,8 @@ project: "Brain/Automations"
 date: 2026-05-08
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-pi-workspace/1311765f-b150-4fe7-a4ca-b71a0100f388.jsonl
+ingested: true
+ingested_at: 2026-05-11
 ---
 # Claude Code Session — Morning Briefing — Fri May 8, 2026
 

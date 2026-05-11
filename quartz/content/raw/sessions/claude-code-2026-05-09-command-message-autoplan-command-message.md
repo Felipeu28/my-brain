@@ -5,6 +5,8 @@ project: "Clio/worktree"
 date: 2026-05-09
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-zen-noether-3acfe9/c7e90578-7b37-4950-81b9-112ac1b40674.jsonl
+ingested: true
+ingested_at: 2026-05-11
 ---
 # Claude Code Session — <command-message>autoplan</command-message>
 

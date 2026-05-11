@@ -4,6 +4,67 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ---
 
+## 2026-05-11 — Run 43: 65 Claude Code session-log files backfill (low-signal session batch — log only; substance of substantive sessions already flows through `wiki/projects/clio.md` auto-update; no new wiki pages, no new MEMORY actions)
+
+**Trigger:** KB-agent ingestion request for 65 files in `quartz/content/raw/sessions/claude-code-2026-04-14*.md` through `claude-code-2026-05-10*.md` that had been auto-created by `bin/ingest-claude-sessions.sh` but never received the `ingested: true / ingested_at` frontmatter marker. **Established precedent** (Runs 29, 31, 42): session-log files are derivative — they are the *runner* of an artifact whose intelligence was captured by another Run number. The per-session bookkeeping closes the "what hasn't been ingested?" gap without re-ingesting content the wiki already holds.
+
+**Pages created (0).** **Pages updated (0).** **MEMORY: unchanged.**
+
+**Classification of the 65 files:**
+
+- **~58 routine automation sessions** — each one is the *runner* of an artifact already ingested by its own Run number:
+  - 8× **morning briefing / daily-cross-source-intell / "you are Andres's editor"** (May 3–10) → artifacts = `raw/email-digest-*.md`, `raw/signal-briefs/signal-brief-*.md` (ingested in Runs 30, 33, 35–41)
+  - 8× **"you are Andres's plan radar every day at noon"** (May 3–9) → artifact = `outputs/plan-radar-*.md` (internal, not wiki-promoted per Run 31 internal-infra rule)
+  - 7× **"check for any new files in raw/ and raw/onedrive-tr..."** (May 3–9) → artifact = the ingestion run itself; KB agent runs that did the work were Runs 30–41
+  - 7× **"pull today's Microsoft Teams meeting transcripts"** (May 3–9) → artifacts = `raw/teams-transcript-*.md` files already absorbed in Run 29 backfill + per-Run meeting promotions
+  - 4× **"read these two json files of today's email activity"** (May 4–7) → artifacts = `raw/email-digest-2026-05-{04,05,06,07}.md` (ingested in Runs 33–40)
+  - 4× **"run the morning briefing — execute these steps"** (May 4–8) → artifact = `outputs/briefing-2026-05-{04..08}.md`
+  - 3× **"you are the moil brain kb-agent ingest these unpro..."** (May 4, 5, 8) → artifact = the ingestion run itself (Runs 33, 34, 40)
+  - 3× **"you are an entity extraction agent"** (May 4, 5) → artifact = internal entity-graph index, runs are mechanical
+  - 2× **"today's top 3"** + **"morning briefing — Fri/Thu"** (May 7, 8) → artifact = brain-query.sh + briefing outputs
+  - 2× **"<command-message>setup-gbrain</command-message>"** + **"<command-message>autoplan</command-message>"** (May 9, 10) → gstack skill runs; no wiki impact
+  - 1× **"you are Andres's strategy operator every Sunday evening"** (May 4) → artifact = `outputs/strategy-radar-*.md`
+  - 1× **"you are surfacing patterns from the last 28 days"** (May 5) → pattern-surfacer one-shot
+  - 1× **"you are parsing raw scraped text from Andres's X"** (May 10) → X-bookmarks parser
+  - 1× **"you are extracting structured learnings from a weekly..."** (May 3) → session-learnings filter (item 8a from Run 31)
+  - 1× **"<command-message>gstack</command-message>"** (May 8) → voice-system fix routed via wiki/projects/clio.md
+  - 1× **"in luna-brain there's a tracked but orphaned dir..."** (May 4) → 1-message housekeeping in luna-brain repo
+  - 1× **"scheduled task name clio-weekly-security-audit"** (May 4) → scheduled CSO audit run; no Moil-Brain wiki impact
+  - 1× **"today's pushes 2026-05-03 full review"** (May 10) → review of Run 31's brain-audit shipping (already documented in [[wiki/summaries/brain-audit-2026-05-03]])
+  - 1× **"active plan: gstack/projects/felipeu28/clio-ceo-pla..."** (May 9) → /plan-eng-review on D4/D3; artifact = ceo-plan files in luna-brain repo
+
+- **~7 substantive engineering sessions** — substance lives in the source repos and (where applicable) already flows through `wiki/projects/clio.md § Last 7 days` via daily `bin/project-activity.sh`:
+  - `claude-code-2026-04-14-brain-system-audit.md` — multi-phase Brain v3 audit (kb-health.py, Moil360 canonicalization, historical-transcripts-index, Client Ledger, Daniel Mann, HIVE completeness, iMessage pipeline). Already absorbed in: [[wiki/summaries/brain-audit-2026-05-03]] (the audit framing later formalized), [[wiki/meta/brain-upgrade-plan]], `kb-health.py` (live in `scripts/`), `wiki/meetings/historical-transcripts-index.md`, [[wiki/concepts/moil360]], [[wiki/moil/active-projects]]. The audit ran 2026-04-14 but its outputs were operationalized through Runs 6, 23, 31
+  - `claude-code-2026-05-01-let-s-create-a-new-video-about-the-parents-side-of.md` — built `~/clio-video` Remotion repo with full Clio scene library (orb breath, brain graph, depth climb, Spanish, weekly digest, wow moment, memory). External marketing-asset repo outside the wiki's ingest scope; flagged here for the record. **Watch:** if `clio-video` produces a published asset, promote to a [[wiki/concepts/clio-parent-pitch-video]] stub
+  - `claude-code-2026-05-03-week-1-execution.md` — gstack adoption + 23-skill rollout + clio-cso/qa/voice-qa/safety/brain-lint specialists + security headers/CSP/HSTS + canary webhook + LLM eval gating. Already in [[wiki/projects/clio]] § Last 7 days (auto-update) per Run 42
+  - `claude-code-2026-05-04-application-scoring-proposed-changes.md` — 7,532-minute accelerator-strategy session producing `Accelerator_Strategy_Roadmap_2026-05-04.md` + YC Clio Summer 2026 submission + Moil deck builder. External repo (`~/Library/Mobile Documents/com~apple~CloudDocs/Documents/Claude/Projects/Accelerator Applications System/`); not in wiki ingest scope. **Andres's pitch corrections**: 15yr corporate sales, dropped "SOC 2 compliant" + "AI for Business Applications cert" + "2 years of Claude Code experience" — captured here for the record; not promoted to a wiki page (personal-positioning facts already implicit in [[wiki/people/andres-urrego]] / [[wiki/projects/moil]] founder context)
+  - `claude-code-2026-05-06-phase-0-subtraction.md` — Clio UX subtraction audit (killed duplicate gamification, dead synthesize endpoint, BrainView tab buffet) + Phase 1.0 World rebuild (voice-on-tap, biomes-as-places, Luna greets by name) + iPhone silent-switch audio fix + kid-surface i18n. Major product pivot — substance flows through [[wiki/projects/clio]] § Last 7 days when next auto-update runs (currently dated 2026-05-05; will catch May 6–10 commits on next nightly run)
+  - `claude-code-2026-05-08-command-message-gstack-command-message.md` — gstack voice-system roots-cause fix (one voice/reply, mic gate on audio drain, strip emojis from TTS) + spun up `docs/clio-characters` original-cast side project (CHARACTERS.md/BRIEF.md/PLAN.md). Substance will flow through [[wiki/projects/clio]] § Last 7 days on next nightly. **Watch:** if `clio-characters` ships an original cast launch, that may justify a [[wiki/concepts/clio-character-cast]] stub
+  - `claude-code-2026-05-09-ship-phase-1-start-phase-2-5.md` — Stories feature shipped: streaming generation, age-tier reading view, recents/delete, age-tier setup picker, Grok TTS language-tag voice-flip fix. Will land in [[wiki/projects/clio]] § Last 7 days on next nightly. **Andres-visible product surface change** — Clio now has a Stories feature; the existing clio.md Status line will need a one-shot edit on the next manual run to reflect this (deferred to next interactive session, not auto-applied here)
+  - `claude-code-2026-05-10-bilingual-claim-audit-implementation-plan.md` — bilingual claim audit shipped `packages/shared/src/lang.ts` (kid-input language detection + label_es brain context). Decision: **"A (full ambient)"** = directional choice for bilingual handling. Will flow through [[wiki/projects/clio]] § Last 7 days on next nightly
+
+**Sources logged but not promoted to wiki:** all 65 files at `quartz/content/raw/sessions/claude-code-2026-{04-14, 05-01..10}-*.md`. Each marked `ingested: true / ingested_at: 2026-05-11`.
+
+**Index update:** [[index]] — Run 43 header; raw source count unchanged at 543 (these files exist in `quartz/content/raw/sessions/` and were already counted; the ingest flag is the only mutation); wiki page count unchanged at 309.
+
+**Sync step:** `bash scripts/sync_wiki.sh`. **Health step:** `python3 scripts/kb-health.py`.
+
+**Key intelligence:**
+
+1. **The session-log file type is now reliably *log-only* across 3 separate batches** (Run 29 = ~80 files, Run 31 = ~30 files, Run 43 = 65 files). The pattern is stable: every session-log captures *a runner of an artifact*, and the artifact is what carries the intelligence. The ingest-claude-sessions.sh job is doing the right thing (capturing every session for posterity + per-project `## Last 7 days` rollup), but the per-file KB-ingestion sweep is mechanical bookkeeping, not signal extraction. **Worth retiring the manual KB-agent ingest call on session-log files entirely** — the auto-job already marks them, and the per-Run intelligence is captured by the artifact's own ingest path. Routed as a Week-4 candidate for `bin/ingest-claude-sessions.sh`: have it set `ingested: true / ingested_at: <today>` at file-creation time so the file is born marked.
+
+2. **Substantive Clio engineering sessions (Phase 0 subtraction, Stories ship, bilingual claim audit, gstack voice fix) are accumulating without a corresponding manual update to [[wiki/projects/clio]] § Status.** The `## Last 7 days` block is auto-updated by `bin/project-activity.sh` and is current through 2026-05-05; the May 6–10 commits will catch up on the next nightly. **But the Status line** (currently "Phase 1 shipped … currently in a stability sprint — recent commits are bug fixes on edge synthesis") is now ~5 days stale relative to the Phase 1.0 World rebuild and Stories feature. **Next interactive Brain session should refresh the clio.md Status line + Recent decisions block.** Not auto-applied in this run (Run 43 is log-only by design).
+
+3. **Two side projects spun up off Clio in the last 10 days**: `~/clio-video` (Remotion parent-pitch repo, May 1) and `~/luna-brain/docs/clio-characters` (original-cast brief, May 8). Both are external-repo work not yet in the wiki. **Watch trigger:** if either produces a published asset (the clio-video parent pitch goes live; the clio-characters cast launches), promote to a wiki concept stub. Neither is mature enough to deserve a wiki page yet — flagging as future-Claude breadcrumbs.
+
+4. **Andres's accelerator pitch corrections from May 4 are personal-positioning facts that don't need a wiki page but should inform future Brain-generated copy:** 15 years of corporate sales (founder credibility frame), drop "SOC 2 compliant" claim, drop "AI for Business Applications" certification mention, drop "2 years of Claude Code" framing. Capture for future-Claude reference; not promoted to MEMORY since this is steady-state positioning, not an open action.
+
+**Source count:** 543 → 543 (no new files added; 65 existing files marked ingested). Wiki page count: 309 → 309. People count: 65 → 65. Orgs count: 29 → 29.
+
+**Summary:** Run 43 closes the bookkeeping gap on 65 session-log files spanning 2026-04-14 → 2026-05-10. No new wiki pages, no new MEMORY actions, no index drift. Per Runs 29, 31, 42 precedent: session-logs are the *runner* of an artifact, not the artifact itself — intelligence is held by the artifact's own ingest path. The substantive Clio engineering sessions (Phase 0 subtraction, Stories, bilingual claim, gstack voice) are queued for `bin/project-activity.sh` auto-update on next nightly, and the clio.md Status line is flagged for next-interactive-session refresh. Run 43 is consistent with the stable "session-logs = log-only" pattern across 3 batches now.
+
+---
+
 ## 2026-05-10 — Run 42: weekly-sessions-2026-05-10 (meta rollup, log only — 63 sessions for week of May 3–10; no new wiki pages, intelligence already captured)
 
 **Trigger:** Single new raw file detected post-Run-41: `raw/weekly-sessions-2026-05-10.md` — Claude Code weekly rollup auto-generated by `bin/ingest-claude-sessions.sh` Sun 07:30 (commit `d2d4036`). 63 sessions across 7 projects: Brain/Automations 32, Brain/KB 14, Clio/worktree 8, "-" 3, Brain/KB/worktree 2, Clio 2, Brain/MyBrain 1, Home 1. 168 user messages · 970 assistant responses · 3287 tool calls · 135 files created · 21 edited · 86 commits. 2 automation self-runs filtered.

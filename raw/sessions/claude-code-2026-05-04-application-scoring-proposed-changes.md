@@ -5,6 +5,8 @@ project: "Home"
 date: 2026-05-04
 duration_minutes: 7532
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-Library-Mobile-Documents-com-apple-CloudDocs-Documents-Claude-Projects-Accelerator-Applications-System/223806d8-c3cd-43a9-b8d7-4439d574114b.jsonl
+ingested: true
+ingested_at: 2026-05-11
 ---
 # Claude Code Session — Application Scoring + Proposed Changes
 

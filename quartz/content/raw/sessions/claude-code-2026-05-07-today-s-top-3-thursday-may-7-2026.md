@@ -5,6 +5,8 @@ project: "Brain/KB"
 date: 2026-05-07
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base/b91c5e70-f25c-4dc9-ae4b-31af5051eb60.jsonl
+ingested: true
+ingested_at: 2026-05-11
 ---
 # Claude Code Session — Today's Top 3 — Thursday, May 7, 2026
 

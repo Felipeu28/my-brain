@@ -5,6 +5,8 @@ project: "Brain/MyBrain"
 date: 2026-05-10
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain/f56b50a9-e115-481f-b476-8fa141daef7e.jsonl
+ingested: true
+ingested_at: 2026-05-11
 ---
 # Claude Code Session — Today's pushes (2026-05-03) — full review
 

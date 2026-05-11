@@ -2,7 +2,7 @@
 tags:
   - graph/leaf
 type: hot-cache
-last_updated: 2026-05-10
+last_updated: 2026-05-11
 ---
 # Brain Hot Cache
 
@@ -26,17 +26,20 @@ Updated automatically by:
 ## Recent Ingestions
 
 <!-- ENTRIES:ingest -->
+- 2026-05-11 08:53 — 65 file(s) queued for ingest. Claude exit 0.
 - 2026-05-08 09:00 — 2 file(s) queued for ingest. Claude exit 0.
 - 2026-05-07 08:56 — 1 file(s) queued for ingest. Claude exit 0.
 - 2026-05-06 08:57 — 1 file(s) queued for ingest. Claude exit 0.
 - 2026-05-05 08:56 — 3 file(s) queued for ingest. Claude exit 0.
 - 2026-05-04 08:58 — 436 file(s) queued for ingest. Claude exit 0.
-- 2026-05-01 08:57 — 374 file(s) queued for ingest. Claude exit 0.
 <!-- /ENTRIES:ingest -->
 
 ## Recent Queries
 
 <!-- ENTRIES:query -->
+- 2026-05-11 08:53 — Session end: [Brain/KB] You are the Moil Brain KB Agent. Ingest these unprocessed raw files into wiki pa… — 2 edits
+- 2026-05-11 08:48 — Session end: [Brain/Auto] Run the morning briefing. Execute these steps:  1. Fetch today's calendar: bash … — 1 new files
+- 2026-05-10 18:19 — Session end: [Brain/KB] Check for any new files in raw/ and raw/onedrive-transcripts/ that haven't been … — 3 edits · 1 commits
 - 2026-05-10 18:15 — Session end: [Brain/Auto] Pull today's Microsoft Teams meeting transcripts and add them to the Brain.  1. … — 25 events
 - 2026-05-10 13:24 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 68 edits
 - 2026-05-10 13:21 — Session end: [Clio] once. a story is created they are not saved, also the UX for stories for all age… — 1 chapters · 7 new files · 53 edits · 6 commits
@@ -54,9 +57,6 @@ Updated automatically by:
 - 2026-05-09 18:23 — Session end: [Brain/KB] Check for any new files in raw/ and raw/onedrive-transcripts/ that haven't been … — 13 edits · 1 commits
 - 2026-05-09 18:15 — Session end: [Brain/Auto] Pull today's Microsoft Teams meeting transcripts and add them to the Brain.  1. … — 21 events
 - 2026-05-09 18:10 — Session end: [Clio] once. a story is created they are not saved, also the UX for stories for all age… — 2 new files · 15 edits
-- 2026-05-09 18:07 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 56 edits
-- 2026-05-09 18:04 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 56 edits
-- 2026-05-09 18:04 — Session end: [Clio] Analazyse and review our entire bilingual claim, then create the full implementa… — 28 events
 <!-- /ENTRIES:query -->
 
 ## Recent Saves

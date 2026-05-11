@@ -5,6 +5,8 @@ project: "Clio/worktree"
 date: 2026-05-04
 duration_minutes: 0
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-determined-cerf-9076f5/0e4f64de-18cf-4ff6-8ebc-9ecef4aedb23.jsonl
+ingested: true
+ingested_at: 2026-05-11
 ---
 # Claude Code Session — In ~/luna-brain/, there's a tracked but orphaned directory at `.claire/worktrees
 

@@ -5,6 +5,8 @@ project: "Clio/worktree"
 date: 2026-05-09
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-adoring-murdock-4d020e/a84853c5-c996-4a62-b7e1-bd247c8370e6.jsonl
+ingested: true
+ingested_at: 2026-05-11
 ---
 # Claude Code Session — Ship Phase 1 + start Phase 2–5
 

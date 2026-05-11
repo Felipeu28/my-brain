@@ -5,6 +5,8 @@ project: "Clio/worktree"
 date: 2026-05-09
 duration_minutes: 619
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-zealous-montalcini-052f5f/1de2eb9c-f99a-44a5-a032-b4c0087b6680.jsonl
+ingested: true
+ingested_at: 2026-05-11
 ---
 # Claude Code Session — **Active plan:** [`~/.gstack/projects/Felipeu28-Clio/ceo-plans/2026-05-08-clio-p
 

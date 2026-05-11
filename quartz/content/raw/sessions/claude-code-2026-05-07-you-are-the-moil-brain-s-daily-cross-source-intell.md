@@ -5,6 +5,8 @@ project: "Brain/Automations"
 date: 2026-05-07
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-pi-workspace/efa8cc18-fe6d-4a61-a065-1f7e2ce19e3d.jsonl
+ingested: true
+ingested_at: 2026-05-11
 ---
 # Claude Code Session — You are the Moil Brain's daily cross-source intelligence analyst.
 

@@ -5,6 +5,8 @@ project: "Brain/KB"
 date: 2026-05-10
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base/23acacc4-2d8a-475d-ab12-15c300b7d35b.jsonl
+ingested: true
+ingested_at: 2026-05-11
 ---
 # Claude Code Session — You are parsing raw scraped text from Andres's X.com bookmarks page into a struc
 

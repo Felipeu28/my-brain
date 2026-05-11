@@ -5,6 +5,8 @@ project: "Clio/worktree"
 date: 2026-05-08
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-blissful-rosalind-542037/111cf978-404f-41a3-872e-8c1a7182db4c.jsonl
+ingested: true
+ingested_at: 2026-05-11
 ---
 # Claude Code Session — <command-message>gstack</command-message>
 
