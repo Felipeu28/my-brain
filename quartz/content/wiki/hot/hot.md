@@ -37,6 +37,7 @@ Updated automatically by:
 ## Recent Queries
 
 <!-- ENTRIES:query -->
+- 2026-05-12 12:22 — Session end: [Brain/KB] Run the weekly knowledge base compile and cleanup. Today is 2026-05-12.  ## PART… — 1 new files · 1 edits
 - 2026-05-12 12:19 — Session end: [Brain] init — 1 new files
 - 2026-05-12 12:01 — Session end: [Brain/Auto] You are Andres's plan radar. Every day at noon you scan recent Brain activity an… — 1 new files
 - 2026-05-12 10:47 — Session end: [Brain/KB] You are the Moil Brain KB Agent. Ingest these unprocessed raw files into wiki pa… — 2 new files · 22 edits
@@ -56,7 +57,6 @@ Updated automatically by:
 - 2026-05-11 09:04 — Session end: [Brain/Auto] Generate Moil's 4-week rolling content calendar. Execute these steps:  1. Read ~… — 1 new files
 - 2026-05-11 08:53 — Session end: [Brain/KB] You are the Moil Brain KB Agent. Ingest these unprocessed raw files into wiki pa… — 2 edits
 - 2026-05-11 08:48 — Session end: [Brain/Auto] Run the morning briefing. Execute these steps:  1. Fetch today's calendar: bash … — 1 new files
-- 2026-05-10 18:19 — Session end: [Brain/KB] Check for any new files in raw/ and raw/onedrive-transcripts/ that haven't been … — 3 edits · 1 commits
 <!-- /ENTRIES:query -->
 
 ## Recent Saves
