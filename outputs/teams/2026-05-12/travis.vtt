@@ -1,0 +1,708 @@
+WEBVTT
+
+00:00:05.591 --> 00:00:19.431
+<v Andres Urrego>So you might have some recurring events. So then for those, what we can do is maybe create a recurring event option, like new event or create a recurring event. And then the recurring event is like weekly until you go in and cancel it.</v>
+
+00:00:08.951 --> 00:00:09.311
+<v Travis>Right.</v>
+
+00:00:14.031 --> 00:00:14.311
+<v Travis>Mhm.</v>
+
+00:00:19.791 --> 00:00:20.231
+<v Travis>Right.</v>
+
+00:00:21.391 --> 00:00:22.111
+<v Travis>Yeah, become.</v>
+
+00:00:21.511 --> 00:00:33.351
+<v Andres Urrego>Perfect. Okay, all right, so I'll look into that today. So let's take, I mean, artists look up, I mean, this could be a comedian, I don't know, let's say Kiltoni or whatever.</v>
+
+00:00:34.831 --> 00:00:37.311
+<v Travis>Hey, my sister, let's see if I can find one.</v>
+
+00:00:41.591 --> 00:00:44.231
+<v Andres Urrego>Ohh, let me let me change the API key.</v>
+
+00:00:42.751 --> 00:00:43.311
+<v Travis>Lo dejo.</v>
+
+00:00:45.791 --> 00:00:47.311
+<v Travis>We'll use a kick, so diablo.</v>
+
+00:00:46.151 --> 00:00:46.751
+<v Andres Urrego>Oh.</v>
+
+00:01:01.351 --> 00:01:03.951
+<v Andres Urrego>Ohh, this is my.</v>
+
+00:01:05.431 --> 00:01:06.191
+<v Andres Urrego>Listening.</v>
+
+00:01:07.231 --> 00:01:08.151
+<v Andres Urrego>Está bien.</v>
+
+00:01:09.751 --> 00:01:10.951
+<v Andres Urrego>Part is look out.</v>
+
+00:01:12.871 --> 00:01:13.231
+<v Andres Urrego>Okay.</v>
+
+00:01:20.671 --> 00:01:40.071
+<v Andres Urrego>All right, so we add the description here. I'll get you, I'll text you as soon as I replace this key. Gemini replaced this model, so we just need to upgrade it to the new model. But I'll let you know when that's ready. So you can just click autofill. It should find the artist if you've already, you know, if they have a</v>
+
+00:01:40.551 --> 00:01:44.871
+<v Andres Urrego>They have a press in somewhere, right? And then so.</v>
+
+00:01:42.671 --> 00:01:42.991
+<v Travis>Yeah.</v>
+
+00:01:46.311 --> 00:01:46.751
+<v Andres Urrego>Let's go.</v>
+
+00:01:53.991 --> 00:01:55.991
+<v Andres Urrego>Okay, so let's say that's tonight.</v>
+
+00:01:58.231 --> 00:02:00.231
+<v Andres Urrego>At 6 P.m.</v>
+
+00:02:00.431 --> 00:02:01.351
+<v Travis>7:30.</v>
+
+00:02:02.511 --> 00:02:03.911
+<v Andres Urrego>OK, so 7:30.</v>
+
+00:02:05.791 --> 00:02:08.591
+<v Andres Urrego>And then 9 to 9:30.</v>
+
+00:02:09.871 --> 00:02:10.391
+<v Travis>Yeah.</v>
+
+00:02:14.911 --> 00:02:26.231
+<v Andres Urrego>Alright, so we have an image, we have an image here, and let's say it's a mission, and honestly, and these ones are going to be free, so that's fine, but at least you get to get a sample of our people coming or not.</v>
+
+00:02:27.471 --> 00:02:29.311
+<v Travis>Right, yeah, because I say RSVP.</v>
+
+00:02:30.391 --> 00:02:30.751
+<v Andres Urrego>Yeah.</v>
+
+00:02:32.071 --> 00:02:35.231
+<v Andres Urrego>You can add an organizer if there's an organizer, so.</v>
+
+00:02:38.271 --> 00:02:39.511
+<v Andres Urrego>Let me create the event.</v>
+
+00:02:41.991 --> 00:02:45.031
+<v Andres Urrego>Perfect, so there's that, you know, there's...</v>
+
+00:02:46.311 --> 00:03:05.551
+<v Andres Urrego>There's a link where they can come here for the organizer of the event. So this will be for the artist or the promoter, right? So you will basically add them here and then send them an email and then you click send organizer email and then they'll get an email with an invite to log in to their own little setup.</v>
+
+00:02:53.311 --> 00:02:53.711
+<v Travis>No.</v>
+
+00:03:05.431 --> 00:03:08.191
+<v Travis>Well, then I can see how many are sold in when that.</v>
+
+00:03:08.311 --> 00:03:18.711
+<v Andres Urrego>That's it, exactly. So we have comedy night. Okay, this one is live. So this will take a couple, maybe at most a minute to update. There it is.</v>
+
+00:03:10.071 --> 00:03:10.431
+<v Travis>Right.</v>
+
+00:03:19.511 --> 00:03:20.391
+<v Andres Urrego>Um...</v>
+
+00:03:22.591 --> 00:03:30.991
+<v Andres Urrego>As many tickets, they want up to 10. If there's multiple ticket selections, you can add them, so there's general admission and anything else, if there's other options.</v>
+
+00:03:24.991 --> 00:03:25.391
+<v Travis>Home.</v>
+
+00:03:31.391 --> 00:03:36.231
+<v Travis>So, do you think can you customize that general admission just to say like RSVP?</v>
+
+00:03:37.351 --> 00:03:45.031
+<v Andres Urrego>Oh yeah, you can, absolutely. You can customize it to anything, anything you want. So we can, yeah. So now purchase, boom.</v>
+
+00:03:41.151 --> 00:03:41.551
+<v Travis>No.</v>
+
+00:03:56.791 --> 00:03:59.031
+<v Andres Urrego>There you go. There's a confirmation.</v>
+
+00:04:00.151 --> 00:04:02.711
+<v Andres Urrego>Download the PDF ticket on your phone.</v>
+
+00:04:04.071 --> 00:04:04.711
+<v Andres Urrego>Film.</v>
+
+00:04:10.311 --> 00:04:17.671
+<v Andres Urrego>and then you're done. When they come in, right? When they come in, you can do...</v>
+
+00:04:13.311 --> 00:04:13.631
+<v Travis>No.</v>
+
+00:04:22.871 --> 00:04:23.671
+<v Andres Urrego>Um...</v>
+
+00:04:25.031 --> 00:04:25.591
+<v Andres Urrego>Mm.</v>
+
+00:04:31.351 --> 00:04:41.511
+<v Andres Urrego>Oh, interest. Oh, I'm silly me. This was opening time. So let's just 6:30 or doors open done. Save the changes. You make any mistakes. You just come back, broom.</v>
+
+00:04:42.711 --> 00:04:42.751
+<v Andres Urrego>A.</v>
+
+00:04:48.151 --> 00:05:06.471
+<v Andres Urrego>And, okay. So you'll be able to start checking people in at 630, right? At 630, you'll be able to click check-in and then you start basically checking people in, but I wanted to show. Actually, let me do this. I'm going to change the time so I can show you how the check-in works.</v>
+
+00:05:07.351 --> 00:05:08.231
+<v Andres Urrego>Oh, no.</v>
+
+00:05:23.511 --> 00:05:26.071
+<v Andres Urrego>OK, so you'll click check in once the check in.</v>
+
+00:05:50.711 --> 00:05:54.751
+<v Andres Urrego>Okay, so let me work on this because it just says that...</v>
+
+00:05:55.831 --> 00:06:16.311
+<v Andres Urrego>It's only available while the event is live, but I moved the time, so it should have opened it for you to be able to. So this becomes blue. You can check in guests right away, and you can either scan the QR code or you're going to be able to just search by their name and enter it. But I need to work on this because it...</v>
+
+00:06:02.831 --> 00:06:03.311
+<v Travis>Yeah.</v>
+
+00:06:12.991 --> 00:06:13.471
+<v Travis>Perfect.</v>
+
+00:06:16.991 --> 00:06:18.871
+<v Travis>Yeah, looks like it still has the 630.</v>
+
+00:06:17.591 --> 00:06:18.711
+<v Andres Urrego>When I moved the time.</v>
+
+00:06:19.751 --> 00:06:31.831
+<v Andres Urrego>Yeah, when I move the time, it should have, it should have updated right away. So I'll work on this. Let me just actually make some notes here. Let me check.</v>
+
+00:06:23.471 --> 00:06:23.951
+<v Travis>Right.</v>
+
+00:06:41.271 --> 00:06:41.591
+<v Andres Urrego>Yeah.</v>
+
+00:06:53.191 --> 00:06:54.991
+<v Andres Urrego>A notes.</v>
+
+00:07:08.951 --> 00:07:11.791
+<v Andres Urrego>Oh, I know exactly what I did. I changed the wrong time.</v>
+
+00:07:13.031 --> 00:07:14.991
+<v Andres Urrego>Oh, let me see.</v>
+
+00:07:19.511 --> 00:07:19.591
+<v Andres Urrego>A.</v>
+
+00:07:21.111 --> 00:07:21.471
+<v Andres Urrego>Sure.</v>
+
+00:07:28.991 --> 00:07:30.231
+<v Andres Urrego>Persisting.</v>
+
+00:07:31.751 --> 00:07:32.111
+<v Andres Urrego>Good.</v>
+
+00:07:49.791 --> 00:07:50.351
+<v Travis>Come.</v>
+
+00:07:55.991 --> 00:08:15.031
+<v Andres Urrego>There you go. Okay. So this is going to be obviously on the phone, right? It's going to open up. There you go, I just, yeah. So opens up your camera or you can type in the ticket number. I can actually change that to be the name so that you guys don't have to type this entire thing.</v>
+
+00:08:00.871 --> 00:08:01.391
+<v Travis>Hello.</v>
+
+00:08:12.911 --> 00:08:13.551
+<v Travis>Nothing.</v>
+
+00:08:16.191 --> 00:08:17.031
+<v Andres Urrego>So.</v>
+
+00:08:18.191 --> 00:08:20.311
+<v Andres Urrego>Here we go. Oh, right here.</v>
+
+00:08:25.111 --> 00:08:32.231
+<v Andres Urrego>There you go, boom. So that person is already checked in. Attendance 100%, tickets sold checked in one.</v>
+
+00:08:25.511 --> 00:08:25.791
+<v Travis>Oh.</v>
+
+00:08:33.551 --> 00:08:37.711
+<v Travis>And can we have another login like for the staff like just like an info at Meridian Beta?</v>
+
+00:08:38.991 --> 00:08:39.831
+<v Travis>To do that.</v>
+
+00:08:43.431 --> 00:08:45.271
+<v Andres Urrego>Info at.</v>
+
+00:08:44.991 --> 00:08:47.311
+<v Travis>At meridianbuda.com.</v>
+
+00:08:48.951 --> 00:08:50.871
+<v Andres Urrego>Infamarianbu.com.</v>
+
+00:08:52.791 --> 00:08:54.631
+<v Andres Urrego>All that a team tap.</v>
+
+00:08:58.351 --> 00:08:59.871
+<v Andres Urrego>so that you can assign them.</v>
+
+00:08:59.431 --> 00:08:59.711
+<v Travis>Mhm.</v>
+
+00:09:00.631 --> 00:09:04.271
+<v Andres Urrego>You'll just basically send an email to that account and activate it and you're good to go.</v>
+
+00:09:04.671 --> 00:09:05.191
+<v Travis>Cool.</v>
+
+00:09:11.111 --> 00:09:22.711
+<v Andres Urrego>Yeah, that way, anytime, I don't know, whoever had access and someone that doesn't have access is there, you're like, hey, look, let me send you an invite and then just sign in and check people in, you know, just gives you that flexibility.</v>
+
+00:09:19.791 --> 00:09:20.191
+<v Travis>Mhm.</v>
+
+00:09:26.791 --> 00:09:41.791
+<v Andres Urrego>Okay, perfect. Love it. Okay, good. Okay, so last time we talked about, okay, maybe less we get some analytics. So here's some analytics. We built this for seven days. You can do seven days, 30 days, 90 days.</v>
+
+00:09:43.431 --> 00:09:44.871
+<v Andres Urrego>And then all the time.</v>
+
+00:09:45.711 --> 00:09:46.271
+<v Travis>Sweet.</v>
+
+00:09:47.591 --> 00:09:58.471
+<v Andres Urrego>You're going to be able to be revenue by event, right? Kind of gives you some insights to like, oh, OK, what's selling? What's none? Tickets sold by tier, VIP, general admission.</v>
+
+00:10:01.671 --> 00:10:15.351
+<v Andres Urrego>Event attendance, right? Obviously, you're going to be able to see how many people showed up for the events, you know, no show, recent orders down here. You got your orders tab. You'll be able to see everything there.</v>
+
+00:10:17.671 --> 00:10:26.631
+<v Andres Urrego>These are maybe people who started the process, just haven't submitted yet. You could also ping him, you could always ping him with an email.</v>
+
+00:10:28.231 --> 00:10:31.711
+<v Andres Urrego>Bookings, so if someone submit a request on...</v>
+
+00:10:33.351 --> 00:10:34.951
+<v Andres Urrego>On this form, right?</v>
+
+00:10:36.311 --> 00:10:36.791
+<v Travis>Right.</v>
+
+00:10:36.791 --> 00:10:37.871
+<v Andres Urrego>No, they're all here.</v>
+
+00:10:39.191 --> 00:10:39.711
+<v Travis>Love it.</v>
+
+00:10:41.671 --> 00:10:49.031
+<v Andres Urrego>And you can do decline, contacted, new or confirmed, right? So you can just kind of track him in here.</v>
+
+00:10:51.831 --> 00:10:59.591
+<v Andres Urrego>Menu, in the menus we've talked about days you've seen in before, you can add, remove, change, update, anything you want.</v>
+
+00:11:01.751 --> 00:11:09.671
+<v Andres Urrego>The analytics, oh, we just went over those, and then the email flows, these are, let me show you, there you go, so.</v>
+
+00:11:12.711 --> 00:11:21.191
+<v Andres Urrego>Every time someone buys a ticket, they automatically get this email confirmation, obviously. They will get the seven-day reminder.</v>
+
+00:11:22.071 --> 00:11:27.231
+<v Andres Urrego>A 24-hour reminder, and then a post follow-up, post event follow-up.</v>
+
+00:11:34.791 --> 00:11:36.871
+<v Andres Urrego>Tremo Travis ad Zoe Market.</v>
+
+00:11:39.191 --> 00:11:41.431
+<v Travis>Zoe Travis at Zoewell.com.</v>
+
+00:11:42.591 --> 00:11:44.151
+<v Andres Urrego>Joinworld.com.</v>
+
+00:11:45.431 --> 00:11:47.591
+<v Andres Urrego>Yeah, so.</v>
+
+00:11:49.911 --> 00:11:54.151
+<v Andres Urrego>Oh, we do have to add, okay, so we do have to add your reset key.</v>
+
+00:11:56.791 --> 00:11:57.031
+<v Travis>Oh.</v>
+
+00:12:10.951 --> 00:12:11.511
+<v Andres Urrego>Yeah.</v>
+
+00:12:20.745 --> 00:12:40.425
+<v Andres Urrego>Here you can make all the changes you want, right? So to those emails, you can come in, you want to write a different email, you can make the changes here. You can click on here to insert by your name or event date or just to add those little things. I added.</v>
+
+00:12:38.905 --> 00:12:39.545
+<v Travis>Mm-hmm.</v>
+
+00:12:40.585 --> 00:12:56.905
+<v Andres Urrego>So, from the beginning, buy your name and event title, call to action, see what's next. What do you want him to do? Check on our website, go to our website, book an event. What do you want him to do? You're able to do it from here. You make those changes. You can turn off the email or turn it back on.</v>
+
+00:12:50.745 --> 00:12:50.905
+<v Travis>No.</v>
+
+00:12:59.545 --> 00:12:59.945
+<v Andres Urrego>Seeing.</v>
+
+00:13:03.705 --> 00:13:04.905
+<v Andres Urrego>Questions so far.</v>
+
+00:13:05.505 --> 00:13:05.945
+<v Travis>Nope.</v>
+
+00:13:07.585 --> 00:13:10.105
+<v Andres Urrego>Okay, alright, so I got a couple.</v>
+
+00:13:16.745 --> 00:13:16.785
+<v Travis>I.</v>
+
+00:13:18.265 --> 00:13:20.425
+<v Travis>Is there a way to just like, uh...</v>
+
+00:13:22.185 --> 00:13:26.185
+<v Travis>Send a custom email to an upcoming event just like on the fly.</v>
+
+00:13:29.465 --> 00:13:40.825
+<v Andres Urrego>Um, no, we, no, there's, so you don't have like an email creation tool yet, but we can look at that. Yeah, we can look at that and see.</v>
+
+00:13:36.865 --> 00:13:37.225
+<v Travis>Uh-huh.</v>
+
+00:13:41.825 --> 00:13:44.025
+<v Travis>But I could update the 24-hour one.</v>
+
+00:13:44.505 --> 00:14:01.705
+<v Andres Urrego>Correct to whatever you want. Absolutely. Yeah, yeah. You can update those, you know, for whatever you want in the 24 hour or the day after, or, you know, because there's a 20, you know, seven days, 24 hour, day off, and then a follow up email after, like, thank you for coming, book more, you know, get another ticket.</v>
+
+00:13:45.625 --> 00:13:47.065
+<v Travis>Yeah, yeah.</v>
+
+00:13:51.785 --> 00:13:52.185
+<v Travis>Right.</v>
+
+00:14:03.905 --> 00:14:17.305
+<v Andres Urrego>This one actually, I mean, they have the PDF attached to it, so they'll be able to download the PDF code, you know, the code once they get the email. Let me think.</v>
+
+00:14:04.225 --> 00:14:04.265
+<v Travis>I.</v>
+
+00:14:08.305 --> 00:14:08.665
+<v Travis>Uh-huh.</v>
+
+00:14:13.385 --> 00:14:13.625
+<v Travis>Yeah.</v>
+
+00:14:18.985 --> 00:14:21.945
+<v Andres Urrego>Okay, I need you to do me a favor. Which account?</v>
+
+00:14:24.625 --> 00:14:29.945
+<v Andres Urrego>Which email are you going to use to manage everything? Is it going to be down on Travis at Zoewell.com?</v>
+
+00:14:30.265 --> 00:14:30.585
+<v Travis>Yeah.</v>
+
+00:14:31.625 --> 00:14:35.385
+<v Andres Urrego>Okay, so I'm sending you an email. Well...</v>
+
+00:14:36.665 --> 00:14:56.185
+<v Andres Urrego>I need you to do me a favor. I need you to sign up for two things. So one is I need to go to GitHub.com. I just sent it to you. That's where your code is going to live, but I want to make sure that we create everything from now, I mean, from the beginning under your account as we start deploying things out for you, you know, like to actual deployment.</v>
+
+00:14:56.585 --> 00:14:57.065
+<v Travis>Right.</v>
+
+00:14:57.145 --> 00:14:57.305
+<v Andres Urrego>Um...</v>
+
+00:14:59.665 --> 00:15:04.745
+<v Andres Urrego>And then when you when you are in GitHub.com, we're just basically gonna say, hey, create new account.</v>
+
+00:15:08.905 --> 00:15:17.145
+<v Andres Urrego>So this is your repository for your code. You're going to do sign up here. You're going to use that email address or you do Google, continue with Google.</v>
+
+00:15:19.945 --> 00:15:22.505
+<v Andres Urrego>Actually, it would be ideally.</v>
+
+00:15:21.225 --> 00:15:21.545
+<v Travis>Oh.</v>
+
+00:15:26.905 --> 00:15:48.225
+<v Andres Urrego>If you do email and password, that would be better, and then you can change your password after. That way you can just send me that for now. We take care of everything, load it for you, and then we just basically hand over everything over and say, here, Travis, everything's done. You keep these credentials for the next time you need them. You know, someone wants to work on your code, we're going to work on your code, we're going to build a new tool.</v>
+
+00:15:32.025 --> 00:15:32.425
+<v Travis>Uh-huh.</v>
+
+00:15:48.585 --> 00:15:52.705
+<v Andres Urrego>I want to make sure that you always have that control.</v>
+
+00:15:53.145 --> 00:15:53.625
+<v Travis>Got it.</v>
+
+00:15:54.425 --> 00:16:15.385
+<v Andres Urrego>Once we do that one, please send me those credentials and then here's the other one. Well, actually, no, I'll be able to log into the other ones once I have the GitHub account, because then I'll be able, the other one is for the emails, for the automated emails. You don't pay anything on GitHub, you don't pay anything in Vercel where your account will be hosted.</v>
+
+00:16:15.545 --> 00:16:22.425
+<v Andres Urrego>I mean, where your website will be hosted and then you don't pay anything for resend unless you send more than 1000 emails A day.</v>
+
+00:16:25.465 --> 00:16:26.105
+<v Travis>Alrighty.</v>
+
+00:17:11.185 --> 00:17:11.225
+<v Travis>I.</v>
+
+00:17:25.465 --> 00:17:26.105
+<v Travis>Phone.</v>
+
+00:17:39.985 --> 00:17:40.345
+<v Travis>Who?</v>
+
+00:18:00.585 --> 00:18:01.225
+<v Travis>Benyukhis.</v>
+
+00:18:02.865 --> 00:18:03.545
+<v Andres Urrego>What's that?</v>
+
+00:18:04.265 --> 00:18:05.545
+<v Travis>Alright, got the account.</v>
+
+00:18:06.345 --> 00:18:17.385
+<v Andres Urrego>Perfect. Awesome. Go ahead and send it. You can send it to me either here or through email, whichever you prefer. We'll put every, we'll put all your credentials in an email and in a in a document and then share access with you.</v>
+
+00:18:22.105 --> 00:18:22.505
+<v Travis>Hello!</v>
+
+00:18:40.025 --> 00:18:45.625
+<v Andres Urrego>Taco salad. Do you actually like taco salads?</v>
+
+00:18:41.225 --> 00:18:41.625
+<v Travis>Ohh.</v>
+
+00:18:46.105 --> 00:18:46.505
+<v Travis>Sure.</v>
+
+00:18:47.145 --> 00:19:05.545
+<v Andres Urrego>Yeah, sure. Okay, all right. Questions about the, I don't know if you've had a chance to kind of go through the whole website itself. I know, you know, I do want to make sure that, you know, there's other pictures that we want to use. I know I still need to replace a couple of this.</v>
+
+00:18:48.265 --> 00:18:48.825
+<v Travis>No.</v>
+
+00:19:05.865 --> 00:19:06.265
+<v Travis>Uh-huh.</v>
+
+00:19:05.865 --> 00:19:10.345
+<v Andres Urrego>because they're kind of, you know, cut out like this one. I need to make it longer.</v>
+
+00:19:13.065 --> 00:19:23.545
+<v Andres Urrego>But any other pictures or better ones that you want me to, oh, this is the one that I had. I had added this one right here to the hero section and it looked really good.</v>
+
+00:19:20.425 --> 00:19:24.265
+<v Travis>Yeah, any of those, yeah, any of those Stan Martinez are good, yeah.</v>
+
+00:19:25.545 --> 00:19:34.745
+<v Andres Urrego>Okay, okay, cool, cool. Perfect. So I'll test them out. I'll let you know when I put this up there and then you can check them out. If you don't like it, we can take them off. That's not a big deal.</v>
+
+00:19:35.385 --> 00:19:35.945
+<v Travis>Sounds good.</v>
+
+00:19:37.745 --> 00:19:57.665
+<v Andres Urrego>What else? What else? Yeah, go through it. Any questions, anything you're like, okay, Andres, how about this? Or, you know, can we make changes to this? Just let me know. Let me know and I'll definitely, yeah, I mean, we'll definitely work on that. I'll let you know as soon as we make these couple of updates from the testing.</v>
+
+00:19:58.985 --> 00:19:59.145
+<v Andres Urrego>Um...</v>
+
+00:20:01.065 --> 00:20:24.825
+<v Andres Urrego>Yeah, so as soon as I do that, as soon as we make these changes, I'll let you know so that you can test them. We'll test them too. Oh, one more thing. Where is your website deployed? Is it GoDaddy? Is it a Go? Okay, I need access to that so that we can, once it's done, so that we can, you can, I think you can add me as an admin or as a, you can give me access instead of like sending me your credentials for that. You can actually just.</v>
+
+00:20:11.385 --> 00:20:11.945
+<v Travis>Yes.</v>
+
+00:20:24.465 --> 00:20:24.945
+<v Travis>Mhm.</v>
+
+00:20:25.145 --> 00:20:33.785
+<v Andres Urrego>add me as a user, and then we can actually go in and deploy. Once we make these changes, we can go in and deploy the website.</v>
+
+00:20:35.345 --> 00:20:36.585
+<v Travis>All right, let me see.</v>
+
+00:20:36.665 --> 00:20:37.865
+<v Andres Urrego>Almost there, man.</v>
+
+00:20:39.705 --> 00:20:40.345
+<v Travis>Mhm.</v>
+
+00:20:46.905 --> 00:20:51.145
+<v Andres Urrego>Ohh, this is a good point. Okay, so we'll okay, okay.</v>
+
+00:20:54.705 --> 00:20:54.825
+<v Travis>Play.</v>
+
+00:21:17.625 --> 00:21:18.185
+<v Andres Urrego>Very.</v>
+
+00:21:22.345 --> 00:21:24.025
+<v Andres Urrego>Yeah, I don't tell you.</v>
+
+00:21:39.785 --> 00:21:41.545
+<v Travis>I sent you an invite to GoDaddy.</v>
+
+00:21:42.385 --> 00:21:44.025
+<v Andres Urrego>Perfect. Awesome.</v>
+
+00:21:43.945 --> 00:21:44.185
+<v Travis>Mm.</v>
+
+00:21:46.465 --> 00:21:50.665
+<v Andres Urrego>Like, come to, or there is some more a lot, probably.</v>
+
+00:21:51.105 --> 00:21:51.305
+<v Travis>Uh-huh.</v>
+
+00:21:54.065 --> 00:21:54.865
+<v Travis>But.</v>
+
+00:22:40.585 --> 00:22:41.465
+<v Andres Urrego>No, really.</v>
+
+00:23:00.985 --> 00:23:03.625
+<v Andres Urrego>So, you went to Andres at my, right? Yes.</v>
+
+00:23:03.465 --> 00:23:03.945
+<v Travis>Yeah.</v>
+
+00:23:19.545 --> 00:23:20.105
+<v Travis>Start.</v>
+
+00:23:23.625 --> 00:23:24.585
+<v Andres Urrego>I am Indian.</v>
+
+00:23:39.305 --> 00:23:39.705
+<v Andres Urrego>Yeah.</v>
+
+00:23:55.545 --> 00:23:56.425
+<v Travis>Okay, hold on.</v>
+
+00:23:57.225 --> 00:23:57.545
+<v Travis>Google.</v>
+
+00:24:03.545 --> 00:24:03.825
+<v Andres Urrego>Yeah.</v>
+
+00:24:16.185 --> 00:24:16.825
+<v Andres Urrego>Interesting.</v>
+
+00:24:20.025 --> 00:24:20.905
+<v Travis>I'll try it again.</v>
+
+00:24:27.145 --> 00:24:29.545
+<v Andres Urrego>Okay, so I got the one that I just sent myself.</v>
+
+00:24:30.785 --> 00:24:32.505
+<v Travis>Hold on, I'll shoot it over again.</v>
+
+00:24:47.225 --> 00:24:48.025
+<v Travis>Standby.</v>
+
+00:25:35.545 --> 00:25:35.785
+<v Andres Urrego>Hmm.</v>
+
+00:25:39.945 --> 00:25:40.585
+<v Andres Urrego>Here we go.</v>
+
+00:25:55.865 --> 00:25:56.105
+<v Andres Urrego>Yeah.</v>
+
+00:25:58.385 --> 00:25:58.745
+<v Andres Urrego>What?</v>
+
+00:26:27.785 --> 00:26:29.145
+<v Andres Urrego>Sign out and sing.</v>
+
+00:26:52.265 --> 00:26:52.825
+<v Andres Urrego>K.</v>
+
+00:26:55.385 --> 00:26:56.745
+<v Andres Urrego>So that didn't work.</v>
+
+00:26:58.825 --> 00:26:59.385
+<v Andres Urrego>Sing.</v>
+
+00:27:03.385 --> 00:27:06.265
+<v Andres Urrego>Oh, here's the other one. Okay, let me try this one instead.</v>
+
+00:27:07.865 --> 00:27:08.665
+<v Andres Urrego>Turn on.</v>
+
+00:27:10.105 --> 00:27:11.705
+<v Andres Urrego>Perfect. Okay, beautiful.</v>
+
+00:27:12.425 --> 00:27:12.745
+<v Travis>Hello.</v>
+
+00:27:14.265 --> 00:27:15.625
+<v Andres Urrego>Awesome, I'm in.</v>
+
+00:27:21.225 --> 00:27:22.825
+<v Andres Urrego>Perfect. Beautiful.</v>
+
+00:27:31.305 --> 00:27:31.945
+<v Andres Urrego>All right.</v>
+
+00:27:35.865 --> 00:27:50.745
+<v Andres Urrego>So I'm in. Again, I won't push. I'll send you the update with a couple of images first. And then once you say, hey, I know I love that one, then push, then I'll go ahead and push it and we can just replace it there.</v>
+
+00:27:52.985 --> 00:27:53.625
+<v Andres Urrego>Good.</v>
+
+00:27:54.825 --> 00:27:55.385
+<v Travis>Alright.</v>
+
+00:27:55.065 --> 00:27:55.545
+<v Andres Urrego>Right.</v>
+
+00:27:56.905 --> 00:27:58.785
+<v Andres Urrego>Done. Perfect.</v>
+
+00:28:02.265 --> 00:28:04.105
+<v Andres Urrego>All right, brother. Any other questions?</v>
+
+00:28:04.585 --> 00:28:05.545
+<v Travis>Not right now.</v>
+
+00:28:06.425 --> 00:28:08.585
+<v Andres Urrego>Okay, sounds good. Uh, give me...</v>
+
+00:28:09.665 --> 00:28:25.625
+<v Andres Urrego>Yeah, I can, by tomorrow, I'll get this done to you. We'll fix up the little bugs that we encountered today, replace that API key, and then we'll get that, we'll get that page, at least I mean the landing page for sure, pushed out by tomorrow.</v>
+
+00:28:26.425 --> 00:28:27.145
+<v Travis>Sounds like a plan.</v>
+
+00:28:27.945 --> 00:28:30.025
+<v Andres Urrego>Awesome, my friend. Thank you so much. I appreciate you.</v>
+
+00:28:28.105 --> 00:28:28.745
+<v Travis>Thanks, Zane.</v>
+
+00:28:30.025 --> 00:28:31.385
+<v Travis>Yeah, thank you. Have a good one.</v>
+
+00:28:31.105 --> 00:28:32.505
+<v Andres Urrego>Talk to you a bit. Thank you. Bye bye.</v>
+
+00:28:33.065 --> 00:28:33.305
+<v Travis>Bye.</v>
+
+

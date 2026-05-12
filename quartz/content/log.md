@@ -4,6 +4,83 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ---
 
+## 2026-05-12 (PM) — Run 46: Carolina coaching follow-up + Travis Meridian platform handoff + 3 logged-only sources (X bookmarks + 2 moil-repo audits)
+
+**Trigger:** KB-agent scan for unprocessed raw files. Five found: (1) `raw/teams-transcript-carolina-andres-2026-05-12.md` (67-min Spanglish Cohort-4 coaching follow-up — ICP reframe + spa→work positioning + corporate-anchor playbook); (2) `raw/teams-transcript-travis-andres-2026-05-12.md` (31-min Meridian Buda platform handoff + credential transfer); (3) `raw/x-bookmarks-2026-05-12.md` (174 X bookmarks — logged only per Run 31 derivative-source precedent); (4) `raw/audits/2026-05-07-moil-repo-sync-check.md` (internal-infra audit, logged only); (5) `raw/audits/2026-05-07-moil-repo-cleanup-followup.md` (internal-infra audit shipped Task 1, logged only).
+
+### File 1 — `raw/teams-transcript-carolina-andres-2026-05-12.md`
+
+- **Type:** teams-transcript (Cohort 4 1:1 follow-up — second session in 12 days)
+- **Attendees:** Andres, [[wiki/people/carolina-caro|Carolina ("Caro")]]
+- **Pages created (1):** [[wiki/meetings/2026-05-12-carolina-coaching]]
+- **Pages updated (2):** [[wiki/people/carolina-caro]] (May 12 ICP-reframe block + corporate-anchor playbook + Buda-EDC-HIVE-Moil-license confidential disclosure; last_contact 2026-04-30→2026-05-12), [[wiki/orgs/buda-edc]] (last_contact 2026-05-11→2026-05-12; **two new on-record signals**: (a) HIVE 1-yr Moil license precedent — confidential, first articulated outside the team; (b) renovation grant ~$10K — surfaced by Andres as a recall, not previously documented in any cohort note)
+- **MEMORY.md:** unchanged this run — Caro's next steps (Moil 21-Q + 10 ICP questions + email Jackie with EDC membership pitch + renovation-grant ask) sit under her HIVE Cohort 4 thread already captured in the Apr 30 1:1 block; Apr 30 Caro action item *"complete Moil 21 questions"* still open and now subsumes the May 12 *"top 10 ICP questions"* sub-task (no separate line needed)
+
+**Key intelligence from File 1:**
+
+1. **Wrong-persona-survey is now a documented failure mode across two Cohort 4 1:1s in 2 weeks.** Heather (Apr 30) interviewed parents when she should have interviewed daycare owners. Caro (May 12) interviewed artisan-makers + frugal solopreneurs when she should have interviewed income-earning professional women. **Pattern worth surfacing in the cohort curriculum next round** — "plan your questions before asking them" should be a Week-1 frame, not a Week-3 1:1 correction.
+
+2. **First explicit on-record disclosure of the Buda EDC HIVE 1-year Moil license precedent.** Andres told Caro *"el EDC les va a dar un año de licencia de Moil a los del HIVE — no le cuentes a nadie."* This is the first articulation of an **annual-license-bundle** B2G revenue line, distinct from the per-cohort per-seat license. Materially changes the Buda EDC × Moil revenue math from "per-cohort burst" to "annual subscription per cohort participant." **Hold confidential until the EDC announces** — captured in the Caro page and the Buda EDC page with the confidentiality flag.
+
+3. **Renovation grant up to ~$10K surfaces in cohort coaching for the first time.** Andres recalled it; not previously documented in any cohort note despite Cohort 4 having multiple participants pursuing physical-space concepts (Caro coworking, Christine+Kat wine shop at Train Depot, Sarah bookstore+wine). If real, this is a material funding lever for any participant doing build-out. Caro to confirm with Jackie + Casey this week — Andres should verify with the EDC and add to the HIVE program documentation if confirmed.
+
+4. **"Sell it as work, not wellness" — the inverse-guilt positioning rule.** Andres' first named articulation: women under-invest in wellness as a guilty discretionary expense; they will invest in business/work. Spa/sauna/cold plunge/nails reframe as "while you're already here working" perks, not the headline. **Useful positioning frame for any future female-ICP product or program.** Connects to the FitLogic women's-vitality-circle frame (Megan May 7) — same inverse-guilt mechanic.
+
+5. **Corporate / institutional memberships are the anchor — not individual sign-ups.** Andres-suggested first asks: Buda EDC $100/mo (Jackie + Casey work-from-space, stays in front of women entrepreneurs); Subaru or similar dealership $300/mo for 3 seats (puts dealership in front of affluent women buyers). **Same B2B-anchor-for-B2C-discovery pattern as the Sun Show, the SoSX event sponsorships, and Andres's pitch to Travis re: Sun Show monthly recurring rotations.** First time the pattern is named explicitly as an *anchor-revenue* play for a coworking concept rather than a marketing-distribution play for events.
+
+6. **Indoor curated / outdoor expandable architecture is now a Buda venue pattern across two concepts.** Same shape as Meridian Buda (curated indoor + outdoor stage area). Caro's 1,200 sqft house + 7,500 sqft backyard mirrors the proportions; the outdoor space carries social engine, content, and visible-activity load. Pattern: in Buda, the outdoor space is where the venue scales — indoor is for curated experience.
+
+7. **Andres ran a live Moil signup mid-call** (signup → 21-Q intro → business-coach intro → ICP/market-research/competition/market-position-map outputs → renovation-grant + Subaru pitch). Continues the **same-call demo + close pattern** that worked with Christine + Kat (May 4), Claudia (May 4), and Christy Mawdsley (May 5). Signup activated 30-day free trial — Apr 30 first-month-free signup either didn't stick or terms changed; worth confirming the Moil signup state on Caro's account before next 1:1.
+
+### File 2 — `raw/teams-transcript-travis-andres-2026-05-12.md`
+
+- **Type:** teams-transcript (product handoff / platform demo — in-person at Meridian Buda)
+- **Attendees:** Andres, [[wiki/people/travis-sutherland|Travis Sutherland]]
+- **Pages created (1):** [[wiki/meetings/2026-05-12-travis-meridian-platform-handoff]]
+- **Pages updated (2):** [[wiki/people/travis-sutherland]] (May 12 platform-handoff block; last_contact 2026-04-15→2026-05-12), [[wiki/orgs/meridian-buda]] (May 12 handoff block — bugs, deliverables, feature requests, credential-discipline cross-pattern; last_contact 2026-04-13→2026-05-12)
+- **MEMORY.md:** unchanged this run — Andres's commitments (Gemini API key replacement today, check-in bug fix tomorrow, landing-page push tomorrow, `info@meridianbuda.com` staff provisioning, credentials doc) are all <48-hour delivery and fit naturally under the existing May 11 Inna/team-rule immediate-week block as same-week engineering work; no separate Memory line item needed
+
+**Key intelligence from File 2:**
+
+1. **First explicit credential-discipline handover under the May 11 Monday-Collaboration rule.** Three days after Andres' *"if you create a new account, tell us — we have 10 @moilapp.com emails, we shouldn't be using personal Gmail accounts, especially with client data"* directive (May 11), Andres ran the rule on a client: GitHub + Vercel + Resend + GoDaddy all under Travis's accounts before any production push. **Rule applies both directions:** Moil-side credentials go under @moilapp.com sales emails (Taiwo/Megan/FitLogic), and **client-side credentials go under the client's own accounts** (Travis/Meridian). Worth surfacing as the canonical pattern for every venue/website client handoff going forward.
+
+2. **Image-approval gate before push is now a per-client workflow.** First time Andres has named *"I won't push until you say push"* explicitly. *"I'll send you the update with a couple of images first. Once you say 'I love that one, push it,' I'll push."* **Reduces the trust-debt that built up at FitLogic/Inna when proactive design changes landed without sign-off.** Connects to the May 6 Siren Beauty standing rule (*"no proactive design changes — only deliver items Becky explicitly calls out"*) — the same rule generalized.
+
+3. **Stan Martinez (photographer) surfaces for the first time** as the source of Meridian's hero/page images. Track if his name appears again on other client visual assets — Buda-area photographer pipeline could be a recurring lever for venue/landingpage clients.
+
+4. **Same-day client bundle in Buda.** Andres was in Buda for the **Perseus Defense YC meeting at 8 AM** (Tue May 12, source [[wiki/meetings/2026-05-11-monday-collaboration]] action item), and the **Travis Meridian handoff was the 1:30 PM follow-on**. Two YC-adjacent and venue-client wins on one Buda visit. **Replicable cadence:** bundle Buda visits to compound venue presence (Meridian + Buda EDC + HIVE participants).
+
+5. **Three bugs identified live during demo, all the same category:** Gemini model deprecated (artist autofill — known issue, key replacement); check-in button + event-update form both fail to refresh after live time changes (same UI-state-propagation root cause). Andres committed to fix #1 today (May 12), #2/#3 tomorrow (May 13), and the landing-page push tomorrow. Five action items + 8 deliverables tracked on the meeting page — keep close watch this week for follow-through receipts.
+
+6. **Two future feature requests captured:** (a) on-the-fly custom email to upcoming event attendees (today only templated 24-hr + post-event are editable); (b) check-in search by guest name rather than ticket number. Both are reasonable v2 work and worth bundling once the v1 bugs are clean.
+
+### File 3 — `raw/x-bookmarks-2026-05-12.md`
+
+- **Type:** bookmark digest (174 bookmarks across 11 thematic sections, Jun 4 2024 – May 12 2026 window; captured via gstack /browse from @roarkittys)
+- **Pages created/updated:** none (logged only per Run 31 derivative-source precedent — bookmark digests are operational input to AIbyAndres content workflow, not knowledge-graph primary sources)
+- **Frontmatter:** marked `ingested: true / ingested_at: 2026-05-12`
+- **Notable thematic distribution:** Claude Ecosystem (~50 items — heavy on the markdown-vs-HTML-for-agents debate triggered by @karpathy's *"end queries with structure your response as HTML"*; Codex /goal + Codex Chrome extension + Cerebral Valley hackathon winners; Claude Design + HyperFrames video flow; Hermes/Higgsfield agent-native MCP integrations); AI for Business / Agents in Production; balance across founder thinking, sales/GTM, infrastructure tooling. **No on-record action signal extracted** — the file is queued for AIbyAndres editorial review, not knowledge-graph ingestion.
+
+### File 4 — `raw/audits/2026-05-07-moil-repo-sync-check.md`
+
+- **Type:** internal-infrastructure audit (read-only)
+- **Pages created/updated:** none (logged only per Run 31 precedent)
+- **Frontmatter:** marked `ingested: true / ingested_at: 2026-05-12`; `tags: graph/leaf` retained
+- **Summary:** Read-only sync check on `moil-app` (Moil Employer Platform front-end, Create-React-App, `Moil-Code/Moilapp_business`) and `moil-bpc` (Moil Business Plan Creator beta, Node/Express, `Moil-Code/Business-plan-beta-prod`). Both checkouts were significantly behind (84 + 237 commits) but local trees were clean — `git pull --ff-only` was safe and applied. Both now current. Three findings: (a) **production checkouts were nested inside the Brain repo** at `~/My Brain/knowledge-base/moil-app` and `/moil-bpc` (unconventional, but functioning); (b) one substantive feature branch (`claude/moil-messaging-integration-JI9mJ` — Moil Mini Bot WhatsApp + Telegram coach integration) sits unmerged on `moil-bpc` master; (c) significant production-branch sprawl (28 remote branches on moil-bpc, 19 on moil-app). Audit recommended Task 1 (relocate to `~/Moil/`), Task 2 (review messaging branch), Task 3 (curate branch sprawl).
+
+### File 5 — `raw/audits/2026-05-07-moil-repo-cleanup-followup.md`
+
+- **Type:** internal-infrastructure audit follow-up (read-only; Task 1 already shipped per commit `53759e9` "chore(brain): relocate moil-app + moil-bpc out of knowledge-base; drop orphan gitlinks" — companion to Run 46 ingest)
+- **Pages created/updated:** none (logged only per Run 31 precedent)
+- **Frontmatter:** marked `ingested: true / ingested_at: 2026-05-12`; `tags: graph/leaf` retained
+- **Summary:** **Task 1 (relocate) shipped** — both checkouts moved to `~/Moil/moil-app` and `~/Moil/moil-bpc`; brain repo's orphan-gitlink index entries dropped via `git rm --cached`. Found a load-bearing surprise: the two directories weren't just nested — they were tracked as **orphan gitlinks** (`160000 commit` mode) in the brain repo's index with no `.gitmodules` file. That was the source of the long-standing CI warning `fatal: No url found for submodule path 'moil-app' in .gitmodules` we'd been ignoring since 2026-04-23. Hardcoded-reference scan across `pi-workspace/bin/`, `pi-workspace/launchd/`, `pi-workspace/sentinel-config.tsv`, `pi-workspace/project-config.tsv`, `knowledge-base/wiki/`, `knowledge-base/raw/`, `knowledge-base/CLAUDE.md`, `~/My Brain/CLAUDE.md`, `~/CLAUDE.md` returned only one hit (the prior audit file itself — historical doc, leave as-is). Move is fully clean. **Task 2 (messaging branch):** recommends **continue/activate, not archive** — single-commit 7-file 921-line branch from 2026-04-05; clean architecture (routes → controller → service → platform adapters Telegram + WhatsApp). Strong composition with the agent-native MCP direction. **Task 3 (branch sprawl):** **8 deletion candidates surfaced for approval; no `git branch -D` executed.** No MEMORY action — operational, owned by pi-workspace and the moil engineering side.
+
+### Skipped files
+
+None. All five unprocessed files in `raw/` and `raw/audits/` accounted for and frontmatter-marked. The `raw/onedrive-transcripts/` directory is unchanged from the 2026-04-15 state (10 binary MP4-misnamed-as-`.txt` files documented in Run 11 still pending re-processing or move; not addressed this run, same as Runs 44–45).
+
+---
+
 ## 2026-05-12 — Run 45: email-digest 2026-05-11 + signal-brief 2026-05-11 (Perseus founder names + Connectex domain reseller block + Adeleke silence anomaly)
 
 **Trigger:** KB-agent scan for unprocessed raw files. Two found: (1) `raw/email-digest-2026-05-11.md` (daily email digest — 9 inbound + 9 outbound across 13 active contacts; high signal on Perseus Defense YC coffee confirmation, Connectex domain-reseller blocker, Inna apology thread artifacts, Linda Horuke re-ping); (2) `raw/signal-briefs/signal-brief-2026-05-11.md` (daily-correlator output — cross-source connection on FitLogic+Connectex personal-credential anti-pattern, Mark Polanco active-person flag, Adeleke silence anomaly).

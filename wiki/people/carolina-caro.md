@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-30
+last_contact: 2026-05-12
 client: "[[wiki/orgs/buda-edc]]"
 tags:
   - graph/spoke
@@ -9,9 +9,9 @@ tags:
 # Carolina ("Caro")
 
 **Type:** person
-**Last updated:** 2026-04-30
-**Source:** [[raw/teams-transcript-carolina-2026-04-30]], [[raw/email-digest-2026-04-30]]
-**Related:** [[wiki/concepts/buda-hive]], [[wiki/concepts/hive-program]], [[wiki/orgs/buda-edc]], [[wiki/orgs/meridian-buda]], [[wiki/people/jacquie-martinez]], [[wiki/meetings/2026-04-30-carolina-coaching]]
+**Last updated:** 2026-05-12
+**Source:** [[raw/teams-transcript-carolina-2026-04-30]], [[raw/email-digest-2026-04-30]], [[raw/teams-transcript-carolina-andres-2026-05-12]]
+**Related:** [[wiki/concepts/buda-hive]], [[wiki/concepts/hive-program]], [[wiki/orgs/buda-edc]], [[wiki/orgs/meridian-buda]], [[wiki/people/jacquie-martinez]], [[wiki/meetings/2026-04-30-carolina-coaching]], [[wiki/meetings/2026-05-12-carolina-coaching]]
 
 ---
 
@@ -67,6 +67,50 @@ She and her husband own a house on **Austin Street directly behind [[wiki/orgs/m
 - Last name not captured during the call
 - Andres planned to drop by the house in person Apr 30 / Apr 30+1 / Mon May 4 before HIVE
 - Caro signed up for Moil first month free during the call — to complete the 21 questions
+
+## 2026-05-12 — ICP reframe + spa→work positioning + corporate-anchor playbook
+
+Source: [[wiki/meetings/2026-05-12-carolina-coaching]], [[raw/teams-transcript-carolina-andres-2026-05-12]]
+
+Caro came in **leaning toward killing the women-coworking idea** based on a ~6-person survey that disqualified itself: artisan respondents (Kerry the candle-maker, a macramé maker) said they need *workshop* space, not desks, and a Cohort-4 peer ("Mary") said she uses the library for free. Andres reframed: **wrong ICP, not wrong idea.**
+
+**ICP correction:** women who already have income (paycheck or revenue) and want community + a reason to leave the house — not entrepreneurs hunting free workspace. Buda demographics support this (median household income ~$120K · 50.1% bachelor's degree attainment · 72% female labor-force participation · 49% female residents).
+
+**Positioning rule (new):** *"Sell it as work, not wellness."* Women under-invest in wellness as a guilty expense; they will invest in business/work. Spa/sauna/cold plunge/nails reframe as "while you're already here working" perks, not the headline.
+
+**Layout decisions (live floorplan pass):**
+- Indoor (~1,200 sqft) curated high-value: lounge ~350 sqft · 3 phone booths carved from closets · café/coffee bar in a repurposed closet · 1 meeting room ~120 sqft · reception/scanner only (no desk) · monthly-refreshed outdoor content/photo wall
+- Bigger bedroom's bathroom becomes **cold plunge + sauna combo** (Costco-style zip sauna fits in-bath); hallway bathroom stays public — solves the "people staring at me when I exit" awkwardness of an in-workspace bathroom
+- 7,500 sqft backyard is the **social engine** (events + content + visible activity); pattern matches Meridian's indoor-curated / outdoor-expandable model
+- Sheds → potential additional pods over time
+
+**Pricing direction:** $50–$100/mo membership. $100 × 25 members covers the asset; the next 25–50 are profit.
+
+**Corporate / institutional memberships are the anchor — not individual sign-ups.** Andres-suggested first asks:
+- **Buda EDC: $100/mo** so Jackie + Casey can come work from the space and stay in front of women entrepreneurs
+- **Subaru** (or similar family/luxury dealership): **$300/mo for 3 seats** — puts the dealership in front of affluent women buyers; anchor revenue for Caro
+
+**Buda EDC HIVE Moil license precedent (confidential, in-call disclosure):** Andres told Caro that Buda EDC will give HIVE participants a 1-year Moil license. **Hold confidential** until the EDC announces. First explicit on-record articulation of this revenue line outside the team.
+
+**Brian (EDC) is sceptical** — *"yo soy la peor persona porque 100% sigo creyendo en los espacios físicos"* — but explicitly receptive: *"si necesitas incentivos, dinero — yo lo que necesito ver es un buen business plan."* Caro to send him + Jackie + Casey the refined concept this week.
+
+**Sign-ups during the call:** Caro activated her **Moil 30-day free trial** live (not the Apr 30 first-month-free signup — this is a fresh sign-up, suggests the prior account may not have stuck or the offer terms changed). Andres walked her through the 21-question business-plan flow and the business-coach + ICP / market-research / competition / market-position-map outputs.
+
+**Action items for Caro (this week / today–tomorrow):**
+1. Complete Moil 21-question business plan
+2. Ask Moil business coach for top 10 ICP interview questions → send to Andres (today or tomorrow)
+3. Email [[wiki/people/jacquie-martinez|Jackie]] pitching ~$100/mo EDC membership for the rotating community
+4. Ask Casey + Jackie about the **renovation grant up to $10K** — frame as outdoor + phone-booth conditioning
+5. Facebook survey (mix anonymous + direct) once top 10 questions finalized
+6. Protest the property appraisal (annual — Andres has saved ~$10K/yr doing this)
+7. Register a new business entity for the coworking concept (separate from the real-estate business)
+
+**Coaching points (for KB synthesis):**
+- *"Plan your questions before asking them."* Wrong-persona surveys are unfair to good ideas.
+- *"Mary makes sense because she wants to save money — she's not your client unless she sees community as the benefit."* Feedback quality vs. feedback fit.
+- *"Move fast, create fast, fail fast — but play it against your market research first."* Use Moil to pre-test before spending.
+- *"How do I start tomorrow?"* beats a 10-year plan never started.
+- **Early-adopter pricing:** *"first 20 people, undeniable package — after that everybody pays full price."*
 
 ## Apr 30 — Same-day follow-up email
 

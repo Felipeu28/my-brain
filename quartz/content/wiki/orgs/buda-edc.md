@@ -3,7 +3,7 @@ github_repo: Moil-Landingpages/BUDAEDC, Moil-Code/buda-hive
 tags:
   - graph/hub
 status: active
-last_contact: 2026-05-11
+last_contact: 2026-05-12
 owner: "[[wiki/people/jennifer-storm]]"
 ---
 # Buda EDC
@@ -114,6 +114,16 @@ John Costilla emailed Andres ("Call today") about an EDC website project and ask
 - [[wiki/people/christine-stjohn|Christine St John]] + [[wiki/people/kat-eyers|Kat Eyers]] — wine-shop concept (HIVE Cohort 4; both completing Moil 21-Q business plans individually with first 30 days free)
 - [[wiki/people/claudia-sanchez|Claudia Sanchez]] — [[wiki/orgs/nativa-medspa|Nativa Med Spa]] (HIVE Cohort 4; ribbon-cutting May 21)
 - Multiple cohort graduates using Moil platform licenses
+
+## 2026-05-12 — HIVE 1-year Moil license precedent (confidential) + renovation-grant signal
+
+Source: [[wiki/meetings/2026-05-12-carolina-coaching]]
+
+Two new on-record signals from the May 12 Caro coaching session:
+
+1. **HIVE participants will receive a 1-year Moil license from Buda EDC** (confidential — disclosed by Andres to Caro in-call, *"no le cuentes a nadie"*). First time this revenue line has been articulated outside the team. Hold confidential until the EDC announces. Captures a B2G template: per-cohort per-seat licenses are no longer the only B2G revenue line — annual-license bundles per cohort participant are the next iteration.
+
+2. **EDC renovation grant up to ~$10K** for HIVE-adjacent build-outs. Andres recalled the figure when coaching Caro on conditioning her outdoor space + phone booths for the women-coworking concept. Surfaced as an action item for Caro to ask [[wiki/people/casey-earley|Casey]] + [[wiki/people/jacquie-martinez|Jackie]] to confirm. **Not previously documented** in any prior cohort note. If the program exists at this scale, it's a material funding lever for any HIVE participant doing a physical-space concept (Caro coworking, Christine+Kat wine shop at the Train Depot, Sarah bookstore+wine). Worth confirming with Jackie before any participant relies on it.
 
 ## 2026-05-11 — Magazine spread + Excellence in Innovation finalist + Perseus referral
 

@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-04-15
+last_contact: 2026-05-12
 tags:
   - graph/hub
   - person/customer
@@ -11,9 +11,9 @@ client:
 # Travis Sutherland
 
 **Type:** person
-**Last updated:** 2026-04-15
-**Source:** [[raw/imessages-people-2026-04-09]], [[raw/teams-transcript-monday-collaboration-2026-04-13]]
-**Related:** [[wiki/orgs/zoiwell]], [[wiki/orgs/meridian-buda]], [[wiki/moil/customers]], [[wiki/moil/active-projects]]
+**Last updated:** 2026-05-12
+**Source:** [[raw/imessages-people-2026-04-09]], [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-transcript-travis-andres-2026-05-12]]
+**Related:** [[wiki/orgs/zoiwell]], [[wiki/orgs/meridian-buda]], [[wiki/moil/customers]], [[wiki/moil/active-projects]], [[wiki/meetings/2026-05-12-travis-meridian-platform-handoff]]
 
 ---
 
@@ -57,3 +57,18 @@ Monthly community event promoting one downtown + one non-downtown business. Trav
 - [[wiki/orgs/meridian-buda]] — secondary business + Sun Show venue
 - [[wiki/people/taiwo-ola-balogun]] — engineer on the Meridian platform
 - [[wiki/meetings/2026-04-13-monday-collaboration]] — latest context
+- [[wiki/meetings/2026-05-12-travis-meridian-platform-handoff]] — May 12 product walkthrough + credential transfer
+
+## 2026-05-12 — Meridian platform handoff + credential transfer
+
+Source: [[wiki/meetings/2026-05-12-travis-meridian-platform-handoff]]
+
+Full product walkthrough of the Meridian event-management platform (recurring events, ticketing tiers, customizable RSVP, QR + name check-in, analytics, bookings inbox, menu management, 4-stage automated email flow). Travis created his own **GitHub account** (`travis@zoiwell.com`) in-meeting and sent Andres a **GoDaddy admin invite** — all production artifacts now under Travis's accounts (GitHub + Vercel free + Resend free + GoDaddy). Travis retains full control even if he later changes developers.
+
+**Workflow established:** Andres won't push without Travis's prior approval on hero/page images. *"I'll send you the update with a couple of images first. Once you say 'I love that one, push it,' I'll push."*
+
+**Bugs identified live:** Gemini-backed artist autofill broken (deprecated model, key replacement needed); check-in button stays disabled after live event time change; event update form shows stale opening time after time change. Andres committed to fix the first by today (May 12), the second by tomorrow (May 13), and push the landing page (with new Stan Martinez hero images) by tomorrow.
+
+**Future feature requests:** on-the-fly custom email to upcoming attendees (today Travis only edits the templated 24-hour or follow-up emails); guest-name search on check-in instead of ticket number (Andres self-flagged).
+
+**Staff login:** Andres provisioning `info@meridianbuda.com` as additional team-member account for door check-ins.

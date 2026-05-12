@@ -37,26 +37,26 @@ Updated automatically by:
 ## Recent Queries
 
 <!-- ENTRIES:query -->
-- 2026-05-12 12:22 — Session end: [Brain/KB] Run the weekly knowledge base compile and cleanup. Today is 2026-05-12.  ## PART… — 1 new files · 1 edits
-- 2026-05-12 12:19 — Session end: [Brain] init — 1 new files
-- 2026-05-12 12:01 — Session end: [Brain/Auto] You are Andres's plan radar. Every day at noon you scan recent Brain activity an… — 1 new files
-- 2026-05-12 10:47 — Session end: [Brain/KB] You are the Moil Brain KB Agent. Ingest these unprocessed raw files into wiki pa… — 2 new files · 22 edits
-- 2026-05-12 09:32 — Session end: [Brain/Auto] Run the morning briefing. Execute these steps:  1. Fetch today's calendar: bash … — 1 new files
-- 2026-05-12 07:24 — Session end: [Claude] You are surfacing patterns from the last 28 days of Andres's working life — code… — 1 new files
-- 2026-05-12 06:00 — Session end: [Claude] You are the Moil Brain's daily cross-source intelligence analyst.  You are readi… — 9 events
-- 2026-05-12 00:15 — Session end: [Claude] You are an entity-extraction agent for the Moil Brain.  Extract every person men… — 9 events
-- 2026-05-12 00:08 — Session end: [Clio] You are a senior security engineer conducting a focused security review of the c… — 24 events
-- 2026-05-11 23:58 — Session end: [Clio] You are a senior security engineer conducting a focused security review of the c… — 12 events
-- 2026-05-11 22:57 — Session end: [Clio] Help me find the document I got from the first office hours with gstack — 42 events
-- 2026-05-11 18:42 — Session end: [Brain/KB] Check for any new files in raw/ and raw/onedrive-transcripts/ that haven't been … — 2 new files · 34 edits · 1 commits
-- 2026-05-11 18:31 — Session end: [Brain/Auto] Read these two JSON files of today's email activity and create a structured Brai… — 1 new files
-- 2026-05-11 18:21 — Session end: [Brain/Auto] Pull today's Microsoft Teams meeting transcripts and add them to the Brain.  1. … — 1 new files
-- 2026-05-11 17:17 — Session end: [Brain/KB] URGENT — full diagnosis needed. The "Deploy Quartz site to GitHub Pages" workflo… — 19 new files · 44 edits · 22 commits
-- 2026-05-11 17:11 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 71 edits
-- 2026-05-11 12:01 — Session end: [Brain/Auto] You are Andres's plan radar. Every day at noon you scan recent Brain activity an… — 1 new files
-- 2026-05-11 09:04 — Session end: [Brain/Auto] Generate Moil's 4-week rolling content calendar. Execute these steps:  1. Read ~… — 1 new files
-- 2026-05-11 08:53 — Session end: [Brain/KB] You are the Moil Brain KB Agent. Ingest these unprocessed raw files into wiki pa… — 2 edits
-- 2026-05-11 08:48 — Session end: [Brain/Auto] Run the morning briefing. Execute these steps:  1. Fetch today's calendar: bash … — 1 new files
+- 2026-05-12 18:20 — Session end: [Brain/Auto] Pull today's Microsoft Teams meeting transcripts and add them to the Brain.  1. … — 2 new files
+- 2026-05-12 15:39 — Session end: [Brain/KB] URGENT — full diagnosis needed. The "Deploy Quartz site to GitHub Pages" workflo… — 21 new files · 44 edits · 24 commits
+- 2026-05-12 15:17 — Session end: [Brain/KB] URGENT — full diagnosis needed. The "Deploy Quartz site to GitHub Pages" workflo… — 20 new files · 44 edits · 22 commits
+- 2026-05-12 14:51 — Session end: [Brain] Base directory for this skill: /Users/jarvisurrego/.claude/skills/office-hours  … — 2 new files · 15 edits
+- 2026-05-12 14:50 — Session end: [Brain] Base directory for this skill: /Users/jarvisurrego/.claude/skills/office-hours  … — 2 new files · 10 edits
+- 2026-05-12 14:08 — Session end: [Brain] Let'sfix all issues:  ## Freshness Sentinel — 🔴 1 critical, 5 stale    _Last che… — 2 new files · 2 edits
+- 2026-05-12 14:06 — Session end: [Brain] The X bookmarks freshness sentinel critical and `pi-workspace/bin/scrape-x-bookm… — 3 edits · 1 commits
+- 2026-05-12 13:25 — Session end: [Brain] Base directory for this skill: /Users/jarvisurrego/.claude/skills/office-hours  … — 72 events
+- 2026-05-12 13:19 — Session end: [Brain] Base directory for this skill: /Users/jarvisurrego/.claude/skills/office-hours  … — 56 events
+- 2026-05-12 13:15 — Session end: [Brain] Base directory for this skill: /Users/jarvisurrego/.claude/skills/office-hours  … — 50 events
+- 2026-05-12 13:10 — Session end: [Brain] Base directory for this skill: /Users/jarvisurrego/.claude/skills/office-hours  … — 37 events
+- 2026-05-12 13:02 — Session end: [Brain] Let'sfix all issues:  ## Freshness Sentinel — 🔴 1 critical, 5 stale    _Last che… — 1 new files · 1 edits
+- 2026-05-12 13:01 — Session end: [Brain] Base directory for this skill: /Users/jarvisurrego/.claude/skills/office-hours  … — 16 events
+- 2026-05-12 12:53 — Session end: [Brain] Let'sfix all issues:  ## Freshness Sentinel — 🔴 1 critical, 5 stale    _Last che… — 1 new files · 1 edits
+- 2026-05-12 12:52 — Session end: [Brain] Let'sfix all issues:  ## Freshness Sentinel — 🔴 1 critical, 5 stale    _Last che… — 1 new files · 1 edits
+- 2026-05-12 12:51 — Session end: [Brain/KB] You are parsing raw scraped text from Andres's X.com bookmarks page into a struc… — 1 new files
+- 2026-05-12 12:46 — Session end: [Brain] Let'sfix all issues:  ## Freshness Sentinel — 🔴 1 critical, 5 stale    _Last che… — 140 events
+- 2026-05-12 12:43 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 71 edits
+- 2026-05-12 12:36 — Session end: [Brain] Let'sfix all issues:  ## Freshness Sentinel — 🔴 1 critical, 5 stale    _Last che… — 105 events
+- 2026-05-12 12:35 — Session end: [Brain] Let'sfix all issues:  ## Freshness Sentinel — 🔴 1 critical, 5 stale    _Last che… — 83 events
 <!-- /ENTRIES:query -->
 
 ## Recent Saves

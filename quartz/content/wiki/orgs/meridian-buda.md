@@ -2,16 +2,16 @@
 github_repo: Moil-Landingpages/meridian-buda
 owner: "[[wiki/people/travis-sutherland]]"
 status: active
-last_contact: 2026-04-13
+last_contact: 2026-05-12
 tags:
   - graph/spoke
 ---
 # Meridian Buda
 
 **Type:** organization
-**Last updated:** 2026-04-15
-**Source:** [[raw/teams-2026-04-12]], [[raw/imessages-people-2026-04-09]], [[raw/github-project-tracker.md]], [[raw/teams-transcript-monday-collaboration-2026-04-13]]
-**Related:** [[wiki/people/travis-sutherland]], [[wiki/orgs/zoiwell]], [[wiki/moil/customers]], [[wiki/moil/pipeline]]
+**Last updated:** 2026-05-12
+**Source:** [[raw/teams-2026-04-12]], [[raw/imessages-people-2026-04-09]], [[raw/github-project-tracker.md]], [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-transcript-travis-andres-2026-05-12]]
+**Related:** [[wiki/people/travis-sutherland]], [[wiki/orgs/zoiwell]], [[wiki/moil/customers]], [[wiki/moil/pipeline]], [[wiki/meetings/2026-05-12-travis-meridian-platform-handoff]]
 
 ---
 
@@ -65,3 +65,25 @@ See [[wiki/meetings/2026-04-13-monday-collaboration]].
 ## Moil Relevance
 
 Most technically complex Moil-Landingpages client to date — full SaaS-like platform with payments, events, and organizer tools. If successful, becomes a replicable template for venue/event clients. Community venue adds local Buda ecosystem credibility.
+
+## 2026-05-12 — Platform handoff + credential transfer
+
+Source: [[wiki/meetings/2026-05-12-travis-meridian-platform-handoff]]
+
+End-to-end product walkthrough with Travis at Meridian Buda (~31 min). Andres demoed: recurring events, ticketing tiers, customizable RSVP labels, QR + name check-in, analytics dashboards, bookings inbox, menu management, 4-stage email flow (confirmation → 7-day → 24-hour → post-event). Session closed with **all production artifacts moving under Travis's accounts**: GitHub (new account `travis@zoiwell.com`), Vercel (free), Resend (free under 1,000/day), GoDaddy (Travis sent admin invite). Andres retains push access but won't ship without image approval from Travis first.
+
+**Open bugs (in-flight):**
+- Artist autofill broken — **deprecated Gemini model**, API key needs replacement (Andres: fix today May 12)
+- Check-in button stays disabled after live event time change (Andres: fix tomorrow May 13)
+- Event update form shows stale opening time after time change (same root cause as above)
+
+**Pending deliverables (Andres → Travis):**
+- Landing page push with new Stan Martinez hero images (by May 13)
+- Provision `info@meridianbuda.com` as staff check-in login
+- Credentials doc (GitHub, Vercel, Resend, GoDaddy) shared with Travis after landing-page push
+
+**Captured feature requests for v2:**
+- On-the-fly custom email to upcoming event attendees (today only the templated 24-hour and follow-up are editable)
+- Search check-ins by guest name rather than ticket number
+
+**Cross-pattern signal:** This is the **first explicit credential-discipline handover under the May 11 Monday-Collaboration rule** — applied in both directions (Moil-side under @moilapp.com sales emails, client-side under the client's own accounts). Becomes the canonical pattern for every venue/website client handoff going forward.

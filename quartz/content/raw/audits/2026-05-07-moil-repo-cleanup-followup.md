@@ -2,6 +2,8 @@
 type: audit
 date: 2026-05-12
 companion: raw/audits/2026-05-07-moil-repo-sync-check.md
+ingested: true
+ingested_at: 2026-05-12
 tags:
   - graph/leaf
 ---
