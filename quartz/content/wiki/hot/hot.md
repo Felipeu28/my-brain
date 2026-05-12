@@ -37,6 +37,8 @@ Updated automatically by:
 ## Recent Queries
 
 <!-- ENTRIES:query -->
+- 2026-05-12 12:19 — Session end: [Brain] init — 1 new files
+- 2026-05-12 12:01 — Session end: [Brain/Auto] You are Andres's plan radar. Every day at noon you scan recent Brain activity an… — 1 new files
 - 2026-05-12 10:47 — Session end: [Brain/KB] You are the Moil Brain KB Agent. Ingest these unprocessed raw files into wiki pa… — 2 new files · 22 edits
 - 2026-05-12 09:32 — Session end: [Brain/Auto] Run the morning briefing. Execute these steps:  1. Fetch today's calendar: bash … — 1 new files
 - 2026-05-12 07:24 — Session end: [Claude] You are surfacing patterns from the last 28 days of Andres's working life — code… — 1 new files
@@ -55,8 +57,6 @@ Updated automatically by:
 - 2026-05-11 08:53 — Session end: [Brain/KB] You are the Moil Brain KB Agent. Ingest these unprocessed raw files into wiki pa… — 2 edits
 - 2026-05-11 08:48 — Session end: [Brain/Auto] Run the morning briefing. Execute these steps:  1. Fetch today's calendar: bash … — 1 new files
 - 2026-05-10 18:19 — Session end: [Brain/KB] Check for any new files in raw/ and raw/onedrive-transcripts/ that haven't been … — 3 edits · 1 commits
-- 2026-05-10 18:15 — Session end: [Brain/Auto] Pull today's Microsoft Teams meeting transcripts and add them to the Brain.  1. … — 25 events
-- 2026-05-10 13:24 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 68 edits
 <!-- /ENTRIES:query -->
 
 ## Recent Saves

@@ -1,16 +1,16 @@
 # Brain Heartbeat — 2026-05-12
 
-**Generated:** 2026-05-12 09:29 CDT
+**Generated:** 2026-05-12 10:47 CDT
 
 ## Artifacts
 
 | Check | Artifact | Age (hours) | Status | Signal |
 |---|---|---:|---|---|
 | Morning briefing | `/Users/jarvisurrego/My Brain/knowledge-base/quartz/content/raw/briefings/briefing-2026-05-12.md` | missing | missing | attention needed |
-| Weekly pulse | `/Users/jarvisurrego/My Brain/knowledge-base/quartz/content/raw/pulse/pulse-2026-W17.md` | 426 | stale | clean |
-| Content calendar | `/Users/jarvisurrego/My Brain/knowledge-base/quartz/content/raw/content-calendar/calendar-2026-W20.md` | 24 | healthy | clean |
-| Teams ingest source | `/Users/jarvisurrego/My Brain/knowledge-base/raw/teams-transcript-website-update-review-call-2026-04-28.md` | 326 | stale | attention needed |
-| Chroma index | `/Users/jarvisurrego/My Brain/pi-workspace/.chroma-data/last_indexed.txt` | 168 | healthy | attention needed |
+| Weekly pulse | `/Users/jarvisurrego/My Brain/knowledge-base/quartz/content/raw/pulse/pulse-2026-W17.md` | 427 | stale | clean |
+| Content calendar | `/Users/jarvisurrego/My Brain/knowledge-base/quartz/content/raw/content-calendar/calendar-2026-W20.md` | 25 | healthy | clean |
+| Teams ingest source | `/Users/jarvisurrego/My Brain/knowledge-base/raw/teams-transcript-website-update-review-call-2026-04-28.md` | 328 | stale | attention needed |
+| Chroma index | `/Users/jarvisurrego/My Brain/pi-workspace/.chroma-data/last_indexed.txt` | 169 | warning | attention needed |
 
 ## Notes
 
