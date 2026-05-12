@@ -8,8 +8,8 @@ tags:
 
 **Type:** organization
 **Last updated:** 2026-05-11
-**Source:** [[raw/teams-transcript-monday-collaboration-2026-05-11]]
-**Related:** [[wiki/people/jennifer-storm]], [[wiki/orgs/buda-edc]], [[wiki/projects/clio]]
+**Source:** [[raw/teams-transcript-monday-collaboration-2026-05-11]], [[raw/email-digest-2026-05-11]]
+**Related:** [[wiki/people/jennifer-storm]], [[wiki/people/jason-cornelius]], [[wiki/people/steve-messinger]], [[wiki/orgs/buda-edc]], [[wiki/projects/clio]]
 
 ---
 
@@ -24,7 +24,10 @@ Defense-tech startup building **small directed projectiles** for drone-swarm int
 
 ## Founders
 
-Two founders. One was a **professor at Stanford** and **led an aerospace mission for NASA**. (Names not yet captured — Andres meets them Tue 2026-05-12.)
+- **[[wiki/people/jason-cornelius|Jason Cornelius]]** — `jason@Perseusdefense.com` (proposed and confirmed the May 12 8 AM Meridian Buda meeting; primary contact on the email thread)
+- **[[wiki/people/steve-messinger|Steve Messinger]]** — `steve@Perseusdefense.com` (cc'd on the YC referral coordination thread)
+
+One founder was a **professor at Stanford** and **led an aerospace mission for NASA** (which one not yet differentiated — capture during the May 12 meeting).
 
 ## Relationship to Moil
 
@@ -40,7 +43,10 @@ Two founders. One was a **professor at Stanford** and **led an aerospace mission
 
 ## Meeting — Tue May 12, 2026 8 AM CT
 
-**Format:** In-person (Buda).
+Source: [[raw/email-digest-2026-05-11]]
+
+**Format:** In-person, **Meridian Buda** (Andres' Meridian campus — home turf).
+**Confirmed:** Jason Cornelius proposed *"8am at Meridian on May 12"* May 10 18:09 UTC; calendar invite sent same evening 19:06 UTC (*"Cal invite sent!"*). Andres' close-out: *"Perfect. Thanks again and see you soon!"* (May 10 19:00 UTC).
 **Introducer:** Jennifer Storm (will be in the room).
 **Andres' goals (in order):**
 1. Be respectful of their time — they're successful, busy founders.

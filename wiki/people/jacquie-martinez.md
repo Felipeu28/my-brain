@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-05-04
+last_contact: 2026-05-12
 client: "[[wiki/orgs/buda-edc]]"
 tags:
   - graph/spoke

@@ -1,6 +1,6 @@
 ---
 status: warm
-last_contact: 2026-05-06
+last_contact: 2026-05-11
 tags:
   - graph/leaf
   - person/customer
@@ -8,8 +8,8 @@ tags:
 # Linda Horuke
 
 **Type:** person
-**Last updated:** 2026-05-05
-**Source:** [[raw/email-digest-2026-05-04]], [[raw/email-digest-2026-05-05]], [[raw/email-digest-2026-05-06]]
+**Last updated:** 2026-05-12
+**Source:** [[raw/email-digest-2026-05-04]], [[raw/email-digest-2026-05-05]], [[raw/email-digest-2026-05-06]], [[raw/email-digest-2026-05-11]]
 **Related:** [[wiki/orgs/jungle-flavorz]], [[wiki/moil/gtm]], [[wiki/moil/pipeline]]
 
 ---
@@ -31,11 +31,13 @@ Linda is on the *Website Updates Discussion* track — a Moil website client thr
 | 2026-05-05 | No Linda inbound/outbound captured in May 5 digest — reschedule reply still pending Andres |
 | 2026-05-06 11:33 UTC | [[wiki/people/jacob-oluwole|Jacob]] replied asking when Linda is available for a 30-min call |
 | 2026-05-06 15:30 UTC | Linda replied: *"Do you have time today or tomorrow? I will make time on my end."* — same-day high-intent response |
+| 2026-05-11 22:55 UTC | Linda inbound *"Re: Jungle Flavorz Website"* — *"Is there anything you need from me or any questions?"* Following up on website work; the May 7/8 reschedule window slipped without a call happening |
 
 ## Open / next action
 
 - [x] ~~Reply with two reschedule slots~~ — **DONE May 6** (Jacob handled the reschedule outreach)
-- [ ] **Jacob/Andres:** Lock the 30-min call **May 7 or May 8** — Linda offered *"today or tomorrow"* and the same-day high-intent response window closes fast
+- [ ] ~~**Jacob/Andres:** Lock the 30-min call **May 7 or May 8**~~ — **window slipped; Linda re-pinged May 11 22:55 UTC.** Reply within 24h before stale escalates to cold
+- [ ] **🔥 Andres/Jacob:** Respond to Linda's May 11 *"Is there anything you need from me?"* — propose 2 specific slots this week; do not ask open-ended availability again
 - [ ] If she scopes a website project, evaluate Moil 360 cross-sell similarly to the Marilyn Eden / Nuovo Entertainment website-discovery pattern
 
 ## Connections

@@ -1,3 +1,7 @@
+---
+ingested: true
+ingested_at: 2026-05-12
+---
 # Email Digest — 2026-05-11
 
 **Type:** email-digest

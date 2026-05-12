@@ -22,38 +22,35 @@ Bilingual voice-first kids AI companion with persistent memory ("brain graph"), 
 ## Last 7 days
 
 <!-- AUTO: bin/project-activity.sh updates this section daily. Do not edit by hand. -->
-_Updated: 2026-05-05 08:00 (window: 2026-04-28 → 2026-05-05)_
+_Updated: 2026-05-12 08:08 (window: 2026-05-05 → 2026-05-12)_
 
 **Commits (10):**
-- 2026-05-05 fix(og): use www.clioremembers.com directly to avoid apex 307 redirect (#62)
-- 2026-05-05 fix(og): render og.svg → og.png + absolute URLs in social card meta tags (#61)
-- 2026-05-04 feat(week4): canary webhook + LLM eval gating + leetspeak safety + CLAUDE.md cleanup (#60)
-- 2026-05-04 feat(agents): wire research-anchored 6-example corpus into clio-parent-comms (#59)
-- 2026-05-03 chore: remove orphaned .claire/ typo dir from prior agent session (#56)
-- 2026-05-03 chore: remove orphan .claire/ typo dir from prior agent session (#55)
-- 2026-05-03 chore(gbrain): reset PGLite to schema v24, reimport, add policy-enforcing wrapper (#54)
-- 2026-05-03 feat(workflow): parallel-sprint model + retro/brain-lint/canary infra (week 3) (#53)
-- 2026-05-03 chore(gbrain): wire PGLite local + per-remote trust tiers (week 2.3) (#52)
-- 2026-05-03 feat(specialists): 5 Clio-only agents + safety/voice/age-tier eval suites (#51)
+- 2026-05-11 fix(brain/lint): make destructive removals opt-in + capped + logged (#84)
+- 2026-05-11 fix(landing): add Log in button + sign_up query param (#83)
+- 2026-05-10 fix(stories): bump function maxDuration so SSE stream finishes
+- 2026-05-09 chore(stories): review pass — race fix + slop cleanup
+- 2026-05-09 feat(stories): age-tier setup picker — kid picks the topic
+- 2026-05-09 feat(stories): recents on home + delete from library
+- 2026-05-09 feat(stories): stream generation + age-tier reading view
+- 2026-05-09 fix(voice): explicit language tag to Grok TTS — kills mid-MP3 voice flip
+- 2026-05-09 fix: tracked-data ingest + brain UX + slow greeting + #310 crash (#82)
+- 2026-05-09 redesign(parent): Actions tab — hero focus + compact list + goals stripe (#81)
 
-**Claude Code sessions (43):**
-- 2026-04-15 — <command-message>init</command-message>
-- 2026-04-15 — <command-message>init</command-message>
-- 2026-04-15 — Wave 1c — strict auth + cleanup
-- 2026-04-16 — Clio — Full Implementation
-- 2026-04-16 — Clio PR #8 gamification
-- 2026-04-16 — <command-message>init</command-message>
-- 2026-04-16 — <command-message>init</command-message>
-- 2026-04-16 — Full audit synthesis
-- 2026-04-16 — Open parent dashboard on desktop and mobile
-- 2026-04-16 — Product research: gamification & differentiation
-**Mentions in meetings + raw (6):**
-- [[wiki/meetings/2026-05-04-christine-kat-coaching]]
-- [[raw/teams-2026-04-24]]
-- [[raw/teams-transcript-christine-andres-2026-05-04]]
-- [[raw/teams-transcript-website-update-review-call-2026-04-28]]
-- [[raw/weekly-sessions-2026-04-26]]
-- [[raw/weekly-sessions-2026-05-03]]
+**Claude Code sessions (11):**
+- 2026-05-01 — Let's create a new video about the parents side of clio, you can use browser, I
+- 2026-05-03 — Week 1 execution
+- 2026-05-04 — In ~/luna-brain/, there's a tracked but orphaned directory at `.claire/worktrees
+- 2026-05-04 — <scheduled-task name="clio-weekly-security-audit" file="/Users/jarvisurrego/.cla
+- 2026-05-06 — Phase 0 — Subtraction
+- 2026-05-08 — <command-message>gstack</command-message>
+- 2026-05-09 — **Active plan:** [`~/.gstack/projects/Felipeu28-Clio/ceo-plans/2026-05-08-clio-p
+- 2026-05-09 — <command-message>autoplan</command-message>
+- 2026-05-09 — Ship Phase 1 + start Phase 2–5
+- 2026-05-10 — Bilingual Claim Audit & Implementation Plan
+**Mentions in meetings + raw (3):**
+- [[wiki/meetings/2026-05-11-monday-collaboration]]
+- [[raw/email-digest-2026-05-07]]
+- [[raw/weekly-sessions-2026-05-10]]
 
 ## Recent decisions
 

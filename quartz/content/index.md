@@ -1,8 +1,8 @@
 # Moil Brain — Master Index
 
-**Last compiled:** 2026-05-11 (Run 44 — Monday Collaboration 2026-05-11 ingested. **Perseus Defense YC referral meeting locked Tue May 12 8 AM CT** via [[wiki/people/jennifer-storm|Jennifer Storm]] — first documented YC-alumni-referral attempt for [[wiki/projects/clio|Clio]]. **Buda EDC magazine spread (15K distribution)** with 2 Moil pages + **Moil Lab "Excellence in Innovation" finalist** (won by Perseus in same category) = primary marketing asset this week. **Inna scope reset to 4 posts/week** (apology + scope clarification sent in-call) — first explicit on-record customer-scope cap. **Jacob outreach reallocation:** 10 real DM conversations/day for Moil, no copy-paste — first quantitative outbound target. **Taiwo migrating GitHub + Vercel** under one Moil-owned sales email. **Mark Polanco first Connectex payment expected ~May 18.** Two internal-infra audits (X-bookmarks permanent fix, ingestion deep audit) also marked ingested — operational, no wiki promotion per Run 31 precedent. · **Total wiki pages:** 311 · **Raw sources:** 547
+**Last compiled:** 2026-05-12 (Run 45 — email-digest 2026-05-11 + signal-brief 2026-05-11 ingested. **Perseus Defense founder names captured** — [[wiki/people/jason-cornelius|Jason Cornelius]] (primary email) + [[wiki/people/steve-messinger|Steve Messinger]] (cc); Tue 2026-05-12 8 AM CT meeting confirmed at **Meridian Buda** (not Buda EDC). **Connectex domain reseller blocker surfaced** — Mark Polanco shared Squarespace login but `connectex.net` purchased through unknown third-party reseller, blocking DNS deploy; same-day collision with FitLogic personal-credential anti-pattern (the rule extends to client-side domains now). **Linda Horuke / Jungle Flavorz re-pinged May 11** — May 7/8 reschedule slipped; needs 24h reply with specific slots. **Adeleke silence anomaly** flagged by signal-brief — full day missing from email-digest while two time-sensitive MEMORY items pending. · **Total wiki pages:** 313 (+2: Jason Cornelius, Steve Messinger) · **Raw sources:** 547
 
-**Previous run header:** Run 43 (2026-05-11) — 65 Claude Code session-log files marked ingested as low-signal session batch (log only) per Runs 29/31/42 precedent. ~58 routine-automation sessions + ~7 substantive engineering sessions whose substance already flows through `wiki/projects/clio.md` auto-update or lives in external repos.
+**Previous run header:** Run 44 (2026-05-11) — Monday Collaboration 2026-05-11 ingested. **Perseus Defense YC referral meeting locked Tue May 12 8 AM CT** via [[wiki/people/jennifer-storm|Jennifer Storm]] — first documented YC-alumni-referral attempt for [[wiki/projects/clio|Clio]]. **Buda EDC magazine spread (15K distribution)** with 2 Moil pages + **Moil Lab "Excellence in Innovation" finalist** (won by Perseus in same category) = primary marketing asset this week. **Inna scope reset to 4 posts/week** (apology + scope clarification sent in-call) — first explicit on-record customer-scope cap. **Jacob outreach reallocation:** 10 real DM conversations/day for Moil, no copy-paste — first quantitative outbound target. **Taiwo migrating GitHub + Vercel** under one Moil-owned sales email. **Mark Polanco first Connectex payment expected ~May 18.** Two internal-infra audits (X-bookmarks permanent fix, ingestion deep audit) also marked ingested — operational, no wiki promotion per Run 31 precedent.
 
 > **Canonical operating truth lives outside the wiki:** if status or architecture notes here conflict with newer operating reality, use `~/My Brain/CURRENT_STATE.md` first.
 
@@ -102,16 +102,16 @@ See also: [[wiki/meetings/historical-transcripts-index]] — raw transcripts not
 | Category | Count | Notes |
 |---|---|---|
 | Moil business | 7 | product-roadmap, gtm, customers updated with Run 4 client links + GitHub repos |
-| People (network) | 48 | +1 from Run 12: ingrid-spiritto (mother-in-law, from iMessages) |
+| People (network) | 50 | +2 from Run 45: [[wiki/people/jason-cornelius]] + [[wiki/people/steve-messinger]] (Perseus Defense co-founders) |
 | Minds (thinkers) | 10 | from X bookmarks deep compile |
-| Orgs (customer/partner) | 15 | +1 from Run 44: [[wiki/orgs/perseus-defense]] (YC S25 defense-tech, Buda HQ; Jennifer Storm referral path for Clio) |
+| Orgs (customer/partner) | 15 | Run 44: [[wiki/orgs/perseus-defense]] (YC S25 defense-tech, Buda HQ; Jennifer Storm referral path for Clio) |
 | Concepts | 37 | +1 from Run 12: fantelo redirect stub (→ wiki/projects/fantelo) |
-| Meetings | 59 | +1 from Run 44: [[wiki/meetings/2026-05-11-monday-collaboration]] (Perseus YC referral, magazine spread, Inna scope reset, Jacob outreach reallocation) |
+| Meetings | 59 | Run 44: [[wiki/meetings/2026-05-11-monday-collaboration]] (Perseus YC referral, magazine spread, Inna scope reset, Jacob outreach reallocation) |
 | Radar (changelogs) | 1 | Claude Code changelog |
 | Summaries | 18 | |
 | Folder READMEs | 9 | |
-| **Total wiki files** | **311** | +2 from Run 44: perseus-defense org + 2026-05-11-monday-collaboration meeting (drift since Run 32 = 21 pages from Runs 33–44) |
-| Raw sources ingested | 547 total | Run 44 (+3): teams-transcript-monday-collaboration-2026-05-11 (substantive ingest) + audits/2026-05-05-x-bookmarks-permanent-fix-research + audits/2026-05-07-ingestion-deep-audit (both internal infra — log only, no wiki promotion per Run 31 precedent) |
+| **Total wiki files** | **313** | +2 from Run 45: jason-cornelius + steve-messinger (Perseus founders, email-digest sourced) |
+| Raw sources ingested | 547 total (root raw/ only) | Run 45 (+1 in root raw/): email-digest-2026-05-11 (substantive ingest — Perseus founder names + Connectex domain reseller block). signal-briefs/signal-brief-2026-05-11 also ingested but lives in quartz/content/raw/ only (auto-generated; not mirrored to root raw/) so kb-health does not count it |
 
 **OneDrive Full Transcripts ingestion completed 2026-04-12 (Run 2):**
 - 25 full transcript files processed (raw/meetings/transcript-* format)

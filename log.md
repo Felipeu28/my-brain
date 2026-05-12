@@ -4,6 +4,56 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ---
 
+## 2026-05-12 — Run 45: email-digest 2026-05-11 + signal-brief 2026-05-11 (Perseus founder names + Connectex domain reseller block + Adeleke silence anomaly)
+
+**Trigger:** KB-agent scan for unprocessed raw files. Two found: (1) `raw/email-digest-2026-05-11.md` (daily email digest — 9 inbound + 9 outbound across 13 active contacts; high signal on Perseus Defense YC coffee confirmation, Connectex domain-reseller blocker, Inna apology thread artifacts, Linda Horuke re-ping); (2) `raw/signal-briefs/signal-brief-2026-05-11.md` (daily-correlator output — cross-source connection on FitLogic+Connectex personal-credential anti-pattern, Mark Polanco active-person flag, Adeleke silence anomaly).
+
+### File 1 — `raw/email-digest-2026-05-11.md`
+
+- **Type:** email-digest (Outlook 24h window)
+- **Active contacts:** Linda Horuke, Mark Polanco, Jacob Oluwole, Inna Benyukhis, Jason Cornelius, Jordan Kaiser, Casey Earley, Taiwo Ola Balogun, Jeff Griffin, Jennifer Storm, Steve Messinger, John Costilla, trimaird@gmail.com
+- **Pages created (2):** [[wiki/people/jason-cornelius]] (Perseus Defense co-founder, jason@Perseusdefense.com — proposed + confirmed Tue May 12 8 AM at Meridian Buda; "Cal invite sent!" 2026-05-10 19:06 UTC), [[wiki/people/steve-messinger]] (Perseus Defense co-founder, steve@Perseusdefense.com — cc'd on YC referral coordination thread)
+- **Pages updated (7):** [[wiki/people/mark-polanco]] (new 2026-05-11 block: Squarespace login shared but `connectex.net` blocked by unknown third-party reseller; cross-project anti-pattern collision with FitLogic personal-credential rule; open item flipped from "send login" to "identify reseller"), [[wiki/projects/connectex.md]] (squarespace-creds open question superseded by reseller-identification blocker), [[wiki/orgs/perseus-defense]] (founder names captured: Jason Cornelius + Steve Messinger; meeting confirmed Meridian Buda **not Buda EDC** — Andres' home turf; email-thread receipts added — 5/10 12:57 propose, 5/10 18:09 counter, 5/10 19:00 confirm, 5/10 19:06 cal invite sent), [[wiki/people/linda-horuke]] (May 11 22:55 UTC re-ping: *"Is there anything you need from me or any questions?"* — May 7/8 reschedule window slipped; new 🔥 24h action), [[wiki/orgs/jungle-flavorz]] (status update: second nudge in a week, needs reply within 24h before going cold), [[wiki/people/inna-benyukhis]] (added email-digest as source for the May 11 scope-reset block — Jacob 11:55 apology → Inna 13:33 pushback → Andres 15:09 reset reply are the on-record artifacts of the in-call decisions), [[wiki/people/jacob-oluwole]] (added email-digest source; first time Jacob initiated a customer-service apology in the digest — on-record customer-relations behavior worth tracking)
+- **MEMORY.md:** unchanged this run — all action items already captured under Run 44's May 11 immediate-week block. The reseller-identification action and Linda 24h reply both fit under existing Connectex/Linda action items; no new line items to add
+
+**Key intelligence from File 1:**
+
+1. **Perseus founder names captured at last.** The Run 44 ingest of the Monday Collaboration created [[wiki/orgs/perseus-defense]] but flagged founder names as "not yet captured." This email digest closes that gap: **Jason Cornelius** (jason@Perseusdefense.com) is the primary email contact, the one who proposed *"8am at Meridian on May 12"* and sent the calendar invite. **Steve Messinger** (steve@Perseusdefense.com) is cc'd on the thread but hasn't actively responded. Capture during May 12 meeting which co-founder was the Stanford professor and which led the NASA aerospace mission.
+
+2. **Meeting location is Meridian Buda, not Buda EDC.** Andres proposed *"Meridian Buda 9:00am Tuesday"* in his 5/10 12:57 UTC opener; Jason countered with *"8am at Meridian on May 12"* and Andres accepted. Meridian Buda is Andres' home turf (Moil partners with Meridian as the AEDO/HIVE workshop venue) — strategically significant that the founders agreed to meet *there* rather than at the Buda EDC office. Soft win.
+
+3. **Connectex domain blocker is a known unknown.** Mark Polanco followed through on the Apr 28 walkthrough commitment and shared his Squarespace login at 14:02 UTC. But the **domain `connectex.net` shows as purchased through a third-party reseller**, blocking the DNS/deploy path. Mark's three inbound emails today (13:52 receipt-found → 14:02 login-shared → 17:05 reseller-question) put him in active troubleshooting mode rather than passive paying-customer mode. The blocker is the reseller identity, not Mark's cooperation.
+
+4. **Cross-project credential anti-pattern (also flagged by File 2's signal-brief).** The Connectex domain-reseller issue collided same-day with Andres' in-call directive to Taiwo to **stop routing client work through personal credentials** and consolidate FitLogic GitHub + Vercel + GoDaddy under one Moil-owned sales email. Same anti-pattern (siloed/personal-account ownership) is biting two accounts in one day. Rule extends to client-side domains, not just Moil's internal stack — when onboarding any new customer with a Moil 360 / website surface, **capture the registrar/reseller relationship up front**, not at deploy time.
+
+5. **Linda Horuke re-ping flags a stale window.** Linda offered *"today or tomorrow"* on May 6 with a same-day high-intent response window; the team didn't lock the call May 7 or May 8 and the window slipped. May 11 22:55 UTC inbound is the second nudge. Pattern to fix: same-day high-intent windows close fast — when a customer says "today or tomorrow," reply with two specific slots within hours, never ask for availability again.
+
+6. **Jacob initiated the customer-service apology before the in-call directive.** Jacob sent the *"Regarding the Mother's Day Video"* apology to Inna at 11:55 UTC, before the Monday Collaboration began. This is the first time Jacob has owned a customer-service apology email in any captured digest. The Monday Collaboration then *reinforced* the apology and *capped scope to 4 posts/week*; Jacob's earlier email is the on-record proof he was already reading the room correctly.
+
+7. **Personal-relationship note.** Outbound 22:01 UTC *"Joanette & Andrés"* calendar event invite to trimaird@gmail.com — likely personal/family scheduling (Mariana Urrego context). No wiki action; capture pattern only if it becomes recurring.
+
+8. **Jeff Griffin (Sioux Falls Chamber) close-out** — Andres sent *"Should I close this out?"* at 13:01 UTC closing the May 6 re-engagement attempt. Already captured under [[wiki/moil/gtm]] May 6 narrative-re-engagement note; no new gtm update needed. Chamber breakup pattern is now standard.
+
+### File 2 — `raw/signal-briefs/signal-brief-2026-05-11.md`
+
+- **Type:** signal-brief (auto-generated by `daily-correlator.py` 2026-05-12 06:00, 69 source files across 4 source types)
+- **Pages created (0):** signal-briefs are derivative analysis, not primary source — they synthesize patterns across the day's email-digest + teams-transcript + meetings. Per Run 31 precedent (operational/derivative output gets logged not promoted), no wiki page created
+- **Pages updated (1):** [[wiki/people/adeleke-tolulope]] — added May 11 silence-anomaly block. Adeleke was invited to Monday Collaboration but absent on transcript AND missing entirely from the May 11 email-digest, despite owning two live time-sensitive MEMORY items (xAI Grok 4.3 retirement + Gemini Flash Lite cron switch). First full-day silence captured since the May 4 cost-discipline reset. Direct nudge May 12 recommended
+
+**Key intelligence from File 2:**
+
+1. **Cross-source connection (most valuable signal):** the FitLogic credential-consolidation directive and the Connectex domain-reseller block are the **same anti-pattern in two clients on one day**. Signal-brief surfaces this as one finding — the email-digest by itself can't, because the Monday Collaboration is the other half of the picture. This is exactly what the daily-correlator is for; first instance of it surfacing a meta-rule update (extend personal-credential discipline to *client-side* surfaces, not just Moil-internal).
+
+2. **Active-person flag — Mark Polanco.** Three inbound emails in one day + named in MEMORY as the first Connectex payment trigger (~May 18) that unlocks paying Jacob and Taiwo. Brief recommends: *"keep him warm and unblocked, because his payment lands the team-payroll catch-up."* Already captured under Mark's page + MEMORY May 11 block.
+
+3. **Silence anomaly — Adeleke Tolulope.** Full silent day while two of his open commits are time-sensitive is worth a direct nudge tomorrow. The pattern is novel — Adeleke is the central engineering voice on every prior Monday meeting; a missing day is signal.
+
+### Skipped files
+
+None substantive. Both unprocessed raw files in scope accounted for and frontmatter-marked. The `raw/onedrive-transcripts/` directory is still unchanged from the 2026-04-15 state (10 binary MP4-misnamed-as-`.txt` files documented in Run 11 still pending re-processing or move; not addressed this run, same as Run 44).
+
+---
+
 ## 2026-05-11 — Run 44: Monday Collaboration 2026-05-11 (Perseus Defense YC referral locked + Buda EDC magazine spread + Inna scope reset + Jacob outreach reallocation) + 2 internal-infra audits (log only)
 
 **Trigger:** KB-agent scan for unprocessed raw files. Three found: (1) `raw/teams-transcript-monday-collaboration-2026-05-11.md` (45 KB Teams transcript from this morning, ~2h 38m, four substantive threads — high signal); (2) `raw/audits/2026-05-05-x-bookmarks-permanent-fix-research.md` (12 KB internal Brain-infrastructure decision doc — recommends paid X API at ~$6/mo via OAuth 2.0 PKCE); (3) `raw/audits/2026-05-07-ingestion-deep-audit.md` (32 KB internal Brain-infrastructure audit — 6 jobs ✅ / 8 ⚠️ / 13 🔴 across 27 plists; the headline finding is that 12/27 plists shipped 2026-05-03 are physically present on disk but never `launchctl bootstrap`'d, including the sentinel that was meant to catch this exact failure class). Substantive ingest for #1; #2 and #3 logged only per Run 31 internal-infra precedent (operational fixes belong in `pi-workspace`, not the wiki knowledge graph).
