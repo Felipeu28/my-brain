@@ -22,10 +22,13 @@ Closed Apr 9, 2026. Full custom ticketed-events platform — Stripe payments, or
 ## Last 7 days
 
 <!-- AUTO: bin/project-activity.sh updates this section daily. Do not edit by hand. -->
-_Updated: 2026-05-12 08:08 (window: 2026-05-05 → 2026-05-12)_
+_Updated: 2026-05-13 08:00 (window: 2026-05-06 → 2026-05-13)_
 
-**Mentions in meetings + raw (1):**
+**Mentions in meetings + raw (4):**
+- [[wiki/meetings/2026-05-12-carolina-coaching]]
+- [[wiki/meetings/2026-05-12-travis-meridian-platform-handoff]]
 - [[raw/email-digest-2026-05-11]]
+- [[raw/teams-transcript-travis-andres-2026-05-12]]
 
 ## Recent decisions
 

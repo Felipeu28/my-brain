@@ -9,8 +9,8 @@ tags:
 # Jacquie Martinez
 
 **Type:** person
-**Last updated:** 2026-05-01
-**Source:** [[raw/buda-hive-edc-2026-04-11]], m365 email (Mar–Apr 2026 contract thread), [[raw/email-digest-2026-05-01]]
+**Last updated:** 2026-05-12
+**Source:** [[raw/buda-hive-edc-2026-04-11]], m365 email (Mar–Apr 2026 contract thread), [[raw/email-digest-2026-05-01]], [[raw/email-digest-2026-05-11]], [[raw/email-digest-2026-05-12]]
 **Related:** [[wiki/people/jennifer-storm]], [[wiki/people/joshua-edmond]], [[wiki/orgs/buda-edc]], [[wiki/concepts/buda-hive]], [[wiki/concepts/hive-program]]
 
 ---
@@ -41,6 +41,14 @@ Jacquie is the **day-to-day operational contact** for the Buda HIVE relationship
 | 2026-04-15 | Sent Cohort 4 onboarding email: "Buda HIVE — Your Cohort Journey Begins Soon" (details + what to know before start) |
 | 2026-04-30 21:06 UTC | Issued the formal Cohort 4 *"Professional Service Agreement"* — Joshua forwarded to Andres + Shannon for countersignature |
 | 2026-05-01 19:59 UTC | Re: PSA — *"Let's plan to meet Monday 9am in the HIVE conference room; calendar invite to follow."* Andres accepted same day. **First in-person PSA review meeting locked for Mon May 4** |
+| 2026-05-11 20:08 CDT | Re: Incubator Strategist - Scope of Work — *"Thank you — it has truly been a pleasure working alongside you… hopeful we'll have the contract finalized for both of you this week."* **First explicit week-of finalization signal** for both Andres + [[wiki/people/joshua-edmond\|Joshua]] PSAs (post May 11 in-person lunch) |
+| 2026-05-12 12:59 CDT | Andres + Joshua reply: *"Thank you so much for lunch yesterday… wondering if I should send my signed contract or wait for confirmation."* — Andres surfacing the *signed-now-vs-wait-for-board-confirmation* sequencing question; awaiting Jacquie's call on whether to countersign before EDC final exec sign-off |
+
+## 2026-05-12 — Contract finalization week (Andres + Joshua PSAs)
+
+Source: [[raw/email-digest-2026-05-11]], [[raw/email-digest-2026-05-12]]
+
+Jacquie's May 11 20:08 CDT note (post May 11 lunch) put both Andres and [[wiki/people/joshua-edmond|Joshua]] PSAs on a **same-week finalization track**. Andres's May 12 12:59 CDT reply asked the sequencing question — *"should I send my signed contract or wait for confirmation?"* — putting the ball back on Jacquie's side. **Open this week:** whether the Board sign-off is the gate or whether countersigning now is fine. Track the next Jacquie inbound for the answer; the [[wiki/people/joshua-edmond|Joshua]] revised SoW (May 6) is presumably the version being finalized.
 
 ## Why She Matters
 

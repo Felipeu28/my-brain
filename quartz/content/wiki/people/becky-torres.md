@@ -3,14 +3,14 @@ tags:
   - graph/spoke
   - person/customer
 status: active
-last_contact: 2026-05-07
+last_contact: 2026-05-12
 client: "[[wiki/orgs/siren-beauty]]"
 ---
 # Becky Torres
 
 **Type:** person
-**Last updated:** 2026-05-07
-**Source:** [[raw/email-history-2months-2026-04-12]], [[raw/email-history-6months-2026-04-14]], [[raw/hive-siren-beauty-wellness-strategy-plan]], [[raw/email-digest-2026-04-23]], [[raw/email-digest-2026-04-24]], [[raw/teams-transcript-meeting-to-go-over-ongoing-projects-2026-05-06]], [[raw/signal-briefs/signal-brief-2026-05-06]], [[raw/email-digest-2026-05-07]]
+**Last updated:** 2026-05-12
+**Source:** [[raw/email-history-2months-2026-04-12]], [[raw/email-history-6months-2026-04-14]], [[raw/hive-siren-beauty-wellness-strategy-plan]], [[raw/email-digest-2026-04-23]], [[raw/email-digest-2026-04-24]], [[raw/teams-transcript-meeting-to-go-over-ongoing-projects-2026-05-06]], [[raw/signal-briefs/signal-brief-2026-05-06]], [[raw/email-digest-2026-05-07]], [[raw/email-digest-2026-05-12]]
 **Related:** [[wiki/orgs/siren-beauty]], [[wiki/moil/customers]], [[wiki/moil/pipeline]], [[wiki/meetings/2026-05-06-andres-taiwo-ongoing-projects]]
 
 ---
@@ -107,6 +107,14 @@ Source: [[raw/email-digest-2026-05-07]]
 Andres replied to Becky's May 6 process-confusion thread on **May 7 12:18 UTC** — *Re: Website follow up* — apologizing for the accidental weekend push (the wrong staging build that triggered her *"this looks all jumpy"* note) and asking for specifics on what she wants moved. **The reply does not yet ship the named cadence the daily-correlator flagged as the actual unblock** — it apologizes and re-opens the feedback channel without committing to a *"video uploads → 48–72hr build → monthly in-person walkthrough at SIREN"* rhythm. Worth checking whether Becky's next reply re-asks the *"is this a call or in-person?"* question, which would confirm the apology-only reply is insufficient.
 
 `last_contact: 2026-05-06 → 2026-05-07`
+
+## May 12, 2026 — Andres proposed Wed/Thu meeting (in-person or Teams)
+
+Source: [[raw/email-digest-2026-05-12]]
+
+Andres followed up with Becky at 07:22 CDT on the *Re: Website follow up* thread: *"Just wanted to follow up… let me know what tomorrow or Thursday look like, we can meet in person or via Teams."* **Two-slot proposal with explicit in-person option** — directly applies the May 6 daily-correlator's *"name a cadence, offer in-person"* read of Becky's process-confusion. First time Andres has put two specific dates on a single line for Becky and named the in-person option as equal to Teams. Watch for her reply: an in-person Wed/Thu pick would confirm the May 6 read; another open-ended question would confirm the cadence still hasn't landed.
+
+`last_contact: 2026-05-07 → 2026-05-12`
 
 ## Connections
 

@@ -4,6 +4,53 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ---
 
+## 2026-05-13 (AM) — Run 47: email-digest-2026-05-12 + signal-brief-2026-05-12
+
+**Trigger:** KB-agent scan for unprocessed raw files. Two found: (1) `raw/email-digest-2026-05-12.md` (29 contacts, 17 outbound SMB pitches, 4 notable threads); (2) `quartz/content/raw/signal-briefs/signal-brief-2026-05-12.md` (correlator-generated cross-source brief over 7 source files).
+
+### File 1 — `raw/email-digest-2026-05-12.md`
+
+- **Type:** email-digest (24-hour window 2026-05-11T00:00:00Z → 2026-05-12 evening)
+- **Pages updated (10):** [[wiki/people/jacquie-martinez]] (May 11 lunch + May 12 contract sequencing question; last_updated → 2026-05-12), [[wiki/people/joshua-edmond]] (same-week PSA finalization track; last_updated → 2026-05-12), [[wiki/people/jennifer-storm]] (Perseus YC meeting happened, thank-you closure; last_updated → 2026-05-12), [[wiki/people/jason-cornelius]] (May 12 meeting + Andres thank-you reply; **🔥 action checked off**), [[wiki/people/steve-messinger]] (first direct Steve→Andres reply; meeting happened), [[wiki/people/mark-polanco]] (May 12 carryover — Squarespace reseller blocker still unresolved; last_updated → 2026-05-12), [[wiki/people/linda-horuke]] (May 11 *"anything you need from me"* still unanswered; cold-escalation risk), [[wiki/people/inna-benyukhis]] (May 12 — pushback continues; reset not yet absorbed; last_updated → 2026-05-12), [[wiki/people/jacob-oluwole]] (second customer-service apology to Inna; last_updated → 2026-05-12), [[wiki/people/becky-torres]] (May 12 — two-slot in-person/Teams proposal applies May 6 cadence read; last_updated → 2026-05-12), [[wiki/moil/gtm]] (May 12 cold campaign update — first all-SMB day, 17 sends, 11 verticals, new *"20 minutes to train it"* hook)
+- **MEMORY.md:** unchanged this run — all next-touches (Linda reply, Mark Polanco reseller diagnostic, Adeleke Gemini deprecation owner, Becky Wed/Thu reschedule) sit under live thread blocks already present in the relevant pages and the May 11 Monday-Collab MEMORY block; no separate Memory line item needed for a digest with this signal density
+- **Frontmatter:** marked `ingested: true / ingested_at: 2026-05-13` on root `raw/email-digest-2026-05-12.md`
+
+**Key intelligence from File 1:**
+
+1. **First all-SMB outbound day in the cold campaign.** 17 sends across 11 verticals; **zero chamber/EDC sends** for the first time since the campaign started Apr 9. Pairs with the May 6 SMB-pivot signal — pipeline center-of-gravity has fully shifted to local Austin/Buda SMBs. New hook *"20 minutes to train it. 30 days of posts."* (Ashli Smith / DoubleDave's; Jasenko Alagic / Axxis) is the second time-cost productization line in 2 weeks. **First Buda-business framing inbound** — Richard Weiss (Buda architecture) got *"Richard, this Buda business looks 10x bigger now"*, the first time the Belmont/transformation narrative is reframed for a Buda-native business rather than exported elsewhere. Multi-hook subject A/B testing within the same Content 360 message body is now happening at same-day cadence.
+
+2. **Buda EDC Incubator Strategist contracts on a same-week finalization track.** Jacquie's May 11 20:08 CDT post-lunch note — *"hopeful we'll have the contract finalized for both of you this week"* — puts both Andres (Moil Enterprises Inc.) and [[wiki/people/joshua-edmond|Joshua]] (FAVE&SAVE LLC) PSAs on a finalize-this-week timeline. Andres's May 12 12:59 CDT reply (cc Joshua) surfaces the *"send signed now vs. wait for confirmation?"* sequencing question — open this week pending Jacquie's call. **Closes the contract round-trip Apr 21 → Apr 24 redline → Apr 30 PSA → May 6 revised SoW → May 11 lunch → May 12 sequencing → finalization this week.**
+
+3. **Perseus YC meeting happened; closure note from Steve Messinger.** Tue May 12 8 AM CT at Meridian Buda — Andres + [[wiki/people/jason-cornelius|Jason]] + [[wiki/people/steve-messinger|Steve]] + Jennifer Storm. **Steve's 16:37 CDT reply** *"Great to meet you Andres! Super cool what you are building and best of luck with the YC app."* is the first direct post-meeting touch. Andres's 09:49 CDT thank-you to Jennifer (cc Jason + Steve) closes the intro loop she extended ~May 8–10. **YC referral conversion now in Perseus founders' hands, not Jennifer's.** Open: capture which co-founder is the Stanford professor / NASA mission lead.
+
+4. **Inna pushback continues — May 11 reset not visibly absorbed.** Inna's 08:33 CDT *"😢 I'm disappointed… I record various videos and they may not be for those days"* reply to Jacob's apology relates to the missed Mother's Day video, not the broader 4-posts/week scope cap Andres set on the May 11 Monday Collaboration call. Jacob sent a **second customer-service apology** at 11:27 CDT restating the new weekly-batching workflow. **Pattern to watch over next 2–3 Inna touches:** does she stop pinging on cadence-misses (reset took); escalate to the contract itself (reset broke the relationship); or offer to renegotiate scope/rate (reading it as a cap).
+
+5. **Mark Polanco Squarespace-reseller blocker still unresolved.** May 11 14:02 UTC Mark shared Squarespace login → Andres logged in → domain settings inaccessible (third-party reseller). Mark's *"Hmmmm how do I see who the reseller is?"* (May 11 17:05 UTC, surfaces in May 12 digest as latest inbound) has no on-record reply or new diagnostic in the May 12 window. Connectex landing-page deploy blocker continues into mid-week. Apr 28 Buda EDC reimbursement application also still open — ordering matters (file EDC first, then BuiltFirst).
+
+6. **Linda Horuke / Jungle Flavorz** May 11 22:55 UTC *"Is there anything you need from me?"* still unanswered as of May 12 digest. ~24 hours stale; cold-escalation risk rising. **🔥 Andres/Jacob owe a 2-slot proposal this week** rather than another open-ended availability ask.
+
+7. **Becky Torres reply applies the May 6 daily-correlator's cadence read.** Andres' 07:22 CDT *Re: Website follow up* proposed *"tomorrow or Thursday … in person or via Teams"* — first time he's named two specific dates and put **in-person as equal to Teams** for Becky. Directly applies the May 6 brief's *"name a cadence, offer in-person"* read of her process-confusion. Watch for her reply: in-person Wed/Thu pick = the cadence read was correct; another open-ended question = cadence still hasn't landed.
+
+### File 2 — `quartz/content/raw/signal-briefs/signal-brief-2026-05-12.md`
+
+- **Type:** signal-brief (correlator-generated cross-source synthesis over 7 source files / 4 source types from 2026-05-12)
+- **Pages updated (3):** [[wiki/people/adeleke-tolulope]] (silence anomaly extended to 5 days; Gemini deprecation forwarded; cross-source connection captured), [[wiki/people/travis-sutherland]] (cross-source — Gemini deprecation became customer-visible 2 hours before Andres's forward to Adeleke), [[wiki/people/carolina-caro]] (active person flag — three source types in one day; framed as test case for EDC per-seat license precedent)
+- **Frontmatter:** marked `ingested: true / ingested_at: 2026-05-13` on `quartz/content/raw/signal-briefs/signal-brief-2026-05-12.md` (file lives only in quartz/content/raw/ — correlator writes there directly; no root raw/ counterpart per Run 36 precedent)
+
+**Key intelligence from File 2:**
+
+1. **Cross-source connection: Gemini deprecation became customer-visible.** During the May 12 Travis Meridian handoff, Gemini-backed artist autofill broke live during demo. Andres' on-call diagnosis: *"Gemini replaced this model, so we just need to upgrade it."* ~2 hours later (12:08 CDT) Andres forwarded Google AI Studio's *Action Required: Migrate to Gemini 3.1 Flash Lite* notice (May 25 cutoff) to Adeleke. **First time a Moil-side model-deprecation event has crossed into customer-visible territory before remediation.** Pattern to watch: forwarded-deprecation notices need a same-day engineering ack, not a queued-for-review treatment.
+
+2. **Adeleke silence anomaly extends to 5 days.** Last visibly active May 7 (GCP budget-alert thread); silent across May 8 / May 11 / May 12 digests despite two urgent infra escalations forwarded by Andres in 7 days (May 6 xAI Grok 4.3 retirement + May 12 Gemini 3.1 migration) and a live customer-visible Gemini bug surfacing today. **Direct nudge warranted before May 13 standup.** First multi-day engineering-lead silence captured since the May 4 cost-discipline reset.
+
+3. **Carolina Rosales as the test case for EDC per-seat license precedent.** Three source types in one day (teams coaching, email-digest arrival ping, in-call signup that triggered the Buda EDC HIVE 1-yr Moil-license precedent disclosure). Signal brief frames her week-of EDC pitch to Jackie as the load-bearing experiment for whether EDCs will pay per-seat for cohort participants as a productized revenue line.
+
+### Skipped files
+
+None. All unprocessed root `raw/` and `quartz/content/raw/signal-briefs/` files accounted for and frontmatter-marked. The `raw/onedrive-transcripts/` directory is unchanged from the 2026-04-15 state (10 binary MP4-misnamed-as-`.txt` files documented in Run 11 still pending re-processing or move; not addressed this run, same as Runs 44–46).
+
+---
+
 ## 2026-05-12 (PM) — Run 46: Carolina coaching follow-up + Travis Meridian platform handoff + 3 logged-only sources (X bookmarks + 2 moil-repo audits)
 
 **Trigger:** KB-agent scan for unprocessed raw files. Five found: (1) `raw/teams-transcript-carolina-andres-2026-05-12.md` (67-min Spanglish Cohort-4 coaching follow-up — ICP reframe + spa→work positioning + corporate-anchor playbook); (2) `raw/teams-transcript-travis-andres-2026-05-12.md` (31-min Meridian Buda platform handoff + credential transfer); (3) `raw/x-bookmarks-2026-05-12.md` (174 X bookmarks — logged only per Run 31 derivative-source precedent); (4) `raw/audits/2026-05-07-moil-repo-sync-check.md` (internal-infra audit, logged only); (5) `raw/audits/2026-05-07-moil-repo-cleanup-followup.md` (internal-infra audit shipped Task 1, logged only).

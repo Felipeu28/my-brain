@@ -5,8 +5,8 @@ tags:
 # Moil — Go-to-Market Motion
 
 **Type:** moil-topic
-**Last updated:** 2026-05-07
-**Source:** [[raw/moil-documents-2026-04-09]], [[raw/moilapp-website-2026-04-09]], [[raw/teams-2026-04-12]], [[raw/email-digest-2026-04-14]], [[raw/email-digest-2026-04-15]], [[raw/email-digest-2026-04-17]], [[raw/email-digest-2026-04-20]], [[raw/email-digest-2026-04-21]], [[raw/email-digest-2026-04-22]], [[raw/email-digest-2026-04-27]], [[raw/email-digest-2026-04-28]], [[raw/email-digest-2026-04-29]], [[raw/email-digest-2026-04-30]], [[raw/email-digest-2026-05-01]], [[raw/email-digest-2026-05-04]], [[raw/signal-briefs/signal-brief-2026-05-04]], [[raw/email-digest-2026-05-05]], [[raw/email-digest-2026-05-06]]
+**Last updated:** 2026-05-12
+**Source:** [[raw/moil-documents-2026-04-09]], [[raw/moilapp-website-2026-04-09]], [[raw/teams-2026-04-12]], [[raw/email-digest-2026-04-14]], [[raw/email-digest-2026-04-15]], [[raw/email-digest-2026-04-17]], [[raw/email-digest-2026-04-20]], [[raw/email-digest-2026-04-21]], [[raw/email-digest-2026-04-22]], [[raw/email-digest-2026-04-27]], [[raw/email-digest-2026-04-28]], [[raw/email-digest-2026-04-29]], [[raw/email-digest-2026-04-30]], [[raw/email-digest-2026-05-01]], [[raw/email-digest-2026-05-04]], [[raw/signal-briefs/signal-brief-2026-05-04]], [[raw/email-digest-2026-05-05]], [[raw/email-digest-2026-05-06]], [[raw/email-digest-2026-05-12]]
 **Related:** [[wiki/moil/positioning]], [[wiki/moil/icp]], [[wiki/concepts/buda-hive]], [[wiki/people/travis-sutherland]], [[wiki/people/daniel-guadiano]], [[wiki/people/renee-simmons]], [[wiki/people/adam-maxon]], [[wiki/people/irma-mason]], [[wiki/people/elisa-alaniz]], [[wiki/people/katherine-silvas]], [[wiki/orgs/helotes-edc]]
 
 ---
@@ -326,6 +326,34 @@ Single-day outbound: **9 Content 360 SMB cold pitches** + **4 EDC/Chamber close-
 **Inbound from the campaign May 6 — none from cold prospects.** All inbound traffic is **client-side / partner-side**: Becky Torres (Siren — process confusion), Linda Horuke (Jungle Flavorz — May 7/8 reschedule offer), Joshua Edmond (revised Incubator Strategist SoW), Heather Skeen (Apr 30 follow-up reply), Inna (May 14/18 videos uploaded — carryover), Sarah Sanchez (Moil 360 reply — carryover from May 5).
 
 **Signal:** May 6 is the campaign's **first SMB-pivot day** — 9 SMB sends vs. 5 chamber/EDC sends inverts the prior ratio. Pairs with the May 4 *"narrative-as-product"* multiplier and the May 5 first 3-send SMB cohort (Lone Star Roofing, CHG, Mervin and Sons): the SMB cold lane is now a **named track**, not an experiment. Three different *Content 360* hooks tested in parallel (*"30 days of content"*, *"30-day content plan, automated"*, *"Most SMB owners tell us the same thing"*, *"Business owners don't expect it to sound this good"*) — 4 hooks across 9 sends is the most multi-hook SMB day yet. **EDC pipeline pruning continues** in parallel — Wisconsin cluster now mostly closed.
+
+### Cold campaign — May 12 update (full Content 360 SMB pivot; 17 outbound, 4 hooks, zero chamber/EDC sends)
+
+Source: [[raw/email-digest-2026-05-12]]
+
+Single-day outbound: **17 sends, all Content 360 SMB cold pitches** — first day in the campaign with **zero chamber/EDC sends**. The May 6 SMB-pivot (9 SMB + 4 EDC) has now hardened into a full SMB-only outbound day. Hooks recycled from May 5–6 with one new variant.
+
+- **"20 minutes to train it. 30 days of posts." (new hook) — 2 sends:** Ashli Smith (doubledaves.com — restaurant), Jasenko Alagic (axxis-corp.com — engineering). First on-record use of the *"20 minutes to train it"* line — productizes the time-cost ask into an explicit one-line offer.
+- **"30 days of content in 20 minutes" (continuing) — 1 send:** Dave Hernandez (spillover.com — moving/storage).
+- **"your 30-day content plan, automated" (continuing) — 1 send:** Heather Buffo (ladolcevelosweets.com — bakery).
+- **"Most SMB owners tell us the same thing…" / "Most SMB owners say this" (the *"never have time"* hook) — 6 sends:** Blaine Butler (blueprint-engineering.com), Cathon Threat (chg.com), Debby Larocque (lonestarroofing.com — re-touch from May 5), Jonathan Lozano (lovellconstruction.net), Paul Weir (thelonghorncafe.com — restaurant), Robert Higginbotham (liberandcompany.com — *"Landscaping company's social turnaround"* variant).
+- **"Landscaping company's social turnaround" (case-study variant of the SMB hook) — 2 sends:** Robert Higginbotham (liberandcompany.com), Annie Grinstead (positiveenergyevents.com — events).
+- **"Business owners don't expect it to sound this good" / "Your voice, not robot voice" (voice/tone-trained AI angle, continuing) — 3 sends:** Bethany Dibaggio (laperaaustin.com — restaurant, **re-touch from Apr 9–10 La Pera Austin original list**), William Decker (gnlvodka.com — beverage), Roger Casias (wbhq.com — same wbhq.com domain pinged Apr 29 *Jessica Reicher* — second touch on this account).
+- **"Richard, this Buda business looks 10x bigger now" — 1 send:** Richard Weiss (weissarc.com — Buda architecture). Personalized version of the Apr 29 *"Buda business looks 10x bigger now"* west-coast SMB hook, **first time the Buda-business framing is used inbound to a Buda business** rather than as a story exported to other markets.
+
+**Vertical spread:** restaurants (3 — DoubleDave's, La Pera, Longhorn Café), construction/engineering (3 — Axxis, Blueprint, Lovell), roofing (1), landscaping/events (2), bakery, beverage/vodka, moving/storage, healthcare consulting, financial/insurance services, architecture. **11 distinct verticals in 17 sends** — the most multi-vertical SMB day yet.
+
+**Geographic concentration:** Heavy **Austin/Buda/Texas** local concentration (La Pera Austin, Longhorn Café, GNL Vodka, Lone Star Roofing, Lovell Construction, Spillover, Blueprint Engineering, Liberand & Company, Long Horn Café, WBHQ, DoubleDave's, Weiss Arc) — first time the cold-outbound campaign is **predominantly local-market SMB** rather than out-of-state chamber/EDC. Aligns with the May 6 SMB-pivot signal and the *"narrative-as-product"* multi-surface direction.
+
+**Subject-line A/B:** Same Content 360 messaging across 4–5 subject-line variants — same-day testing of which framing converts best in the local SMB segment.
+
+**Inbound from the campaign May 12:**
+- 🟢 [[wiki/people/becky-torres|Becky Torres]] (Siren Beauty) — Andres' 07:22 CDT *Re: Website follow up* with two-slot in-person/Teams proposal (carries the Apr 23 client thread; first time Andres has named in-person as equal to Teams on this account).
+- 🟢 [[wiki/people/carolina-caro|Carolina Rosales]] — Andres' 11:00 CDT *"estoy llegando a la casa, me conecto en 5 minutos"* arrival ping for the Buda HIVE coaching session.
+- 🟢 [[wiki/people/jacquie-martinez|Jacquie Martinez]] (May 11 carryover) — *"hopeful we'll have the contract finalized for both of you this week"*; Andres' May 12 12:59 CDT reply (cc [[wiki/people/joshua-edmond|Joshua]]) puts the **same-week Incubator Strategist PSA finalization** on the table.
+- 🟢 [[wiki/people/steve-messinger|Steve Messinger]] (Perseus Defense) — *"Great to meet you Andres! Super cool what you are building and best of luck with the YC app."* (16:37 CDT) — closes the Jennifer Storm intro loop on the YC referral track.
+
+**Signal:** May 12 is the campaign's **first zero-EDC, all-SMB day** — the chamber/EDC chase has now visibly drawn down to zero in a single day's outbound while the local-Austin/Buda SMB lane has scaled to 17 sends across 11 verticals. The new *"20 minutes to train it. 30 days of posts."* hook is the second time-cost-productization line in 2 weeks (the May 5–6 *"30 days of content in 20 minutes"* was the first). **Subject-line A/B testing is now happening at the same-day cadence** — 4–5 variants per Content 360 message — the first explicit subject-line test in the campaign. Pipeline center-of-gravity has fully shifted to local SMB; the Apr chamber/EDC blitz is now in full long-tail prune.
 
 ### Hays CISD Career Day — network-recruitment expansion (Apr 30)
 

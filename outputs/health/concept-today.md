@@ -1,4 +1,4 @@
-## Concept of the day — [[wiki/concepts/aedo|AEDO — Accredited Economic Development Organization]]
+## Concept of the day — [[wiki/concepts/brain-architecture|Brain Architecture — Andres's 5-Layer Personal Knowledge Pipeline]]
 
 _Last touched: 2026-04-11_  •  _Type: concept_
 
