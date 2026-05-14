@@ -4,14 +4,14 @@ tags:
   - graph/hub
 owner: "[[wiki/people/megan-miller]]"
 status: active
-last_contact: 2026-05-07
+last_contact: 2026-05-14
 ---
 # FitLogic Functional Medicine
 
 **Type:** organization
-**Last updated:** 2026-05-07
-**Source:** [[raw/teams-2026-04-12]], [[raw/email-history-2months-2026-04-12]], [[raw/github-project-tracker.md]], [[raw/teams-2026-04-21]], [[raw/teams-transcript-megan-miller-2026-04-21]], [[raw/email-digest-2026-04-20]], [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/teams-transcript-megan-moil-crm-test-and-delivery-2026-04-29]], [[raw/teams-transcript-meeting-to-go-over-ongoing-projects-2026-05-06]], [[raw/teams-transcript-megan-andres-2026-05-07]]
-**Related:** [[wiki/people/megan-miller]], [[wiki/people/michelle-fitlogic]], [[wiki/moil/customers]], [[wiki/moil/pipeline]], [[wiki/concepts/moil360]], [[wiki/meetings/2026-04-21-megan-fitlogic-working-session]], [[wiki/meetings/2026-04-23-megan-crm-google-setup]], [[wiki/meetings/2026-04-29-megan-fitlogic-crm-delivery]], [[wiki/meetings/2026-05-06-andres-taiwo-ongoing-projects]], [[wiki/meetings/2026-05-07-megan-andres-fitlogic-crm-handoff]]
+**Last updated:** 2026-05-14
+**Source:** [[raw/teams-2026-04-12]], [[raw/email-history-2months-2026-04-12]], [[raw/github-project-tracker.md]], [[raw/teams-2026-04-21]], [[raw/teams-transcript-megan-miller-2026-04-21]], [[raw/email-digest-2026-04-20]], [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/teams-transcript-megan-moil-crm-test-and-delivery-2026-04-29]], [[raw/teams-transcript-meeting-to-go-over-ongoing-projects-2026-05-06]], [[raw/teams-transcript-megan-andres-2026-05-07]], [[raw/teams-transcript-megan-andres-2026-05-14]]
+**Related:** [[wiki/people/megan-miller]], [[wiki/people/michelle-fitlogic]], [[wiki/moil/customers]], [[wiki/moil/pipeline]], [[wiki/concepts/moil360]], [[wiki/meetings/2026-04-21-megan-fitlogic-working-session]], [[wiki/meetings/2026-04-23-megan-crm-google-setup]], [[wiki/meetings/2026-04-29-megan-fitlogic-crm-delivery]], [[wiki/meetings/2026-05-06-andres-taiwo-ongoing-projects]], [[wiki/meetings/2026-05-07-megan-andres-fitlogic-crm-handoff]], [[wiki/meetings/2026-05-14-megan-taiwo-fitlogic-2fa-godaddy-session]]
 
 ---
 
@@ -191,6 +191,35 @@ Source: [[wiki/meetings/2026-05-07-megan-andres-fitlogic-crm-handoff]] (~1h 21mi
 **Patient relationship signal (brand voice):** Megan recounted asking a longtime patient *"what do you need to feel heard, supported, seen?"* — patient replied *"Just keep doing what you're doing — that's exactly why I'm here."* Exemplifies the patient-centered tone Megan committed to on Apr 29 (*"I don't care what you want. I want it to be about what they need."*).
 
 **Operations note — Michelle progress:** Michelle continues to excel at the relational side. One new patient asked her to be physically present in her appointment because she had no one else to bring. Strong organic-fit signal for Michelle's role as the day-to-day operator.
+
+## May 14, 2026 — GoDaddy delegate + Outlook migration session (~34 min)
+
+Source: [[wiki/meetings/2026-05-14-megan-taiwo-fitlogic-2fa-godaddy-session]]
+
+Working session with Megan + Andres + Taiwo to finalize the May 7 Cloudflare-workaround architecture. **Closes the May 11 Monday Collaboration 2FA wiring blocker** and the **May 7 in-person walkthrough commitment**.
+
+**Three durable outcomes:**
+1. **Two-domain architecture written down as standing pattern.** `fitlogicfunctionalmedicine.com` = patient/client engine (HIPAA-side, `hello@`, no marketing). `myfitlogic.com` = sales engine — email marketing + CRM outbound, forwards to FitLogic site so click-through experience is identical. *"That doesn't hurt your existing domain. You don't get spam blocked."*
+2. **GoDaddy account-level delegate granted to `Andres@moilapp.com`.** Megan accepted broader-than-needed scope (the "individual domains" picker wouldn't let her select `myfitlogic.com` specifically — UI defaulted to FitLogic Functional Medicine). Lets Taiwo finish DNS / domain verification without Megan logged in live each time. **Trust depth holds at the level set Apr 21.**
+3. **Security posture committed to writing.** Andres on transcript: *"if we are ever going to touch your accounts, it should always be, you know, like this — we should never have like continued access … only use it when we're working on something. And yes, once we actually deploy everything, you should change all of your passwords."* Megan agreed; 2FA stays on. **First on-record articulation of the Moil-touches-customer-accounts security pattern** — pull into Moil 360 playbook.
+
+**Tonight (2026-05-14) — Taiwo:**
+- Finish creating the new Outlook account against `myfitlogic.com`; verify the email and the domain; complete the GoDaddy delegation flow
+
+**Tomorrow (2026-05-15 AM) — Andres:**
+- Send Megan access to the new system
+
+**Mon–Tue (2026-05-18 → 19) — Megan + Michelle:**
+- Play with the system, try to break it, surface bugs
+
+**Wed (2026-05-20) 10:00–11:00 AM CT — Andres + Megan + Michelle, in person at FitLogic:**
+- Walk through deployed system; fix anything Megan/Michelle flagged
+- Closes the May 7 next-week in-person visit commitment
+
+**Open issues for follow-up:**
+- GoDaddy "individual domains" delegate UI quirk — couldn't pick `myfitlogic.com` specifically; account-level scope worked but if Megan revokes account-level later, per-domain may need re-debugging
+- Microsoft Authenticator prompt vanished mid-approval 3+ times — same friction as May 11; pattern signal for future MS365 customer onboards
+- Unfamiliar `508F6B8D9.conversions.godaddy.com` email-forwarding rule on the domain — Megan disabled; confirm nothing important relied on it
 
 ## Contacts
 

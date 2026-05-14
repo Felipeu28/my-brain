@@ -1,7 +1,9 @@
 # MEMORY — Open Actions & Live Commitments
 
-**Last updated:** 2026-05-13 PM (Run 48 ingest — 1 new Teams transcript: **Jordan Kaiser × Andres Cohort-4 first 1:1**. New page: [[wiki/people/jordan-kaiser]]. New meeting: [[wiki/meetings/2026-05-13-jordan-andres-1-1]]. **Second independent surfacing of HIVE 1-yr Moil license precedent in 24 hours** — promoted from confidential (May 12, Caro) → near-confirmed (May 13, Jordan). **First Cohort 4 pure-idea-stage participant** + first senior/accessibility ICP. **Silent ship documented:** Moil now sends **3 proactive coaching emails/week** to active business users — first time captured in the Brain. Run 47 header preserved below.)
-**Run 47 (2026-05-13 AM):** email-digest-2026-05-12 + signal-brief-2026-05-12 ingested. **Perseus YC meeting happened** May 12 8 AM — Steve Messinger warm reply. **Buda EDC Incubator Strategist contracts on a same-week finalization track** — Jacquie post-lunch *"hopeful we'll have the contract finalized for both of you this week."* **Cold campaign first all-SMB day** — 17 sends, 11 verticals. **Adeleke silence anomaly extends to 5 days.**
+**Last updated:** 2026-05-14 PM (Run 50 ingest — 1 new Teams transcript: **Megan × Andres × Taiwo — GoDaddy delegate + Outlook migration session**. New meeting: [[wiki/meetings/2026-05-14-megan-taiwo-fitlogic-2fa-godaddy-session]]. **Closes May 11 2FA wiring blocker** + **May 7 next-week in-person commitment** (now Wed May 20 10 AM CT at FitLogic). **First on-record articulation of the Moil-touches-customer-accounts security pattern** — no continued access, log out when done, rotate passwords post-deploy, 2FA stays on. Two-domain architecture written down as standing pattern: `fitlogicfunctionalmedicine.com` patient / `myfitlogic.com` sales. Meridian-side spillover: verification code went to `Travis@zoho.com`, mailbox empty — Andres to get the code from Travis once Taiwo re-requests.)
+**Run 49 (2026-05-14 AM):** email-digest-2026-05-13 + signal-brief-2026-05-13 ingested. **Perseus Defense YC recommendation submitted** (Jason Cornelius *"Rec. is in"*); Andres committed to looping Perseus in on any YC interview signal. Adeleke silence anomaly extends to 6 days. Monica Davidson intro for Jordan confirmed sent 17:57 CDT.
+**Run 48 (2026-05-13 PM):** 1 new Teams transcript — Jordan Kaiser × Andres Cohort-4 first 1:1. New page: [[wiki/people/jordan-kaiser]]. **Second independent surfacing of HIVE 1-yr Moil license precedent in 24 hours.** Silent ship documented: Moil now sends 3 proactive coaching emails/week to active business users.
+**Run 47 (2026-05-13 AM):** email-digest-2026-05-12 + signal-brief-2026-05-12 ingested. **Perseus YC meeting happened** May 12 8 AM — Steve Messinger warm reply. **Buda EDC Incubator Strategist contracts on a same-week finalization track.** **Cold campaign first all-SMB day** — 17 sends, 11 verticals.
 **Purpose:** Single source of truth for open action items extracted from ingested raw sources.
 
 > Relationship/concept context: [[index]] · Ingestion history: [[log]]
@@ -11,6 +13,20 @@
 ---
 
 ## 🔥 Immediate — This Week (May 11 – May 17, 2026)
+
+### 🔥 May 14 — FitLogic Outlook migration session (GoDaddy delegate + security pattern)
+Source: [[wiki/meetings/2026-05-14-megan-taiwo-fitlogic-2fa-godaddy-session]]
+- [ ] **🔥 Tonight 2026-05-14 — Taiwo:** finish creating the new Outlook account against `myfitlogic.com`; verify the email and the domain; complete the GoDaddy delegation flow. Migration target: ready for Megan tomorrow morning
+- [ ] **🔥 Tonight 2026-05-14 — Taiwo:** re-run the **Meridian** verification-code request that landed in the empty `Travis@zoho.com` mailbox; ping Andres once re-requested
+- [ ] **🔥 Tonight 2026-05-14 — Andres:** once Taiwo re-requests, get the Meridian verification code from [[wiki/people/travis-sutherland|Travis]]
+- [ ] **🔥 Fri 2026-05-15 AM — Andres:** send Megan access to the new Outlook-on-`myfitlogic.com` system "first thing tomorrow"
+- [ ] **Mon–Tue 2026-05-18 → 19 — Megan + Michelle:** play with the new system, try to break it, surface bugs before Wednesday
+- [ ] **🔥 Wed 2026-05-20 10:00–11:00 AM CT — Andres + Megan + Michelle:** in-person walkthrough at FitLogic; fix anything Megan/Michelle flagged. **Closes the May 7 next-week in-person visit commitment**
+- [ ] **Post-deploy — Megan:** rotate all passwords on touched accounts (GoDaddy, Connections, the new Outlook mailbox); 2FA stays on
+- [ ] **Capture for Moil 360 playbook:** Andres articulated the standing security rule on transcript (*"we should never have continued access … only use it when we're working on something … once we deploy, you should change all of your passwords"*) — first on-record. Pull into customer-account-touch policy doc
+- [ ] **Watch (low priority):** GoDaddy "individual domains" delegate UI quirk (couldn't scope to one domain — defaulted to FitLogic Functional Medicine); unfamiliar `508F6B8D9.conversions.godaddy.com` forwarding rule Megan disabled — confirm nothing relied on it before mailbox goes live
+- [x] ~~**🔥 May 11 — Andres:** text Megan to coordinate the 2FA code for the new Moil-owned sales email so Taiwo can finish wiring GitHub + Vercel + GoDaddy~~ ✅ **Closed May 14** — GoDaddy delegate granted at account level; GitHub access ready (Taiwo confirmed *"everything is ready"* end of call)
+- [x] ~~**🔥 May 7 — Andres:** schedule next-week in-person visit to FitLogic to walk Megan + Michelle through the CRM together~~ ✅ **Locked May 14** — Wed 2026-05-20 10:00–11:00 AM CT at FitLogic
 
 ### 🔥 May 13 — Jordan Kaiser HIVE Cohort 4 first 1:1 (senior-tech autonomy)
 Source: [[wiki/meetings/2026-05-13-jordan-andres-1-1]], [[wiki/people/jordan-kaiser]]
@@ -50,8 +66,8 @@ Source: [[raw/email-digest-2026-05-07]]
 
 ### 🔥 May 7 — Megan × Andres CRM handoff (Resend blocker resolved)
 Source: [[wiki/meetings/2026-05-07-megan-andres-fitlogic-crm-handoff]]
-- [ ] **🔥 [2026-05-08 AM] Andres / Eng:** Configure Microsoft 365 mailbox for `myfitlogic.com` in GoDaddy (creds Megan sent on the call); ship Megan CRM login credentials wired to `connections@myfitlogic.com`
-- [ ] **🔥 Andres:** Schedule **next-week in-person visit to FitLogic** to walk Megan + Michelle through the CRM together (manager is the primary trainee, not the owner)
+- [ ] **🔥 [in-flight, 6d slipped from 2026-05-08 AM target] Andres / Eng:** Configure Microsoft 365 mailbox for `myfitlogic.com`; ship Megan CRM login credentials wired to `connections@myfitlogic.com`. **Taiwo finishing tonight 2026-05-14** under the May 14 working-session block above; Andres to send Megan access first thing 2026-05-15
+- [x] ~~**🔥 Andres:** Schedule **next-week in-person visit to FitLogic** to walk Megan + Michelle through the CRM together~~ ✅ **Locked May 14** — Wed 2026-05-20 10:00–11:00 AM CT at FitLogic
 - [ ] **Andres:** Design the "clicked-link" trigger flow for the CRM (Megan's ask) — manual vs. automated, and how to keep tone non-spammy. Deferred, not committed
 - [ ] **Andres + Megan:** Ongoing Keap contact-list cleanup (~5,341 rows) — duplicates + obvious fakes (`sample@email.com` etc.); Megan starts low-volume only with the test-contact flag while Michelle ramps
 - [ ] **Megan (this week):** Send Andres his lab order (fasting bloodwork, 8–10 vials) — possibly switching from LabCorp to a different vendor; she'll text when it's in the Charm portal
@@ -112,10 +128,6 @@ Source: [[wiki/meetings/2026-04-30-heather-skeen-coaching]], [[wiki/meetings/202
 - [ ] **Caro homework:** complete Moil 21 questions (signed up first month free during the call); interview 5–10 women from Cohort 4 to validate ICP and willingness to pay; map floorplan to revenue
 - [ ] **Heather homework:** research daycare PD requirements (12 domains, hours, certification cycle); research market rates for CEU providers in TX; package 3–4 program bundles at ~$1,000/yr per daycare; build 25-mile-radius daycare prospect list (postcard + 3-email sequence + call); attorney consult on "Providence Counseling and Therapy" name change (insurance-contract impact); fix the $500/3hr pricing for the NC fall engagement
 
-### 🔥 Apr 29 — Buda EDC × GIS WebTech AI meeting LOCKED
-Source: [[raw/email-digest-2026-04-29]], [[wiki/people/john-costilla]]
-- [ ] **Wed May 13, 9–11 AM CT virtual** with [[wiki/people/john-costilla|John Costilla]] (Buda EDC) + [[wiki/people/joseph-arnke|Joseph Arnke]] / Michael Cleary (GIS WebTech). **First firm date** on the EDC-website-AI-tools workstream (live since John's Apr 10 *"Agentic AI / always on site selector tool"* signal). Andres accepted same day; calendar accepted
-
 ### 🔥 Apr 29 — AI-spend observability emergency (May 4 partly resolved)
 Source: [[raw/email-digest-2026-04-29]], [[wiki/people/adeleke-tolulope]], [[wiki/meetings/2026-05-04-monday-collaboration]]
 - [ ] **🔥 Adeleke / Andres:** Per-feature AI-spend accounting for OpenAI + Gemini before next billing cycle (the Saturday 5/2 Gemini spike was the weekly health-summary cron — fix landing via May 4 Flash-Lite + active-user-gate switch)
@@ -137,24 +149,14 @@ Source: [[wiki/meetings/2026-04-28-mark-polanco-connectex-walkthrough]]
 - [ ] **🔥 Andres + Mark:** Squarespace push once Mark sends login; Resources/blog section; mid-May lunch; refile EDC reimbursement; Yealink LTE deck-station doc; BuiltFirst marketplace-billing block
 - [ ] **🔥 Taiwo + Eng:** Connectex repo to remote (no local-only — third surfacing); Gemini API key; Airtable contact import; finish Contacts tab; seed Knowledge Base for AI tier-1 ticket testing
 
-### 🔥 Apr 28 — Inna CRM bug residue (now scoped under May 11 Inna reset)
-Source: [[wiki/meetings/2026-04-28-website-update-review-internal]]
-- [ ] **🔥 Taiwo:** Fix Inna CRM contact-add hang + Gemini API key + add Jacob as Google OAuth test user (3 items still open from Apr 28; deprioritized vs FitLogic but unblocks any future Inna-CRM demo)
-- [ ] **🔥 Andres:** Add [[wiki/orgs/siren-beauty|Siren Beauty]] brand kit to repo as `brand.md` — first per-customer brand-kit-as-repo-artifact (extends user.md / design.md / agent.md pattern toward the YC RFS *"build for agents"* framing)
-
-### 🔥 Apr 28 — moilapp.com SEO emergency
-Source: [[wiki/meetings/2026-04-28-website-update-review-internal]]
-- [ ] **🔥 Andres:** SEO audit + fixes on **moilapp.com** — only ~12 of ~60 pages indexed; schemas wrong; robots.txt wrong; *"two years of accumulated SEO debt — we're literally unfindable"*. Workstream rule: same SEO discipline applies to all client builds going forward
-
-### 🔥 May 1 — TEDC keynote prep, John co-marketing, Inna silence, Nuovo call
-Source: [[raw/email-digest-2026-05-01]], [[raw/signal-briefs/signal-brief-2026-05-01]]
-- [ ] **🔥 Andres:** Prep **TEDC Mid-Year keynote** — Fri Jun 19, 8 AM, Hilton Granite Park, Plano TX ([[wiki/people/sarah-miller|Sarah Miller]] booked). First TEDC slot. Talk angle: Buda EDC × Moil B2G template scaled statewide
-- [ ] **🔥 Andres:** Walk [[wiki/people/john-costilla|John Costilla]] through the video-creation workflow on his brand (offered May 1 after John's praise on *business-coach-95s*). Anchor was Mon May 4 in-person at HIVE
-- [x] ~~**🟡 Nudge [[wiki/people/inna-benyukhis|Inna]] directly** on May 1 podcast re-cut silence~~ — superseded by **May 11 scope reset** (4 posts/week cap), Inna's May 11 8:33 AM email broke the silence anyway; podcast re-cut publish moved to next week's pipeline under the new cadence
+### 🔥 May 1 — Outstanding non-keynote items
+Source: [[raw/email-digest-2026-05-01]]
+- [ ] **🔥 Andres:** Walk [[wiki/people/john-costilla|John Costilla]] through the video-creation workflow on his brand (offered May 1 after John's praise on *business-coach-95s*)
 - [ ] **Andres:** Run the [[wiki/people/marilyn-martinez|Marilyn Martinez]] / [[wiki/orgs/nuovo-entertainment|Nuovo]] Website Discussion call. Capture scope; decide site-only vs. Moil 360 conversion
 
 ### 🔥 Carried debts demoted to log.md
-- **Run 48 (2026-05-13 PM):** Apr 30 Hays CISD Career Day post-May-7 follow-ups (Allison Pflaum + Rebecca Acosta-Ojeda + John/Proof decline) + Apr 30 Apollo data-quality cleanup pass — both blocks 14d+ stale, demoted to [[log.md]]
+- **Run 50 (2026-05-14 PM):** Apr 28 Inna CRM bug residue (Taiwo: Inna contact-add hang + Gemini API key + Jacob Google OAuth test-user; Siren Beauty brand.md per-customer brand-kit) + Apr 28 moilapp.com SEO emergency + Apr 29 Buda EDC × GIS WebTech meeting (held May 13) + May 1 TEDC keynote prep — all 14d+ stale and tracked via project/meeting pages; demoted to [[log.md]]
+- **Run 48 (2026-05-13 PM):** Apr 30 Hays CISD Career Day post-May-7 follow-ups + Apr 30 Apollo data-quality cleanup pass — both blocks 14d+ stale, demoted to [[log.md]]
 - **Run 44 (2026-05-11):** Apr 30 Anita Lansing re-engage; Apr 28 inbox (John Costilla lunch + Victor UDC). Earlier Apr 24/21/28 sub-blocks demoted Runs 38–40 — see [[log.md]]
 
 ---

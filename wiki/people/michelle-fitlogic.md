@@ -9,9 +9,9 @@ client: "[[wiki/orgs/fitlogic]]"
 # Michelle (FitLogic Practice Manager)
 
 **Type:** person
-**Last updated:** 2026-05-07
-**Source:** [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/teams-transcript-megan-moil-crm-test-and-delivery-2026-04-29]], [[raw/teams-transcript-megan-andres-2026-05-07]]
-**Related:** [[wiki/people/megan-miller]], [[wiki/orgs/fitlogic]], [[wiki/people/daniel-mann]], [[wiki/meetings/2026-04-23-megan-crm-google-setup]], [[wiki/meetings/2026-04-29-megan-fitlogic-crm-delivery]], [[wiki/meetings/2026-05-07-megan-andres-fitlogic-crm-handoff]], [[wiki/concepts/moil360]]
+**Last updated:** 2026-05-14
+**Source:** [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/teams-transcript-megan-moil-crm-test-and-delivery-2026-04-29]], [[raw/teams-transcript-megan-andres-2026-05-07]], [[raw/teams-transcript-megan-andres-2026-05-14]]
+**Related:** [[wiki/people/megan-miller]], [[wiki/orgs/fitlogic]], [[wiki/people/daniel-mann]], [[wiki/meetings/2026-04-23-megan-crm-google-setup]], [[wiki/meetings/2026-04-29-megan-fitlogic-crm-delivery]], [[wiki/meetings/2026-05-07-megan-andres-fitlogic-crm-handoff]], [[wiki/meetings/2026-05-14-megan-taiwo-fitlogic-2fa-godaddy-session]], [[wiki/concepts/moil360]]
 
 ---
 
@@ -68,6 +68,12 @@ Operationally, **next-week's in-person CRM walkthrough explicitly targets Michel
 
 - **[[wiki/people/megan-miller|Megan Miller]]** — boss; Megan trusts her copy judgment more than her own (*"she's better at putting my thoughts into words"*)
 - **[[wiki/people/daniel-mann|Daniel D. Mann]]** — knows him socially as "Firefly"; Michelle relays warm regards from him to Andres
+
+## May 14, 2026 — In-person walkthrough locked for Wed May 20 (cross-referenced)
+
+Source: [[wiki/meetings/2026-05-14-megan-taiwo-fitlogic-2fa-godaddy-session]]
+
+Michelle not present on the May 14 working session, but the **Wed 2026-05-20 10:00–11:00 AM CT in-person walkthrough at FitLogic** with Andres + Megan + Michelle is now locked. Megan + Michelle's Mon/Tue (May 18–19) homework: play with the new Outlook-on-`myfitlogic.com` system, try to break it, surface bugs before the Wednesday session. Continues the "owner trains a manager" pattern — Michelle is the primary trainee on the in-person side.
 
 ## Open threads
 

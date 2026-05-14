@@ -37,6 +37,14 @@ Updated automatically by:
 ## Recent Queries
 
 <!-- ENTRIES:query -->
+- 2026-05-14 18:19 — Session end: [Brain/Auto] Pull today's Microsoft Teams meeting transcripts and add them to the Brain.  1. … — 1 new files
+- 2026-05-14 14:54 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 87 edits
+- 2026-05-14 14:50 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 87 edits
+- 2026-05-14 14:46 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 87 edits
+- 2026-05-14 14:38 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 87 edits
+- 2026-05-14 14:29 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 87 edits
+- 2026-05-14 14:28 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 87 edits
+- 2026-05-14 12:01 — Session end: [Brain/Auto] You are Andres's plan radar. Every day at noon you scan recent Brain activity an… — 1 new files
 - 2026-05-14 08:58 — Q: "What are the 3 most important things I should focus on today? Consider: open dea" → # Top 3 Focus Areas — Wed May 14, 2026
 - 2026-05-14 08:58 — Session end: [Brain/KB] You are the Moil Brain query engine. Answer this question using the Brain's know… — 25 events
 - 2026-05-14 08:58 — Session end: [Brain/Auto] You are the Moil Brain's daily cross-source intelligence analyst.  You are readi… — 9 events
@@ -49,14 +57,6 @@ Updated automatically by:
 - 2026-05-13 23:13 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 84 edits
 - 2026-05-13 23:10 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 81 edits
 - 2026-05-13 23:09 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 81 edits
-- 2026-05-13 22:59 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 81 edits
-- 2026-05-13 22:55 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 81 edits
-- 2026-05-13 22:49 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 81 edits
-- 2026-05-13 22:45 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 81 edits
-- 2026-05-13 22:42 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 76 edits
-- 2026-05-13 22:36 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 76 edits
-- 2026-05-13 22:30 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 76 edits
-- 2026-05-13 22:26 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 76 edits
 <!-- /ENTRIES:query -->
 
 ## Recent Saves

@@ -3,15 +3,15 @@ tags:
   - graph/hub
   - person/customer
 status: active
-last_contact: 2026-05-11
+last_contact: 2026-05-14
 client: "[[wiki/orgs/fitlogic]]"
 ---
 # Megan Miller
 
 **Type:** person
-**Last updated:** 2026-05-11
-**Source:** [[raw/imessages-people-2026-04-09]], [[raw/email-history-6months-2026-04-14]], [[raw/teams-transcript-megan-miller-2026-04-21]], [[raw/teams-2026-04-21]], [[raw/email-digest-2026-04-20]], [[raw/email-digest-2026-04-21]], [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/email-digest-2026-04-22]], [[raw/teams-transcript-megan-moil-crm-test-and-delivery-2026-04-29]], [[raw/teams-transcript-meeting-to-go-over-ongoing-projects-2026-05-06]], [[raw/teams-transcript-megan-andres-2026-05-07]], [[raw/signal-briefs/signal-brief-2026-05-06]], [[raw/email-digest-2026-05-07]], [[raw/signal-briefs/signal-brief-2026-05-07]]
-**Related:** [[wiki/orgs/fitlogic]], [[wiki/moil/customers]], [[wiki/moil/gtm]], [[wiki/concepts/smart-hiring]], [[wiki/concepts/moil360]], [[wiki/people/michelle-fitlogic]], [[wiki/meetings/2026-04-21-megan-fitlogic-working-session]], [[wiki/meetings/2026-04-23-megan-crm-google-setup]], [[wiki/meetings/2026-04-29-megan-fitlogic-crm-delivery]], [[wiki/meetings/2026-05-06-andres-taiwo-ongoing-projects]], [[wiki/meetings/2026-05-07-megan-andres-fitlogic-crm-handoff]]
+**Last updated:** 2026-05-14
+**Source:** [[raw/imessages-people-2026-04-09]], [[raw/email-history-6months-2026-04-14]], [[raw/teams-transcript-megan-miller-2026-04-21]], [[raw/teams-2026-04-21]], [[raw/email-digest-2026-04-20]], [[raw/email-digest-2026-04-21]], [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/email-digest-2026-04-22]], [[raw/teams-transcript-megan-moil-crm-test-and-delivery-2026-04-29]], [[raw/teams-transcript-meeting-to-go-over-ongoing-projects-2026-05-06]], [[raw/teams-transcript-megan-andres-2026-05-07]], [[raw/signal-briefs/signal-brief-2026-05-06]], [[raw/email-digest-2026-05-07]], [[raw/signal-briefs/signal-brief-2026-05-07]], [[raw/teams-transcript-megan-andres-2026-05-14]]
+**Related:** [[wiki/orgs/fitlogic]], [[wiki/moil/customers]], [[wiki/moil/gtm]], [[wiki/concepts/smart-hiring]], [[wiki/concepts/moil360]], [[wiki/people/michelle-fitlogic]], [[wiki/meetings/2026-04-21-megan-fitlogic-working-session]], [[wiki/meetings/2026-04-23-megan-crm-google-setup]], [[wiki/meetings/2026-04-29-megan-fitlogic-crm-delivery]], [[wiki/meetings/2026-05-06-andres-taiwo-ongoing-projects]], [[wiki/meetings/2026-05-07-megan-andres-fitlogic-crm-handoff]], [[wiki/meetings/2026-05-14-megan-taiwo-fitlogic-2fa-godaddy-session]]
 
 ---
 
@@ -208,6 +208,36 @@ The May 6 daily-correlator flagged Megan as a **silence anomaly** — Andres sen
 Source: [[raw/signal-briefs/signal-brief-2026-05-07]]
 
 The May 7 daily-correlator flagged Megan as **the load-bearing customer this week**: she surfaces in three source types simultaneously (Teams transcript, email-digest, [2026-05-08 AM] credential-shipping action) and **four downstream commitments — CRM go-live, `myfitlogic.com` provisioning, lab order, in-person training visit — all gate on Andres delivering credentials before her next outbound test.** Single-day cluster of dependencies in a single customer; track delivery slippage carefully because miss = compounding delay across all four threads. *(Cross-source bonus: the same `myfitlogic.com` Cloudflare-workaround that unblocked her also validates a deliverability-hedge architecture for Andres's own SMB cold campaign — see [[wiki/concepts/ai-cold-outreach]].)*
+
+## May 14, 2026 — GoDaddy delegate granted + Outlook migration session (~34 min)
+
+Source: [[wiki/meetings/2026-05-14-megan-taiwo-fitlogic-2fa-godaddy-session]]
+
+Working session with Andres + Taiwo to finalize the May 7 Cloudflare-workaround architecture: migrate Megan's outbound sales infrastructure from Gmail to a Microsoft 365 mailbox on `myfitlogic.com`. **Closes the May 11 2FA blocker** on the wiring side.
+
+**Trust signal — account-level GoDaddy delegate:** Megan added `Andres@moilapp.com` as a delegate on her **whole GoDaddy account** because the "individual domains" picker would not let her scope to one domain (defaulted to FitLogic Functional Medicine). She accepted the broader scope without hesitation. Lets Taiwo finish DNS / domain verification without Megan needing to be logged in live each time.
+
+**Security posture articulated as a standing rule** (first time on transcript). Andres unprompted: *"if we are ever going to touch your accounts, it should always be, you know, like this — we should never have like continued access … only use it when we're working on something. And yes, once we actually deploy everything, you should change all of your passwords."* Two-factor authentication stays on. Megan committed to rotating all passwords on touched accounts (GoDaddy, Connections, the new Outlook mailbox) post-deployment. **Worth pulling into the Moil 360 playbook as a written customer-account-touch policy.**
+
+**Two-domain architecture restated as the standing pattern, not a workaround:**
+- `fitlogicfunctionalmedicine.com` = patient / client engine (`hello@`, HIPAA-side)
+- `myfitlogic.com` = sales engine for email marketing + CRM outbound (forwards to FitLogic site so user click experience is identical)
+
+**Operational friction:**
+- GoDaddy "choose individual domains" UI quirk — defaulted to FitLogic Functional Medicine, wouldn't let Megan pick `myfitlogic.com`. Account-level delegate worked anyway; if Megan revokes account-level later, the per-domain picker may need re-debugging
+- Microsoft Authenticator prompt vanished mid-approval **3+ times** — required Taiwo to resend each time. Same friction as the May 11 Monday Collaboration 2FA flow. Pattern signal: if Moil onboards more customers through Microsoft 365 setup, this friction will recur
+- Megan found and disabled an unfamiliar `508F6B8D9.conversions.godaddy.com` email-forwarding rule on the domain. Worth confirming nothing important was relying on it before the new mailbox goes live
+- Megan missed an 11 AM patient slot during the call (busy clinical operator); consistent with the Apr 23 calendar-hygiene self-flag
+
+**Wed 2026-05-20 10:00–11:00 AM CT in-person at FitLogic locked.** Closes the May 7 "schedule next-week in-person visit" commitment. Megan offered HIVE; Andres pushed for FitLogic to walk the deployed system with Megan + Michelle together (manager remains the primary trainee). Megan + Michelle to play with the system Mon May 18 / Tue May 19, try to break it, surface bugs before the Wednesday walkthrough.
+
+**Deliverable countdown:**
+- 2026-05-14 (Tonight, Taiwo): finish Outlook account against `myfitlogic.com`; verify email + domain; complete GoDaddy delegation flow
+- 2026-05-15 AM (Andres): send Megan access to the new system
+- 2026-05-18 → 19 (Megan + Michelle): play / break / find bugs
+- 2026-05-20 10–11 AM (Andres + Megan in-person at FitLogic): walkthrough + fixes
+
+`last_contact: 2026-05-11 → 2026-05-14`
 
 ## May 11, 2026 — 2FA coordination + Moil-owned sales email centralization
 

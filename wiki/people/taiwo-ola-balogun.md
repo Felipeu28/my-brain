@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-05-12
+last_contact: 2026-05-14
 tags:
   - graph/spoke
   - person/team
@@ -8,9 +8,9 @@ tags:
 # Taiwo Ola-Balogun
 
 **Type:** person
-**Last updated:** 2026-05-11
-**Source:** `raw/meetings/` (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026), [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/teams-2026-04-24]] (9 messages 1:1, Apr 24), [[raw/teams-2026-04-26]] (4 messages 1:1, Apr 26), [[raw/teams-transcript-website-update-review-call-2026-04-28]], [[raw/teams-transcript-mark-polanco-andres-2026-04-28]], [[raw/teams-transcript-monday-collaboration-2026-05-04]], [[raw/teams-transcript-meeting-to-go-over-ongoing-projects-2026-05-06]]
-**Related:** [[wiki/people/adeleke-tolulope]], [[wiki/people/jacob-oluwole]], [[wiki/moil/product-roadmap]], [[wiki/meetings/2026-04-23-megan-crm-google-setup]], [[wiki/meetings/2026-05-06-andres-taiwo-ongoing-projects]]
+**Last updated:** 2026-05-14
+**Source:** `raw/meetings/` (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026), [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/teams-2026-04-24]] (9 messages 1:1, Apr 24), [[raw/teams-2026-04-26]] (4 messages 1:1, Apr 26), [[raw/teams-transcript-website-update-review-call-2026-04-28]], [[raw/teams-transcript-mark-polanco-andres-2026-04-28]], [[raw/teams-transcript-monday-collaboration-2026-05-04]], [[raw/teams-transcript-meeting-to-go-over-ongoing-projects-2026-05-06]], [[raw/teams-transcript-megan-andres-2026-05-14]]
+**Related:** [[wiki/people/adeleke-tolulope]], [[wiki/people/jacob-oluwole]], [[wiki/moil/product-roadmap]], [[wiki/meetings/2026-04-23-megan-crm-google-setup]], [[wiki/meetings/2026-05-06-andres-taiwo-ongoing-projects]], [[wiki/meetings/2026-05-14-megan-taiwo-fitlogic-2fa-godaddy-session]]
 
 ---
 
@@ -209,6 +209,17 @@ Source: [[raw/teams-transcript-monday-collaboration-2026-05-11]], [[wiki/meeting
 - **Will document and share the new Supabase he created** so it's not siloed in his account.
 - **2FA blocker today** — needs Megan to read the 2FA code from the new sales email so he can finish wiring. Andres texting Megan in-call to coordinate.
 - **HIPAA boundary internalized** — confirmed his understanding that the Moil-built CRM holds sales prospects only; converted patients exit the Moil system back to Megan's clinical CRM. *"Inbox is going to be loaded from this email"* (the new Moil sales email).
+
+## May 14, 2026 — FitLogic Outlook migration live + Meridian Travis@zoho code blocker
+
+Source: [[raw/teams-transcript-megan-andres-2026-05-14]], [[wiki/meetings/2026-05-14-megan-taiwo-fitlogic-2fa-godaddy-session]]
+
+- **Drove the live Outlook account-creation flow** for `myfitlogic.com` from Nigeria side while Andres + Megan paired on GoDaddy. Resilient through 3+ Microsoft Authenticator misses (prompt vanished before Megan could approve each time) — re-sent calmly on Andres's request. Continues the Apr 23 customer-call discipline pattern
+- **Correctly surfaced the GoDaddy delegate dependency.** Quote: *"I think you can log into the email and delegate access for the GoDaddy."* Drove the security-first option — delegate access vs. continuous login — which Andres then articulated as the standing Moil-touches-customer-accounts rule. **First time Taiwo's engineering instinct directly seeded a written security/access pattern**
+- **Migration target committed: Megan's new mailbox + CRM credentials ready for handover by Andres tomorrow morning (2026-05-15).** Tonight's scope: finish creating the new account against `myfitlogic.com`, verify the email and the domain, complete the GoDaddy delegation flow
+- **Meridian setup blocker surfaced post-Megan-drop.** Same evening Taiwo also handling Meridian setup. Verification code was sent to **`Travis@zoho.com`** and the mailbox appears empty / not received. Plan: re-run the request, ping Andres, Andres asks [[wiki/people/travis-sutherland|Travis]] for the code. Pattern: Taiwo stays on after the customer drops to surface secondary blockers rather than emailing them later
+- **GitHub accounts ready (per Taiwo at end of call):** *"Yes, sir, yes, sir, everything is ready, so I will get this evening… on the GitHub accounts, yeah, I'm able to set everything up."* Closes the May 11 Monday Collaboration commitment on GitHub access migration to the new Moil sales email
+- **Pace signal: no time-zone friction.** Took the late-evening Nigeria session voluntarily; no recurrence of the Apr 18 "2 AM my time" boundary
 
 ## Contact
 

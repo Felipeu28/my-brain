@@ -4,6 +4,53 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ---
 
+## 2026-05-14 (PM) — Run 50: Megan × Andres × Taiwo — GoDaddy delegate + Outlook migration session
+
+**Trigger:** KB-agent scan for unprocessed raw files. One found: `raw/teams-transcript-megan-andres-2026-05-14.md` (Teams transcript, ~34 min, 11:09–11:43 AM CT).
+
+**Files processed (1):**
+- `raw/teams-transcript-megan-andres-2026-05-14.md` (30,695 bytes) — Megan Miller × Andres × Taiwo working session. Frontmatter marked `ingested: true` / `ingested_at: 2026-05-14`.
+
+**Pages created (1):**
+- [[wiki/meetings/2026-05-14-megan-taiwo-fitlogic-2fa-godaddy-session]] — full meeting page with context, key decisions, action items, open issues, cross-page impact
+
+**Pages updated (6):**
+- [[wiki/people/megan-miller]] — new "May 14, 2026" section; `last_contact: 2026-05-11 → 2026-05-14`; source list + Related expanded
+- [[wiki/people/taiwo-ola-balogun]] — new "May 14, 2026 — FitLogic Outlook migration live + Meridian Travis@zoho code blocker" section; `last_contact: 2026-05-12 → 2026-05-14`; source list + Related expanded
+- [[wiki/people/michelle-fitlogic]] — cross-reference note for May 20 in-person walkthrough lock; `last_updated: 2026-05-07 → 2026-05-14`; source list expanded
+- [[wiki/projects/fitlogic]] — Recent decisions: added May 14 entry as top item; `last_updated: 2026-05-03 → 2026-05-14`
+- [[wiki/orgs/fitlogic]] — new "May 14, 2026 — GoDaddy delegate + Outlook migration session" section; `last_contact: 2026-05-07 → 2026-05-14`; source list + Related expanded
+- [[MEMORY]] — added "🔥 May 14 — FitLogic Outlook migration session" block with 9 new action items; struck closed: May 11 2FA wiring coordination + May 7 next-week in-person visit (now Wed May 20); trimmed 3 stale Apr 28 / Apr 29 / May 1 blocks (Inna CRM residue + moilapp.com SEO + Buda EDC × GIS WebTech + TEDC keynote prep) → demoted under "Carried debts demoted to log.md" (Run 50 entry); MEMORY back to 200-line cap
+- [[index]] — Run 50 header + meetings count 76 → 77 + page count 318 → 319 + raw count 555 → 556
+
+**Skipped:** None. Only one new raw file in this scan.
+
+**Key intelligence (Run 50):**
+
+1. **Two open commitments closed in a single 34-min session:**
+   - **May 11 Monday Collaboration 2FA wiring blocker** — Megan granted Andres@moilapp.com **account-level GoDaddy delegate access** (because the "individual domains" picker would not let her scope to one domain). Lets Taiwo finish DNS/domain verification without Megan logged in live each time. Taiwo confirmed end of call: *"on the GitHub accounts, yeah, I'm able to set everything up."*
+   - **May 7 next-week in-person visit commitment** — Wed 2026-05-20 10:00–11:00 AM CT at FitLogic locked, calendar invite sent during the call. Megan + Michelle's homework: Mon May 18 / Tue May 19 play with the system, try to break it, surface bugs before the Wednesday session.
+
+2. **First on-record articulation of the Moil-touches-customer-accounts security pattern.** Andres on transcript: *"if we are ever going to touch your accounts, it should always be, you know, like this — we should never have like continued access … only use it when we're working on something. And yes, once we actually deploy everything, you should change all of your passwords."* Megan agreed; 2FA stays on. **Worth pulling into the Moil 360 playbook as a written customer-account-touch policy** — this is the standing rule, not a one-off.
+
+3. **Two-domain architecture written down as standing pattern, not workaround.** `fitlogicfunctionalmedicine.com` = patient/client engine (HIPAA-side, `hello@`, no marketing). `myfitlogic.com` = sales engine for email marketing + CRM outbound; forwards to FitLogic so click-through experience is identical. Andres: *"That doesn't hurt your existing domain. You don't get spam blocked. People are still going to click and go to your website."* Validates the May 7 Cloudflare-workaround pivot as a permanent architectural choice.
+
+4. **Meridian-side spillover surfaced post-Megan-drop.** Taiwo confirmed the Meridian platform handoff also needs a verification code — but the code was sent to `Travis@zoho.com` and the mailbox appears empty / not received. Plan: re-run the request tonight, ping Andres, Andres asks [[wiki/people/travis-sutherland|Travis Sutherland]] for the code directly. Continues Taiwo's pattern of staying on post-customer-drop to surface secondary blockers.
+
+5. **Microsoft Authenticator 2FA friction pattern surfaced again.** Prompt vanished mid-approval 3+ times during the call, required multiple Taiwo resends. Same friction observed May 11. **Pattern signal:** if Moil onboards more customers through Microsoft 365 setup flows, expect this to recur — worth a standing "be on a live call together for first-time 2FA" rule.
+
+6. **GoDaddy UI artifacts logged as low-priority watch items:**
+   - "Choose individual domains" picker defaulted to FitLogic Functional Medicine and wouldn't let Megan select `myfitlogic.com` specifically. Account-level delegate worked anyway; if Megan revokes account-level later, per-domain may need re-debugging
+   - Unfamiliar `508F6B8D9.conversions.godaddy.com` email-forwarding rule on the domain — Megan disabled. Worth confirming nothing important relied on it before the mailbox goes live
+
+7. **Trust depth maintained at the Apr 21 level.** Megan accepted account-level GoDaddy delegate without hesitation, despite the picker UI offering a more-scoped option. Andres returned the favor by articulating the security-discipline rule unprompted. Megan also missed an 11 AM patient slot during the call — consistent with the busy-clinical-operator pattern; Andres adapted without pushing.
+
+8. **Pace signal — Taiwo.** Took the late-evening Nigeria session voluntarily (cleaning up FitLogic + Meridian in one evening); no recurrence of the Apr 18 "2 AM my time" boundary friction.
+
+**Summary:** Run 50 processed a single Teams transcript that closes two open MEMORY commitments (May 11 2FA wiring + May 7 next-week in-person visit), articulates the standing Moil-touches-customer-accounts security pattern for the first time on record, and locks the next FitLogic milestone (Wed May 20 10 AM CT in-person walkthrough at FitLogic). Meridian-side spillover (Travis@zoho.com empty mailbox) recorded as an Andres-owned ask for tonight. No new wiki pages beyond the meeting record; existing FitLogic-pillar pages (Megan, Taiwo, Michelle, project, org) updated. MEMORY trimmed back to 200-line cap by demoting three 14d+ stale blocks (Apr 28 Inna CRM residue, Apr 28 moilapp.com SEO emergency, Apr 29 Buda EDC × GIS WebTech meeting, May 1 TEDC keynote prep) to the Carried-debts pointer.
+
+---
+
 ## 2026-05-14 (AM) — Run 49: email-digest-2026-05-13 + signal-brief-2026-05-13
 
 **Trigger:** KB-agent scan for unprocessed raw files. Two found: (1) `raw/email-digest-2026-05-13.md` (30 contacts, 22-prospect afternoon SMB outbound batch, 7 notable threads); (2) `quartz/content/raw/signal-briefs/signal-brief-2026-05-13.md` (correlator-generated cross-source brief — Jacquie asymmetric bandwidth + Jordan multi-source + 6-day Adeleke silence with 2 stacked production escalations).
