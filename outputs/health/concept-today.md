@@ -1,4 +1,4 @@
-## Concept of the day — [[wiki/concepts/brain-architecture|Brain Architecture — Andres's 5-Layer Personal Knowledge Pipeline]]
+## Concept of the day — [[wiki/concepts/smart-hiring|Smart Hiring]]
 
 _Last touched: 2026-04-11_  •  _Type: concept_
 

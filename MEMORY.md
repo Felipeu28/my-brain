@@ -1,7 +1,7 @@
 # MEMORY — Open Actions & Live Commitments
 
-**Last updated:** 2026-05-12 PM (Run 46 ingest — 2 substantive Teams transcripts: Caro Cohort-4 1:1 follow-up + Travis Meridian platform handoff. No new MEMORY line items: Caro's homework subsumed by Apr 30 1:1 block; Andres' May 13 Meridian commitments fit under the May 11 immediate-week engineering thread. **2 new signals captured for Brain synthesis** (Buda EDC HIVE 1-yr Moil license precedent, confidential; renovation grant ~$10K) — held in Caro + Buda EDC pages, not in MEMORY since they're not actionable until confirmed. 3 logged-only sources: X bookmarks digest, 2 moil-repo audits — operational, no wiki promotion. Run 44 header below preserved.)
-**Run 44 (2026-05-11):** Monday Collaboration 2026-05-11 ingested. **Perseus Defense YC referral meeting locked Tue May 12 8 AM CT** via Jennifer Storm — first documented YC-alumni-referral attempt for Clio. **Buda EDC magazine spread (15K distribution)** with 2 Moil pages + **Moil Lab "Excellence in Innovation" finalist** = primary marketing asset this week. **Inna scope reset to 4 posts/week** (apology + scope clarification sent in-call). **Jacob outreach reallocation:** 10 real DM conversations/day for Moil, no copy-paste. **Taiwo migrating GitHub + Vercel** under one Moil-owned sales email this week. Two internal-infra audits also logged (X-bookmarks fix research, ingestion deep audit) — operational, no wiki promotion.
+**Last updated:** 2026-05-13 PM (Run 48 ingest — 1 new Teams transcript: **Jordan Kaiser × Andres Cohort-4 first 1:1**. New page: [[wiki/people/jordan-kaiser]]. New meeting: [[wiki/meetings/2026-05-13-jordan-andres-1-1]]. **Second independent surfacing of HIVE 1-yr Moil license precedent in 24 hours** — promoted from confidential (May 12, Caro) → near-confirmed (May 13, Jordan). **First Cohort 4 pure-idea-stage participant** + first senior/accessibility ICP. **Silent ship documented:** Moil now sends **3 proactive coaching emails/week** to active business users — first time captured in the Brain. Run 47 header preserved below.)
+**Run 47 (2026-05-13 AM):** email-digest-2026-05-12 + signal-brief-2026-05-12 ingested. **Perseus YC meeting happened** May 12 8 AM — Steve Messinger warm reply. **Buda EDC Incubator Strategist contracts on a same-week finalization track** — Jacquie post-lunch *"hopeful we'll have the contract finalized for both of you this week."* **Cold campaign first all-SMB day** — 17 sends, 11 verticals. **Adeleke silence anomaly extends to 5 days.**
 **Purpose:** Single source of truth for open action items extracted from ingested raw sources.
 
 > Relationship/concept context: [[index]] · Ingestion history: [[log]]
@@ -11,6 +11,13 @@
 ---
 
 ## 🔥 Immediate — This Week (May 11 – May 17, 2026)
+
+### 🔥 May 13 — Jordan Kaiser HIVE Cohort 4 first 1:1 (senior-tech autonomy)
+Source: [[wiki/meetings/2026-05-13-jordan-andres-1-1]], [[wiki/people/jordan-kaiser]]
+- [ ] **🔥 Today — Andres:** Verify the [[wiki/people/monica-davidson|Monica Davidson]] intro email actually went out mid-call (Andres said *"sending right now"*); if missing, send it now — Jordan is gated on this for senior-home interview access
+- [ ] **🔥 This week — Andres:** Confirm with Buda EDC whether **Cohort 4 members get the full-year Moil license** (Andres told Jordan *"we'll probably get this finalized this week"*); close the loop with the cohort once confirmed — **second independent surfacing of this precedent in 24 hours** (first was confidential to Caro 2026-05-12)
+- [ ] **Jordan homework (3-week horizon):** sign up moilab.com/candidate + moilab.com (business, 21-Q onboarding); build 25-mile-radius list of 10 Buda senior homes; cold-email all 10 with EDC cohort framing; run 5–10 in-person diagnostics interviews (incl. Port Arthur trip to his mother's senior center); reach out to Matthew Wright / Jeff Kaufman (Buda senior-citizens org leadership — names to verify)
+- [ ] **Capture for [[wiki/moil/product-roadmap]]:** Moil now ships a **silent 3-emails/week proactive coaching feature** to active business users (Monday + throughout-week pending items, challenges, agentic nudges; pulled from Clio model). First time documented in the Brain — add a roadmap line when team formally announces
 
 ### 🔥 May 12 — Perseus Defense YC referral meeting (FIRST documented attempt for Clio)
 Source: [[wiki/meetings/2026-05-11-monday-collaboration]], [[wiki/orgs/perseus-defense]], [[wiki/people/jennifer-storm]]
@@ -105,16 +112,6 @@ Source: [[wiki/meetings/2026-04-30-heather-skeen-coaching]], [[wiki/meetings/202
 - [ ] **Caro homework:** complete Moil 21 questions (signed up first month free during the call); interview 5–10 women from Cohort 4 to validate ICP and willingness to pay; map floorplan to revenue
 - [ ] **Heather homework:** research daycare PD requirements (12 domains, hours, certification cycle); research market rates for CEU providers in TX; package 3–4 program bundles at ~$1,000/yr per daycare; build 25-mile-radius daycare prospect list (postcard + 3-email sequence + call); attorney consult on "Providence Counseling and Therapy" name change (insurance-contract impact); fix the $500/3hr pricing for the NC fall engagement
 
-### 🔥 Apr 30 — Hays CISD Career Day expanded into business-owner cohort
-Source: [[raw/email-digest-2026-04-30]], [[wiki/people/renee-simmons]]
-- [ ] **Andres:** Send slot details + logistics to **Allison Pflaum** (KW realtor) and **Rebecca Acosta-Ojeda** (Salon One Twelve, confirmed in)
-- [ ] **Andres:** Reply to **John (Proof Liquor & Deli)** — politely decline the alternate "Texas Petition Strategies" topic for the kid audience but keep the door open for adult-business-owner events
-- [ ] **Andres:** Track this **Career Day → cohort-recruitment loop** as a replicable HIVE-adjacent pattern — one community-event ask pulled multiple business-owner replies in 24 hours
-
-### 🔥 Apr 30 — Apollo data-quality cleanup pass
-Source: [[raw/email-digest-2026-04-30]]
-- [ ] **Andres:** Single Apollo cleanup pass before next outbound batch. Compounding signals: (a) Apr 24 first-name mismatch ("Joseph" → `wilkinsonroger860@gmail.com`); (b) Apr 28 triple-send to Taiwo (14:28, 14:28, 14:34); (c) **Apr 30 Mitchell Swenson auto-bounce** — Mitchell no longer at Waupaca Area Chamber. **First documented contact-departed bounce in the campaign**
-
 ### 🔥 Apr 29 — Buda EDC × GIS WebTech AI meeting LOCKED
 Source: [[raw/email-digest-2026-04-29]], [[wiki/people/john-costilla]]
 - [ ] **Wed May 13, 9–11 AM CT virtual** with [[wiki/people/john-costilla|John Costilla]] (Buda EDC) + [[wiki/people/joseph-arnke|Joseph Arnke]] / Michael Cleary (GIS WebTech). **First firm date** on the EDC-website-AI-tools workstream (live since John's Apr 10 *"Agentic AI / always on site selector tool"* signal). Andres accepted same day; calendar accepted
@@ -157,7 +154,8 @@ Source: [[raw/email-digest-2026-05-01]], [[raw/signal-briefs/signal-brief-2026-0
 - [ ] **Andres:** Run the [[wiki/people/marilyn-martinez|Marilyn Martinez]] / [[wiki/orgs/nuovo-entertainment|Nuovo]] Website Discussion call. Capture scope; decide site-only vs. Moil 360 conversion
 
 ### 🔥 Carried debts demoted to log.md
-- **Run 44 (2026-05-11):** Apr 30 Anita Lansing re-engage (11d stale); Apr 28 inbox (John Costilla lunch + Victor UDC). Earlier Apr 24/21/28 sub-blocks demoted Runs 38–40 — see [[log.md]]
+- **Run 48 (2026-05-13 PM):** Apr 30 Hays CISD Career Day post-May-7 follow-ups (Allison Pflaum + Rebecca Acosta-Ojeda + John/Proof decline) + Apr 30 Apollo data-quality cleanup pass — both blocks 14d+ stale, demoted to [[log.md]]
+- **Run 44 (2026-05-11):** Apr 30 Anita Lansing re-engage; Apr 28 inbox (John Costilla lunch + Victor UDC). Earlier Apr 24/21/28 sub-blocks demoted Runs 38–40 — see [[log.md]]
 
 ---
 

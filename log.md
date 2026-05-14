@@ -4,6 +4,111 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ---
 
+## 2026-05-14 (AM) — Run 49: email-digest-2026-05-13 + signal-brief-2026-05-13
+
+**Trigger:** KB-agent scan for unprocessed raw files. Two found: (1) `raw/email-digest-2026-05-13.md` (30 contacts, 22-prospect afternoon SMB outbound batch, 7 notable threads); (2) `quartz/content/raw/signal-briefs/signal-brief-2026-05-13.md` (correlator-generated cross-source brief — Jacquie asymmetric bandwidth + Jordan multi-source + 6-day Adeleke silence with 2 stacked production escalations).
+
+### File 1 — `raw/email-digest-2026-05-13.md`
+
+- **Type:** email-digest (24-hour window 2026-05-12T00:00:00Z → 2026-05-13 evening)
+- **Pages updated (11):**
+  - [[wiki/people/adeleke-tolulope]] — May 13 Anita console-errors forward + 6-day silence anomaly with two stacked prod escalations; last_updated → 2026-05-13
+  - [[wiki/people/anita-lansing]] — May 13 production bug report (refresh-token + aplo-evnt 400s); first technical defect from this customer; last_updated → 2026-05-13
+  - [[wiki/people/jason-cornelius]] — May 13 *"Rec. is in"* YC recommendation submitted; Andres committed to loop-back on any YC interview signal; **🔥 actions checked off**; last_updated → 2026-05-13
+  - [[wiki/people/steve-messinger]] — May 13 cc on YC rec-submitted thread; both founders' names now on Moil's YC application; last_updated → 2026-05-13
+  - [[wiki/people/jacquie-martinez]] — May 13 01:08 CDT Jacquie reply restating *"finalize the contract for both of you this week"* (did NOT directly answer Andres's countersign-now-vs-wait sequencing question); plus signal-brief asymmetric-relational-bandwidth pattern block; last_updated → 2026-05-13
+  - [[wiki/people/joshua-edmond]] — May 13 cc on Jacquie reply; sequencing question still unanswered; last_updated → 2026-05-13
+  - [[wiki/people/john-costilla]] — May 13 Mac decision brief sent (awaiting reply) + AI convening calendar accept (Buda Business Leader / AI Convening); last_updated → 2026-05-13
+  - [[wiki/people/jacob-oluwole]] — May 13 Jungle Flavorz files-received confirmation + EOW website-update commitment to Linda; second consecutive customer-service close-out voice (after May 12 Inna apology); last_updated → 2026-05-13
+  - [[wiki/people/linda-horuke]] — May 13 07:37 CDT Jacob reply closes May 11/12 stale ping risk; new EOW (May 16/17) delivery deadline now load-bearing; last_updated → 2026-05-13
+  - [[wiki/people/travis-sutherland]] — added May 13 digest as source for the May 12 Teams meeting invite (already documented event)
+  - [[wiki/people/monica-davidson]] — May 13 17:57 CDT *"Introduction: Jordan Kaiser & Senior Citizen Research"* confirmed sent; closes the MEMORY verification item; last_updated → 2026-05-13
+  - [[wiki/people/jordan-kaiser]] — confirmation that Monica intro shipped same-day; last_updated → 2026-05-13
+  - [[wiki/moil/gtm]] — May 13 cold campaign update: **second consecutive all-SMB day**, 22 sends, 11 verticals, 4 same-domain re-touches (Greenfire, Sinelli, WBHQ, Pabelle), 3rd touch on WBHQ across 3 different decision-makers in 14 days; first-time deliberate same-domain multi-stakeholder pinging; last_updated → 2026-05-13
+- **Frontmatter:** marked `ingested: true / ingested_at: 2026-05-14` on `raw/email-digest-2026-05-13.md` and on the mirror at `quartz/content/raw/email-digest-2026-05-13.md`
+
+### File 2 — `quartz/content/raw/signal-briefs/signal-brief-2026-05-13.md`
+
+- **Type:** signal-brief (cross-source correlator output, 3 source files / 2 source types)
+- **Pages updated (3 — net new content):**
+  - [[wiki/people/jacquie-martinez]] — added 2026-05-13 asymmetric relational bandwidth section (warm to Andres / cold to Jordan in same 24h window) — pattern based on single signal-brief observation; revisit when a second instance surfaces
+  - [[wiki/people/jordan-kaiser]] — added signal-brief as source for the multi-source active-person flag (Teams 1:1 + email-digest sent-column intro to Monica same day)
+  - [[wiki/people/adeleke-tolulope]] — extended silence-anomaly section: 5 days (May 12) → 6 days (May 13) with the Anita-console-errors forward as the second escalation stacked on the Gemini deprecation forward
+- **Frontmatter:** marked `ingested: true / ingested_at: 2026-05-14` on the signal-brief
+
+### Key intelligence from Run 49
+
+1. **YC referral closed cleanly.** May 13 01:45 CDT Jason: *"Rec. is in. Best of luck and do let us know if you hear back from them for an interview!"* — Perseus Defense recommendation submitted. Andres committed to loop-back on YC interview signal. **The YC referral conversion (Perseus → Andres for Clio's YC app) is now in YC's hands.** Both Perseus co-founders (Jason + Steve) attached to the recommendation. Open: which co-founder is Stanford-professor / NASA mission lead (still not captured from the May 12 meeting).
+2. **Adeleke silence anomaly hits 6 days with two stacked prod escalations.** Co-founder/engineering lead has been quiet since May 7 GCP budget thread; two production-adjacent escalations now sit unanswered on his queue: (a) May 12 forward of the Gemini 3.1 Flash Lite deprecation notice (May 25 cutoff; already customer-visible on Travis Meridian); (b) May 13 forward of Anita Lansing's moilapp.com browser-console error report (refresh-token + aplo-evnt 400s). **Direct nudge warranted before May 14 standup.** The Apr 21 *"Steve fixes via Claude Code same-day"* pattern is breaking down on a multi-day timescale right when two prod bugs are live.
+3. **First customer-visible production bug forwarded to engineering this cadence.** Anita Lansing — Cohort-2/3 grad and active Moil user — sent Andres a browser-console log from moilapp.com at 18:07 CDT (refresh-token + `aplo-evnt` 400 errors). Andres forwarded to Steve@moilapp.com one minute later. This is the first time Anita has surfaced a technical defect rather than a feature/funding ask — treat as paid-surface escalation, not a Cohort grad ping.
+4. **Jacquie restated week-of finalization but didn't answer the sequencing question.** Andres's May 12 countersign-now-vs-wait question to Jacquie was met May 13 01:08 CDT with another *"finalize this week"* line — no explicit call on whether Andres + Joshua should countersign before Board exec sign-off. Sequencing question still open; watch for next Jacquie inbound.
+5. **Cold campaign now fully Texas-SMB.** Two consecutive all-SMB outbound days (May 12: 17 sends; May 13: 22 sends). Zero chamber/EDC sends. May 13 introduces a deliberate **same-domain re-touch sub-strategy** (4 of 22 are second sends to Greenfire, Sinelli, WBHQ, Pabelle) and **same-domain multi-stakeholder pinging** (WBHQ pinged 3 times across 14 days at 3 different decision-makers — Roger Casias / Jessica Reicher / Jerry Phillips). Heavy Texas construction/restaurant/Austin services concentration. Pipeline center of gravity has fully shifted from out-of-state chamber/EDC to local TX SMB.
+6. **Monica Davidson intro for Jordan confirmed shipped same-day.** Mid-call Andres-said-"sending right now" commitment cross-checks clean against the May 13 17:57 CDT outbound captured in the digest. Closes the Run-48 MEMORY watch item *"verify the Monica intro went out"*. **Chamber-as-cohort-warm-intro pattern is now demonstrated, not theoretical** — replicable if other Cohort 4 members surface ICP-access asks.
+7. **Jacob owning the customer-service close-out voice.** Two consecutive days of unprompted Jacob client-facing apologies/commitments (May 12 Inna; May 13 Linda). Continues the May 11 reset of Jacob's effort allocation: Andres pushed him toward 10 DM conversations/day for Moil-side, but Jacob is also absorbing customer-relations recovery work on the website-client accounts. **New EOW delivery deadline (May 16/17) on Jungle Flavorz** — if Jacob misses, the stated rhythm cracks two reps in a row.
+8. **Asymmetric relational bandwidth at Jacquie surfaced as a single-day signal-brief pattern.** Warm note to Andres ("truly a pleasure… finalize for both of you this week") while ghosting Jordan on the US Foods reference ask in the same 24h window. Log-only single signal; worth a Jennifer-side backup channel for cohort-level commitments. Revisit when a second instance surfaces.
+
+### Open from Run 49 (carried into MEMORY)
+
+- 🔥 **Direct nudge to Adeleke before May 14 standup** — 6-day silence + 2 stacked prod escalations. Pattern is breaking down.
+- 🔥 **Watch:** Jacob ships Jungle Flavorz website update by May 16/17 (or rhythm cracks)
+- 🔥 **Watch:** Jacquie's next inbound answers (or doesn't) the countersign-now-vs-wait sequencing question on the Incubator Strategist PSAs
+- **Watch:** WBHQ inbound — three decision-makers pinged across 14 days; if any reply, capture which name/hook converted
+- **Watch:** Mac decision brief reply from John Costilla — clarify which EDC project the budget is for when he replies
+- **Watch:** YC interview signal — Andres committed to looping Perseus in on outcome
+- **Open:** Stanford-professor / NASA mission-lead Perseus co-founder name — still not captured
+
+### MEMORY.md hygiene
+
+MEMORY.md untouched this run — all Run 49 watch items live under existing thread blocks (Adeleke silence under May 12 block; Linda/Jacob delivery under May 6 block; Jacquie sequencing under May 12 block; YC outcome under Perseus block). No new MEMORY line items needed for a digest of this signal density.
+
+### Sync + health
+
+`bash scripts/sync_wiki.sh` → `python3 scripts/kb-health.py` (expected ✅; 13 page updates, 0 new pages, 2 raw sources marked ingested + 1 mirror).
+
+---
+
+## 2026-05-13 (PM) — Run 48: Jordan Kaiser × Andres HIVE Cohort 4 first 1:1
+
+**Trigger:** KB-agent scan for unprocessed raw files. One found: `raw/teams-transcript-jordan-andres-1-1-2026-05-13.md` — ~47 min Teams 1:1 (12:00–12:56 PM CT), organizer Andres. First documented Brain capture of Jordan Kaiser, a Buda HIVE Cohort 4 participant exploring senior-tech autonomy as his first business while job-hunting (recently laid off from Penn's Mechanical / Rise Brands — corporate cut attributed to AI replacing event outreach).
+
+### File 1 — `raw/teams-transcript-jordan-andres-1-1-2026-05-13.md`
+
+- **Pages created (2):**
+  - [[wiki/people/jordan-kaiser]] — Cohort 4 participant; Port Arthur native; one-year-old child; mother is director of a senior citizen center in Port Arthur; AI-displacement layoff story; senior-tech autonomy idea
+  - [[wiki/meetings/2026-05-13-jordan-andres-1-1]] — full meeting record with 8 coaching decisions + 9 action items + key quotes
+- **Pages updated (3):**
+  - [[wiki/people/monica-davidson]] — added 2026-05-13 cohort-referral channel section (Andres committed Jordan ↔ Monica intro); status warm → active; last_contact bumped to 2026-05-13
+  - [[wiki/people/jacquie-martinez]] — added 2026-05-13 Cohort 4 single-data-point signal block (Jordan reported ghosting incident pre-US-Foods-interview); flagged as log-only, no action
+  - [[wiki/orgs/buda-edc]] — added 2026-05-13 section: second independent surfacing of HIVE 1-yr Moil license precedent in 24 hours (first was Caro May 12); first idea-stage Cohort 4 participant + first senior/accessibility ICP in cohort
+- **Frontmatter:** marked `ingested: true / ingested_at: 2026-05-13` on `raw/teams-transcript-jordan-andres-1-1-2026-05-13.md`
+
+### Key intelligence from Run 48
+
+1. **HIVE 1-yr Moil license precedent promoted from confidential → near-confirmed in 24 hours.** May 12 (Caro 1:1, in-Spanish *"no le cuentes a nadie"*) → May 13 (Jordan 1:1, *"I'm pretty sure… we'll probably get this finalized this week"*). Two independent surfacings inside 24h suggests the EDC announcement is imminent. **Action carried into MEMORY** — Andres to confirm with Buda EDC and close the loop with the cohort this week.
+2. **Silent product ship documented for the first time:** Moil now sends **3 proactive coaching emails/week** to active business users (Mondays + throughout-week pending items, challenges, agentic nudges). Andres' framing: *"basically building your business brain in the background, just like I do with Clio for my daughters."* Pulled directly from the [[wiki/projects/clio|Clio]] model. **Worth a [[wiki/moil/product-roadmap]] line when the team formally announces** — captured in [[wiki/people/jordan-kaiser]] + [[wiki/meetings/2026-05-13-jordan-andres-1-1]] meanwhile.
+3. **First Cohort 4 pure-idea-stage participant.** Earlier 1:1s (Christine+Kat May 4, Claudia May 4, Caro Apr 30 + May 12, Heather Apr 30) all already had a concept, an LLC, or assets. Jordan is the zero-asset / zero-customer case — different coaching shape: pick-one-pain-point + customer-discovery-first.
+4. **First senior / accessibility ICP in cohort surface.** Adjacent to but distinct from current Moil customer base. Senior Tech Navigators ($120/mo, 4 visits/yr) defines the price ceiling at $1,440/yr; Jordan's working hypothesis is $50/mo ($600/yr).
+5. **AI-displacement story sitting inside the cohort.** Jordan's layoff narrative is the exact pain point Moil's outbound positioning leans into. Useful as a case quote when Andres talks about "AI is taking jobs — but also creating them for entrepreneurs."
+6. **New Chamber usage pattern:** Andres is starting to use [[wiki/people/monica-davidson|Monica Davidson]] (Buda Chamber CEO) as a **director-of-X connector** for cohort participants needing customer-interview access — first time the Brain has captured the Chamber being used as a cohort-side warm-intro service. Replicable if other Cohort 4 members surface ICP-access asks.
+7. **Single relationship-signal data point:** Jordan reported Jacquie ghosted him after he asked for a reference recommendation pre-US-Foods-interview. Andres replied *"interesting"* but committed nothing. Logged only — re-check if a second Cohort 4 member surfaces a similar signal.
+
+### Open from Run 48 (carried into MEMORY)
+
+- 🔥 Verify Andres' Monica-intro email actually went out mid-call (Andres said *"sending right now"*)
+- 🔥 Confirm with Buda EDC whether Cohort 4 members get the full-year Moil license this week
+- Jordan homework (3-week horizon): moilab.com sign-ups, 10-senior-home cold list, 5–10 in-person diagnostics interviews including Port Arthur trip
+- Capture for product-roadmap when announced: 3-emails/week proactive coaching feature (silent ship)
+
+### MEMORY.md hygiene
+
+198 lines after run (vs 200-line cap). Trimmed two stale 14d+ blocks down to log.md (carried-debts line): Apr 30 Hays CISD Career Day post-May-7 follow-ups; Apr 30 Apollo data-quality cleanup pass.
+
+### Sync + health
+
+`bash scripts/sync_wiki.sh` → `python3 scripts/kb-health.py` (expected ✅; 2 new pages + 3 updates).
+
+---
+
 ## 2026-05-13 (AM) — Run 47: email-digest-2026-05-12 + signal-brief-2026-05-12
 
 **Trigger:** KB-agent scan for unprocessed raw files. Two found: (1) `raw/email-digest-2026-05-12.md` (29 contacts, 17 outbound SMB pitches, 4 notable threads); (2) `quartz/content/raw/signal-briefs/signal-brief-2026-05-12.md` (correlator-generated cross-source brief over 7 source files).

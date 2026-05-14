@@ -22,10 +22,9 @@ Closed Apr 9, 2026 with full upfront invoice (1 down + 3 quarterly over 9 months
 ## Last 7 days
 
 <!-- AUTO: bin/project-activity.sh updates this section daily. Do not edit by hand. -->
-_Updated: 2026-05-13 08:00 (window: 2026-05-06 → 2026-05-13)_
+_Updated: 2026-05-14 08:00 (window: 2026-05-07 → 2026-05-14)_
 
-**Mentions in meetings + raw (3):**
-- [[wiki/meetings/2026-05-06-andres-taiwo-ongoing-projects]]
+**Mentions in meetings + raw (2):**
 - [[raw/email-digest-2026-05-11]]
 - [[raw/email-digest-2026-05-12]]
 

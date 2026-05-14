@@ -1,8 +1,8 @@
 # Moil Brain — Master Index
 
-**Last compiled:** 2026-05-13 AM (Run 47 — email-digest 2026-05-12 + signal-brief 2026-05-12 ingested. **Perseus YC meeting happened** May 12 8 AM CT — Steve Messinger replied warmly *"best of luck with the YC app"*; Andres closed thank-you loop with Jennifer Storm. **Buda EDC Incubator Strategist contracts on a same-week finalization track** — Jacquie post-lunch *"hopeful we'll have the contract finalized for both of you this week"*; Andres surfaced *countersign-now-vs-wait* sequencing question to Joshua + Jacquie. **Cold campaign first all-SMB day** — 17 sends, 11 verticals, zero chamber/EDC, new *"20 minutes to train it. 30 days of posts."* hook + first Buda-business framing inbound (Richard Weiss). **Adeleke silence anomaly extends to 5 days** while Gemini deprecation goes customer-visible at the [[wiki/people/travis-sutherland|Travis Meridian]] demo (signal-brief cross-source). **Inna pushback** continues — May 11 reset to 4-posts/week not yet visibly absorbed; Jacob sent second customer-service apology (May 12 11:27 CDT). · **Total wiki pages:** 316 (no new pages — updates only) · **Raw sources:** 553
+**Last compiled:** 2026-05-14 AM (Run 49 — `raw/email-digest-2026-05-13.md` + `quartz/content/raw/signal-briefs/signal-brief-2026-05-13.md` ingested. **YC referral closed**: Jason Cornelius confirmed *"Rec. is in"* — Perseus Defense recommendation submitted, Andres committed to looping them in on any interview signal. **Adeleke silence anomaly extends to 6 days** with two production-adjacent escalations now stacked (May 12 Gemini deprecation forward + May 13 Anita Lansing moilapp.com console-error forward). **Jacquie restated week-of finalization** on Incubator Strategist SoW but did not directly answer Andres's countersign-now-vs-wait sequencing question. **Cold campaign second consecutive all-SMB day** — 22 sends, 11 verticals, 4 same-domain re-touches, WBHQ pinged 3x in 14 days at 3 different decision-makers. **Monica Davidson intro for Jordan confirmed sent** 17:57 CDT. **Jacob → Linda Horuke** files-received confirmation closes the May 11/12 stale ping; commits website update by May 16/17. · **Total wiki pages:** 318 · **Raw sources:** 555
 
-**Previous run header:** Run 46 (2026-05-12 PM) — Caro Cohort-4 1:1 follow-up + Travis Meridian platform handoff ingested. **Caro ICP reframe:** survey-failure pivoted on wrong-persona, not wrong-idea — corporate-anchor playbook (Buda EDC $100/mo + Subaru-style $300/mo) replaces individual-only model. **Buda EDC HIVE 1-yr Moil license precedent disclosed** (confidential, in-call to Caro) — first articulation of an annual-license-bundle B2G revenue line. **Renovation grant ~$10K** surfaced for the first time across any cohort 1:1. **Travis Meridian platform handoff** — all credentials under Travis's accounts (GitHub + Vercel + Resend + GoDaddy); 3 live bugs identified (Gemini key, check-in refresh ×2); landing page push by May 13.
+**Previous run header:** Run 48 (2026-05-13 PM) — `raw/teams-transcript-jordan-andres-1-1-2026-05-13.md` ingested. **First documented Brain capture of [[wiki/people/jordan-kaiser|Jordan Kaiser]]** — Buda HIVE Cohort 4 participant; AI-displacement layoff story; senior-tech autonomy idea. **HIVE 1-yr Moil license precedent surfaced for the second time in 24 hours.** **Silent product ship documented:** Moil now sends 3 proactive coaching emails/week. **First Cohort 4 pure-idea-stage participant** + first senior/accessibility ICP.
 
 > **Canonical operating truth lives outside the wiki:** if status or architecture notes here conflict with newer operating reality, use `~/My Brain/CURRENT_STATE.md` first.
 
@@ -30,13 +30,13 @@
 | Folder | Count | What's in it |
 |---|---|---|
 | [[wiki/moil/README|moil/]] | 11 | Moil business — positioning, ICP, GTM, customers, competitors, metrics, product roadmap, active-projects |
-| [[wiki/people/README|people/]] | 65 | Personal network — family, friends, customers, collaborators, team |
+| [[wiki/people/README|people/]] | 66 | Personal network — family, friends, customers, collaborators, team (+1 Run 48: [[wiki/people/jordan-kaiser]]) |
 | [[wiki/minds/README|minds/]] | 11 | Public AI thought leaders tracked from afar |
 | [[wiki/orgs/README|orgs/]] | 29 | Customer, partner, and prospect organizations |
 | [[wiki/concepts/README|concepts/]] | 35 | Frameworks, mental models, products, programs |
 | [[wiki/radar/README|radar/]] | 2 | Append-only changelogs for fast-moving topics |
 | [[wiki/summaries/README|summaries/]] | 21 | One structured summary per raw source |
-| [[wiki/meetings/README|meetings/]] | 75 | Meeting records + async threads — decisions and action items |
+| [[wiki/meetings/README|meetings/]] | 76 | Meeting records + async threads — decisions and action items (+1 Run 48: [[wiki/meetings/2026-05-13-jordan-andres-1-1]]) |
 
 See also: [[wiki/meetings/historical-transcripts-index]] — raw transcripts not yet promoted to structured pages (24 transcripts catalogued, 7 previously-orphan meeting pages linked).
 
@@ -102,16 +102,16 @@ See also: [[wiki/meetings/historical-transcripts-index]] — raw transcripts not
 | Category | Count | Notes |
 |---|---|---|
 | Moil business | 7 | product-roadmap, gtm, customers updated with Run 4 client links + GitHub repos |
-| People (network) | 50 | +2 from Run 45: [[wiki/people/jason-cornelius]] + [[wiki/people/steve-messinger]] (Perseus Defense co-founders) |
+| People (network) | 51 | +1 from Run 48: [[wiki/people/jordan-kaiser]] (HIVE Cohort 4 — senior-tech autonomy idea-stage participant); +2 prior from Run 45: [[wiki/people/jason-cornelius]] + [[wiki/people/steve-messinger]] |
 | Minds (thinkers) | 10 | from X bookmarks deep compile |
 | Orgs (customer/partner) | 15 | Run 44: [[wiki/orgs/perseus-defense]] (YC S25 defense-tech, Buda HQ; Jennifer Storm referral path for Clio) |
 | Concepts | 37 | +1 from Run 12: fantelo redirect stub (→ wiki/projects/fantelo) |
-| Meetings | 61 | Run 46: [[wiki/meetings/2026-05-12-carolina-coaching]] (Cohort 4 ICP reframe + HIVE Moil-license precedent disclosed) + [[wiki/meetings/2026-05-12-travis-meridian-platform-handoff]] (Meridian credential transfer + bugs) |
+| Meetings | 62 | Run 48: [[wiki/meetings/2026-05-13-jordan-andres-1-1]] (first Cohort 4 idea-stage 1:1 + second HIVE Moil-license precedent surfacing + silent 3-emails/week feature) |
 | Radar (changelogs) | 1 | Claude Code changelog |
 | Summaries | 18 | |
 | Folder READMEs | 9 | |
-| **Total wiki files** | **316** | Run 47: no new pages — updates only across 13 existing pages |
-| Raw sources ingested | 553 total | Run 47 (+1 net counted by kb-health): email-digest-2026-05-12 + signal-brief-2026-05-12 (quartz-only correlator-generated) marked ingested |
+| **Total wiki files** | **318** | Run 49 (+0 new): updates only across adeleke/anita/jason/steve/jacquie/joshua/john/jacob/linda/travis/monica/jordan/gtm |
+| Raw sources ingested | 555 total | Run 49 (+1 net): `raw/email-digest-2026-05-13.md` + `quartz/content/raw/signal-briefs/signal-brief-2026-05-13.md` marked ingested (kb-health dedupes mirrored copies) |
 
 **OneDrive Full Transcripts ingestion completed 2026-04-12 (Run 2):**
 - 25 full transcript files processed (raw/meetings/transcript-* format)

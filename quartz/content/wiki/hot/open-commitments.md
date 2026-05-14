@@ -3,31 +3,23 @@ tags:
   - graph/leaf
 type: hot-file
 auto_generated: true
-last_updated: 2026-05-12
+last_updated: 2026-05-13
 ---
 
 # Open Commitments
 
-*Extracted from 2026-05-12 sources. Regenerated nightly by `entity-graph-builder.py`. Format: owner → owed_to.*
+*Extracted from 2026-05-13 sources. Regenerated nightly by `entity-graph-builder.py`. Format: owner → owed_to.*
 
 ## They owe you
 
-- [ ] **[[wiki/people/travis-sutherland|Travis Sutherland]] → Andres:** pick hero/page images from Stan Martinez batch for landing page <sub>[teams-transcript-travis-andres-2026-05-12.md]</sub>
-- [ ] **[[wiki/people/carolina-caro|Carolina ("Caro")]] → Andres:** complete Moil's 21-question business plan flow *(due 2026-05-17)* <sub>[teams-transcript-carolina-andres-2026-05-12.md]</sub>
-- [ ] **[[wiki/people/carolina-caro|Carolina ("Caro")]] → Andres:** generate top 10 ICP interview questions via Moil and send *(due 2026-05-13)* <sub>[teams-transcript-carolina-andres-2026-05-12.md]</sub>
-- [ ] **[[wiki/people/carolina-caro|Carolina ("Caro")]] → Andres:** ask Casey and Jackie about EDC renovation grant <sub>[teams-transcript-carolina-andres-2026-05-12.md]</sub>
-- [ ] **[[wiki/people/carolina-caro|Carolina ("Caro")]] → Andres:** run Facebook survey to widen ICP sample <sub>[teams-transcript-carolina-andres-2026-05-12.md]</sub>
-- [ ] **[[wiki/people/carolina-caro|Carolina ("Caro")]] → Andres:** protest property appraisal annually <sub>[teams-transcript-carolina-andres-2026-05-12.md]</sub>
-- [ ] **Jacqueline Martinez → Andres:** finalize Buda EDC incubator strategist contract this week *(due 2026-05-17)* <sub>[email-digest-2026-05-12.md]</sub>
+- [ ] **[[wiki/people/jordan-kaiser|Jordan Kaiser]] → Andres:** sign up for moilab.com/candidate using personal email <sub>[teams-transcript-jordan-andres-1-1-2026-05-13.md]</sub>
+- [ ] **[[wiki/people/jordan-kaiser|Jordan Kaiser]] → Andres:** sign up for moilab.com business side and complete 18-question onboarding with senior-tech idea <sub>[teams-transcript-jordan-andres-1-1-2026-05-13.md]</sub>
+- [ ] **[[wiki/people/jacob-oluwole|Jacob Oluwole]] → [[wiki/people/linda-horuke|Linda Horuke]]:** deliver Jungle Flavorz website update by end of week *(due 2026-05-17)* <sub>[email-digest-2026-05-13.md]</sub>
+- [ ] **Jacqueline Martinez → Andres:** finalize Incubator Strategist contract this week *(due 2026-05-17)* <sub>[email-digest-2026-05-13.md]</sub>
 
 ## You owe them
 
-- [ ] **Andres → [[wiki/people/travis-sutherland|Travis Sutherland]]:** replace API key and upgrade Gemini autofill to current model *(due 2026-05-12)* <sub>[teams-transcript-travis-andres-2026-05-12.md]</sub>
-- [ ] **Andres → [[wiki/people/travis-sutherland|Travis Sutherland]]:** fix check-in button not enabling when event start time changes *(due 2026-05-13)* <sub>[teams-transcript-travis-andres-2026-05-12.md]</sub>
-- [ ] **Andres → [[wiki/people/travis-sutherland|Travis Sutherland]]:** push Meridian Buda landing page with Stan Martinez images to production *(due 2026-05-13)* <sub>[teams-transcript-travis-andres-2026-05-12.md]</sub>
-- [ ] **Andres → [[wiki/people/travis-sutherland|Travis Sutherland]]:** provision info@meridianbuda.com as staff check-in login <sub>[teams-transcript-travis-andres-2026-05-12.md]</sub>
-- [ ] **Andres → [[wiki/people/travis-sutherland|Travis Sutherland]]:** text Travis when API key is replaced so he can re-test artist autofill <sub>[teams-transcript-travis-andres-2026-05-12.md]</sub>
-- [ ] **Andres → [[wiki/people/travis-sutherland|Travis Sutherland]]:** send credentials doc with GitHub, Vercel, Resend, GoDaddy logins <sub>[teams-transcript-travis-andres-2026-05-12.md]</sub>
-- [ ] **[[wiki/people/carolina-caro|Carolina ("Caro")]] → Jacqueline Martinez:** email Jackie with refined concept and EDC membership ask <sub>[teams-transcript-carolina-andres-2026-05-12.md]</sub>
-- [ ] **Andres → [[wiki/people/carolina-caro|Carolina ("Caro")]]:** be on-call coach as Carolina iterates on coworking concept <sub>[teams-transcript-carolina-andres-2026-05-12.md]</sub>
+- [ ] **Andres → [[wiki/people/jordan-kaiser|Jordan Kaiser]]:** send intro email to Monica Davidson connecting Jordan to senior home director *(due 2026-05-13)* <sub>[teams-transcript-jordan-andres-1-1-2026-05-13.md]</sub>
+- [ ] **Andres → [[wiki/people/jordan-kaiser|Jordan Kaiser]]:** confirm with Buda EDC that Cohort 4 receives full-year Moil business licenses <sub>[teams-transcript-jordan-andres-1-1-2026-05-13.md]</sub>
+- [ ] **[[wiki/people/jordan-kaiser|Jordan Kaiser]] → [[wiki/people/monica-davidson|Monica Davidson]]:** reply to Monica Davidson once intro email lands <sub>[teams-transcript-jordan-andres-1-1-2026-05-13.md]</sub>
 

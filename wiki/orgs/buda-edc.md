@@ -3,15 +3,15 @@ github_repo: Moil-Landingpages/BUDAEDC, Moil-Code/buda-hive
 tags:
   - graph/hub
 status: active
-last_contact: 2026-05-12
+last_contact: 2026-05-13
 owner: "[[wiki/people/jennifer-storm]]"
 ---
 # Buda EDC
 
 **Type:** organization
-**Last updated:** 2026-05-11
-**Source:** [[raw/buda-hive-edc-2026-04-11]], [[raw/hive-buda-hive-sosx-run-of-show]], [[raw/hive-coaching-session-summary]], [[raw/hive-series-based-hive-program]], [[raw/email-digest-2026-04-21]], [[raw/email-digest-2026-04-30]], [[raw/email-digest-2026-05-01]], [[raw/teams-transcript-christine-andres-2026-05-04]], [[raw/teams-transcript-claudia-andrés-2026-05-04]], [[raw/email-digest-2026-05-07]], [[raw/teams-transcript-monday-collaboration-2026-05-11]]
-**Related:** [[wiki/concepts/buda-hive]], [[wiki/concepts/aedo]], [[wiki/people/jennifer-storm]], [[wiki/people/shannon-cameron]], [[wiki/people/jacquie-martinez]], [[wiki/people/casey-earley]], [[wiki/people/sarah-miller]], [[wiki/people/joshua-edmond]], [[wiki/orgs/perseus-defense]]
+**Last updated:** 2026-05-13
+**Source:** [[raw/buda-hive-edc-2026-04-11]], [[raw/hive-buda-hive-sosx-run-of-show]], [[raw/hive-coaching-session-summary]], [[raw/hive-series-based-hive-program]], [[raw/email-digest-2026-04-21]], [[raw/email-digest-2026-04-30]], [[raw/email-digest-2026-05-01]], [[raw/teams-transcript-christine-andres-2026-05-04]], [[raw/teams-transcript-claudia-andrés-2026-05-04]], [[raw/email-digest-2026-05-07]], [[raw/teams-transcript-monday-collaboration-2026-05-11]], [[raw/teams-transcript-jordan-andres-1-1-2026-05-13]]
+**Related:** [[wiki/concepts/buda-hive]], [[wiki/concepts/aedo]], [[wiki/people/jennifer-storm]], [[wiki/people/shannon-cameron]], [[wiki/people/jacquie-martinez]], [[wiki/people/casey-earley]], [[wiki/people/sarah-miller]], [[wiki/people/joshua-edmond]], [[wiki/people/jordan-kaiser]], [[wiki/orgs/perseus-defense]]
 
 ---
 
@@ -114,6 +114,14 @@ John Costilla emailed Andres ("Call today") about an EDC website project and ask
 - [[wiki/people/christine-stjohn|Christine St John]] + [[wiki/people/kat-eyers|Kat Eyers]] — wine-shop concept (HIVE Cohort 4; both completing Moil 21-Q business plans individually with first 30 days free)
 - [[wiki/people/claudia-sanchez|Claudia Sanchez]] — [[wiki/orgs/nativa-medspa|Nativa Med Spa]] (HIVE Cohort 4; ribbon-cutting May 21)
 - Multiple cohort graduates using Moil platform licenses
+
+## 2026-05-13 — HIVE 1-year Moil license precedent surfaces again (Jordan 1:1)
+
+Source: [[raw/teams-transcript-jordan-andres-1-1-2026-05-13]], [[wiki/meetings/2026-05-13-jordan-andres-1-1]]
+
+Second independent surfacing of the **HIVE 1-yr Moil license** signal in 24 hours. Andres told [[wiki/people/jordan-kaiser|Jordan Kaiser]] (Cohort 4) he is *"pretty sure"* all Cohort 4 members will get a full-year Moil license through the EDC, and expects this to *"finalize this week."* On 2026-05-12 the same precedent was disclosed confidentially to Caro (see below). Promotion from "confidential" → "near-confirmed" within 24 hours suggests the EDC announcement is imminent. **Andres action still open:** confirm with EDC and close the loop with the cohort. Track in MEMORY.
+
+Also surfaced: Cohort 4 includes **Jordan Kaiser** (recently laid-off from Penn's Mechanical / Rise Brands — direct AI-displacement story), now exploring senior-tech autonomy as his cohort business. First Cohort 4 participant on file with a **pure-idea-stage** concept (no assets yet); first **senior / accessibility ICP** in the cohort surface. Andres pre-committed an intro to [[wiki/people/monica-davidson|Monica Davidson]] for senior-home interview access — first time the [[wiki/orgs/buda-chamber|Buda Chamber]] is being used as a cohort-side warm-intro service.
 
 ## 2026-05-12 — HIVE 1-year Moil license precedent (confidential) + renovation-grant signal
 
