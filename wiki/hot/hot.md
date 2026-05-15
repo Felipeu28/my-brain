@@ -37,6 +37,12 @@ Updated automatically by:
 ## Recent Queries
 
 <!-- ENTRIES:query -->
+- 2026-05-15 14:11 — Session end: [Brain/KB] Run the weekly knowledge base compile and cleanup. Today is 2026-05-15.  ## PART… — 1 new files · 6 edits · 1 commits
+- 2026-05-15 12:01 — Session end: [Brain/Auto] You are Andres's plan radar. Every day at noon you scan recent Brain activity an… — 1 new files
+- 2026-05-15 09:55 — Session end: [Home] Find construction companies in Buda, TX within 10 km that don't have a website. … — 4 new files · 1 commits
+- 2026-05-15 09:54 — Session end: [Home] Find construction companies in Buda, TX within 10 km that don't have a website. … — 3 new files · 1 commits
+- 2026-05-15 09:33 — Session end: [Brain/KB] URGENT — full diagnosis needed. The "Deploy Quartz site to GitHub Pages" workflo… — 23 new files · 44 edits · 25 commits
+- 2026-05-15 09:29 — Session end: [Brain/KB] URGENT — full diagnosis needed. The "Deploy Quartz site to GitHub Pages" workflo… — 22 new files · 44 edits · 24 commits
 - 2026-05-15 09:04 — Session end: [Brain/KB] You are the Moil Brain KB Agent. Ingest these unprocessed raw files into wiki pa… — 33 edits
 - 2026-05-15 08:48 — Session end: [Brain/Auto] Run the morning briefing. Execute these steps:  1. Fetch today's calendar: bash … — 1 new files
 - 2026-05-15 07:02 — Session end: [Claude] You are surfacing patterns from the last 28 days of Andres's working life — code… — 1 new files
@@ -51,12 +57,6 @@ Updated automatically by:
 - 2026-05-14 23:00 — Session end: [Clio] let's start a full audit of the quality of data we are ingesting and if its any … — 4 edits
 - 2026-05-14 22:58 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 127 edits
 - 2026-05-14 22:55 — Session end: [Clio] let's start a full audit of the quality of data we are ingesting and if its any … — 36 events
-- 2026-05-14 22:48 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 127 edits
-- 2026-05-14 22:38 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 122 edits
-- 2026-05-14 22:33 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 116 edits
-- 2026-05-14 22:25 — Session end: [Brain/KB] lets diagnose the brain, whats working and whats not?   How do we start actually… — 5 new files · 2 edits · 3 commits
-- 2026-05-14 22:20 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 115 edits
-- 2026-05-14 22:10 — Session end: [Brain/KB] lets diagnose the brain, whats working and whats not?   How do we start actually… — 34 events
 <!-- /ENTRIES:query -->
 
 ## Recent Saves
