@@ -3,23 +3,23 @@ tags:
   - graph/leaf
 type: hot-file
 auto_generated: true
-last_updated: 2026-05-13
+last_updated: 2026-05-14
 ---
 
 # Open Commitments
 
-*Extracted from 2026-05-13 sources. Regenerated nightly by `entity-graph-builder.py`. Format: owner → owed_to.*
+*Extracted from 2026-05-14 sources. Regenerated nightly by `entity-graph-builder.py`. Format: owner → owed_to.*
 
 ## They owe you
 
-- [ ] **[[wiki/people/jordan-kaiser|Jordan Kaiser]] → Andres:** sign up for moilab.com/candidate using personal email <sub>[teams-transcript-jordan-andres-1-1-2026-05-13.md]</sub>
-- [ ] **[[wiki/people/jordan-kaiser|Jordan Kaiser]] → Andres:** sign up for moilab.com business side and complete 18-question onboarding with senior-tech idea <sub>[teams-transcript-jordan-andres-1-1-2026-05-13.md]</sub>
-- [ ] **[[wiki/people/jacob-oluwole|Jacob Oluwole]] → [[wiki/people/linda-horuke|Linda Horuke]]:** deliver Jungle Flavorz website update by end of week *(due 2026-05-17)* <sub>[email-digest-2026-05-13.md]</sub>
-- [ ] **Jacqueline Martinez → Andres:** finalize Incubator Strategist contract this week *(due 2026-05-17)* <sub>[email-digest-2026-05-13.md]</sub>
+- [ ] **[[wiki/people/jacob-oluwole|Jacob Oluwole]] → [[wiki/people/linda-horuke|Linda Horuke]]:** provide update on Jungle Flavorz website by end of week <sub>[email-digest-2026-05-13.md]</sub>
+- [ ] **[[wiki/people/taiwo-ola-balogun|Taiwo Ola-Balogun]] → Andres:** finish myfitlogic.com Outlook account, verify email and domain *(due 2026-05-14)* <sub>[teams-transcript-megan-andres-2026-05-14.md]</sub>
+- [ ] **[[wiki/people/taiwo-ola-balogun|Taiwo Ola-Balogun]] → Andres:** re-run Meridian setup and request new verification code *(due 2026-05-14)* <sub>[teams-transcript-megan-andres-2026-05-14.md]</sub>
+- [ ] **[[wiki/people/megan-miller|Megan Miller]] → Andres:** test new system with Michelle to surface bugs *(due 2026-05-19)* <sub>[teams-transcript-megan-andres-2026-05-14.md]</sub>
+- [ ] **[[wiki/people/megan-miller|Megan Miller]] → Andres:** rotate all passwords on touched accounts post-deployment <sub>[teams-transcript-megan-andres-2026-05-14.md]</sub>
 
 ## You owe them
 
-- [ ] **Andres → [[wiki/people/jordan-kaiser|Jordan Kaiser]]:** send intro email to Monica Davidson connecting Jordan to senior home director *(due 2026-05-13)* <sub>[teams-transcript-jordan-andres-1-1-2026-05-13.md]</sub>
-- [ ] **Andres → [[wiki/people/jordan-kaiser|Jordan Kaiser]]:** confirm with Buda EDC that Cohort 4 receives full-year Moil business licenses <sub>[teams-transcript-jordan-andres-1-1-2026-05-13.md]</sub>
-- [ ] **[[wiki/people/jordan-kaiser|Jordan Kaiser]] → [[wiki/people/monica-davidson|Monica Davidson]]:** reply to Monica Davidson once intro email lands <sub>[teams-transcript-jordan-andres-1-1-2026-05-13.md]</sub>
+- [ ] **Andres → [[wiki/people/megan-miller|Megan Miller]]:** send access to new email system first thing Friday *(due 2026-05-15)* <sub>[teams-transcript-megan-andres-2026-05-14.md]</sub>
+- [ ] **Andres → [[wiki/people/megan-miller|Megan Miller]]:** in-person walkthrough at FitLogic to fix flagged issues *(due 2026-05-20)* <sub>[teams-transcript-megan-andres-2026-05-14.md]</sub>
 

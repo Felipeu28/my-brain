@@ -1,6 +1,6 @@
-## Concept of the day — [[wiki/concepts/smart-hiring|Smart Hiring]]
+## Concept of the day — [[wiki/concepts/moil360|Moil360]]
 
-_Last touched: 2026-04-11_  •  _Type: concept_
+_Last touched: 2026-04-14_  •  _Type: concept (canonical product name)_
 
 > (no summary extracted — open the page)
 

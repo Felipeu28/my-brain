@@ -21,7 +21,7 @@ Moil is shipping into a stack of 12+ Tier 1 paying clients with first end-to-end
 ## Last 7 days
 
 <!-- AUTO: bin/project-activity.sh updates this section daily. Do not edit by hand. -->
-_Updated: 2026-05-14 08:00 (window: 2026-05-07 → 2026-05-14)_
+_Updated: 2026-05-15 08:00 (window: 2026-05-08 → 2026-05-15)_
 
 **Claude Code sessions (34):**
 - 2026-04-14 — Brain System Audit
@@ -35,14 +35,14 @@ _Updated: 2026-05-14 08:00 (window: 2026-05-07 → 2026-05-14)_
 - 2026-05-04 — You are Andres's strategy operator. Every Sunday evening you synthesize a week o
 - 2026-05-04 — You are Andres Urrego's editor. Every evening you distill his X bookmarks from t
 **Mentions in meetings + raw (17):**
-- [[wiki/meetings/2026-05-07-megan-andres-fitlogic-crm-handoff]]
 - [[wiki/meetings/2026-05-11-monday-collaboration]]
 - [[wiki/meetings/2026-05-12-carolina-coaching]]
 - [[wiki/meetings/2026-05-12-travis-meridian-platform-handoff]]
 - [[wiki/meetings/2026-05-13-jordan-andres-1-1]]
-- [[raw/email-digest-2026-05-06]]
+- [[wiki/meetings/2026-05-14-megan-taiwo-fitlogic-2fa-godaddy-session]]
 - [[raw/email-digest-2026-05-07]]
 - [[raw/email-digest-2026-05-11]]
+- [[raw/email-digest-2026-05-12]]
 
 ## Recent decisions
 

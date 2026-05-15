@@ -22,9 +22,9 @@ Buda EDC is the strategic B2G anchor — every other municipal EDC pitch (Helote
 ## Last 7 days
 
 <!-- AUTO: bin/project-activity.sh updates this section daily. Do not edit by hand. -->
-_Updated: 2026-05-14 08:00 (window: 2026-05-07 → 2026-05-14)_
+_Updated: 2026-05-15 08:00 (window: 2026-05-08 → 2026-05-15)_
 
-**Mentions in meetings + raw (11):**
+**Mentions in meetings + raw (12):**
 - [[wiki/meetings/2026-05-11-monday-collaboration]]
 - [[wiki/meetings/2026-05-12-carolina-coaching]]
 - [[wiki/meetings/2026-05-13-jordan-andres-1-1]]
@@ -32,7 +32,7 @@ _Updated: 2026-05-14 08:00 (window: 2026-05-07 → 2026-05-14)_
 - [[raw/email-digest-2026-05-11]]
 - [[raw/email-digest-2026-05-12]]
 - [[raw/email-digest-2026-05-13]]
-- [[raw/teams-transcript-carolina-andres-2026-05-12]]
+- [[raw/email-digest-2026-05-14]]
 
 ## Recent decisions
 

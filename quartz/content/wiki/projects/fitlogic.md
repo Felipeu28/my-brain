@@ -22,13 +22,13 @@ Anchor Moil 360 customer; first end-to-end delivery completed Apr 29 in an 88-mi
 ## Last 7 days
 
 <!-- AUTO: bin/project-activity.sh updates this section daily. Do not edit by hand. -->
-_Updated: 2026-05-14 08:00 (window: 2026-05-07 → 2026-05-14)_
+_Updated: 2026-05-15 08:00 (window: 2026-05-08 → 2026-05-15)_
 
 **Mentions in meetings + raw (5):**
-- [[wiki/meetings/2026-05-07-megan-andres-fitlogic-crm-handoff]]
 - [[wiki/meetings/2026-05-11-monday-collaboration]]
 - [[wiki/meetings/2026-05-12-travis-meridian-platform-handoff]]
-- [[raw/teams-transcript-megan-andres-2026-05-07]]
+- [[wiki/meetings/2026-05-14-megan-taiwo-fitlogic-2fa-godaddy-session]]
+- [[raw/teams-transcript-megan-andres-2026-05-14]]
 - [[raw/teams-transcript-monday-collaboration-2026-05-11]]
 
 ## Recent decisions

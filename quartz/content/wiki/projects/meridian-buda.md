@@ -22,11 +22,12 @@ Closed Apr 9, 2026. Full custom ticketed-events platform — Stripe payments, or
 ## Last 7 days
 
 <!-- AUTO: bin/project-activity.sh updates this section daily. Do not edit by hand. -->
-_Updated: 2026-05-14 08:00 (window: 2026-05-07 → 2026-05-14)_
+_Updated: 2026-05-15 08:00 (window: 2026-05-08 → 2026-05-15)_
 
-**Mentions in meetings + raw (4):**
+**Mentions in meetings + raw (5):**
 - [[wiki/meetings/2026-05-12-carolina-coaching]]
 - [[wiki/meetings/2026-05-12-travis-meridian-platform-handoff]]
+- [[wiki/meetings/2026-05-14-megan-taiwo-fitlogic-2fa-godaddy-session]]
 - [[raw/email-digest-2026-05-11]]
 - [[raw/teams-transcript-travis-andres-2026-05-12]]
 

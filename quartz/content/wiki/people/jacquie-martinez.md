@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-05-13
+last_contact: 2026-05-14
 client: "[[wiki/orgs/buda-edc]]"
 tags:
   - graph/spoke
@@ -9,8 +9,8 @@ tags:
 # Jacquie Martinez
 
 **Type:** person
-**Last updated:** 2026-05-13
-**Source:** [[raw/buda-hive-edc-2026-04-11]], m365 email (Mar–Apr 2026 contract thread), [[raw/email-digest-2026-05-01]], [[raw/email-digest-2026-05-11]], [[raw/email-digest-2026-05-12]], [[raw/teams-transcript-jordan-andres-1-1-2026-05-13]], [[raw/email-digest-2026-05-13]], [[raw/signal-briefs/signal-brief-2026-05-13]]
+**Last updated:** 2026-05-14
+**Source:** [[raw/buda-hive-edc-2026-04-11]], m365 email (Mar–Apr 2026 contract thread), [[raw/email-digest-2026-05-01]], [[raw/email-digest-2026-05-11]], [[raw/email-digest-2026-05-12]], [[raw/teams-transcript-jordan-andres-1-1-2026-05-13]], [[raw/email-digest-2026-05-13]], [[raw/signal-briefs/signal-brief-2026-05-13]], [[raw/email-digest-2026-05-14]]
 **Related:** [[wiki/people/jennifer-storm]], [[wiki/people/joshua-edmond]], [[wiki/people/jordan-kaiser]], [[wiki/orgs/buda-edc]], [[wiki/concepts/buda-hive]], [[wiki/concepts/hive-program]]
 
 ---
@@ -44,12 +44,21 @@ Jacquie is the **day-to-day operational contact** for the Buda HIVE relationship
 | 2026-05-11 20:08 CDT | Re: Incubator Strategist - Scope of Work — *"Thank you — it has truly been a pleasure working alongside you… hopeful we'll have the contract finalized for both of you this week."* **First explicit week-of finalization signal** for both Andres + [[wiki/people/joshua-edmond\|Joshua]] PSAs (post May 11 in-person lunch) |
 | 2026-05-12 12:59 CDT | Andres + Joshua reply: *"Thank you so much for lunch yesterday… wondering if I should send my signed contract or wait for confirmation."* — Andres surfacing the *signed-now-vs-wait-for-board-confirmation* sequencing question; awaiting Jacquie's call on whether to countersign before EDC final exec sign-off |
 | 2026-05-13 01:08 CDT | Inbound *"Re: Incubator Strategist - Scope of Work"* — *"Truly a pleasure… I'm hopeful we'll have the contract finalized for both of you this week."* — Jacquie restated week-of finalization but did **not directly answer Andres's countersign-now-vs-wait question** from May 12 |
+| 2026-05-13 15:45 CDT | Outbound *"Buda EDC: Reach for the Stars at Entrepreneur Camp 2026"* — community / program promo broadcast (Andres on the recipient list) |
+| 2026-05-14 13:44 CDT | Inbound *"Re: Quick follow up!"* — confirmed **invoice for 13 added + 20 more licenses = 33 total**; **check being processed**. **First quantitative on-record 33-license expansion confirmation** — Buda EDC scaling Moil 360 distribution beyond the original Cohort framework |
+| 2026-05-14 14:42 CDT | Andres reply — clarified the license math: **23 currently available + 10 more to load = 33 total** to deliver on the Buda side |
 
 ## 2026-05-12 — Contract finalization week (Andres + Joshua PSAs)
 
 Source: [[raw/email-digest-2026-05-11]], [[raw/email-digest-2026-05-12]]
 
 Jacquie's May 11 20:08 CDT note (post May 11 lunch) put both Andres and [[wiki/people/joshua-edmond|Joshua]] PSAs on a **same-week finalization track**. Andres's May 12 12:59 CDT reply asked the sequencing question — *"should I send my signed contract or wait for confirmation?"* — putting the ball back on Jacquie's side. **Open this week:** whether the Board sign-off is the gate or whether countersigning now is fine. Track the next Jacquie inbound for the answer; the [[wiki/people/joshua-edmond|Joshua]] revised SoW (May 6) is presumably the version being finalized.
+
+## 2026-05-14 — 33-license Buda EDC expansion confirmed + check inbound
+
+Source: [[raw/email-digest-2026-05-14]]
+
+Jacquie replied 13:44 CDT on the *"Re: Quick follow up!"* thread confirming **invoice for 13 licenses added + 20 more licenses = 33 total**, and that the **check is being processed**. Andres replied 14:42 CDT clarifying the math: 23 already available on Moil's side + 10 more to load = 33 total to deliver. **First on-record quantitative expansion of the Buda EDC license footprint** beyond per-cohort distribution — Jacquie is now the buyer-side counterparty on a 33-seat block, not just the cohort coordinator. Pair with the in-flight Incubator Strategist PSA finalization — same week, same partner, two parallel revenue surfaces. **Open watch:** confirm check arrival + 10 new license slots loaded before any further expansion ask lands.
 
 ## 2026-05-13 — Asymmetric relational bandwidth (cross-source pattern, single window)
 

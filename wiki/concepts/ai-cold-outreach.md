@@ -5,8 +5,8 @@ tags:
 # AI-Powered Cold Outreach
 
 **Type:** concept
-**Last updated:** 2026-05-09
-**Source:** [[raw/x-bookmarks-2026-04-11]], [[raw/email-digest-2026-05-06]], [[raw/email-digest-2026-05-07]], [[raw/signal-briefs/signal-brief-2026-05-07]]
+**Last updated:** 2026-05-14
+**Source:** [[raw/x-bookmarks-2026-04-11]], [[raw/email-digest-2026-05-06]], [[raw/email-digest-2026-05-07]], [[raw/signal-briefs/signal-brief-2026-05-07]], [[raw/email-digest-2026-05-14]], [[raw/signal-briefs/signal-brief-2026-05-14]]
 **Related:** [[wiki/moil/gtm]], [[wiki/moil/icp]], [[wiki/concepts/linkedin-gtm]], [[wiki/concepts/smb-ai-audits]], [[wiki/concepts/content360]], [[wiki/concepts/moil360]]
 
 ---
@@ -62,6 +62,16 @@ The first SMB-pivot outbound batch began **2026-05-06** and continued **2026-05-
 - Three subject-line variants under live A/B test — track open and reply rates by variant. The *"Most SMB owners tell us the same thing"* pain-mirror frame is the closest cousin to the @itsalexvacca / @dimitarangg hook patterns above.
 - All sends from `andres@moilapp.com`. **Deliverability risk:** the same address that bounced FitLogic test emails to Gmail spam in April. Watch for reply-rate floor that suggests inbox-placement issues; if response rate < 1%, evaluate domain-warmup or rotation to a secondary outbound domain.
 - **Cross-source pattern (2026-05-07 daily-correlator):** the same `myfitlogic.com` Cloudflare-workaround that resolved Megan's 16-day Resend block (per [[wiki/meetings/2026-05-07-megan-andres-fitlogic-crm-handoff]]) is the **same architectural hedge** available to Andres if `andres@moilapp.com` reply rates fall below 1% — register a parallel domain end-to-end controlled, provision via M365/GoDaddy, route the SMB campaign through it. Pattern name: *"stand up a parallel asset you fully own."* Already validated end-to-end on a customer; can be re-applied to Moil's own outbound stack without redesign.
+
+## May 14, 2026 — Heaviest single-day SMB cold-outbound load + deliverability irony
+
+Source: [[raw/email-digest-2026-05-14]], [[raw/signal-briefs/signal-brief-2026-05-14]]
+
+**18 Content 360 / "30 days of posts" / "Most SMB owners…" sends fired from `andres@moilapp.com` in a single afternoon (13:53–16:47 UTC)** across landscaping, architecture, F&B, moving, insurance, real-estate, and professional services — heaviest single-day SMB load yet on this address. New verticals introduced: insurance (Alycen Lucy / Farmers Agent), moving (Cory Carpenter / Black Tie Moving Team), legal-adjacent (Inti Gonzalez / Gonzalez Shah Smith), corporate dining (David Mann / Guckenheimer), wellness (Rob Pieroth / Think Positive Energy).
+
+**Cross-source connection (signal-brief-2026-05-14):** the **same day** Andres co-architected the two-domain `myfitlogic.com` deliverability-protection pattern for Megan ([[wiki/meetings/2026-05-14-megan-taiwo-fitlogic-2fa-godaddy-session]]), **he is not applying it to his own outbound** — same `andres@moilapp.com` address previously flagged for Gmail-spam risk at FitLogic is now under its heaviest single-day load yet. **The deliverability hedge architected for the customer is the one he should be running himself.**
+
+**Operating action:** the May 7 *"stand up a parallel asset you fully own"* recommendation is now overdue. Register a Moil-owned outbound-only domain (e.g., `getmoil.com` / `try-moil.com`); provision via M365/GoDaddy mirror of the FitLogic pattern; route all Content 360 / SMB cold sends through it. Keep `andres@moilapp.com` for warm relationships and EDC/HIVE/customer threads only. Decision criterion: **before** the next reply-rate dip below 1%, not after.
 
 ## May 6–7, 2026 — Chamber-breakup follow-ups continuing
 

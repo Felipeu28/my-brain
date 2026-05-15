@@ -4,6 +4,55 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ---
 
+## 2026-05-15 — Run 51: email-digest-2026-05-14 + signal-brief-2026-05-13 + signal-brief-2026-05-14
+
+**Trigger:** KB-agent scan for unprocessed raw files. Three found: `raw/email-digest-2026-05-14.md` (mirror at `quartz/content/raw/`), `quartz/content/raw/signal-briefs/signal-brief-2026-05-13.md`, `quartz/content/raw/signal-briefs/signal-brief-2026-05-14.md`.
+
+**Files processed (3):**
+- `raw/email-digest-2026-05-14.md` (8,098 bytes) — daily inbox/sent digest. Frontmatter marked `ingested: true` / `ingested_at: 2026-05-15` on both root + quartz mirror copies.
+- `quartz/content/raw/signal-briefs/signal-brief-2026-05-13.md` (1,709 bytes) — daily-correlator signal brief covering YC referral close + Jacquie asymmetric-bandwidth signal + Inna silence anomaly. Marked ingested.
+- `quartz/content/raw/signal-briefs/signal-brief-2026-05-14.md` (2,019 bytes) — daily-correlator signal brief covering FitLogic deliverability irony + Jacob customer-facing closer pattern + Adeleke 7d silence anomaly extension. Marked ingested.
+
+**Pages created (0):** No new wiki pages — all intel mapped to existing pillar pages.
+
+**Pages updated (8):**
+- [[wiki/people/jacquie-martinez]] — added May 14 33-license expansion confirmation block (invoice for 13 + 20 = 33 total, check inbound; Andres clarified 23 + 10 math); two new timeline rows (May 13 EDC Reach for the Stars promo + May 14 license confirm/clarify); `last_updated: 2026-05-13 → 2026-05-14`; source list expanded
+- [[wiki/people/john-costilla]] — added May 14 Mac contract pricing question block ($3,500 contract floated; PDF draft approved; Bday Lunch invite accepted); `last_updated: 2026-05-13 → 2026-05-14`; source list expanded
+- [[wiki/people/jacob-oluwole]] — added May 14 customer-facing-closer block (Linda follow-up + GRGT license + signal-brief active-person flag with reactive-volume-vs-DM-target risk); `last_updated: 2026-05-13 → 2026-05-14`; source list expanded
+- [[wiki/people/adeleke-tolulope]] — added May 14 xAI Grok 4.3 re-forward block (second forward of same notice; silence anomaly now 7+ days with 3 stacked escalations); `last_updated: 2026-05-13 → 2026-05-14`; source list expanded
+- [[wiki/people/anita-lansing]] — reframed May 13 *"Inspect"* section as May 13–14 (added May 14 18:07 UTC second console-paste; named the second-ping risk); `last_updated: 2026-05-13 → 2026-05-14`; source list expanded
+- [[wiki/people/katherine-silvas]] — added May 14 Helotes partnership follow-up block (22d slip past Apr 29–May 6 cadence target; Mayra escalation path if silent past May 21); `last_updated: 2026-04-23 → 2026-05-14`; source list expanded
+- [[wiki/people/casey-earley]] — added May 14 Andres bio request block (paired with John AI Convening + EDC magazine spread + Jacquie 33-license expansion = 4 EDC public-facing surfaces lit up simultaneously); `last_updated: 2026-05-05 → 2026-05-14`; source list expanded
+- [[wiki/concepts/ai-cold-outreach]] — added May 14 heaviest-single-day-SMB-load block (18 sends from `andres@moilapp.com`; cross-source deliverability irony — same day as the FitLogic two-domain architecture for Megan; standing-up-parallel-domain action upgraded from watch to action); `last_updated: 2026-05-09 → 2026-05-14`; source list expanded
+
+**Pages updated (operational):**
+- [[MEMORY]] — added "🔥 May 14 — Email-digest items requiring action" block with 9 new actions (John $3,500 contract reply, 33-license check tracking, Adeleke 3-stacked-escalation nudge, Anita second-ping unblock, Jacob DM-target-vs-reactive watch, own-deliverability domain stand-up, Helotes Mayra escalation path, Linda EOW ship watch, Buda EDC public-figure-packaging capture, Megan invite reconciliation); demoted Apr 29 NBCC + west-coast SMB block + Apr 29 FitLogic delivered P0 bug list (both 16d+ stale); trimmed three completed/redundant lines from Next 2–3 weeks (Renee Simmons done, GIS WebTech meeting held, Helotes proposal nudge superseded by May 14 entry); MEMORY back to 200-line cap
+- [[index]] — Run 51 header replacing Run 50; Run 50 demoted to "Previous run header"; total wiki count 319 (no new); raw count 555 → 559 (+3 marked ingested + the +1 mirror at root for email-digest); kb-health dedupe note retained
+
+**Skipped:** None.
+
+**Key intelligence (Run 51):**
+
+1. **Buda EDC license footprint expanded to 33 total seats.** Jacquie confirmed May 14 13:44 CDT that the invoice now covers 13 added + 20 more = 33 total licenses; check is being processed. Andres replied 14:42 CDT with the math: 23 already loaded + 10 to add. **First on-record quantitative expansion of the Buda EDC license footprint beyond per-cohort distribution** — Jacquie is now the buyer-side counterparty on a 33-seat block, parallel to (not replaced by) the in-flight Incubator Strategist PSA finalization. Two parallel revenue surfaces with the same partner this week.
+
+2. **Adeleke silence anomaly now 7+ days with three live escalations stacked.** Andres re-forwarded the *xAI Grok 4.3 launch + xAI API model retirement* notice to Steve@moilapp.com at 20:10 UTC May 14 with *"Please let me know once we have worked on this"* — second forward of this exact notice (first was May 6 05:42 UTC). Combined with the May 13 Anita Lansing console-error forward (no reply) + the May 12 Gemini 3.1 Flash Lite May-25-cutoff forward (no reply on record), Adeleke now has three live escalations stacked with no public ack across all three. The Apr 21 *"Steve fixes via Claude Code same-day"* pattern is broken on a multi-day timescale right when two prod-customer bugs (Anita on moilapp.com + Travis on Meridian) are live. Direct nudge before May 15 standup; phone/Teams call if silent through May 16.
+
+3. **Anita Lansing sent a second console-error paste 24h after the first, no internal ack visible.** Original *"Inspect"* email May 13 18:07 CDT (refresh-token issue + `aplo-evnt` 400s); follow-up paste May 14 18:07 UTC. Active Moil 360 user repeating herself because the first ping went unacknowledged. Paid-surface bug now in second-ping territory. Either unblock Adeleke or escalate to Taiwo before the third ping — Anita has historically been a high-warmth re-engagement signal (Apr 30 forward), so a third ping is where trust starts to crack.
+
+4. **Heaviest single-day SMB cold-outbound load yet from `andres@moilapp.com` (18 sends across 7 verticals) on the same day Andres co-architected the FitLogic deliverability hedge for Megan.** Signal-brief-2026-05-14 cross-source frame: *"the very deliverability protection Andres just architected for Megan is the one he is not applying to his own outbound."* New verticals introduced: insurance, moving, legal-adjacent, corporate dining, wellness. The May 7 *"stand up a parallel asset you fully own"* recommendation from the FitLogic Cloudflare-workaround pattern is now overdue. **Decision criterion: stand up a Moil-owned outbound-only domain BEFORE reply rate dips below 1%, not after.** Pattern is validated end-to-end on a customer (Megan); zero-redesign re-application to Moil's own outbound stack.
+
+5. **Buda EDC actively packaging Andres as a public-facing figure across 4 surfaces simultaneously this week.** (a) Casey Earley requested Andres bio May 14 14:56 CDT for EDC use (publication / event collateral / speaker page TBD); (b) John Costilla *"Buda Business Leader / AI Convening"* invite (accepted May 13); (c) May 13 Buda EDC magazine 2-page Moil + HIVE spread (per MEMORY May 11 block); (d) Jacquie's 33-license expansion lift. **Operating capture:** build a single canonical Andres-bio + headshot + one-paragraph-Moil-pitch kit so future asks land at zero friction. The compounding pattern is the asset, not any single ask.
+
+6. **John Costilla floated $3,500 contract for the Mac Decision Brief project.** First explicit budget anchor on the EDC-funded Mac purchase. Implies $3,500 contract structure (not single-machine SKU); confirms John as buyer-side counterparty + Andres as spec-and-deliver side. Andres ack'd 14:43 CDT *"Just seeing this, yes sir!"* — formal SoW / contract draft is the next artifact owed back.
+
+7. **Jacob operating as customer-facing closer this week while Taiwo is heads-down on FitLogic migration.** Linda Jungle Flavorz follow-up (14:35 UTC) + GRGT license assignment (11:24 UTC) + Anita console-error forwarded thread = three reactive customer-service surfaces on Jacob in one day. Daily-correlator framing: Andres should confirm Jacob is hitting the May 11 *"10 real DM conversations/day for Moil"* target *alongside* the reactive threads, not displaced by them. **First time the daily-correlator has framed reactive-volume crowding-out as a risk on Jacob** — Jacob's customer-service ownership is healthy (May 11 + 12 Inna apologies, May 13 Linda files-received, May 14 in-flight) but it can't substitute for the per-day proactive outbound cadence.
+
+8. **Helotes EDC nudge sent 22 days past the Apr 29–May 6 cadence target.** May 14 14:46 CDT *"Re: Moil Partnership Proposal"* follow-up — Andres's first on-record nudge since the Apr 22 proposal. **Escalation path locked:** if silent by ~May 21 (7d), escalate via Mayra Adams (exec secretary) channel rather than re-pinging Katherine direct. Maintains the relationship-warm posture the Apr 16 personal-context signal (Mayra's *"sorry to hear about child in hospital"* note) opened.
+
+**Summary:** Run 51 processed 3 raw files (1 email-digest + 2 signal-briefs covering May 13 + 14). The two signal-briefs were already partially captured in the Run 49 ingest of the May 13 email-digest, but the May 14 signal-brief surfaced two new patterns worth standing up as live MEMORY items: (1) the same-day deliverability irony (Andres architecting the FitLogic hedge while not applying it to his own outbound) and (2) Jacob's reactive-volume vs. proactive-outbound risk. Adeleke's silence anomaly extended from 6 → 7+ days with a third escalation stacked (xAI re-forward); the production cadence is now demonstrably broken on a multi-day timescale and warrants direct phone-channel escalation if silence continues through May 16. Buda EDC's revenue and public-figure surfaces both lit up simultaneously (33-license expansion + bio request + AI Convening + magazine spread) — the underlying signal is that Buda EDC has moved Moil from cohort-program-vendor to embedded-public-partner. No new wiki pages; 8 existing pages updated; MEMORY back to 200-line cap after demoting Apr 29 NBCC/west-coast + Apr 29 FitLogic P0 bug list + 3 stale Next-2-3-weeks lines.
+
+---
+
 ## 2026-05-14 (PM) — Run 50: Megan × Andres × Taiwo — GoDaddy delegate + Outlook migration session
 
 **Trigger:** KB-agent scan for unprocessed raw files. One found: `raw/teams-transcript-megan-andres-2026-05-14.md` (Teams transcript, ~34 min, 11:09–11:43 AM CT).

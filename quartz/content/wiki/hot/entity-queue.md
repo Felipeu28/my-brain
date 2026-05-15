@@ -3,7 +3,7 @@ tags:
   - graph/leaf
 type: hot-file
 auto_generated: true
-last_updated: 2026-05-13
+last_updated: 2026-05-14
 ---
 
 # Entity Queue

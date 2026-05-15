@@ -22,7 +22,7 @@ Bilingual voice-first kids AI companion with persistent memory ("brain graph"), 
 ## Last 7 days
 
 <!-- AUTO: bin/project-activity.sh updates this section daily. Do not edit by hand. -->
-_Updated: 2026-05-14 08:00 (window: 2026-05-07 → 2026-05-14)_
+_Updated: 2026-05-15 08:00 (window: 2026-05-08 → 2026-05-15)_
 
 **Commits (10):**
 - 2026-05-11 fix(brain/lint): make destructive removals opt-in + capped + logged (#84)

@@ -1,6 +1,6 @@
 ## Per-Project Activity
 
-_Window: 2026-05-07 → 2026-05-14_
+_Window: 2026-05-08 → 2026-05-15_
 
 ### Startups
 
@@ -13,5 +13,5 @@ _Window: 2026-05-07 → 2026-05-14_
 |---|---|---|---|
 | FitLogic | 0 | 0 | 5 |
 | Connectex | 0 | 0 | 2 |
-| Buda EDC / HIVE | 0 | 0 | 11 |
-| Meridian Buda | 0 | 0 | 4 |
+| Buda EDC / HIVE | 0 | 0 | 12 |
+| Meridian Buda | 0 | 0 | 5 |

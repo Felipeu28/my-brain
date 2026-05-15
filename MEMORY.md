@@ -1,6 +1,7 @@
 # MEMORY — Open Actions & Live Commitments
 
-**Last updated:** 2026-05-14 PM (Run 50 ingest — 1 new Teams transcript: **Megan × Andres × Taiwo — GoDaddy delegate + Outlook migration session**. New meeting: [[wiki/meetings/2026-05-14-megan-taiwo-fitlogic-2fa-godaddy-session]]. **Closes May 11 2FA wiring blocker** + **May 7 next-week in-person commitment** (now Wed May 20 10 AM CT at FitLogic). **First on-record articulation of the Moil-touches-customer-accounts security pattern** — no continued access, log out when done, rotate passwords post-deploy, 2FA stays on. Two-domain architecture written down as standing pattern: `fitlogicfunctionalmedicine.com` patient / `myfitlogic.com` sales. Meridian-side spillover: verification code went to `Travis@zoho.com`, mailbox empty — Andres to get the code from Travis once Taiwo re-requests.)
+**Last updated:** 2026-05-15 (Run 51 ingest — 3 files: email-digest-2026-05-14 + signal-brief-2026-05-13 + signal-brief-2026-05-14. **Buda EDC 33-license expansion confirmed** (Jacquie 13:44 CDT) — invoice for 13 + 20 more = 33 total, check inbound; Andres clarified 23 already loaded + 10 to add. **John Costilla floated $3,500 contract** for Mac Decision Brief — Andres acked. **Adeleke silence anomaly now 7+ days** with three live escalations stacked (xAI re-forward, Anita's 2nd console-paste, Gemini 3.1 Flash Lite May-25 cutoff). **Anita Lansing sent a SECOND console-error paste 24h after the first** — paid-surface bug now in second-ping territory. **Heaviest single-day SMB cold load yet** from `andres@moilapp.com` (18 sends) on the **same day** Andres co-architected the FitLogic deliverability hedge — own-deliverability watch upgraded to action. **Helotes EDC nudge sent** (22d slip past target); if silent by ~May 21, escalate via Mayra channel. **Casey Earley requested Andres's bio** for Buda EDC use — pattern: EDC actively packaging Andres as a public-facing figure across 4 surfaces simultaneously.)
+**Run 50 (2026-05-14 PM):** 1 new Teams transcript — **Megan × Andres × Taiwo — GoDaddy delegate + Outlook migration session**. New meeting: [[wiki/meetings/2026-05-14-megan-taiwo-fitlogic-2fa-godaddy-session]]. Closed May 11 2FA wiring blocker + May 7 next-week in-person commitment (now Wed May 20 10 AM CT at FitLogic). First on-record articulation of the Moil-touches-customer-accounts security pattern. Two-domain architecture written down as standing pattern.
 **Run 49 (2026-05-14 AM):** email-digest-2026-05-13 + signal-brief-2026-05-13 ingested. **Perseus Defense YC recommendation submitted** (Jason Cornelius *"Rec. is in"*); Andres committed to looping Perseus in on any YC interview signal. Adeleke silence anomaly extends to 6 days. Monica Davidson intro for Jordan confirmed sent 17:57 CDT.
 **Run 48 (2026-05-13 PM):** 1 new Teams transcript — Jordan Kaiser × Andres Cohort-4 first 1:1. New page: [[wiki/people/jordan-kaiser]]. **Second independent surfacing of HIVE 1-yr Moil license precedent in 24 hours.** Silent ship documented: Moil now sends 3 proactive coaching emails/week to active business users.
 **Run 47 (2026-05-13 AM):** email-digest-2026-05-12 + signal-brief-2026-05-12 ingested. **Perseus YC meeting happened** May 12 8 AM — Steve Messinger warm reply. **Buda EDC Incubator Strategist contracts on a same-week finalization track.** **Cold campaign first all-SMB day** — 17 sends, 11 verticals.
@@ -13,6 +14,19 @@
 ---
 
 ## 🔥 Immediate — This Week (May 11 – May 17, 2026)
+
+### 🔥 May 14 — Email-digest items requiring action
+Source: [[raw/email-digest-2026-05-14]], [[raw/signal-briefs/signal-brief-2026-05-14]]
+- [ ] **🔥 Andres:** Reply to [[wiki/people/john-costilla|John Costilla]]'s *"You think we can do a contract for 3500?"* with a formal SoW / contract draft for the Mac Decision Brief project. Andres ack'd "Just seeing this, yes sir!" 14:43 CDT but the **named-amount commitment is still open** until paper goes back
+- [ ] **🔥 Andres + Jacquie:** Confirm check arrival on the **33-license Buda EDC expansion** (invoice for 13 + 20 more); load the 10 new license slots once funds clear. **First quantitative on-record license expansion beyond per-cohort distribution** — protect this revenue surface from operational drift
+- [ ] **🔥 Andres / Steve:** **Three live escalations stacked on Adeleke** with no public ack across 7+ days — (1) xAI Grok 4.3 retirement (re-forwarded May 14 20:10 UTC), (2) Anita Lansing's 2nd console-paste May 14 18:07 UTC (no fix shipped after May 13 forward), (3) Gemini 3.1 Flash Lite May-25 cutoff (no reply since May 12 forward). **Direct nudge before May 15 standup; if silent through May 16, default to phone/Teams call** — Apr 21 *"Steve fixes via Claude Code same-day"* pattern is broken
+- [ ] **🔥 Andres / Engineering:** Anita Lansing sent a **second console-error paste** May 14 18:07 UTC on the same *"Inspect"* thread, **24h after the first** — paid-surface bug in second-ping territory. Either unblock Adeleke or escalate to Taiwo before the third ping (active Moil 360 user)
+- [ ] **🔥 Andres / Jacob:** Confirm Jacob is hitting the May 11 *"10 real DM conversations/day for Moil"* target *alongside* the May 14 reactive customer-service threads (Linda Jungle Flavorz follow-up + GRGT license + Anita relay), not displaced by them. First time the daily-correlator has framed reactive-volume crowding-out as a risk on Jacob
+- [ ] **🔥 Andres:** Stand up a **Moil-owned outbound-only domain** (e.g., `getmoil.com` / `try-moil.com`) via M365/GoDaddy mirror of the FitLogic two-domain pattern; route Content 360 / SMB cold sends through it; keep `andres@moilapp.com` for warm + EDC threads. **May 14 was the heaviest single-day SMB load (18 sends) on the same address previously flagged for FitLogic Gmail-spam** — and the same day Andres architected this exact hedge for Megan. **Decide before reply rate dips below 1%, not after.** See [[wiki/concepts/ai-cold-outreach]]
+- [ ] **🔥 Andres:** Watch [[wiki/people/katherine-silvas|Katherine]]'s reply to the May 14 14:46 CDT Helotes partnership follow-up (22d slip past Apr 29–May 6 cadence target). If silent by ~May 21, **escalate via [[wiki/people/mayra-adams|Mayra]] channel** (exec secretary), not direct re-ping
+- [ ] **Jacob → Linda (in-flight):** Ship the [[wiki/people/linda-horuke|Linda Horuke]] / Jungle Flavorz **website update by May 16/17** — the May 14 *"business email access and next steps"* follow-up is the mid-flight check, not the ship. **Two reps in a row of stated rhythm** at risk if missed
+- [ ] **Capture (Buda EDC public-figure packaging signal):** [[wiki/people/casey-earley|Casey]] requested Andres's bio May 14 14:56 CDT — paired with John's *"Buda Business Leader / AI Convening"* + the May 13 EDC magazine 2-page Moil + HIVE spread + Jacquie's 33-license expansion = **4 EDC-side public-facing surfaces lit up simultaneously this week.** Worth packaging: ask Casey what publication/use the bio is for; build a single canonical Andres-bio + headshot + one-paragraph-Moil-pitch kit so future asks are zero-friction
+- [ ] **Watch:** [[wiki/people/megan-miller|Megan]] in-person meeting Teams invite sent 16:38 UTC for *"Megan & Andres in person"* — separate from the locked Wed May 20 10–11 AM CT FitLogic walkthrough; confirm whether this is the same calendar entry or a second touchpoint
 
 ### 🔥 May 14 — FitLogic Outlook migration session (GoDaddy delegate + security pattern)
 Source: [[wiki/meetings/2026-05-14-megan-taiwo-fitlogic-2fa-godaddy-session]]
@@ -132,18 +146,6 @@ Source: [[wiki/meetings/2026-04-30-heather-skeen-coaching]], [[wiki/meetings/202
 Source: [[raw/email-digest-2026-04-29]], [[wiki/people/adeleke-tolulope]], [[wiki/meetings/2026-05-04-monday-collaboration]]
 - [ ] **🔥 Adeleke / Andres:** Per-feature AI-spend accounting for OpenAI + Gemini before next billing cycle (the Saturday 5/2 Gemini spike was the weekly health-summary cron — fix landing via May 4 Flash-Lite + active-user-gate switch)
 
-### 🔥 Apr 29 — NBCC and west-coast SMB conversion lanes opened
-Source: [[raw/email-digest-2026-04-29]], [[wiki/moil/gtm]]
-- [ ] **🔥 Andres:** Reply to **Charles DeBow (NBCC)** — first on-record reply from a national chamber/EDC partner in the cold campaign (*"directionally aligned with where many entrepreneurship ecosystems are heading"*). Drop NBCC into a separate follow-up cadence rather than the breakup queue
-- [ ] **Andres:** Track Belmont-Buda *"this Buda business looks 10x bigger now"* west-coast cold-send batch (David Mann / Shayan Guha / Jessica Reicher / Rob Pieroth) — this is a **brand-new template** that converts FitLogic's Apr 29 morning delivery into outbound asset by the same afternoon. Watch for replies; if pattern works, replicate
-
-### 🔥 Apr 29 — FitLogic delivered; P0 bug list from live walkthrough
-Source: [[wiki/meetings/2026-04-29-megan-fitlogic-crm-delivery]]
-- [ ] **🔥 Andres / Eng:** Extract patients vs. non-patients from FitLogic's 5,000-contact export
-- [ ] **🔥 Engineering — P0 bugs + features:** pipeline-stage propagation to contact-card/analytics; Content360 calendar Feb 28 default; Edit-image image-to-image regression; Brand DNA colors → Content360 generator; "Last contacted" filter; `previous client` lead-source; customizable drop-down + Other free-text; centralized link library; closed-captioning on generated videos
-- [ ] **Andres + Megan:** Michelle staff-add path; FitLogic chat/FAQ widget (post-Electric-Bricks); book-a-call → Megan's Square calendar; Megan to provide brand-color hex + active-patient export from Charm + IC-only tagging + Jill-import-day bulk tagging
-- [ ] **FitLogic brand-voice rule (Brand DNA):** hook openers (*"You may be wondering…"* / *"Are you still struggling…"*); never *"I wanted to share…"*
-
 ### 🔥 Apr 28 — Connectex go-live sprint (first payment now expected ~May 18)
 Source: [[wiki/meetings/2026-04-28-mark-polanco-connectex-walkthrough]]
 - [ ] **🔥 Andres + Mark:** Squarespace push once Mark sends login; Resources/blog section; mid-May lunch; refile EDC reimbursement; Yealink LTE deck-station doc; BuiltFirst marketplace-billing block
@@ -155,6 +157,7 @@ Source: [[raw/email-digest-2026-05-01]]
 - [ ] **Andres:** Run the [[wiki/people/marilyn-martinez|Marilyn Martinez]] / [[wiki/orgs/nuovo-entertainment|Nuovo]] Website Discussion call. Capture scope; decide site-only vs. Moil 360 conversion
 
 ### 🔥 Carried debts demoted to log.md
+- **Run 51 (2026-05-15):** Apr 29 NBCC + west-coast SMB conversion-lane block (Charles DeBow reply tracking + Belmont-Buda template) + Apr 29 FitLogic delivered P0 bug list (full engineering punch list + brand-voice rule) — both 16d+ stale; FitLogic P0s tracked via [[wiki/projects/fitlogic]] + Megan's page; NBCC/west-coast tracked via [[wiki/concepts/ai-cold-outreach]] + [[wiki/moil/gtm]]; demoted to [[log.md]]
 - **Run 50 (2026-05-14 PM):** Apr 28 Inna CRM bug residue (Taiwo: Inna contact-add hang + Gemini API key + Jacob Google OAuth test-user; Siren Beauty brand.md per-customer brand-kit) + Apr 28 moilapp.com SEO emergency + Apr 29 Buda EDC × GIS WebTech meeting (held May 13) + May 1 TEDC keynote prep — all 14d+ stale and tracked via project/meeting pages; demoted to [[log.md]]
 - **Run 48 (2026-05-13 PM):** Apr 30 Hays CISD Career Day post-May-7 follow-ups + Apr 30 Apollo data-quality cleanup pass — both blocks 14d+ stale, demoted to [[log.md]]
 - **Run 44 (2026-05-11):** Apr 30 Anita Lansing re-engage; Apr 28 inbox (John Costilla lunch + Victor UDC). Earlier Apr 24/21/28 sub-blocks demoted Runs 38–40 — see [[log.md]]
@@ -164,10 +167,7 @@ Source: [[raw/email-digest-2026-05-01]]
 ## 📅 Next 2–3 weeks (Apr 29 – May 12)
 
 - [ ] **Tue May 12** — Christine + Kat meet [[wiki/people/sarah-hive-cohort|Sarah]] (bookstore + wine) — competitive recon; don't disclose Train Depot interest
-- [x] ~~**May 7** — Renee Simmons / Hays CISD Career Day at CHES~~ — occurred May 7; capture outcomes next run
-- [ ] **Wed May 13, 9–11 AM CT** — Buda EDC × GIS WebTech AI virtual meeting (John Costilla + Michael Cleary)
 - [ ] **Fri Jun 19, 8 AM CT** — **TEDC Mid-Year Conference keynote**, Hilton Granite Park, Plano TX (booked by [[wiki/people/sarah-miller|Sarah Miller]] May 1). First TX statewide EDC speaking slot
-- [ ] **🔥 Helotes EDC** — Moil Partnership Proposal out since Apr 22. **Nudge by ~Apr 29–May 6 if silent.** See [[wiki/orgs/helotes-edc]], [[wiki/people/katherine-silvas]]
 - [ ] **[[wiki/people/daniel-guadiano|Daniel Guadiano]] / Astra Restaurant** — both Apr 22/23 slots proposed went without confirmation; re-propose new slot or close. First hospitality ICP if it closes
 - [ ] **Reply to [[wiki/people/irma-mason|Irma Mason]]** re: Mrs. Unger job-search referral — still open from Apr 19
 - [ ] **🔥 Reply to [[wiki/people/rashaka-boykins|Rashaka Boykins]]** — consolidate answer to Apr 21–22 inbound (LLM marketing + traffic/LinkedIn-IG); close on $600/yr vs $900/mo offered Apr 24
