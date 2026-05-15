@@ -1,6 +1,6 @@
 # MEMORY — Open Actions & Live Commitments
 
-**Last updated:** 2026-05-15 (Run 51 ingest — 3 files: email-digest-2026-05-14 + signal-brief-2026-05-13 + signal-brief-2026-05-14. **Buda EDC 33-license expansion confirmed** (Jacquie 13:44 CDT) — invoice for 13 + 20 more = 33 total, check inbound; Andres clarified 23 already loaded + 10 to add. **John Costilla floated $3,500 contract** for Mac Decision Brief — Andres acked. **Adeleke silence anomaly now 7+ days** with three live escalations stacked (xAI re-forward, Anita's 2nd console-paste, Gemini 3.1 Flash Lite May-25 cutoff). **Anita Lansing sent a SECOND console-error paste 24h after the first** — paid-surface bug now in second-ping territory. **Heaviest single-day SMB cold load yet** from `andres@moilapp.com` (18 sends) on the **same day** Andres co-architected the FitLogic deliverability hedge — own-deliverability watch upgraded to action. **Helotes EDC nudge sent** (22d slip past target); if silent by ~May 21, escalate via Mayra channel. **Casey Earley requested Andres's bio** for Buda EDC use — pattern: EDC actively packaging Andres as a public-facing figure across 4 surfaces simultaneously.)
+**Last updated:** 2026-05-15 (Weekly compile Run 52 — priority-rot pass: 3 sections demoted from 🔥 Immediate → 💤 Deferred per >14d-old rule (Apr 30 HIVE Cohort-4 first 1:1s, Apr 29 AI-spend observability emergency, Apr 28 Connectex go-live sprint). No new ingests since Run 51 AM.) · **Run 51 (2026-05-15 AM):** 3 files: email-digest-2026-05-14 + signal-brief-2026-05-13 + signal-brief-2026-05-14. **Buda EDC 33-license expansion confirmed** (Jacquie 13:44 CDT) — invoice for 13 + 20 more = 33 total, check inbound; Andres clarified 23 already loaded + 10 to add. **John Costilla floated $3,500 contract** for Mac Decision Brief — Andres acked. **Adeleke silence anomaly now 7+ days** with three live escalations stacked (xAI re-forward, Anita's 2nd console-paste, Gemini 3.1 Flash Lite May-25 cutoff). **Anita Lansing sent a SECOND console-error paste 24h after the first** — paid-surface bug now in second-ping territory. **Heaviest single-day SMB cold load yet** from `andres@moilapp.com` (18 sends) on the **same day** Andres co-architected the FitLogic deliverability hedge — own-deliverability watch upgraded to action. **Helotes EDC nudge sent** (22d slip past target); if silent by ~May 21, escalate via Mayra channel. **Casey Earley requested Andres's bio** for Buda EDC use — pattern: EDC actively packaging Andres as a public-facing figure across 4 surfaces simultaneously.)
 **Run 50 (2026-05-14 PM):** 1 new Teams transcript — **Megan × Andres × Taiwo — GoDaddy delegate + Outlook migration session**. New meeting: [[wiki/meetings/2026-05-14-megan-taiwo-fitlogic-2fa-godaddy-session]]. Closed May 11 2FA wiring blocker + May 7 next-week in-person commitment (now Wed May 20 10 AM CT at FitLogic). First on-record articulation of the Moil-touches-customer-accounts security pattern. Two-domain architecture written down as standing pattern.
 **Run 49 (2026-05-14 AM):** email-digest-2026-05-13 + signal-brief-2026-05-13 ingested. **Perseus Defense YC recommendation submitted** (Jason Cornelius *"Rec. is in"*); Andres committed to looping Perseus in on any YC interview signal. Adeleke silence anomaly extends to 6 days. Monica Davidson intro for Jordan confirmed sent 17:57 CDT.
 **Run 48 (2026-05-13 PM):** 1 new Teams transcript — Jordan Kaiser × Andres Cohort-4 first 1:1. New page: [[wiki/people/jordan-kaiser]]. **Second independent surfacing of HIVE 1-yr Moil license precedent in 24 hours.** Silent ship documented: Moil now sends 3 proactive coaching emails/week to active business users.
@@ -135,32 +135,16 @@ Source: [[wiki/meetings/2026-05-04-monday-collaboration]]
 - [ ] **Andres:** Resolve credit-card issue blocking Groq/Gwen refills
 - [ ] **Standing:** Weekly Monday cost review (Gemini, OpenAI, Groq, Grok dashboards) is now a permanent agenda item
 
-### 🔥 Apr 30 — HIVE Cohort 4 first 1:1s landed + Cohort 4 PSA executed at in-person review
-Source: [[wiki/meetings/2026-04-30-heather-skeen-coaching]], [[wiki/meetings/2026-04-30-carolina-coaching]], [[raw/email-digest-2026-04-30]]
-- [ ] **Andres:** Drop by [[wiki/people/carolina-caro|Caro's]] house in person — Austin Street behind [[wiki/orgs/meridian-buda|Meridian]]. Walk the floorplan in person to validate the women-coworking layout
-- [ ] **Andres:** Save [[wiki/people/heather-skeen|Heather Skeen]]'s HIPAA-compliant cell number (routes from office line to cell)
-- [ ] **Caro homework:** complete Moil 21 questions (signed up first month free during the call); interview 5–10 women from Cohort 4 to validate ICP and willingness to pay; map floorplan to revenue
-- [ ] **Heather homework:** research daycare PD requirements (12 domains, hours, certification cycle); research market rates for CEU providers in TX; package 3–4 program bundles at ~$1,000/yr per daycare; build 25-mile-radius daycare prospect list (postcard + 3-email sequence + call); attorney consult on "Providence Counseling and Therapy" name change (insurance-contract impact); fix the $500/3hr pricing for the NC fall engagement
-
-### 🔥 Apr 29 — AI-spend observability emergency (May 4 partly resolved)
-Source: [[raw/email-digest-2026-04-29]], [[wiki/people/adeleke-tolulope]], [[wiki/meetings/2026-05-04-monday-collaboration]]
-- [ ] **🔥 Adeleke / Andres:** Per-feature AI-spend accounting for OpenAI + Gemini before next billing cycle (the Saturday 5/2 Gemini spike was the weekly health-summary cron — fix landing via May 4 Flash-Lite + active-user-gate switch)
-
-### 🔥 Apr 28 — Connectex go-live sprint (first payment now expected ~May 18)
-Source: [[wiki/meetings/2026-04-28-mark-polanco-connectex-walkthrough]]
-- [ ] **🔥 Andres + Mark:** Squarespace push once Mark sends login; Resources/blog section; mid-May lunch; refile EDC reimbursement; Yealink LTE deck-station doc; BuiltFirst marketplace-billing block
-- [ ] **🔥 Taiwo + Eng:** Connectex repo to remote (no local-only — third surfacing); Gemini API key; Airtable contact import; finish Contacts tab; seed Knowledge Base for AI tier-1 ticket testing
-
 ### 🔥 May 1 — Outstanding non-keynote items
 Source: [[raw/email-digest-2026-05-01]]
 - [ ] **🔥 Andres:** Walk [[wiki/people/john-costilla|John Costilla]] through the video-creation workflow on his brand (offered May 1 after John's praise on *business-coach-95s*)
 - [ ] **Andres:** Run the [[wiki/people/marilyn-martinez|Marilyn Martinez]] / [[wiki/orgs/nuovo-entertainment|Nuovo]] Website Discussion call. Capture scope; decide site-only vs. Moil 360 conversion
 
 ### 🔥 Carried debts demoted to log.md
-- **Run 51 (2026-05-15):** Apr 29 NBCC + west-coast SMB conversion-lane block (Charles DeBow reply tracking + Belmont-Buda template) + Apr 29 FitLogic delivered P0 bug list (full engineering punch list + brand-voice rule) — both 16d+ stale; FitLogic P0s tracked via [[wiki/projects/fitlogic]] + Megan's page; NBCC/west-coast tracked via [[wiki/concepts/ai-cold-outreach]] + [[wiki/moil/gtm]]; demoted to [[log.md]]
-- **Run 50 (2026-05-14 PM):** Apr 28 Inna CRM bug residue (Taiwo: Inna contact-add hang + Gemini API key + Jacob Google OAuth test-user; Siren Beauty brand.md per-customer brand-kit) + Apr 28 moilapp.com SEO emergency + Apr 29 Buda EDC × GIS WebTech meeting (held May 13) + May 1 TEDC keynote prep — all 14d+ stale and tracked via project/meeting pages; demoted to [[log.md]]
-- **Run 48 (2026-05-13 PM):** Apr 30 Hays CISD Career Day post-May-7 follow-ups + Apr 30 Apollo data-quality cleanup pass — both blocks 14d+ stale, demoted to [[log.md]]
-- **Run 44 (2026-05-11):** Apr 30 Anita Lansing re-engage; Apr 28 inbox (John Costilla lunch + Victor UDC). Earlier Apr 24/21/28 sub-blocks demoted Runs 38–40 — see [[log.md]]
+- **Run 52 (2026-05-15 weekly compile):** Apr 30 HIVE Cohort 4 first 1:1s + Apr 29 AI-spend observability emergency + Apr 28 Connectex go-live sprint — all 15d+ past their date label; moved to 💤 Deferred auto-demoted subsection (still actionable, just no longer "this week")
+- **Run 51 (2026-05-15):** Apr 29 NBCC + west-coast SMB conversion-lane block + Apr 29 FitLogic delivered P0 bug list — both 16d+ stale; tracked via [[wiki/projects/fitlogic]], [[wiki/concepts/ai-cold-outreach]], [[wiki/moil/gtm]]; demoted to [[log.md]]
+- **Run 50 (2026-05-14 PM):** Apr 28 Inna CRM bug residue + Apr 28 moilapp.com SEO emergency + Apr 29 Buda EDC × GIS WebTech (held May 13) + May 1 TEDC keynote prep — all 14d+ stale; demoted to [[log.md]]
+- **Run 48 (2026-05-13 PM) + Run 44 (2026-05-11):** older Apr 30 Hays CISD + Apollo cleanup + Anita re-engage + John Costilla lunch + Victor UDC blocks demoted; see [[log.md]] for full chain back through Runs 38–40
 
 ---
 
@@ -190,11 +174,27 @@ Source: [[raw/email-digest-2026-05-01]]
 - [ ] **Sep 1, 2026** — Buda HIVE training program curriculum jointly with HIVE + Incubator Strategist Team
 - [ ] **Post-Apr 15** — CampaignOS with Jennifer Storm: circle back on MVP scope; Andres offered "little to no cost" — decide commitment level. [[wiki/concepts/campaignos]]
 
+## 💤 Deferred — auto-demoted by weekly compile (date label >14d)
+
+### Apr 30 — HIVE Cohort 4 first 1:1s landed + Cohort 4 PSA executed at in-person review (demoted Run 52, 15d)
+Source: [[wiki/meetings/2026-04-30-heather-skeen-coaching]], [[wiki/meetings/2026-04-30-carolina-coaching]], [[raw/email-digest-2026-04-30]]
+- [ ] **Andres:** Drop by [[wiki/people/carolina-caro|Caro's]] house in person — Austin Street behind [[wiki/orgs/meridian-buda|Meridian]]. Walk the floorplan in person to validate the women-coworking layout
+- [ ] **Andres:** Save [[wiki/people/heather-skeen|Heather Skeen]]'s HIPAA-compliant cell number (routes from office line to cell)
+- [ ] **Caro homework:** complete Moil 21 questions (signed up first month free during the call); interview 5–10 women from Cohort 4 to validate ICP and willingness to pay; map floorplan to revenue
+- [ ] **Heather homework:** research daycare PD requirements (12 domains, hours, certification cycle); research market rates for CEU providers in TX; package 3–4 program bundles at ~$1,000/yr per daycare; build 25-mile-radius daycare prospect list (postcard + 3-email sequence + call); attorney consult on "Providence Counseling and Therapy" name change (insurance-contract impact); fix the $500/3hr pricing for the NC fall engagement
+
+### Apr 29 — AI-spend observability emergency (May 4 partly resolved) (demoted Run 52, 16d)
+Source: [[raw/email-digest-2026-04-29]], [[wiki/people/adeleke-tolulope]], [[wiki/meetings/2026-05-04-monday-collaboration]]
+- [ ] **Adeleke / Andres:** Per-feature AI-spend accounting for OpenAI + Gemini before next billing cycle (the Saturday 5/2 Gemini spike was the weekly health-summary cron — fix landing via May 4 Flash-Lite + active-user-gate switch)
+
+### Apr 28 — Connectex go-live sprint (first payment now expected ~May 18) (demoted Run 52, 17d)
+Source: [[wiki/meetings/2026-04-28-mark-polanco-connectex-walkthrough]]
+- [ ] **Andres + Mark:** Squarespace push once Mark sends login; Resources/blog section; mid-May lunch; refile EDC reimbursement; Yealink LTE deck-station doc; BuiltFirst marketplace-billing block
+- [ ] **Taiwo + Eng:** Connectex repo to remote (no local-only — third surfacing); Gemini API key; Airtable contact import; finish Contacts tab; seed Knowledge Base for AI tier-1 ticket testing
+
 ## 🏗️ Strategic — no hard deadline
 
 - [ ] **Fantelo clarification** — pivot, separate venture, or sub-brand? Consumes engineering time w/ no documented strategy. [[wiki/concepts/fantelo]]
 - [ ] **GitHub org cleanup** — archive 6+ stale repos; dedupe BlueprintsForSuccess; consider `Moil-Clients` org
 - [ ] **Moil license case study** — public "City EDC × Moil" for decks + expansion (Queen Creek, Johns Creek, Greater Buda Chamber)
 - [ ] **Claude Code security audit** — what permissions does it have on this Mac Mini (SSH, AWS, `.env`)? Decide boundaries before autonomous skills
-
-<!-- Closed/Archive moved to log.md (see 2026-04-22 pruning block) -->
