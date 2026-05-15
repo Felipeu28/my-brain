@@ -1,6 +1,6 @@
 # MEMORY — Open Actions & Live Commitments
 
-**Last updated:** 2026-05-15 (Weekly compile Run 52 — priority-rot pass: 3 sections demoted from 🔥 Immediate → 💤 Deferred per >14d-old rule (Apr 30 HIVE Cohort-4 first 1:1s, Apr 29 AI-spend observability emergency, Apr 28 Connectex go-live sprint). No new ingests since Run 51 AM.) · **Run 51 (2026-05-15 AM):** 3 files: email-digest-2026-05-14 + signal-brief-2026-05-13 + signal-brief-2026-05-14. **Buda EDC 33-license expansion confirmed** (Jacquie 13:44 CDT) — invoice for 13 + 20 more = 33 total, check inbound; Andres clarified 23 already loaded + 10 to add. **John Costilla floated $3,500 contract** for Mac Decision Brief — Andres acked. **Adeleke silence anomaly now 7+ days** with three live escalations stacked (xAI re-forward, Anita's 2nd console-paste, Gemini 3.1 Flash Lite May-25 cutoff). **Anita Lansing sent a SECOND console-error paste 24h after the first** — paid-surface bug now in second-ping territory. **Heaviest single-day SMB cold load yet** from `andres@moilapp.com` (18 sends) on the **same day** Andres co-architected the FitLogic deliverability hedge — own-deliverability watch upgraded to action. **Helotes EDC nudge sent** (22d slip past target); if silent by ~May 21, escalate via Mayra channel. **Casey Earley requested Andres's bio** for Buda EDC use — pattern: EDC actively packaging Andres as a public-facing figure across 4 surfaces simultaneously.)
+**Last updated:** 2026-05-15 (Run 53 — `raw/teams-transcript-moil-marketing-team-call-2026-05-15.md` ingested. **First formal marketing reset on record** — Andres confronted Jacob + Ablad over flatlined results, paused content production until research-backed strategy lands, set Friday May 22 as first results-and-planning call. Jacob owns KPI tracking. Ablad's LinkedIn-SMB outreach assigned (previously mentioned, never executed). Hyperframes/Hai Jen reference re-flagged (~3 weeks unactioned). Spanish content regression named (was 20/wk, now 0). FitLogic same-day Taiwo probe queued — only blocker was one email address. Side-conversation risk: Jacob + Ablad defaulted back to Grok-summary research workflow within 30s of Andres' explicit preempt. New meeting: [[wiki/meetings/2026-05-15-moil-marketing-team-reset]].) · **Weekly compile Run 52 (2026-05-15):** 3 sections demoted from 🔥 Immediate → 💤 Deferred per >14d-old rule (Apr 30 HIVE Cohort-4 first 1:1s, Apr 29 AI-spend observability emergency, Apr 28 Connectex go-live sprint).
 **Run 50 (2026-05-14 PM):** 1 new Teams transcript — **Megan × Andres × Taiwo — GoDaddy delegate + Outlook migration session**. New meeting: [[wiki/meetings/2026-05-14-megan-taiwo-fitlogic-2fa-godaddy-session]]. Closed May 11 2FA wiring blocker + May 7 next-week in-person commitment (now Wed May 20 10 AM CT at FitLogic). First on-record articulation of the Moil-touches-customer-accounts security pattern. Two-domain architecture written down as standing pattern.
 **Run 49 (2026-05-14 AM):** email-digest-2026-05-13 + signal-brief-2026-05-13 ingested. **Perseus Defense YC recommendation submitted** (Jason Cornelius *"Rec. is in"*); Andres committed to looping Perseus in on any YC interview signal. Adeleke silence anomaly extends to 6 days. Monica Davidson intro for Jordan confirmed sent 17:57 CDT.
 **Run 48 (2026-05-13 PM):** 1 new Teams transcript — Jordan Kaiser × Andres Cohort-4 first 1:1. New page: [[wiki/people/jordan-kaiser]]. **Second independent surfacing of HIVE 1-yr Moil license precedent in 24 hours.** Silent ship documented: Moil now sends 3 proactive coaching emails/week to active business users.
@@ -14,6 +14,19 @@
 ---
 
 ## 🔥 Immediate — This Week (May 11 – May 17, 2026)
+
+### 🔥 May 15 — Moil marketing team reset (Friday cadence + KPI ownership + LinkedIn SMB outreach)
+Source: [[raw/teams-transcript-moil-marketing-team-call-2026-05-15]], [[wiki/meetings/2026-05-15-moil-marketing-team-reset]]
+- [ ] **🔥 Same-day 2026-05-15 — Jacob:** locate Taiwo, report back why **FitLogic** delivery is overdue (was due last week; only change required was one email address). Andres expects an answer right after his current meeting. Cross-ref to [[wiki/meetings/2026-05-14-megan-taiwo-fitlogic-2fa-godaddy-session|May 14 GoDaddy delegate session]] — 2FA/domain blocker closed; FitLogic feature ship still open
+- [ ] **🔥 2026-05-15 — Jacob:** confirm **Alloy Facebook access** status (no email seen from Facebook). If still blocked, Andres pulls existing Alloy images and posts by Monday 2026-05-18 himself (willing to work weekend)
+- [ ] **🔥 Before Fri 2026-05-22 — Jacob:** research + set up **KPI tracking** for Moil social (likes, comments, organic shares — team-generated shares don't count — manual invitations sent, conversion). Build the tracking process; first deliverable lands at the Friday results-and-planning call. **Owns the metrics surface end-to-end**
+- [ ] **🔥 Before Fri 2026-05-22 — Ablad:** 1–2 hour market research alongside Jacob. **Specifically follow through on the LinkedIn-to-SMB outreach mentioned in a prior meeting, never executed.** Study reference companies: Claude, ChatGPT, YC launch/demo videos, Motion (esp. hyperframes by Hai Jen — Andres' reference re-flagged ~3 weeks old)
+- [ ] **🔥 Before Fri 2026-05-22 — Jacob + Ablad joint:** build a **strategy *from* the research, not a research dump**. Deliver to Andres for review before any new content is produced. **Watch:** side conversation after Andres dropped — both defaulted to *"use Grok to identify peer AI companies"* within 30 seconds of Andres' explicit *"if anybody can tell you if it's ChatGPT, it'll be me"* preempt. Check May 22 deliverable for ICP-segmentation depth signal
+- [ ] **2026-05-18 — Andres:** pull existing Alloy images from his files; post by Monday; willing to work weekend if Alloy access doesn't land today
+- [ ] **Standing — new cadence:** Friday = Ablad delivers content for the *following* week; team reviews previous week's results; Sat/Sun revisions; posts go live Monday. Monday call stays focused on that week's delivery, not strategy. First Friday call: **2026-05-22**
+- [ ] **Standing — manual-outbound floor:** Jacob's **26–40 invitations/month** is the **floor** under the May 11 *"10 real DM conversations/day"* rule (~200/month if hit perfectly). If the manual loop works, Moil hires a dedicated person
+- [ ] **Open thread — Spanish content regression:** was ~20 posts/week, now 0. *"Someone made the decision and we just stopped."* Ablad to surface root cause as part of his research deliverable
+- [ ] **Capture (pattern):** today is the first **structured rebuild** of the marketing motion vs. the Apr 24 closure-threat or the May 11 per-person discipline rules. **Leading indicator:** depth of May 22 joint deliverable
 
 ### 🔥 May 14 — Email-digest items requiring action
 Source: [[raw/email-digest-2026-05-14]], [[raw/signal-briefs/signal-brief-2026-05-14]]
@@ -56,14 +69,14 @@ Source: [[wiki/meetings/2026-05-11-monday-collaboration]], [[wiki/orgs/perseus-d
 
 ### 🔥 May 11 — Monday Collaboration team rules (effective immediately)
 Source: [[wiki/meetings/2026-05-11-monday-collaboration]]
-- [ ] **🔥 Today — Andres:** pick up Buda EDC magazine (leaving 11 AM); take a clean photo of the 2-page Moil + HIVE spread; share with the team for Ablad to build content around. Pair with the Excellence in Innovation finalist news. *"a whole city is validating these guys — that is huge … more than any other piece of content we could ever create."*
-- [x] ~~**Andres:** reply to Inna's 8:33 AM email — apologize for missed May 8 video, clarify scope = 4 posts/week (2 images + 2 videos), decline 30-day cadence~~ ✅ Sent in-call (~1:00 transcript mark)
-- [ ] **🔥 Today — Andres:** text Megan to coordinate the **2FA code** for the new Moil-owned sales email so Taiwo can finish wiring GitHub + Vercel + GoDaddy
-- [ ] **This week — Taiwo:** migrate GitHub + Vercel access from his personal Gmail to the new Moil-owned sales email; document and share the new Supabase credentials so they're not siloed; notify Jacob once the new sales email is live for test sends
-- [ ] **Today — Jacob:** post Inna's missed Mother's Day video (uploaded May 1 for May 8); going forward deliver exactly the contracted **4 posts/week**, stop above-and-beyond on Inna's account
-- [ ] **Ongoing — Jacob:** **10 real DM conversations/day for Moil**, no copy-paste outreach. First time Andres has named a quantitative outbound target for Jacob; replaces the Apr 24 *"none of them really sell"* post-mortem
-- [ ] **Ongoing — Ablad:** plan weekly content list against the **holiday calendar** (Mother's Day was the trigger); **check Inna's Google Drive immediately** when she signals an upload (not later in the week); when an uploaded video doesn't fit the current week, email Inna to slide it — never silently skip
-- [ ] **🔥 This week — Team:** fix Ablad's chronic inability to sign into `Ablad@moilapp.com` on his phone (contact Microsoft if needed). Surfaced again May 11; long-unresolved
+- [x] ~~**Today — Andres:** pick up Buda EDC magazine; share with team for Ablad~~ ✅ Done May 11 (magazine in hand; 2-page Moil + HIVE spread re-surfaced as asset in May 15 reset)
+- [x] ~~**Andres:** reply to Inna's 8:33 AM email~~ ✅ Sent in-call (~1:00 transcript mark)
+- [x] ~~**🔥 Today — Andres:** text Megan to coordinate the **2FA code**~~ ✅ Closed May 14 — GoDaddy delegate granted at account level; see [[wiki/meetings/2026-05-14-megan-taiwo-fitlogic-2fa-godaddy-session]]
+- [x] ~~**Today — Jacob:** post Inna's missed Mother's Day video~~ ✅ Posted May 11 (per Jacob's May 12 apology thread)
+- [ ] **This week — Taiwo:** migrate GitHub + Vercel access to new Moil-owned sales email; document/share new Supabase credentials; notify Jacob once live for test sends. **(In-flight; FitLogic ship today is May 15 same-day Jacob probe per top-of-MEMORY)**
+- [ ] **Ongoing — Jacob:** **10 real DM conversations/day for Moil**, no copy-paste. May 15 marketing reset added **26–40 invitations/month floor**; daily cadence still applies
+- [ ] **Ongoing — Ablad:** plan weekly content list against **holiday calendar**; **check Inna's Google Drive immediately** when she signals an upload; if uploaded video doesn't fit current week, email Inna to slide it — never silently skip
+- [ ] **🔥 This week — Team:** fix Ablad's chronic inability to sign into `Ablad@moilapp.com` on his phone (contact Microsoft if needed). Long-unresolved; not re-mentioned May 15 — still likely open
 - [ ] **Watch — pay-the-team:** Mark Polanco first Connectex payment expected next week (~May 18); city contract payment delayed by city-lawyer redlining. As soon as either lands, Andres pays Jacob + Taiwo for both missed months
 
 ### 🔥 May 7 — Inbound M&A inquiry: Vision Point Capital (FIRST on-record)
@@ -115,15 +128,6 @@ Source: [[wiki/meetings/2026-05-06-andres-taiwo-ongoing-projects]]
 Source: [[wiki/meetings/2026-05-05-christy-mawdsley-discovery]], [[wiki/people/christy-mawdsley]]
 - [ ] **Andres:** 1:1 onboarding call once Christy completes Moil 21 questions; help her stand up a referral program (her highest-leverage move given word-of-mouth concentration). Watch for free-trial signup at moilab.com (Christymawdsley@gmail.com) + nudge if 21Q not started within 7 days. **First Roxana Yglesias outbound referral on record**
 
-### 🔥 May 4 — HIVE Cohort 4 1:1 cadence: 3 more locked (Christine+Kat, Claudia, Sarah meeting Tue May 12)
-Source: [[wiki/meetings/2026-05-04-christine-kat-coaching]], [[wiki/meetings/2026-05-04-claudia-sanchez-coaching]]
-- [ ] **🔥 Andres:** Possibly intro **Garrett** (downtown Buda business organizer) via Jacquie if [[wiki/people/christine-stjohn|Christine]] + [[wiki/people/kat-eyers|Kat]] move forward on the Train Depot
-- [ ] **Andres:** Send Claudia the **Kyle businesses list** (still TBD — promised during May 4 call)
-- [ ] **Andres:** Look up at least one Buda/Kyle realtor or women-entrepreneur networking event between now and May 21; offer to attend with [[wiki/people/claudia-sanchez|Claudia]]
-- [ ] **Andres:** Confirm whether Cohort-4 [[wiki/people/sarah-hive-cohort|Sarah]] (bookstore + wine) is the same person as the C2/C3 Sarah on the cohort-members page — Christine + Kat's **Tue May 12 meeting** with her is competitive recon; confirm before they go in
-- [ ] **Christine + Kat homework:** each fill out Moil 21 questions individually; build the plan around the Train Depot footprint; define rent budget; walk Main St Friday Sip & Stroll; ask [[wiki/people/jacquie-martinez|Jacquie]] tonight about Depot rent + downtown spaces under $4K/mo; reach distributors for ~5 free bottles each; ask Dane about Water To Wine custom-label service
-- [ ] **Claudia homework:** compute exact fixed monthly costs (Nativa); find 10 FB groups (8 Buda neighborhoods + Kyle business + women/realtor); 30-day 3–4 posts/week content plan (medical-credentials theme); flyer distribution **only** in 8 high-income neighborhoods; consent disclaimer on event sign-up; lower the 70 cap; "first 15 free consults" day-of flow; "first batch — never offered again" exclusivity bundle
-
 ### 🔥 May 4 — Monday Collaboration cost-discipline rule + product unification
 Source: [[wiki/meetings/2026-05-04-monday-collaboration]]
 - [ ] **🔥 Adeleke:** Switch weekly health-summary cron from Gemini 2.5 Pro → 2.5 Flash Lite + add active-user gate (skip users idle >7 days; send re-engagement email instead). Tag Andres in the chat with screenshot/cost comparison before pushing
@@ -135,12 +139,8 @@ Source: [[wiki/meetings/2026-05-04-monday-collaboration]]
 - [ ] **Andres:** Resolve credit-card issue blocking Groq/Gwen refills
 - [ ] **Standing:** Weekly Monday cost review (Gemini, OpenAI, Groq, Grok dashboards) is now a permanent agenda item
 
-### 🔥 May 1 — Outstanding non-keynote items
-Source: [[raw/email-digest-2026-05-01]]
-- [ ] **🔥 Andres:** Walk [[wiki/people/john-costilla|John Costilla]] through the video-creation workflow on his brand (offered May 1 after John's praise on *business-coach-95s*)
-- [ ] **Andres:** Run the [[wiki/people/marilyn-martinez|Marilyn Martinez]] / [[wiki/orgs/nuovo-entertainment|Nuovo]] Website Discussion call. Capture scope; decide site-only vs. Moil 360 conversion
-
 ### 🔥 Carried debts demoted to log.md
+- **Run 53 (2026-05-15):** May 1 outstanding non-keynote items (John video-workflow walkthrough; Marilyn/Nuovo discovery) + May 4 HIVE Cohort 4 1:1 cadence (Christine+Kat Train Depot + Claudia homework + Sarah recon) — 11–14d stale; tracked on [[wiki/people/christine-stjohn]], [[wiki/people/claudia-sanchez]], [[wiki/people/sarah-hive-cohort]], [[wiki/people/john-costilla]], [[wiki/people/marilyn-martinez]]; demoted to [[log.md]]
 - **Run 52 (2026-05-15 weekly compile):** Apr 30 HIVE Cohort 4 first 1:1s + Apr 29 AI-spend observability emergency + Apr 28 Connectex go-live sprint — all 15d+ past their date label; moved to 💤 Deferred auto-demoted subsection (still actionable, just no longer "this week")
 - **Run 51 (2026-05-15):** Apr 29 NBCC + west-coast SMB conversion-lane block + Apr 29 FitLogic delivered P0 bug list — both 16d+ stale; tracked via [[wiki/projects/fitlogic]], [[wiki/concepts/ai-cold-outreach]], [[wiki/moil/gtm]]; demoted to [[log.md]]
 - **Run 50 (2026-05-14 PM):** Apr 28 Inna CRM bug residue + Apr 28 moilapp.com SEO emergency + Apr 29 Buda EDC × GIS WebTech (held May 13) + May 1 TEDC keynote prep — all 14d+ stale; demoted to [[log.md]]

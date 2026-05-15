@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-05-14
+last_contact: 2026-05-15
 tags:
   - graph/hub
   - person/team
@@ -8,8 +8,8 @@ tags:
 # Jacob Oluwole
 
 **Type:** person
-**Last updated:** 2026-05-14
-**Source:** `raw/meetings/` (multiple meeting transcripts), [[raw/email-history-2months-2026-04-12]], [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026), [[raw/teams-2026-04-24]] (39 messages 1:1, Apr 24), [[raw/email-digest-2026-04-27]], [[raw/teams-transcript-website-update-review-call-2026-04-28]], [[raw/email-digest-2026-05-11]], [[raw/email-digest-2026-05-12]], [[raw/email-digest-2026-05-13]], [[raw/email-digest-2026-05-14]], [[raw/signal-briefs/signal-brief-2026-05-14]]
+**Last updated:** 2026-05-15
+**Source:** `raw/meetings/` (multiple meeting transcripts), [[raw/email-history-2months-2026-04-12]], [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026), [[raw/teams-2026-04-24]] (39 messages 1:1, Apr 24), [[raw/email-digest-2026-04-27]], [[raw/teams-transcript-website-update-review-call-2026-04-28]], [[raw/email-digest-2026-05-11]], [[raw/email-digest-2026-05-12]], [[raw/email-digest-2026-05-13]], [[raw/email-digest-2026-05-14]], [[raw/signal-briefs/signal-brief-2026-05-14]], [[raw/teams-transcript-moil-marketing-team-call-2026-05-15]]
 **Related:** [[wiki/moil/positioning]], [[wiki/people/adeleke-tolulope]], [[wiki/people/abiodun-solomon]], [[wiki/people/taiwo-ola-balogun]]
 
 ---
@@ -218,6 +218,16 @@ Source: [[raw/email-digest-2026-05-14]], [[raw/signal-briefs/signal-brief-2026-0
 - **11:24 CDT — License-assignment outbound** *"Your One-Year Moil Business Coach License"* delivered to a new "Get Right Get Tight" customer. Continues the auto-assign / direct-license-grant ops Jacob has been owning since Apr 21
 - **14:35 CDT — Inbound *"Re: Jungle Flavorz Website"*** following up with [[wiki/people/linda-horuke|Linda]] on **business email access and next steps** — mid-flight delivery on the May 13 EOW (May 16/17) commitment. **Watch:** the named delivery deadline still applies; this is the in-flight check, not the ship
 - **Active-person flag (signal-brief-2026-05-14):** Jacob surfaced in **both inbox (Linda) and outbound (GRGT license)** *and* the Anita Lansing console-error forwarded thread is part of his customer-service surface. Pattern read: **Jacob is operating as the customer-facing closer this week** while Taiwo is heads-down on FitLogic migration. Andres should confirm the **May 11 "10 real DM conversations/day for Moil"** target is being hit *alongside* the reactive customer-service threads, not displaced by them. Reactive volume can crowd out proactive outbound — first time the daily-correlator has framed this risk
+
+## May 15, 2026 — Marketing team reset (KPI ownership + 26–40 manual invites/month)
+
+Source: [[raw/teams-transcript-moil-marketing-team-call-2026-05-15]], [[wiki/meetings/2026-05-15-moil-marketing-team-reset]]
+
+- **KPI tracking process ownership.** Andres assigned Jacob to research and set up tracking for likes / comments / organic shares / **manual invitations sent**. Team-generated shares don't count. Deliverable before Fri May 22.
+- **26–40 manual outbound invitations/month target restated.** Softer baseline framing of the May 11 *"10 real DM conversations/day for Moil"* rule. If the manual loop works, Moil hires a dedicated person. **This is the floor, not the ceiling** — 10/day cadence still applies; 26–40/month is the conservative floor.
+- **Same-day FitLogic probe.** Andres asked Jacob to locate Taiwo immediately after the call and report back why FitLogic delivery is overdue — only change required was one email address; due last week. Direct cross-ref to [[wiki/meetings/2026-05-14-megan-taiwo-fitlogic-2fa-godaddy-session|May 14 GoDaddy delegate session]] — Andres' frustration is the gap between the May 14 session closing the 2FA / domain blocker and the FitLogic feature delivery still being unshipped.
+- **Alloy access escalation.** Jacob to confirm whether Alloy granted Facebook access — no email from Facebook seen yet; Andres needs to post by Monday 2026-05-18 and committed to pulling existing Alloy images himself + working the weekend if access doesn't land today.
+- **Joint research-first deliverable with Ablad.** Strategy *from* the research (not a research dump). Andres review before any new content produced. **Side-conversation risk after Andres dropped:** Jacob proposed using Grok to identify peer AI companies — exactly the LLM-summary workflow Andres preempted on the call (*"Trust me, if anybody can tell you if it's ChatGPT, it'll be me"*). Watch the May 22 deliverable for depth signal vs. another Grok summary.
 
 ## Gaps
 

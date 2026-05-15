@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-05-11
+last_contact: 2026-05-15
 tags:
   - graph/spoke
   - person/team
@@ -8,8 +8,8 @@ tags:
 # Abiodun Adekanmi (Ablad)
 
 **Type:** person
-**Last updated:** 2026-05-11
-**Source:** `raw/meetings/` (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-24]] (38 messages in Moil Marketing, Apr 24), [[raw/teams-2026-04-26]] (12 messages in Moil Marketing, Apr 26)
+**Last updated:** 2026-05-15
+**Source:** `raw/meetings/` (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-24]] (38 messages in Moil Marketing, Apr 24), [[raw/teams-2026-04-26]] (12 messages in Moil Marketing, Apr 26), [[raw/teams-transcript-moil-marketing-team-call-2026-05-15]]
 **Related:** [[wiki/people/jacob-oluwole]], [[wiki/moil/positioning]], [[wiki/people/inna-benyukhis]]
 
 > **Name correction:** Teams profile shows "Abiodun Adekanmi" — previous meeting transcripts referenced "Abiodun Solomon." The Teams name is authoritative. "Ablad" remains team nickname.
@@ -162,6 +162,20 @@ Source: [[raw/teams-transcript-monday-collaboration-2026-05-11]], [[wiki/meeting
 - **Long-running phone-login blocker named again.** Ablad has been unable to sign into `Ablad@moilapp.com` on his phone for an extended period — *"Yes, it's been very, very long. We attempted a number of times."* Andres assigned the team to contact Microsoft this week if needed. This is the third surfacing of this blocker; track as a hard owner-this-week item.
 - **Buda EDC magazine = primary marketing asset for the week.** Andres delivers a clean photographed copy today (May 11); Ablad to build content around the **2-page Moil + HIVE spread** (15K distribution) plus the **Excellence in Innovation finalist** news. Andres' framing: *"a whole city is validating these guys — that is huge … more than any other piece of content we could ever create."* See [[wiki/orgs/buda-edc]] for context.
 - **Inna missed-video post-mortem.** Ablad's account: he refreshed Inna's drive Monday/Tuesday/Wednesday before building the week's content; Inna then reorganized the folder, which is when the May 8 Mother's Day video (uploaded May 1) appeared. Pattern: drive reorg cadence ≠ content-build cadence — fix is the immediate-check rule above.
+
+## May 15, 2026 — Marketing reset call: research-first, hyperframes reference re-flagged, LinkedIn-SMB outreach assigned
+
+Source: [[raw/teams-transcript-moil-marketing-team-call-2026-05-15]], [[wiki/meetings/2026-05-15-moil-marketing-team-reset]]
+
+> **Transcript-name disambiguation:** the auto-pulled WEBVTT transcript renders Ablad as *"Adeleke" / "Ablad" / "Avlad"* throughout. All "Adeleke" references in this meeting are Ablad (content designer), not [[wiki/people/adeleke-tolulope|Steve/Adeleke (engineer)]].
+
+- **Content production paused** until baseline market research is delivered. Andres' framing: *"If we don't know the symptoms, we can't prescribe the medication."* Same separation Andres has held since Apr 24 — craft quality is good (*"it's beautiful, it's great"*); the gap is **targeting and intent, not craft**.
+- **1–2 hour market research assignment** alongside Jacob. **Specifically: follow through on LinkedIn outreach to small businesses** — mentioned in a prior meeting, never executed. Ablad to deliver a joint strategy with Jacob *from* the research (not a research dump) for Andres review before any new content is produced.
+- **Hyperframes / Hai Jen reference re-flagged.** Andres pointed out the reference he sent Ablad *"a couple weeks ago"* — still not acted on. Continues the [[wiki/people/abiodun-solomon|Apr 24 AI-adoption clash]] pattern: Andres recommends a specific AI workflow, Ablad doesn't pick it up, reference goes stale. **Pattern is now ~3+ weeks old on the same reference.**
+- **New Friday cadence — Ablad delivers content for the *following* week on Friday.** Team reviews previous week's results Friday; revisions Sat/Sun; posts go live Monday. **First Friday call: 2026-05-22.** Replaces the prior ambiguous Monday/Friday rhythm — the Apr 13 "Friday-readiness goal," the Apr 18 "fees vs content" rhythm miscommunication, and the Apr 20 Tuesday-push / Sunday-review cadence all roll into this single Friday cadence rule.
+- **Spanish content cadence regression named.** Andres flagged that Moil used to publish ~20 Spanish posts/week and *"someone made the decision and we just stopped."* He wants to know what changed. **First time the Spanish-content drop has been named in a marketing review** — open thread for Ablad to surface root cause.
+- **Reference companies to study**: Claude, ChatGPT, Y Combinator launch/demo videos, Motion. Claude uses hyperframes for promo videos — Andres flagged this is exactly the workflow he sent Ablad weeks ago.
+- **Side-conversation risk (after Andres dropped):** Ablad asked Jacob *"where do we start?"*; Jacob proposed Grok for peer-AI-company research. Default-back to LLM-summary workflow within 30 seconds of Andres' explicit *"if anybody can tell you if it's ChatGPT, it'll be me"* preempt. Watch the May 22 deliverable for depth signal.
 
 ## Gaps
 

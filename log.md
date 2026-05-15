@@ -4,6 +4,50 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ---
 
+## 2026-05-15 (PM) — Run 53: teams-transcript-moil-marketing-team-call-2026-05-15
+
+**Trigger:** KB-agent scan for unprocessed raw files. One found: `raw/teams-transcript-moil-marketing-team-call-2026-05-15.md` (Teams transcript, ~36 min, 14:00 UTC / 9:00 AM CT, Andres + Jacob + Ablad).
+
+**Files processed (1):**
+- `raw/teams-transcript-moil-marketing-team-call-2026-05-15.md` (6,285 bytes) — MOIL MARKETING TEAM CALL transcript pulled via `m365` Graph API; WEBVTT 717 lines. Frontmatter marked `ingested: true` / `ingested_at: 2026-05-15`.
+
+**Pages created (1):**
+- [[wiki/meetings/2026-05-15-moil-marketing-team-reset]] — full meeting page with context, key decisions, action items, side-conversation risk, cross-page impact, transcript-name disambiguation note (the auto-pulled WEBVTT renders Ablad as "Adeleke"/"Ablad"/"Avlad" — the "Adeleke" mentions in this transcript are Ablad/content designer, NOT [[wiki/people/adeleke-tolulope|Steve/engineer]]).
+
+**Pages updated (3):**
+- [[wiki/people/jacob-oluwole]] — added May 15 marketing-reset section (KPI tracking process ownership, 26–40 manual invites/month floor, same-day FitLogic probe, Alloy access escalation, joint research deliverable with Ablad + side-conversation Grok-default risk). `last_updated: 2026-05-14 → 2026-05-15`; source list expanded.
+- [[wiki/people/abiodun-solomon]] — added May 15 section (1–2h market research assignment, LinkedIn-SMB outreach previously mentioned/never executed, hyperframes Hai Jen reference re-flagged ~3wks unactioned, new Friday content cadence, Spanish content regression named, side-conversation risk). `last_updated: 2026-05-11 → 2026-05-15`; source list expanded. Includes transcript-name disambiguation note at the top of the section.
+- [[MEMORY]] — added "🔥 May 15 — Moil marketing team reset" block at top of Immediate with 10 new action items; struck four completed May 11 Monday Collaboration items (Buda EDC magazine pickup ✅; 2FA coordination ✅ closed May 14; Inna Mother's Day video posting ✅ May 11; Inna 8:33 AM reply ✅ in-call). Demoted May 1 outstanding non-keynote items + May 4 HIVE Cohort 4 1:1 cadence (8 lines) to log.md under "Carried debts demoted." MEMORY back to 200-line cap.
+- [[index]] — Run 53 header replacing Run 51; Run 51 demoted to "Previous run header"; total wiki count 319 → 320; meetings count 77 → 78; raw count 557 → 558.
+
+**Skipped:** None. Only one new raw file in this scan.
+
+**Key intelligence (Run 53):**
+
+1. **First formal Moil marketing reset on record.** Andres confronted Jacob + Ablad over flatlined results: same content cadence for months, no sales attribution, no following growth, no Spanish content (was ~20 posts/week, now 0). Framed the team as *"the bottleneck."* This is the structured rebuild — not another escalation. The Apr 24 *"this close to closing our full marketing department"* (1:1 to Jacob) and the 38-message AI-adoption clash with Ablad were the precursor threats; today's call moves the conversation to **org-level cadence + KPI + research-first decision-making**. **Pattern progression:** threat (Apr 24) → per-person discipline rules (May 11: 10 DM/day, Inna scope reset) → org cadence rebuild (May 15).
+
+2. **New Friday weekly cadence — Ablad delivers content for the *following* week on Friday.** Team reviews previous-week results Friday; revisions Sat/Sun; posts go live Monday. Monday call stays focused on that week's delivery, not strategy. **First Friday call: 2026-05-22.** Replaces the prior ambiguous Monday/Friday rhythm — Apr 13 "Friday-readiness goal," Apr 18 "fees vs content" rhythm miscommunication, Apr 20 Tuesday-push / Sunday-review cadence all roll into this single Friday cadence rule. **Cadence converges on a single source of truth for the first time.**
+
+3. **Jacob owns KPI tracking end-to-end.** Likes / comments / **organic shares** (team-generated shares don't count) / **manual invitations sent** / conversion. Build the tracking process before Fri May 22. First time KPI-surface ownership has been named as a discrete deliverable — prior conversations always framed metrics as "we should measure" without an owner.
+
+4. **Manual outbound floor: 26–40 invitations/month.** This is the **floor** under the May 11 *"10 real DM conversations/day"* rule (~200/month if hit perfectly). If the manual loop works, Moil hires a dedicated person. Two-tier outbound discipline now on record: daily cadence (10/day, May 11) + monthly floor (26–40/month, May 15). The floor framing is the hire-trigger surface — quantitative bar Andres can measure before committing headcount.
+
+5. **Ablad's LinkedIn-SMB outreach assigned again — "previously mentioned, never executed."** First time this specific gap has been named in MEMORY as a discrete owed deliverable. Continues the Apr 24 AI-adoption clash pattern: Andres recommends a specific workflow, Ablad doesn't pick it up. **The reference itself is being inventoried now** — first explicit listing of unactioned references.
+
+6. **Hyperframes / Hai Jen reference re-flagged at ~3 weeks unactioned.** Andres specifically called out the reference he sent Ablad *"a couple weeks ago"* — Claude itself uses hyperframes for promo videos. Same pattern as the Apr 24 HeyGen tools-fit dispute, now externalized to a tool Andres explicitly admires. **The reference is the asset; the gap is uptake speed.** Mar to May 2026 cadence: Andres surfaces AI workflow → Ablad doesn't pick up → reference goes stale → Andres re-surfaces with frustration.
+
+7. **Spanish content cadence regression named — was ~20/week, now 0.** *"Someone made the decision and we just stopped."* Ablad to surface root cause as part of his research deliverable. **First time the Spanish-content drop has been named in a marketing review.** Worth tracking because: (a) Moil's Latino-network surface is deepening (Marilyn Martinez / Nuovo, Christy Mawdsley, Roxana Yglesias, Helotes EDC), and (b) Spanish content was a known competitive differentiator vs. English-only AI-SMB tools.
+
+8. **FitLogic blocker re-surfaced — only change required was one email address.** Cross-ref to [[wiki/meetings/2026-05-14-megan-taiwo-fitlogic-2fa-godaddy-session|May 14 GoDaddy delegate session]]: the May 14 working session closed the 2FA/domain blocker so Taiwo could ship; the May 15 morning frustration is that the FitLogic feature delivery is *still* not shipped a day later. Same-day probe (Jacob → Taiwo today) is the immediate unblock. **Pattern:** the bottleneck is consistently in the last-mile push to production, not the upstream work.
+
+9. **Side-conversation risk after Andres dropped (high-signal).** Ablad asked Jacob *"where do we start?"*; Jacob proposed using **Grok to identify peer AI companies** — exactly the LLM-summary workflow Andres explicitly preempted on the call (*"Trust me, if anybody can tell you if it's ChatGPT, it'll be me. Make sure you understand what you're sending my way."*). **Both team members defaulted back to the LLM-summary workflow within 30 seconds of the explicit preempt.** This is the **leading indicator to watch on the May 22 deliverable** — if it shows first-principles ICP segmentation, the reset took. If it's a Grok summary, the gap is **work definition**, not work output, and the May 22 call needs another round.
+
+10. **Andres separates craft from go-to-market alignment (again).** On Ablad specifically: design quality is good (*"I like the content that we create… it's beautiful, it's great"*) — the gap is **targeting and intent, not craft**. Continues the Apr 24 framing. This separation matters because it's a **stable rhetorical posture** — Andres is *not* asking Ablad to make better-looking content; he's asking him to make content that converts. The separation gives Ablad a clean improvement direction without invalidating his portfolio.
+
+**Summary:** Run 53 processed a single Teams transcript (Moil marketing team call) that captures the first formal marketing reset on record. Three pillars: (1) Friday-cadence consolidation; (2) Jacob owns KPI tracking; (3) Ablad owns LinkedIn-SMB outreach + first-principles research. **Leading indicator:** depth of the May 22 joint Jacob + Ablad deliverable. The side conversation immediately after Andres dropped suggests the team may default to a Grok-summary workflow — Andres preempted this explicitly, but the prediction held within 30 seconds. New meeting page: [[wiki/meetings/2026-05-15-moil-marketing-team-reset]]. Two existing pages updated (Jacob, Ablad). MEMORY back to 200-line cap after striking four completed May 11 items and demoting May 1 + May 4 HIVE Cohort 4 stale blocks.
+
+---
+
 ## 2026-05-15 — Run 51: email-digest-2026-05-14 + signal-brief-2026-05-13 + signal-brief-2026-05-14
 
 **Trigger:** KB-agent scan for unprocessed raw files. Three found: `raw/email-digest-2026-05-14.md` (mirror at `quartz/content/raw/`), `quartz/content/raw/signal-briefs/signal-brief-2026-05-13.md`, `quartz/content/raw/signal-briefs/signal-brief-2026-05-14.md`.
