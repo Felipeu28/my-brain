@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-05-14
+last_contact: 2026-05-15
 tags:
   - graph/hub
   - person/personal
@@ -8,8 +8,8 @@ tags:
 # John Costilla
 
 **Type:** person
-**Last updated:** 2026-05-14
-**Source:** [[raw/imessages-people-2026-04-09]], [[raw/email-history-2months-2026-04-12.md]], [[raw/email-digest-2026-04-15]], [[raw/email-digest-2026-04-16]], [[raw/email-digest-2026-04-27]], [[raw/email-digest-2026-04-28]], [[raw/email-digest-2026-04-29]], [[raw/email-digest-2026-05-01]], [[raw/email-digest-2026-05-13]], [[raw/email-digest-2026-05-14]]
+**Last updated:** 2026-05-15
+**Source:** [[raw/imessages-people-2026-04-09]], [[raw/email-history-2months-2026-04-12.md]], [[raw/email-digest-2026-04-15]], [[raw/email-digest-2026-04-16]], [[raw/email-digest-2026-04-27]], [[raw/email-digest-2026-04-28]], [[raw/email-digest-2026-04-29]], [[raw/email-digest-2026-05-01]], [[raw/email-digest-2026-05-13]], [[raw/email-digest-2026-05-14]], [[raw/email-digest-2026-05-15]]
 **Related:** [[wiki/moil/positioning]], [[wiki/orgs/buda-edc]], [[wiki/concepts/buda-hive]], [[wiki/people/joseph-arnke]]
 
 ---
@@ -74,6 +74,16 @@ Source: [[raw/email-digest-2026-05-14]]
 - **13:08 CDT — John replied on the *"Re: Mac Decision Brief"* thread asking *"You think we can do a contract for 3500?"*** — first explicit budget anchor on the EDC-funded Mac purchase. Implies $3,500 contract structure (not single-machine SKU); confirms John is the buyer-side counterparty and Andres is the spec-and-deliver side
 - **14:43 CDT — Andres ack** *"Just seeing this, yes sir! :-)"* — short confirm; **active pricing negotiation open** at $3,500. Watch for the formal SoW/contract draft as the next artifact in the thread
 - **14:02 CDT — Andres accepted *"John's Bday Lunch"* Teams invite** organized by John. Personal-channel touch on the same business day as the Mac contract pricing → continues the pattern from the May 1 *business-coach-95s* praise thread of John pulling Andres into both EDC-side commercial work and personal-friend-side moments in parallel
+
+## May 15 — Mac Decision Brief: John asks for a call to align on the consulting piece
+
+Source: [[raw/email-digest-2026-05-15]]
+
+- **11:26 CDT — Andres replied** on the *"Re: Mac Decision Brief"* thread: *"Please let me know if this works or we need to add more."* Direct response to John's May 14 13:08 CDT *"You think we can do a contract for 3500?"* question — Andres pushing for written sign-off on the $3,500 contract structure
+- **13:23 CDT — John replied:** *"Let's talk when you get a moment — close, just need to align on consulting piece."* **First explicit gating signal that consulting scope (not hardware) is the open variable.** John is comfortable with the $3,500 amount but wants a phone-level alignment on what *consulting* is bundled in — implies the contract is hardware + bundled hours of Andres's time, not just a spec-sheet purchase
+- **14:02 CDT (May 14 carryover) — Andres accepted "John's Bday Lunch"** — personal-channel touch lands same week as the Mac contract close
+
+**Open action (carried into MEMORY):** Andres needs to draft a one-pager SoW (hardware spec + consulting bundle) before the call so the *"align on consulting piece"* call has a concrete artifact to work against, not just a verbal scope. Andres's May 14 ack already committed to *"yes sir!"* on $3,500 — paper next.
 
 ## May 1 — business-coach-95s praise + co-marketing offer
 

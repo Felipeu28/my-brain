@@ -22,7 +22,7 @@ Bilingual voice-first kids AI companion with persistent memory ("brain graph"), 
 ## Last 7 days
 
 <!-- AUTO: bin/project-activity.sh updates this section daily. Do not edit by hand. -->
-_Updated: 2026-05-15 08:00 (window: 2026-05-08 → 2026-05-15)_
+_Updated: 2026-05-16 08:00 (window: 2026-05-09 → 2026-05-16)_
 
 **Commits (10):**
 - 2026-05-11 fix(brain/lint): make destructive removals opt-in + capped + logged (#84)
@@ -47,10 +47,9 @@ _Updated: 2026-05-15 08:00 (window: 2026-05-08 → 2026-05-15)_
 - 2026-05-09 — <command-message>autoplan</command-message>
 - 2026-05-09 — Ship Phase 1 + start Phase 2–5
 - 2026-05-10 — Bilingual Claim Audit & Implementation Plan
-**Mentions in meetings + raw (5):**
+**Mentions in meetings + raw (4):**
 - [[wiki/meetings/2026-05-11-monday-collaboration]]
 - [[wiki/meetings/2026-05-13-jordan-andres-1-1]]
-- [[raw/email-digest-2026-05-07]]
 - [[raw/teams-transcript-jordan-andres-1-1-2026-05-13]]
 - [[raw/weekly-sessions-2026-05-10]]
 

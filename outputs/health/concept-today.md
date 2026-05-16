@@ -1,6 +1,6 @@
-## Concept of the day — [[wiki/concepts/moil360|Moil360]]
+## Concept of the day — [[wiki/concepts/content360|Content360 (deprecated → Moil360)]]
 
-_Last touched: 2026-04-14_  •  _Type: concept (canonical product name)_
+_Last touched: 2026-04-14_  •  _Type: deprecated alias_
 
 > (no summary extracted — open the page)
 

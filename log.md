@@ -4,6 +4,49 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ---
 
+## 2026-05-16 — Run 54: email-digest-2026-05-15
+
+**Trigger:** KB-agent scan for unprocessed raw files. One found: `raw/email-digest-2026-05-15.md` (committed 2026-05-15 18:31 by `email-digest` launchd job — 24-hour window 2026-05-14 → 2026-05-15; 11 received / 23 sent across 26 active contacts).
+
+**Files processed (1):**
+- `raw/email-digest-2026-05-15.md` (8,183 bytes) — daily inbox + sent digest. Frontmatter marked `ingested: true` / `ingested_at: 2026-05-16`.
+
+**Pages updated (8):**
+- [[wiki/people/joshua-edmond]] — **HIVE Strategist Agreement SIGNED + RETURNED** May 15 17:37 CDT. Closes the multi-week PSA/SoW loop (Apr 21 → May 6 → May 11 lunch → May 13 reaffirm → **May 15 signed**). Sequence appended; `last_contact: 2026-05-13 → 2026-05-15`; source list expanded
+- [[wiki/people/shannon-cameron]] — first explicit on-record reconciliation role (GL/insurance questions resolved within an hour on the same day Joshua signed). Status warm → active; `last_contact: 2026-05-04 → 2026-05-15`; source list expanded
+- [[wiki/people/john-costilla]] — May 15 Mac Decision Brief update: John replied *"let's talk … close, just need to align on consulting piece"* (13:23 CDT). **Consulting scope, not hardware, is the open variable.** Andres needs SoW + consulting bundle draft before the call. `last_updated: 2026-05-14 → 2026-05-15`; source list expanded
+- [[wiki/people/becky-torres]] — Becky picked **Tue May 26** on the *Re: Website follow up* thread after the May 12 in-person/Teams two-slot proposal. **First time she named a specific date** on this thread — process-confusion (May 6) appears resolved by acceptance of the in-person frame. Format (in-person vs. Teams) still implicit. `last_contact: 2026-05-12 → 2026-05-15`; source list expanded
+- [[wiki/people/megan-miller]] — accepted *"Megan & Andres in person @ Wed May 20 10am"* at 09:26 CDT — calendar lock on the FitLogic in-person walkthrough. Resolved the May 14 duplicate-invite-question MEMORY watch (same single touchpoint, not a second one). `last_contact: 2026-05-14 → 2026-05-15`; source list expanded
+- [[wiki/people/monica-davidson]] — Chamber-side warm-intro **confirmed within 48h** of Andres's May 13 17:57 CDT intro. Monica: *"happy to help, today or Monday?"* 10:24 CDT. Andres acked 17:19 CDT. **First end-to-end validation of the Chamber-as-cohort-warm-intro pipeline if Jordan books a slot.** `last_contact: 2026-05-14 → 2026-05-15`; source list expanded
+- [[wiki/people/roxana-yglesias]] — May 15 onboarding two-gym Meta Business Suite (FB) — Roxana hands-on on the social-platform plumbing side. New external contact surfaced: **Shanonn Thompson** (`shanonn@teamalloy.com`) — AlloyATX FB/ops staff. Routed through Roxana's page until a second touchpoint warrants promotion. `last_contact: 2026-05-05 → 2026-05-15`; source list expanded
+- [[wiki/projects/buda-edc-hive]] — Recent decisions block now headlines the May 15 HIVE Strategist Agreement signed + May 14 33-license expansion (**two parallel revenue surfaces landing the same week**). Open-questions list: PSA countersign item flipped from open → ✅ closed. `last_updated: 2026-05-03 → 2026-05-15`
+
+**MEMORY.md updates (Run 54):**
+- Top-of-file: bumped to 2026-05-16 with Run 54 headline (HIVE Strategist signed, Becky May 26 picked, Megan May 20 accepted, Monica/Jordan intro confirmed in 48h, John "let's talk" → SoW-draft action shift)
+- 🔥 May 14 block: John Costilla line rewritten from *"named-amount commitment still open"* → *"draft SoW (hardware spec + consulting bundle) before scheduling the call"* — reflects the May 15 13:23 CDT scope-shift signal
+- 🔥 May 14 block: Joshua revised SoW review struck through ✅ Closed May 15 (signed agreement returned)
+- 🔥 May 14 block: Megan duplicate-invite watch struck through ✅ Resolved May 15 (same single calendar slot)
+- 🔥 May 14 block: Added **Tue May 26 — Becky × Andres SIREN follow-up** (locked); confirm in-person format in Andres's accept; no proactive design changes in 11-day window
+- 🔥 May 14 block: Added **Monica × Jordan intro outcome watch** (Chamber-as-cohort-warm-intro pipeline first validation)
+- May 11 Monday Collaboration block: collapsed 4 completed ✅ items into a single line (line-cap discipline; intel preserved in source meeting page)
+- Final line count: **199 / 200 cap** ✅
+
+**Key intelligence (Run 54):**
+1. **🎉 HIVE Strategist Agreement SIGNED + RETURNED** by Andres 2026-05-15 17:37 CDT. **First major contract closure on the Buda EDC commercial surface in 2026.** Joshua signed 16:32 after Shannon reconciled his 16:21 GL/insurance questions same-hour. Next round-trip artifact: Buda EDC countersign (Jennifer / Board). The multi-week PSA/SoW loop (Apr 21 Shannon-forwarded PSAs → Apr 24 Joshua redline → Apr 30 Jacquie issues PSA → May 5 Casey accepts SoW invite → May 6 Joshua revised SoW → May 11 in-person lunch → May 13 Jacquie reaffirm → **May 15 signed**) is closed on Moil's side.
+2. **Two parallel Buda EDC revenue surfaces landing the same week** — HIVE Strategist Agreement signed May 15 + Jacquie's 33-license expansion confirmed May 14 (check being processed). Both contracts moving from "in flight" to "executed" inside a 24-hour band. Worth packaging as a single revenue moment for any internal/external narrative.
+3. **John Costilla's Mac Decision Brief: scope-shift from price → consulting bundle.** John replied *"close, just need to align on consulting piece"* — first explicit signal that **consulting hours, not hardware, is the open variable**. Andres needs a one-pager SoW (hardware spec + bundled hours) before the call John asked for, not just a calendar invite. Pattern: John pulling Andres into both EDC-side commercial work and personal-friend-side moments in parallel (May 14 Bday Lunch accept lands same week).
+4. **Becky picked Tue May 26 — process-confusion resolved.** First time on this thread Becky named a specific date (not re-asked the cadence question). The May 12 in-person/Teams two-slot frame landed; she just needed a real date once the "is this a call or in-person?" confusion was answered. 11-day prep window — no proactive design changes per the May 6 standing rule. Format still implicit; confirm in-person at SIREN in Andres's accept reply.
+5. **Chamber-as-cohort-warm-intro pipeline first validation.** Monica Davidson took Andres's May 13 Jordan Kaiser intro within 48 hours with *"happy to help, today or Monday?"* — **fastest Chamber-to-cohort-member intro response on record.** If Jordan books a slot, this becomes the first end-to-end proof point for routing cohort-side ICP-access asks through the Chamber. Replicable for other Cohort 4 members.
+6. **Megan May 20 in-person calendar-locked** — accept removes the only ambiguity from the May 14 GoDaddy session (was the "Megan & Andres in person" Teams invite a duplicate or a separate touchpoint?). Single calendar slot, confirmed; deliverable countdown from the May 14 session stays intact (Andres sends Megan access today → Megan + Michelle test Mon–Tue → in-person walkthrough Wed).
+7. **New external contact: Shanonn Thompson** (`shanonn@teamalloy.com`) — AlloyATX staff handling Meta Business Suite access for Roxana's two-gym onboarding. Logged on Roxana's page only; promotes to a standalone wiki page on second touchpoint.
+8. **Content 360 cold-outreach campaign expansion** — 13 fresh SMB prospects on May 14 morning (Mann/Pieroth/Guha/Reicher/Mensch/Goode/Lorensen/Fennell/Justice/Antenora/Balfour/Lucy + James Mensch landscaping case story). All already captured in the May 14 digest ingest (Run 51); the May 15 digest is the 24-hour-window mirror. **Heaviest sustained SMB cold-outbound week on record** — pair with the MEMORY *"Moil-owned outbound-only domain"* hedge that's been pending since May 14.
+
+**Sync step:** `bash scripts/sync_wiki.sh`. **Health step:** `python3 scripts/kb-health.py --fix-index`.
+
+**Summary:** One file ingested. The headline is **HIVE Strategist Agreement signed and returned** — the multi-week Buda EDC PSA/SoW loop closes on Moil's side, awaiting countersign. Six people pages + one project page updated. MEMORY.md now headlines the closure and adds two new active watches (Becky May 26, Monica × Jordan outcome) while trimming completed items to stay at 199/200 lines. No new wiki pages created; existing graph absorbed the May 15 activity cleanly.
+
+---
+
 ## 2026-05-15 (PM) — Run 53: teams-transcript-moil-marketing-team-call-2026-05-15
 
 **Trigger:** KB-agent scan for unprocessed raw files. One found: `raw/teams-transcript-moil-marketing-team-call-2026-05-15.md` (Teams transcript, ~36 min, 14:00 UTC / 9:00 AM CT, Andres + Jacob + Ablad).

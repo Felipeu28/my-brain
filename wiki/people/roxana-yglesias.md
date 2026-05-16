@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-05-05
+last_contact: 2026-05-15
 tags:
   - graph/spoke
   - person/customer
@@ -9,8 +9,8 @@ client: "[[wiki/orgs/alloy-atx]]"
 # Roxana Yglesias
 
 **Type:** person
-**Last updated:** 2026-04-24
-**Source:** [[raw/email-history-2months-2026-04-12]], [[raw/teams-transcript-roxana-andres-2026-04-14]], [[raw/email-digest-2026-04-21]], [[raw/email-digest-2026-04-23]]
+**Last updated:** 2026-05-15
+**Source:** [[raw/email-history-2months-2026-04-12]], [[raw/teams-transcript-roxana-andres-2026-04-14]], [[raw/email-digest-2026-04-21]], [[raw/email-digest-2026-04-23]], [[raw/email-digest-2026-05-15]]
 **Related:** [[wiki/orgs/alloy-atx]], [[wiki/moil/customers]], [[wiki/moil/pipeline]]
 
 ---
@@ -48,6 +48,18 @@ Roxana has contacts in the wellness space who could become additional Moil custo
 - Gut health coaches
 - Stem cell / regenerative medicine contacts in Colombia
 - Mexican fitness community (potential Spanish-language content/landing pages)
+
+## May 15, 2026 — Facebook Business Suite onboarding (two-gym Meta integration)
+
+Source: [[raw/email-digest-2026-05-15]]
+
+At 12:00 CDT Roxana asked on the *"Re: Moil Facebook business ID"* thread: *"Do they get an email with instructions or just join the meta business page?"* — onboarding her two gym staff onto AlloyATX's Meta Business Suite. **Shanonn Thompson** (`shanonn@teamalloy.com`) replied 27 minutes later at 12:27 CDT: *"They should be able to log into Business Suite and see both locations."*
+
+**Operational signal:** Roxana is actively wiring up her **two-location Meta Business presence** (Lakeline / Round Rock / South Austin gyms — at least two visible on FB) on her own initiative, not driven by Moil. **Confirms Roxana is hands-on on the social-platform plumbing side**, not just paying Moil to do it. Pair with the Apr 23 brand-info handover and the May 5 first-outbound-referral (Christy Mawdsley) — Roxana operates as an **active customer-operator partner** rather than a passive subscriber.
+
+**New external contact surfaced:** **Shanonn Thompson** (`shanonn@teamalloy.com`) — likely AlloyATX staff (front desk / ops) handling the FB account access. No standalone wiki page yet; route through this entry until a second touchpoint warrants promotion.
+
+<!-- shanonn-thompson placeholder: not yet promoted to wiki/people/ — single touchpoint as of 2026-05-15 -->
 
 ## Connections
 

@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-05-13
+last_contact: 2026-05-15
 tags:
   - graph/spoke
   - person/partner
@@ -8,8 +8,8 @@ tags:
 # Joshua Edmond
 
 **Type:** person
-**Last updated:** 2026-05-12
-**Source:** [[raw/buda-hive-edc-2026-04-11]], [[wiki/meetings/2026-03-12-sosx-buda-hive]], [[raw/email-digest-2026-04-17]], [[raw/email-digest-2026-04-24]], [[raw/email-digest-2026-04-29]], [[raw/email-digest-2026-04-30]], [[raw/email-digest-2026-05-06]], [[raw/email-digest-2026-05-11]], [[raw/email-digest-2026-05-12]], [[raw/email-digest-2026-05-13]]
+**Last updated:** 2026-05-15
+**Source:** [[raw/buda-hive-edc-2026-04-11]], [[wiki/meetings/2026-03-12-sosx-buda-hive]], [[raw/email-digest-2026-04-17]], [[raw/email-digest-2026-04-24]], [[raw/email-digest-2026-04-29]], [[raw/email-digest-2026-04-30]], [[raw/email-digest-2026-05-06]], [[raw/email-digest-2026-05-11]], [[raw/email-digest-2026-05-12]], [[raw/email-digest-2026-05-13]], [[raw/email-digest-2026-05-15]]
 **Related:** [[wiki/people/jacquie-martinez]], [[wiki/people/casey-earley]], [[wiki/people/shannon-cameron]], [[wiki/concepts/buda-hive]], [[wiki/orgs/buda-edc]]
 
 ---
@@ -94,6 +94,22 @@ After the May 11 in-person lunch (Andres + Joshua + [[wiki/people/jacquie-martin
 Source: [[raw/email-digest-2026-05-13]]
 
 At 01:08 CDT [[wiki/people/jacquie-martinez|Jacquie]] replied on the *Incubator Strategist - Scope of Work* thread — *"Truly a pleasure… I'm hopeful we'll have the contract finalized for both of you this week."* Joshua cc'd. **Jacquie reiterated the week-of finalization commitment but did not directly answer Andres's May 12 sequencing question** (countersign now vs. wait for Board confirmation). Open: whether Joshua + Andres should countersign before the Board exec sign-off, or hold. Watch for next Jacquie inbound for the explicit call.
+
+## May 15, 2026 — **HIVE Strategist Agreement SIGNED + RETURNED** (~5 week SoW loop closed)
+
+Source: [[raw/email-digest-2026-05-15]]
+
+Same-day same-thread close on the **Updated HIVE Strategist Agreement** track:
+
+- **16:21 CDT** — Joshua emailed *"Re: FW: Updated HIVE Strategist Agreement"* with two outstanding questions on **GL policy / additional insured** before signing
+- **16:32 CDT** — Joshua followed up: *"Sent signed copy with all changes accepted, pending email below"* — questions resolved within the hour (via [[wiki/people/shannon-cameron|Shannon Cameron]] reconciliation)
+- **17:37 CDT — Andres returned the signed copy** *"Re: FW: Updated HIVE Strategist Agreement"* to Joshua + Shannon: *"Attached signed copy of contract; let me know next steps."*
+
+**Closes the multi-week PSA/SoW loop documented across this page:** Apr 21 (Shannon forwards PSAs) → Apr 24 (Joshua redline) → Apr 30 (Jacquie issues PSA) → May 5 (Casey accepts SoW invite) → May 6 (Joshua revised SoW) → May 11 (in-person lunch + finalization-this-week commit) → May 13 (Jacquie reaffirms) → **May 15 SIGNED.** First major contract closure on the Buda EDC commercial surface in 2026; pairs with the **33-license expansion** Jacquie confirmed May 14 ([[wiki/people/jacquie-martinez]]) — two parallel revenue surfaces both landing inside the same week.
+
+**Open watch:** *"let me know next steps"* implies countersign by Buda EDC (Jennifer / Board) is the next round-trip artifact. Track for the executed-by-both-sides version returning before declaring fully done.
+
+`last_contact: 2026-05-13 → 2026-05-15`
 
 <!-- AUTO-ACTIVITY:start -->
 ## Recent Activity (auto)

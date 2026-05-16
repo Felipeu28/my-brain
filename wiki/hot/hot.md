@@ -2,7 +2,7 @@
 tags:
   - graph/leaf
 type: hot-cache
-last_updated: 2026-05-15
+last_updated: 2026-05-16
 ---
 # Brain Hot Cache
 
@@ -37,6 +37,12 @@ Updated automatically by:
 ## Recent Queries
 
 <!-- ENTRIES:query -->
+- 2026-05-16 18:15 — Session end: [Brain/Auto] Pull today's Microsoft Teams meeting transcripts and add them to the Brain.  1. … — 25 events
+- 2026-05-16 12:01 — Session end: [Brain/Auto] You are Andres's plan radar. Every day at noon you scan recent Brain activity an… — 1 new files
+- 2026-05-16 00:39 — Session end: [Home] Find construction companies in Buda, TX within 10 km that don't have a website. … — 3 new files · 2 edits · 2 commits
+- 2026-05-15 19:31 — Session end: [Brain/Auto] You are Andres Urrego's editor. Every evening you distill his X bookmarks from t… — 1 new files
+- 2026-05-15 18:31 — Session end: [Brain/Auto] Read these two JSON files of today's email activity and create a structured Brai… — 1 new files
+- 2026-05-15 18:26 — Session end: [Brain/KB] Check for any new files in raw/ and raw/onedrive-transcripts/ that haven't been … — 1 new files · 14 edits · 1 commits
 - 2026-05-15 18:18 — Session end: [Brain/Auto] Pull today's Microsoft Teams meeting transcripts and add them to the Brain.  1. … — 1 new files
 - 2026-05-15 14:11 — Session end: [Brain/KB] Run the weekly knowledge base compile and cleanup. Today is 2026-05-15.  ## PART… — 1 new files · 6 edits · 1 commits
 - 2026-05-15 12:01 — Session end: [Brain/Auto] You are Andres's plan radar. Every day at noon you scan recent Brain activity an… — 1 new files
@@ -51,12 +57,6 @@ Updated automatically by:
 - 2026-05-15 00:15 — Session end: [Claude] You are an entity-extraction agent for the Moil Brain.  Extract every person men… — 9 events
 - 2026-05-14 23:35 — Session end: [Clio] testing from today  Martins, my nepehew a clio user, age 11,  Clio doesn’t liste… — 5 new files · 18 edits · 5 commits
 - 2026-05-14 23:31 — Session end: [Clio] let's start a full audit of the quality of data we are ingesting and if its any … — 1 new files · 4 edits · 2 commits
-- 2026-05-14 23:29 — Session end: [Clio] let's start a full audit of the quality of data we are ingesting and if its any … — 1 new files · 4 edits · 2 commits
-- 2026-05-14 23:22 — Session end: [Clio] let's start a full audit of the quality of data we are ingesting and if its any … — 4 edits
-- 2026-05-14 23:12 — Session end: [Clio] let's start a full audit of the quality of data we are ingesting and if its any … — 4 edits
-- 2026-05-14 23:08 — Session end: [Clio] let's start a full audit of the quality of data we are ingesting and if its any … — 4 edits
-- 2026-05-14 23:00 — Session end: [Clio] let's start a full audit of the quality of data we are ingesting and if its any … — 4 edits
-- 2026-05-14 22:58 — Session end: [Home] Build a full accelerator application roadmap and strategy for Andres. He has two… — 5 new files · 127 edits
 <!-- /ENTRIES:query -->
 
 ## Recent Saves

@@ -1,6 +1,6 @@
 ---
-status: warm
-last_contact: 2026-05-04
+status: active
+last_contact: 2026-05-15
 tags:
   - graph/spoke
   - person/partner
@@ -8,9 +8,9 @@ tags:
 # Shannon Cameron
 
 **Type:** person
-**Last updated:** 2026-04-22
-**Source:** [[raw/email-digest-2026-04-21]]
-**Related:** [[wiki/orgs/buda-edc]], [[wiki/people/jacquie-martinez]], [[wiki/people/casey-earley]], [[wiki/people/jennifer-storm]], [[wiki/concepts/buda-hive]]
+**Last updated:** 2026-05-15
+**Source:** [[raw/email-digest-2026-04-21]], [[raw/email-digest-2026-05-15]]
+**Related:** [[wiki/orgs/buda-edc]], [[wiki/people/jacquie-martinez]], [[wiki/people/casey-earley]], [[wiki/people/jennifer-storm]], [[wiki/concepts/buda-hive]], [[wiki/people/joshua-edmond]]
 
 ---
 
@@ -29,6 +29,12 @@ tags:
 Source: [[raw/email-digest-2026-04-21]]
 
 Shannon forwarded HIVE Strategist PSA assets to Andres (subject: "FW: HIVE Strategist PSAs"). Context implies she owns communications/marketing assets for the HIVE Incubator Strategist role (Andres + Joshua Edmond) — possibly the PSA package for public-facing promotion of Cohort 4.
+
+## May 15 — Reconciled GL/insurance questions; HIVE Strategist Agreement signed same hour
+
+Source: [[raw/email-digest-2026-05-15]]
+
+Shannon was the **EDC-side reconciliation actor** on the *Updated HIVE Strategist Agreement* close. [[wiki/people/joshua-edmond|Joshua]] surfaced two questions at 16:21 CDT on **GL policy / additional insured**; Shannon helped resolve them within the hour. By 16:32 Joshua sent the signed copy back, and at 17:37 Andres returned his signed copy to Shannon + Joshua. **First explicit on-record reconciliation role for Shannon on the Strategist contract surface** — confirms the Apr 21 PSA-asset-owner read; she also owns final-mile insurance/legal alignment, not just comms. Status warm → active.
 
 ## Why She Matters
 
