@@ -3,16 +3,14 @@ type: claude-code-session
 session_id: 272f8ddb-1851-4087-a8c4-0721cd76c1fe
 project: "Brain/KB/worktree"
 date: 2026-04-28
-duration_minutes: 2797
+duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base--claude-worktrees-nostalgic-wozniak-e95f83/272f8ddb-1851-4087-a8c4-0721cd76c1fe.jsonl
-ingested: true
-ingested_at: 2026-05-04
 ---
 # Claude Code Session — The GitHub repo Felipeu28/my-brain has a failing GitHub Pages deployment. The bu
 
-**Date:** 2026-04-28 (session ran 2026-04-28T15:19 → 2026-04-30T13:56)
+**Date:** 2026-04-28 (session ran 2026-04-28T15:19 → )
 **Project:** Brain/KB/worktree
-**Duration:** 2797 min
+**Duration:** None min
 **Volume:** 2 user messages · 10 assistant responses · 16 tool calls
 
 ## Ask

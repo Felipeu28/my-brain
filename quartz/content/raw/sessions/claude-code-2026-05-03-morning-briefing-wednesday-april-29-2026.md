@@ -3,17 +3,15 @@ type: claude-code-session
 session_id: aece4e50-d931-4fc6-9544-96f7f445e3a7
 project: "Brain/KB/worktree"
 date: 2026-05-03
-duration_minutes: 2868
+duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base--claude-worktrees-modest-raman-44205a/aece4e50-d931-4fc6-9544-96f7f445e3a7.jsonl
-ingested: true
-ingested_at: 2026-05-11
 ---
 # Claude Code Session — Morning Briefing — Wednesday, April 29, 2026
 
-**Date:** 2026-05-03 (session ran 2026-05-03T14:06 → 2026-05-05T13:54)
+**Date:** 2026-05-03 (session ran 2026-05-03T14:06 → )
 **Project:** Brain/KB/worktree
-**Duration:** 2868 min
-**Volume:** 10 user messages · 132 assistant responses · 326 tool calls
+**Duration:** None min
+**Volume:** 16 user messages · 166 assistant responses · 365 tool calls
 
 ## Ask
 
@@ -51,10 +49,14 @@ The user wants a full diagnosis. Please do all of this:
 - test(ci): intentional break to verify notify-on-failure sidecar
 - test(ci): revert the intentional break — verify sidecar auto-closes issue
 - fix(brain/bookmarks): COUNT shell pattern that defeated the zero-item guard
+- fix(brain/operating-brief): relax bookmarks-required precondition (audit §E item 3)
+- chore(brain): relocate moil-app + moil-bpc out of knowledge-base; drop orphan gitlinks
+- docs(brain/audits): moil repo cleanup followup — Task 1/2/3
+- init: local-client-prospector Claude Code skill (ported from Kappaemme-git/local-client-prospector-skill)
 
 ## Files touched
 
-**Created (19):**
+**Created (23):**
   - `/Users/jarvisurrego/My Brain/pi-workspace/sentinel-config.tsv`
   - `/Users/jarvisurrego/My Brain/pi-workspace/bin/sentinel.sh`
   - `/Users/jarvisurrego/My Brain/pi-workspace/launchd/com.moil.brain.sentinel.plist`
@@ -74,16 +76,23 @@ The user wants a full diagnosis. Please do all of this:
   - `/Users/jarvisurrego/My Brain/pi-workspace/launchd/com.moil.brain.weekly-pitch-mistake.plist`
   - `/Users/jarvisurrego/My Brain/pi-workspace/launchd/com.moil.brain.related-suggester.plist`
   - `/Users/jarvisurrego/My Brain/knowledge-base/.github/workflows/notify-on-failure.yml`
+  - `/Users/jarvisurrego/My Brain/knowledge-base/raw/audits/2026-05-07-moil-repo-sync-check.md`
+  - `/Users/jarvisurrego/My Brain/knowledge-base/raw/audits/2026-05-07-moil-repo-cleanup-followup.md`
+  - `/Users/jarvisurrego/.claude/skills/local-client-prospector/SKILL.md`
+  - `/Users/jarvisurrego/Library/Mobile Documents/com~apple~CloudDocs/Documents/Claude/Projects/Local Client Prospector Skill/README.md`
 
 **Edited (3):**
   - `/Users/jarvisurrego/My Brain/pi-workspace/launchd/com.moil.brain.operating-brief.plist`
   - `/Users/jarvisurrego/My Brain/pi-workspace/bin/weekly-operating-brief.sh`
   - `/Users/jarvisurrego/My Brain/pi-workspace/launchd/com.moil.brain.pattern-surfacer.plist`
 
-## Wiki entities referenced (24)
+## Wiki entities referenced (28)
 
+- [[wiki/concepts/ai-cold-outreach]]
 - [[wiki/concepts/buda-hive]]
+- [[wiki/concepts/chamber-outreach-2026-04]]
 - [[wiki/concepts/claude-code]]
+- [[wiki/concepts/moil360]]
 - [[wiki/hot/entity-queue]]
 - [[wiki/hot/open-commitments]]
 - [[wiki/hot/relationship-radar]]
@@ -91,6 +100,7 @@ The user wants a full diagnosis. Please do all of this:
 - [[wiki/moil/active-projects]]
 - [[wiki/moil/directory]]
 - [[wiki/moil/pipeline]]
+- [[wiki/moil/product-roadmap]]
 - [[wiki/orgs/buda-edc]]
 - [[wiki/orgs/connectex]]
 - [[wiki/orgs/fitlogic]]
@@ -109,6 +119,8 @@ The user wants a full diagnosis. Please do all of this:
 
 ## Final user direction
 
-Quick fix needed. The freshness sentinel flagged X bookmarks as critical — 58h since last write, threshold 24h. Cookies expired. Andres is not at his PC and asked me to run the reauth for him.
+Andres said: "It should have its own project folder just fyi." Move the skill to a proper project location while keeping it discoverable to Claude Code.
 
-The published remediation is `/Users/jarvisurrego/.claude/skills/setup-browser-cookies/setup-browser-cookies x.com`, but I don't know if that's a non-interactive cookie-DB extraction or an interactive browser-login flow. Investigate first, then act. Don't try to interactively log into X on his behalf — ev...
+**Pattern to follow** (matches his existing project layout):
+- Project source at `~/Library/Mobile Documents/com~apple~CloudDocs/Documents/Claude/Projects/Local Client Prospector Skill/` (iCloud Drive Claude/Projects — same pattern as the Accelerator Applications System folder)
+- `~/.claude/skills/local-client-prospector/` becomes a **symlink**...

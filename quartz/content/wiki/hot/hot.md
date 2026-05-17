@@ -37,6 +37,8 @@ Updated automatically by:
 ## Recent Queries
 
 <!-- ENTRIES:query -->
+- 2026-05-16 19:31 — Session end: [Brain/Auto] You are Andres Urrego's editor. Every evening you distill his X bookmarks from t… — 1 new files
+- 2026-05-16 18:26 — Session end: [Brain/KB] Check for any new files in raw/ and raw/onedrive-transcripts/ that haven't been … — 26 edits · 1 commits
 - 2026-05-16 18:15 — Session end: [Brain/Auto] Pull today's Microsoft Teams meeting transcripts and add them to the Brain.  1. … — 25 events
 - 2026-05-16 12:01 — Session end: [Brain/Auto] You are Andres's plan radar. Every day at noon you scan recent Brain activity an… — 1 new files
 - 2026-05-16 00:39 — Session end: [Home] Find construction companies in Buda, TX within 10 km that don't have a website. … — 3 new files · 2 edits · 2 commits
@@ -55,8 +57,6 @@ Updated automatically by:
 - 2026-05-15 07:02 — Session end: [Claude] You are surfacing patterns from the last 28 days of Andres's working life — code… — 1 new files
 - 2026-05-15 06:00 — Session end: [Claude] You are the Moil Brain's daily cross-source intelligence analyst.  You are readi… — 9 events
 - 2026-05-15 00:15 — Session end: [Claude] You are an entity-extraction agent for the Moil Brain.  Extract every person men… — 9 events
-- 2026-05-14 23:35 — Session end: [Clio] testing from today  Martins, my nepehew a clio user, age 11,  Clio doesn’t liste… — 5 new files · 18 edits · 5 commits
-- 2026-05-14 23:31 — Session end: [Clio] let's start a full audit of the quality of data we are ingesting and if its any … — 1 new files · 4 edits · 2 commits
 <!-- /ENTRIES:query -->
 
 ## Recent Saves

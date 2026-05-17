@@ -3,17 +3,15 @@ type: claude-code-session
 session_id: 223806d8-c3cd-43a9-b8d7-4439d574114b
 project: "Home"
 date: 2026-05-04
-duration_minutes: 7532
+duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-Library-Mobile-Documents-com-apple-CloudDocs-Documents-Claude-Projects-Accelerator-Applications-System/223806d8-c3cd-43a9-b8d7-4439d574114b.jsonl
-ingested: true
-ingested_at: 2026-05-11
 ---
 # Claude Code Session — Application Scoring + Proposed Changes
 
-**Date:** 2026-05-04 (session ran 2026-05-04T20:42 → 2026-05-10T02:14)
+**Date:** 2026-05-04 (session ran 2026-05-04T20:42 → )
 **Project:** Home
-**Duration:** 7532 min
-**Volume:** 44 user messages · 144 assistant responses · 493 tool calls
+**Duration:** None min
+**Volume:** 87 user messages · 234 assistant responses · 745 tool calls
 
 ## Ask
 
@@ -33,21 +31,23 @@ Read every relevant file in this folder. For each existing application (Speedrun
   - `/Users/jarvisurrego/Library/Mobile Documents/com~apple~CloudDocs/Documents/Claude/Projects/Accelerator Applications System/05_ASSETS/moil-no-operating-agreement.md`
   - `/Users/jarvisurrego/Library/Mobile Documents/com~apple~CloudDocs/Documents/Claude/Projects/Accelerator Applications System/05_ASSETS/moil-deck/build.js`
 
-## Wiki entities referenced (6)
+## Wiki entities referenced (14)
 
+- [[wiki/concepts/buda-hive]]
 - [[wiki/moil/competitors]]
 - [[wiki/moil/customers]]
 - [[wiki/moil/metrics]]
 - [[wiki/moil/pipeline]]
+- [[wiki/moil/positioning]]
+- [[wiki/orgs/connectex]]
+- [[wiki/orgs/meridian-buda]]
+- [[wiki/orgs/urbanozuela]]
 - [[wiki/projects/clio]]
+- [[wiki/projects/connectex]]
+- [[wiki/projects/magical-reading-adventures]]
+- [[wiki/projects/meridian-buda]]
 - [[wiki/projects/moil]]
 
 ## Final user direction
 
-B: 
-
-15 years in corporate sales and remove: SOC 2 compliant
-AI for business applications Cert
-Two years of claude code is irrlevant i think. 
-
-Build  with AI, obsessively learned over the last 2 years. Stll room to learn.
+now make sure the application is up to datein gust, uodate it

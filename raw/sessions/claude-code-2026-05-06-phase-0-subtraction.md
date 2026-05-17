@@ -3,16 +3,14 @@ type: claude-code-session
 session_id: 6b89cbf1-43bf-4ee0-9f8c-a4ccfb5f87f5
 project: "Clio/worktree"
 date: 2026-05-06
-duration_minutes: 471
+duration_minutes: 9160
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-keen-kirch-969b6f/6b89cbf1-43bf-4ee0-9f8c-a4ccfb5f87f5.jsonl
-ingested: true
-ingested_at: 2026-05-11
 ---
 # Claude Code Session — Phase 0 — Subtraction
 
-**Date:** 2026-05-06 (session ran 2026-05-06T16:13 → 2026-05-07T00:05)
+**Date:** 2026-05-06 (session ran 2026-05-06T16:13 → 2026-05-13T00:54)
 **Project:** Clio/worktree
-**Duration:** 471 min
+**Duration:** 9160 min
 **Volume:** 21 user messages · 50 assistant responses · 385 tool calls
 
 ## Chapters

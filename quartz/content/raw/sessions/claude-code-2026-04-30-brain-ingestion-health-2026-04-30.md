@@ -5,8 +5,6 @@ project: "Brain/KB/worktree"
 date: 2026-04-30
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base--claude-worktrees-objective-lumiere-3b25d8/c5f752e5-4353-4eb4-a1d0-b14f00a8a927.jsonl
-ingested: true
-ingested_at: 2026-05-04
 ---
 # Claude Code Session — Brain Ingestion Health — 2026-04-30
 
@@ -47,7 +45,7 @@ What other pages are doing this and why?
   - `/Users/jarvisurrego/My Brain/knowledge-base/.claude/worktrees/objective-lumiere-3b25d8/wiki/moil/active-projects.md`
   - `/Users/jarvisurrego/My Brain/knowledge-base/.claude/worktrees/objective-lumiere-3b25d8/wiki/summaries/buda-hive-edc-2026-04-09.md`
 
-## Wiki entities referenced (21)
+## Wiki entities referenced (22)
 
 - [[wiki/concepts/buda-hive]]
 - [[wiki/concepts/claude-code]]
@@ -70,6 +68,7 @@ What other pages are doing this and why?
 - [[wiki/summaries/buda-hive-edc-2026-04-09]]
 - [[wiki/summaries/imessages-people-2026-04-09]]
 - [[wiki/summaries/x-bookmarks-2026-04-11]]
+- [[wiki/weekly/2026-05-03]]
 
 ## Unresolved questions at session end
 

@@ -5,15 +5,13 @@ project: "Clio/worktree"
 date: 2026-05-09
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-adoring-murdock-4d020e/a84853c5-c996-4a62-b7e1-bd247c8370e6.jsonl
-ingested: true
-ingested_at: 2026-05-11
 ---
 # Claude Code Session — Ship Phase 1 + start Phase 2–5
 
 **Date:** 2026-05-09 (session ran 2026-05-09T19:40 → )
 **Project:** Clio/worktree
 **Duration:** None min
-**Volume:** 3 user messages · 50 assistant responses · 152 tool calls
+**Volume:** 3 user messages · 53 assistant responses · 161 tool calls
 
 ## Chapters
 
@@ -34,6 +32,7 @@ VOice has issues, different voices speak one after the other then back to origin
 - feat(stories): recents on home + delete from library
 - feat(stories): age-tier setup picker — kid picks the topic
 - chore(stories): review pass — race fix + slop cleanup
+- fix(stories): bump function maxDuration so SSE stream finishes
 
 ## Files touched
 
