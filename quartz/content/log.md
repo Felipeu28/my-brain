@@ -4,6 +4,40 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ---
 
+## 2026-05-17 — Run 55: weekly-sessions-2026-05-17 + brain-guide (log-only)
+
+**Trigger:** KB-agent scan for unprocessed raw files. Two found — both meta/reference content with no net-new wiki intelligence:
+- `raw/weekly-sessions-2026-05-17.md` (29,810 bytes) — Claude Code weekly rollup, week of 2026-05-10 (65 sessions, 101 user msgs, 436 assistant responses, 1639 tool calls, 20 commits)
+- `raw/brain-guide.md` (218 lines, ~6 KB) — pre-v3 "Brain System: A Practical Guide for Andres" how-to doc
+
+**Files processed (2 — both log-only, both marked `ingested: true` / `ingested_at: 2026-05-17`):**
+
+- **File:** `raw/weekly-sessions-2026-05-17.md`
+  - **Type:** claude-code-weekly-rollup (week of 2026-05-10)
+  - **Pages created/updated:** none
+  - **Rationale:** Per Runs 14, 42, 43 precedent — weekly-sessions rollups are meta inventories of Claude Code sessions; substantive work already flows through dedicated channels (signal-briefs, email-digests, Teams transcripts, project page auto-updates). 22 of 65 sessions are automation self-runs (morning briefing, plan radar, daily-correlator, email-digest, content-calendar, X-bookmarks editor, Teams pull, weekly-compile). The remaining substantive sessions fall into three buckets:
+    1. **Brain ingestion sessions** (Runs 47–54) — already captured in log.md
+    2. **Clio/Lunabella project work** — bilingual claim audit + implementation plan (2026-05-17), family testing fixes from Martins age-11 nephew Clio voice failure (2026-05-13), data-quality audit on brain-graph over-connection (2026-05-15), security review (2026-05-12). Already flowing through `wiki/projects/clio.md` + `wiki/projects/lunabella.md` auto-updates.
+    3. **Home/Buda local prospector runs** (2026-05-15, 2026-05-17) — construction companies in Buda TX without websites, via `/local-client-prospector` skill. Outputs land in `raw/outputs/` not `raw/`.
+    4. **Brain/KB/worktree** — 2026-05-17 "See it now — diagnose the brain, what's working and what's not? How do we start actually taking action on things?" (2 commits, 4 new files, 1 edited). This was Andres pushing on the Brain's *output-side* — moving from "ingest everything" to "act on signal." The session produced commits already visible in `git log` (operating-brief 2026-W20, plan-radar 2026-05-17, session-learnings 2026-05-17). No new wiki page warranted from the rollup itself.
+
+- **File:** `raw/brain-guide.md`
+  - **Type:** meta-reference (pre-v3 Brain user manual)
+  - **Pages created/updated:** none
+  - **Rationale:** Historical "how-to use your Brain" doc with 6 sections (architecture, daily/weekly/monthly usage, improvement ideas, query patterns, future roadmap, quick-reference card). Pre-dates the current automated pipeline — its prescriptions (manual weekly review, monthly LLM synthesis via paste prompts, "MOIL.md" file) are now operationalized in launchd automations (daily signal-briefs, weekly compile, plan-radar, content-calendar) and the Quartz/Obsidian dual-write architecture. Fully superseded by [[wiki/concepts/brain-architecture]], [[wiki/concepts/llm-knowledge-bases]] (Karpathy two-layer pattern), and [[wiki/meta/brain-upgrade-plan]]. Same disposition as `raw/brain-knowledge-layer-analysis.md` in Run 10 — log only, no wiki promotion.
+
+**MEMORY.md updates:** None (no new actions, deadlines, or commitments surfaced).
+
+**Index.md updates:** None (no new wiki pages; raw count tracked separately by `kb-health.py --fix-index`).
+
+**Key intelligence (Run 55):** Pure hygiene/log-only run. No new people, decisions, or action items. The signal worth noting from the rollup metadata: **2026-05-17 was the first session where Andres explicitly asked "How do we start actually taking action on things? What does building the pipeline for this look like?"** — first on-record articulation of the output-side gap. The Brain's *ingestion* pipeline is mature; the *action* pipeline is the next frontier. Worth tracking whether subsequent sessions move toward concrete action-routing infrastructure.
+
+**Sync step:** `bash scripts/sync_wiki.sh`. **Health step:** `python3 scripts/kb-health.py --fix-index`.
+
+**Summary:** Two files marked ingested, zero wiki pages created or updated. Both are meta/reference content with no net-new intelligence — handled per established log-only precedent. Run 55 is a 5-minute hygiene close, not a content run.
+
+---
+
 ## 2026-05-16 — Run 54: email-digest-2026-05-15
 
 **Trigger:** KB-agent scan for unprocessed raw files. One found: `raw/email-digest-2026-05-15.md` (committed 2026-05-15 18:31 by `email-digest` launchd job — 24-hour window 2026-05-14 → 2026-05-15; 11 received / 23 sent across 26 active contacts).

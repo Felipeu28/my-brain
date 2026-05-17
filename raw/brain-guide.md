@@ -1,5 +1,7 @@
 ---
 type: reference
+ingested: true
+ingested_at: 2026-05-17
 ---
 
 # The Brain System: A Practical Guide for Andres
