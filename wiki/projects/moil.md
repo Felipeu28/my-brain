@@ -21,9 +21,9 @@ Moil is shipping into a stack of 12+ Tier 1 paying clients with first end-to-end
 ## Last 7 days
 
 <!-- AUTO: bin/project-activity.sh updates this section daily. Do not edit by hand. -->
-_Updated: 2026-05-16 08:00 (window: 2026-05-09 → 2026-05-16)_
+_Updated: 2026-05-17 08:00 (window: 2026-05-10 → 2026-05-17)_
 
-**Claude Code sessions (34):**
+**Claude Code sessions (68):**
 - 2026-04-14 — Brain System Audit
 - 2026-05-03 — Pull today's Microsoft Teams meeting transcripts and add them to the Brain.
 - 2026-05-03 — You are Andres's plan radar. Every day at noon you scan recent Brain activity an
@@ -34,7 +34,7 @@ _Updated: 2026-05-16 08:00 (window: 2026-05-09 → 2026-05-16)_
 - 2026-05-04 — You are Andres's plan radar. Every day at noon you scan recent Brain activity an
 - 2026-05-04 — You are Andres's strategy operator. Every Sunday evening you synthesize a week o
 - 2026-05-04 — You are Andres Urrego's editor. Every evening you distill his X bookmarks from t
-**Mentions in meetings + raw (19):**
+**Mentions in meetings + raw (20):**
 - [[wiki/meetings/2026-05-11-monday-collaboration]]
 - [[wiki/meetings/2026-05-12-carolina-coaching]]
 - [[wiki/meetings/2026-05-12-travis-meridian-platform-handoff]]

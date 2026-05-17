@@ -22,7 +22,7 @@ Anchor Moil 360 customer; first end-to-end delivery completed Apr 29 in an 88-mi
 ## Last 7 days
 
 <!-- AUTO: bin/project-activity.sh updates this section daily. Do not edit by hand. -->
-_Updated: 2026-05-16 08:00 (window: 2026-05-09 → 2026-05-16)_
+_Updated: 2026-05-17 08:00 (window: 2026-05-10 → 2026-05-17)_
 
 **Mentions in meetings + raw (7):**
 - [[wiki/meetings/2026-05-11-monday-collaboration]]

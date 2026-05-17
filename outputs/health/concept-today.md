@@ -1,6 +1,6 @@
-## Concept of the day — [[wiki/concepts/content360|Content360 (deprecated → Moil360)]]
+## Concept of the day — [[wiki/concepts/hive-program|HIVE Program (Series-Based)]]
 
-_Last touched: 2026-04-14_  •  _Type: deprecated alias_
+_Last touched: 2026-04-14_  •  _Type: concept_
 
 > (no summary extracted — open the page)
 

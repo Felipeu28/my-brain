@@ -2,7 +2,7 @@
 tags:
   - graph/leaf
 type: hot-cache
-last_updated: 2026-05-16
+last_updated: 2026-05-17
 ---
 # Brain Hot Cache
 
@@ -37,6 +37,7 @@ Updated automatically by:
 ## Recent Queries
 
 <!-- ENTRIES:query -->
+- 2026-05-17 09:01 — Session end: [Claude] init — 1 new files
 - 2026-05-16 19:31 — Session end: [Brain/Auto] You are Andres Urrego's editor. Every evening you distill his X bookmarks from t… — 1 new files
 - 2026-05-16 18:26 — Session end: [Brain/KB] Check for any new files in raw/ and raw/onedrive-transcripts/ that haven't been … — 26 edits · 1 commits
 - 2026-05-16 18:15 — Session end: [Brain/Auto] Pull today's Microsoft Teams meeting transcripts and add them to the Brain.  1. … — 25 events
@@ -56,7 +57,6 @@ Updated automatically by:
 - 2026-05-15 08:48 — Session end: [Brain/Auto] Run the morning briefing. Execute these steps:  1. Fetch today's calendar: bash … — 1 new files
 - 2026-05-15 07:02 — Session end: [Claude] You are surfacing patterns from the last 28 days of Andres's working life — code… — 1 new files
 - 2026-05-15 06:00 — Session end: [Claude] You are the Moil Brain's daily cross-source intelligence analyst.  You are readi… — 9 events
-- 2026-05-15 00:15 — Session end: [Claude] You are an entity-extraction agent for the Moil Brain.  Extract every person men… — 9 events
 <!-- /ENTRIES:query -->
 
 ## Recent Saves

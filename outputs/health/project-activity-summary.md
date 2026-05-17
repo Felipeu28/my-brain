@@ -1,11 +1,11 @@
 ## Per-Project Activity
 
-_Window: 2026-05-09 → 2026-05-16_
+_Window: 2026-05-10 → 2026-05-17_
 
 ### Startups
 
-- **Moil** — 53 signals (0 commits · 34 sessions · 19 mentions)
-- **Clio** — 25 signals (10 commits · 11 sessions · 4 mentions)
+- **Moil** — 88 signals (0 commits · 68 sessions · 20 mentions)
+- **Clio** — 25 signals (3 commits · 17 sessions · 5 mentions)
 
 ### Client projects
 
