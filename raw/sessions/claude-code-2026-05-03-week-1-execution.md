@@ -5,6 +5,8 @@ project: "Clio"
 date: 2026-05-03
 duration_minutes: 13535
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain/17f275aa-a8ca-418f-b3fe-fb37b13778ef.jsonl
+ingested: true
+ingested_at: 2026-05-18
 ---
 # Claude Code Session — Week 1 execution
 

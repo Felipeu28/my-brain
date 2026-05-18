@@ -5,6 +5,8 @@ project: "-"
 date: 2026-05-14
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-/20c9cd17-ce57-4873-8120-4cef0d3bf79f.jsonl
+ingested: true
+ingested_at: 2026-05-18
 ---
 # Claude Code Session — You are an entity-extraction agent for the Moil Brain.
 

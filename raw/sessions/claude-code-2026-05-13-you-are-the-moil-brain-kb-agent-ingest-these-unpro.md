@@ -5,6 +5,8 @@ project: "Brain/KB"
 date: 2026-05-13
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base/b5e062e2-024e-44e0-bcd8-edfeca1e853b.jsonl
+ingested: true
+ingested_at: 2026-05-18
 ---
 # Claude Code Session — You are the Moil Brain KB Agent. Ingest these unprocessed raw files into wiki pa
 

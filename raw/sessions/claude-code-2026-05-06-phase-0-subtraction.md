@@ -5,6 +5,8 @@ project: "Clio/worktree"
 date: 2026-05-06
 duration_minutes: 9160
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-keen-kirch-969b6f/6b89cbf1-43bf-4ee0-9f8c-a4ccfb5f87f5.jsonl
+ingested: true
+ingested_at: 2026-05-18
 ---
 # Claude Code Session — Phase 0 — Subtraction
 

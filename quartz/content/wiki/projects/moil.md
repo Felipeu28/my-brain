@@ -21,7 +21,7 @@ Moil is shipping into a stack of 12+ Tier 1 paying clients with first end-to-end
 ## Last 7 days
 
 <!-- AUTO: bin/project-activity.sh updates this section daily. Do not edit by hand. -->
-_Updated: 2026-05-17 08:00 (window: 2026-05-10 → 2026-05-17)_
+_Updated: 2026-05-18 08:00 (window: 2026-05-11 → 2026-05-18)_
 
 **Claude Code sessions (68):**
 - 2026-04-14 — Brain System Audit
@@ -41,8 +41,8 @@ _Updated: 2026-05-17 08:00 (window: 2026-05-10 → 2026-05-17)_
 - [[wiki/meetings/2026-05-13-jordan-andres-1-1]]
 - [[wiki/meetings/2026-05-14-megan-taiwo-fitlogic-2fa-godaddy-session]]
 - [[wiki/meetings/2026-05-15-moil-marketing-team-reset]]
+- [[raw/brain-guide]]
 - [[raw/email-digest-2026-05-11]]
-- [[raw/email-digest-2026-05-12]]
 
 ## Recent decisions
 

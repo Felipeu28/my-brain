@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-05-14
+last_contact: 2026-05-18
 tags:
   - graph/spoke
   - person/partner

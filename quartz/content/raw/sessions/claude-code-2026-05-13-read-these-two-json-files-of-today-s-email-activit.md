@@ -5,6 +5,8 @@ project: "Brain/Automations"
 date: 2026-05-13
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-pi-workspace/55a68392-d12a-4201-a09e-378d7d0c4575.jsonl
+ingested: true
+ingested_at: 2026-05-18
 ---
 # Claude Code Session — Read these two JSON files of today's email activity and create a structured Brai
 

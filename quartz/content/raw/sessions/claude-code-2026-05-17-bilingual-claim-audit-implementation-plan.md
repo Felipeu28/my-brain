@@ -5,6 +5,8 @@ project: "Clio/worktree"
 date: 2026-05-17
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-kind-burnell-fdd432/b7c5c6e1-f62e-462b-bc56-81e736403dd3.jsonl
+ingested: true
+ingested_at: 2026-05-18
 ---
 # Claude Code Session — Bilingual Claim Audit & Implementation Plan
 

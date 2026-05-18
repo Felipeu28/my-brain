@@ -22,12 +22,11 @@ Bilingual voice-first kids AI companion with persistent memory ("brain graph"), 
 ## Last 7 days
 
 <!-- AUTO: bin/project-activity.sh updates this section daily. Do not edit by hand. -->
-_Updated: 2026-05-17 08:00 (window: 2026-05-10 → 2026-05-17)_
+_Updated: 2026-05-18 08:00 (window: 2026-05-11 → 2026-05-18)_
 
-**Commits (3):**
+**Commits (2):**
 - 2026-05-11 fix(brain/lint): make destructive removals opt-in + capped + logged (#84)
 - 2026-05-11 fix(landing): add Log in button + sign_up query param (#83)
-- 2026-05-10 fix(stories): bump function maxDuration so SSE stream finishes
 
 **Claude Code sessions (17):**
 - 2026-05-01 — Let's create a new video about the parents side of clio, you can use browser, I
@@ -40,11 +39,10 @@ _Updated: 2026-05-17 08:00 (window: 2026-05-10 → 2026-05-17)_
 - 2026-05-09 — <command-message>autoplan</command-message>
 - 2026-05-09 — Ship Phase 1 + start Phase 2–5
 - 2026-05-10 — Bilingual Claim Audit & Implementation Plan
-**Mentions in meetings + raw (5):**
+**Mentions in meetings + raw (4):**
 - [[wiki/meetings/2026-05-11-monday-collaboration]]
 - [[wiki/meetings/2026-05-13-jordan-andres-1-1]]
 - [[raw/teams-transcript-jordan-andres-1-1-2026-05-13]]
-- [[raw/weekly-sessions-2026-05-10]]
 - [[raw/weekly-sessions-2026-05-17]]
 
 ## Recent decisions

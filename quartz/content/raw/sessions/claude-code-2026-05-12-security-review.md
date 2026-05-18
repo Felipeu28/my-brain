@@ -5,6 +5,8 @@ project: "Clio/worktree"
 date: 2026-05-12
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-nervous-chaum-7c57a8/d09ed1b1-f9e1-40bd-b449-9884e0067057.jsonl
+ingested: true
+ingested_at: 2026-05-18
 ---
 # Claude Code Session — Security Review
 

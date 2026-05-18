@@ -5,6 +5,8 @@ project: "Brain/MyBrain"
 date: 2026-05-12
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain/3a915b36-cb3d-4ea5-819d-124f0c0fb592.jsonl
+ingested: true
+ingested_at: 2026-05-18
 ---
 # Claude Code Session — The X bookmarks freshness sentinel critical and `pi-workspace/bin/scrape-x-bookm
 

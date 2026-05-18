@@ -5,6 +5,8 @@ project: "-"
 date: 2026-05-15
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-/e7b91ff4-8203-4dcf-bdd0-2f03b2f82969.jsonl
+ingested: true
+ingested_at: 2026-05-18
 ---
 # Claude Code Session — You are the Moil Brain's daily cross-source intelligence analyst.
 

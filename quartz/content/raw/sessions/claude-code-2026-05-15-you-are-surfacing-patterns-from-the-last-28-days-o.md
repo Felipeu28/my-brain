@@ -5,6 +5,8 @@ project: "-"
 date: 2026-05-15
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-/f4565409-346f-4d12-a1f6-ca44f5e41a60.jsonl
+ingested: true
+ingested_at: 2026-05-18
 ---
 # Claude Code Session — You are surfacing patterns from the last 28 days of Andres's working life — code
 

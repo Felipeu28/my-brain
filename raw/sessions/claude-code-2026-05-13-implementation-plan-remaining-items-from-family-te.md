@@ -5,6 +5,8 @@ project: "Clio/worktree"
 date: 2026-05-13
 duration_minutes: 3092
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-competent-edison-297a91/2c6f6eaf-16c9-4c66-8b6e-fd1621940a3d.jsonl
+ingested: true
+ingested_at: 2026-05-18
 ---
 # Claude Code Session — Implementation plan — remaining items from family testing
 

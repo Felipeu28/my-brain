@@ -5,6 +5,8 @@ project: "Brain/Automations"
 date: 2026-05-15
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-pi-workspace/d9ea4747-0918-41fd-8c44-966e9a24905e.jsonl
+ingested: true
+ingested_at: 2026-05-18
 ---
 # Claude Code Session — Pull today's Microsoft Teams meeting transcripts and add them to the Brain.
 

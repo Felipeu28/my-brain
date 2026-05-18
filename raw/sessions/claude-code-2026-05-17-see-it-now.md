@@ -5,6 +5,8 @@ project: "Brain/KB/worktree"
 date: 2026-05-17
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain-knowledge-base--claude-worktrees-inspiring-hugle-bb2080/5836d0f5-56c3-4eec-ae78-dc7c0142b625.jsonl
+ingested: true
+ingested_at: 2026-05-18
 ---
 # Claude Code Session — See it now
 

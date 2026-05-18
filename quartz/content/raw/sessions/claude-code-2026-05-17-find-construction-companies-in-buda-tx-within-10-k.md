@@ -5,6 +5,8 @@ project: "Home/worktree"
 date: 2026-05-17
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-Library-Mobile-Documents-com-apple-CloudDocs-Documents-Claude-Projects-Local-Client-Prospector-Skill--claude-worktrees-silly-blackburn-3f0629/8942ca63-4ce7-4289-8789-ec6ff8025e84.jsonl
+ingested: true
+ingested_at: 2026-05-18
 ---
 # Claude Code Session — Find construction companies in Buda, TX within 10 km that don't have a website.
 

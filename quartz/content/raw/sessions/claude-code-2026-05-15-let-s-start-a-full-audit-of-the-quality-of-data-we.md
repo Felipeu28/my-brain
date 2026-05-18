@@ -5,6 +5,8 @@ project: "Clio/worktree"
 date: 2026-05-15
 duration_minutes: 37
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain--claude-worktrees-brave-easley-fbebf6/d3d454e2-dafd-4a38-a18c-e89179b81746.jsonl
+ingested: true
+ingested_at: 2026-05-18
 ---
 # Claude Code Session — let's start a full audit of the quality of data we are ingesting and if its any
 

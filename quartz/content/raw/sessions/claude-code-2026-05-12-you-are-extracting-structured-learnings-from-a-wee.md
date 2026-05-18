@@ -5,6 +5,8 @@ project: "Brain/MyBrain"
 date: 2026-05-12
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain/aaf307a9-fd3b-49ef-bda9-f35b653218d2.jsonl
+ingested: true
+ingested_at: 2026-05-18
 ---
 # Claude Code Session — You are extracting structured learnings from a week of Andres Urrego's Claude Co
 

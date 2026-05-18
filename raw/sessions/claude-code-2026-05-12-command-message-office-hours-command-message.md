@@ -5,6 +5,8 @@ project: "Brain/MyBrain"
 date: 2026-05-12
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-My-Brain/366d09d6-3219-4bd4-83c6-0d88e5a6a4fa.jsonl
+ingested: true
+ingested_at: 2026-05-18
 ---
 # Claude Code Session — <command-message>office-hours</command-message>
 

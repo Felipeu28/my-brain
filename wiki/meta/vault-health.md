@@ -2,24 +2,24 @@
 tags:
   - graph/leaf
 type: vault-health
-last_run: 2026-05-06
+last_run: 2026-05-17
 ---
 
-# Vault Health — 2026-05-06
+# Vault Health — 2026-05-17
 
-Scanned **301** wiki pages. Found **324** total issues across 9 checks.
+Scanned **320** wiki pages. Found **381** total issues across 9 checks.
 
 | Check | Issues |
 |-------|--------|
-| Orphans (no backlinks) | 0 |
-| Dead wikilinks | 30 |
+| Orphans (no backlinks) | 2 |
+| Dead wikilinks | 69 |
 | Stale pages (>60d) | 0 |
 | Missing frontmatter | 0 |
 | Empty pages (<30 words) | 1 |
 | Duplicate titles | 5 |
 | Broken external URLs | 18 |
 | TODO/FIXME markers | 2 |
-| Missing `## Related` block | 268 |
+| Missing `## Related` block | 284 |
 
 Report only — nothing auto-fixed. Review and fix manually. For
 `## Related` candidates, see `outputs/related-suggestions/queue-*.md`
@@ -27,24 +27,64 @@ Report only — nothing auto-fixed. Review and fix manually. For
 
 ---
 
-## 1. Orphans (0)
+## 1. Orphans (2)
 
-_None — all clear._
+- [[inbox/append]]
+- [[weekly/2026-05-12]]
 
-## 2. Dead Wikilinks (30)
+## 2. Dead Wikilinks (69)
 
 - [[andres/ANDRES]] → `[[outputs/briefing-2026-04-11]]` (unresolved)
+- [[concepts/ai-cold-outreach]] → `[[raw/signal-briefs/signal-brief-2026-05-07]]` (unresolved)
+- [[concepts/ai-cold-outreach]] → `[[raw/signal-briefs/signal-brief-2026-05-14]]` (unresolved)
+- [[concepts/ai-cold-outreach]] → `[[raw/signal-briefs/signal-brief-2026-05-14]]` (unresolved)
 - [[concepts/brain-architecture]] → `[[outputs/synthesis-2026-04]]` (unresolved)
 - [[concepts/obsidian]] → `[[links]]` (unresolved)
+- [[meetings/2026-05-12-carolina-coaching]] → `[[wiki/people/carolina-caro\]]` (unresolved)
+- [[meetings/2026-05-12-carolina-coaching]] → `[[wiki/people/carolina-caro\]]` (unresolved)
+- [[meetings/2026-05-12-carolina-coaching]] → `[[wiki/people/carolina-caro\]]` (unresolved)
+- [[meetings/2026-05-12-carolina-coaching]] → `[[wiki/people/jacquie-martinez\]]` (unresolved)
+- [[meetings/2026-05-12-carolina-coaching]] → `[[wiki/people/carolina-caro\]]` (unresolved)
+- [[meetings/2026-05-12-carolina-coaching]] → `[[wiki/people/carolina-caro\]]` (unresolved)
+- [[meetings/2026-05-12-carolina-coaching]] → `[[wiki/people/carolina-caro\]]` (unresolved)
 - [[moil/gtm]] → `[[raw/signal-briefs/signal-brief-2026-05-04]]` (unresolved)
 - [[moil/gtm]] → `[[raw/signal-briefs/signal-brief-2026-05-01]]` (unresolved)
 - [[moil/gtm]] → `[[raw/signal-briefs/signal-brief-2026-05-04]]` (unresolved)
 - [[orgs/alloy-atx]] → `[[raw/signal-briefs/signal-brief-2026-05-04]]` (unresolved)
+- [[people/adeleke-tolulope]] → `[[raw/signal-briefs/signal-brief-2026-05-12]]` (unresolved)
+- [[people/adeleke-tolulope]] → `[[raw/signal-briefs/signal-brief-2026-05-13]]` (unresolved)
+- [[people/adeleke-tolulope]] → `[[raw/signal-briefs/signal-brief-2026-05-14]]` (unresolved)
+- [[people/adeleke-tolulope]] → `[[raw/signal-briefs/signal-brief-2026-05-11]]` (unresolved)
+- [[people/adeleke-tolulope]] → `[[raw/signal-briefs/signal-brief-2026-05-14]]` (unresolved)
+- [[people/adeleke-tolulope]] → `[[raw/signal-briefs/signal-brief-2026-05-13]]` (unresolved)
+- [[people/adeleke-tolulope]] → `[[raw/signal-briefs/signal-brief-2026-05-12]]` (unresolved)
+- [[people/anita-lansing]] → `[[raw/signal-briefs/signal-brief-2026-05-13]]` (unresolved)
+- [[people/anita-lansing]] → `[[raw/signal-briefs/signal-brief-2026-05-13]]` (unresolved)
+- [[people/becky-torres]] → `[[raw/signal-briefs/signal-brief-2026-05-06]]` (unresolved)
+- [[people/becky-torres]] → `[[raw/signal-briefs/signal-brief-2026-05-06]]` (unresolved)
+- [[people/carolina-caro]] → `[[raw/signal-briefs/signal-brief-2026-05-12]]` (unresolved)
+- [[people/chris-gomes]] → `[[raw/signal-briefs/signal-brief-2026-05-07]]` (unresolved)
+- [[people/chris-gomes]] → `[[raw/signal-briefs/signal-brief-2026-05-07]]` (unresolved)
 - [[people/inna-benyukhis]] → `[[raw/signal-briefs/signal-brief-2026-05-01]]` (unresolved)
 - [[people/inna-benyukhis]] → `[[raw/signal-briefs/signal-brief-2026-05-03]]` (unresolved)
 - [[people/inna-benyukhis]] → `[[raw/signal-briefs/signal-brief-2026-05-04]]` (unresolved)
+- [[people/jacob-oluwole]] → `[[raw/signal-briefs/signal-brief-2026-05-14]]` (unresolved)
+- [[people/jacob-oluwole]] → `[[raw/signal-briefs/signal-brief-2026-05-14]]` (unresolved)
+- [[people/jacquie-martinez]] → `[[raw/signal-briefs/signal-brief-2026-05-13]]` (unresolved)
+- [[people/jacquie-martinez]] → `[[wiki/people/joshua-edmond\]]` (unresolved)
+- [[people/jacquie-martinez]] → `[[raw/signal-briefs/signal-brief-2026-05-13]]` (unresolved)
+- [[people/jason-cornelius]] → `[[wiki/people/steve-messinger\]]` (unresolved)
+- [[people/jennifer-storm]] → `[[wiki/concepts/buda-hive\]]` (unresolved)
+- [[people/jennifer-storm]] → `[[wiki/orgs/perseus-defense\]]` (unresolved)
+- [[people/jordan-kaiser]] → `[[raw/signal-briefs/signal-brief-2026-05-13]]` (unresolved)
 - [[people/katherine-silvas]] → `[[raw/signal-briefs/signal-brief-2026-04-16]]` (unresolved)
+- [[people/megan-miller]] → `[[raw/signal-briefs/signal-brief-2026-05-06]]` (unresolved)
+- [[people/megan-miller]] → `[[raw/signal-briefs/signal-brief-2026-05-07]]` (unresolved)
+- [[people/megan-miller]] → `[[raw/signal-briefs/signal-brief-2026-05-06]]` (unresolved)
+- [[people/megan-miller]] → `[[raw/signal-briefs/signal-brief-2026-05-07]]` (unresolved)
 - [[people/oscar-esquivel]] → `[[raw/signal-briefs/signal-brief-2026-05-04]]` (unresolved)
+- [[people/travis-sutherland]] → `[[raw/signal-briefs/signal-brief-2026-05-12]]` (unresolved)
+- [[people/travis-sutherland]] → `[[raw/signal-briefs/signal-brief-2026-05-12]]` (unresolved)
 - [[summaries/email-history-9months-2026-04-15]] → `[[wiki/people/]]` (unresolved)
 - [[summaries/imessages-people-2026-04-09]] → `[[wiki/people/]]` (unresolved)
 - [[summaries/moil-documents-2026-04-09]] → `[[wiki/moil/]]` (unresolved)
@@ -86,31 +126,31 @@ _None — all clear._
 
 ## 7. Broken External URLs (18)
 
+- [[meetings/2026-05-15-moil-marketing-team-reset]] — `https://graph.microsoft.com/v1.0/me/onlineMeetings/{id}/transcripts/{tid}/content`` → 401
+- [[meta/vault-health]] — `https://github.com/Moil-Landingpages/meridian-buda````` → 404
+- [[meta/vault-health]] — `https://github.com/Moil-Landingpages/Nuovo-Enterteinment````` → 404
+- [[meta/vault-health]] — `https://github.com/Moil-Landingpages/connectex````` → 404
+- [[meta/vault-health]] — `https://github.com/Moil-Landingpages/Inna-CRM````` → 404
+- [[meta/vault-health]] — `https://github.com/Moil-Landingpages/Inna-Marketing-Calendar````` → 404
+- [[meta/vault-health]] — `https://github.com/Moil-Landingpages/PureSerenity````` → 404
+- [[meta/vault-health]] — `https://github.com/Moil-Landingpages/Siren-Beauty````` → 404
+- [[meta/vault-health]] — `https://github.com/Moil-Landingpages/urbanozuela````` → 404
+- [[meta/vault-health]] — `https://meridian-buda.vercel.app/api/webhooks/stripe`````` → 404
+- [[meta/vault-health]] — `https://github.com/Moil-Landingpages/BUDAEDC````` → 404
+- [[meta/vault-health]] — `https://github.com/Felipeu28/Lunabella````` → 404
 - [[meta/vault-health]] — `https://github.com/Moil-Landingpages/meridian-buda```` → 404
 - [[meta/vault-health]] — `https://github.com/Moil-Landingpages/Nuovo-Enterteinment```` → 404
 - [[meta/vault-health]] — `https://github.com/Moil-Landingpages/connectex```` → 404
 - [[meta/vault-health]] — `https://github.com/Moil-Landingpages/Inna-CRM```` → 404
-- [[meta/vault-health]] — `https://github.com/Moil-Landingpages/Inna-Marketing-Calendar```` → 404
-- [[meta/vault-health]] — `https://github.com/Moil-Landingpages/PureSerenity```` → 404
-- [[meta/vault-health]] — `https://github.com/Moil-Landingpages/Siren-Beauty```` → 404
-- [[meta/vault-health]] — `https://github.com/Moil-Landingpages/urbanozuela```` → 404
-- [[meta/vault-health]] — `https://meridian-buda.vercel.app/api/webhooks/stripe````` → 404
-- [[meta/vault-health]] — `https://github.com/Moil-Landingpages/BUDAEDC```` → 404
-- [[meta/vault-health]] — `https://github.com/Felipeu28/Lunabella```` → 404
 - [[meta/vault-health]] — `https://github.com/Moil-Landingpages/meridian-buda``` → 404
 - [[meta/vault-health]] — `https://github.com/Moil-Landingpages/Nuovo-Enterteinment``` → 404
-- [[meta/vault-health]] — `https://github.com/Moil-Landingpages/connectex``` → 404
-- [[meta/vault-health]] — `https://github.com/Moil-Landingpages/Inna-CRM``` → 404
-- [[meta/vault-health]] — `https://github.com/Moil-Landingpages/meridian-buda`` → 404
-- [[meta/vault-health]] — `https://github.com/Moil-Landingpages/Nuovo-Enterteinment`` → 404
-- [[moil/customers]] — `https://github.com/Moil-Landingpages/meridian-buda` → 404
 
 ## 8. TODO / FIXME Markers (2)
 
 - [[meta/brain-upgrade-plan]] (`FIXME, TODO`)
 - [[meta/vault-health]] (`FIXME, TODO`)
 
-## 9. Missing `## Related` Block (268)
+## 9. Missing `## Related` Block (284)
 
 - [[README]]
 - [[andres/ANDRES]]
@@ -226,6 +266,13 @@ _None — all clear._
 - [[meetings/2026-05-04-claudia-sanchez-coaching]]
 - [[meetings/2026-05-04-monday-collaboration]]
 - [[meetings/2026-05-05-christy-mawdsley-discovery]]
+- [[meetings/2026-05-06-andres-taiwo-ongoing-projects]]
+- [[meetings/2026-05-07-megan-andres-fitlogic-crm-handoff]]
+- [[meetings/2026-05-11-monday-collaboration]]
+- [[meetings/2026-05-12-carolina-coaching]]
+- [[meetings/2026-05-12-travis-meridian-platform-handoff]]
+- [[meetings/2026-05-13-jordan-andres-1-1]]
+- [[meetings/2026-05-15-moil-marketing-team-reset]]
 - [[meetings/teams-attendance-protocol-2026-04]]
 - [[meta/brain-upgrade-plan]]
 - [[meta/vault-health]]
@@ -265,20 +312,24 @@ _None — all clear._
 - [[orgs/fitlogic]]
 - [[orgs/gahcc]]
 - [[orgs/helotes-edc]]
+- [[orgs/jungle-flavorz]]
 - [[orgs/ladyboss]]
 - [[orgs/manos-de-cristo]]
 - [[orgs/meridian-buda]]
 - [[orgs/nativa-medspa]]
 - [[orgs/nuovo-entertainment]]
 - [[orgs/organically-whole]]
+- [[orgs/perseus-defense]]
 - [[orgs/providence-behavior-therapy]]
 - [[orgs/pure-serenity]]
 - [[orgs/queen-creek-chamber]]
 - [[orgs/siren-beauty]]
+- [[orgs/sunfield-spray-tans]]
 - [[orgs/titan-tech]]
 - [[orgs/txor]]
 - [[orgs/unwrapped-uncorked-events]]
 - [[orgs/urbanozuela]]
+- [[orgs/vision-point-capital]]
 - [[orgs/water-to-wine]]
 - [[orgs/wholeness-acupuncture]]
 - [[orgs/worldlink-medical]]
@@ -297,6 +348,7 @@ _None — all clear._
 - [[people/carol-hive-cohort]]
 - [[people/carolina-caro]]
 - [[people/casey-earley]]
+- [[people/chris-gomes]]
 - [[people/christine-stjohn]]
 - [[people/claudia-sanchez]]
 - [[people/crystal-cuzze]]
@@ -325,6 +377,7 @@ _None — all clear._
 - [[people/jim-media-producer]]
 - [[people/john-costilla]]
 - [[people/john-mcconnell]]
+- [[people/jordan-kaiser]]
 - [[people/joseph-arnke]]
 - [[people/joshua-edmond]]
 - [[people/julian-sanchez]]
@@ -333,6 +386,7 @@ _None — all clear._
 - [[people/kemi-riley-telfort]]
 - [[people/kim-dowers]]
 - [[people/laura-niebauer]]
+- [[people/linda-horuke]]
 - [[people/liz-hive-cohort]]
 - [[people/mariana-rodriguez]]
 - [[people/marilyn-eden]]
@@ -357,6 +411,7 @@ _None — all clear._
 - [[people/sarah-cordano]]
 - [[people/sarah-hive-cohort]]
 - [[people/sarah-miller]]
+- [[people/sarah-sanchez]]
 - [[people/sebastian-oviedo]]
 - [[people/shannon-cameron]]
 - [[people/shay-foley]]
@@ -380,4 +435,5 @@ _None — all clear._
 - [[radar/claude-code-changelog]]
 - [[weekly/2026-05-03]]
 - [[weekly/2026-05-04]]
+- [[weekly/2026-05-12]]
 

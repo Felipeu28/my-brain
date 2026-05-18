@@ -5,6 +5,8 @@ project: "Clio"
 date: 2026-05-11
 duration_minutes: None
 source_jsonl: /Users/jarvisurrego/.claude/projects/-Users-jarvisurrego-luna-brain/dd2a0556-f695-455a-b436-72b1c99c8137.jsonl
+ingested: true
+ingested_at: 2026-05-18
 ---
 # Claude Code Session — <scheduled-task name="clio-weekly-security-audit" file="/Users/jarvisurrego/.cla
 

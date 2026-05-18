@@ -4,6 +4,49 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ---
 
+## 2026-05-18 — Run 56: 77 Claude Code session logs (log-only)
+
+**Trigger:** KB-agent scan for unprocessed raw files. 77 found — all `raw/sessions/claude-code-YYYY-MM-DD-*.md` session-metadata records spanning 2026-04-28 → 2026-05-17. Each carries the same auto-generated frontmatter shape (`type: claude-code-session`, `session_id`, `project`, `date`, `duration_minutes`, `source_jsonl`) plus an extracted Ask, Files touched, Wiki entities referenced, Final user direction. None are raw user content — they are inventory/meta records of Claude Code sessions whose substantive output has already flowed through the dedicated channels.
+
+**Files processed (77 — all log-only, all marked `ingested: true` / `ingested_at: 2026-05-18` in both `raw/sessions/` and the `quartz/content/raw/sessions/` mirror):**
+
+Same disposition as Run 43 (65 session files) and Run 55 (weekly-sessions rollup). Per established precedent, session-metadata logs are bookkeeping; the intelligence already lands via:
+- **Daily signal-briefs** (`raw/signal-briefs/signal-brief-*.md`) — the cross-source intel agent's daily output
+- **Per-project rollups** — [[wiki/projects/clio]], [[wiki/projects/moil]], [[wiki/projects/lunabella]], [[wiki/projects/buda-edc-hive]] auto-update with the substantive Clio/Moil/Brain engineering work
+- **Plan-radar** outputs (commits at noon every day)
+- **Email-digest** + **Teams-pull** ingestion (Runs 47–54)
+- **Editorial daily-signal** (the evening editor)
+- **Weekly compile** (Friday 2pm)
+
+**Buckets in this batch:**
+1. **Automation self-runs (~50 files)** — `morning-briefing`, `plan-radar`, `daily-cross-source-intell`, `editor-every-evening`, `entity-extraction-agent`, `email-activity`, `weekly-knowledge-base-compile`, `teams-meeting-transcripts`, `pattern-surfacer`, `content-calendar-export`, `x-bookmarks-parser`, `Moil-Brain-KB-Agent ingest these unpro...` (prior ingest sessions). Pure infrastructure; no net-new wiki intelligence.
+2. **Clio engineering (~10 files)** — `week-1-execution` (Garry Tan gstack adoption, 13,535-min session), `phase-0-subtraction` (UX/UI audit, 9,160-min), `ship-phase-1-start-phase-2-5` (stories + voice fixes), `bilingual-claim-audit-implementation-plan` (lang detection + label_es), `let-s-create-a-new-video-about-the-parents-side-of` (Clio parent-pitch Remotion video repo, ~45 new components in external `~/clio-video/`), `family-testing-fixes` (Martins age-11 nephew voice failure remediation), Clio weekly security audit. All flows through [[wiki/projects/clio]] + [[wiki/projects/lunabella]] auto-updates.
+3. **Brain/KB engineering (~6 files)** — `the-github-repo-felipeu28-my-brain-has-a-failing-g` (Pages deploy permissions fix, 2026-04-28), `brain-ingestion-health-2026-04-30` (404 sweep + sync_wiki audit + pattern-surfacer added), `let-s-start-a-full-audit-of-the-quality-of-data-we` (brain-graph over-connection audit, 2026-05-15), `security-review` (Clio 2026-05-12), `see-it-now` (2026-05-17: the **5-tier brain action pipeline** plan — `outputs/PIPELINE_PLAN.md` + tier-1 daily action queue builder; first concrete artifact for the output-side gap Run 55 flagged), `the-x-bookmarks-freshness-sentinel-critical-and-pi` (sentinel restoration).
+4. **Home/Accelerator + Local-prospector (~4 files)** — `application-scoring-proposed-changes` (2026-05-04, 87 user msgs / 234 responses / 745 tool calls — full **Accelerator Strategy Roadmap** drafted across Speedrun/YC/Sputnik ATX/Techstars/AI2/etc. for Moil + Clio; outputs land in `~/Library/Mobile Documents/.../Accelerator Applications System/` outside the wiki). `find-construction-companies-in-buda-tx-within-10-k` (2026-05-15 + 2026-05-17 — `/local-client-prospector` skill baselines; outputs in `test-runs/` outside the wiki; already mentioned in Run 55).
+5. **One-off help asks** — `help-me-find-the-document-i-got-from-the-first-off` (single-prompt lookup, 1 user msg / 1 response — surfacing the first gstack office-hours doc).
+
+**Notable but not promoted to wiki (rationale: output already captured elsewhere):**
+- **2026-05-17 "See it now" pipeline plan** — confirms the output-side action pipeline is now in motion. Tier-1 daily action queue builder shipped; `PIPELINE_PLAN.md` lives in `outputs/`. The Run 55 note ("the *action* pipeline is the next frontier") is now mid-build. Track future commits for whether tier-2..5 land.
+- **2026-05-04 Accelerator Strategy Roadmap** — comprehensive accelerator-application matrix for Moil + Clio (Speedrun + YC + Sputnik ATX already drafted; roadmap extends to 8+ more). Lives outside this repo by design. **Watch:** if a Moil or Clio application gets submitted/accepted/rejected, promote the outcome (not the application content) to [[wiki/moil/gtm]] or [[wiki/projects/clio]].
+- **2026-05-15 brain-graph data-quality audit** — flagged over-connection on certain hub pages. Findings already absorbed by `kb-health.py` ruleset + the Karpathy `## Related` linter that runs Sundays 9:30am.
+- **2026-05-03 Garry Tan gstack adoption for Clio** — Clio dev velocity pattern (10–15 parallel agents, named specialists). Captured implicitly via the [[wiki/projects/clio]] auto-updates and the `gstack` skill block in `~/CLAUDE.md` global rules.
+
+**MEMORY.md updates:** None (no new actions, deadlines, or commitments surfaced — all derived intelligence is already represented in MEMORY from the corresponding daily signal-briefs / Teams / email digests).
+
+**Index.md updates:** Run header only (Run 55 demoted to "Previous run header"). Wiki page count unchanged at 320. Raw source count auto-corrects via `kb-health.py --fix-index`.
+
+**Key intelligence (Run 56):** Pure hygiene/log-only run. The signal worth carrying forward:
+1. **The action pipeline is now in build** — the 2026-05-17 "See it now" session ships the first concrete artifact (`outputs/PIPELINE_PLAN.md` + tier-1 daily action queue builder). Pair with Run 55's observation that this gap had just been articulated for the first time on 2026-05-17. Roughly the same day Andres asked the question, work began on the answer.
+2. **Two-month Clio engineering arc captured by metadata only** — Phase 0 Subtraction (May 6, 9,160 min) → Week 1 Execution / gstack adoption (May 3, 13,535 min) → Ship Phase 1 + start Phase 2–5 (May 9) → Bilingual claim audit (May 17). The actual Clio engineering progress is best read from `wiki/projects/clio.md` + `git log` in `~/luna-brain`, not from these session-metadata stubs.
+3. **Accelerator funnel is loaded** — drafts already in for Speedrun + YC + Sputnik ATX (May 4 session). No outcomes yet to ingest.
+4. **77-file batch is the largest single log-only run on record** — beats Run 43 (65 files). Reflects the Claude Code session-metadata extraction script keeping pace with daily heavy usage.
+
+**Sync step:** `bash scripts/sync_wiki.sh`. **Health step:** `python3 scripts/kb-health.py --fix-index`.
+
+**Summary:** 77 session-metadata files marked ingested, zero wiki pages created or updated. Same disposition as Runs 14, 42, 43, 55 — log-only per established precedent. The substantive intelligence already flows through signal-briefs, project rollups, email digests, Teams transcripts, plan-radar, and the editor. Only one item is worth a flagged watch: the 5-tier brain action pipeline plan from 2026-05-17 (the answer to Run 55's open question is now mid-build).
+
+---
+
 ## 2026-05-17 — Run 55: weekly-sessions-2026-05-17 + brain-guide (log-only)
 
 **Trigger:** KB-agent scan for unprocessed raw files. Two found — both meta/reference content with no net-new wiki intelligence:
