@@ -4,6 +4,61 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ---
 
+## 2026-05-18 — Run 57: teams-transcript-monday-collaboration-2026-05-18
+
+**Trigger:** KB-agent scan for unprocessed raw files. One found: `raw/teams-transcript-monday-collaboration-2026-05-18.md` (~1h 52m of Teams transcript captured via Microsoft Graph; 1,663 lines). All other "not ingested" files in `raw/` and `raw/onedrive-transcripts/` are pre-frontmatter-convention files already processed in prior runs (Runs 2, 11, 28, 53) — confirmed by log.md cross-reference.
+
+**Files processed (1):**
+- `raw/teams-transcript-monday-collaboration-2026-05-18.md` (heavily speech-to-text-noisy due to strong Nigerian-English accents + simultaneous speech + music playback + intermittent network drops; raw header explicitly flags transcript quality). Frontmatter marked `ingested: true` / `ingested_at: 2026-05-18`.
+
+**Pages created (1):**
+- [[wiki/meetings/2026-05-18-monday-collaboration]] — full meeting page with transcript quality caveat, Andres' opening directives (high confidence), tentative decisions + action items (extracted conservatively from clear segments only), side threads, and notable absences/signal.
+
+**Pages updated (6):**
+- [[wiki/people/jacob-oluwole]] — added "May 18, 2026 — Monday Collaboration (Andres-absent edition)" section: organizer/lead on the call, repeated Request-a-Demo ask (twice, ~37 min + ~58:50), brand-DNA manual-input fallback ask repeated 3× before Adeleke answered, email-delivery bug surfaced (~1:50), no on-record mention of the May 15 KPI/research deliverables. `last_contact: 2026-05-15 → 2026-05-18`; source list expanded
+- [[wiki/people/adeleke-tolulope]] — added "May 18, 2026 — Visibly back online" section: 325 cues (second-most after Jacob), breaks the 7-day silence anomaly, named directly in Andres' opening for PowerPoint + HTML design polish, lead voice on the brand-DNA / image-generation feature walkthrough, manual brand-input fallback exists under *"Generate Branding"* but untested end-to-end, clean architecture clarification on SEO-open public pages vs. authenticated app. `last_contact: 2026-05-14 → 2026-05-18`; source list expanded
+- [[wiki/people/taiwo-ola-balogun]] — added "May 18, 2026 — Monday Collaboration light-touch" section: 21 cues (lowest of four engineers; consistent with May 14 heads-down on FitLogic Outlook migration + Meridian setup), committed to send test-account credentials for three projects, EOW deployment-call cadence with each customer, Andres' Meridian directive lands on him. `last_contact: 2026-05-14 → 2026-05-18`; source list expanded
+- [[wiki/people/abiodun-solomon]] — added "May 18, 2026 — Monday Collaboration: content read-aloud + crawler/scraping clarification" section: 357 cues, crawler/scraping question surfaces an architecture-curiosity reframe of his prior Apr 24 AI-adoption posture, generative content QA read-aloud (~1:28–1:51) including a notable satirical critique (*"40-page business plan in 6 seconds … 12 strategies, 11 of which are the same strategy reworded"*) — worth surfacing whether real customer feedback or LLM-generated meta-commentary, **no on-record reference to the May 15 marketing reset deliverables**. `last_contact: 2026-05-15 → 2026-05-18`; source list expanded
+- [[wiki/projects/fitlogic]] — Recent decisions: added 2026-05-18 top item — Andres directive to hold production push until website rebuild done by someone else; cross-ref to open Electric Bricks redesign thread. `last_updated: 2026-05-14 → 2026-05-18`
+- [[wiki/projects/meridian-buda]] — Recent decisions: added 2026-05-18 top item — Andres directive: ready Meridian + internal test, partner ([[wiki/people/travis-sutherland|Travis]]) triggers push when comfortable. Pairs with Taiwo's May 14 Travis@zoho.com verification-code re-request. `last_updated: 2026-05-03 → 2026-05-18`
+
+**Pages updated (operational):**
+- [[MEMORY]] — added "🔥 May 18 — Monday Collaboration (Andres-absent edition)" block with 9 new items (Adeleke PowerPoint + HTML design polish, Adeleke manual brand-DNA color control + token-mismatch fix, Taiwo test-account credentials + EOW deployment calls, Jacob test Meridian + brand-DNA, business-plan PPT email-delivery bug investigation, Request-a-Demo flow priority decision, FitLogic hold-prod standing rule, Meridian ready-then-partner standing rule, watch for Andres-absent Monday pattern). Top-of-file headline bumped to Run 57. Demoted the May 6 email-digest items block (8 items, 12d stale) to "Carried debts demoted" — all individually tracked on their pillar pages. Compressed three older run headers (Run 47, 48, 49) into one line for line-budget discipline. **MEMORY back to 199/200 cap** ✅
+- [[index]] — Run 57 header replacing Run 56; Run 56 demoted to "Previous run header"; meetings count 78 → 79 (+1 new); total wiki pages 321 → 322; raw count 629 → 630 (+1 marked ingested)
+
+**Skipped:** None — only one new raw file in this scan.
+
+**Other "not ingested" files audited but not processed (already handled in prior runs, missing only the `ingested: true` frontmatter convention):**
+- `raw/brain-knowledge-layer-analysis.md` — handled Run 2 (2026-04-16) as meta-reference; superseded by [[wiki/concepts/llm-knowledge-bases]] + [[wiki/concepts/brain-architecture]]
+- `raw/quartz-setup-guide.md` — reference doc; not user content; pre-frontmatter convention
+- `raw/teams-transcript-carolina-2026-04-30.md`, `raw/teams-transcript-heather-skeen-2026-04-30.md` — both handled Run 28 (HIVE Cohort 4 first 1:1s)
+- `raw/teams-transcript-moil-marketing-team-call-2026-05-15.md` — handled Run 53
+- `raw/onedrive-transcripts/*.txt` (10 files) — Run 11 documented as binary MP4 misnamed `.txt`; not ingestible as text. State unchanged.
+
+**Key intelligence (Run 57):**
+
+1. **First Andres-absent Monday Collaboration on record.** Andres joined for ~70 seconds at 12:40–12:41 UTC, handed off three project directives, and left for his daughter's school. The remaining ~1h 50m was Jacob × Adeleke × Abiodun × Taiwo with no Andres. **Pattern signal:** the team defaulted to feature-QA + content read-along, not structured ship-status review. If this becomes a pattern, the Monday call needs written-agenda discipline. The previous four Monday Collaborations (Apr 6, Apr 13, May 4, May 11) all had Andres present and steering.
+
+2. **Adeleke visibly back online — but escalations still open.** 325 cues (second only to Jacob's 616). This soft-closes the 7-day silence anomaly flagged on his page since May 12. **But it does not close the three stacked escalations individually** — xAI Grok 4.3 retirement (2x forwarded), Anita Lansing console errors (May 13 + 24h-later second paste), and Gemini 3.1 Flash Lite May-25 cutoff. Andres should confirm each individually before treating the silence as resolved.
+
+3. **Three Andres-side standing rules captured in 70 seconds.** (a) FitLogic prod push on hold until website rebuild done by someone else. (b) Meridian readied + tested internally; partner-side push trigger (Travis decides timing). (c) Adeleke owns PowerPoint + HTML design polish — HTML already good; PowerPoint still needs his finish work. This is **the most directive-dense Andres opening on record per unit time** — Andres has shifted toward telegraphic, hand-off-and-leave style on the team channel, consistent with his May 11 *"closing the marketing department"* / May 15 marketing reset escalation cadence.
+
+4. **Brand-DNA manual-input fallback is a foundational Moil 360 feature — and untested.** Adeleke confirmed *"Generate Branding"* exists with name + description + colors + fonts inputs, but *"I haven't tested if it's actually going to create this kind of website for you."* Every Moil 360 onboarding of a customer without a website depends on this path. Jacob raised the manual-input question **three times** before getting an answer — pattern read: Jacob is testing the gap case where the customer is pre-website (relevant to the May 15 LinkedIn-SMB outreach, since SMBs Moil targets often *don't* have a website yet).
+
+5. **Request-a-Demo flow missing on moilapp.com — Jacob's loudest repeated ask of the call.** Raised at ~37 min and ~58:50 min. Login exists, demo flow doesn't. This is a marketing-site gap that connects directly to the May 15 marketing reset's LinkedIn-SMB outreach assignment — without a demo capture surface, the cold-outbound work has no in-product conversion path. **Andres-side priority decision needed** before Jacob can prioritize this against his KPI-tracking + research deliverables for Fri May 22.
+
+6. **No on-record mention of the May 15 marketing reset deliverables during the call.** Neither Jacob (KPI tracking) nor Abiodun (LinkedIn-SMB outreach + hyperframes reference + Spanish-content regression) referenced their Fri May 22 deliverables. **The May 22 deliverable window has 4 calendar days left and zero observed progress in this transcript.** Worth a direct mid-week nudge before the Friday call.
+
+7. **Abiodun's satirical content read-aloud is worth a second look.** During the QA read-aloud (~1:28–1:51), one passage was a **satirical critique of Moil-style content** — *"40-page business plan in 6 seconds … 12 strategies, 11 of which are the same strategy reworded."* If this is real customer feedback Abiodun found in the wild, it's a content-quality signal Moil should address head-on. If it's LLM-generated meta-commentary, it's less load-bearing. Worth surfacing to Andres which source produced the satire.
+
+8. **Email-delivery bug surfaces (~1:50): business-plan PPT download works; confirmation email doesn't arrive.** Could share root cause with the May 14 outbound deliverability watch (same `andres@moilapp.com` / `partners@moilapp.com` sender-domain reputation). Triages two open MEMORY items into one engineering investigation: stand-up of a Moil-owned outbound-only domain (cold sends) + diagnostic on transactional email delivery (system notifications).
+
+**Sync step:** `bash scripts/sync_wiki.sh`. **Health step:** `python3 scripts/kb-health.py --fix-index`.
+
+**Summary:** Run 57 processed a single Teams transcript that captures the first Andres-absent Monday Collaboration on record. Andres' 70-second opening telegraphed three standing directives (FitLogic hold, Meridian partner-side, Adeleke design polish). The remaining ~1h 50m surfaced Adeleke back online after a 7-day silence (soft-close), the brand-DNA manual-input fallback as a foundational Moil 360 path that's untested end-to-end, a repeated Request-a-Demo ask from Jacob, and a business-plan PPT email-delivery bug. **The May 22 marketing-reset deliverables had zero on-record progress in this call** — worth a mid-week nudge before Friday. One new meeting page created, six pages updated (4 people + 2 projects), MEMORY back to 199/200 cap after demoting the May 6 email-digest items block and compressing three older run headers.
+
+---
+
 ## 2026-05-18 — Run 56: 77 Claude Code session logs (log-only)
 
 **Trigger:** KB-agent scan for unprocessed raw files. 77 found — all `raw/sessions/claude-code-YYYY-MM-DD-*.md` session-metadata records spanning 2026-04-28 → 2026-05-17. Each carries the same auto-generated frontmatter shape (`type: claude-code-session`, `session_id`, `project`, `date`, `duration_minutes`, `source_jsonl`) plus an extracted Ask, Files touched, Wiki entities referenced, Final user direction. None are raw user content — they are inventory/meta records of Claude Code sessions whose substantive output has already flowed through the dedicated channels.

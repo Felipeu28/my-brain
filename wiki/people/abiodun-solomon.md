@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-05-15
+last_contact: 2026-05-18
 tags:
   - graph/spoke
   - person/team
@@ -8,8 +8,8 @@ tags:
 # Abiodun Adekanmi (Ablad)
 
 **Type:** person
-**Last updated:** 2026-05-15
-**Source:** `raw/meetings/` (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-24]] (38 messages in Moil Marketing, Apr 24), [[raw/teams-2026-04-26]] (12 messages in Moil Marketing, Apr 26), [[raw/teams-transcript-moil-marketing-team-call-2026-05-15]]
+**Last updated:** 2026-05-18
+**Source:** `raw/meetings/` (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-24]] (38 messages in Moil Marketing, Apr 24), [[raw/teams-2026-04-26]] (12 messages in Moil Marketing, Apr 26), [[raw/teams-transcript-moil-marketing-team-call-2026-05-15]], [[raw/teams-transcript-monday-collaboration-2026-05-18]]
 **Related:** [[wiki/people/jacob-oluwole]], [[wiki/moil/positioning]], [[wiki/people/inna-benyukhis]]
 
 > **Name correction:** Teams profile shows "Abiodun Adekanmi" — previous meeting transcripts referenced "Abiodun Solomon." The Teams name is authoritative. "Ablad" remains team nickname.
@@ -176,6 +176,15 @@ Source: [[raw/teams-transcript-moil-marketing-team-call-2026-05-15]], [[wiki/mee
 - **Spanish content cadence regression named.** Andres flagged that Moil used to publish ~20 Spanish posts/week and *"someone made the decision and we just stopped."* He wants to know what changed. **First time the Spanish-content drop has been named in a marketing review** — open thread for Ablad to surface root cause.
 - **Reference companies to study**: Claude, ChatGPT, Y Combinator launch/demo videos, Motion. Claude uses hyperframes for promo videos — Andres flagged this is exactly the workflow he sent Ablad weeks ago.
 - **Side-conversation risk (after Andres dropped):** Ablad asked Jacob *"where do we start?"*; Jacob proposed Grok for peer-AI-company research. Default-back to LLM-summary workflow within 30 seconds of Andres' explicit *"if anybody can tell you if it's ChatGPT, it'll be me"* preempt. Watch the May 22 deliverable for depth signal.
+
+## May 18, 2026 — Monday Collaboration: content read-aloud + crawler/scraping clarification
+
+Source: [[raw/teams-transcript-monday-collaboration-2026-05-18]], [[wiki/meetings/2026-05-18-monday-collaboration]]
+
+- **Active in Monday Collaboration — 357 cues.** First on-record post-marketing-reset participation; reset assigned him a 1–2 hour market-research deliverable with Jacob for Fri May 22. **No on-record mention of the LinkedIn-SMB outreach research, the hyperframes/Hai Jen reference, or any joint deliverable with Jacob during the call** — the May 22 deliverable window is shrinking
+- **Crawler / scraping question (~17 min).** Asked Adeleke whether prod prevents AI/bots from crawling. Adeleke clarified: public pages intentionally SEO-open; authenticated app is protected. Surfaces an engineering-vs-content boundary curiosity from Ablad — worth tracking as a potential reframe of his AI-adoption posture (the Apr 24 clash framed Ablad as resistant to AI tools; here he's surfacing an architecture question)
+- **Generative content QA read-aloud (~1:28–1:51).** Read aloud sample AI-generated marketing copy on the call: *"Social Metrics Pro"* demo, social-media best-practices script, *"Launch your startup"* pitch, plus a **satirical critique** — *"40-page business plan in 6 seconds … 12 strategies, 11 of which are the same strategy reworded."* The satirical read was the longest segment — worth surfacing whether this is real customer feedback Ablad found in the wild or an LLM-generated meta-commentary he stumbled on. If it's real-customer satire, that's a content-quality signal Moil should address head-on
+- **No reference to the marketing reset.** Did not surface the Friday cadence, the LinkedIn-SMB outreach, the hyperframes reference, or the Spanish-content regression — all named in [[wiki/meetings/2026-05-15-moil-marketing-team-reset|the May 15 reset]]. **Watch the May 22 deliverable** — if it shows first-principles ICP segmentation, the reset took. If it's a Grok summary, the work-definition gap Andres preempted is the real bottleneck
 
 ## Gaps
 

@@ -2,7 +2,7 @@
 tags:
   - graph/spoke
 status: active
-last_updated: 2026-05-03
+last_updated: 2026-05-18
 ---
 # Meridian Buda
 
@@ -35,6 +35,7 @@ _Updated: 2026-05-18 08:00 (window: 2026-05-11 → 2026-05-18)_
 
 ## Recent decisions
 
+- **2026-05-18** — Andres directive in Monday Collaboration opening: **ready Meridian + internal testing; partner ([[wiki/people/travis-sutherland|Travis]]) triggers push when comfortable.** *"We need to have it ready, we need to test it, and then he'll be able to push whenever he's ready and feels good about the testing."* Push timing is partner-side. Pairs with [[wiki/people/taiwo-ola-balogun|Taiwo]]'s May 14 Travis@zoho.com verification-code re-request item. Source: [[wiki/meetings/2026-05-18-monday-collaboration]]
 - 2026-04-13 — Monday collaboration sync; build cadence confirmed. Source: [[raw/teams-transcript-monday-collaboration-2026-04-13]]
 - 2026-04-09 — Deal closed; Travis announced internally same week as Connectex + Zoiwell renewal. Source: [[wiki/moil/pipeline]]
 

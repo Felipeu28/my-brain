@@ -2,7 +2,7 @@
 tags:
   - graph/spoke
 status: active
-last_updated: 2026-05-14
+last_updated: 2026-05-18
 ---
 # FitLogic
 
@@ -35,6 +35,7 @@ _Updated: 2026-05-18 08:00 (window: 2026-05-11 → 2026-05-18)_
 
 ## Recent decisions
 
+- **2026-05-18** — Andres directive in Monday Collaboration opening (~01:00): **hold FitLogic production push until website rebuild is complete.** *"We're not going to push that out anytime soon until our website is completed by someone else."* Cross-ref to the open Electric Bricks redesign thread. Source: [[wiki/meetings/2026-05-18-monday-collaboration]]
 - **2026-05-14** — Two-domain architecture confirmed (`fitlogicfunctionalmedicine.com` patient / `myfitlogic.com` sales); GoDaddy account-level delegate granted to `Andres@moilapp.com`; security posture written down (no continued Moil access, rotate passwords post-deploy, 2FA on); in-person walkthrough locked **Wed May 20 10 AM CT at FitLogic**. Source: [[wiki/meetings/2026-05-14-megan-taiwo-fitlogic-2fa-godaddy-session]]
 - 2026-04-29 — Moil 360 full stack delivered (CRM + Campaigns + Content360); Michelle named as practice manager and platform operator; "owner trains a manager" pattern locked in. Source: [[wiki/meetings/2026-04-29-megan-fitlogic-crm-delivery]]
 - 2026-04-23 — Coach fixed for Megan; CRM stack architected with Megan's credentials owning every account (Taiwo collaborator only) for clean go-live handover. Source: [[wiki/orgs/fitlogic]]

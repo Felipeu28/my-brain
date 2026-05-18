@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-05-14
+last_contact: 2026-05-18
 tags:
   - graph/spoke
   - person/team
@@ -8,8 +8,8 @@ tags:
 # Taiwo Ola-Balogun
 
 **Type:** person
-**Last updated:** 2026-05-14
-**Source:** `raw/meetings/` (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026), [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/teams-2026-04-24]] (9 messages 1:1, Apr 24), [[raw/teams-2026-04-26]] (4 messages 1:1, Apr 26), [[raw/teams-transcript-website-update-review-call-2026-04-28]], [[raw/teams-transcript-mark-polanco-andres-2026-04-28]], [[raw/teams-transcript-monday-collaboration-2026-05-04]], [[raw/teams-transcript-meeting-to-go-over-ongoing-projects-2026-05-06]], [[raw/teams-transcript-megan-andres-2026-05-14]]
+**Last updated:** 2026-05-18
+**Source:** `raw/meetings/` (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026), [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/teams-2026-04-24]] (9 messages 1:1, Apr 24), [[raw/teams-2026-04-26]] (4 messages 1:1, Apr 26), [[raw/teams-transcript-website-update-review-call-2026-04-28]], [[raw/teams-transcript-mark-polanco-andres-2026-04-28]], [[raw/teams-transcript-monday-collaboration-2026-05-04]], [[raw/teams-transcript-meeting-to-go-over-ongoing-projects-2026-05-06]], [[raw/teams-transcript-megan-andres-2026-05-14]], [[raw/teams-transcript-monday-collaboration-2026-05-18]]
 **Related:** [[wiki/people/adeleke-tolulope]], [[wiki/people/jacob-oluwole]], [[wiki/moil/product-roadmap]], [[wiki/meetings/2026-04-23-megan-crm-google-setup]], [[wiki/meetings/2026-05-06-andres-taiwo-ongoing-projects]], [[wiki/meetings/2026-05-14-megan-taiwo-fitlogic-2fa-godaddy-session]]
 
 ---
@@ -220,6 +220,15 @@ Source: [[raw/teams-transcript-megan-andres-2026-05-14]], [[wiki/meetings/2026-0
 - **Meridian setup blocker surfaced post-Megan-drop.** Same evening Taiwo also handling Meridian setup. Verification code was sent to **`Travis@zoho.com`** and the mailbox appears empty / not received. Plan: re-run the request, ping Andres, Andres asks [[wiki/people/travis-sutherland|Travis]] for the code. Pattern: Taiwo stays on after the customer drops to surface secondary blockers rather than emailing them later
 - **GitHub accounts ready (per Taiwo at end of call):** *"Yes, sir, yes, sir, everything is ready, so I will get this evening… on the GitHub accounts, yeah, I'm able to set everything up."* Closes the May 11 Monday Collaboration commitment on GitHub access migration to the new Moil sales email
 - **Pace signal: no time-zone friction.** Took the late-evening Nigeria session voluntarily; no recurrence of the Apr 18 "2 AM my time" boundary
+
+## May 18, 2026 — Monday Collaboration light-touch (testing-account credential commitment)
+
+Source: [[raw/teams-transcript-monday-collaboration-2026-05-18]], [[wiki/meetings/2026-05-18-monday-collaboration]]
+
+- **Light participation (21 cues — lowest of the four engineers).** Consistent with the May 14 heads-down on FitLogic Outlook migration + Meridian setup the night before. No on-record update on whether the May 14 FitLogic ship landed (~the "only change required was one email address" item Jacob was asked to probe May 15)
+- **Committed to send testing-account credentials.** Opening commitment to Jacob: *"I'm going to be sending the passwords and email of the testing accounts for the three projects."* End-of-week target is a deployment call with each customer
+- **End-of-week deployment-call cadence.** *"By the end of this week, we are going to sit on a call with each and every one of them and deploy."* New cadence rule: even after push to prod, customer testing on the deployment call. Pattern continues the May 14 in-person FitLogic walkthrough rhythm (Megan + Michelle test → Wed walkthrough)
+- **Andres' Meridian directive lands on him:** *"Meridian, we need to have it ready, we need to test it, and then he [[wiki/people/travis-sutherland|[Travis]]] will be able to push, you know, whenever he's ready and feels good about the testing."* Taiwo is the active builder on Meridian; the push-trigger is partner-side
 
 ## Contact
 

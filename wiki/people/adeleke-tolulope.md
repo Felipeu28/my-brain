@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-05-14
+last_contact: 2026-05-18
 tags:
   - graph/hub
   - person/team
@@ -8,8 +8,8 @@ tags:
 # Adeleke Tolulope (Steve)
 
 **Type:** person
-**Last updated:** 2026-05-14
-**Source:** `raw/meetings/` (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026), [[raw/teams-2026-04-24]] (Moil Team + 1:1 Apr 24), [[raw/teams-2026-04-26]] (1 message 1:1, Apr 26), [[raw/teams-transcript-monday-collaboration-2026-05-04]], [[raw/email-digest-2026-05-12]], [[raw/signal-briefs/signal-brief-2026-05-12]], [[raw/email-digest-2026-05-13]], [[raw/signal-briefs/signal-brief-2026-05-13]], [[raw/email-digest-2026-05-14]], [[raw/signal-briefs/signal-brief-2026-05-14]]
+**Last updated:** 2026-05-18
+**Source:** `raw/meetings/` (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026), [[raw/teams-2026-04-24]] (Moil Team + 1:1 Apr 24), [[raw/teams-2026-04-26]] (1 message 1:1, Apr 26), [[raw/teams-transcript-monday-collaboration-2026-05-04]], [[raw/email-digest-2026-05-12]], [[raw/signal-briefs/signal-brief-2026-05-12]], [[raw/email-digest-2026-05-13]], [[raw/signal-briefs/signal-brief-2026-05-13]], [[raw/email-digest-2026-05-14]], [[raw/signal-briefs/signal-brief-2026-05-14]], [[raw/teams-transcript-monday-collaboration-2026-05-18]]
 **Related:** [[wiki/people/jacob-oluwole]], [[wiki/people/taiwo-ola-balogun]], [[wiki/moil/positioning]], [[wiki/moil/product-roadmap]]
 
 ---
@@ -179,6 +179,16 @@ Adeleke was invited to the May 11 Monday Collaboration but **not heard on the tr
 2. **Gemini Flash Lite cron switch** for the weekly health-summary job (committed May 4 Monday Collaboration)
 
 He has been the central engineering voice in prior Monday meetings; a full silent day while two of his open commits are time-sensitive is worth a **direct nudge May 12** before deadlines slip further. Pattern to watch — first full-day silence captured since the May 4 cost-discipline reset.
+
+## May 18, 2026 — Visibly back online; brand-DNA feature lead
+
+Source: [[raw/teams-transcript-monday-collaboration-2026-05-18]], [[wiki/meetings/2026-05-18-monday-collaboration]]
+
+- **Heavy participation in Monday Collaboration — 325 cues (second-most after Jacob's 616).** Breaks the May 11–14 silence anomaly that had hit 7+ days with three stacked production escalations (xAI Grok 4.3 re-forward, Anita Lansing console errors May 13/14, Gemini 3.1 Flash Lite May-25 cutoff). **Engineering channel is meaningfully back online** — reduces escalation pressure but doesn't close the three stacked items individually
+- **Andres named him directly in the opening handoff:** *"Stevie's gonna work on a couple of things for the PowerPoints and the design, and then we should be good to go."* Adeleke owns the design polish + HTML; Andres said *"the HTML thing is already good to go"* but PowerPoint design still needs his finish work
+- **Brand-DNA / image-generation staging walkthrough.** Lead voice through ~10 minutes (~03–13) walking Jacob through the new feature: scrapes customer's website HTML, extracts brand tokens (fonts, colors, voice), generates a "mini website" preview, feeds image generation. Replicates the experiment Andres ran on the side. Implementation status: **multi-step and "coach" steps aren't fully aligning on the extracted tokens** — Adeleke is adding a manual color-customization control as the gap fix
+- **Manual brand-input fallback exists but is untested.** Confirmed under *"Generate Branding"* — name + description + colors + fonts inputs are wired; *"I haven't tested if it's actually going to create this kind of website for you."* Needs end-to-end test before any Moil 360 onboarding of a customer without a website can flow through it
+- **Architecture clarification (~17 min, to Abiodun):** *"public pages are intentionally SEO-open so crawlers have access; authenticated app is protected."* Clean restatement of the prod security boundary — worth capturing as a written architecture note rather than scattered transcript mentions
 
 ## May 14, 2026 — xAI Grok 4.3 re-forward + silence anomaly hits 7+ days
 

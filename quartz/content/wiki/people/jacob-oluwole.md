@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-05-15
+last_contact: 2026-05-18
 tags:
   - graph/hub
   - person/team
@@ -8,8 +8,8 @@ tags:
 # Jacob Oluwole
 
 **Type:** person
-**Last updated:** 2026-05-15
-**Source:** `raw/meetings/` (multiple meeting transcripts), [[raw/email-history-2months-2026-04-12]], [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026), [[raw/teams-2026-04-24]] (39 messages 1:1, Apr 24), [[raw/email-digest-2026-04-27]], [[raw/teams-transcript-website-update-review-call-2026-04-28]], [[raw/email-digest-2026-05-11]], [[raw/email-digest-2026-05-12]], [[raw/email-digest-2026-05-13]], [[raw/email-digest-2026-05-14]], [[raw/signal-briefs/signal-brief-2026-05-14]], [[raw/teams-transcript-moil-marketing-team-call-2026-05-15]]
+**Last updated:** 2026-05-18
+**Source:** `raw/meetings/` (multiple meeting transcripts), [[raw/email-history-2months-2026-04-12]], [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026), [[raw/teams-2026-04-24]] (39 messages 1:1, Apr 24), [[raw/email-digest-2026-04-27]], [[raw/teams-transcript-website-update-review-call-2026-04-28]], [[raw/email-digest-2026-05-11]], [[raw/email-digest-2026-05-12]], [[raw/email-digest-2026-05-13]], [[raw/email-digest-2026-05-14]], [[raw/signal-briefs/signal-brief-2026-05-14]], [[raw/teams-transcript-moil-marketing-team-call-2026-05-15]], [[raw/teams-transcript-monday-collaboration-2026-05-18]]
 **Related:** [[wiki/moil/positioning]], [[wiki/people/adeleke-tolulope]], [[wiki/people/abiodun-solomon]], [[wiki/people/taiwo-ola-balogun]]
 
 ---
@@ -228,6 +228,17 @@ Source: [[raw/teams-transcript-moil-marketing-team-call-2026-05-15]], [[wiki/mee
 - **Same-day FitLogic probe.** Andres asked Jacob to locate Taiwo immediately after the call and report back why FitLogic delivery is overdue — only change required was one email address; due last week. Direct cross-ref to [[wiki/meetings/2026-05-14-megan-taiwo-fitlogic-2fa-godaddy-session|May 14 GoDaddy delegate session]] — Andres' frustration is the gap between the May 14 session closing the 2FA / domain blocker and the FitLogic feature delivery still being unshipped.
 - **Alloy access escalation.** Jacob to confirm whether Alloy granted Facebook access — no email from Facebook seen yet; Andres needs to post by Monday 2026-05-18 and committed to pulling existing Alloy images himself + working the weekend if access doesn't land today.
 - **Joint research-first deliverable with Ablad.** Strategy *from* the research (not a research dump). Andres review before any new content produced. **Side-conversation risk after Andres dropped:** Jacob proposed using Grok to identify peer AI companies — exactly the LLM-summary workflow Andres preempted on the call (*"Trust me, if anybody can tell you if it's ChatGPT, it'll be me"*). Watch the May 22 deliverable for depth signal vs. another Grok summary.
+
+## May 18, 2026 — Monday Collaboration (Andres-absent edition)
+
+Source: [[raw/teams-transcript-monday-collaboration-2026-05-18]], [[wiki/meetings/2026-05-18-monday-collaboration]]
+
+- **Organizer / lead.** Standing Monday session — Andres joined for ~70 seconds (three project handoffs) and stepped out for his daughter's school. Jacob ran the rest of the ~1h 52m. **First on-record Monday Collaboration without Andres present** — Jacob defaulted to demo / content read-along format rather than structured ship-status review
+- **Brand-DNA staging walkthrough with Adeleke.** Got walked through the new website-scrape → font/color/voice extraction → mini-website-preview feature. Jacob's repeated ask: *"Is there a way I can manually input this without putting my website?"* — three repetitions before Adeleke answered (yes, under "Generate Branding," untested end-to-end). Pattern signal: Jacob is testing for **gap cases without a customer website** — relevant to every Moil 360 onboarding where the customer is pre-website
+- **Request-a-Demo ask raised twice (~37 min, ~58:50).** Surfaced as a marketing-site gap: login exists, demo flow doesn't. **Clear repeated ask** — Jacob is naming a conversion surface missing from moilapp.com that connects to the May 15 LinkedIn-SMB outreach assignment. Without a demo capture, the cold-outbound work has no in-product conversion path
+- **Email-delivery bug surfaced (~1:50).** Can download the business-plan PPT but is not receiving the confirmation email. Pairs with the May 14 outbound deliverability watch — could be sender-domain reputation hitting transactional email too
+- **Action items received:** test Meridian + brand-DNA on staging this week; give feedback to Adeleke. Receiving testing-account credentials from Taiwo for three projects
+- **Notable:** no on-record mention of the May 15 KPI-tracking deliverable, the Friday May 22 cadence, or the LinkedIn-SMB outreach research. Jacob spent the call in feature-QA mode rather than the marketing-reset deliverables Andres assigned him last Thursday. **Watch:** by Fri May 22, the KPI process + research deliverable still need to land
 
 ## Gaps
 

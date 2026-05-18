@@ -1,10 +1,8 @@
 # MEMORY — Open Actions & Live Commitments
 
-**Last updated:** 2026-05-16 (Run 54 — `raw/email-digest-2026-05-15` ingested. **🎉 HIVE Strategist Agreement SIGNED + RETURNED** by Andres 2026-05-15 17:37 CDT (Joshua + Shannon cc); closes the multi-week PSA/SoW loop opened Apr 21 — awaiting Buda EDC countersign. Pairs with Jacquie's May 14 33-license expansion = **two parallel Buda EDC revenue surfaces both landing the same week**. Becky picked Tue May 26 (in-person/Teams TBD); Megan accepted May 20 10 AM in-person; Monica Davidson took Jordan Kaiser intro within 48h *"happy to help"*; John Costilla on Mac Decision Brief wants call to align on consulting piece — Andres needs SoW draft + consulting bundle before the call. New: Shanonn Thompson (`shanonn@teamalloy.com`) surfaced as AlloyATX FB/ops contact.) · **Run 53 (2026-05-15):** marketing-team-reset transcript ingested. Friday May 22 = first results-and-planning call; Jacob owns KPI tracking; Ablad LinkedIn-SMB outreach assigned. · **Weekly compile Run 52:** 3 sections demoted from 🔥 Immediate → 💤 Deferred per >14d-old rule.
+**Last updated:** 2026-05-18 (Run 57 — `raw/teams-transcript-monday-collaboration-2026-05-18` ingested. **First Andres-absent Monday Collaboration on record** — Andres handed off three project directives in 70 seconds then stepped out for his daughter's school; team ran the remaining ~1h 50m as feature-QA + content read-along, not structured ship-status. **Adeleke visibly back online** (325 cues) — soft-closes the 7-day silence anomaly but the three stacked escalations remain open (xAI, Anita, Gemini). **Andres directives:** hold FitLogic prod push until website rebuild done; ready Meridian + internal test (partner pushes); Stevie finishes PowerPoints + HTML design. **Repeated ask:** Request-a-Demo flow missing on moilapp.com.) · Run 54 (2026-05-16) — `raw/email-digest-2026-05-15` ingested. **🎉 HIVE Strategist Agreement SIGNED + RETURNED** by Andres 2026-05-15 17:37 CDT; closes the multi-week PSA/SoW loop opened Apr 21 — awaiting Buda EDC countersign. Becky picked Tue May 26; Megan accepted May 20 10 AM in-person; Monica × Jordan intro 48h. · **Run 53 (2026-05-15):** marketing-team-reset transcript ingested. Friday May 22 = first results-and-planning call.
 **Run 50 (2026-05-14 PM):** 1 new Teams transcript — **Megan × Andres × Taiwo — GoDaddy delegate + Outlook migration session**. New meeting: [[wiki/meetings/2026-05-14-megan-taiwo-fitlogic-2fa-godaddy-session]]. Closed May 11 2FA wiring blocker + May 7 next-week in-person commitment (now Wed May 20 10 AM CT at FitLogic). First on-record articulation of the Moil-touches-customer-accounts security pattern. Two-domain architecture written down as standing pattern.
-**Run 49 (2026-05-14 AM):** email-digest-2026-05-13 + signal-brief-2026-05-13 ingested. **Perseus Defense YC recommendation submitted** (Jason Cornelius *"Rec. is in"*); Andres committed to looping Perseus in on any YC interview signal. Adeleke silence anomaly extends to 6 days. Monica Davidson intro for Jordan confirmed sent 17:57 CDT.
-**Run 48 (2026-05-13 PM):** 1 new Teams transcript — Jordan Kaiser × Andres Cohort-4 first 1:1. New page: [[wiki/people/jordan-kaiser]]. **Second independent surfacing of HIVE 1-yr Moil license precedent in 24 hours.** Silent ship documented: Moil now sends 3 proactive coaching emails/week to active business users.
-**Run 47 (2026-05-13 AM):** email-digest-2026-05-12 + signal-brief-2026-05-12 ingested. **Perseus YC meeting happened** May 12 8 AM — Steve Messinger warm reply. **Buda EDC Incubator Strategist contracts on a same-week finalization track.** **Cold campaign first all-SMB day** — 17 sends, 11 verticals.
+**Runs 47–49 (2026-05-13 → 14):** Perseus YC meeting May 12 + Jason Cornelius YC rec submitted May 13 + Jordan Kaiser Cohort-4 1:1 ingested. Moil ships silent 3-emails/week proactive coaching feature; HIVE 1-yr license precedent surfaces twice in 24h; Monica × Jordan intro confirmed; Buda EDC Incubator Strategist on same-week finalization track.
 **Purpose:** Single source of truth for open action items extracted from ingested raw sources.
 
 > Relationship/concept context: [[index]] · Ingestion history: [[log]]
@@ -13,7 +11,19 @@
 
 ---
 
-## 🔥 Immediate — This Week (May 11 – May 17, 2026)
+## 🔥 Immediate — This Week (May 18 – May 24, 2026)
+
+### 🔥 May 18 — Monday Collaboration (Andres-absent edition) — three project directives
+Source: [[raw/teams-transcript-monday-collaboration-2026-05-18]], [[wiki/meetings/2026-05-18-monday-collaboration]]
+- [ ] **🔥 Adeleke:** Finish **PowerPoint + HTML design polish** (Andres opening directive); HTML *"already good to go"* per Andres, PowerPoint design is the remaining gap
+- [ ] **🔥 Adeleke:** Ship **manual color/customization control on brand-DNA staging**; resolve multi-step ↔ coach token mismatch. Manual-input fallback exists under *"Generate Branding"* but is **untested end-to-end** — every Moil 360 onboarding of a customer without a website depends on it
+- [ ] **🔥 Taiwo:** Send testing-account emails + passwords for the **three projects** to Jacob this week; **EOW deployment call** with each customer (Fri 2026-05-23 target)
+- [ ] **🔥 Jacob:** Test Meridian + brand-DNA on staging; give feedback to Adeleke. **No on-record mention** of the May 15 KPI-tracking deliverable, Friday May 22 cadence, or LinkedIn-SMB outreach during the call — watch the window
+- [ ] **🔥 Team:** Investigate **business-plan PPT email-delivery bug** (Jacob: download works, confirmation email doesn't arrive). May share root cause with the May 14 outbound deliverability watch
+- [ ] **🔥 Andres / Jacob:** Decide priority on **Request-a-Demo / Schedule-a-Demo** flow on moilapp.com — Jacob raised it twice on the call (login exists, demo flow doesn't). Connects to LinkedIn-SMB outreach: without a demo capture surface, the cold-outbound work has no in-product conversion path
+- [ ] **Standing — FitLogic (Andres directive):** **hold production push** until the website rebuild is complete *"by someone else."* No code-side action; surface the rebuild ETA to unblock
+- [ ] **Standing — Meridian (Andres directive):** ready it + internal test; **[[wiki/people/travis-sutherland|Travis]] triggers the push** when comfortable. Pairs with Taiwo's May 14 Travis@zoho.com verification-code re-request item
+- [ ] **Watch — pattern signal:** **First Andres-absent Monday Collaboration on record.** Team defaulted to demo + content read-aloud, not structured ship-status. If this becomes a pattern, the Monday call needs a written-agenda discipline rule. **Adeleke heavy participation (325 cues) soft-closes the 7-day silence** — but xAI / Anita / Gemini items individually still open
 
 ### 🔥 May 15 — Moil marketing team reset (Friday cadence + KPI ownership + LinkedIn SMB outreach)
 Source: [[raw/teams-transcript-moil-marketing-team-call-2026-05-15]], [[wiki/meetings/2026-05-15-moil-marketing-team-reset]]
@@ -100,17 +110,6 @@ Source: [[wiki/meetings/2026-05-07-megan-andres-fitlogic-crm-handoff]]
 - [ ] **Megan (Q2):** Add monthly **Women's Vitality Group Circle** (in-person) to FitLogic membership; design quarterly equivalent for men — wants Andres's input on format
 - [ ] **Watch / capture:** "My Life on Purpose" LLC + menopause/andropause coaching-certification course are a future Moil 360 surface (course site + email + CRM). Track when Megan formalizes
 
-### 🔥 May 6 — Email-digest items requiring action
-Source: [[raw/email-digest-2026-05-06]]
-- [ ] **🔥 Andres + Jacob/Taiwo:** Reply to [[wiki/people/becky-torres|Becky]]'s May 6 process-confusion thread — give her one clear feedback rhythm/format (video uploads + 48–72hr build cycle + monthly in-person walkthrough at SIREN). The "no proactive design changes" rule is necessary but not sufficient — process clarity is the unblock
-- [x] ~~**🔥 Andres:** Review [[wiki/people/joshua-edmond|Joshua's]] May 6 revised Incubator Strategist SoW; align before next round-trip with Shannon/Jacqueline~~ ✅ **Closed May 15 — Andres returned signed Updated HIVE Strategist Agreement at 17:37 CDT.** Awaiting Buda EDC countersign as next round-trip artifact
-- [ ] **🔥 Andres:** Review [[wiki/people/adeleke-tolulope|Steve's]] / [[wiki/people/jacob-oluwole|Jacob's]] response on the **B-Coach prod INTERNAL_ERROR** thread — failed profile creation; close the loop with the affected client. Andres forwarded mid-day May 6
-- [ ] **🔥 Steve:** Assess **xAI Grok 4.3 release + xAI API model retirement** impact on Moil; ship updates before retirement deadline. Andres forwarded May 6 05:42 UTC
-- [ ] **Andres / Jacob:** Lock the **Linda Horuke / Jungle Flavorz** 30-min call **May 7 or May 8** — Linda offered *"today or tomorrow"* on May 6; same-day high-intent window closes fast
-- [x] ~~**Andres:** Hold the **Megan Miller** afternoon meeting (Teams invite sent May 6 21:02 UTC) — scoped to GoDaddy DNS verification for Resend~~ ✅ **Held May 7 3:30–4:55 PM CT.** Resolved via `myfitlogic.com` workaround instead of fighting the Cloudflare-locked original domain
-- [ ] **Watch:** Oscar Esquivel's reply latency on Andres's May 6 consolidated Business Plan reply (One-Year Plan + 2 Growth Engines + 6 social documents). Silence past May 8 narrows the activation-handoff window — anchor a live call before drift
-- [ ] **No re-engagement before May 13** on [[wiki/people/heather-skeen|Heather Skeen]] — she said *"follow up next week or two"* in her May 6 reply. Let the daycare-PD homework breathe; nudge only if silent past May 20
-
 ### 🔥 May 6 — Andres × Taiwo session: Siren Beauty + FitLogic blockers
 Source: [[wiki/meetings/2026-05-06-andres-taiwo-ongoing-projects]]
 - [ ] **🔥 Andres:** Reply to [[wiki/people/becky-torres|Becky's]] email — apologize for the wrong staging build; explain the staging-vs-prod misfire; point her at the corrected build; confirm video-feedback items addressed
@@ -139,6 +138,7 @@ Source: [[wiki/meetings/2026-05-04-monday-collaboration]]
 - [ ] **Standing:** Weekly Monday cost review (Gemini, OpenAI, Groq, Grok dashboards) is now a permanent agenda item
 
 ### 🔥 Carried debts demoted to log.md
+- **Run 57 (2026-05-18):** May 6 email-digest items block (8 items, 12d stale) — Becky process-confusion reply was already partially addressed May 7; B-Coach INTERNAL_ERROR loop, Linda Horuke 30-min call, Oscar Esquivel reply latency, Heather Skeen no-touch-til-May-13, Steve xAI assessment — all tracked individually on their pillar pages; demoted to [[log.md]]
 - **Run 53 (2026-05-15):** May 1 outstanding non-keynote items (John video-workflow walkthrough; Marilyn/Nuovo discovery) + May 4 HIVE Cohort 4 1:1 cadence (Christine+Kat Train Depot + Claudia homework + Sarah recon) — 11–14d stale; tracked on [[wiki/people/christine-stjohn]], [[wiki/people/claudia-sanchez]], [[wiki/people/sarah-hive-cohort]], [[wiki/people/john-costilla]], [[wiki/people/marilyn-martinez]]; demoted to [[log.md]]
 - **Run 52 (2026-05-15 weekly compile):** Apr 30 HIVE Cohort 4 first 1:1s + Apr 29 AI-spend observability emergency + Apr 28 Connectex go-live sprint — all 15d+ past their date label; moved to 💤 Deferred auto-demoted subsection (still actionable, just no longer "this week")
 - **Run 51 (2026-05-15):** Apr 29 NBCC + west-coast SMB conversion-lane block + Apr 29 FitLogic delivered P0 bug list — both 16d+ stale; tracked via [[wiki/projects/fitlogic]], [[wiki/concepts/ai-cold-outreach]], [[wiki/moil/gtm]]; demoted to [[log.md]]

@@ -1,8 +1,8 @@
 # Moil Brain — Master Index
 
-**Last compiled:** 2026-05-18 (Run 56 — 77 Claude Code session-metadata files ingested log-only at `raw/sessions/claude-code-*.md`, spanning 2026-04-28 → 2026-05-17. Same disposition as Runs 14/42/43/55 — bookkeeping batch; substantive intel already lands via signal-briefs, project rollups, email-digest, Teams pulls, plan-radar, editor. **One flagged watch:** the 2026-05-17 "See it now" session shipped the first artifact (`outputs/PIPELINE_PLAN.md` + tier-1 daily action queue builder) of a **5-tier brain action pipeline** — the output-side gap Run 55 had just named. Largest single log-only run on record (77 files beats Run 43's 65). · **Total wiki pages:** 321 · **Raw sources:** 629 (unchanged — files already counted; ingest flag is the only mutation)
+**Last compiled:** 2026-05-18 (Run 57 — `raw/teams-transcript-monday-collaboration-2026-05-18` ingested. **First Andres-absent Monday Collaboration on record** — three project handoffs in 70 seconds (hold FitLogic prod push, ready Meridian for partner-side push, Adeleke finishes PowerPoint + HTML design) then Andres left for daughter's school. Team ran 1h 50m as feature-QA + content read-along, not structured ship-status. **Adeleke heavy participation (325 cues) soft-closes the 7-day silence anomaly**; xAI / Anita / Gemini escalations still open individually. **Repeated ask:** Request-a-Demo flow missing on moilapp.com. New meeting: [[wiki/meetings/2026-05-18-monday-collaboration]]. · **Total wiki pages:** 322 · **Raw sources:** 630 (+1 file marked ingested + 1 new meeting page)
 
-**Previous run header:** Run 55 (2026-05-17) — 2 files log-only: `raw/weekly-sessions-2026-05-17.md` (Claude Code weekly rollup, week of 2026-05-10) + `raw/brain-guide.md` (pre-v3 Brain user manual, fully superseded). First articulation of the *action-pipeline* gap on 2026-05-17 ("How do we start actually taking action on things?"). Run 56's "See it now" session is the first build on that question.
+**Previous run header:** Run 56 (2026-05-18) — 77 Claude Code session-metadata files ingested log-only, spanning 2026-04-28 → 2026-05-17. Same disposition as Runs 14/42/43/55. Largest single log-only run on record. Flagged watch: 2026-05-17 *"See it now"* session shipped the first artifact (`outputs/PIPELINE_PLAN.md` + tier-1 daily action queue builder) of a 5-tier brain action pipeline.
 
 > **Canonical operating truth lives outside the wiki:** if status or architecture notes here conflict with newer operating reality, use `~/My Brain/CURRENT_STATE.md` first.
 
@@ -36,7 +36,7 @@
 | [[wiki/concepts/README|concepts/]] | 35 | Frameworks, mental models, products, programs |
 | [[wiki/radar/README|radar/]] | 2 | Append-only changelogs for fast-moving topics |
 | [[wiki/summaries/README|summaries/]] | 21 | One structured summary per raw source |
-| [[wiki/meetings/README|meetings/]] | 78 | Meeting records + async threads — decisions and action items (+1 Run 53: [[wiki/meetings/2026-05-15-moil-marketing-team-reset]]) |
+| [[wiki/meetings/README|meetings/]] | 79 | Meeting records + async threads — decisions and action items (+1 Run 57: [[wiki/meetings/2026-05-18-monday-collaboration]]) |
 
 See also: [[wiki/meetings/historical-transcripts-index]] — raw transcripts not yet promoted to structured pages (24 transcripts catalogued, 7 previously-orphan meeting pages linked).
 
