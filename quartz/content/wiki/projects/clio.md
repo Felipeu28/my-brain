@@ -22,25 +22,20 @@ Bilingual voice-first kids AI companion with persistent memory ("brain graph"), 
 ## Last 7 days
 
 <!-- AUTO: bin/project-activity.sh updates this section daily. Do not edit by hand. -->
-_Updated: 2026-05-18 08:00 (window: 2026-05-11 → 2026-05-18)_
+_Updated: 2026-05-19 08:00 (window: 2026-05-12 → 2026-05-19)_
 
-**Commits (2):**
-- 2026-05-11 fix(brain/lint): make destructive removals opt-in + capped + logged (#84)
-- 2026-05-11 fix(landing): add Log in button + sign_up query param (#83)
-
-**Claude Code sessions (17):**
+**Claude Code sessions (10):**
 - 2026-05-01 — Let's create a new video about the parents side of clio, you can use browser, I
 - 2026-05-03 — Week 1 execution
-- 2026-05-04 — In ~/luna-brain/, there's a tracked but orphaned directory at `.claire/worktrees
-- 2026-05-04 — <scheduled-task name="clio-weekly-security-audit" file="/Users/jarvisurrego/.cla
 - 2026-05-06 — Phase 0 — Subtraction
-- 2026-05-08 — <command-message>gstack</command-message>
-- 2026-05-09 — **Active plan:** [`~/.gstack/projects/Felipeu28-Clio/ceo-plans/2026-05-08-clio-p
-- 2026-05-09 — <command-message>autoplan</command-message>
 - 2026-05-09 — Ship Phase 1 + start Phase 2–5
-- 2026-05-10 — Bilingual Claim Audit & Implementation Plan
-**Mentions in meetings + raw (4):**
-- [[wiki/meetings/2026-05-11-monday-collaboration]]
+- 2026-05-11 — <scheduled-task name="clio-weekly-security-audit" file="/Users/jarvisurrego/.cla
+- 2026-05-12 — Security Review
+- 2026-05-13 — Implementation plan — remaining items from family testing
+- 2026-05-15 — let's start a full audit of the quality of data we are ingesting and if its any
+- 2026-05-17 — Bilingual Claim Audit & Implementation Plan
+- 2026-05-17 — Help me find the document I got from the first office hours with gstack
+**Mentions in meetings + raw (3):**
 - [[wiki/meetings/2026-05-13-jordan-andres-1-1]]
 - [[raw/teams-transcript-jordan-andres-1-1-2026-05-13]]
 - [[raw/weekly-sessions-2026-05-17]]

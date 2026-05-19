@@ -8,8 +8,8 @@ tags:
 # John Costilla
 
 **Type:** person
-**Last updated:** 2026-05-15
-**Source:** [[raw/imessages-people-2026-04-09]], [[raw/email-history-2months-2026-04-12.md]], [[raw/email-digest-2026-04-15]], [[raw/email-digest-2026-04-16]], [[raw/email-digest-2026-04-27]], [[raw/email-digest-2026-04-28]], [[raw/email-digest-2026-04-29]], [[raw/email-digest-2026-05-01]], [[raw/email-digest-2026-05-13]], [[raw/email-digest-2026-05-14]], [[raw/email-digest-2026-05-15]]
+**Last updated:** 2026-05-18
+**Source:** [[raw/imessages-people-2026-04-09]], [[raw/email-history-2months-2026-04-12.md]], [[raw/email-digest-2026-04-15]], [[raw/email-digest-2026-04-16]], [[raw/email-digest-2026-04-27]], [[raw/email-digest-2026-04-28]], [[raw/email-digest-2026-04-29]], [[raw/email-digest-2026-05-01]], [[raw/email-digest-2026-05-13]], [[raw/email-digest-2026-05-14]], [[raw/email-digest-2026-05-15]], [[raw/email-digest-2026-05-18]]
 **Related:** [[wiki/moil/positioning]], [[wiki/orgs/buda-edc]], [[wiki/concepts/buda-hive]], [[wiki/people/joseph-arnke]]
 
 ---
@@ -74,6 +74,15 @@ Source: [[raw/email-digest-2026-05-14]]
 - **13:08 CDT — John replied on the *"Re: Mac Decision Brief"* thread asking *"You think we can do a contract for 3500?"*** — first explicit budget anchor on the EDC-funded Mac purchase. Implies $3,500 contract structure (not single-machine SKU); confirms John is the buyer-side counterparty and Andres is the spec-and-deliver side
 - **14:43 CDT — Andres ack** *"Just seeing this, yes sir! :-)"* — short confirm; **active pricing negotiation open** at $3,500. Watch for the formal SoW/contract draft as the next artifact in the thread
 - **14:02 CDT — Andres accepted *"John's Bday Lunch"* Teams invite** organized by John. Personal-channel touch on the same business day as the Mac contract pricing → continues the pattern from the May 1 *business-coach-95s* praise thread of John pulling Andres into both EDC-side commercial work and personal-friend-side moments in parallel
+
+## May 18 — Mac Decision Brief forwards + Astra Ribbon Cutting canceled
+
+Source: [[raw/email-digest-2026-05-18]]
+
+- **19:16 + 19:45 UTC — Andres double-forwarded the *"Mac Decision Brief"* thread** to John (both *FW:* and *Fw:* variants — likely separate threads/recipients for the same brief). Continues the active May 13 → May 15 contract-pricing thread; consulting-bundle alignment still the open variable
+- **02:21 UTC — Andres sent a *"Canceled: Astra Ribbon Cutting"* Teams meeting cancellation** to John. **First on-record cancellation of an Astra-named event** between the two. Worth noting: [[wiki/people/daniel-guadiano|Daniel Guadiano]] / Astra Restaurant has been on the deferred MEMORY list since Apr 22/23 unconfirmed slots. Whether this cancellation closes that thread or signals a separate event (Astra business / Astra Ribbon Cutting as an EDC-side ribbon-cutting attended by Andres + John) needs confirmation — most likely the latter given John's EDC role
+
+`last_contact: 2026-05-15 → 2026-05-18`
 
 ## May 15 — Mac Decision Brief: John asks for a call to align on the consulting piece
 

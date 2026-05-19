@@ -22,19 +22,20 @@ Anchor Moil 360 customer; first end-to-end delivery completed Apr 29 in an 88-mi
 ## Last 7 days
 
 <!-- AUTO: bin/project-activity.sh updates this section daily. Do not edit by hand. -->
-_Updated: 2026-05-18 08:00 (window: 2026-05-11 → 2026-05-18)_
+_Updated: 2026-05-19 08:00 (window: 2026-05-12 → 2026-05-19)_
 
 **Mentions in meetings + raw (7):**
-- [[wiki/meetings/2026-05-11-monday-collaboration]]
 - [[wiki/meetings/2026-05-12-travis-meridian-platform-handoff]]
 - [[wiki/meetings/2026-05-14-megan-taiwo-fitlogic-2fa-godaddy-session]]
 - [[wiki/meetings/2026-05-15-moil-marketing-team-reset]]
+- [[wiki/meetings/2026-05-18-monday-collaboration]]
+- [[raw/email-digest-2026-05-18]]
 - [[raw/teams-transcript-megan-andres-2026-05-14]]
 - [[raw/teams-transcript-moil-marketing-team-call-2026-05-15]]
-- [[raw/teams-transcript-monday-collaboration-2026-05-11]]
 
 ## Recent decisions
 
+- **2026-05-18** — **FitLogic CRM staging delivered to Megan** at `https://fitlogicrm.vercel.app/` ([[wiki/people/jacob-oluwole|Jacob]] sent the "Project Delivery for Review" email 18:47 UTC, directly to Megan). **Held against the May 18 Andres-directive to hold production push** — staging is for Megan/Michelle to play with before the Wed May 20 10 AM CT in-person walkthrough. Andres sent a Teams meeting invite *"Megan & Andres"* at 22:13 UTC same day (separate from the locked Wed May 20 in-person). Cross-ref: [[wiki/people/taiwo-ola-balogun|Taiwo]] testing whether the FitLogic email is accepting mail (forwarded *"Hi Fitlogic"* test thread 2026-05-17 03:19 UTC) — confirms deliverability check in progress. Source: [[raw/email-digest-2026-05-18]]
 - **2026-05-18** — Andres directive in Monday Collaboration opening (~01:00): **hold FitLogic production push until website rebuild is complete.** *"We're not going to push that out anytime soon until our website is completed by someone else."* Cross-ref to the open Electric Bricks redesign thread. Source: [[wiki/meetings/2026-05-18-monday-collaboration]]
 - **2026-05-14** — Two-domain architecture confirmed (`fitlogicfunctionalmedicine.com` patient / `myfitlogic.com` sales); GoDaddy account-level delegate granted to `Andres@moilapp.com`; security posture written down (no continued Moil access, rotate passwords post-deploy, 2FA on); in-person walkthrough locked **Wed May 20 10 AM CT at FitLogic**. Source: [[wiki/meetings/2026-05-14-megan-taiwo-fitlogic-2fa-godaddy-session]]
 - 2026-04-29 — Moil 360 full stack delivered (CRM + Campaigns + Content360); Michelle named as practice manager and platform operator; "owner trains a manager" pattern locked in. Source: [[wiki/meetings/2026-04-29-megan-fitlogic-crm-delivery]]

@@ -2,7 +2,7 @@
 tags:
   - graph/spoke
 status: active
-last_updated: 2026-05-03
+last_updated: 2026-05-18
 ---
 # Connectex
 
@@ -22,14 +22,16 @@ Closed Apr 9, 2026 with full upfront invoice (1 down + 3 quarterly over 9 months
 ## Last 7 days
 
 <!-- AUTO: bin/project-activity.sh updates this section daily. Do not edit by hand. -->
-_Updated: 2026-05-18 08:00 (window: 2026-05-11 → 2026-05-18)_
+_Updated: 2026-05-19 08:00 (window: 2026-05-12 → 2026-05-19)_
 
-**Mentions in meetings + raw (2):**
+**Mentions in meetings + raw (3):**
 - [[raw/email-digest-2026-05-11]]
 - [[raw/email-digest-2026-05-12]]
+- [[raw/email-digest-2026-05-18]]
 
 ## Recent decisions
 
+- **2026-05-18** — **ConnectEx CRM staging delivered to Mark** at `https://www.connectex.net/crm/login` ([[wiki/people/jacob-oluwole|Jacob]] sent the "Project Delivery for Review" email 18:31 UTC). Andres clarified to Mark same day (22:16 UTC) that **not all contacts loaded yet** — will load after testing — and proposed a **demo call Tuesday May 19** morning/afternoon. Mark responded same day (20:05 UTC) confirming **Thursday May 21 handover** is on the calendar; will jump into the staging link and send feedback first. Source: [[raw/email-digest-2026-05-18]]
 - 2026-04-28 — Mark Polanco walkthrough completed; go-live agreed for early next week pending Squarespace login. Source: [[wiki/meetings/2026-04-28-mark-polanco-connectex-walkthrough]]
 - 2026-04-09 — Deal closed; full upfront invoice (3-quarter payment) accepted to enable Buda EDC reimbursement timing. Source: [[wiki/moil/pipeline]]
 

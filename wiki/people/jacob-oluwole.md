@@ -9,7 +9,7 @@ tags:
 
 **Type:** person
 **Last updated:** 2026-05-18
-**Source:** `raw/meetings/` (multiple meeting transcripts), [[raw/email-history-2months-2026-04-12]], [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026), [[raw/teams-2026-04-24]] (39 messages 1:1, Apr 24), [[raw/email-digest-2026-04-27]], [[raw/teams-transcript-website-update-review-call-2026-04-28]], [[raw/email-digest-2026-05-11]], [[raw/email-digest-2026-05-12]], [[raw/email-digest-2026-05-13]], [[raw/email-digest-2026-05-14]], [[raw/signal-briefs/signal-brief-2026-05-14]], [[raw/teams-transcript-moil-marketing-team-call-2026-05-15]], [[raw/teams-transcript-monday-collaboration-2026-05-18]]
+**Source:** `raw/meetings/` (multiple meeting transcripts), [[raw/email-history-2months-2026-04-12]], [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026), [[raw/teams-2026-04-24]] (39 messages 1:1, Apr 24), [[raw/email-digest-2026-04-27]], [[raw/teams-transcript-website-update-review-call-2026-04-28]], [[raw/email-digest-2026-05-11]], [[raw/email-digest-2026-05-12]], [[raw/email-digest-2026-05-13]], [[raw/email-digest-2026-05-14]], [[raw/signal-briefs/signal-brief-2026-05-14]], [[raw/teams-transcript-moil-marketing-team-call-2026-05-15]], [[raw/teams-transcript-monday-collaboration-2026-05-18]], [[raw/email-digest-2026-05-18]]
 **Related:** [[wiki/moil/positioning]], [[wiki/people/adeleke-tolulope]], [[wiki/people/abiodun-solomon]], [[wiki/people/taiwo-ola-balogun]]
 
 ---
@@ -228,6 +228,22 @@ Source: [[raw/teams-transcript-moil-marketing-team-call-2026-05-15]], [[wiki/mee
 - **Same-day FitLogic probe.** Andres asked Jacob to locate Taiwo immediately after the call and report back why FitLogic delivery is overdue — only change required was one email address; due last week. Direct cross-ref to [[wiki/meetings/2026-05-14-megan-taiwo-fitlogic-2fa-godaddy-session|May 14 GoDaddy delegate session]] — Andres' frustration is the gap between the May 14 session closing the 2FA / domain blocker and the FitLogic feature delivery still being unshipped.
 - **Alloy access escalation.** Jacob to confirm whether Alloy granted Facebook access — no email from Facebook seen yet; Andres needs to post by Monday 2026-05-18 and committed to pulling existing Alloy images himself + working the weekend if access doesn't land today.
 - **Joint research-first deliverable with Ablad.** Strategy *from* the research (not a research dump). Andres review before any new content produced. **Side-conversation risk after Andres dropped:** Jacob proposed using Grok to identify peer AI companies — exactly the LLM-summary workflow Andres preempted on the call (*"Trust me, if anybody can tell you if it's ChatGPT, it'll be me"*). Watch the May 22 deliverable for depth signal vs. another Grok summary.
+
+## May 18, 2026 — Three staging deliveries shipped + FB business ID thread
+
+Source: [[raw/email-digest-2026-05-18]]
+
+Same day as the Monday Collaboration, Jacob shipped **three customer staging environments in 16 minutes** (18:31 → 18:47 UTC):
+
+- **18:31 UTC — ConnectEx CRM staging to [[wiki/people/mark-polanco|Mark Polanco]]** at `https://www.connectex.net/crm/login`
+- **18:36 UTC — Meridian Buda staging to [[wiki/people/travis-sutherland|Travis]]** at `https://meridian-buda.vercel.app/`
+- **18:47 UTC — FitLogic CRM staging to [[wiki/people/megan-miller|Megan]]** at `https://fitlogicrm.vercel.app/`
+
+Mark replied same-day (20:05 UTC) confirming Thursday May 21 handover. **First on-record same-day three-customer staging-delivery batch from Jacob** — directly implements the May 18 Monday Collaboration directive (ready everything for partner-side testing) within ~5 hours of the call. Pattern shift from the May 14 "FitLogic delivery overdue" Andres frustration → May 18 multi-project ship.
+
+**Open thread — FB business ID:** Jacob pushed back same-day at 21:48 UTC: *"You only sent this email to me, not Shanonn. Also, I didn't get the invite."* — flagged that the multi-party invite-routing failed (Jacob never received an invite either). Active operator on the Alloy ATX FB onboarding side; thread stalls until Shanonn returns May 19. Andres shared the **ALLOY ATX OneDrive folder with Jacob** same day (23:00 UTC) to give him access to debug from the brand-asset side.
+
+`last_contact: 2026-05-18` (carried)
 
 ## May 18, 2026 — Monday Collaboration (Andres-absent edition)
 

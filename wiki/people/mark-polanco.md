@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-05-15
+last_contact: 2026-05-18
 tags:
   - graph/spoke
   - person/customer
@@ -9,11 +9,21 @@ client: "[[wiki/orgs/connectex]]"
 # Mark Polanco
 
 **Type:** person
-**Last updated:** 2026-05-12
-**Source:** [[raw/imessages-people-2026-04-09]], [[raw/email-history-2months-2026-04-12]], [[raw/email-digest-2026-04-27]], [[raw/teams-transcript-mark-polanco-andres-2026-04-28]], [[raw/email-digest-2026-04-29]], [[raw/teams-transcript-monday-collaboration-2026-05-11]], [[raw/email-digest-2026-05-11]], [[raw/email-digest-2026-05-12]]
+**Last updated:** 2026-05-18
+**Source:** [[raw/imessages-people-2026-04-09]], [[raw/email-history-2months-2026-04-12]], [[raw/email-digest-2026-04-27]], [[raw/teams-transcript-mark-polanco-andres-2026-04-28]], [[raw/email-digest-2026-04-29]], [[raw/teams-transcript-monday-collaboration-2026-05-11]], [[raw/email-digest-2026-05-11]], [[raw/email-digest-2026-05-12]], [[raw/email-digest-2026-05-18]]
 **Related:** [[wiki/orgs/connectex]], [[wiki/moil/customers]], [[wiki/moil/pipeline]], [[wiki/meetings/2026-04-28-mark-polanco-connectex-walkthrough]], [[wiki/meetings/2026-05-11-monday-collaboration]]
 
 ---
+
+## 2026-05-18 — ConnectEx CRM staging delivered + Thursday handover locked
+
+Source: [[raw/email-digest-2026-05-18]]
+
+[[wiki/people/jacob-oluwole|Jacob]] delivered the ConnectEx CRM staging environment to Mark at `https://www.connectex.net/crm/login` (18:31 UTC). Mark replied same day at 20:05 UTC: *"Will jump into the staging link and send feedback; looking forward to handover Thursday."* **Thursday May 21 handover is on the calendar.**
+
+Andres replied 22:16 UTC clarifying: *"Not all contacts loaded yet — will load after testing."* Proposed a **demo call Tuesday May 19** morning/afternoon. Mark continues the active-customer pattern from May 11 (Squarespace troubleshooting) — proactive engagement on staging review without prompting. Pairs with the Monday Collaboration May 18 directive (Andres absent, three project deliveries shipped same-day to Mark / Megan / Travis).
+
+`last_contact: 2026-05-12 → 2026-05-18`
 
 ## 2026-05-11 update — First Connectex payment expected next week
 

@@ -9,7 +9,7 @@ tags:
 
 **Type:** person
 **Last updated:** 2026-05-18
-**Source:** `raw/meetings/` (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026), [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/teams-2026-04-24]] (9 messages 1:1, Apr 24), [[raw/teams-2026-04-26]] (4 messages 1:1, Apr 26), [[raw/teams-transcript-website-update-review-call-2026-04-28]], [[raw/teams-transcript-mark-polanco-andres-2026-04-28]], [[raw/teams-transcript-monday-collaboration-2026-05-04]], [[raw/teams-transcript-meeting-to-go-over-ongoing-projects-2026-05-06]], [[raw/teams-transcript-megan-andres-2026-05-14]], [[raw/teams-transcript-monday-collaboration-2026-05-18]]
+**Source:** `raw/meetings/` (multiple meeting transcripts), [[raw/teams-2026-04-12]] (415 messages, Apr 5–12 2026), [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-2026-04-15]] (84 messages, Apr 14–15 2026), [[raw/teams-2026-04-18]] (51 messages, Apr 17–18 2026), [[raw/teams-2026-04-20]] (36 messages, Apr 19–20 2026), [[raw/teams-2026-04-21]] (161 messages, Apr 20–21 2026), [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/teams-2026-04-24]] (9 messages 1:1, Apr 24), [[raw/teams-2026-04-26]] (4 messages 1:1, Apr 26), [[raw/teams-transcript-website-update-review-call-2026-04-28]], [[raw/teams-transcript-mark-polanco-andres-2026-04-28]], [[raw/teams-transcript-monday-collaboration-2026-05-04]], [[raw/teams-transcript-meeting-to-go-over-ongoing-projects-2026-05-06]], [[raw/teams-transcript-megan-andres-2026-05-14]], [[raw/teams-transcript-monday-collaboration-2026-05-18]], [[raw/email-digest-2026-05-18]]
 **Related:** [[wiki/people/adeleke-tolulope]], [[wiki/people/jacob-oluwole]], [[wiki/moil/product-roadmap]], [[wiki/meetings/2026-04-23-megan-crm-google-setup]], [[wiki/meetings/2026-05-06-andres-taiwo-ongoing-projects]], [[wiki/meetings/2026-05-14-megan-taiwo-fitlogic-2fa-godaddy-session]]
 
 ---
@@ -220,6 +220,12 @@ Source: [[raw/teams-transcript-megan-andres-2026-05-14]], [[wiki/meetings/2026-0
 - **Meridian setup blocker surfaced post-Megan-drop.** Same evening Taiwo also handling Meridian setup. Verification code was sent to **`Travis@zoho.com`** and the mailbox appears empty / not received. Plan: re-run the request, ping Andres, Andres asks [[wiki/people/travis-sutherland|Travis]] for the code. Pattern: Taiwo stays on after the customer drops to surface secondary blockers rather than emailing them later
 - **GitHub accounts ready (per Taiwo at end of call):** *"Yes, sir, yes, sir, everything is ready, so I will get this evening… on the GitHub accounts, yeah, I'm able to set everything up."* Closes the May 11 Monday Collaboration commitment on GitHub access migration to the new Moil sales email
 - **Pace signal: no time-zone friction.** Took the late-evening Nigeria session voluntarily; no recurrence of the Apr 18 "2 AM my time" boundary
+
+## May 17–18, 2026 — FitLogic email deliverability test (proactive)
+
+Source: [[raw/email-digest-2026-05-18]]
+
+Taiwo forwarded a *"Fw: Hi Fitlogic"* email to Andres on **2026-05-17 03:19 UTC** with note: *"Test email to confirm fitlogic email isn't accepting mail."* Andres replied **2026-05-18 02:22 UTC**: *"They can't receive email?"* — first time Taiwo has surfaced a proactive deliverability check on a customer's inbound mail (not just outbound). Pairs with the May 14 GoDaddy delegate session — the `myfitlogic.com` outbound is wired, but the `fitlogicfunctionalmedicine.com` patient-side inbox may have a separate deliverability issue. Worth tracking whether this resolves before the **Wed May 20 10 AM CT in-person walkthrough**.
 
 ## May 18, 2026 — Monday Collaboration light-touch (testing-account credential commitment)
 

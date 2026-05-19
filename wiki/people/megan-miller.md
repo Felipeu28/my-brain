@@ -3,14 +3,14 @@ tags:
   - graph/hub
   - person/customer
 status: active
-last_contact: 2026-05-15
+last_contact: 2026-05-19
 client: "[[wiki/orgs/fitlogic]]"
 ---
 # Megan Miller
 
 **Type:** person
-**Last updated:** 2026-05-15
-**Source:** [[raw/imessages-people-2026-04-09]], [[raw/email-history-6months-2026-04-14]], [[raw/teams-transcript-megan-miller-2026-04-21]], [[raw/teams-2026-04-21]], [[raw/email-digest-2026-04-20]], [[raw/email-digest-2026-04-21]], [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/email-digest-2026-04-22]], [[raw/teams-transcript-megan-moil-crm-test-and-delivery-2026-04-29]], [[raw/teams-transcript-meeting-to-go-over-ongoing-projects-2026-05-06]], [[raw/teams-transcript-megan-andres-2026-05-07]], [[raw/signal-briefs/signal-brief-2026-05-06]], [[raw/email-digest-2026-05-07]], [[raw/signal-briefs/signal-brief-2026-05-07]], [[raw/teams-transcript-megan-andres-2026-05-14]], [[raw/email-digest-2026-05-15]]
+**Last updated:** 2026-05-18
+**Source:** [[raw/imessages-people-2026-04-09]], [[raw/email-history-6months-2026-04-14]], [[raw/teams-transcript-megan-miller-2026-04-21]], [[raw/teams-2026-04-21]], [[raw/email-digest-2026-04-20]], [[raw/email-digest-2026-04-21]], [[raw/teams-transcript-CRM-GOOGLE-Setup-with-Megan-2026-04-23]], [[raw/email-digest-2026-04-22]], [[raw/teams-transcript-megan-moil-crm-test-and-delivery-2026-04-29]], [[raw/teams-transcript-meeting-to-go-over-ongoing-projects-2026-05-06]], [[raw/teams-transcript-megan-andres-2026-05-07]], [[raw/signal-briefs/signal-brief-2026-05-06]], [[raw/email-digest-2026-05-07]], [[raw/signal-briefs/signal-brief-2026-05-07]], [[raw/teams-transcript-megan-andres-2026-05-14]], [[raw/email-digest-2026-05-15]], [[raw/email-digest-2026-05-18]]
 **Related:** [[wiki/orgs/fitlogic]], [[wiki/moil/customers]], [[wiki/moil/gtm]], [[wiki/concepts/smart-hiring]], [[wiki/concepts/moil360]], [[wiki/people/michelle-fitlogic]], [[wiki/meetings/2026-04-21-megan-fitlogic-working-session]], [[wiki/meetings/2026-04-23-megan-crm-google-setup]], [[wiki/meetings/2026-04-29-megan-fitlogic-crm-delivery]], [[wiki/meetings/2026-05-06-andres-taiwo-ongoing-projects]], [[wiki/meetings/2026-05-07-megan-andres-fitlogic-crm-handoff]], [[wiki/meetings/2026-05-14-megan-taiwo-fitlogic-2fa-godaddy-session]]
 
 ---
@@ -238,6 +238,16 @@ Working session with Andres + Taiwo to finalize the May 7 Cloudflare-workaround 
 - 2026-05-20 10–11 AM (Andres + Megan in-person at FitLogic): walkthrough + fixes
 
 `last_contact: 2026-05-11 → 2026-05-14`
+
+## May 18, 2026 — FitLogic CRM staging delivered + new Teams invite sent
+
+Source: [[raw/email-digest-2026-05-18]]
+
+[[wiki/people/jacob-oluwole|Jacob]] delivered the **FitLogic CRM staging environment to Megan** at `https://fitlogicrm.vercel.app/` (18:47 UTC, "Project Delivery for Review" email sent directly to `meganmillernp@gmail.com`). This stages the system Megan + Michelle will play with Mon May 18 / Tue May 19 before the **Wed May 20 10 AM CT in-person walkthrough at FitLogic** locked May 14. Andres also sent a new Teams meeting invite *"Megan & Andres"* same day at 22:13 UTC.
+
+Cross-ref: **Andres' May 18 Monday Collaboration directive holds FitLogic production push** until website rebuild is complete by someone else. Staging delivery doesn't violate the directive — staging is the test surface, prod push is held.
+
+`last_contact: 2026-05-15 → 2026-05-18`
 
 ## May 15, 2026 — May 20 in-person accept (calendar-locked)
 

@@ -22,19 +22,21 @@ Closed Apr 9, 2026. Full custom ticketed-events platform — Stripe payments, or
 ## Last 7 days
 
 <!-- AUTO: bin/project-activity.sh updates this section daily. Do not edit by hand. -->
-_Updated: 2026-05-18 08:00 (window: 2026-05-11 → 2026-05-18)_
+_Updated: 2026-05-19 08:00 (window: 2026-05-12 → 2026-05-19)_
 
-**Mentions in meetings + raw (7):**
+**Mentions in meetings + raw (9):**
 - [[wiki/meetings/2026-05-12-carolina-coaching]]
 - [[wiki/meetings/2026-05-12-travis-meridian-platform-handoff]]
 - [[wiki/meetings/2026-05-14-megan-taiwo-fitlogic-2fa-godaddy-session]]
 - [[wiki/meetings/2026-05-15-moil-marketing-team-reset]]
+- [[wiki/meetings/2026-05-18-monday-collaboration]]
 - [[raw/email-digest-2026-05-11]]
 - [[raw/email-digest-2026-05-15]]
-- [[raw/teams-transcript-travis-andres-2026-05-12]]
+- [[raw/email-digest-2026-05-18]]
 
 ## Recent decisions
 
+- **2026-05-18** — **Meridian Buda staging delivered to Travis** at `https://meridian-buda.vercel.app/` ([[wiki/people/jacob-oluwole|Jacob]] sent the "Project Delivery for Review" email 18:36 UTC, directly to Travis). Pairs with the same-day Andres directive: ready + internal test, partner triggers push. Source: [[raw/email-digest-2026-05-18]]
 - **2026-05-18** — Andres directive in Monday Collaboration opening: **ready Meridian + internal testing; partner ([[wiki/people/travis-sutherland|Travis]]) triggers push when comfortable.** *"We need to have it ready, we need to test it, and then he'll be able to push whenever he's ready and feels good about the testing."* Push timing is partner-side. Pairs with [[wiki/people/taiwo-ola-balogun|Taiwo]]'s May 14 Travis@zoho.com verification-code re-request item. Source: [[wiki/meetings/2026-05-18-monday-collaboration]]
 - 2026-04-13 — Monday collaboration sync; build cadence confirmed. Source: [[raw/teams-transcript-monday-collaboration-2026-04-13]]
 - 2026-04-09 — Deal closed; Travis announced internally same week as Connectex + Zoiwell renewal. Source: [[wiki/moil/pipeline]]

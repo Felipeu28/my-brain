@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-05-15
+last_contact: 2026-05-18
 tags:
   - graph/spoke
   - person/customer
@@ -9,8 +9,8 @@ client: "[[wiki/orgs/alloy-atx]]"
 # Roxana Yglesias
 
 **Type:** person
-**Last updated:** 2026-05-15
-**Source:** [[raw/email-history-2months-2026-04-12]], [[raw/teams-transcript-roxana-andres-2026-04-14]], [[raw/email-digest-2026-04-21]], [[raw/email-digest-2026-04-23]], [[raw/email-digest-2026-05-15]]
+**Last updated:** 2026-05-18
+**Source:** [[raw/email-history-2months-2026-04-12]], [[raw/teams-transcript-roxana-andres-2026-04-14]], [[raw/email-digest-2026-04-21]], [[raw/email-digest-2026-04-23]], [[raw/email-digest-2026-05-15]], [[raw/email-digest-2026-05-18]]
 **Related:** [[wiki/orgs/alloy-atx]], [[wiki/moil/customers]], [[wiki/moil/pipeline]]
 
 ---
@@ -48,6 +48,19 @@ Roxana has contacts in the wellness space who could become additional Moil custo
 - Gut health coaches
 - Stem cell / regenerative medicine contacts in Colombia
 - Mexican fitness community (potential Spanish-language content/landing pages)
+
+## May 18, 2026 — Moil Facebook business ID thread stalled (multi-party, OOO-blocked)
+
+Source: [[raw/email-digest-2026-05-18]]
+
+Continuation of the May 15 *"Moil Facebook business ID"* thread. **Andres still cannot see both accounts** despite the May 15 onboarding flow. Multi-party state:
+
+- **2026-05-18 03:58 UTC — Andres to Jacob (FW):** *"Let's please check this first thing in the am; if not I need to email back and find out what we need to fix."*
+- **2026-05-18 19:12 + 22:15 UTC — Andres to Shanonn, Roxana, Jacob:** *"Could we please verify where the invite was sent? Still unable to see both accounts."*
+- **2026-05-18 21:48 UTC — Jacob's pushback:** *"You only sent this email to me, not Shanonn. Also, I didn't get the invite."* — Jacob never received an invite either; thread routing was incomplete
+- **2026-05-18 22:19 UTC — [[wiki/orgs/alloy-atx#shanonn-thompson|Shanonn Thompson]] auto-reply: OOO Thu May 14 → Mon May 18; back Tue May 19**, limited email access until then
+
+**Resolution path:** Stalled until Tuesday May 19 when Shanonn returns. Continue the *active customer-operator partner* read — Roxana drove the onboarding ask on May 15, but the invite-routing/account-access debugging is going through Shanonn (Alloy ATX staff handling FB account access). **First time a Moil-side onboarding has been gated by a customer-staff OOO window.**
 
 ## May 15, 2026 — Facebook Business Suite onboarding (two-gym Meta integration)
 

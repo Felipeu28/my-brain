@@ -1,6 +1,6 @@
 ---
 status: active
-last_contact: 2026-05-14
+last_contact: 2026-05-18
 tags:
   - graph/hub
   - person/customer
@@ -11,8 +11,8 @@ client:
 # Travis Sutherland
 
 **Type:** person
-**Last updated:** 2026-05-12
-**Source:** [[raw/imessages-people-2026-04-09]], [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-transcript-travis-andres-2026-05-12]], [[raw/email-digest-2026-05-12]], [[raw/signal-briefs/signal-brief-2026-05-12]], [[raw/email-digest-2026-05-13]]
+**Last updated:** 2026-05-18
+**Source:** [[raw/imessages-people-2026-04-09]], [[raw/teams-transcript-monday-collaboration-2026-04-13]], [[raw/teams-transcript-travis-andres-2026-05-12]], [[raw/email-digest-2026-05-12]], [[raw/signal-briefs/signal-brief-2026-05-12]], [[raw/email-digest-2026-05-13]], [[raw/email-digest-2026-05-18]]
 **Related:** [[wiki/orgs/zoiwell]], [[wiki/orgs/meridian-buda]], [[wiki/moil/customers]], [[wiki/moil/active-projects]], [[wiki/meetings/2026-05-12-travis-meridian-platform-handoff]]
 
 ---
@@ -58,6 +58,16 @@ Monthly community event promoting one downtown + one non-downtown business. Trav
 - [[wiki/people/taiwo-ola-balogun]] — engineer on the Meridian platform
 - [[wiki/meetings/2026-04-13-monday-collaboration]] — latest context
 - [[wiki/meetings/2026-05-12-travis-meridian-platform-handoff]] — May 12 product walkthrough + credential transfer
+
+## 2026-05-18 — Meridian Buda staging delivered for partner-side review
+
+Source: [[raw/email-digest-2026-05-18]]
+
+[[wiki/people/jacob-oluwole|Jacob]] delivered the **Meridian Buda staging environment to Travis** at `https://meridian-buda.vercel.app/` (18:36 UTC, "Project Delivery for Review" email sent directly). Pairs with Andres' same-day Monday Collaboration directive: ready Meridian + internal test, **Travis triggers the push when comfortable** with testing. Push timing is partner-side per the May 12 platform handoff workflow (*"I'll send you the update with a couple of images first. Once you say 'I love that one, push it,' I'll push."*).
+
+Open thread continues: [[wiki/people/taiwo-ola-balogun|Taiwo]]'s May 14 Travis@zoho.com verification-code re-request was the next operational dependency.
+
+`last_contact: 2026-05-13 → 2026-05-18`
 
 ## 2026-05-12 — Meridian platform handoff + credential transfer
 

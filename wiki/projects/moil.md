@@ -21,26 +21,26 @@ Moil is shipping into a stack of 12+ Tier 1 paying clients with first end-to-end
 ## Last 7 days
 
 <!-- AUTO: bin/project-activity.sh updates this section daily. Do not edit by hand. -->
-_Updated: 2026-05-18 08:00 (window: 2026-05-11 → 2026-05-18)_
+_Updated: 2026-05-19 08:00 (window: 2026-05-12 → 2026-05-19)_
 
-**Claude Code sessions (68):**
-- 2026-04-14 — Brain System Audit
-- 2026-05-03 — Pull today's Microsoft Teams meeting transcripts and add them to the Brain.
-- 2026-05-03 — You are Andres's plan radar. Every day at noon you scan recent Brain activity an
-- 2026-05-04 — Generate Moil's 4-week rolling content calendar. Execute these steps:
-- 2026-05-04 — Pull today's Microsoft Teams meeting transcripts and add them to the Brain.
-- 2026-05-04 — Read these two JSON files of today's email activity and create a structured Brai
-- 2026-05-04 — Run the morning briefing. Execute these steps:
-- 2026-05-04 — You are Andres's plan radar. Every day at noon you scan recent Brain activity an
-- 2026-05-04 — You are Andres's strategy operator. Every Sunday evening you synthesize a week o
-- 2026-05-04 — You are Andres Urrego's editor. Every evening you distill his X bookmarks from t
-**Mentions in meetings + raw (20):**
-- [[wiki/meetings/2026-05-11-monday-collaboration]]
+**Claude Code sessions (34):**
+- 2026-05-10 — Pull today's Microsoft Teams meeting transcripts and add them to the Brain.
+- 2026-05-10 — You are Andres's plan radar. Every day at noon you scan recent Brain activity an
+- 2026-05-11 — Generate Moil's 4-week rolling content calendar. Execute these steps:
+- 2026-05-11 — Pull today's Microsoft Teams meeting transcripts and add them to the Brain.
+- 2026-05-11 — Read these two JSON files of today's email activity and create a structured Brai
+- 2026-05-11 — Run the morning briefing. Execute these steps:
+- 2026-05-11 — You are Andres's plan radar. Every day at noon you scan recent Brain activity an
+- 2026-05-12 — <command-message>office-hours</command-message>
+- 2026-05-12 — Let'sfix all issues:
+- 2026-05-12 — Pull today's Microsoft Teams meeting transcripts and add them to the Brain.
+**Mentions in meetings + raw (21):**
 - [[wiki/meetings/2026-05-12-carolina-coaching]]
 - [[wiki/meetings/2026-05-12-travis-meridian-platform-handoff]]
 - [[wiki/meetings/2026-05-13-jordan-andres-1-1]]
 - [[wiki/meetings/2026-05-14-megan-taiwo-fitlogic-2fa-godaddy-session]]
 - [[wiki/meetings/2026-05-15-moil-marketing-team-reset]]
+- [[wiki/meetings/2026-05-18-monday-collaboration]]
 - [[raw/brain-guide]]
 - [[raw/email-digest-2026-05-11]]
 

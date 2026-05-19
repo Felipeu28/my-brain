@@ -4,6 +4,50 @@ This file tracks every source that has been processed by `/kb compile`. Claude C
 
 ---
 
+## 2026-05-19 — Run 58: email-digest-2026-05-18
+
+**Trigger:** KB-agent scan for unprocessed raw files. One found: `quartz/content/raw/email-digest-2026-05-18.md` (daily email digest for 2026-05-18, 53 lines).
+
+**Files processed (1):**
+- `quartz/content/raw/email-digest-2026-05-18.md` — frontmatter marked `ingested: true` / `ingested_at: 2026-05-19`
+
+**Pages created (0):** Pure-update run — no new wiki pages needed; all entities (Jacob, Mark, Travis, Megan, John, Roxana, Shanonn, Taiwo, Casey, AlloyATX, ConnectEx, Meridian, FitLogic) already exist.
+
+**Pages updated (10):**
+- [[wiki/projects/connectex]] — added 2026-05-18 staging delivery decision (ConnectEx CRM live at connectex.net/crm/login; Mark confirmed Thursday May 21 handover; Andres proposed Tuesday May 19 demo call). `last_updated: 2026-05-03 → 2026-05-18`
+- [[wiki/projects/fitlogic]] — added 2026-05-18 FitLogic CRM staging delivery (fitlogicrm.vercel.app to Megan); Andres also sent new Teams *"Megan & Andres"* invite; cross-ref to held-prod-push directive
+- [[wiki/projects/meridian-buda]] — added 2026-05-18 Meridian Buda staging delivery (meridian-buda.vercel.app to Travis); pairs with same-day Andres directive
+- [[wiki/people/mark-polanco]] — added 2026-05-18 ConnectEx CRM staging delivery section: same-day reply ("looking forward to handover Thursday"); Andres clarification on contacts loading + Tuesday demo proposal. `last_contact: 2026-05-12 → 2026-05-18`
+- [[wiki/people/megan-miller]] — added 2026-05-18 FitLogic CRM staging + new Teams invite section. `last_contact: 2026-05-15 → 2026-05-18`
+- [[wiki/people/travis-sutherland]] — added 2026-05-18 Meridian staging delivery section; partner-side push trigger restated. `last_contact: 2026-05-13 → 2026-05-18`
+- [[wiki/people/john-costilla]] — added 2026-05-18 Mac Decision Brief double-forward (19:16 + 19:45 UTC) + Astra Ribbon Cutting cancellation (02:21 UTC). `last_contact: 2026-05-15 → 2026-05-18`
+- [[wiki/people/roxana-yglesias]] — added 2026-05-18 FB business ID stall section: multi-party thread, Andres still can't see both accounts, Jacob didn't get invite either, Shanonn OOO until May 19. **First on-record Moil onboarding gated by customer-staff OOO.** `last_contact: 2026-05-15 → 2026-05-18`
+- [[wiki/orgs/alloy-atx]] — added timeline entries May 15 + May 18; new section *"2026-05-18 — Moil Facebook business ID thread stalled"*; new section *"2026-05-18 — ALLOY ATX OneDrive folder shared with Jacob"*. Shanonn Thompson now tracked with placeholder (two touchpoints — promote on third). `last_contact: 2026-04-20 → 2026-05-18`
+- [[wiki/people/jacob-oluwole]] — added 2026-05-18 *"Three staging deliveries shipped + FB business ID thread"* section: 16-minute batch ship (Mark/Travis/Megan), customer ack from Mark, FB invite-routing pushback at 21:48 UTC, ALLOY ATX folder access
+- [[wiki/people/taiwo-ola-balogun]] — added 2026-05-17 → 18 FitLogic inbound deliverability test section (proactive *"Hi Fitlogic"* forward)
+
+**Pages updated (operational):**
+- [[MEMORY]] — added "🔥 May 18 — Three customer staging deliveries shipped + FB business ID stalled" block with 7 new items (Mark Tuesday demo + Thursday handover, Megan + Michelle Mon-Tue testing, Travis partner-side push, Shanonn return Tuesday escalation, Jacob ALLOY ATX folder watch, John Mac Decision Brief one-pager prep + Astra cancel scope confirm, Taiwo inbound deliverability watch). Top-of-file headline bumped to Run 58. Demoted the May 4 Monday Collaboration cost-discipline block (8 items, 15d stale) to "Carried debts demoted" — all items individually tracked on adeleke/taiwo/andres pillar pages. Compressed two of the new May 18 watch items into condensed dual-purpose lines for line-budget discipline. **MEMORY at 199/200 cap** ✅
+- [[index]] — Run 58 header replacing Run 57; Run 57 demoted to "Previous run header"; raw count 630 → 631 (+1 marked ingested); total wiki pages unchanged at 322 (pure updates, no new pages)
+
+**Skipped:** None — only one new raw file in this scan.
+
+**Key intelligence (Run 58):**
+
+1. **Three customer staging deliveries shipped same-day in 16 minutes.** Jacob shipped ConnectEx CRM (Mark, 18:31 UTC), Meridian Buda (Travis, 18:36 UTC), and FitLogic CRM (Megan, 18:47 UTC) — directly implements the May 18 Monday Collaboration directives within ~5 hours of the call. Pattern shift from May 14 "FitLogic delivery overdue" frustration → May 18 multi-project ship. **First on-record same-day three-customer staging-delivery batch from Jacob.**
+
+2. **Mark Polanco confirms Thursday May 21 handover same-day** (20:05 UTC reply). Andres clarified contacts-not-fully-loaded + proposed Tuesday May 19 demo call. Active-customer pattern from May 11 (Squarespace troubleshooting) continues — proactive engagement on staging review without prompting.
+
+3. **First on-record Moil onboarding gated by customer-staff OOO.** Moil FB business ID thread (multi-party w/ Shanonn / Jacob / Roxana) stalled three ways simultaneously: (a) Andres can't see both accounts, (b) Jacob never received an invite, (c) Shanonn (Alloy ATX staff handling FB account access) OOO May 14–18 returning May 19. **New pattern signal for HIVE Cohort / customer-onboarding cadence** — staff-OOO is now a tracked failure mode.
+
+4. **Andres → John consulting-piece pressure rising.** John double-forwarded the Mac Decision Brief on May 18 (19:16 + 19:45 UTC), implying urgency on the May 15 *"let's talk … align on consulting piece"* call ask. Andres needs the one-pager SoW (hardware + bundled consulting hours) before the call, not verbal scope. $3,500 contract structure already ack'd May 14.
+
+5. **Astra Ribbon Cutting canceled May 18 02:21 UTC** (Andres canceled, organized by/with John). First on-record cancellation of an Astra-named event. Likely a separate EDC-side ribbon-cutting (not [[wiki/people/daniel-guadiano|Daniel Guadiano]]'s Astra Restaurant) given John's EDC role; worth confirming when next Astra-context surfaces.
+
+6. **Taiwo proactively testing inbound deliverability** — forwarded *"Hi Fitlogic"* test thread May 17 03:19 UTC to verify `fitlogicfunctionalmedicine.com` inbox is accepting mail. First time Taiwo has surfaced an inbound deliverability check (not just outbound). Pairs w/ May 14 outbound watch + May 6 Resend silent-failover known issue. Confirm resolution before Wed May 20 in-person FitLogic walkthrough.
+
+---
+
 ## 2026-05-18 — Run 57: teams-transcript-monday-collaboration-2026-05-18
 
 **Trigger:** KB-agent scan for unprocessed raw files. One found: `raw/teams-transcript-monday-collaboration-2026-05-18.md` (~1h 52m of Teams transcript captured via Microsoft Graph; 1,663 lines). All other "not ingested" files in `raw/` and `raw/onedrive-transcripts/` are pre-frontmatter-convention files already processed in prior runs (Runs 2, 11, 28, 53) — confirmed by log.md cross-reference.

@@ -5,14 +5,14 @@ owner:
   - '[[wiki/people/oscar-esquivel]]'
   - '[[wiki/people/roxana-yglesias]]'
 status: active
-last_contact: 2026-04-20
+last_contact: 2026-05-18
 github_repo: Moil-Landingpages/alloy-atx
 ---
 # AlloyATX
 
 **Type:** organization
-**Last updated:** 2026-04-22
-**Source:** [[raw/teams-2026-04-12]], [[raw/email-history-2months-2026-04-12]], [[raw/teams-transcript-roxana-andres-2026-04-14]], [[raw/email-digest-2026-04-21]]
+**Last updated:** 2026-05-18
+**Source:** [[raw/teams-2026-04-12]], [[raw/email-history-2months-2026-04-12]], [[raw/teams-transcript-roxana-andres-2026-04-14]], [[raw/email-digest-2026-04-21]], [[raw/email-digest-2026-05-15]], [[raw/email-digest-2026-05-18]]
 **Related:** [[wiki/people/oscar-esquivel]], [[wiki/people/roxana-yglesias]], [[wiki/people/daniel-mann]], [[wiki/moil/customers]], [[wiki/moil/pipeline]]
 
 ---
@@ -60,6 +60,25 @@ AlloyATX is a fitness/wellness business operating across Lakeline, Round Rock, a
 - **Apr 20: 💰 First Stripe payment — $75 for Moil Enterprise subscription** (r.yglesias@alloyatx.com). Deal is live-billing.
 - **May 4: Activation-handoff window** — Oscar 3-thread day (ChatGPT-drafted business plan + 6-doc strategy package for evaluation); Roxana onboarding push (2 Teams invites + 21-question nudge). Same operational phase where FitLogic produced its P0 bug list. See [[raw/signal-briefs/signal-brief-2026-05-04]].
 - **May 5:** Quiet on the Alloy thread — no Oscar/Roxana inbound or outbound captured in the [[raw/email-digest-2026-05-05|May 5 digest]]. The activation-handoff window remains open; this is the *"watch for drift"* day Andres flagged on May 4.
+- **May 15:** Two-gym Meta Business Suite onboarding begins — Roxana asks how staff get the invite, Shanonn Thompson (`shanonn@teamalloy.com`) responds. See [[raw/email-digest-2026-05-15]].
+- **May 18:** Moil Facebook business ID thread stalls — Andres still unable to see both accounts, Jacob never received the invite, Shanonn OOO until Tue May 19. **Resolution gated on Shanonn's return.** Same day, Andres shared the **ALLOY ATX OneDrive folder with [[wiki/people/jacob-oluwole|Jacob]]** (23:00 UTC) — likely supporting the FB business ID work + onboarding the team to Alloy's brand assets. See [[raw/email-digest-2026-05-18]].
+
+## 2026-05-18 — Moil Facebook business ID thread stalled
+
+Source: [[raw/email-digest-2026-05-18]]
+
+Multi-party access debugging on the FB business ID. Surfaces a **first-time-on-record pattern:** Moil-side onboarding gated by **customer-staff OOO window**. See [[wiki/people/roxana-yglesias#May 18, 2026|Roxana's May 18 entry]] for the full thread trace.
+
+**New external contact (still placeholder, single org touch — promote when warranted):**
+- **Shanonn Thompson** (`shanonn@teamalloy.com`) — likely AlloyATX staff (front desk / ops) handling FB account access. Surfaced May 15, OOO May 14–18 returning May 19. Pattern signal: she's the actual operator for FB-side plumbing, not Roxana. Worth a standalone wiki page if she surfaces a third time.
+
+<!-- shanonn-thompson placeholder: not yet promoted to wiki/people/ — two touchpoints as of 2026-05-18 -->
+
+## 2026-05-18 — ALLOY ATX OneDrive folder shared with Jacob
+
+Source: [[raw/email-digest-2026-05-18]]
+
+Andres shared the **ALLOY ATX** OneDrive folder with [[wiki/people/jacob-oluwole|Jacob]] at 23:00 UTC. First documented internal asset-share for AlloyATX. Pairs same-day with the stalled FB business ID thread — likely supporting Jacob's access to brand assets needed to debug the FB onboarding from the Moil side.
 
 ## Open Items
 
