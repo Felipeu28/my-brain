@@ -28,3 +28,10 @@ scripts/.teams_config.json
 # Private iMessage pulls (local-only, never deployed)
 raw/private/
 raw/private-*
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
